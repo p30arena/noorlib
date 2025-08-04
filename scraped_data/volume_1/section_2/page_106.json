@@ -1,0 +1,81 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 106,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166577,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2609\"><page number=\"106\"/>[161] </p>"
+        },
+        {
+          "paragraphId": 714166578,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2610\"><format class=\"hadith\" who=\"6\" Id=\"159\" RevayatIndex=\"159\"><format class=\"sanadHadith\">و قال عليه السّلام، قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«إذا صلّيت المغرب، فقل: بسم الله الرّحمن الرّحيم، لا حول و لا قوّة إلّا بالله العليّ‌<lfootnote noteId=\"750\">1</lfootnote> العظيم سبع مرّات، فإنّه من قالها لم يصبه جنون، و لا جذام، و لا برص، و لا سبعون<lfootnote noteId=\"751\">2</lfootnote> نوعا من أنواع البلاء»<lfootnote noteId=\"752\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166579,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2611\">[162] </p>"
+        },
+        {
+          "paragraphId": 714166580,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2612\"><format class=\"hadith\" who=\"5\" Id=\"160\" RevayatIndex=\"160\"><format class=\"sanadHadith\">و روى أبو حمزة الثمالي<lfootnote noteId=\"753\">4</lfootnote> عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format> أنّه قال: </format>«ما أبالي<lfootnote noteId=\"754\">5</lfootnote> لو اجتمع عليّ الجنّ و الإنس إذا قلت: إنّ ربّي الله لا إله إلّا هو، عليه توكّلت، و هو ربّ العرش العظيم، حسبي الله، ما شاء الله كان، و ما لم يشأ لم يكن، أشهد أنّ الله على كلّ شيء قدير، و أنّ الله قد أحاط بكلّ شيء علما، اللّهمّ إنّي أعوذ بك من شرّ <page number=\"107\"/> كلّ دابّة أنت آخذ بناصيتها إنّ ربّي على صراط مستقيم»<lfootnote noteId=\"755\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168780,
+          "text": "<footnote id=\"749\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و ورد في مصادر كثيرة: تداوي الحمّى بالدعاء <page number=\"106\"/>و الماء. انظر: فقه الإمام الرضا عليه السّلام: 346، الاصول الستّة عشر: 357 (المختار من كتاب علاء بن رزين): 5، كتاب آداب أمير المؤمنين: 129/137 - و عنه في تحف العقول: 110، و الخصال: 620 - طبّ الأئمّة عليهم السّلام: 49 و 50، الكافي 87/109:8 - و عنه في المصباح للكفعمي: 161 - الجعفريات: 250 و عنه في دعائم الإسلام 513/146:2. </footnote>"
+        },
+        {
+          "footnoteId": 714168781,
+          "text": "<footnote id=\"750\"><mnote>(1)</mnote> كلمة: «العلي» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168782,
+          "text": "<footnote id=\"751\"><mnote>(2)</mnote> في النسخة: «و لا مرض و لا سبعين» بدل «و لا برص و لا سبعون» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168783,
+          "text": "<footnote id=\"752\"><mnote>(3)</mnote> رواه الكليني في الكافي 20/528:2، باب القول عند الإصباح و الإمساء، عن عدّة من أصحابنا، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن عثمان بن عيسى، عن علي بن أبي حمزة، عن أبي بصير، عن أبي عبد الله عليه السّلام قال: «إذا صلّيت المغرب و الغداة فقل:...» و للحديث ذيل، و 25/531، عن البرقي، عن إسماعيل بن مهران، عن علي بن أبي حمزة، عن أبي بصير، عن أبي عبد الله عليه السّلام قال: «من قال في دبر صلاة الفجر و دبر صلاة المغرب». </footnote>"
+        },
+        {
+          "footnoteId": 714168784,
+          "text": "<footnote id=\"753\"><mnote>(4)</mnote> في النسخة: «الهلالي» و هو من سهو الناسخ و ما أثبتناه من مصادر الحديث و الرجال. </footnote>"
+        },
+        {
+          "footnoteId": 714168785,
+          "text": "<footnote id=\"754\"><mnote>(5)</mnote> قوله: «ما أبالي» أثبتناه من المصدر.</footnote>"
+        }
+      ],
+      "pageValue": "106",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2609\" paragraph-id=\"2609\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo106\">106</span>[161] </p>\n  <p id=\"p2610\" paragraph-id=\"2610\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال عليه السّلام، قال: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«إذا صلّيت المغرب، فقل: بسم الله الرّحمن الرّحيم، لا حول و لا قوّة إلّا بالله العليّ‌<span><sup><a class=\"NewFn\" href=\"#footnote750\" title=\"(1)  كلمة: «العلي» أثبتناها من المصدر. \">1</a></sup></span> العظيم سبع مرّات، فإنّه من قالها لم يصبه جنون، و لا جذام، و لا برص، و لا سبعون<span><sup><a class=\"NewFn\" href=\"#footnote751\" title=\"(2)  في النسخة: «و لا مرض و لا سبعين» بدل «و لا برص و لا سبعون» و ما أثبتناه من المصدر. \">2</a></sup></span> نوعا من أنواع البلاء»<span><sup><a class=\"NewFn\" href=\"#footnote752\" title=\"(3)  رواه الكليني في الكافي 20/528:2، باب القول عند الإصباح و الإمساء، عن عدّة من أصحابنا، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن عثمان بن عيسى، عن علي بن أبي حمزة، عن أبي بصير، عن أبي عبد الله عليه السّلام قال: «إذا صلّيت المغرب و الغداة فقل:...» و للحديث ذيل، و 25/531، عن البرقي، عن إسماعيل بن مهران، عن علي بن أبي حمزة، عن أبي بصير، عن أبي عبد الله عليه السّلام قال: «من قال في دبر صلاة الفجر و دبر صلاة المغرب». \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2611\" paragraph-id=\"2611\" class=\" G\">[162] </p>\n  <p id=\"p2612\" paragraph-id=\"2612\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى أبو حمزة الثمالي<span><sup><a class=\"NewFn\" href=\"#footnote753\" title=\"(4)  في النسخة: «الهلالي» و هو من سهو الناسخ و ما أثبتناه من مصادر الحديث و الرجال. \">4</a></sup></span> عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span> أنّه قال: </span>«ما أبالي<span><sup><a class=\"NewFn\" href=\"#footnote754\" title=\"(5)  قوله: «ما أبالي» أثبتناه من المصدر.\">5</a></sup></span> لو اجتمع عليّ الجنّ و الإنس إذا قلت: إنّ ربّي الله لا إله إلّا هو، عليه توكّلت، و هو ربّ العرش العظيم، حسبي الله، ما شاء الله كان، و ما لم يشأ لم يكن، أشهد أنّ الله على كلّ شيء قدير، و أنّ الله قد أحاط بكلّ شيء علما، اللّهمّ إنّي أعوذ بك من شرّ </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote749\" footnote-id=\"749\"><page number=\"106\" />و الماء. انظر: فقه الإمام الرضا عليه السّلام: 346، الاصول الستّة عشر: 357 (المختار من كتاب علاء بن رزين): 5، كتاب آداب أمير المؤمنين: 129/137 - و عنه في تحف العقول: 110، و الخصال: 620 - طبّ الأئمّة عليهم السّلام: 49 و 50، الكافي 87/109:8 - و عنه في المصباح للكفعمي: 161 - الجعفريات: 250 و عنه في دعائم الإسلام 513/146:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote750\" footnote-id=\"750\">(1)  كلمة: «العلي» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote751\" footnote-id=\"751\">(2)  في النسخة: «و لا مرض و لا سبعين» بدل «و لا برص و لا سبعون» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote752\" footnote-id=\"752\">(3)  رواه الكليني في الكافي 20/528:2، باب القول عند الإصباح و الإمساء، عن عدّة من أصحابنا، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن عثمان بن عيسى، عن علي بن أبي حمزة، عن أبي بصير، عن أبي عبد الله عليه السّلام قال: «إذا صلّيت المغرب و الغداة فقل:...» و للحديث ذيل، و 25/531، عن البرقي، عن إسماعيل بن مهران، عن علي بن أبي حمزة، عن أبي بصير، عن أبي عبد الله عليه السّلام قال: «من قال في دبر صلاة الفجر و دبر صلاة المغرب». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote753\" footnote-id=\"753\">(4)  في النسخة: «الهلالي» و هو من سهو الناسخ و ما أثبتناه من مصادر الحديث و الرجال. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote754\" footnote-id=\"754\">(5)  قوله: «ما أبالي» أثبتناه من المصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "3300EAC5-4BD1-4038-A6DB-059E1041E606",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

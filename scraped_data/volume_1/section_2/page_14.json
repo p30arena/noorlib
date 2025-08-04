@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 14,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166414,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2160\"><page number=\"14\"/>[8] </p>"
+        },
+        {
+          "paragraphId": 714166415,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2161\"><format class=\"hadith\" who=\"6|5\" Id=\"8\" RevayatIndex=\"8\"><format class=\"sanadHadith\">حدثنا ابن همّام، قال: حدّثنا الحميري، قال: حدّثنا الحسن بن ظريف<lfootnote noteId=\"290\">1</lfootnote>، عن حمّاد بن عيسى<lfootnote noteId=\"291\">2</lfootnote>، عن حريز، عمّن ذكره، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6|5\">أحدهما عليهما السّلام</format></format> في قوله تعالى: <format class=\"ayah\" surah=\"13\" ayah=\"8\" toAyah=\"\">اَللّٰهُ يَعْلَمُ مٰا تَحْمِلُ كُلُّ أُنْثىٰ وَ مٰا تَغِيضُ اَلْأَرْحٰامُ وَ مٰا تَزْدٰادُ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"13\" ayah=\"8\" toAyah=\"\"/></format><lfootnote noteId=\"292\">3</lfootnote>قال: </format>«الغيض كلّ حمل دون تسعة أشهر، و ما تزداد، كلّ شيء يزداد على تسعة أشهر، فكلّما رأت المرأة الدم الخالص في حملها فإنّها تزداد<lfootnote noteId=\"293\">4</lfootnote> بعدد الأيّام التي رأت في حملها من<lfootnote noteId=\"294\">5</lfootnote> الدم»<lfootnote noteId=\"295\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166416,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2162\">[9] </p>"
+        },
+        {
+          "paragraphId": 714166417,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2163\"><format class=\"hadith\" who=\"5\" Id=\"9\" RevayatIndex=\"9\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن الحسن بن محبوب، عن محمّد بن النعمان البجلي، عن سلّام بن المستنير<lfootnote noteId=\"296\">7</lfootnote> قال:</format> سألت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبا <page number=\"15\"/> جعفر عليه السّلام</format></format> عن<lfootnote noteId=\"297\">1</lfootnote> قوله تعالى: <format class=\"ayah\" surah=\"22\" ayah=\"5\" toAyah=\"\">مُخَلَّقَةٍ وَ غَيْرِ مُخَلَّقَةٍ‌<format class=\"ayahWord\" fromWord=\"23\" toWord=\"26\"/><format class=\"ayahAddress\" surah=\"22\" ayah=\"5\" toAyah=\"\"/></format><lfootnote noteId=\"298\">2</lfootnote> فقال: «المخلّقة الذرّ الذين خلقهم الله تعالى في صلب <format class=\"E\" Number=\"18\">آدم عليه السّلام</format> و أخذ عليهم الميثاق ثمّ أخرجهم من أصلاب الرجال و أرحام النساء، و هم الذين يخرجون إلى الدنيا<lfootnote noteId=\"299\">3</lfootnote> حتّى يسألوا عن الميثاق، أمّا قوله: <format class=\"ayah\" surah=\"22\" ayah=\"5\" toAyah=\"\">وَ غَيْرِ مُخَلَّقَةٍ‌<format class=\"ayahWord\" fromWord=\"24\" toWord=\"26\"/><format class=\"ayahAddress\" surah=\"22\" ayah=\"5\" toAyah=\"\"/></format><lfootnote noteId=\"300\">4</lfootnote> فهو كلّ نسمة لم يخلقهم الله تعالى في صلب <format class=\"E\" Number=\"18\">آدم عليه السّلام</format> حين خلق الذرّ و أخذ عليهم الميثاق<lfootnote noteId=\"301\">5</lfootnote> و هو النطفة من العزل و السقط قبل أن ينفخ فيه روح الحياة<lfootnote noteId=\"302\">6</lfootnote> و البقاء، فهؤلاء الذين قال الله تعالى: <format class=\"ayah\" surah=\"22\" ayah=\"5\" toAyah=\"\">وَ غَيْرِ مُخَلَّقَةٍ‌<format class=\"ayahWord\" fromWord=\"24\" toWord=\"26\"/><format class=\"ayahAddress\" surah=\"22\" ayah=\"5\" toAyah=\"\"/></format>، و هم الذين لا يسألون عن الميثاق، و إنّما هم خلق بدا لله فيهم<lfootnote noteId=\"303\">7</lfootnote>، فهم في الأصلاب و الأرحام<lfootnote noteId=\"304\">8</lfootnote>»<lfootnote noteId=\"305\">9</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168343,
+          "text": "<footnote id=\"289\"><mnote>(4)</mnote> لم نعثر على نصّه في المصادر المتوفّرة لدينا، إلّا أنّه ورد في عدّة من التفاسير أحاديث تفسّر الظلمات الثلاث بالبطن و الرحم و المشيمة، و كذا ما ورد في الدعاء: «و أخرجتني من ظلمات ثلاث» و «ثمّ أسكنتني في ظلمات ثلاث بين لحم و جلد و دم». انظر: توحيد المفضّل: 48 /كلامه عليه السّلام في خلق الإنسان و تدبير الجنين في الرحم، تفسير القمّي 144:1 و ج 246:2، من لا يحضره الفقيه 492:1، التبيان 9:9، مجمع البيان 387:8، جوامع الجامع 210:3، الاحتجاج 213:1 /باب احتجاجه عليه السّلام على اليهود من أحبارهم ممّن قرأ الصحف و الكتب في معجزات النّبي صلّى الله عليه و آله و كثير من فضائله، تنبيه الخواطر 263:1 /بيان كيفيّة التفكّر في خلق الله تعالى، مصباح الزائر: 122، إقبال <page number=\"14\"/>الأعمال 75:2، العدد القوية: 372، البلد الأمين: 251، بحار الأنوار 49:10 و ج 35:12 و ج 373:57 و ج 269:84. </footnote>"
+        },
+        {
+          "footnoteId": 714168344,
+          "text": "<footnote id=\"290\"><mnote>(1)</mnote> في النسخة: «الحسن بن طريف»، كما في بعض الأسانيد، و الصحيح ما أثبتناه. انظر: رجال النجاشي: 140/61، الفهرست للطوسي: 167/125، رجال الطوسي: 5674/385. </footnote>"
+        },
+        {
+          "footnoteId": 714168345,
+          "text": "<footnote id=\"291\"><mnote>(2)</mnote> روى الحميري في قرب الإسناد عن الحسن بن ظريف عن حمّاد كما في السند المذكور في المتن هنا، و الرواية رواها الكليني في الكافي، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن حمّاد كما سنذكر. </footnote>"
+        },
+        {
+          "footnoteId": 714168346,
+          "text": "<footnote id=\"292\"><mnote>(3)</mnote> سورة الرعد 8:13. </footnote>"
+        },
+        {
+          "footnoteId": 714168347,
+          "text": "<footnote id=\"293\"><mnote>(4)</mnote> من قوله: «كلّ شيء يزداد...» إلى هنا أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168348,
+          "text": "<footnote id=\"294\"><mnote>(5)</mnote> كلمة: «من» أثبتناها من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168349,
+          "text": "<footnote id=\"295\"><mnote>(6)</mnote> رواه العيّاشي في تفسيره 10/204:2 عن حريز، رفعه إلى أحدهما عليهما السّلام، و الكليني في الكافي 2/12:6 باب بدء خلق الإنسان و تقلّبه في بطن امّه، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد. و ممّا يؤيّده ما رواه العيّاشي أيضا في الحديث 11 و 14، و كذا ممّا يتعلّق به ما رواه هو في الحديث 12 و 13، و ما في تفسير القمّي 360:1. </footnote>"
+        },
+        {
+          "footnoteId": 714168350,
+          "text": "<footnote id=\"296\"><mnote>(7)</mnote> في النسخة: «محمّد بن النعمان البجلي، عن صفوان بن يحيي بن محمّد بن سلّار المستنير»<page number=\"15\"/>و ما أثبتناه من الكافي. و من المعلوم أنّ محمّد بن علي بن محمّد بن النعمان أبا جعفر الأحول المشهور ب‍: «مؤمن الطاق» مقدّم على صفوان بن يحيى المتوفّى 210 ه‍ في الطبقة، فلا يروي عنه، بل عكسه موجود في الروايات. انظر: تهذيب الأحكام 360/165:3. فلعلّ الصحيح: «عن محمّد بن النعمان البجلي، و عن صفوان بن يحيى، عن سلّام بن المستنير» و لكن رواية صفوان عن سلّام لم تثبت. </footnote>"
+        }
+      ],
+      "pageValue": "14",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2160\" paragraph-id=\"2160\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo14\">14</span>[8] </p>\n  <p id=\"p2161\" paragraph-id=\"2161\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدثنا ابن همّام، قال: حدّثنا الحميري، قال: حدّثنا الحسن بن ظريف<span><sup><a class=\"NewFn\" href=\"#footnote290\" title=\"(1)  في النسخة: «الحسن بن طريف»، كما في بعض الأسانيد، و الصحيح ما أثبتناه. انظر: رجال النجاشي: 140/61، الفهرست للطوسي: 167/125، رجال الطوسي: 5674/385. \">1</a></sup></span>، عن حمّاد بن عيسى<span><sup><a class=\"NewFn\" href=\"#footnote291\" title=\"(2)  روى الحميري في قرب الإسناد عن الحسن بن ظريف عن حمّاد كما في السند المذكور في المتن هنا، و الرواية رواها الكليني في الكافي، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن حمّاد كما سنذكر. \">2</a></sup></span>، عن حريز، عمّن ذكره، عن <span class=\"Y\"><span class=\"maasoom\">أحدهما عليهما السّلام</span></span> في قوله تعالى: <span style=\"0\" class=\"ayah\" surah=\"13\" ayah=\"8\">اَللّٰهُ يَعْلَمُ مٰا تَحْمِلُ كُلُّ أُنْثىٰ وَ مٰا تَغِيضُ اَلْأَرْحٰامُ وَ مٰا تَزْدٰادُ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/13/8\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote292\" title=\"(3)  سورة الرعد 8:13. \">3</a></sup></span>قال: </span>«الغيض كلّ حمل دون تسعة أشهر، و ما تزداد، كلّ شيء يزداد على تسعة أشهر، فكلّما رأت المرأة الدم الخالص في حملها فإنّها تزداد<span><sup><a class=\"NewFn\" href=\"#footnote293\" title=\"(4)  من قوله: «كلّ شيء يزداد...» إلى هنا أثبتناه من الكافي. \">4</a></sup></span> بعدد الأيّام التي رأت في حملها من<span><sup><a class=\"NewFn\" href=\"#footnote294\" title=\"(5)  كلمة: «من» أثبتناها من الكافي. \">5</a></sup></span> الدم»<span><sup><a class=\"NewFn\" href=\"#footnote295\" title=\"(6)  رواه العيّاشي في تفسيره 10/204:2 عن حريز، رفعه إلى أحدهما عليهما السّلام، و الكليني في الكافي 2/12:6 باب بدء خلق الإنسان و تقلّبه في بطن امّه، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد. و ممّا يؤيّده ما رواه العيّاشي أيضا في الحديث 11 و 14، و كذا ممّا يتعلّق به ما رواه هو في الحديث 12 و 13، و ما في تفسير القمّي 360:1. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2162\" paragraph-id=\"2162\" class=\" G\">[9] </p>\n  <p id=\"p2163\" paragraph-id=\"2163\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن الحسن بن محبوب، عن محمّد بن النعمان البجلي، عن سلّام بن المستنير<span><sup><a class=\"NewFn\" href=\"#footnote296\" title=\"(7)  في النسخة: «محمّد بن النعمان البجلي، عن صفوان بن يحيي بن محمّد بن سلّار المستنير»\">7</a></sup></span> قال:</span> سألت <span class=\"Y\"><span class=\"maasoom\">أبا </span></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote289\" footnote-id=\"289\"><page number=\"14\" />الأعمال 75:2، العدد القوية: 372، البلد الأمين: 251، بحار الأنوار 49:10 و ج 35:12 و ج 373:57 و ج 269:84. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote290\" footnote-id=\"290\">(1)  في النسخة: «الحسن بن طريف»، كما في بعض الأسانيد، و الصحيح ما أثبتناه. انظر: رجال النجاشي: 140/61، الفهرست للطوسي: 167/125، رجال الطوسي: 5674/385. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote291\" footnote-id=\"291\">(2)  روى الحميري في قرب الإسناد عن الحسن بن ظريف عن حمّاد كما في السند المذكور في المتن هنا، و الرواية رواها الكليني في الكافي، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن حمّاد كما سنذكر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote292\" footnote-id=\"292\">(3)  سورة الرعد 8:13. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote293\" footnote-id=\"293\">(4)  من قوله: «كلّ شيء يزداد...» إلى هنا أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote294\" footnote-id=\"294\">(5)  كلمة: «من» أثبتناها من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote295\" footnote-id=\"295\">(6)  رواه العيّاشي في تفسيره 10/204:2 عن حريز، رفعه إلى أحدهما عليهما السّلام، و الكليني في الكافي 2/12:6 باب بدء خلق الإنسان و تقلّبه في بطن امّه، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد. و ممّا يؤيّده ما رواه العيّاشي أيضا في الحديث 11 و 14، و كذا ممّا يتعلّق به ما رواه هو في الحديث 12 و 13، و ما في تفسير القمّي 360:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote296\" footnote-id=\"296\">(7)  في النسخة: «محمّد بن النعمان البجلي، عن صفوان بن يحيي بن محمّد بن سلّار المستنير»</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E0871056-DB88-4B2D-8797-0F867AC64F6B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

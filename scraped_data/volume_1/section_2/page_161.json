@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 161,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167260,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2857\"><page number=\"161\"/><heading level=\"2\">[باب] في النوادر في علل العين </heading></p>"
+        },
+        {
+          "paragraphId": 714167261,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2858\">[246] </p>"
+        },
+        {
+          "paragraphId": 714167262,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2859\"><format class=\"hadith\" who=\"6\" Id=\"244\" RevayatIndex=\"244\"><format class=\"sanadHadith\">روى محمّد بن الحسن الصفّار، عن موسى بن عمر، عن محمّد بن الحسن الميثمي<lfootnote noteId=\"983\">1</lfootnote>، عن معاوية بن عمّار، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> و قد سأله رجل عن الخمر يكتحل به‌؟</format></format></p>"
+        },
+        {
+          "paragraphId": 714167263,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2860\"><format class=\"hadith\" who=\"6\" Id=\"244\" RevayatIndex=\"244\"><format class=\"sanadHadith\">فقال عليه السّلام: </format>«ما جعل الله تعالى في حرام شفاء»<lfootnote noteId=\"984\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167264,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2861\">[247] </p>"
+        },
+        {
+          "paragraphId": 714167265,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2862\"><format class=\"hadith\" who=\"6\" Id=\"245\" RevayatIndex=\"245\"><format class=\"sanadHadith\">محمّد بن الحسن، عن السيّاري، عن محمّد بن علي الهمداني، عن رجل، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال:</format> قلت له: ما تقول في النظر إلى فروج<lfootnote noteId=\"985\">3</lfootnote> النساء؟ يقولون: إنّه يورث العمى.</format></p>"
+        },
+        {
+          "paragraphId": 714167266,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2863\"><format class=\"hadith\" who=\"6\" Id=\"245\" RevayatIndex=\"245\">فقال: «و هل اللّذة إلّا في النظر إلى الفرج‌؟ ليس كما يقولون. ألا أخبرك بما يورث العمى»؟ قلت: نعم.</format></p>"
+        },
+        {
+          "paragraphId": 714167267,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2864\"><format class=\"hadith\" who=\"6\" Id=\"245\" RevayatIndex=\"245\"><page number=\"162\"/> قال: «النظر [إلى] ما حرّم الله تعالى عليك<lfootnote noteId=\"986\">1</lfootnote>»<lfootnote noteId=\"987\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168937,
+          "text": "<footnote id=\"982\"><mnote>(5)</mnote> رواه الصدوق في من لا يحضره الفقيه 1036/361:1، و رواه ابنا بسطام بتفاوت <page number=\"161\"/>يسير في طبّ الأئمّة عليهم السّلام: 87، الحسن بن أرومة [أورمة]، عن عبد الله بن المغيرة، عن بزيغ المؤذّن، و انظر: من لا يحضره الفقيه 1035/361:1، تهذيب الأحكام 23/945/306:3. </footnote>"
+        },
+        {
+          "footnoteId": 714168938,
+          "text": "<footnote id=\"983\"><mnote>(1)</mnote> في النسخة: «عن موسى بن عمر التيمي». و الصحيح ما أثبتناه موافقا للكافي و تهذيب الأحكام. </footnote>"
+        },
+        {
+          "footnoteId": 714168939,
+          "text": "<footnote id=\"984\"><mnote>(2)</mnote> رواه الكليني في الكافي 6/414:6، باب من اضطرّ إلى الخمر للدواء أو للعطش أو للتقية، عن محمّد بن يحيى، عن محمّد بن أحمد، عن يعقوب بن يزيد، عن محمّد بن الحسن الميثمي، عن معاوية بن عمّار، و الطوسي في تهذيب الأحكام 226/113:9، فقال:<br/>أحمد بن محمّد، عن يعقوب بن يزيد. </footnote>"
+        },
+        {
+          "footnoteId": 714168940,
+          "text": "<footnote id=\"985\"><mnote>(3)</mnote> في النسخة: «فرج» و الصواب ما أثبتناه.</footnote>"
+        }
+      ],
+      "pageValue": "161",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2857\" paragraph-id=\"2857\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo161\">161</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في النوادر في علل العين </strong>\n  </p>\n  <p id=\"p2858\" paragraph-id=\"2858\" class=\" G\">[246] </p>\n  <p id=\"p2859\" paragraph-id=\"2859\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن الحسن الصفّار، عن موسى بن عمر، عن محمّد بن الحسن الميثمي<span><sup><a class=\"NewFn\" href=\"#footnote983\" title=\"(1)  في النسخة: «عن موسى بن عمر التيمي». و الصحيح ما أثبتناه موافقا للكافي و تهذيب الأحكام. \">1</a></sup></span>، عن معاوية بن عمّار، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> و قد سأله رجل عن الخمر يكتحل به‌؟</span>\n    </span>\n  </p>\n  <p id=\"p2860\" paragraph-id=\"2860\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فقال عليه السّلام: </span>«ما جعل الله تعالى في حرام شفاء»<span><sup><a class=\"NewFn\" href=\"#footnote984\" title=\"(2)  رواه الكليني في الكافي 6/414:6، باب من اضطرّ إلى الخمر للدواء أو للعطش أو للتقية، عن محمّد بن يحيى، عن محمّد بن أحمد، عن يعقوب بن يزيد، عن محمّد بن الحسن الميثمي، عن معاوية بن عمّار، و الطوسي في تهذيب الأحكام 226/113:9، فقال:أحمد بن محمّد، عن يعقوب بن يزيد. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2861\" paragraph-id=\"2861\" class=\" G\">[247] </p>\n  <p id=\"p2862\" paragraph-id=\"2862\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن الحسن، عن السيّاري، عن محمّد بن علي الهمداني، عن رجل، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال:</span> قلت له: ما تقول في النظر إلى فروج<span><sup><a class=\"NewFn\" href=\"#footnote985\" title=\"(3)  في النسخة: «فرج» و الصواب ما أثبتناه.\">3</a></sup></span> النساء؟ يقولون: إنّه يورث العمى.</span>\n  </p>\n  <p id=\"p2863\" paragraph-id=\"2863\" class=\" G\">\n    <span class=\"hadith\">فقال: «و هل اللّذة إلّا في النظر إلى الفرج‌؟ ليس كما يقولون. ألا أخبرك بما يورث العمى»؟ قلت: نعم.</span>\n  </p>\n  <p id=\"p2864\" paragraph-id=\"2864\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote982\" footnote-id=\"982\"><page number=\"161\" />يسير في طبّ الأئمّة عليهم السّلام: 87، الحسن بن أرومة [أورمة]، عن عبد الله بن المغيرة، عن بزيغ المؤذّن، و انظر: من لا يحضره الفقيه 1035/361:1، تهذيب الأحكام 23/945/306:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote983\" footnote-id=\"983\">(1)  في النسخة: «عن موسى بن عمر التيمي». و الصحيح ما أثبتناه موافقا للكافي و تهذيب الأحكام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote984\" footnote-id=\"984\">(2)  رواه الكليني في الكافي 6/414:6، باب من اضطرّ إلى الخمر للدواء أو للعطش أو للتقية، عن محمّد بن يحيى، عن محمّد بن أحمد، عن يعقوب بن يزيد، عن محمّد بن الحسن الميثمي، عن معاوية بن عمّار، و الطوسي في تهذيب الأحكام 226/113:9، فقال:<br />أحمد بن محمّد، عن يعقوب بن يزيد. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote985\" footnote-id=\"985\">(3)  في النسخة: «فرج» و الصواب ما أثبتناه.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "EE8286C6-B0B5-4B08-92B5-9C7BEE11D6EB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

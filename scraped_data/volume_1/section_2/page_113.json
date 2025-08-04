@@ -1,0 +1,113 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 113,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166606,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2638\"><format class=\"hadith\" who=\"37,16\" Id=\"168\" RevayatIndex=\"168\"><page number=\"113\"/> فقال له: «أيّ [شيء]<lfootnote noteId=\"784\">1</lfootnote> كان السبب‌؟».</format></p>"
+        },
+        {
+          "paragraphId": 714166607,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2639\"><format class=\"hadith\" who=\"37,16\" Id=\"168\" RevayatIndex=\"168\">فقال: خرج من بيته لأخذ الفراخ فقرع السائل الباب فرجع فدفع إليه شيئا ثمّ جاء و صعد فحجبت عنه حتّى أخذ الفراخ.</format></p>"
+        },
+        {
+          "paragraphId": 714166608,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2640\"><format class=\"hadith\" who=\"37,16\" Id=\"168\" RevayatIndex=\"168\">فقال <format class=\"E\" Number=\"37\">سليمان</format>: «الصدقة تدفع مقادير السوء»<lfootnote noteId=\"785\">2</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714166609,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2641\"><heading level=\"2\">[باب] في أغذية المحموم<lfootnote noteId=\"786\">3</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714166610,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2642\">[171] </p>"
+        },
+        {
+          "paragraphId": 714166611,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2643\"><format class=\"hadith\" who=\"7\" Id=\"169\" RevayatIndex=\"169\"><format class=\"sanadHadith\">و روى محمّد بن موسى، قال: حدّثني علي بن سليمان<lfootnote noteId=\"787\">4</lfootnote>، قال:</format></format></p>"
+        },
+        {
+          "paragraphId": 714166612,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2644\"><format class=\"hadith\" who=\"7\" Id=\"169\" RevayatIndex=\"169\"><format class=\"sanadHadith\">حدّثني محمّد بن أبي عمير، عن محمّد بن حكيم: عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن الأوّل عليه السّلام </format></format>قال<lfootnote noteId=\"788\">5</lfootnote>: </format>«أطعموا المحموم لحم القبج<lfootnote noteId=\"789\">6</lfootnote> فإنّه يقوّي الساقين، و يطرد الحمّى طردا<lfootnote noteId=\"790\">7</lfootnote>»<lfootnote noteId=\"791\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166613,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2645\"><page number=\"114\"/>[172] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168815,
+          "text": "<footnote id=\"784\"><page number=\"113\"/><mnote>(1)</mnote> ما بين المعقوفتين أثبتناه للضرورة. </footnote>"
+        },
+        {
+          "footnoteId": 714168816,
+          "text": "<footnote id=\"785\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168817,
+          "text": "<footnote id=\"786\"><mnote>(3)</mnote> و يلاحظ أنّه من أبواب الحمى و قد اقحم هنا. </footnote>"
+        },
+        {
+          "footnoteId": 714168818,
+          "text": "<footnote id=\"787\"><mnote>(4)</mnote> و هو علي بن سليمان بن داود الرازي. </footnote>"
+        },
+        {
+          "footnoteId": 714168819,
+          "text": "<footnote id=\"788\"><mnote>(5)</mnote> كلمة: «قال» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168820,
+          "text": "<footnote id=\"789\"><mnote>(6)</mnote> القبج، و هو الحجل، و هو طائر على قدر الحمام، كالقطا، أحمر المنقار و الرجلين، و يسمّى دجاج البرّ، و هو صنفان: نجدي و تهامي، و القبج فارسي معرّب من «كبك»؛ لأنّ الجيم أو الكاف لا يجتمعان في كلام العرب. راجع: حياة الحيوان الكبرى 324:1 و ج 324:2. </footnote>"
+        },
+        {
+          "footnoteId": 714168821,
+          "text": "<footnote id=\"790\"><mnote>(7)</mnote> قال المجلسي الأوّل: الظاهر أنّه في البلاد الحارّة كما جرّبناه. روضة المتقين 580:7. </footnote>"
+        },
+        {
+          "footnoteId": 714168822,
+          "text": "<footnote id=\"791\"><mnote>(8)</mnote> رواه الكليني في الكافي 4/312:6، باب لحوم الطير، عن محمّد بن يحيى، عن محمّد بن موسى، قال: حدّثني علي بن سليمان، عن ابن أبي عمير، عن محمّد بن حكيم، و الطبرسي في مكارم الأخلاق: 1/161، في لحم القبج عن أبي الحسن الأوّل عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "113",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2638\" paragraph-id=\"2638\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo113\">113</span> فقال له: «أيّ [شيء]<span><sup><a class=\"NewFn\" href=\"#footnote784\" title=\"(1)  ما بين المعقوفتين أثبتناه للضرورة. \">1</a></sup></span> كان السبب‌؟».</span>\n  </p>\n  <p id=\"p2639\" paragraph-id=\"2639\" class=\" G\">\n    <span class=\"hadith\">فقال: خرج من بيته لأخذ الفراخ فقرع السائل الباب فرجع فدفع إليه شيئا ثمّ جاء و صعد فحجبت عنه حتّى أخذ الفراخ.</span>\n  </p>\n  <p id=\"p2640\" paragraph-id=\"2640\" class=\" G\">\n    <span class=\"hadith\">فقال <span class=\"E\">سليمان</span>: «الصدقة تدفع مقادير السوء»<span><sup><a class=\"NewFn\" href=\"#footnote785\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>. </span>\n  </p>\n  <p id=\"p2641\" paragraph-id=\"2641\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في أغذية المحموم<span><sup><a class=\"NewFn\" href=\"#footnote786\" title=\"(3)  و يلاحظ أنّه من أبواب الحمى و قد اقحم هنا. \">3</a></sup></span></strong>\n  </p>\n  <p id=\"p2642\" paragraph-id=\"2642\" class=\" G\">[171] </p>\n  <p id=\"p2643\" paragraph-id=\"2643\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى محمّد بن موسى، قال: حدّثني علي بن سليمان<span><sup><a class=\"NewFn\" href=\"#footnote787\" title=\"(4)  و هو علي بن سليمان بن داود الرازي. \">4</a></sup></span>، قال:</span>\n    </span>\n  </p>\n  <p id=\"p2644\" paragraph-id=\"2644\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثني محمّد بن أبي عمير، عن محمّد بن حكيم: عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن الأوّل عليه السّلام </span></span>قال<span><sup><a class=\"NewFn\" href=\"#footnote788\" title=\"(5)  كلمة: «قال» أثبتناها من المصدر. \">5</a></sup></span>: </span>«أطعموا المحموم لحم القبج<span><sup><a class=\"NewFn\" href=\"#footnote789\" title=\"(6)  القبج، و هو الحجل، و هو طائر على قدر الحمام، كالقطا، أحمر المنقار و الرجلين، و يسمّى دجاج البرّ، و هو صنفان: نجدي و تهامي، و القبج فارسي معرّب من «كبك»؛ لأنّ الجيم أو الكاف لا يجتمعان في كلام العرب. راجع: حياة الحيوان الكبرى 324:1 و ج 324:2. \">6</a></sup></span> فإنّه يقوّي الساقين، و يطرد الحمّى طردا<span><sup><a class=\"NewFn\" href=\"#footnote790\" title=\"(7)  قال المجلسي الأوّل: الظاهر أنّه في البلاد الحارّة كما جرّبناه. روضة المتقين 580:7. \">7</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote791\" title=\"(8)  رواه الكليني في الكافي 4/312:6، باب لحوم الطير، عن محمّد بن يحيى، عن محمّد بن موسى، قال: حدّثني علي بن سليمان، عن ابن أبي عمير، عن محمّد بن حكيم، و الطبرسي في مكارم الأخلاق: 1/161، في لحم القبج عن أبي الحسن الأوّل عليه السّلام. \">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p2645\" paragraph-id=\"2645\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote784\" footnote-id=\"784\">(1) <page number=\"113\" /> ما بين المعقوفتين أثبتناه للضرورة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote785\" footnote-id=\"785\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote786\" footnote-id=\"786\">(3)  و يلاحظ أنّه من أبواب الحمى و قد اقحم هنا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote787\" footnote-id=\"787\">(4)  و هو علي بن سليمان بن داود الرازي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote788\" footnote-id=\"788\">(5)  كلمة: «قال» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote789\" footnote-id=\"789\">(6)  القبج، و هو الحجل، و هو طائر على قدر الحمام، كالقطا، أحمر المنقار و الرجلين، و يسمّى دجاج البرّ، و هو صنفان: نجدي و تهامي، و القبج فارسي معرّب من «كبك»؛ لأنّ الجيم أو الكاف لا يجتمعان في كلام العرب. راجع: حياة الحيوان الكبرى 324:1 و ج 324:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote790\" footnote-id=\"790\">(7)  قال المجلسي الأوّل: الظاهر أنّه في البلاد الحارّة كما جرّبناه. روضة المتقين 580:7. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote791\" footnote-id=\"791\">(8)  رواه الكليني في الكافي 4/312:6، باب لحوم الطير، عن محمّد بن يحيى، عن محمّد بن موسى، قال: حدّثني علي بن سليمان، عن ابن أبي عمير، عن محمّد بن حكيم، و الطبرسي في مكارم الأخلاق: 1/161، في لحم القبج عن أبي الحسن الأوّل عليه السّلام. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "34B4196B-ABD1-4AA1-8705-52C1AB454258",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

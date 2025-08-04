@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 156,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167226,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2823\"><page number=\"156\"/>[239] </p>"
+        },
+        {
+          "paragraphId": 714167227,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2824\"><format class=\"hadith\" who=\"16\" Id=\"237\" RevayatIndex=\"237\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، و السيّاري، عن عثمان بن عيسى، عن رجل من أصحابنا رفعه، قال:</format></format></p>"
+        },
+        {
+          "paragraphId": 714167228,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2825\"><format class=\"hadith\" who=\"16\" Id=\"237\" RevayatIndex=\"237\">السمك الطري<lfootnote noteId=\"962\">1</lfootnote> يذيب شحمة العين<lfootnote noteId=\"963\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167229,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2826\"><heading level=\"2\">[باب] في كثرة الدموع في العين من غير علّة </heading></p>"
+        },
+        {
+          "paragraphId": 714167230,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2827\">[240] </p>"
+        },
+        {
+          "paragraphId": 714167231,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2828\"><format class=\"hadith\" who=\"6\" Id=\"238\" RevayatIndex=\"238\"><format class=\"sanadHadith\">روى زرارة، قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> كثرة ما ينزل من عيني من الدموع من غير علّة أجدها، فقال عليه السّلام: «استعط بالبنفسج، و خذ كلّ يوم درهمين إطريفل الأصغر<lfootnote noteId=\"964\">3</lfootnote>» ففعلت فسكن عنّي<lfootnote noteId=\"965\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167232,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2829\"><heading level=\"3\">عوذة للعين:</heading></p>"
+        },
+        {
+          "paragraphId": 714167233,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2830\">[241] </p>"
+        },
+        {
+          "paragraphId": 714167234,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2831\"><format class=\"hadith\" who=\"6\" Id=\"239\" RevayatIndex=\"239\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن <page number=\"157\"/> عيسى، عن عمر بن عبد العزيز<lfootnote noteId=\"966\">1</lfootnote>، عن عيسى بن سليمان<lfootnote noteId=\"967\">2</lfootnote>، قال:</format> دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> فرأيت به من الرمد شيئا فاحشا فخرجت<lfootnote noteId=\"968\">3</lfootnote>، ثمّ دخلت إليه من غد فإذا لا قلبة بعينه.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168917,
+          "text": "<footnote id=\"962\"><page number=\"156\"/><mnote>(1)</mnote> كلمة: «الطري» أثبتناها من المحاسن. </footnote>"
+        },
+        {
+          "footnoteId": 714168918,
+          "text": "<footnote id=\"963\"><mnote>(2)</mnote> رواه البرقي في المحاسن 10/475:2، باب الحيتان و السمك، عن عثمان بن عيسى رفعه، و في حديث آخر عن مسمع، عن أبي عبد الله عليه السّلام قال: «السمك الطري يذيب بمخّ العين»، و رواه الكليني في الكافي 8/324:6، باب السمك، عن عدّة من أصحابنا، عن أحمد بن محمّد، عن عثمان بن عيسى رفعه، و في الحديث التاسع عن سهل بن زياد، عن علي بن حسان، عن موسى بن بكر، عن أبي الحسن عليه السّلام، و روى ابنا بسطام في طبّ الأئمّة عليهم السّلام: 84 هكذا: في السمك، أحمد بن الجارود العبدي من ولد الحكم بن المنذر، قال: حدّثنا عثمان بن عيسى، عن ميسر الحلبي، عن أبي عبد الله عليه السّلام، قال: «السمك يذيب شحمة العين»، و عنه عليه السّلام قال: قال الباقر عليه السّلام: «إنّ هذا السمك لرديء لغشاوة العين و إنّ هذا اللحم الطري ينبت اللحم». </footnote>"
+        },
+        {
+          "footnoteId": 714168919,
+          "text": "<footnote id=\"964\"><mnote>(3)</mnote> قد تقرأ في النسخة: «الأصفر». </footnote>"
+        },
+        {
+          "footnoteId": 714168920,
+          "text": "<footnote id=\"965\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا.</footnote>"
+        }
+      ],
+      "pageValue": "156",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2823\" paragraph-id=\"2823\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo156\">156</span>[239] </p>\n  <p id=\"p2824\" paragraph-id=\"2824\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، و السيّاري، عن عثمان بن عيسى، عن رجل من أصحابنا رفعه، قال:</span>\n    </span>\n  </p>\n  <p id=\"p2825\" paragraph-id=\"2825\" class=\" G\">\n    <span class=\"hadith\">السمك الطري<span><sup><a class=\"NewFn\" href=\"#footnote962\" title=\"(1)  كلمة: «الطري» أثبتناها من المحاسن. \">1</a></sup></span> يذيب شحمة العين<span><sup><a class=\"NewFn\" href=\"#footnote963\" title=\"(2)  رواه البرقي في المحاسن 10/475:2، باب الحيتان و السمك، عن عثمان بن عيسى رفعه، و في حديث آخر عن مسمع، عن أبي عبد الله عليه السّلام قال: «السمك الطري يذيب بمخّ العين»، و رواه الكليني في الكافي 8/324:6، باب السمك، عن عدّة من أصحابنا، عن أحمد بن محمّد، عن عثمان بن عيسى رفعه، و في الحديث التاسع عن سهل بن زياد، عن علي بن حسان، عن موسى بن بكر، عن أبي الحسن عليه السّلام، و روى ابنا بسطام في طبّ الأئمّة عليهم السّلام: 84 هكذا: في السمك، أحمد بن الجارود العبدي من ولد الحكم بن المنذر، قال: حدّثنا عثمان بن عيسى، عن ميسر الحلبي، عن أبي عبد الله عليه السّلام، قال: «السمك يذيب شحمة العين»، و عنه عليه السّلام قال: قال الباقر عليه السّلام: «إنّ هذا السمك لرديء لغشاوة العين و إنّ هذا اللحم الطري ينبت اللحم». \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2826\" paragraph-id=\"2826\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في كثرة الدموع في العين من غير علّة </strong>\n  </p>\n  <p id=\"p2827\" paragraph-id=\"2827\" class=\" G\">[240] </p>\n  <p id=\"p2828\" paragraph-id=\"2828\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى زرارة، قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> كثرة ما ينزل من عيني من الدموع من غير علّة أجدها، فقال عليه السّلام: «استعط بالبنفسج، و خذ كلّ يوم درهمين إطريفل الأصغر<span><sup><a class=\"NewFn\" href=\"#footnote964\" title=\"(3)  قد تقرأ في النسخة: «الأصفر». \">3</a></sup></span>» ففعلت فسكن عنّي<span><sup><a class=\"NewFn\" href=\"#footnote965\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا.\">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2829\" paragraph-id=\"2829\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">عوذة للعين:</strong>\n  </p>\n  <p id=\"p2830\" paragraph-id=\"2830\" class=\" G\">[241] </p>\n  <p id=\"p2831\" paragraph-id=\"2831\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote962\" footnote-id=\"962\">(1) <page number=\"156\" /> كلمة: «الطري» أثبتناها من المحاسن. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote963\" footnote-id=\"963\">(2)  رواه البرقي في المحاسن 10/475:2، باب الحيتان و السمك، عن عثمان بن عيسى رفعه، و في حديث آخر عن مسمع، عن أبي عبد الله عليه السّلام قال: «السمك الطري يذيب بمخّ العين»، و رواه الكليني في الكافي 8/324:6، باب السمك، عن عدّة من أصحابنا، عن أحمد بن محمّد، عن عثمان بن عيسى رفعه، و في الحديث التاسع عن سهل بن زياد، عن علي بن حسان، عن موسى بن بكر، عن أبي الحسن عليه السّلام، و روى ابنا بسطام في طبّ الأئمّة عليهم السّلام: 84 هكذا: في السمك، أحمد بن الجارود العبدي من ولد الحكم بن المنذر، قال: حدّثنا عثمان بن عيسى، عن ميسر الحلبي، عن أبي عبد الله عليه السّلام، قال: «السمك يذيب شحمة العين»، و عنه عليه السّلام قال: قال الباقر عليه السّلام: «إنّ هذا السمك لرديء لغشاوة العين و إنّ هذا اللحم الطري ينبت اللحم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote964\" footnote-id=\"964\">(3)  قد تقرأ في النسخة: «الأصفر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote965\" footnote-id=\"965\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "1E6A8D58-B9F9-482C-93F6-9D3156EF9964",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

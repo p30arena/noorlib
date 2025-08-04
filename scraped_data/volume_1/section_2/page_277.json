@@ -1,0 +1,125 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 277,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167701,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3447\"><format class=\"hadith\" who=\"8\" Id=\"446\" RevayatIndex=\"446\"><page number=\"277\"/> و أمّا حفظي عن أبي القاسم: فإنّه أمر أن يعمل منه بأربع مائة درهم.</format></p>"
+        },
+        {
+          "paragraphId": 714167702,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3448\"><format class=\"hadith\" who=\"8\" Id=\"446\" RevayatIndex=\"446\">قال معمّر: فوقّع إليّ الرضا عليه السّلام صفته و أمرني بدفعه إلى مسافر<lfootnote noteId=\"1527\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167703,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3449\"><format class=\"hadith\" who=\"8\" Id=\"446\" RevayatIndex=\"446\">و ذكر عبد الرحمن بن أبي نجران أنّه عجيب للبواسير، و هو هليلج و بليلج و أملج، صفة الدواء الطويل سواء<lfootnote noteId=\"1528\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167704,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3450\">[452] </p>"
+        },
+        {
+          "paragraphId": 714167705,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3451\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\"><format class=\"sanadHadith\">روى عبد الله بن محمّد الحروري قال:</format> قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: «الطبّ في أربعة: في السعوط و الشروط و الحمّام و الحقنة». ثمّ قال: «أما بك بواسير؟»</format></p>"
+        },
+        {
+          "paragraphId": 714167706,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3452\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\">قلت: بلى.</format></p>"
+        },
+        {
+          "paragraphId": 714167707,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3453\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\">قال: «أما إنّها تشخب دما<lfootnote noteId=\"1529\">3</lfootnote>»</format></p>"
+        },
+        {
+          "paragraphId": 714167708,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3454\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\">قلت: صدقت جعلت فداك.</format></p>"
+        },
+        {
+          "paragraphId": 714167709,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3455\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\">قال: «ألا أصف لك دواء؟»</format></p>"
+        },
+        {
+          "paragraphId": 714167710,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"3456\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\">قلت: بلى.</format></p>"
+        },
+        {
+          "paragraphId": 714167711,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"3457\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\">قال: «عليك بشمع و دهن زنبق و عسل لبنى و سدر و كتان خلق<lfootnote noteId=\"1530\">4</lfootnote> تجمع في فخارة حتّى إذا اجتمع<lfootnote noteId=\"1531\">5</lfootnote> فخذ منه بندقة قدر حمّصة فالطخ به المقعدة». </format></p>"
+        },
+        {
+          "paragraphId": 714167712,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"3458\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\"><page number=\"278\"/> قال: فما عملته إلّا مرّة حتى برأت.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169482,
+          "text": "<footnote id=\"1527\"><page number=\"277\"/><mnote>(1)</mnote> «مسافر» مولى أبي الحسن الرضا عليه السّلام. رجال الكشّي: 972/506. </footnote>"
+        },
+        {
+          "footnoteId": 714169483,
+          "text": "<footnote id=\"1528\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169484,
+          "text": "<footnote id=\"1529\"><mnote>(3)</mnote> في النسخة: «الدم» و ما أثبتناه من طبّ الأئمة عليهم السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169485,
+          "text": "<footnote id=\"1530\"><mnote>(4)</mnote> و في طبّ الأئمّة عليهم السّلام: «بشمع و دهن زنبق و لبنى عسل و سماق و سر و كتان».<br/>قال المجلسي: و «سر و كتان» لم أجده في كتب الطبّ و لا كتب اللغة، و كأنّه كان «بزركتان» أو المراد به ذلك، و هو معروف. بحار الأنوار 201:59. </footnote>"
+        },
+        {
+          "footnoteId": 714169486,
+          "text": "<footnote id=\"1531\"><mnote>(5)</mnote> في طبّ الأئمّة عليهم السّلام: «اجمعه في مغرفة على النار فإذا اختلط». و المغرفة - بالكسر - ما يغرف به. الصحاح 1410:4 «غرف».</footnote>"
+        }
+      ],
+      "pageValue": "277",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3447\" paragraph-id=\"3447\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo277\">277</span> و أمّا حفظي عن أبي القاسم: فإنّه أمر أن يعمل منه بأربع مائة درهم.</span>\n  </p>\n  <p id=\"p3448\" paragraph-id=\"3448\" class=\" G\">\n    <span class=\"hadith\">قال معمّر: فوقّع إليّ الرضا عليه السّلام صفته و أمرني بدفعه إلى مسافر<span><sup><a class=\"NewFn\" href=\"#footnote1527\" title=\"(1)  «مسافر» مولى أبي الحسن الرضا عليه السّلام. رجال الكشّي: 972/506. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3449\" paragraph-id=\"3449\" class=\" G\">\n    <span class=\"hadith\">و ذكر عبد الرحمن بن أبي نجران أنّه عجيب للبواسير، و هو هليلج و بليلج و أملج، صفة الدواء الطويل سواء<span><sup><a class=\"NewFn\" href=\"#footnote1528\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3450\" paragraph-id=\"3450\" class=\" G\">[452] </p>\n  <p id=\"p3451\" paragraph-id=\"3451\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى عبد الله بن محمّد الحروري قال:</span> قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: «الطبّ في أربعة: في السعوط و الشروط و الحمّام و الحقنة». ثمّ قال: «أما بك بواسير؟»</span>\n  </p>\n  <p id=\"p3452\" paragraph-id=\"3452\" class=\" G\">\n    <span class=\"hadith\">قلت: بلى.</span>\n  </p>\n  <p id=\"p3453\" paragraph-id=\"3453\" class=\" G\">\n    <span class=\"hadith\">قال: «أما إنّها تشخب دما<span><sup><a class=\"NewFn\" href=\"#footnote1529\" title=\"(3)  في النسخة: «الدم» و ما أثبتناه من طبّ الأئمة عليهم السّلام. \">3</a></sup></span>»</span>\n  </p>\n  <p id=\"p3454\" paragraph-id=\"3454\" class=\" G\">\n    <span class=\"hadith\">قلت: صدقت جعلت فداك.</span>\n  </p>\n  <p id=\"p3455\" paragraph-id=\"3455\" class=\" G\">\n    <span class=\"hadith\">قال: «ألا أصف لك دواء؟»</span>\n  </p>\n  <p id=\"p3456\" paragraph-id=\"3456\" class=\" G\">\n    <span class=\"hadith\">قلت: بلى.</span>\n  </p>\n  <p id=\"p3457\" paragraph-id=\"3457\" class=\" G\">\n    <span class=\"hadith\">قال: «عليك بشمع و دهن زنبق و عسل لبنى و سدر و كتان خلق<span><sup><a class=\"NewFn\" href=\"#footnote1530\" title=\"(4)  و في طبّ الأئمّة عليهم السّلام: «بشمع و دهن زنبق و لبنى عسل و سماق و سر و كتان».قال المجلسي: و «سر و كتان» لم أجده في كتب الطبّ و لا كتب اللغة، و كأنّه كان «بزركتان» أو المراد به ذلك، و هو معروف. بحار الأنوار 201:59. \">4</a></sup></span> تجمع في فخارة حتّى إذا اجتمع<span><sup><a class=\"NewFn\" href=\"#footnote1531\" title=\"(5)  في طبّ الأئمّة عليهم السّلام: «اجمعه في مغرفة على النار فإذا اختلط». و المغرفة - بالكسر - ما يغرف به. الصحاح 1410:4 «غرف».\">5</a></sup></span> فخذ منه بندقة قدر حمّصة فالطخ به المقعدة». </span>\n  </p>\n  <p id=\"p3458\" paragraph-id=\"3458\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1527\" footnote-id=\"1527\">(1) <page number=\"277\" /> «مسافر» مولى أبي الحسن الرضا عليه السّلام. رجال الكشّي: 972/506. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1528\" footnote-id=\"1528\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1529\" footnote-id=\"1529\">(3)  في النسخة: «الدم» و ما أثبتناه من طبّ الأئمة عليهم السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1530\" footnote-id=\"1530\">(4)  و في طبّ الأئمّة عليهم السّلام: «بشمع و دهن زنبق و لبنى عسل و سماق و سر و كتان».<br />قال المجلسي: و «سر و كتان» لم أجده في كتب الطبّ و لا كتب اللغة، و كأنّه كان «بزركتان» أو المراد به ذلك، و هو معروف. بحار الأنوار 201:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1531\" footnote-id=\"1531\">(5)  في طبّ الأئمّة عليهم السّلام: «اجمعه في مغرفة على النار فإذا اختلط». و المغرفة - بالكسر - ما يغرف به. الصحاح 1410:4 «غرف».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "3C4CF951-6065-474F-AEAA-ACC8FBFFE725",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

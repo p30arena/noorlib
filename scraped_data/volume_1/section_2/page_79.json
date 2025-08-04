@@ -1,0 +1,75 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 79,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166863,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2468\"><format class=\"hadith\" who=\"11|10\" Id=\"121\" RevayatIndex=\"121\"><format class=\"sanadHadith\">و روى إبراهيم بن اسحاق، عن عبد الله بن أحمد:</format> الشفاء الذي لا داء بعده من مكتوم سرّ الموالي عليهم السّلام،<format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\"/></format> لكلّ حمّى ربع و صالب و نافض<lfootnote noteId=\"613\">7</lfootnote>و كلّ الحرارات، وجد في خزانة الخراساني و <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"11|10\">العسكري عليهم السّلام</format></format>: «تأخذ عصارة <page number=\"79\"/> غافت<lfootnote noteId=\"614\">1</lfootnote> خمسة أساتير<lfootnote noteId=\"615\">2</lfootnote>، و ترنجبين ستّة أساتير، و ترنجبين آخر ستّة أساتير، و طباشير<lfootnote noteId=\"616\">3</lfootnote> و افسنتين<lfootnote noteId=\"617\">4</lfootnote> مكد وزن أربعة دراهم، و بذر كرفس و باذروج<lfootnote noteId=\"618\">5</lfootnote> مكد وزن خمسة دراهم، و عصارة السوس<lfootnote noteId=\"619\">6</lfootnote> و أنيسون<lfootnote noteId=\"620\">7</lfootnote> و أسارون<lfootnote noteId=\"621\">8</lfootnote> و شحم الحنظل مكد وزن ثلاثة دراهم، و ورد<lfootnote noteId=\"622\">9</lfootnote> يابس و سنبل مكد استارين، و لوز مرّ و راوند <page number=\"80\"/> صيني<lfootnote noteId=\"623\">1</lfootnote> مكد وزن درهمين، و زعفران وزن درهم، تدقّ و تنخل و تعجن بماء الترنجبين<lfootnote noteId=\"624\">2</lfootnote> و تتّخذ أقراصا، كلّ قرص وزن درهمين، تؤخذ مع وزن ثلاثه دراهم سكّر طبرزد بماء بارد، جيّد مجرّب شفاء رأس كلّ داء للحمّى و هو خمسة عشر خلطا<lfootnote noteId=\"625\">3</lfootnote>»<lfootnote noteId=\"626\">4</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168645,
+          "text": "<footnote id=\"614\"><page number=\"79\"/><mnote>(1)</mnote> قال الهروي: غافت: هذا من الحشائش الشاكة، له ورق كورق الشهدانج و زهر كالنيلوفر، يقال له بالفارسية: گل خله. بحر الجواهر: 279. </footnote>"
+        },
+        {
+          "footnoteId": 714168646,
+          "text": "<footnote id=\"615\"><mnote>(2)</mnote> الإستار في العدد بكسر الهمزة: وزن أربعة مثاقيل و نصف، و الجمع أساتير. مجمع البحرين 323:3 «ستر». </footnote>"
+        },
+        {
+          "footnoteId": 714168647,
+          "text": "<footnote id=\"616\"><mnote>(3)</mnote> قال الهروي: هي اصول القنا المحرقة، يقال: أنّها تحرق لاحتكاك أطرافها عند عصوف الرياح بها و هذا يكون في بلاد الهند. بحر الجواهر: 252. </footnote>"
+        },
+        {
+          "footnoteId": 714168648,
+          "text": "<footnote id=\"617\"><mnote>(4)</mnote> قال الهروي: هو حشيشة تشبه ورق الصعتر، فيه مرارة و قبض و حرافة. بحر الجواهر: 43. </footnote>"
+        },
+        {
+          "footnoteId": 714168649,
+          "text": "<footnote id=\"618\"><mnote>(5)</mnote> الباذروج: نبت يؤكل، و يقال: هو نوع من الريحان الجبلي. مجمع البحرين 276:2 «بذرج». </footnote>"
+        },
+        {
+          "footnoteId": 714168650,
+          "text": "<footnote id=\"619\"><mnote>(6)</mnote> السوس: نبات يشبه الرياحين عريض الورق و ليس له رائحة كالرياحين. مجمع البحرين 78:4 «سوس»، و هو شجر له ورق كورق شجر المصطكى، و زهر ناعم يميل إلى الزرقة، و عروق معروفة و هي تميل إلى الحرارة، و معتدلة في الرطوبة و اليبوسة. كتاب الماء 681:2. </footnote>"
+        },
+        {
+          "footnoteId": 714168651,
+          "text": "<footnote id=\"620\"><mnote>(7)</mnote> هو الرازيانج، نبات تستخرج منه البذور الحارّة. كتاب الماء 73:1. </footnote>"
+        },
+        {
+          "footnoteId": 714168652,
+          "text": "<footnote id=\"621\"><mnote>(8)</mnote> قال الهروي: هي حشيشة ذات بزور كثيرة، عقد الاصول معوجّة يشبه النيل، طيّبة الرائحة لذّاعة اللسان، لها زهر بين الورق عند اصولها، لونها فرفري يشبّه بزهر البنج. بحر الجواهر: 29. </footnote>"
+        },
+        {
+          "footnoteId": 714168653,
+          "text": "<footnote id=\"622\"><mnote>(9)</mnote> في النسخة: «ورد» و ما أثبتناه هو الصواب.</footnote>"
+        }
+      ],
+      "pageValue": "79",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2468\" paragraph-id=\"2468\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo79\">79</span> غافت<span><sup><a class=\"NewFn\" href=\"#footnote614\" title=\"(1)  قال الهروي: غافت: هذا من الحشائش الشاكة، له ورق كورق الشهدانج و زهر كالنيلوفر، يقال له بالفارسية: گل خله. بحر الجواهر: 279. \">1</a></sup></span> خمسة أساتير<span><sup><a class=\"NewFn\" href=\"#footnote615\" title=\"(2)  الإستار في العدد بكسر الهمزة: وزن أربعة مثاقيل و نصف، و الجمع أساتير. مجمع البحرين 323:3 «ستر». \">2</a></sup></span>، و ترنجبين ستّة أساتير، و ترنجبين آخر ستّة أساتير، و طباشير<span><sup><a class=\"NewFn\" href=\"#footnote616\" title=\"(3)  قال الهروي: هي اصول القنا المحرقة، يقال: أنّها تحرق لاحتكاك أطرافها عند عصوف الرياح بها و هذا يكون في بلاد الهند. بحر الجواهر: 252. \">3</a></sup></span> و افسنتين<span><sup><a class=\"NewFn\" href=\"#footnote617\" title=\"(4)  قال الهروي: هو حشيشة تشبه ورق الصعتر، فيه مرارة و قبض و حرافة. بحر الجواهر: 43. \">4</a></sup></span> مكد وزن أربعة دراهم، و بذر كرفس و باذروج<span><sup><a class=\"NewFn\" href=\"#footnote618\" title=\"(5)  الباذروج: نبت يؤكل، و يقال: هو نوع من الريحان الجبلي. مجمع البحرين 276:2 «بذرج». \">5</a></sup></span> مكد وزن خمسة دراهم، و عصارة السوس<span><sup><a class=\"NewFn\" href=\"#footnote619\" title=\"(6)  السوس: نبات يشبه الرياحين عريض الورق و ليس له رائحة كالرياحين. مجمع البحرين 78:4 «سوس»، و هو شجر له ورق كورق شجر المصطكى، و زهر ناعم يميل إلى الزرقة، و عروق معروفة و هي تميل إلى الحرارة، و معتدلة في الرطوبة و اليبوسة. كتاب الماء 681:2. \">6</a></sup></span> و أنيسون<span><sup><a class=\"NewFn\" href=\"#footnote620\" title=\"(7)  هو الرازيانج، نبات تستخرج منه البذور الحارّة. كتاب الماء 73:1. \">7</a></sup></span> و أسارون<span><sup><a class=\"NewFn\" href=\"#footnote621\" title=\"(8)  قال الهروي: هي حشيشة ذات بزور كثيرة، عقد الاصول معوجّة يشبه النيل، طيّبة الرائحة لذّاعة اللسان، لها زهر بين الورق عند اصولها، لونها فرفري يشبّه بزهر البنج. بحر الجواهر: 29. \">8</a></sup></span> و شحم الحنظل مكد وزن ثلاثة دراهم، و ورد<span><sup><a class=\"NewFn\" href=\"#footnote622\" title=\"(9)  في النسخة: «ورد» و ما أثبتناه هو الصواب.\">9</a></sup></span> يابس و سنبل مكد استارين، و لوز مرّ و راوند </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote614\" footnote-id=\"614\">(1) <page number=\"79\" /> قال الهروي: غافت: هذا من الحشائش الشاكة، له ورق كورق الشهدانج و زهر كالنيلوفر، يقال له بالفارسية: گل خله. بحر الجواهر: 279. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote615\" footnote-id=\"615\">(2)  الإستار في العدد بكسر الهمزة: وزن أربعة مثاقيل و نصف، و الجمع أساتير. مجمع البحرين 323:3 «ستر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote616\" footnote-id=\"616\">(3)  قال الهروي: هي اصول القنا المحرقة، يقال: أنّها تحرق لاحتكاك أطرافها عند عصوف الرياح بها و هذا يكون في بلاد الهند. بحر الجواهر: 252. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote617\" footnote-id=\"617\">(4)  قال الهروي: هو حشيشة تشبه ورق الصعتر، فيه مرارة و قبض و حرافة. بحر الجواهر: 43. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote618\" footnote-id=\"618\">(5)  الباذروج: نبت يؤكل، و يقال: هو نوع من الريحان الجبلي. مجمع البحرين 276:2 «بذرج». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote619\" footnote-id=\"619\">(6)  السوس: نبات يشبه الرياحين عريض الورق و ليس له رائحة كالرياحين. مجمع البحرين 78:4 «سوس»، و هو شجر له ورق كورق شجر المصطكى، و زهر ناعم يميل إلى الزرقة، و عروق معروفة و هي تميل إلى الحرارة، و معتدلة في الرطوبة و اليبوسة. كتاب الماء 681:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote620\" footnote-id=\"620\">(7)  هو الرازيانج، نبات تستخرج منه البذور الحارّة. كتاب الماء 73:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote621\" footnote-id=\"621\">(8)  قال الهروي: هي حشيشة ذات بزور كثيرة، عقد الاصول معوجّة يشبه النيل، طيّبة الرائحة لذّاعة اللسان، لها زهر بين الورق عند اصولها، لونها فرفري يشبّه بزهر البنج. بحر الجواهر: 29. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote622\" footnote-id=\"622\">(9)  في النسخة: «ورد» و ما أثبتناه هو الصواب.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "33E48106-4244-46F6-A1F9-31E3F074E1BC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

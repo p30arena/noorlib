@@ -1,0 +1,77 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 31,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169831,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1086\"><format class=\"hadith\" who=\"6\" Id=\"43\" RevayatIndex=\"564\">ثمّ قال: «و لو علمت<lfootnote noteId=\"108\">3</lfootnote> يا فلان، أنّك إذا قلت هذا فقد جمعت الخير<lfootnote noteId=\"109\">4</lfootnote>، إنّ الله تبارك و تعالى يقول في كتابه: <format class=\"ayah\" surah=\"7\" ayah=\"188\" toAyah=\"\">وَ لَوْ كُنْتُ أَعْلَمُ اَلْغَيْبَ لاَسْتَكْثَرْتُ مِنَ اَلْخَيْرِ وَ مٰا مَسَّنِيَ اَلسُّوءُ‌<format class=\"ayahWord\" fromWord=\"13\" toWord=\"24\"/><format class=\"ayahAddress\" surah=\"7\" ayah=\"188\" toAyah=\"\"/></format><lfootnote noteId=\"110\">5</lfootnote> يعني الفقر<lfootnote noteId=\"111\">6</lfootnote>. و قال في موضع آخر: <format class=\"ayah\" surah=\"12\" ayah=\"24\" toAyah=\"\">وَ لَقَدْ هَمَّتْ بِهِ وَ هَمَّ بِهٰا لَوْ لاٰ أَنْ رَأىٰ بُرْهٰانَ رَبِّهِ كَذٰلِكَ لِنَصْرِفَ عَنْهُ اَلسُّوءَ وَ اَلْفَحْشٰاءَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"19\"/><format class=\"ayahAddress\" surah=\"12\" ayah=\"24\" toAyah=\"\"/></format><lfootnote noteId=\"112\">7</lfootnote><page number=\"31\"/> يعني<lfootnote noteId=\"113\">1</lfootnote> قبل أن يدخل في الزنا، و قال الله تعالى <format class=\"E\" Number=\"32\">لموسى عليه السّلام</format><lfootnote noteId=\"114\">2</lfootnote>: <format class=\"ayah\" surah=\"27\" ayah=\"12\" toAyah=\"\">أَدْخِلْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضٰاءَ مِنْ غَيْرِ سُوءٍ‌<format class=\"ayahWord\" fromWord=\"2\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"27\" ayah=\"12\" toAyah=\"\"/></format><lfootnote noteId=\"115\">3</lfootnote> يعني برص»<lfootnote noteId=\"116\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169832,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1087\"><heading level=\"2\">[باب] فيما يؤكل قبل الحجامة </heading></p>"
+        },
+        {
+          "paragraphId": 714169833,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1088\">[44] </p>"
+        },
+        {
+          "paragraphId": 714169834,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1089\"><format class=\"hadith\" who=\"6\" Id=\"44\" RevayatIndex=\"565\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن الحسين، عن المفضّل بن صالح<lfootnote noteId=\"117\">5</lfootnote>، عن زيد الشحّام قال:</format> كنت عند <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> فدعا الحجّام، فقال له: «اغسل محاجمك و علّقها» و دعا برمّانة فأكلها، فلمّا فرغ من <page number=\"32\"/> الحجامة دعا برمّانة اخرى فأكلها ثمّ قال: «هذا<lfootnote noteId=\"118\">1</lfootnote> يطفئ المرار»<lfootnote noteId=\"119\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170897,
+          "text": "<footnote id=\"113\"><page number=\"31\"/><mnote>(1)</mnote> كلمة: «يعني» أثبتناها من معاني الأخبار. </footnote>"
+        },
+        {
+          "footnoteId": 714170898,
+          "text": "<footnote id=\"114\"><mnote>(2)</mnote> قوله: «لموسى عليه السّلام» أثبتناه من معاني الأخبار. </footnote>"
+        },
+        {
+          "footnoteId": 714170899,
+          "text": "<footnote id=\"115\"><mnote>(3)</mnote> سورة النمل 12:27. </footnote>"
+        },
+        {
+          "footnoteId": 714170900,
+          "text": "<footnote id=\"116\"><mnote>(4)</mnote> رواه الصدوق في معاني الأخبار: 1/172، باب معنى السوء، أبي رحمه الله، قال: حدّثنا سعد بن عبد الله، عن أحمد بن محمّد بن خالد، عن أبيه، عن عبد الله بن سنان، عن خلف بن حمّاد، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 55 بتفاوت يسير في بعض الألفاظ، فقالا: عوذة عند الحجامة، محمّد بن القاسم بن منجاب، قال: حدّثنا خلف بن حمّاد، عن عبد الله بن مسكان، عن جابر بن يزيد الجعفي، قال: قال أبو جعفر الباقر عليه السّلام لرجل من أصحابه:..<br/>و الطبرسي في مكارم الأخلاق: 10/74، الفصل الرابع في الحجامة، عنه عليه السّلام أنّه قال لرجل من أصحابه:... إلى قوله تعالى: <format class=\"ayah\" surah=\"7\" ayah=\"188\" toAyah=\"\">مٰا مَسَّنِيَ اَلسُّوءُ‌<format class=\"ayahWord\" fromWord=\"22\" toWord=\"24\"/><format class=\"ayahAddress\" surah=\"7\" ayah=\"188\" toAyah=\"\"/></format>.<br/>و أمّا الدعاء فقد روي بصيغة اخرى في فقه الإمام الرضا عليه السّلام: 113/394 هكذا: باب الحجامة و الحلق: فإذا أردت الحجامة، فاجلس بين يدي الحجّام و أنت متربّع، و قل:<br/>بسم الله الرحمن الرحيم، و قال الفضل الطبرسي في الآداب الدينية: 265/92، تقول عند الحجامة و الدم سائل: بسم الله الرحمن الرحيم أعوذ بالله الكريم في حجامتي هذه من العين في الدم و من كلّ سوء. </footnote>"
+        },
+        {
+          "footnoteId": 714170901,
+          "text": "<footnote id=\"117\"><mnote>(5)</mnote> في النسخة: «عن إسماعيل بن صالح»، و لم نعثر عليه في أسانيد مصادرنا، و أما المفضل بن صالح فقد روى كثيرا عن زيد الشحام.</footnote>"
+        }
+      ],
+      "pageValue": "31",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1086\" paragraph-id=\"1086\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo31\">31</span> يعني<span><sup><a class=\"NewFn\" href=\"#footnote113\" title=\"(1)  كلمة: «يعني» أثبتناها من معاني الأخبار. \">1</a></sup></span> قبل أن يدخل في الزنا، و قال الله تعالى <span class=\"E\">لموسى عليه السّلام</span><span><sup><a class=\"NewFn\" href=\"#footnote114\" title=\"(2)  قوله: «لموسى عليه السّلام» أثبتناه من معاني الأخبار. \">2</a></sup></span>: <span style=\"0\" class=\"ayah\" surah=\"27\" ayah=\"12\">أَدْخِلْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضٰاءَ مِنْ غَيْرِ سُوءٍ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/27/12\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote115\" title=\"(3)  سورة النمل 12:27. \">3</a></sup></span> يعني برص»<span><sup><a class=\"NewFn\" href=\"#footnote116\" title=\"(4)  رواه الصدوق في معاني الأخبار: 1/172، باب معنى السوء، أبي رحمه الله، قال: حدّثنا سعد بن عبد الله، عن أحمد بن محمّد بن خالد، عن أبيه، عن عبد الله بن سنان، عن خلف بن حمّاد، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 55 بتفاوت يسير في بعض الألفاظ، فقالا: عوذة عند الحجامة، محمّد بن القاسم بن منجاب، قال: حدّثنا خلف بن حمّاد، عن عبد الله بن مسكان، عن جابر بن يزيد الجعفي، قال: قال أبو جعفر الباقر عليه السّلام لرجل من أصحابه:..و الطبرسي في مكارم الأخلاق: 10/74، الفصل الرابع في الحجامة، عنه عليه السّلام أنّه قال لرجل من أصحابه:... إلى قوله تعالى: مٰا مَسَّنِيَ اَلسُّوءُ‌.و أمّا الدعاء فقد روي بصيغة اخرى في فقه الإمام الرضا عليه السّلام: 113/394 هكذا: باب الحجامة و الحلق: فإذا أردت الحجامة، فاجلس بين يدي الحجّام و أنت متربّع، و قل:بسم الله الرحمن الرحيم، و قال الفضل الطبرسي في الآداب الدينية: 265/92، تقول عند الحجامة و الدم سائل: بسم الله الرحمن الرحيم أعوذ بالله الكريم في حجامتي هذه من العين في الدم و من كلّ سوء. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1087\" paragraph-id=\"1087\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] فيما يؤكل قبل الحجامة </strong>\n  </p>\n  <p id=\"p1088\" paragraph-id=\"1088\" class=\" G\">[44] </p>\n  <p id=\"p1089\" paragraph-id=\"1089\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن الحسين، عن المفضّل بن صالح<span><sup><a class=\"NewFn\" href=\"#footnote117\" title=\"(5)  في النسخة: «عن إسماعيل بن صالح»، و لم نعثر عليه في أسانيد مصادرنا، و أما المفضل بن صالح فقد روى كثيرا عن زيد الشحام.\">5</a></sup></span>، عن زيد الشحّام قال:</span> كنت عند <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> فدعا الحجّام، فقال له: «اغسل محاجمك و علّقها» و دعا برمّانة فأكلها، فلمّا فرغ من </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote113\" footnote-id=\"113\">(1) <page number=\"31\" /> كلمة: «يعني» أثبتناها من معاني الأخبار. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote114\" footnote-id=\"114\">(2)  قوله: «لموسى عليه السّلام» أثبتناه من معاني الأخبار. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote115\" footnote-id=\"115\">(3)  سورة النمل 12:27. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote116\" footnote-id=\"116\">(4)  رواه الصدوق في معاني الأخبار: 1/172، باب معنى السوء، أبي رحمه الله، قال: حدّثنا سعد بن عبد الله، عن أحمد بن محمّد بن خالد، عن أبيه، عن عبد الله بن سنان، عن خلف بن حمّاد، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 55 بتفاوت يسير في بعض الألفاظ، فقالا: عوذة عند الحجامة، محمّد بن القاسم بن منجاب، قال: حدّثنا خلف بن حمّاد، عن عبد الله بن مسكان، عن جابر بن يزيد الجعفي، قال: قال أبو جعفر الباقر عليه السّلام لرجل من أصحابه:..<br />و الطبرسي في مكارم الأخلاق: 10/74، الفصل الرابع في الحجامة، عنه عليه السّلام أنّه قال لرجل من أصحابه:... إلى قوله تعالى: <format class=\"ayah\" surah=\"7\" ayah=\"188\" toAyah=\"\">مٰا مَسَّنِيَ اَلسُّوءُ‌<format class=\"ayahWord\" fromWord=\"22\" toWord=\"24\" /><format class=\"ayahAddress\" surah=\"7\" ayah=\"188\" toAyah=\"\" /></format>.<br />و أمّا الدعاء فقد روي بصيغة اخرى في فقه الإمام الرضا عليه السّلام: 113/394 هكذا: باب الحجامة و الحلق: فإذا أردت الحجامة، فاجلس بين يدي الحجّام و أنت متربّع، و قل:<br />بسم الله الرحمن الرحيم، و قال الفضل الطبرسي في الآداب الدينية: 265/92، تقول عند الحجامة و الدم سائل: بسم الله الرحمن الرحيم أعوذ بالله الكريم في حجامتي هذه من العين في الدم و من كلّ سوء. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote117\" footnote-id=\"117\">(5)  في النسخة: «عن إسماعيل بن صالح»، و لم نعثر عليه في أسانيد مصادرنا، و أما المفضل بن صالح فقد روى كثيرا عن زيد الشحام.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4D6D036B-B334-4951-A409-C489DBBA06F4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

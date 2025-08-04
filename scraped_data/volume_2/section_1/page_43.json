@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 43,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169878,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1133\"><format class=\"hadith\" who=\"6\" Id=\"59\" RevayatIndex=\"580\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، <page number=\"43\"/> عن علي<lfootnote noteId=\"160\">1</lfootnote>، عن علي بن عطيّة، عن رجل قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«من احتجم في آخر خميس في الشهر آخر النهار سلّ الداء سلّا<lfootnote noteId=\"161\">2</lfootnote>»<lfootnote noteId=\"162\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169879,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1134\">[60] </p>"
+        },
+        {
+          "paragraphId": 714169880,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1135\"><format class=\"hadith\" who=\"6\" Id=\"60\" RevayatIndex=\"581\"><format class=\"sanadHadith\">يعقوب بن يزيد، عن مروك بن عبيد<lfootnote noteId=\"163\">4</lfootnote>، عن ابن سنان، عن مغيث بن المبارك<lfootnote noteId=\"164\">5</lfootnote> قال:</format> دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> في يوم خميس و هو يحتجم.</format></p>"
+        },
+        {
+          "paragraphId": 714169881,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1136\"><format class=\"hadith\" who=\"6\" Id=\"60\" RevayatIndex=\"581\">فقلت: يا <format class=\"maasoom\" maasoomNo=\"6\">بن رسول الله</format>، تحتجم يوم الخميس‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714169882,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1137\"><format class=\"hadith\" who=\"6\" Id=\"60\" RevayatIndex=\"581\">فقال عليه السّلام: «نعم من كان محتجما فليحتجم يوم الخميس، فإنّ كلّ عشيّة<lfootnote noteId=\"165\">6</lfootnote>جمعة يبتدر الدم فرقا من القيامة<lfootnote noteId=\"166\">7</lfootnote> و لا يرجع إلى وكره إلى غداة الخميس». ثمّ <page number=\"44\"/> التفت إلى غلامه زبيخ<lfootnote noteId=\"167\">1</lfootnote> فقال: «يا زبيخ، اشدد قصب الملازم، و اجعل مصّك مجّا<lfootnote noteId=\"168\">2</lfootnote> و اجعل شرطك زحفا<lfootnote noteId=\"169\">3</lfootnote>»<lfootnote noteId=\"170\">4</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170944,
+          "text": "<footnote id=\"160\"><page number=\"43\"/><mnote>(1)</mnote> هو علي بن حسّان الواسطي أبو الحسين القصير المعروف بالمنمس الذي روى عن علي بن عطيّة، و روى عنه أحمد بن محمّد بن عيسى الأشعري. انظر: من لا يحضره الفقيه 472:4، علل الشرائع: 2/525. </footnote>"
+        },
+        {
+          "footnoteId": 714170945,
+          "text": "<footnote id=\"161\"><mnote>(2)</mnote> سللت كذا من كذا: إذا أخرجته منه. مجمع البحرين 398:5 «سلل». </footnote>"
+        },
+        {
+          "footnoteId": 714170946,
+          "text": "<footnote id=\"162\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 75: عن الصادق عليه السّلام و روى نحوه الصدوق في الخصال: 79/389، ما جاء في يوم الخميس، حدّثنا أبي رضي الله عنه، قال: حدّثنا سعد بن عبد الله، قال: حدّثنا يعقوب بن يزيد، عن مروان بن عبيد، عن محمّد بن سنان، عن معتب بن المبارك، و قال أبو عبد الله: «من احتجم في آخر خميس من الشهر في أوّل النهار سلّ منه الداء سلّا». </footnote>"
+        },
+        {
+          "footnoteId": 714170947,
+          "text": "<footnote id=\"163\"><mnote>(4)</mnote> في النسخة: «عن مروان بن عبيد» و لم نعثر على اسمه في المصادر إلّا ما ورد في الخصال و هو تصحيف، فقد روى الحر العاملي و المجلسي هذا الحديث عن الخصال بلفظ مروك بن عبيد، و قد روى يعقوب بن يزيد عنه كثيرا. </footnote>"
+        },
+        {
+          "footnoteId": 714170948,
+          "text": "<footnote id=\"164\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا، و في الخصال: «معتب بن المبارك» و لعلّه معتّب مولى الصادق عليه السّلام، الذي روى عنه و عن الكاظم عليهما السّلام. انظر: معجم رجال الحديث 247:9. </footnote>"
+        },
+        {
+          "footnoteId": 714170949,
+          "text": "<footnote id=\"165\"><mnote>(6)</mnote> في النسخة: «فإن كان عشية» و ما أثبتناه من الخصال. </footnote>"
+        },
+        {
+          "footnoteId": 714170950,
+          "text": "<footnote id=\"166\"><mnote>(7)</mnote> أي: خوفا من القيامة: الفرق بالتحريك: الخوف. لسان العرب 304:10 «فرق».</footnote>"
+        }
+      ],
+      "pageValue": "43",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1133\" paragraph-id=\"1133\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo43\">43</span> عن علي<span><sup><a class=\"NewFn\" href=\"#footnote160\" title=\"(1)  هو علي بن حسّان الواسطي أبو الحسين القصير المعروف بالمنمس الذي روى عن علي بن عطيّة، و روى عنه أحمد بن محمّد بن عيسى الأشعري. انظر: من لا يحضره الفقيه 472:4، علل الشرائع: 2/525. \">1</a></sup></span>، عن علي بن عطيّة، عن رجل قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«من احتجم في آخر خميس في الشهر آخر النهار سلّ الداء سلّا<span><sup><a class=\"NewFn\" href=\"#footnote161\" title=\"(2)  سللت كذا من كذا: إذا أخرجته منه. مجمع البحرين 398:5 «سلل». \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote162\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 75: عن الصادق عليه السّلام و روى نحوه الصدوق في الخصال: 79/389، ما جاء في يوم الخميس، حدّثنا أبي رضي الله عنه، قال: حدّثنا سعد بن عبد الله، قال: حدّثنا يعقوب بن يزيد، عن مروان بن عبيد، عن محمّد بن سنان، عن معتب بن المبارك، و قال أبو عبد الله: «من احتجم في آخر خميس من الشهر في أوّل النهار سلّ منه الداء سلّا». \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1134\" paragraph-id=\"1134\" class=\" G\">[60] </p>\n  <p id=\"p1135\" paragraph-id=\"1135\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">يعقوب بن يزيد، عن مروك بن عبيد<span><sup><a class=\"NewFn\" href=\"#footnote163\" title=\"(4)  في النسخة: «عن مروان بن عبيد» و لم نعثر على اسمه في المصادر إلّا ما ورد في الخصال و هو تصحيف، فقد روى الحر العاملي و المجلسي هذا الحديث عن الخصال بلفظ مروك بن عبيد، و قد روى يعقوب بن يزيد عنه كثيرا. \">4</a></sup></span>، عن ابن سنان، عن مغيث بن المبارك<span><sup><a class=\"NewFn\" href=\"#footnote164\" title=\"(5)  لم نعثر عليه في المصادر المتوفرة لدينا، و في الخصال: «معتب بن المبارك» و لعلّه معتّب مولى الصادق عليه السّلام، الذي روى عنه و عن الكاظم عليهما السّلام. انظر: معجم رجال الحديث 247:9. \">5</a></sup></span> قال:</span> دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> في يوم خميس و هو يحتجم.</span>\n  </p>\n  <p id=\"p1136\" paragraph-id=\"1136\" class=\" G\">\n    <span class=\"hadith\">فقلت: يا <span class=\"maasoom\">بن رسول الله</span>، تحتجم يوم الخميس‌؟</span>\n  </p>\n  <p id=\"p1137\" paragraph-id=\"1137\" class=\" G\">\n    <span class=\"hadith\">فقال عليه السّلام: «نعم من كان محتجما فليحتجم يوم الخميس، فإنّ كلّ عشيّة<span><sup><a class=\"NewFn\" href=\"#footnote165\" title=\"(6)  في النسخة: «فإن كان عشية» و ما أثبتناه من الخصال. \">6</a></sup></span>جمعة يبتدر الدم فرقا من القيامة<span><sup><a class=\"NewFn\" href=\"#footnote166\" title=\"(7)  أي: خوفا من القيامة: الفرق بالتحريك: الخوف. لسان العرب 304:10 «فرق».\">7</a></sup></span> و لا يرجع إلى وكره إلى غداة الخميس». ثمّ </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote160\" footnote-id=\"160\">(1) <page number=\"43\" /> هو علي بن حسّان الواسطي أبو الحسين القصير المعروف بالمنمس الذي روى عن علي بن عطيّة، و روى عنه أحمد بن محمّد بن عيسى الأشعري. انظر: من لا يحضره الفقيه 472:4، علل الشرائع: 2/525. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote161\" footnote-id=\"161\">(2)  سللت كذا من كذا: إذا أخرجته منه. مجمع البحرين 398:5 «سلل». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote162\" footnote-id=\"162\">(3)  رواه الطبرسي في مكارم الأخلاق: 75: عن الصادق عليه السّلام و روى نحوه الصدوق في الخصال: 79/389، ما جاء في يوم الخميس، حدّثنا أبي رضي الله عنه، قال: حدّثنا سعد بن عبد الله، قال: حدّثنا يعقوب بن يزيد، عن مروان بن عبيد، عن محمّد بن سنان، عن معتب بن المبارك، و قال أبو عبد الله: «من احتجم في آخر خميس من الشهر في أوّل النهار سلّ منه الداء سلّا». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote163\" footnote-id=\"163\">(4)  في النسخة: «عن مروان بن عبيد» و لم نعثر على اسمه في المصادر إلّا ما ورد في الخصال و هو تصحيف، فقد روى الحر العاملي و المجلسي هذا الحديث عن الخصال بلفظ مروك بن عبيد، و قد روى يعقوب بن يزيد عنه كثيرا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote164\" footnote-id=\"164\">(5)  لم نعثر عليه في المصادر المتوفرة لدينا، و في الخصال: «معتب بن المبارك» و لعلّه معتّب مولى الصادق عليه السّلام، الذي روى عنه و عن الكاظم عليهما السّلام. انظر: معجم رجال الحديث 247:9. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote165\" footnote-id=\"165\">(6)  في النسخة: «فإن كان عشية» و ما أثبتناه من الخصال. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote166\" footnote-id=\"166\">(7)  أي: خوفا من القيامة: الفرق بالتحريك: الخوف. لسان العرب 304:10 «فرق».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "BFD75474-1549-4116-92E9-490C0B23A7E7",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

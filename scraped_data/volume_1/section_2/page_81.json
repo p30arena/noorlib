@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 81,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166867,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2472\"><format class=\"hadith\" who=\"6\" Id=\"122\" RevayatIndex=\"122\"><format class=\"sanadHadith\">و أحمد بن أبي عبد الله و أبي طالب و العبّاس بن معروف جميعا، عن بكر بن محمّد، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«حمّ <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> فأتاه جبرئيل عليه السّلام يعوده، فقال: بسم الله أرقيك<lfootnote noteId=\"627\">5</lfootnote> يا محمّد و بسم الله أشفيك، و بسم الله من كلّ داء <page number=\"81\"/> يعنيك<lfootnote noteId=\"628\">1</lfootnote> و الله يشفيك، خذها<lfootnote noteId=\"629\">2</lfootnote> فلتهنيك <format class=\"ayah\" surah=\"1\" ayah=\"1\" toAyah=\"\">بِسْمِ اَللّٰهِ اَلرَّحْمٰنِ اَلرَّحِيمِ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"1\" ayah=\"1\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"56\" ayah=\"75\" toAyah=\"\">فَلاٰ أُقْسِمُ بِمَوٰاقِعِ اَلنُّجُومِ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"56\" ayah=\"75\" toAyah=\"\"/></format> إلى <format class=\"ayah\" surah=\"56\" ayah=\"76\" toAyah=\"\">عَظِيمٌ‌<format class=\"ayahWord\" fromWord=\"6\" toWord=\"6\"/><format class=\"ayahAddress\" surah=\"56\" ayah=\"76\" toAyah=\"\"/></format><lfootnote noteId=\"630\">3</lfootnote> لتبرأنّ بإذن الله».</format></p>"
+        },
+        {
+          "paragraphId": 714166868,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2473\"><format class=\"hadith\" who=\"6\" Id=\"122\" RevayatIndex=\"122\">قال بكر: سألته عن الحمّى فحدّثني بهذا الحديث<lfootnote noteId=\"631\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166869,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2474\"><heading level=\"2\">[باب في ماء زمزم] </heading></p>"
+        },
+        {
+          "paragraphId": 714166870,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2475\">[125] </p>"
+        },
+        {
+          "paragraphId": 714166871,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2476\"><format class=\"hadith\" who=\"6\" Id=\"123\" RevayatIndex=\"123\"><format class=\"sanadHadith\">و عنه قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان، عن إسماعيل بن جابر، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format> يقول: </format>«ماء زمزم شفاء من كلّ داء» - و أظنّه قال: «كائنا ما كان»<lfootnote noteId=\"632\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166872,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2477\"><page number=\"82\"/><heading level=\"3\">و أيضا عوذة للحمّى:</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168659,
+          "text": "<footnote id=\"628\"><page number=\"81\"/><mnote>(1)</mnote> العناء: تعب و نصب. الصحاح 2440:6 «عنا». </footnote>"
+        },
+        {
+          "footnoteId": 714168660,
+          "text": "<footnote id=\"629\"><mnote>(2)</mnote> قوله عليه السّلام: «خذها» أي: خذ هذه الرقية، أو العوذة أو هذه الكلمات الشريفة، الوافي 1653:9، شرح الكافي للمازندراني 46:12. </footnote>"
+        },
+        {
+          "footnoteId": 714168661,
+          "text": "<footnote id=\"630\"><mnote>(3)</mnote> سورة الواقعة 75:56-76. </footnote>"
+        },
+        {
+          "footnoteId": 714168662,
+          "text": "<footnote id=\"631\"><mnote>(4)</mnote> رواه الحميري في قرب الإسناد: 134/42، عن أحمد بن إسحاق بن سعد، قال: حدّثنا بكر بن محمّد الأزدي، قال:] و قال أبو عبد الله عليه السّلام، و الكليني في الكافي 88/109:8، عن الحسين بن محمّد الأشعري، عن محمّد بن إسحاق الأشعري، عن بكر بن محمّد الأزدي، و عنه الكفعمي في المصباح: 161، و الطبرسي في مكارم الأخلاق: 3/391، ما يدعى به للمريض، و 6/399 للمحموم، عن الصادق عليه السّلام، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 38، فقالا: حدّثنا أحمد بن محمّد أبو جعفر، قال: حدّثنا أبي محمّد بن خالد، عن بكر بن خالد، عن محمّد بن سنان، عن عبد الله بن عمّار الدهني، عن أبيه، عن عمرو ذي فر و تغلبة الجمالي قالا: سمعنا أمير المؤمنين عليه السّلام يقول: «<format class=\"ayah\" surah=\"56\" ayah=\"75\" toAyah=\"76\">فَلاٰ أُقْسِمُ بِمَوٰاقِعِ اَلنُّجُومِ <format class=\"AyahSeprator\"/>وَ إِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"56\" ayah=\"75\" toAyah=\"76\"/></format> لتبرأنّ بإذن الله عزّ و جلّ‌، فأطلق النبي صلّى الله عليه و آله من عقاله، فقال: يا جبرئيل، هذه عوذة بليغة، قال: هي من خزانة في السماء السابعة». </footnote>"
+        },
+        {
+          "footnoteId": 714168663,
+          "text": "<footnote id=\"632\"><mnote>(5)</mnote> رواه البرقي في المحاسن 3/572:2، باب زمزم، عن أبيه، عن محمّد بن سنان، عن <page number=\"82\"/>إسماعيل بن جابر، قال: سمعت أبا عبد الله عليه السّلام يقول:... و فيه زيادة: «كائنا ما كان». قال: و عرضت أنا هذا الحديث عن المبارك، و روى نحوه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 52، فقالا: باب ماء زمزم: عن الجارود بن أحمد، قال: حدّثنا محمّد بن جعفر الجعفري، عن محمّد بن سنان، و الكليني في الكافي 4/386:6، باب فضل ماء زمزم و ماء الميزاب، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان.<br/>و الروايات في فضل ماء زمزم و أنّه شفاء متظافرة. انظر: فقه الإمام الرضا عليه السّلام: 345 و 346، المحاسن 19/573:2، من لا يحضره الفقيه 2164/208:2، مكارم الأخلاق: 155. </footnote>"
+        }
+      ],
+      "pageValue": "81",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2472\" paragraph-id=\"2472\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo81\">81</span> يعنيك<span><sup><a class=\"NewFn\" href=\"#footnote628\" title=\"(1)  العناء: تعب و نصب. الصحاح 2440:6 «عنا». \">1</a></sup></span> و الله يشفيك، خذها<span><sup><a class=\"NewFn\" href=\"#footnote629\" title=\"(2)  قوله عليه السّلام: «خذها» أي: خذ هذه الرقية، أو العوذة أو هذه الكلمات الشريفة، الوافي 1653:9، شرح الكافي للمازندراني 46:12. \">2</a></sup></span> فلتهنيك <span style=\"0\" class=\"ayah\" surah=\"1\" ayah=\"1\">بِسْمِ اَللّٰهِ اَلرَّحْمٰنِ اَلرَّحِيمِ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/1/1\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"56\" ayah=\"75\">فَلاٰ أُقْسِمُ بِمَوٰاقِعِ اَلنُّجُومِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/56/75\"></a></span></span> إلى <span style=\"0\" class=\"ayah\" surah=\"56\" ayah=\"76\">عَظِيمٌ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/56/76\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote630\" title=\"(3)  سورة الواقعة 75:56-76. \">3</a></sup></span> لتبرأنّ بإذن الله».</span>\n  </p>\n  <p id=\"p2473\" paragraph-id=\"2473\" class=\" G\">\n    <span class=\"hadith\">قال بكر: سألته عن الحمّى فحدّثني بهذا الحديث<span><sup><a class=\"NewFn\" href=\"#footnote631\" title=\"(4)  رواه الحميري في قرب الإسناد: 134/42، عن أحمد بن إسحاق بن سعد، قال: حدّثنا بكر بن محمّد الأزدي، قال:] و قال أبو عبد الله عليه السّلام، و الكليني في الكافي 88/109:8، عن الحسين بن محمّد الأشعري، عن محمّد بن إسحاق الأشعري، عن بكر بن محمّد الأزدي، و عنه الكفعمي في المصباح: 161، و الطبرسي في مكارم الأخلاق: 3/391، ما يدعى به للمريض، و 6/399 للمحموم، عن الصادق عليه السّلام، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 38، فقالا: حدّثنا أحمد بن محمّد أبو جعفر، قال: حدّثنا أبي محمّد بن خالد، عن بكر بن خالد، عن محمّد بن سنان، عن عبد الله بن عمّار الدهني، عن أبيه، عن عمرو ذي فر و تغلبة الجمالي قالا: سمعنا أمير المؤمنين عليه السّلام يقول: «فَلاٰ أُقْسِمُ بِمَوٰاقِعِ اَلنُّجُومِ وَ إِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ‌ لتبرأنّ بإذن الله عزّ و جلّ‌، فأطلق النبي صلّى الله عليه و آله من عقاله، فقال: يا جبرئيل، هذه عوذة بليغة، قال: هي من خزانة في السماء السابعة». \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2474\" paragraph-id=\"2474\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب في ماء زمزم] </strong>\n  </p>\n  <p id=\"p2475\" paragraph-id=\"2475\" class=\" G\">[125] </p>\n  <p id=\"p2476\" paragraph-id=\"2476\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان، عن إسماعيل بن جابر، قال: سمعت <span class=\"Y\"><span class=\"maasoom\">أبا عبد الله عليه السّلام</span></span> يقول: </span>«ماء زمزم شفاء من كلّ داء» - و أظنّه قال: «كائنا ما كان»<span><sup><a class=\"NewFn\" href=\"#footnote632\" title=\"(5)  رواه البرقي في المحاسن 3/572:2، باب زمزم، عن أبيه، عن محمّد بن سنان، عن \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2477\" paragraph-id=\"2477\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote628\" footnote-id=\"628\">(1) <page number=\"81\" /> العناء: تعب و نصب. الصحاح 2440:6 «عنا». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote629\" footnote-id=\"629\">(2)  قوله عليه السّلام: «خذها» أي: خذ هذه الرقية، أو العوذة أو هذه الكلمات الشريفة، الوافي 1653:9، شرح الكافي للمازندراني 46:12. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote630\" footnote-id=\"630\">(3)  سورة الواقعة 75:56-76. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote631\" footnote-id=\"631\">(4)  رواه الحميري في قرب الإسناد: 134/42، عن أحمد بن إسحاق بن سعد، قال: حدّثنا بكر بن محمّد الأزدي، قال:] و قال أبو عبد الله عليه السّلام، و الكليني في الكافي 88/109:8، عن الحسين بن محمّد الأشعري، عن محمّد بن إسحاق الأشعري، عن بكر بن محمّد الأزدي، و عنه الكفعمي في المصباح: 161، و الطبرسي في مكارم الأخلاق: 3/391، ما يدعى به للمريض، و 6/399 للمحموم، عن الصادق عليه السّلام، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 38، فقالا: حدّثنا أحمد بن محمّد أبو جعفر، قال: حدّثنا أبي محمّد بن خالد، عن بكر بن خالد، عن محمّد بن سنان، عن عبد الله بن عمّار الدهني، عن أبيه، عن عمرو ذي فر و تغلبة الجمالي قالا: سمعنا أمير المؤمنين عليه السّلام يقول: «<format class=\"ayah\" surah=\"56\" ayah=\"75\" toAyah=\"76\">فَلاٰ أُقْسِمُ بِمَوٰاقِعِ اَلنُّجُومِ <format class=\"AyahSeprator\" />وَ إِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"10\" /><format class=\"ayahAddress\" surah=\"56\" ayah=\"75\" toAyah=\"76\" /></format> لتبرأنّ بإذن الله عزّ و جلّ‌، فأطلق النبي صلّى الله عليه و آله من عقاله، فقال: يا جبرئيل، هذه عوذة بليغة، قال: هي من خزانة في السماء السابعة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote632\" footnote-id=\"632\">(5)  رواه البرقي في المحاسن 3/572:2، باب زمزم، عن أبيه، عن محمّد بن سنان، عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E09CF31E-062D-4F20-B7EF-5368C6EA2004",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

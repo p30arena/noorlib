@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 223,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170661,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1916\"><page number=\"223\"/>[315] </p>"
+        },
+        {
+          "paragraphId": 714170662,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1917\"><format class=\"hadith\" who=\"1,6\" Id=\"311\" RevayatIndex=\"832\"><format class=\"sanadHadith\">عن علي بن الحسن بن فضّال، عن محمّد بن عيسى، عن عبد الله بن عبد الرحمن، عن شعيب، عن أبي بصير<lfootnote noteId=\"916\">1</lfootnote>، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: «قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين صلوات الله عليه</format></format>: </format>الدهن يليّن البشرة، و يزيد في الدماغ<lfootnote noteId=\"917\">2</lfootnote>، و يسهّل مجاري الماء، و يذهب بالقشف<lfootnote noteId=\"918\">3</lfootnote>، و يحسّن اللون»<lfootnote noteId=\"919\">4</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170663,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1918\"><heading level=\"2\">[باب في دهن الخيري<lfootnote noteId=\"920\">5</lfootnote>]<lfootnote noteId=\"921\">6</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714170664,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1919\">[316] </p>"
+        },
+        {
+          "paragraphId": 714170665,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1920\"><format class=\"hadith\" who=\"6\" Id=\"312\" RevayatIndex=\"833\"><format class=\"sanadHadith\">أحمد بن محمّد بن الحسين، عن ابن فضّال، عن أبي إسحاق<lfootnote noteId=\"922\">7</lfootnote>، عمّن أخبره، <page number=\"224\"/> عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«ذكر دهن البنفسج فزكّاه، ثمّ قال<lfootnote noteId=\"923\">1</lfootnote>: و إنّ الخيري لطيف»<lfootnote noteId=\"924\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171267,
+          "text": "<footnote id=\"915\"><mnote>(7)</mnote> رواه الكليني في الكافي 8/522:6، باب دهن البنفسج، عن عدّة من أصحابنا، عن سهل بن زياد، عن أحمد بن محمّد بن أبي نصر، عن حمّاد بن عثمان، عن محمّد بن سوقة، <page number=\"223\"/>عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171268,
+          "text": "<footnote id=\"916\"><mnote>(1)</mnote> في النسخة: «عن شعيب بن أبي بصير» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171269,
+          "text": "<footnote id=\"917\"><mnote>(2)</mnote> في النسخة: «الجماع» بدل «الدماغ» و ما أثبتناه من المصادر، و في بعضها زيادة: «و العقل». </footnote>"
+        },
+        {
+          "footnoteId": 714171270,
+          "text": "<footnote id=\"918\"><mnote>(3)</mnote> في الوافي 715:6، القشف تغيّر اللون بالشمس و الفقر و نحو ذلك. </footnote>"
+        },
+        {
+          "footnoteId": 714171271,
+          "text": "<footnote id=\"919\"><mnote>(4)</mnote> رواه الكليني في الكافي 4/519:6، باب الأدهان، عن عدّة من أصحابه، عن سهل بن زياد، عن محمّد بن عيسى، و تقدّم نحوه في الحديث 206 من الجزء الأوّل. و في هامشه حديث فيه: «و يسفر اللون». </footnote>"
+        },
+        {
+          "footnoteId": 714171272,
+          "text": "<footnote id=\"920\"><mnote>(5)</mnote> الخيري اسم يوناني، و بالعراقي يسمّى: المنثور، و بالفارسية: شب بوي. تحفة المؤمنين: 112، و انظر: بحار الأنوار 225:59.<br/>و روي في الخيري - مضافا إلى ما ورد هنا - في الرسالة الذهبية: 25، في ذكر فصول السنة، كانون الآخر: «و ينفع فيه دخول الحمّام و التمريخ بدهن الخيري و ما ناسبه، و يحذر فيه الحلواء، و أكل السمك الطري، و اللبن»، و 33: «و إن كان شتاء فكل من الطياهيج إذا احتجمت، و اشرب عليه من الشراب المذكّى الذي ذكرته أوّلا، و ادهن موضع الحجامة بدهن الخيري أو شيء من المسك و ماء ورد، و صبّ منه على هامّتك ساعة فراغك من الحجامة». </footnote>"
+        },
+        {
+          "footnoteId": 714171273,
+          "text": "<footnote id=\"921\"><mnote>(6)</mnote> ما بين المعقوفتين أثبتناه من متن الحديث. </footnote>"
+        },
+        {
+          "footnoteId": 714171274,
+          "text": "<footnote id=\"922\"><mnote>(7)</mnote> هو ثعلبة بن ميمون كما في الكافي و رجال النجاشي: 302/117 و غيرهما.</footnote>"
+        }
+      ],
+      "pageValue": "223",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1916\" paragraph-id=\"1916\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo223\">223</span>[315] </p>\n  <p id=\"p1917\" paragraph-id=\"1917\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">عن علي بن الحسن بن فضّال، عن محمّد بن عيسى، عن عبد الله بن عبد الرحمن، عن شعيب، عن أبي بصير<span><sup><a class=\"NewFn\" href=\"#footnote916\" title=\"(1)  في النسخة: «عن شعيب بن أبي بصير» و ما أثبتناه من الكافي. \">1</a></sup></span>، عن <span class=\"HQ\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: «قال <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين صلوات الله عليه</span></span>: </span>الدهن يليّن البشرة، و يزيد في الدماغ<span><sup><a class=\"NewFn\" href=\"#footnote917\" title=\"(2)  في النسخة: «الجماع» بدل «الدماغ» و ما أثبتناه من المصادر، و في بعضها زيادة: «و العقل». \">2</a></sup></span>، و يسهّل مجاري الماء، و يذهب بالقشف<span><sup><a class=\"NewFn\" href=\"#footnote918\" title=\"(3)  في الوافي 715:6، القشف تغيّر اللون بالشمس و الفقر و نحو ذلك. \">3</a></sup></span>، و يحسّن اللون»<span><sup><a class=\"NewFn\" href=\"#footnote919\" title=\"(4)  رواه الكليني في الكافي 4/519:6، باب الأدهان، عن عدّة من أصحابه، عن سهل بن زياد، عن محمّد بن عيسى، و تقدّم نحوه في الحديث 206 من الجزء الأوّل. و في هامشه حديث فيه: «و يسفر اللون». \">4</a></sup></span>. </span>\n  </p>\n  <p id=\"p1918\" paragraph-id=\"1918\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب في دهن الخيري<span><sup><a class=\"NewFn\" href=\"#footnote920\" title=\"(5)  الخيري اسم يوناني، و بالعراقي يسمّى: المنثور، و بالفارسية: شب بوي. تحفة المؤمنين: 112، و انظر: بحار الأنوار 225:59.و روي في الخيري - مضافا إلى ما ورد هنا - في الرسالة الذهبية: 25، في ذكر فصول السنة، كانون الآخر: «و ينفع فيه دخول الحمّام و التمريخ بدهن الخيري و ما ناسبه، و يحذر فيه الحلواء، و أكل السمك الطري، و اللبن»، و 33: «و إن كان شتاء فكل من الطياهيج إذا احتجمت، و اشرب عليه من الشراب المذكّى الذي ذكرته أوّلا، و ادهن موضع الحجامة بدهن الخيري أو شيء من المسك و ماء ورد، و صبّ منه على هامّتك ساعة فراغك من الحجامة». \">5</a></sup></span>]<span><sup><a class=\"NewFn\" href=\"#footnote921\" title=\"(6)  ما بين المعقوفتين أثبتناه من متن الحديث. \">6</a></sup></span></strong>\n  </p>\n  <p id=\"p1919\" paragraph-id=\"1919\" class=\" G\">[316] </p>\n  <p id=\"p1920\" paragraph-id=\"1920\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أحمد بن محمّد بن الحسين، عن ابن فضّال، عن أبي إسحاق<span><sup><a class=\"NewFn\" href=\"#footnote922\" title=\"(7)  هو ثعلبة بن ميمون كما في الكافي و رجال النجاشي: 302/117 و غيرهما.\">7</a></sup></span>، عمّن أخبره، </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote915\" footnote-id=\"915\"><page number=\"223\" />عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote916\" footnote-id=\"916\">(1)  في النسخة: «عن شعيب بن أبي بصير» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote917\" footnote-id=\"917\">(2)  في النسخة: «الجماع» بدل «الدماغ» و ما أثبتناه من المصادر، و في بعضها زيادة: «و العقل». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote918\" footnote-id=\"918\">(3)  في الوافي 715:6، القشف تغيّر اللون بالشمس و الفقر و نحو ذلك. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote919\" footnote-id=\"919\">(4)  رواه الكليني في الكافي 4/519:6، باب الأدهان، عن عدّة من أصحابه، عن سهل بن زياد، عن محمّد بن عيسى، و تقدّم نحوه في الحديث 206 من الجزء الأوّل. و في هامشه حديث فيه: «و يسفر اللون». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote920\" footnote-id=\"920\">(5)  الخيري اسم يوناني، و بالعراقي يسمّى: المنثور، و بالفارسية: شب بوي. تحفة المؤمنين: 112، و انظر: بحار الأنوار 225:59.<br />و روي في الخيري - مضافا إلى ما ورد هنا - في الرسالة الذهبية: 25، في ذكر فصول السنة، كانون الآخر: «و ينفع فيه دخول الحمّام و التمريخ بدهن الخيري و ما ناسبه، و يحذر فيه الحلواء، و أكل السمك الطري، و اللبن»، و 33: «و إن كان شتاء فكل من الطياهيج إذا احتجمت، و اشرب عليه من الشراب المذكّى الذي ذكرته أوّلا، و ادهن موضع الحجامة بدهن الخيري أو شيء من المسك و ماء ورد، و صبّ منه على هامّتك ساعة فراغك من الحجامة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote921\" footnote-id=\"921\">(6)  ما بين المعقوفتين أثبتناه من متن الحديث. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote922\" footnote-id=\"922\">(7)  هو ثعلبة بن ميمون كما في الكافي و رجال النجاشي: 302/117 و غيرهما.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "EA4CEEBC-90EC-4731-A4B1-751FC2AFBF13",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

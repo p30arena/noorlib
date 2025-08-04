@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 130,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166977,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2723\"><page number=\"130\"/>[203] </p>"
+        },
+        {
+          "paragraphId": 714166978,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2724\"><format class=\"hadith\" who=\"8\" Id=\"201\" RevayatIndex=\"201\"><format class=\"sanadHadith\">روى الحسن بن محمّد الكوفي، قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format> أنّي بليت بالشقيقة.</format></p>"
+        },
+        {
+          "paragraphId": 714166979,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2725\"><format class=\"hadith\" who=\"8\" Id=\"201\" RevayatIndex=\"201\">فقال لي: «أخرج دهن البندق، و ألق عليه وزن نصف درهم [من]<lfootnote noteId=\"861\">1</lfootnote> الماء الذي يقطر من الحبّ‌، و اسعط كلّ يوم بوزن دانق دهن بنفسج، و ليكن الدهن الثلثين و الماء الثلث، و شمّ الأترنج». قلت: كم أسعط؟</format></p>"
+        },
+        {
+          "paragraphId": 714166980,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2726\"><format class=\"hadith\" who=\"8\" Id=\"201\" RevayatIndex=\"201\">قال: «سبعة أيّام». ففعلت فذهب عنّي<lfootnote noteId=\"862\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166981,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2727\"><heading level=\"2\">[باب] في خفّة الدماغ </heading></p>"
+        },
+        {
+          "paragraphId": 714166982,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2728\">[204] </p>"
+        },
+        {
+          "paragraphId": 714166983,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2729\"><format class=\"hadith\" who=\"6\" Id=\"202\" RevayatIndex=\"202\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن موسى بن جعفر<lfootnote noteId=\"863\">3</lfootnote> البغدادي، عن محمّد بن الحسن<lfootnote noteId=\"864\">4</lfootnote>، عن عمر بن سلمة، عن محمّد بن عبد الله<lfootnote noteId=\"865\">5</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«أكل الباقلّاء<lfootnote noteId=\"866\">6</lfootnote> يمخّخ <page number=\"131\"/> الساقين<lfootnote noteId=\"867\">1</lfootnote>، و يزيد في الدماغ، و يولّد الدم»<lfootnote noteId=\"868\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168556,
+          "text": "<footnote id=\"860\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 73، <page number=\"130\"/>في النظرة و العين و البطن، عن عبد الله بن موسى الطبري، قال: حدّثنا محمّد بن إسماعيل، عن محمّد بن خالد البرقي، عن محمّد بن سنان السناني، عن المفضّل بن عمر، قال: شكا رجل من إخواننا إلى أبي عبد الله عليه السّلام شكاة أهله من النظرة و العين و البطن و السرّة و وجع الرأس و الشقيقة. </footnote>"
+        },
+        {
+          "footnoteId": 714168557,
+          "text": "<footnote id=\"861\"><mnote>(1)</mnote> ما بين المعقوفتين أثبتناه لضرورة السياق. </footnote>"
+        },
+        {
+          "footnoteId": 714168558,
+          "text": "<footnote id=\"862\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168559,
+          "text": "<footnote id=\"863\"><mnote>(3)</mnote> كلمة: «جعفر» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168560,
+          "text": "<footnote id=\"864\"><mnote>(4)</mnote> في النسخة: «محمّد بن عبد الله» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168561,
+          "text": "<footnote id=\"865\"><mnote>(5)</mnote> قوله: «عن محمّد بن عبد الله» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168562,
+          "text": "<footnote id=\"866\"><mnote>(6)</mnote> و يقال له: «الفول»، و للمجلسي كلام طويل في تبيينه. انظر: بحار الأنوار 266:63. و روي عن أهل البيت عليهم السّلام - مضافا إلى ما في المتن - أنّ أكله بقشره يدبغ المعدة، و أنّه<page number=\"131\"/>يذهب الداء و لا داء فيه، و أنّه هو جزء من الطعام الذي قال مولانا الإمام أبو عبد الله الصادق عليه السّلام فيه: «فما يمنعك عن هذا الكركور فإنّه أمرأ شيء في الجسد» يعني المثلّثة. انظر: المحاسن 506:2، باب الباقلاء، الكافي 1/320:6 و 344، مكارم الأخلاق: 183. و روى الطبرسي في مكارم الأخلاق: 1/183، في الباقلّى، من الفردوس عن أنس، قال النّبي صلّى الله عليه و آله: «كان طعام عيسى عليه السّلام الباقلّى حتّى رفع، و لم يأكل عيسى عليه السّلام غيره حتّى رفع، و لم يأكل عيسى عليه السّلام شيئا غيّرته النار»، من الفردوس قال صلّى الله عليه و آله: «من أكل فولة بقشرها أخرج الله عزّ و جلّ منه من الداء مثلها». أقول: و ما نقل عن الفردوس عامّية مع ما في الأوّل من التأمّل. </footnote>"
+        }
+      ],
+      "pageValue": "130",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2723\" paragraph-id=\"2723\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo130\">130</span>[203] </p>\n  <p id=\"p2724\" paragraph-id=\"2724\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الحسن بن محمّد الكوفي، قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span> أنّي بليت بالشقيقة.</span>\n  </p>\n  <p id=\"p2725\" paragraph-id=\"2725\" class=\" G\">\n    <span class=\"hadith\">فقال لي: «أخرج دهن البندق، و ألق عليه وزن نصف درهم [من]<span><sup><a class=\"NewFn\" href=\"#footnote861\" title=\"(1)  ما بين المعقوفتين أثبتناه لضرورة السياق. \">1</a></sup></span> الماء الذي يقطر من الحبّ‌، و اسعط كلّ يوم بوزن دانق دهن بنفسج، و ليكن الدهن الثلثين و الماء الثلث، و شمّ الأترنج». قلت: كم أسعط؟</span>\n  </p>\n  <p id=\"p2726\" paragraph-id=\"2726\" class=\" G\">\n    <span class=\"hadith\">قال: «سبعة أيّام». ففعلت فذهب عنّي<span><sup><a class=\"NewFn\" href=\"#footnote862\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2727\" paragraph-id=\"2727\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في خفّة الدماغ </strong>\n  </p>\n  <p id=\"p2728\" paragraph-id=\"2728\" class=\" G\">[204] </p>\n  <p id=\"p2729\" paragraph-id=\"2729\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن موسى بن جعفر<span><sup><a class=\"NewFn\" href=\"#footnote863\" title=\"(3)  كلمة: «جعفر» أثبتناها من المصدر. \">3</a></sup></span> البغدادي، عن محمّد بن الحسن<span><sup><a class=\"NewFn\" href=\"#footnote864\" title=\"(4)  في النسخة: «محمّد بن عبد الله» و ما أثبتناه من المصدر. \">4</a></sup></span>، عن عمر بن سلمة، عن محمّد بن عبد الله<span><sup><a class=\"NewFn\" href=\"#footnote865\" title=\"(5)  قوله: «عن محمّد بن عبد الله» أثبتناه من المصدر. \">5</a></sup></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«أكل الباقلّاء<span><sup><a class=\"NewFn\" href=\"#footnote866\" title=\"(6)  و يقال له: «الفول»، و للمجلسي كلام طويل في تبيينه. انظر: بحار الأنوار 266:63. و روي عن أهل البيت عليهم السّلام - مضافا إلى ما في المتن - أنّ أكله بقشره يدبغ المعدة، و أنّه\">6</a></sup></span> يمخّخ </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote860\" footnote-id=\"860\"><page number=\"130\" />في النظرة و العين و البطن، عن عبد الله بن موسى الطبري، قال: حدّثنا محمّد بن إسماعيل، عن محمّد بن خالد البرقي، عن محمّد بن سنان السناني، عن المفضّل بن عمر، قال: شكا رجل من إخواننا إلى أبي عبد الله عليه السّلام شكاة أهله من النظرة و العين و البطن و السرّة و وجع الرأس و الشقيقة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote861\" footnote-id=\"861\">(1)  ما بين المعقوفتين أثبتناه لضرورة السياق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote862\" footnote-id=\"862\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote863\" footnote-id=\"863\">(3)  كلمة: «جعفر» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote864\" footnote-id=\"864\">(4)  في النسخة: «محمّد بن عبد الله» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote865\" footnote-id=\"865\">(5)  قوله: «عن محمّد بن عبد الله» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote866\" footnote-id=\"866\">(6)  و يقال له: «الفول»، و للمجلسي كلام طويل في تبيينه. انظر: بحار الأنوار 266:63. و روي عن أهل البيت عليهم السّلام - مضافا إلى ما في المتن - أنّ أكله بقشره يدبغ المعدة، و أنّه</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "198C3E53-33C1-4F99-9971-CF3F2F93920D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

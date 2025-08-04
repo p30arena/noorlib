@@ -1,0 +1,113 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 97,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166532,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2564\"><page number=\"97\"/>[149] </p>"
+        },
+        {
+          "paragraphId": 714166533,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2565\"><format class=\"hadith\" who=\"6\" Id=\"147\" RevayatIndex=\"147\"><format class=\"sanadHadith\">أبو العبّاس محمّد بن يحيى الصيرفي<lfootnote noteId=\"707\">1</lfootnote>، عن حمّاد بن عثمان، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال:</format> شكا إليه رجل حمّى، قد تطاولت به.</format></p>"
+        },
+        {
+          "paragraphId": 714166534,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2566\"><format class=\"hadith\" who=\"6\" Id=\"147\" RevayatIndex=\"147\">قال: «اكتب آية الكرسي في إناء ثمّ دفّه<lfootnote noteId=\"708\">2</lfootnote> بجرعة ماء و اشربه عند منامك»<lfootnote noteId=\"709\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166535,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2567\">[150] </p>"
+        },
+        {
+          "paragraphId": 714166536,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2568\"><format class=\"hadith\" who=\"6\" Id=\"148\" RevayatIndex=\"148\"><format class=\"sanadHadith\">و روي عنه عليه السّلام، قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«إذا كان بك علّة تخوّفت منها<lfootnote noteId=\"710\">4</lfootnote> على نفسك فاقرأ سورة الأنعام فإنّه لا ينالك من تلك العلّة ما تكره»<lfootnote noteId=\"711\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166537,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2569\">[151] </p>"
+        },
+        {
+          "paragraphId": 714166538,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2570\"><format class=\"hadith\" who=\"6\" Id=\"149\" RevayatIndex=\"149\"><format class=\"sanadHadith\">و روي عنه عليه السّلام، قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«من نالته علّة<lfootnote noteId=\"712\">6</lfootnote> فليقرأ في جيبه امّ الكتاب سبع مرّات، فإن سكنت، و إلّا فليقرأها<lfootnote noteId=\"713\">7</lfootnote> سبعين مرّة، فإنّها تسكن إن شاء الله تعالى»<lfootnote noteId=\"714\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166539,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2571\"><page number=\"98\"/>[152] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168738,
+          "text": "<footnote id=\"707\"><page number=\"97\"/><mnote>(1)</mnote> و هو محمّد بن يحيى الخزّاز من مشايخ الأشعري. </footnote>"
+        },
+        {
+          "footnoteId": 714168739,
+          "text": "<footnote id=\"708\"><mnote>(2)</mnote> في النسخة: «ادفنه» و ما أثبتناه من مكارم الأخلاق.<br/>دفت الداء: إذا بللته بماء أو غيره، فهو مدوف و مدووف، أي: مخلوط و ممزوج. مجمع البحرين 60:5 «دوف». </footnote>"
+        },
+        {
+          "footnoteId": 714168740,
+          "text": "<footnote id=\"709\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 3/370، للحمّى، عن حمّاد بن عثمان، عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168741,
+          "text": "<footnote id=\"710\"><mnote>(4)</mnote> كلمة: «منها» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168742,
+          "text": "<footnote id=\"711\"><mnote>(5)</mnote> روي في فقه الإمام الرضا عليه السّلام: 342، باب الأدوية الجامعة بالقرآن عن العالم عليه السّلام.<br/>و رواه الطبرسي في مكارم الأخلاق: 4/363، في السور و ما جاء فيها، عن الباقر عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168743,
+          "text": "<footnote id=\"712\"><mnote>(6)</mnote> كلمة: «علّة» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168744,
+          "text": "<footnote id=\"713\"><mnote>(7)</mnote> في النسخة: «يقرأها» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168745,
+          "text": "<footnote id=\"714\"><mnote>(8)</mnote> روي في فقه الإمام الرضا عليه السّلام: 342، باب الأدوية الجامعة بالقرآن، و رواه الطبرسي في مكارم الأخلاق: 1/363، باب في السور و ما جاء فيها، كلاهما عن العالم عليه السّلام، و الطوسي بزيادة في الأمالي: 91/284، و بالإسناد قال: قال: الصادق عليه السّلام:... و فيه:<br/>«و إلّا فليقرأ سبعين مرّة، و أنا الضامن له العافية»، و الراوندي في الدعوات: 525/189، عن الصادق عليه السّلام، و انظر: مكارم الأخلاق: 387، الدعوات: 507/183، مهج <page number=\"98\"/>الدعوات: 356، المصباح للكفعمي: 152، بحار الأنوار 478:63، عن خطّ الشهيد. </footnote>"
+        }
+      ],
+      "pageValue": "97",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2564\" paragraph-id=\"2564\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo97\">97</span>[149] </p>\n  <p id=\"p2565\" paragraph-id=\"2565\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أبو العبّاس محمّد بن يحيى الصيرفي<span><sup><a class=\"NewFn\" href=\"#footnote707\" title=\"(1)  و هو محمّد بن يحيى الخزّاز من مشايخ الأشعري. \">1</a></sup></span>، عن حمّاد بن عثمان، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال:</span> شكا إليه رجل حمّى، قد تطاولت به.</span>\n  </p>\n  <p id=\"p2566\" paragraph-id=\"2566\" class=\" G\">\n    <span class=\"hadith\">قال: «اكتب آية الكرسي في إناء ثمّ دفّه<span><sup><a class=\"NewFn\" href=\"#footnote708\" title=\"(2)  في النسخة: «ادفنه» و ما أثبتناه من مكارم الأخلاق.دفت الداء: إذا بللته بماء أو غيره، فهو مدوف و مدووف، أي: مخلوط و ممزوج. مجمع البحرين 60:5 «دوف». \">2</a></sup></span> بجرعة ماء و اشربه عند منامك»<span><sup><a class=\"NewFn\" href=\"#footnote709\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 3/370، للحمّى، عن حمّاد بن عثمان، عن أبي عبد الله عليه السّلام. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2567\" paragraph-id=\"2567\" class=\" G\">[150] </p>\n  <p id=\"p2568\" paragraph-id=\"2568\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عنه عليه السّلام، قال: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«إذا كان بك علّة تخوّفت منها<span><sup><a class=\"NewFn\" href=\"#footnote710\" title=\"(4)  كلمة: «منها» أثبتناها من المصدر. \">4</a></sup></span> على نفسك فاقرأ سورة الأنعام فإنّه لا ينالك من تلك العلّة ما تكره»<span><sup><a class=\"NewFn\" href=\"#footnote711\" title=\"(5)  روي في فقه الإمام الرضا عليه السّلام: 342، باب الأدوية الجامعة بالقرآن عن العالم عليه السّلام.و رواه الطبرسي في مكارم الأخلاق: 4/363، في السور و ما جاء فيها، عن الباقر عليه السّلام. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2569\" paragraph-id=\"2569\" class=\" G\">[151] </p>\n  <p id=\"p2570\" paragraph-id=\"2570\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عنه عليه السّلام، قال: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«من نالته علّة<span><sup><a class=\"NewFn\" href=\"#footnote712\" title=\"(6)  كلمة: «علّة» أثبتناها من المصدر. \">6</a></sup></span> فليقرأ في جيبه امّ الكتاب سبع مرّات، فإن سكنت، و إلّا فليقرأها<span><sup><a class=\"NewFn\" href=\"#footnote713\" title=\"(7)  في النسخة: «يقرأها» و ما أثبتناه من المصدر. \">7</a></sup></span> سبعين مرّة، فإنّها تسكن إن شاء الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote714\" title=\"(8)  روي في فقه الإمام الرضا عليه السّلام: 342، باب الأدوية الجامعة بالقرآن، و رواه الطبرسي في مكارم الأخلاق: 1/363، باب في السور و ما جاء فيها، كلاهما عن العالم عليه السّلام، و الطوسي بزيادة في الأمالي: 91/284، و بالإسناد قال: قال: الصادق عليه السّلام:... و فيه:«و إلّا فليقرأ سبعين مرّة، و أنا الضامن له العافية»، و الراوندي في الدعوات: 525/189، عن الصادق عليه السّلام، و انظر: مكارم الأخلاق: 387، الدعوات: 507/183، مهج \">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p2571\" paragraph-id=\"2571\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote707\" footnote-id=\"707\">(1) <page number=\"97\" /> و هو محمّد بن يحيى الخزّاز من مشايخ الأشعري. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote708\" footnote-id=\"708\">(2)  في النسخة: «ادفنه» و ما أثبتناه من مكارم الأخلاق.<br />دفت الداء: إذا بللته بماء أو غيره، فهو مدوف و مدووف، أي: مخلوط و ممزوج. مجمع البحرين 60:5 «دوف». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote709\" footnote-id=\"709\">(3)  رواه الطبرسي في مكارم الأخلاق: 3/370، للحمّى، عن حمّاد بن عثمان، عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote710\" footnote-id=\"710\">(4)  كلمة: «منها» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote711\" footnote-id=\"711\">(5)  روي في فقه الإمام الرضا عليه السّلام: 342، باب الأدوية الجامعة بالقرآن عن العالم عليه السّلام.<br />و رواه الطبرسي في مكارم الأخلاق: 4/363، في السور و ما جاء فيها، عن الباقر عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote712\" footnote-id=\"712\">(6)  كلمة: «علّة» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote713\" footnote-id=\"713\">(7)  في النسخة: «يقرأها» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote714\" footnote-id=\"714\">(8)  روي في فقه الإمام الرضا عليه السّلام: 342، باب الأدوية الجامعة بالقرآن، و رواه الطبرسي في مكارم الأخلاق: 1/363، باب في السور و ما جاء فيها، كلاهما عن العالم عليه السّلام، و الطوسي بزيادة في الأمالي: 91/284، و بالإسناد قال: قال: الصادق عليه السّلام:... و فيه:<br />«و إلّا فليقرأ سبعين مرّة، و أنا الضامن له العافية»، و الراوندي في الدعوات: 525/189، عن الصادق عليه السّلام، و انظر: مكارم الأخلاق: 387، الدعوات: 507/183، مهج </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "CF9DD597-9ED3-454A-AEF3-AEAD112BA19A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

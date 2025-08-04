@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 113,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170180,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1435\"><page number=\"113\"/>[156] </p>"
+        },
+        {
+          "paragraphId": 714170181,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1436\"><format class=\"hadith\" who=\"6\" Id=\"154\" RevayatIndex=\"675\"><format class=\"sanadHadith\">روى كامل، عن محمّد بن إبراهيم، عن أبيه، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«اللبن الحليب لمن تغيّر عليه ماء ظهره»<lfootnote noteId=\"446\">1</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170182,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1437\"><heading level=\"2\">[باب] في آداب الجماع و الأوقات المحمودة و المذمومة<lfootnote noteId=\"447\">2</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714170183,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1438\">[157] </p>"
+        },
+        {
+          "paragraphId": 714170184,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1439\"><format class=\"hadith\" who=\"1,6\" Id=\"155\" RevayatIndex=\"676\"><format class=\"sanadHadith\">حدّثنا أبو سليمان أحمد بن هوذة الباهلي، قال: حدّثنا إبراهيم بن إسحاق النهاوندي، قال: حدّثنا محمّد بن الحسن بن شمون، عن عبد الله بن عبد الرحمن الأصمّ‌، عن حريز بن عبد الله الأزدي السجستاني، عن محمّد بن مسلم.</format></format></p>"
+        },
+        {
+          "paragraphId": 714170185,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1440\"><format class=\"hadith\" who=\"1,6\" Id=\"155\" RevayatIndex=\"676\"><format class=\"sanadHadith\">قال<lfootnote noteId=\"448\">3</lfootnote>: و حدّثني القاسم بن يحيى، عن الحسن بن راشد، عن أبي بصير، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين صلوات الله عليه</format></format> في وصيّته لأصحابه:</format></p>"
+        },
+        {
+          "paragraphId": 714170186,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1441\"><format class=\"hadith\" who=\"1,6\" Id=\"155\" RevayatIndex=\"676\">إنّه يستحبّ للرجل أن يأتي أهله في أوّل ليلة من شهر رمضان؛ لقول الله تعالى:</format></p>"
+        },
+        {
+          "paragraphId": 714170187,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1442\"><format class=\"hadith\" who=\"1,6\" Id=\"155\" RevayatIndex=\"676\"><format class=\"ayah\" surah=\"2\" ayah=\"187\" toAyah=\"\">أُحِلَّ لَكُمْ لَيْلَةَ اَلصِّيٰامِ اَلرَّفَثُ إِلىٰ نِسٰائِكُمْ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"7\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"187\" toAyah=\"\"/></format>» و الرفث: المجامعة<lfootnote noteId=\"449\">4</lfootnote><lfootnote noteId=\"450\"> 5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170188,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1443\"><page number=\"114\"/>[158] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171153,
+          "text": "<footnote id=\"446\"><page number=\"113\"/><mnote>(1)</mnote> تقدّم أيضا بنفس السند مع اختلاف يسير في ألفاظ المتن في الحديث 433 من الجزء الأوّل، باب وجع الظهر و يبسه. فانظر مصادره. </footnote>"
+        },
+        {
+          "footnoteId": 714171154,
+          "text": "<footnote id=\"447\"><mnote>(2)</mnote> إنّ لآداب الجماع و أوقاته و أحكامه روايات عن أهل بيت العصمة عليهم السّلام؛ و ذلك لشفقتهم على شيعتهم و تابعيهم. و قد وردت وصايا النبي صلّى الله عليه و آله لأمير المؤمنين عليه السّلام في هذا المجال، و هي طويلة. انظر: من لا يحضره الفقيه 4899/551:3، علل الشرائع: 5/514، باب علل نوادر النكاح، الأمالي للصدوق: 1/662، المجلس الرابع و الثمانون، مكارم الأخلاق: 3/209، الفصل الرابع، آداب الزفاف و المباشرة و غيرها. </footnote>"
+        },
+        {
+          "footnoteId": 714171155,
+          "text": "<footnote id=\"448\"><mnote>(3)</mnote> القائل هو إبراهيم بن إسحاق النهاوندي، الذي روى كتاب آداب أمير المؤمنين عليه السّلام، عن القاسم بن يحيى. انظر: الخصال: 86/388. </footnote>"
+        },
+        {
+          "footnoteId": 714171156,
+          "text": "<footnote id=\"449\"><mnote>(4)</mnote> قوله: «و الرفث: المجامعة» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171157,
+          "text": "<footnote id=\"450\"><mnote>(5)</mnote> رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 19/79، و عنه في <page number=\"114\"/>الخصال: 612، و تحف العقول: 101، و فيه: «للمسلم» بدل «للرجل»، و رواه الكليني في الكافي 3/180:4، باب النوادر من كتاب الصيام، عن عدّة من أصحابنا، عن أحمد بن محمّد، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، و الصدوق في من لا يحضره الفقيه 2052/173:2، باب النوادر من كتاب الصيام، و قال أمير المؤمنين صلوات الله عليه: يستحب للرجل، إلى آخر الآية، و رواه مرّة اخرى في ج 3:<br/>4653/473، باب النوادر من كتاب النكاح، فقال: و قال علي عليه السّلام:...، إلى آخر الرواية، و الطبرسي في مكارم الأخلاق: 20/213، الفصل الرابع في آداب الزفاف و المباشرة و غيرهما، فقال: عن علي عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "113",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1435\" paragraph-id=\"1435\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo113\">113</span>[156] </p>\n  <p id=\"p1436\" paragraph-id=\"1436\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى كامل، عن محمّد بن إبراهيم، عن أبيه، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«اللبن الحليب لمن تغيّر عليه ماء ظهره»<span><sup><a class=\"NewFn\" href=\"#footnote446\" title=\"(1)  تقدّم أيضا بنفس السند مع اختلاف يسير في ألفاظ المتن في الحديث 433 من الجزء الأوّل، باب وجع الظهر و يبسه. فانظر مصادره. \">1</a></sup></span>. </span>\n  </p>\n  <p id=\"p1437\" paragraph-id=\"1437\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في آداب الجماع و الأوقات المحمودة و المذمومة<span><sup><a class=\"NewFn\" href=\"#footnote447\" title=\"(2)  إنّ لآداب الجماع و أوقاته و أحكامه روايات عن أهل بيت العصمة عليهم السّلام؛ و ذلك لشفقتهم على شيعتهم و تابعيهم. و قد وردت وصايا النبي صلّى الله عليه و آله لأمير المؤمنين عليه السّلام في هذا المجال، و هي طويلة. انظر: من لا يحضره الفقيه 4899/551:3، علل الشرائع: 5/514، باب علل نوادر النكاح، الأمالي للصدوق: 1/662، المجلس الرابع و الثمانون، مكارم الأخلاق: 3/209، الفصل الرابع، آداب الزفاف و المباشرة و غيرها. \">2</a></sup></span></strong>\n  </p>\n  <p id=\"p1438\" paragraph-id=\"1438\" class=\" G\">[157] </p>\n  <p id=\"p1439\" paragraph-id=\"1439\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا أبو سليمان أحمد بن هوذة الباهلي، قال: حدّثنا إبراهيم بن إسحاق النهاوندي، قال: حدّثنا محمّد بن الحسن بن شمون، عن عبد الله بن عبد الرحمن الأصمّ‌، عن حريز بن عبد الله الأزدي السجستاني، عن محمّد بن مسلم.</span>\n    </span>\n  </p>\n  <p id=\"p1440\" paragraph-id=\"1440\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قال<span><sup><a class=\"NewFn\" href=\"#footnote448\" title=\"(3)  القائل هو إبراهيم بن إسحاق النهاوندي، الذي روى كتاب آداب أمير المؤمنين عليه السّلام، عن القاسم بن يحيى. انظر: الخصال: 86/388. \">3</a></sup></span>: و حدّثني القاسم بن يحيى، عن الحسن بن راشد، عن أبي بصير، عن <span class=\"HQ\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«قال <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين صلوات الله عليه</span></span> في وصيّته لأصحابه:</span>\n  </p>\n  <p id=\"p1441\" paragraph-id=\"1441\" class=\" G\">\n    <span class=\"hadith\">إنّه يستحبّ للرجل أن يأتي أهله في أوّل ليلة من شهر رمضان؛ لقول الله تعالى:</span>\n  </p>\n  <p id=\"p1442\" paragraph-id=\"1442\" class=\" G\">\n    <span class=\"hadith\">\n      <span style=\"0\" class=\"ayah\" surah=\"2\" ayah=\"187\">أُحِلَّ لَكُمْ لَيْلَةَ اَلصِّيٰامِ اَلرَّفَثُ إِلىٰ نِسٰائِكُمْ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/2/187\"></a></span></span>» و الرفث: المجامعة<span><sup><a class=\"NewFn\" href=\"#footnote449\" title=\"(4)  قوله: «و الرفث: المجامعة» أثبتناه من المصدر. \">4</a></sup></span><span><sup><a class=\"NewFn\" href=\"#footnote450\" title=\"(5)  رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 19/79، و عنه في \"> 5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1443\" paragraph-id=\"1443\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote446\" footnote-id=\"446\">(1) <page number=\"113\" /> تقدّم أيضا بنفس السند مع اختلاف يسير في ألفاظ المتن في الحديث 433 من الجزء الأوّل، باب وجع الظهر و يبسه. فانظر مصادره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote447\" footnote-id=\"447\">(2)  إنّ لآداب الجماع و أوقاته و أحكامه روايات عن أهل بيت العصمة عليهم السّلام؛ و ذلك لشفقتهم على شيعتهم و تابعيهم. و قد وردت وصايا النبي صلّى الله عليه و آله لأمير المؤمنين عليه السّلام في هذا المجال، و هي طويلة. انظر: من لا يحضره الفقيه 4899/551:3، علل الشرائع: 5/514، باب علل نوادر النكاح، الأمالي للصدوق: 1/662، المجلس الرابع و الثمانون، مكارم الأخلاق: 3/209، الفصل الرابع، آداب الزفاف و المباشرة و غيرها. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote448\" footnote-id=\"448\">(3)  القائل هو إبراهيم بن إسحاق النهاوندي، الذي روى كتاب آداب أمير المؤمنين عليه السّلام، عن القاسم بن يحيى. انظر: الخصال: 86/388. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote449\" footnote-id=\"449\">(4)  قوله: «و الرفث: المجامعة» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote450\" footnote-id=\"450\">(5)  رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 19/79، و عنه في </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "B380F60C-A5C2-412D-9B56-E41A2258F17F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

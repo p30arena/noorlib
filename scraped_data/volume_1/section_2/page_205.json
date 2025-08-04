@@ -1,0 +1,117 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 205,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167339,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3085\"><page number=\"205\"/><heading level=\"2\">[باب] ما يذهب بصفار الوجه </heading></p>"
+        },
+        {
+          "paragraphId": 714167340,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3086\">[327] </p>"
+        },
+        {
+          "paragraphId": 714167341,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3087\"><format class=\"hadith\" who=\"8\" Id=\"325\" RevayatIndex=\"325\"><format class=\"sanadHadith\">حدّثنا إبراهيم بن أحمد بن إسحاق،</format></format></p>"
+        },
+        {
+          "paragraphId": 714167342,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3088\"><format class=\"hadith\" who=\"8\" Id=\"325\" RevayatIndex=\"325\"><format class=\"sanadHadith\">قال: و حدّثنا ابن همّام قال: حدّثنا الحميري<lfootnote noteId=\"1179\">1</lfootnote>، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان<lfootnote noteId=\"1180\">2</lfootnote> و عبد الله بن المغيرة، عن يونس بن بكر الواسطي، قال: قال لي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبو الحسن علي عليه السّلام</format></format>: </format>«مالي أراك مصفارا؟!»، قلت: وعك أصابني<lfootnote noteId=\"1181\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167343,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3089\"><format class=\"hadith\" who=\"8\" Id=\"325\" RevayatIndex=\"325\">قال: «كل اللحم». فأكلته ثمّ رآني<lfootnote noteId=\"1182\">4</lfootnote> بعد جمعة على حالي مصفارا.</format></p>"
+        },
+        {
+          "paragraphId": 714167344,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3090\"><format class=\"hadith\" who=\"8\" Id=\"325\" RevayatIndex=\"325\">فقال: «ألم آمرك باللحم». فقلت: ما أكلت<lfootnote noteId=\"1183\">5</lfootnote> غيره منذ أمرتني.</format></p>"
+        },
+        {
+          "paragraphId": 714167345,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3091\"><format class=\"hadith\" who=\"8\" Id=\"325\" RevayatIndex=\"325\">قال: «كيف أكلته‌؟»، قلت: طبيخا.</format></p>"
+        },
+        {
+          "paragraphId": 714167346,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3092\"><format class=\"hadith\" who=\"8\" Id=\"325\" RevayatIndex=\"325\">قال: «كله كبابا».</format></p>"
+        },
+        {
+          "paragraphId": 714167347,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3093\"><format class=\"hadith\" who=\"8\" Id=\"325\" RevayatIndex=\"325\">فأكلته، ثمّ أرسل إليّ بعد جمعة فإذا الدم قد عاد في وجهي.</format></p>"
+        },
+        {
+          "paragraphId": 714167348,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"3094\"><format class=\"hadith\" who=\"8\" Id=\"325\" RevayatIndex=\"325\"><page number=\"206\"/> فقال: «نعم»<lfootnote noteId=\"1184\">1</lfootnote>. </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169222,
+          "text": "<footnote id=\"1178\"><mnote>(5)</mnote> رواه البرقي في المحاسن 17/593:2، باب الملح، عن يعقوب بن يزيد، رفعه، قال: قال أبو عبد الله عليه السّلام، و الكليني في الكافي 8/326:6، باب فضل الملح، عن <page number=\"205\"/>محمّد بن يحيي، عن أحمد بن محمّد بن عيسى، عن يعقوب بن يزيد، رفعه قال: قال أبو عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/189، باب في الملح، فقال: عن الصادق عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169223,
+          "text": "<footnote id=\"1179\"><mnote>(1)</mnote> قوله: «قال: حدثنا الحميري» أثبتناه من أسانيد الكتاب، فإن ابن همّام الإسكافي لم يرو عن أحمد بن محمّد الأشعرى بلا واسطة. </footnote>"
+        },
+        {
+          "footnoteId": 714169224,
+          "text": "<footnote id=\"1180\"><mnote>(2)</mnote> في النسخة: «خالد بن سنان»، و لم نعثر على اسمه في الأسانيد، و أما محمّد بن سنان المعروف فقد روى عنه أحمد بن محمّد بن عيسى كثيرا. </footnote>"
+        },
+        {
+          "footnoteId": 714169225,
+          "text": "<footnote id=\"1181\"><mnote>(3)</mnote> في النسخة: «دعكت أيضا»، و ما أثبتناه من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169226,
+          "text": "<footnote id=\"1182\"><mnote>(4)</mnote> في النسخة: «ثمّ إنّني»، و ما أثبتناه من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169227,
+          "text": "<footnote id=\"1183\"><mnote>(5)</mnote> في النسخة: «لا أكلت»، و ما أثبتناه من مكارم الأخلاق.</footnote>"
+        }
+      ],
+      "pageValue": "205",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3085\" paragraph-id=\"3085\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo205\">205</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] ما يذهب بصفار الوجه </strong>\n  </p>\n  <p id=\"p3086\" paragraph-id=\"3086\" class=\" G\">[327] </p>\n  <p id=\"p3087\" paragraph-id=\"3087\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا إبراهيم بن أحمد بن إسحاق،</span>\n    </span>\n  </p>\n  <p id=\"p3088\" paragraph-id=\"3088\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قال: و حدّثنا ابن همّام قال: حدّثنا الحميري<span><sup><a class=\"NewFn\" href=\"#footnote1179\" title=\"(1)  قوله: «قال: حدثنا الحميري» أثبتناه من أسانيد الكتاب، فإن ابن همّام الإسكافي لم يرو عن أحمد بن محمّد الأشعرى بلا واسطة. \">1</a></sup></span>، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان<span><sup><a class=\"NewFn\" href=\"#footnote1180\" title=\"(2)  في النسخة: «خالد بن سنان»، و لم نعثر على اسمه في الأسانيد، و أما محمّد بن سنان المعروف فقد روى عنه أحمد بن محمّد بن عيسى كثيرا. \">2</a></sup></span> و عبد الله بن المغيرة، عن يونس بن بكر الواسطي، قال: قال لي <span class=\"Y\"><span class=\"maasoom\">أبو الحسن علي عليه السّلام</span></span>: </span>«مالي أراك مصفارا؟!»، قلت: وعك أصابني<span><sup><a class=\"NewFn\" href=\"#footnote1181\" title=\"(3)  في النسخة: «دعكت أيضا»، و ما أثبتناه من مكارم الأخلاق. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p3089\" paragraph-id=\"3089\" class=\" G\">\n    <span class=\"hadith\">قال: «كل اللحم». فأكلته ثمّ رآني<span><sup><a class=\"NewFn\" href=\"#footnote1182\" title=\"(4)  في النسخة: «ثمّ إنّني»، و ما أثبتناه من مكارم الأخلاق. \">4</a></sup></span> بعد جمعة على حالي مصفارا.</span>\n  </p>\n  <p id=\"p3090\" paragraph-id=\"3090\" class=\" G\">\n    <span class=\"hadith\">فقال: «ألم آمرك باللحم». فقلت: ما أكلت<span><sup><a class=\"NewFn\" href=\"#footnote1183\" title=\"(5)  في النسخة: «لا أكلت»، و ما أثبتناه من مكارم الأخلاق.\">5</a></sup></span> غيره منذ أمرتني.</span>\n  </p>\n  <p id=\"p3091\" paragraph-id=\"3091\" class=\" G\">\n    <span class=\"hadith\">قال: «كيف أكلته‌؟»، قلت: طبيخا.</span>\n  </p>\n  <p id=\"p3092\" paragraph-id=\"3092\" class=\" G\">\n    <span class=\"hadith\">قال: «كله كبابا».</span>\n  </p>\n  <p id=\"p3093\" paragraph-id=\"3093\" class=\" G\">\n    <span class=\"hadith\">فأكلته، ثمّ أرسل إليّ بعد جمعة فإذا الدم قد عاد في وجهي.</span>\n  </p>\n  <p id=\"p3094\" paragraph-id=\"3094\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1178\" footnote-id=\"1178\"><page number=\"205\" />محمّد بن يحيي، عن أحمد بن محمّد بن عيسى، عن يعقوب بن يزيد، رفعه قال: قال أبو عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/189، باب في الملح، فقال: عن الصادق عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1179\" footnote-id=\"1179\">(1)  قوله: «قال: حدثنا الحميري» أثبتناه من أسانيد الكتاب، فإن ابن همّام الإسكافي لم يرو عن أحمد بن محمّد الأشعرى بلا واسطة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1180\" footnote-id=\"1180\">(2)  في النسخة: «خالد بن سنان»، و لم نعثر على اسمه في الأسانيد، و أما محمّد بن سنان المعروف فقد روى عنه أحمد بن محمّد بن عيسى كثيرا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1181\" footnote-id=\"1181\">(3)  في النسخة: «دعكت أيضا»، و ما أثبتناه من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1182\" footnote-id=\"1182\">(4)  في النسخة: «ثمّ إنّني»، و ما أثبتناه من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1183\" footnote-id=\"1183\">(5)  في النسخة: «لا أكلت»، و ما أثبتناه من مكارم الأخلاق.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0C5A70FC-2F39-44A5-B04E-FE9BBFA11E16",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

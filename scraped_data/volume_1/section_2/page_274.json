@@ -1,0 +1,111 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 274,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167683,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3429\"><page number=\"274\"/><heading level=\"2\">[باب] في البواسير و الأرواح </heading></p>"
+        },
+        {
+          "paragraphId": 714167684,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3430\">[444] </p>"
+        },
+        {
+          "paragraphId": 714167685,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3431\"><format class=\"hadith\" who=\"6\" Id=\"439\" RevayatIndex=\"439\"><format class=\"sanadHadith\">حدّثنا ابن همّام<lfootnote noteId=\"1503\">1</lfootnote>، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن خالد البرقي، عن ابن أبي عمير، عن سلمة بيّاع السابري، عن رجل، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«[للخلاص]<lfootnote noteId=\"1504\">2</lfootnote> من الأرواح<lfootnote noteId=\"1505\">3</lfootnote> يدّخن البلادر<lfootnote noteId=\"1506\">4</lfootnote> [و يأخذ مطهرة فيشقّ‌]<lfootnote noteId=\"1507\">5</lfootnote> أسفلها و يطرح البلاذر على الجمر و تكبّ المطهرة عليه و تدّخن به»<lfootnote noteId=\"1508\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167686,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3432\">[445] </p>"
+        },
+        {
+          "paragraphId": 714167687,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3433\"><format class=\"hadith\" who=\"8\" Id=\"440\" RevayatIndex=\"440\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format></format> أنّه شكا إليه رجل البواسير، فقال: «اكتب <format class=\"ayah\" surah=\"36\" ayah=\"1\" toAyah=\"\">يس<format class=\"ayahWord\" fromWord=\"1\" toWord=\"1\"/><format class=\"ayahAddress\" surah=\"36\" ayah=\"1\" toAyah=\"\"/></format> بالعسل و اشربه»<lfootnote noteId=\"1509\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167688,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3434\">[446] </p>"
+        },
+        {
+          "paragraphId": 714167689,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3435\"><format class=\"hadith\" who=\"8\" Id=\"441\" RevayatIndex=\"441\"><format class=\"sanadHadith\">و روي عنه عليه السّلام أيضا</format>: <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\"/></format>«تأخذ هليلج أسود و بليلج و أملج أجزاء سواء فتدقّه و تنخله بحريرة<lfootnote noteId=\"1510\">8</lfootnote> و تأخذ مثله لوزا<lfootnote noteId=\"1511\">9</lfootnote> أزرق - و أهل العراق <page number=\"275\"/> يسمّونه: مقل أزرق - فتنقع اللوز<lfootnote noteId=\"1512\">1</lfootnote> في ماء الكرّاث حتى يلتات فيه ثلاثين<lfootnote noteId=\"1513\">2</lfootnote>ليلة، و تطرح عليها هذه الأدوية الهليلج و البليلج و الأملج فيعجن به عجنا شديدا حتّى يختلط، ثمّ تجعل حبّا مثل العدس و تدهن يدك بدهن البنفسج أو خيريّ أو شيرج لئلّا يلتزق، ثمّ تجفّفه<lfootnote noteId=\"1514\">3</lfootnote> في الظلّ‌، فإن كان صيفا أخذت<lfootnote noteId=\"1515\">4</lfootnote> منه مثقالا عند منامك و في الشتاء مثقالين، و اكتحل و ادّهن قبل ذلك، و لا تحتمي إلّا من السمك و الخلّ و البقل»<lfootnote noteId=\"1516\">5</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169458,
+          "text": "<footnote id=\"1503\"><page number=\"274\"/><mnote>(1)</mnote> في النسخة: «أبو همّام» و ما أثبتناه من بقية أسانيد الكتاب. </footnote>"
+        },
+        {
+          "footnoteId": 714169459,
+          "text": "<footnote id=\"1504\"><mnote>(2)</mnote> ما بين المعقوفتين أثبتناه لضرورة السياق. </footnote>"
+        },
+        {
+          "footnoteId": 714169460,
+          "text": "<footnote id=\"1505\"><mnote>(3)</mnote> الريح: واحدة الرياح، و قد تجمع على أرواح؛ لأنّ أصلها الواو و إنّما جاءت بالياء لانكسار ما قبلها، فإذا رجعوا إلى الفتح عادت إلى الواو، كقولك: أروّح الماء و تروّحت بالمروحة، و يقال: ريح و ريحة كما قالوا: دار و دارة. الصحاح 367:1 «روح». </footnote>"
+        },
+        {
+          "footnoteId": 714169461,
+          "text": "<footnote id=\"1506\"><mnote>(4)</mnote> البلادر [البلاذر]، بالفتح و ضمّ الدال المهملة: اسم هنديّ لثمر الفهم المعروف، و قيل:<br/>معرّب «بهلاوا» بالهندية. الطراز الأوّل 118:7 «بلدر». </footnote>"
+        },
+        {
+          "footnoteId": 714169462,
+          "text": "<footnote id=\"1507\"><mnote>(5)</mnote> في النسخة: «يأخذ مطهرة فشقّت» و ما بين المعقوفتين هو الصواب. </footnote>"
+        },
+        {
+          "footnoteId": 714169463,
+          "text": "<footnote id=\"1508\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و سيأتي في هذا الباب في الحديث 448 و 452 علاج البواسير بالبلادر. </footnote>"
+        },
+        {
+          "footnoteId": 714169464,
+          "text": "<footnote id=\"1509\"><mnote>(7)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/383، فقال: للبواسير: روي عن الصادق عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169465,
+          "text": "<footnote id=\"1510\"><mnote>(8)</mnote> كلمة: «بحريرة» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169466,
+          "text": "<footnote id=\"1511\"><mnote>(9)</mnote> في النسخة: «و تأخذ كوزا» و ما أثبتناه من المصدر.</footnote>"
+        }
+      ],
+      "pageValue": "274",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3429\" paragraph-id=\"3429\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo274\">274</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في البواسير و الأرواح </strong>\n  </p>\n  <p id=\"p3430\" paragraph-id=\"3430\" class=\" G\">[444] </p>\n  <p id=\"p3431\" paragraph-id=\"3431\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام<span><sup><a class=\"NewFn\" href=\"#footnote1503\" title=\"(1)  في النسخة: «أبو همّام» و ما أثبتناه من بقية أسانيد الكتاب. \">1</a></sup></span>، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن خالد البرقي، عن ابن أبي عمير، عن سلمة بيّاع السابري، عن رجل، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«[للخلاص]<span><sup><a class=\"NewFn\" href=\"#footnote1504\" title=\"(2)  ما بين المعقوفتين أثبتناه لضرورة السياق. \">2</a></sup></span> من الأرواح<span><sup><a class=\"NewFn\" href=\"#footnote1505\" title=\"(3)  الريح: واحدة الرياح، و قد تجمع على أرواح؛ لأنّ أصلها الواو و إنّما جاءت بالياء لانكسار ما قبلها، فإذا رجعوا إلى الفتح عادت إلى الواو، كقولك: أروّح الماء و تروّحت بالمروحة، و يقال: ريح و ريحة كما قالوا: دار و دارة. الصحاح 367:1 «روح». \">3</a></sup></span> يدّخن البلادر<span><sup><a class=\"NewFn\" href=\"#footnote1506\" title=\"(4)  البلادر [البلاذر]، بالفتح و ضمّ الدال المهملة: اسم هنديّ لثمر الفهم المعروف، و قيل:معرّب «بهلاوا» بالهندية. الطراز الأوّل 118:7 «بلدر». \">4</a></sup></span> [و يأخذ مطهرة فيشقّ‌]<span><sup><a class=\"NewFn\" href=\"#footnote1507\" title=\"(5)  في النسخة: «يأخذ مطهرة فشقّت» و ما بين المعقوفتين هو الصواب. \">5</a></sup></span> أسفلها و يطرح البلاذر على الجمر و تكبّ المطهرة عليه و تدّخن به»<span><sup><a class=\"NewFn\" href=\"#footnote1508\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا، و سيأتي في هذا الباب في الحديث 448 و 452 علاج البواسير بالبلادر. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3432\" paragraph-id=\"3432\" class=\" G\">[445] </p>\n  <p id=\"p3433\" paragraph-id=\"3433\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span></span> أنّه شكا إليه رجل البواسير، فقال: «اكتب <span style=\"0\" class=\"ayah\" surah=\"36\" ayah=\"1\">يس<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/36/1\"></a></span></span> بالعسل و اشربه»<span><sup><a class=\"NewFn\" href=\"#footnote1509\" title=\"(7)  رواه الطبرسي في مكارم الأخلاق: 1/383، فقال: للبواسير: روي عن الصادق عليه السّلام. \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p3434\" paragraph-id=\"3434\" class=\" G\">[446] </p>\n  <p id=\"p3435\" paragraph-id=\"3435\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عنه عليه السّلام أيضا</span>: <span class=\"Y\"><span class=\"maasoom\"></span></span>«تأخذ هليلج أسود و بليلج و أملج أجزاء سواء فتدقّه و تنخله بحريرة<span><sup><a class=\"NewFn\" href=\"#footnote1510\" title=\"(8)  كلمة: «بحريرة» أثبتناها من المصدر. \">8</a></sup></span> و تأخذ مثله لوزا<span><sup><a class=\"NewFn\" href=\"#footnote1511\" title=\"(9)  في النسخة: «و تأخذ كوزا» و ما أثبتناه من المصدر.\">9</a></sup></span> أزرق - و أهل العراق </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1503\" footnote-id=\"1503\">(1) <page number=\"274\" /> في النسخة: «أبو همّام» و ما أثبتناه من بقية أسانيد الكتاب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1504\" footnote-id=\"1504\">(2)  ما بين المعقوفتين أثبتناه لضرورة السياق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1505\" footnote-id=\"1505\">(3)  الريح: واحدة الرياح، و قد تجمع على أرواح؛ لأنّ أصلها الواو و إنّما جاءت بالياء لانكسار ما قبلها، فإذا رجعوا إلى الفتح عادت إلى الواو، كقولك: أروّح الماء و تروّحت بالمروحة، و يقال: ريح و ريحة كما قالوا: دار و دارة. الصحاح 367:1 «روح». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1506\" footnote-id=\"1506\">(4)  البلادر [البلاذر]، بالفتح و ضمّ الدال المهملة: اسم هنديّ لثمر الفهم المعروف، و قيل:<br />معرّب «بهلاوا» بالهندية. الطراز الأوّل 118:7 «بلدر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1507\" footnote-id=\"1507\">(5)  في النسخة: «يأخذ مطهرة فشقّت» و ما بين المعقوفتين هو الصواب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1508\" footnote-id=\"1508\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا، و سيأتي في هذا الباب في الحديث 448 و 452 علاج البواسير بالبلادر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1509\" footnote-id=\"1509\">(7)  رواه الطبرسي في مكارم الأخلاق: 1/383، فقال: للبواسير: روي عن الصادق عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1510\" footnote-id=\"1510\">(8)  كلمة: «بحريرة» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1511\" footnote-id=\"1511\">(9)  في النسخة: «و تأخذ كوزا» و ما أثبتناه من المصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "80F58D9C-F606-459C-94F0-A36EFFD20672",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

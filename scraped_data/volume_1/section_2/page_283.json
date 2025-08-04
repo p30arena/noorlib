@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 283,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167743,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3489\"><page number=\"283\"/><heading level=\"2\">[باب] من يقوّم الدم </heading></p>"
+        },
+        {
+          "paragraphId": 714167744,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3490\">[460] روى أبو عبد الله السيّاري، عن بعضهم، فيمن يقوّم الدم: يدقّ الواردي<lfootnote noteId=\"1553\">1</lfootnote> و يعجن بعسل، و يأخذ<lfootnote noteId=\"1554\">2</lfootnote> منه وزن درهم فإنّه نافع بإذن الله تعالى<lfootnote noteId=\"1555\">3</lfootnote>. </p>"
+        },
+        {
+          "paragraphId": 714167745,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3491\"><heading level=\"2\">[باب] في الحقنة<lfootnote noteId=\"1556\">4</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714167746,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3492\">[461] </p>"
+        },
+        {
+          "paragraphId": 714167747,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3493\"><format class=\"hadith\" who=\"6\" Id=\"454\" RevayatIndex=\"454\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن خالد، عن القاسم بن محمّد، عن إسماعيل بن أبي الحسن، عن جعفر بن محمّد بيّاع السابري<lfootnote noteId=\"1557\">5</lfootnote>، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«خير ما تداويتم به الحقنة و الحجامة و السعوط و الحمّام»<lfootnote noteId=\"1558\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167748,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3494\">[462] 319 </p>"
+        },
+        {
+          "paragraphId": 714167749,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3495\"><format class=\"hadith\" who=\"6\" Id=\"455\" RevayatIndex=\"455\"><format class=\"sanadHadith\">و عنه روى عدّة من أصحابنا، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«إنّي لا احتقن و ما بي إليها من حاجة»<lfootnote noteId=\"1559\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167750,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3496\"><page number=\"284\"/>[463] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169508,
+          "text": "<footnote id=\"1553\"><page number=\"283\"/><mnote>(1)</mnote> كذا في النسخة، و لم نعثر على معنى لهذه الكلمة. </footnote>"
+        },
+        {
+          "footnoteId": 714169509,
+          "text": "<footnote id=\"1554\"><mnote>(2)</mnote> كذا في النسخة و الأصح: «و يؤخذ». </footnote>"
+        },
+        {
+          "footnoteId": 714169510,
+          "text": "<footnote id=\"1555\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169511,
+          "text": "<footnote id=\"1556\"><mnote>(4)</mnote> الحقنة: هو أن يعطى المريض الدواء من أسفله، و هي معروفة عند الأطباء. النهاية لابن الأثير 416:1 «حقن». و قد تقدّمت أحاديث الحقنة برقم 280-282 فراجع. </footnote>"
+        },
+        {
+          "footnoteId": 714169512,
+          "text": "<footnote id=\"1557\"><mnote>(5)</mnote> في الحديث 282 المتقدّم: «السابوري». و روى ابنا بسطام في كتاب طبّ الأئمّة عليهم السّلام: 54 نحو هذا الحديث، عن القاسم بن محمّد، عن إسماعيل بن أبي الحسن، عن حفص بن عمر - و هو بيّاع السابري - عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169513,
+          "text": "<footnote id=\"1558\"><mnote>(6)</mnote> تقدّم الحديث بعينه برقم: 282 سندا و متنا بتقديم و تأخير في بعض كلمات المتن. </footnote>"
+        },
+        {
+          "footnoteId": 714169514,
+          "text": "<footnote id=\"1559\"><mnote>(7)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "283",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3489\" paragraph-id=\"3489\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo283\">283</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] من يقوّم الدم </strong>\n  </p>\n  <p id=\"p3490\" paragraph-id=\"3490\" class=\" G\">[460] روى أبو عبد الله السيّاري، عن بعضهم، فيمن يقوّم الدم: يدقّ الواردي<span><sup><a class=\"NewFn\" href=\"#footnote1553\" title=\"(1)  كذا في النسخة، و لم نعثر على معنى لهذه الكلمة. \">1</a></sup></span> و يعجن بعسل، و يأخذ<span><sup><a class=\"NewFn\" href=\"#footnote1554\" title=\"(2)  كذا في النسخة و الأصح: «و يؤخذ». \">2</a></sup></span> منه وزن درهم فإنّه نافع بإذن الله تعالى<span><sup><a class=\"NewFn\" href=\"#footnote1555\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">3</a></sup></span>. </p>\n  <p id=\"p3491\" paragraph-id=\"3491\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الحقنة<span><sup><a class=\"NewFn\" href=\"#footnote1556\" title=\"(4)  الحقنة: هو أن يعطى المريض الدواء من أسفله، و هي معروفة عند الأطباء. النهاية لابن الأثير 416:1 «حقن». و قد تقدّمت أحاديث الحقنة برقم 280-282 فراجع. \">4</a></sup></span></strong>\n  </p>\n  <p id=\"p3492\" paragraph-id=\"3492\" class=\" G\">[461] </p>\n  <p id=\"p3493\" paragraph-id=\"3493\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن خالد، عن القاسم بن محمّد، عن إسماعيل بن أبي الحسن، عن جعفر بن محمّد بيّاع السابري<span><sup><a class=\"NewFn\" href=\"#footnote1557\" title=\"(5)  في الحديث 282 المتقدّم: «السابوري». و روى ابنا بسطام في كتاب طبّ الأئمّة عليهم السّلام: 54 نحو هذا الحديث، عن القاسم بن محمّد، عن إسماعيل بن أبي الحسن، عن حفص بن عمر - و هو بيّاع السابري - عن أبي عبد الله عليه السّلام. \">5</a></sup></span>، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«خير ما تداويتم به الحقنة و الحجامة و السعوط و الحمّام»<span><sup><a class=\"NewFn\" href=\"#footnote1558\" title=\"(6)  تقدّم الحديث بعينه برقم: 282 سندا و متنا بتقديم و تأخير في بعض كلمات المتن. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3494\" paragraph-id=\"3494\" class=\" G\">[462] 319 </p>\n  <p id=\"p3495\" paragraph-id=\"3495\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه روى عدّة من أصحابنا، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«إنّي لا احتقن و ما بي إليها من حاجة»<span><sup><a class=\"NewFn\" href=\"#footnote1559\" title=\"(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p3496\" paragraph-id=\"3496\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1553\" footnote-id=\"1553\">(1) <page number=\"283\" /> كذا في النسخة، و لم نعثر على معنى لهذه الكلمة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1554\" footnote-id=\"1554\">(2)  كذا في النسخة و الأصح: «و يؤخذ». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1555\" footnote-id=\"1555\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1556\" footnote-id=\"1556\">(4)  الحقنة: هو أن يعطى المريض الدواء من أسفله، و هي معروفة عند الأطباء. النهاية لابن الأثير 416:1 «حقن». و قد تقدّمت أحاديث الحقنة برقم 280-282 فراجع. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1557\" footnote-id=\"1557\">(5)  في الحديث 282 المتقدّم: «السابوري». و روى ابنا بسطام في كتاب طبّ الأئمّة عليهم السّلام: 54 نحو هذا الحديث، عن القاسم بن محمّد، عن إسماعيل بن أبي الحسن، عن حفص بن عمر - و هو بيّاع السابري - عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1558\" footnote-id=\"1558\">(6)  تقدّم الحديث بعينه برقم: 282 سندا و متنا بتقديم و تأخير في بعض كلمات المتن. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1559\" footnote-id=\"1559\">(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "CBE0A039-58B5-4B5E-8D56-849B5D929DF6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

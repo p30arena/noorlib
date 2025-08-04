@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 253,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167576,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3322\"><page number=\"253\"/><heading level=\"3\">و أيضا رقية للبطن من الدوّاب</heading></p>"
+        },
+        {
+          "paragraphId": 714167577,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3323\">[410] بسم الله الرحمن الرحيم، شيخ صدق و عجوز سوء شيخ جفر كف عدس مرما مغلي<lfootnote noteId=\"1402\">1</lfootnote> بإذن الله الواحد القهّار<lfootnote noteId=\"1403\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714167578,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3324\"><heading level=\"3\">و أيضا دواء للقولنج</heading></p>"
+        },
+        {
+          "paragraphId": 714167579,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3325\">[411] </p>"
+        },
+        {
+          "paragraphId": 714167580,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3326\"><format class=\"hadith\" who=\"7\" Id=\"406\" RevayatIndex=\"406\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد، عن موسى بن جعفر البغدادي، عن عبد العظيم بن عبد الله<lfootnote noteId=\"1404\">3</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن موسى عليه السّلام</format></format></format> أنّه سئل عن الحقنة فكرهها.</format></p>"
+        },
+        {
+          "paragraphId": 714167581,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3327\"><format class=\"hadith\" who=\"7\" Id=\"406\" RevayatIndex=\"406\">فقلت له: القولنج يكون<lfootnote noteId=\"1405\">4</lfootnote> بالرجل فيشتدّ به البطن.</format></p>"
+        },
+        {
+          "paragraphId": 714167582,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3328\"><format class=\"hadith\" who=\"7\" Id=\"406\" RevayatIndex=\"406\"><page number=\"254\"/> فقال: «خذ القرطم<lfootnote noteId=\"1406\">1</lfootnote> فاطحنه حتّى يخرج و دكه<lfootnote noteId=\"1407\">2</lfootnote>، و خذ الودك تصفّه و اطبخه و ارم بحبّه و أطعمه إيّاه، فإن كانت به حياة لم يبق شيء في بطنه إلّا خرج بإذن الله تعالى»<lfootnote noteId=\"1408\">3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169356,
+          "text": "<footnote id=\"1401\"><mnote>(8)</mnote> رواه البرقي في المحاسن 15/487:2، باب الخلّ‌، عن علي بن الحكم، عن <page number=\"253\"/>المسلمي، عن أحمد بن رزين، عن سفيان السمط، قال: قال أبو عبد الله عليه السّلام: «عليك بخلّ الخمر»، و الكليني في الكافي 11/330:6، باب الخلّ‌، عن أحمد بن محمّد، عن علي بن الحكم، عن ربيع المسلي، و الطبرسي في مكارم الأخلاق: 6/190، في الخلّ عنه عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169357,
+          "text": "<footnote id=\"1402\"><mnote>(1)</mnote> كذا استظهرناه من النسخة و يمكن أن تقرأ هذه الرقية بصور اخرى. </footnote>"
+        },
+        {
+          "footnoteId": 714169358,
+          "text": "<footnote id=\"1403\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169359,
+          "text": "<footnote id=\"1404\"><mnote>(3)</mnote> في النسخة: «الحميري، عن محمّد بن موسى بن جعفر البغدادي بن عبد العظيم بن عبد الله». و محمّد بن موسى بن جعفر البغدادي لم نعثر على اسمه في المصادر، و الصحيح ما أثبتناه إذ أنّ موسى بن جعفر البغدادي هو أبو الحسن موسى بن جعفر بن وهب البغدادي و يروي عن عبد العظيم بن عبد الله الحسني و هما معروفان. ثمّ إنّ عبد العظيم بن عبد الله لم يرو عن الإمام أبي الحسن الأول عليه السّلام، و لعلّ في السند سقطا أو تصحيفا أو كليهما. </footnote>"
+        },
+        {
+          "footnoteId": 714169360,
+          "text": "<footnote id=\"1405\"><mnote>(4)</mnote> كذا استظهرنا من العبارة.</footnote>"
+        }
+      ],
+      "pageValue": "253",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3322\" paragraph-id=\"3322\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo253\">253</span>\n    <strong style=\"0\" class=\"h-3 03\">و أيضا رقية للبطن من الدوّاب</strong>\n  </p>\n  <p id=\"p3323\" paragraph-id=\"3323\" class=\" G\">[410] بسم الله الرحمن الرحيم، شيخ صدق و عجوز سوء شيخ جفر كف عدس مرما مغلي<span><sup><a class=\"NewFn\" href=\"#footnote1402\" title=\"(1)  كذا استظهرناه من النسخة و يمكن أن تقرأ هذه الرقية بصور اخرى. \">1</a></sup></span> بإذن الله الواحد القهّار<span><sup><a class=\"NewFn\" href=\"#footnote1403\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</p>\n  <p id=\"p3324\" paragraph-id=\"3324\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">و أيضا دواء للقولنج</strong>\n  </p>\n  <p id=\"p3325\" paragraph-id=\"3325\" class=\" G\">[411] </p>\n  <p id=\"p3326\" paragraph-id=\"3326\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد، عن موسى بن جعفر البغدادي، عن عبد العظيم بن عبد الله<span><sup><a class=\"NewFn\" href=\"#footnote1404\" title=\"(3)  في النسخة: «الحميري، عن محمّد بن موسى بن جعفر البغدادي بن عبد العظيم بن عبد الله». و محمّد بن موسى بن جعفر البغدادي لم نعثر على اسمه في المصادر، و الصحيح ما أثبتناه إذ أنّ موسى بن جعفر البغدادي هو أبو الحسن موسى بن جعفر بن وهب البغدادي و يروي عن عبد العظيم بن عبد الله الحسني و هما معروفان. ثمّ إنّ عبد العظيم بن عبد الله لم يرو عن الإمام أبي الحسن الأول عليه السّلام، و لعلّ في السند سقطا أو تصحيفا أو كليهما. \">3</a></sup></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن موسى عليه السّلام</span></span></span> أنّه سئل عن الحقنة فكرهها.</span>\n  </p>\n  <p id=\"p3327\" paragraph-id=\"3327\" class=\" G\">\n    <span class=\"hadith\">فقلت له: القولنج يكون<span><sup><a class=\"NewFn\" href=\"#footnote1405\" title=\"(4)  كذا استظهرنا من العبارة.\">4</a></sup></span> بالرجل فيشتدّ به البطن.</span>\n  </p>\n  <p id=\"p3328\" paragraph-id=\"3328\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1401\" footnote-id=\"1401\"><page number=\"253\" />المسلمي، عن أحمد بن رزين، عن سفيان السمط، قال: قال أبو عبد الله عليه السّلام: «عليك بخلّ الخمر»، و الكليني في الكافي 11/330:6، باب الخلّ‌، عن أحمد بن محمّد، عن علي بن الحكم، عن ربيع المسلي، و الطبرسي في مكارم الأخلاق: 6/190، في الخلّ عنه عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1402\" footnote-id=\"1402\">(1)  كذا استظهرناه من النسخة و يمكن أن تقرأ هذه الرقية بصور اخرى. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1403\" footnote-id=\"1403\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1404\" footnote-id=\"1404\">(3)  في النسخة: «الحميري، عن محمّد بن موسى بن جعفر البغدادي بن عبد العظيم بن عبد الله». و محمّد بن موسى بن جعفر البغدادي لم نعثر على اسمه في المصادر، و الصحيح ما أثبتناه إذ أنّ موسى بن جعفر البغدادي هو أبو الحسن موسى بن جعفر بن وهب البغدادي و يروي عن عبد العظيم بن عبد الله الحسني و هما معروفان. ثمّ إنّ عبد العظيم بن عبد الله لم يرو عن الإمام أبي الحسن الأول عليه السّلام، و لعلّ في السند سقطا أو تصحيفا أو كليهما. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1405\" footnote-id=\"1405\">(4)  كذا استظهرنا من العبارة.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "DF93E46E-99FD-4728-940A-6125094D6AEF",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

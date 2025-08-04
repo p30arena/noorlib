@@ -1,0 +1,73 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 125,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170216,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1471\"><page number=\"125\"/>[168] </p>"
+        },
+        {
+          "paragraphId": 714170217,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1472\"><format class=\"hadith\" who=\"6\" Id=\"166\" RevayatIndex=\"687\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن صفوان بن يحيى، عن سيف بن عميرة، عن أبي بكر الحضرمي، عن الحارث النصري<lfootnote noteId=\"494\">1</lfootnote>، قال:</format> قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لأبي عبد الله عليه السّلام</format></format>: إنّي من أهل بيت قد انقرضوا و ليس لي ولد.</format></p>"
+        },
+        {
+          "paragraphId": 714170218,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1473\"><format class=\"hadith\" who=\"6\" Id=\"166\" RevayatIndex=\"687\">قال: «فادع و أنت ساجد: <format class=\"ayah\" surah=\"3\" ayah=\"38\" toAyah=\"\">رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ اَلدُّعٰاءِ‌<format class=\"ayahWord\" fromWord=\"6\" toWord=\"15\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"38\" toAyah=\"\"/></format><lfootnote noteId=\"495\">2</lfootnote>، <format class=\"ayah\" surah=\"21\" ayah=\"89\" toAyah=\"\">رَبِّ لاٰ تَذَرْنِي فَرْداً وَ أَنْتَ خَيْرُ اَلْوٰارِثِينَ‌<format class=\"ayahWord\" fromWord=\"6\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"21\" ayah=\"89\" toAyah=\"\"/></format><lfootnote noteId=\"496\">3</lfootnote>».</format></p>"
+        },
+        {
+          "paragraphId": 714170219,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1474\"><format class=\"hadith\" who=\"6\" Id=\"166\" RevayatIndex=\"687\"><page number=\"126\"/> قال: دعا بها فولد علي و الحسين<lfootnote noteId=\"497\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171290,
+          "text": "<footnote id=\"493\"><mnote>(3)</mnote> رواه الكليني في الكافي 5/8:6، باب الدعاء في طلب الولد، عن الحسين بن محمّد، عن أحمد بن محمّد السيّاري، و الطبرسي في مكارم الأخلاق: 4/224، باب في طلب الولد، من كتاب طبّ الأئمّة عليهم السّلام، عن سليمان الجوزي، عن شيخ مدائني، عن زرارة، عن أبي جعفر عليه السّلام، و ابنا بسطام بتفاوت في طبّ الأئمة عليهم السّلام: 129، عن أبي جعفر الأوّل محمّد الباقر بن علي بن الحسين بن علي عليهم السّلام: أنّ رجلا شكا إليه قلّة الولد، و أنّه يطلب الولد من الإماء و الحرائر فلا يرزق له، و هو ابن ستّين سنة، فقال عليه السّلام: «قل ثلاثة أيّام في دبر صلاتك المكتوبة صلاة العشاء الآخرة، و في دبر صلاة الفجر: سبحان الله سبعين مرّة و أستغفر الله سبعين مرّة، و تختمه بقول الله عزّ و جلّ <format class=\"ayah\" surah=\"71\" ayah=\"10\" toAyah=\"12\">اِسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كٰانَ غَفّٰاراً * <format class=\"AyahSeprator\"/>يُرْسِلِ اَلسَّمٰاءَ عَلَيْكُمْ مِدْرٰاراً * <format class=\"AyahSeprator\"/>وَ يُمْدِدْكُمْ بِأَمْوٰالٍ وَ بَنِينَ وَ يَجْعَلْ لَكُمْ جَنّٰاتٍ وَ يَجْعَلْ لَكُمْ أَنْهٰاراً<format class=\"ayahWord\" fromWord=\"2\" toWord=\"23\"/><format class=\"ayahAddress\" surah=\"71\" ayah=\"10\" toAyah=\"12\"/></format> ثمّ واقع امرأتك الليلة الثالثة فإنّك ترزق بإذن الله ذكرا سويا». قال: ففعلت ذلك و لم يحل الحول حتّى رزقت قرّة عين.<br/>و روي عن الأئمّة عليهم السّلام في روايات كثيرة أنّ الاستغفار يجلب الولد، منها: ما رواه الطبرسي في تفسير جوامع الجامع 174:2، فقال: عن الحسن بن علي عليهما السّلام أنّه وفد على معاوية، فلمّا خرج تبعه بعض حجّابه و قال: إنّي رجل ذو مال و لا يولد لي، فعلّمني شيئا لعلّ الله يرزقني ولدا، فقال: «عليك بالاستغفار»، فكان يكثر الاستغفار حتّى ربما استغفر في اليوم سبعمائة مرّة، فولد له عشرة بنين، فبلغ ذلك معاوية، فقال: هلّا سألته ممّ قال ذلك‌؟ فوفد وفدة <page number=\"125\"/>اخرى، فسأله الرجل، فقال: «أ لم تسمع قول الله عزّ و جلّ في قصّة هود: <format class=\"ayah\" surah=\"11\" ayah=\"52\" toAyah=\"\">وَ يَزِدْكُمْ قُوَّةً إِلىٰ قُوَّتِكُمْ <format class=\"ayahWord\" fromWord=\"13\" toWord=\"17\"/><format class=\"ayahAddress\" surah=\"11\" ayah=\"52\" toAyah=\"\"/></format>[سورة هود 52:11]، و في قصّة نوح: <format class=\"ayah\" surah=\"71\" ayah=\"12\" toAyah=\"\">وَ يُمْدِدْكُمْ بِأَمْوٰالٍ وَ بَنِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"71\" ayah=\"12\" toAyah=\"\"/></format>»، و انظر: الكافي 4/8:6، من لا يحضره الفقيه 4660/474:4، جامع الأخبار: 1/281 و 4/371، مكارم الأخلاق: 3/224. </footnote>"
+        },
+        {
+          "footnoteId": 714171291,
+          "text": "<footnote id=\"494\"><mnote>(1)</mnote> في النسخة: «عن أبي بكر بن الحارث النصر»، و في مكارم الأخلاق: «أبي بكر بن الحارث البصري». و الصحيح ما أثبتناه من الكافي؛ إذ الرجل الأوّل هو عبد الله بن محمّد، أبو بكر الحضرمي الكوفي، الذي ذكره الطوسي في رجاله: 3116/230، و انظر: الكافي 4/122:3، اختيار معرفة الرجال: 788/416-790، تهذيب الأحكام 1/287:1، الدعوات: 694/246، مناقب آل أبي طالب عليهم السّلام 281:4. و الرجل الثاني هو الحارث بن مغيرة النصري - بالصاد دون الضاد - الذي قال عنه النجاشي في كتابه:<br/>361/139: حارث بن المغيرة النصري، من بني نصر بن معاوية، بصري، روى عن أبي جعفر، و جعفر، و موسى بن جعفر، و زيد بن علي عليهم السّلام، ثقة ثقة. و انظر: إختيار معرفة الرجال: 619/337-620، الفهرست: 265/196، رجال الطوسي: 2373/191 و 1363/132. </footnote>"
+        },
+        {
+          "footnoteId": 714171292,
+          "text": "<footnote id=\"495\"><mnote>(2)</mnote> سورة آل عمران 38:3. </footnote>"
+        },
+        {
+          "footnoteId": 714171293,
+          "text": "<footnote id=\"496\"><mnote>(3)</mnote> سورة الأنبياء 89:21.<br/>و في الكافي المطبوع: «ربّ هب لي من لدنك وليّا يرثني» <format class=\"ayah\" surah=\"3\" ayah=\"38\" toAyah=\"\">رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً‌<format class=\"ayahWord\" fromWord=\"6\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"38\" toAyah=\"\"/></format><page number=\"126\"/>الآية، و في بعض نسخه: «ربّ هب لي من لدنك وليّا» بدل الآية. انظر: مرآة العقول 16:21. </footnote>"
+        }
+      ],
+      "pageValue": "125",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1471\" paragraph-id=\"1471\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo125\">125</span>[168] </p>\n  <p id=\"p1472\" paragraph-id=\"1472\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن صفوان بن يحيى، عن سيف بن عميرة، عن أبي بكر الحضرمي، عن الحارث النصري<span><sup><a class=\"NewFn\" href=\"#footnote494\" title=\"(1)  في النسخة: «عن أبي بكر بن الحارث النصر»، و في مكارم الأخلاق: «أبي بكر بن الحارث البصري». و الصحيح ما أثبتناه من الكافي؛ إذ الرجل الأوّل هو عبد الله بن محمّد، أبو بكر الحضرمي الكوفي، الذي ذكره الطوسي في رجاله: 3116/230، و انظر: الكافي 4/122:3، اختيار معرفة الرجال: 788/416-790، تهذيب الأحكام 1/287:1، الدعوات: 694/246، مناقب آل أبي طالب عليهم السّلام 281:4. و الرجل الثاني هو الحارث بن مغيرة النصري - بالصاد دون الضاد - الذي قال عنه النجاشي في كتابه:361/139: حارث بن المغيرة النصري، من بني نصر بن معاوية، بصري، روى عن أبي جعفر، و جعفر، و موسى بن جعفر، و زيد بن علي عليهم السّلام، ثقة ثقة. و انظر: إختيار معرفة الرجال: 619/337-620، الفهرست: 265/196، رجال الطوسي: 2373/191 و 1363/132. \">1</a></sup></span>، قال:</span> قلت <span class=\"Y\"><span class=\"maasoom\">لأبي عبد الله عليه السّلام</span></span>: إنّي من أهل بيت قد انقرضوا و ليس لي ولد.</span>\n  </p>\n  <p id=\"p1473\" paragraph-id=\"1473\" class=\" G\">\n    <span class=\"hadith\">قال: «فادع و أنت ساجد: <span style=\"0\" class=\"ayah\" surah=\"3\" ayah=\"38\">رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ اَلدُّعٰاءِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/3/38\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote495\" title=\"(2)  سورة آل عمران 38:3. \">2</a></sup></span>، <span style=\"0\" class=\"ayah\" surah=\"21\" ayah=\"89\">رَبِّ لاٰ تَذَرْنِي فَرْداً وَ أَنْتَ خَيْرُ اَلْوٰارِثِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/21/89\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote496\" title=\"(3)  سورة الأنبياء 89:21.و في الكافي المطبوع: «ربّ هب لي من لدنك وليّا يرثني» رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً‌\">3</a></sup></span>».</span>\n  </p>\n  <p id=\"p1474\" paragraph-id=\"1474\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote493\" footnote-id=\"493\"><page number=\"125\" />اخرى، فسأله الرجل، فقال: «أ لم تسمع قول الله عزّ و جلّ في قصّة هود: <format class=\"ayah\" surah=\"11\" ayah=\"52\" toAyah=\"\">وَ يَزِدْكُمْ قُوَّةً إِلىٰ قُوَّتِكُمْ <format class=\"ayahWord\" fromWord=\"13\" toWord=\"17\" /><format class=\"ayahAddress\" surah=\"11\" ayah=\"52\" toAyah=\"\" /></format>[سورة هود 52:11]، و في قصّة نوح: <format class=\"ayah\" surah=\"71\" ayah=\"12\" toAyah=\"\">وَ يُمْدِدْكُمْ بِأَمْوٰالٍ وَ بَنِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\" /><format class=\"ayahAddress\" surah=\"71\" ayah=\"12\" toAyah=\"\" /></format>»، و انظر: الكافي 4/8:6، من لا يحضره الفقيه 4660/474:4، جامع الأخبار: 1/281 و 4/371، مكارم الأخلاق: 3/224. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote494\" footnote-id=\"494\">(1)  في النسخة: «عن أبي بكر بن الحارث النصر»، و في مكارم الأخلاق: «أبي بكر بن الحارث البصري». و الصحيح ما أثبتناه من الكافي؛ إذ الرجل الأوّل هو عبد الله بن محمّد، أبو بكر الحضرمي الكوفي، الذي ذكره الطوسي في رجاله: 3116/230، و انظر: الكافي 4/122:3، اختيار معرفة الرجال: 788/416-790، تهذيب الأحكام 1/287:1، الدعوات: 694/246، مناقب آل أبي طالب عليهم السّلام 281:4. و الرجل الثاني هو الحارث بن مغيرة النصري - بالصاد دون الضاد - الذي قال عنه النجاشي في كتابه:<br />361/139: حارث بن المغيرة النصري، من بني نصر بن معاوية، بصري، روى عن أبي جعفر، و جعفر، و موسى بن جعفر، و زيد بن علي عليهم السّلام، ثقة ثقة. و انظر: إختيار معرفة الرجال: 619/337-620، الفهرست: 265/196، رجال الطوسي: 2373/191 و 1363/132. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote495\" footnote-id=\"495\">(2)  سورة آل عمران 38:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote496\" footnote-id=\"496\">(3)  سورة الأنبياء 89:21.<br />و في الكافي المطبوع: «ربّ هب لي من لدنك وليّا يرثني» <format class=\"ayah\" surah=\"3\" ayah=\"38\" toAyah=\"\">رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً‌<format class=\"ayahWord\" fromWord=\"6\" toWord=\"11\" /><format class=\"ayahAddress\" surah=\"3\" ayah=\"38\" toAyah=\"\" /></format></div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5C70DDA5-EBAA-49E3-8814-BA352F919F1A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,81 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 102,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170129,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1384\"><format class=\"hadith\" who=\"21,6\" Id=\"134\" RevayatIndex=\"655\"><format class=\"sanadHadith\">و سئل <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>على أيّ شيء عاهدت العقرب <format class=\"E\" Number=\"21\">نوحا عليه السّلام</format>؟ <page number=\"102\"/> فقال: «لم يحملها في السفينة حتّى أعطته عهد الله أن لا تلسع مؤمنا»<lfootnote noteId=\"399\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170130,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1385\">[137] </p>"
+        },
+        {
+          "paragraphId": 714170131,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1386\"><format class=\"hadith\" who=\"6\" Id=\"135\" RevayatIndex=\"656\"><format class=\"sanadHadith\">و عنه عليه السّلام أنّه قال</format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>: «من قال: <format class=\"ayah\" surah=\"37\" ayah=\"79\" toAyah=\"81\">سَلاٰمٌ عَلىٰ <format class=\"E\" Number=\"21\">نُوحٍ‌</format> فِي اَلْعٰالَمِينَ * <format class=\"AyahSeprator\"/>إِنّٰا كَذٰلِكَ نَجْزِي اَلْمُحْسِنِينَ * <format class=\"AyahSeprator\"/>إِنَّهُ مِنْ عِبٰادِنَا اَلْمُؤْمِنِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"79\" toAyah=\"81\"/></format><lfootnote noteId=\"400\">2</lfootnote> فإن أسمع نفسه و أهله لم يصبه و أهله عقرب، و إن لم يسمع أهله لم يصبه هو شيء»<lfootnote noteId=\"401\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170132,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1387\">[138] </p>"
+        },
+        {
+          "paragraphId": 714170133,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1388\"><format class=\"hadith\" who=\"5,14,6\" Id=\"136\" RevayatIndex=\"657\"><format class=\"sanadHadith\">و عنه عليه السّلام أنّه قال</format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>: «أتى قوم إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> يشكون العقارب و ما يلقون منها.</format></p>"
+        },
+        {
+          "paragraphId": 714170134,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1389\"><format class=\"hadith\" who=\"5,14,6\" Id=\"136\" RevayatIndex=\"657\">قال: قولوا إذا أصبحتم و أمسيتم: <format class=\"semicolon\">أعوذ بكلمات الله التّامّات و أعوذ بكلمات <page number=\"103\"/> الله المنجيات، الّتي لا يجاوزهنّ برّ و لا فاجر، الّذي لا يختفر جاره من شرّ ما ذرأ و ما برأ و من الشّيطان الرّجيم و شركه، و من شرّ كلّ دابّة <format class=\"ayah\" surah=\"11\" ayah=\"56\" toAyah=\"\">هُوَ آخِذٌ بِنٰاصِيَتِهٰا، إِنَّ رَبِّي عَلىٰ صِرٰاطٍ مُسْتَقِيمٍ‌<format class=\"ayahWord\" fromWord=\"12\" toWord=\"19\"/><format class=\"ayahAddress\" surah=\"11\" ayah=\"56\" toAyah=\"\"/></format>، </format>سبع مرّات<lfootnote noteId=\"402\">1</lfootnote>».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170756,
+          "text": "<footnote id=\"399\"><page number=\"102\"/><mnote>(1)</mnote> لم نعثر على نصّه في المصادر المتوفّرة لدينا. و لكن قال الراوندي في الدعوات: 321/129:<br/>و لمّا ركب نوح عليه السّلام في السفينة أبى أن يحمل معه العقرب، فقال: عاهدتك على ألّا ألسع من يقول: سلام على محمّد و آل محمّد و على نوح في العالمين. </footnote>"
+        },
+        {
+          "footnoteId": 714170757,
+          "text": "<footnote id=\"400\"><mnote>(2)</mnote> سورة الصافّات 79:37-81. </footnote>"
+        },
+        {
+          "footnoteId": 714170758,
+          "text": "<footnote id=\"401\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. و لكن روى القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 115/129، و عنه في الخصال: 619، و تحف العقول: 109، هكذا: و من خاف منكم العقرب فليقرأ هذه الآيات <format class=\"ayah\" surah=\"37\" ayah=\"79\" toAyah=\"81\">سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ * <format class=\"AyahSeprator\"/>إِنّٰا كَذٰلِكَ نَجْزِي اَلْمُحْسِنِينَ * <format class=\"AyahSeprator\"/>إِنَّهُ مِنْ عِبٰادِنَا اَلْمُؤْمِنِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"79\" toAyah=\"81\"/></format>.<br/>و قال الفضل الطبرسي في الآداب الدينية: 179/68: و في رواية اخرى تقول للعقرب أيضا: <format class=\"ayah\" surah=\"37\" ayah=\"79\" toAyah=\"\">سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ‌...<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"79\" toAyah=\"\"/></format> الآيات.<br/>و قال الكفعمي في المصباح: 222: و من قرأ كلّ ليلة: <format class=\"ayah\" surah=\"37\" ayah=\"79\" toAyah=\"81\">سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ * <format class=\"AyahSeprator\"/>إِنّٰا كَذٰلِكَ نَجْزِي اَلْمُحْسِنِينَ * <format class=\"AyahSeprator\"/>إِنَّهُ مِنْ عِبٰادِنَا اَلْمُؤْمِنِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"79\" toAyah=\"81\"/></format> لم تضرّه الحيّة و العقرب.<br/>و في كتب العامّة مثل ذلك بتفاوت في بعض الألفاظ، فلاحظ: طبقات المحدّثين بأصبهان 404:3، تفسير الثعلبي 170:5 و ج 160:6، تاريخ دمشق 256:62، تفسير القرطبي 32:9 و ج 370:10 و ج 90:15، تفسير الثعالبي 34:5.</footnote>"
+        }
+      ],
+      "pageValue": "102",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1384\" paragraph-id=\"1384\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo102\">102</span> فقال: «لم يحملها في السفينة حتّى أعطته عهد الله أن لا تلسع مؤمنا»<span><sup><a class=\"NewFn\" href=\"#footnote399\" title=\"(1)  لم نعثر على نصّه في المصادر المتوفّرة لدينا. و لكن قال الراوندي في الدعوات: 321/129:و لمّا ركب نوح عليه السّلام في السفينة أبى أن يحمل معه العقرب، فقال: عاهدتك على ألّا ألسع من يقول: سلام على محمّد و آل محمّد و على نوح في العالمين. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1385\" paragraph-id=\"1385\" class=\" G\">[137] </p>\n  <p id=\"p1386\" paragraph-id=\"1386\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه عليه السّلام أنّه قال</span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>: «من قال: <span style=\"0\" class=\"ayah\" surah=\"37\" ayah=\"79\">سَلاٰمٌ عَلىٰ <span class=\"E\">نُوحٍ‌</span> فِي اَلْعٰالَمِينَ * <span class=\"AyahSeprator\"></span>إِنّٰا كَذٰلِكَ نَجْزِي اَلْمُحْسِنِينَ * <span class=\"AyahSeprator\"></span>إِنَّهُ مِنْ عِبٰادِنَا اَلْمُؤْمِنِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/37/79\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote400\" title=\"(2)  سورة الصافّات 79:37-81. \">2</a></sup></span> فإن أسمع نفسه و أهله لم يصبه و أهله عقرب، و إن لم يسمع أهله لم يصبه هو شيء»<span><sup><a class=\"NewFn\" href=\"#footnote401\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. و لكن روى القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 115/129، و عنه في الخصال: 619، و تحف العقول: 109، هكذا: و من خاف منكم العقرب فليقرأ هذه الآيات سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ * إِنّٰا كَذٰلِكَ نَجْزِي اَلْمُحْسِنِينَ * إِنَّهُ مِنْ عِبٰادِنَا اَلْمُؤْمِنِينَ‌.و قال الفضل الطبرسي في الآداب الدينية: 179/68: و في رواية اخرى تقول للعقرب أيضا: سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ‌... الآيات.و قال الكفعمي في المصباح: 222: و من قرأ كلّ ليلة: سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ * إِنّٰا كَذٰلِكَ نَجْزِي اَلْمُحْسِنِينَ * إِنَّهُ مِنْ عِبٰادِنَا اَلْمُؤْمِنِينَ‌ لم تضرّه الحيّة و العقرب.و في كتب العامّة مثل ذلك بتفاوت في بعض الألفاظ، فلاحظ: طبقات المحدّثين بأصبهان 404:3، تفسير الثعلبي 170:5 و ج 160:6، تاريخ دمشق 256:62، تفسير القرطبي 32:9 و ج 370:10 و ج 90:15، تفسير الثعالبي 34:5.\">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1387\" paragraph-id=\"1387\" class=\" G\">[138] </p>\n  <p id=\"p1388\" paragraph-id=\"1388\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه عليه السّلام أنّه قال</span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>: «أتى قوم إلى <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span> يشكون العقارب و ما يلقون منها.</span>\n  </p>\n  <p id=\"p1389\" paragraph-id=\"1389\" class=\" G\">\n    <span class=\"hadith\">قال: قولوا إذا أصبحتم و أمسيتم: <span class=\"semicolon\">أعوذ بكلمات الله التّامّات و أعوذ بكلمات </span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote399\" footnote-id=\"399\">(1) <page number=\"102\" /> لم نعثر على نصّه في المصادر المتوفّرة لدينا. و لكن قال الراوندي في الدعوات: 321/129:<br />و لمّا ركب نوح عليه السّلام في السفينة أبى أن يحمل معه العقرب، فقال: عاهدتك على ألّا ألسع من يقول: سلام على محمّد و آل محمّد و على نوح في العالمين. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote400\" footnote-id=\"400\">(2)  سورة الصافّات 79:37-81. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote401\" footnote-id=\"401\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. و لكن روى القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 115/129، و عنه في الخصال: 619، و تحف العقول: 109، هكذا: و من خاف منكم العقرب فليقرأ هذه الآيات <format class=\"ayah\" surah=\"37\" ayah=\"79\" toAyah=\"81\">سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ * <format class=\"AyahSeprator\" />إِنّٰا كَذٰلِكَ نَجْزِي اَلْمُحْسِنِينَ * <format class=\"AyahSeprator\" />إِنَّهُ مِنْ عِبٰادِنَا اَلْمُؤْمِنِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"13\" /><format class=\"ayahAddress\" surah=\"37\" ayah=\"79\" toAyah=\"81\" /></format>.<br />و قال الفضل الطبرسي في الآداب الدينية: 179/68: و في رواية اخرى تقول للعقرب أيضا: <format class=\"ayah\" surah=\"37\" ayah=\"79\" toAyah=\"\">سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ‌...<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\" /><format class=\"ayahAddress\" surah=\"37\" ayah=\"79\" toAyah=\"\" /></format> الآيات.<br />و قال الكفعمي في المصباح: 222: و من قرأ كلّ ليلة: <format class=\"ayah\" surah=\"37\" ayah=\"79\" toAyah=\"81\">سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ * <format class=\"AyahSeprator\" />إِنّٰا كَذٰلِكَ نَجْزِي اَلْمُحْسِنِينَ * <format class=\"AyahSeprator\" />إِنَّهُ مِنْ عِبٰادِنَا اَلْمُؤْمِنِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"13\" /><format class=\"ayahAddress\" surah=\"37\" ayah=\"79\" toAyah=\"81\" /></format> لم تضرّه الحيّة و العقرب.<br />و في كتب العامّة مثل ذلك بتفاوت في بعض الألفاظ، فلاحظ: طبقات المحدّثين بأصبهان 404:3، تفسير الثعلبي 170:5 و ج 160:6، تاريخ دمشق 256:62، تفسير القرطبي 32:9 و ج 370:10 و ج 90:15، تفسير الثعالبي 34:5.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "EB3AF5CD-49F8-47A0-80D6-75B18D8162E6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

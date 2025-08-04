@@ -1,0 +1,121 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 12,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169746,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1001\"><format class=\"hadith\" who=\"7|8|10\" Id=\"12\" RevayatIndex=\"533\"><page number=\"12\"/> فقال: «إنّ الجرب من بخار الكبد، فاذهب فافتصد من يدك<lfootnote noteId=\"37\">1</lfootnote> اليمنى، و الزم أخذ وزن درهمين دهن اللوز الحلو على ماء الحسك<lfootnote noteId=\"38\">2</lfootnote>، و اتّق الحيتان و الخلّ‌» ففعل فبرأ<lfootnote noteId=\"39\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169747,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1002\">[13] </p>"
+        },
+        {
+          "paragraphId": 714169748,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1003\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"534\"><format class=\"sanadHadith\">روي عن المفضّل قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> الجرب على جسدي و الحرارة.</format></p>"
+        },
+        {
+          "paragraphId": 714169749,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1004\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"534\">فقال: «عليك الافتصاد من الأكحل» ففعلت فذهب عني<lfootnote noteId=\"40\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169750,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1005\">[14] </p>"
+        },
+        {
+          "paragraphId": 714169751,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1006\"><format class=\"hadith\" who=\"16\" Id=\"14\" RevayatIndex=\"535\"><format class=\"sanadHadith\">و أيضا:</format> يؤخذ الشاهترج فيدقّ و يؤخذ فيغلى بالنار و يديف<lfootnote noteId=\"41\">5</lfootnote>، ثمّ يدقّ فيه سكّر طبرزد و يشربه يشفى إن شاء الله تعالى<lfootnote noteId=\"42\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169752,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1007\"><heading level=\"3\">و أيضا للجرب و البثور و وجع الساقين و القدمين</heading></p>"
+        },
+        {
+          "paragraphId": 714169753,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1008\">[15]</p>"
+        },
+        {
+          "paragraphId": 714169754,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1009\"><format class=\"hadith\" who=\"16\" Id=\"15\" RevayatIndex=\"536\"><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format> فمن أصابه من ذلك شيء فليحتجم في راحة القدمين<lfootnote noteId=\"43\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169755,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1010\"><page number=\"13\"/>[16]</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170821,
+          "text": "<footnote id=\"37\"><page number=\"12\"/><mnote>(1)</mnote> في مكارم الاخلاق: «من قدمك». </footnote>"
+        },
+        {
+          "footnoteId": 714170822,
+          "text": "<footnote id=\"38\"><mnote>(2)</mnote> في مكارم الأخلاق: «ماء الكشك». </footnote>"
+        },
+        {
+          "footnoteId": 714170823,
+          "text": "<footnote id=\"39\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 43/77، الفصل الرابع في الحجامة، فقال:<br/>قال عليه السّلام: و شكا بعضهم إلى أبي الحسن عليه السّلام كثرة ما يصيبه... </footnote>"
+        },
+        {
+          "footnoteId": 714170824,
+          "text": "<footnote id=\"40\"><mnote>(4)</mnote> رواه الطبرسي في مكارم الأخلاق: 44/77، الفصل الرابع في الحجامة، عن مفضّل بن عمر. </footnote>"
+        },
+        {
+          "footnoteId": 714170825,
+          "text": "<footnote id=\"41\"><mnote>(5)</mnote> كذا استظهرنا من النسخة. داف الشيء دوفا و أدافه خلطه، و أكثر ذلك في الدواء و الطيب. لسان العرب 108:9 «دوف». </footnote>"
+        },
+        {
+          "footnoteId": 714170826,
+          "text": "<footnote id=\"42\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714170827,
+          "text": "<footnote id=\"43\"><mnote>(7)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا.<br/>و ممّا يتعلّق به ما في الرسالة الذهبية: 56: إنّ الحجامة... و التي توضع على الساقين قد <page number=\"13\"/>ينقص من الامتلاء في الكلى و المثانة و الأرحام و يدر الطمث غير أنّها منهكة للجسد، و قد تعرض منها العشوة الشديدة إلّا أنّها نافعة لذوي البثور و الدماميل. </footnote>"
+        }
+      ],
+      "pageValue": "12",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1001\" paragraph-id=\"1001\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo12\">12</span> فقال: «إنّ الجرب من بخار الكبد، فاذهب فافتصد من يدك<span><sup><a class=\"NewFn\" href=\"#footnote37\" title=\"(1)  في مكارم الاخلاق: «من قدمك». \">1</a></sup></span> اليمنى، و الزم أخذ وزن درهمين دهن اللوز الحلو على ماء الحسك<span><sup><a class=\"NewFn\" href=\"#footnote38\" title=\"(2)  في مكارم الأخلاق: «ماء الكشك». \">2</a></sup></span>، و اتّق الحيتان و الخلّ‌» ففعل فبرأ<span><sup><a class=\"NewFn\" href=\"#footnote39\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 43/77، الفصل الرابع في الحجامة، فقال:قال عليه السّلام: و شكا بعضهم إلى أبي الحسن عليه السّلام كثرة ما يصيبه... \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1002\" paragraph-id=\"1002\" class=\" G\">[13] </p>\n  <p id=\"p1003\" paragraph-id=\"1003\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن المفضّل قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> الجرب على جسدي و الحرارة.</span>\n  </p>\n  <p id=\"p1004\" paragraph-id=\"1004\" class=\" G\">\n    <span class=\"hadith\">فقال: «عليك الافتصاد من الأكحل» ففعلت فذهب عني<span><sup><a class=\"NewFn\" href=\"#footnote40\" title=\"(4)  رواه الطبرسي في مكارم الأخلاق: 44/77، الفصل الرابع في الحجامة، عن مفضّل بن عمر. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1005\" paragraph-id=\"1005\" class=\" G\">[14] </p>\n  <p id=\"p1006\" paragraph-id=\"1006\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و أيضا:</span> يؤخذ الشاهترج فيدقّ و يؤخذ فيغلى بالنار و يديف<span><sup><a class=\"NewFn\" href=\"#footnote41\" title=\"(5)  كذا استظهرنا من النسخة. داف الشيء دوفا و أدافه خلطه، و أكثر ذلك في الدواء و الطيب. لسان العرب 108:9 «دوف». \">5</a></sup></span>، ثمّ يدقّ فيه سكّر طبرزد و يشربه يشفى إن شاء الله تعالى<span><sup><a class=\"NewFn\" href=\"#footnote42\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1007\" paragraph-id=\"1007\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">و أيضا للجرب و البثور و وجع الساقين و القدمين</strong>\n  </p>\n  <p id=\"p1008\" paragraph-id=\"1008\" class=\" G\">[15]</p>\n  <p id=\"p1009\" paragraph-id=\"1009\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span> فمن أصابه من ذلك شيء فليحتجم في راحة القدمين<span><sup><a class=\"NewFn\" href=\"#footnote43\" title=\"(7)  لم نعثر عليه في المصادر المتوفّرة لدينا.و ممّا يتعلّق به ما في الرسالة الذهبية: 56: إنّ الحجامة... و التي توضع على الساقين قد \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p1010\" paragraph-id=\"1010\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote37\" footnote-id=\"37\">(1) <page number=\"12\" /> في مكارم الاخلاق: «من قدمك». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote38\" footnote-id=\"38\">(2)  في مكارم الأخلاق: «ماء الكشك». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote39\" footnote-id=\"39\">(3)  رواه الطبرسي في مكارم الأخلاق: 43/77، الفصل الرابع في الحجامة، فقال:<br />قال عليه السّلام: و شكا بعضهم إلى أبي الحسن عليه السّلام كثرة ما يصيبه... </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote40\" footnote-id=\"40\">(4)  رواه الطبرسي في مكارم الأخلاق: 44/77، الفصل الرابع في الحجامة، عن مفضّل بن عمر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote41\" footnote-id=\"41\">(5)  كذا استظهرنا من النسخة. داف الشيء دوفا و أدافه خلطه، و أكثر ذلك في الدواء و الطيب. لسان العرب 108:9 «دوف». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote42\" footnote-id=\"42\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote43\" footnote-id=\"43\">(7)  لم نعثر عليه في المصادر المتوفّرة لدينا.<br />و ممّا يتعلّق به ما في الرسالة الذهبية: 56: إنّ الحجامة... و التي توضع على الساقين قد </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "53CEF0EC-EB09-48B0-B924-FE49C7EABF95",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

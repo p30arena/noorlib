@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 305,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167878,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3624\"><format class=\"hadith\" who=\"7|8\" Id=\"492\" RevayatIndex=\"492\"><page number=\"305\"/>«من به الريح الباردة<lfootnote noteId=\"1676\">1</lfootnote> و الخامّ و الإبردة في المفاصل يأخذ كفّا من حلبة و كفّا<lfootnote noteId=\"1677\">2</lfootnote>من تمر يابس و تغمره بالماء و تطبخها<lfootnote noteId=\"1678\">3</lfootnote> في قدر نظيفة، ثمّ تصفّى<lfootnote noteId=\"1679\">4</lfootnote> و تبرّد، ثمّ يشربه صاحبه يوما و يغبّ‌<lfootnote noteId=\"1680\">5</lfootnote> يوما يشرب منه تمام أيّامه قدر قدح<lfootnote noteId=\"1681\">6</lfootnote>»<lfootnote noteId=\"1682\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167879,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3625\">[502] </p>"
+        },
+        {
+          "paragraphId": 714167880,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3626\"><format class=\"hadith\" who=\"16\" Id=\"493\" RevayatIndex=\"493\"><format class=\"sanadHadith\">و أيضا:</format> تكتب هذه العوذة على موضع الريح حتّى يسكن الاضطراب: سلكيطكلصسلكعمعمن سيعفكلصهلكم هلهليليعها<lfootnote noteId=\"1683\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167881,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3627\">[503] </p>"
+        },
+        {
+          "paragraphId": 714167882,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3628\"><format class=\"hadith\" who=\"16\" Id=\"494\" RevayatIndex=\"494\"><format class=\"sanadHadith\">و أيضا:</format> يسقى العليل في كلّ يوم ثلاثة دراهم دهن الخروع، و يصبّ <page number=\"306\"/> عليه وزنه<lfootnote noteId=\"1684\">1</lfootnote> دهن اللوز الحلو على ماء بارد، فيكون طعامه ماء الحمّص، و لا [يقرب]<lfootnote noteId=\"1685\">2</lfootnote> شيئا من الأدهان و [لا]<lfootnote noteId=\"1686\">3</lfootnote> يتطيّب، فإذا خرج عنه فلا يقرب شيئا من الحيتان و لا التمر و لا الخلّ و لا الخضرة و لا لحم ماعز أربعين صباحا، و يؤخذ هذا الدواء سبعة أيّام فإنّه ينفع بإذن الله تعالى<lfootnote noteId=\"1687\">4</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169631,
+          "text": "<footnote id=\"1676\"><page number=\"305\"/><mnote>(1)</mnote> في الكافي: «الريح الشابكة»، قال المجلسي: كأنّ المراد بالشابكة الريح التي تحدث فيما بين الجلد و اللحم فتشبك بينهما أو الريح التي تحدث في الظهر و أمثاله، شبيهة بالقولنج فلا يقدر الإنسان أن يتحرّك. بحار الأنوار 187:59.<br/>و في بعض نسخ الكافي: «الريح الشائكة» فقال المازندراني: الريح الشائكة أي: الشديدة الحديدة من الشوكة و هي الشدّة و الحدّة، و هو داء معروف و حمرة تعلو الوجه و الجسد يقال:<br/>شاكه شوكة، و شيك الرجل فهو مشوك إذا دخلت في جسمه. شرح الكافي 249:12. </footnote>"
+        },
+        {
+          "footnoteId": 714169632,
+          "text": "<footnote id=\"1677\"><mnote>(2)</mnote> في النسخة: «أو كفّا» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169633,
+          "text": "<footnote id=\"1678\"><mnote>(3)</mnote> في الكافي: «تغمرهما بالماء و تطبخهما». </footnote>"
+        },
+        {
+          "footnoteId": 714169634,
+          "text": "<footnote id=\"1679\"><mnote>(4)</mnote> في النسخة: «ثمّ تطفي» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169635,
+          "text": "<footnote id=\"1680\"><mnote>(5)</mnote> في النسخة: «و يغيبه» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169636,
+          "text": "<footnote id=\"1681\"><mnote>(6)</mnote> في الكافي زيادة: «قدر قدح روي» و في بحار الأنوار 187:59: «قدر قدح رومي» و يقال: ماء رويّ كغنيّ‌: كثير مرو. </footnote>"
+        },
+        {
+          "footnoteId": 714169637,
+          "text": "<footnote id=\"1682\"><mnote>(7)</mnote> رواه الكليني بتفاوت في الكافي 221/191:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن بكر بن صالح، قال: سمعت أبا الحسن الأول عليه السّلام يقول:...، و فيه: «تين يابس» بدل «تمر يابس». </footnote>"
+        },
+        {
+          "footnoteId": 714169638,
+          "text": "<footnote id=\"1683\"><mnote>(8)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا.</footnote>"
+        }
+      ],
+      "pageValue": "305",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3624\" paragraph-id=\"3624\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo305\">305</span>«من به الريح الباردة<span><sup><a class=\"NewFn\" href=\"#footnote1676\" title=\"(1)  في الكافي: «الريح الشابكة»، قال المجلسي: كأنّ المراد بالشابكة الريح التي تحدث فيما بين الجلد و اللحم فتشبك بينهما أو الريح التي تحدث في الظهر و أمثاله، شبيهة بالقولنج فلا يقدر الإنسان أن يتحرّك. بحار الأنوار 187:59.و في بعض نسخ الكافي: «الريح الشائكة» فقال المازندراني: الريح الشائكة أي: الشديدة الحديدة من الشوكة و هي الشدّة و الحدّة، و هو داء معروف و حمرة تعلو الوجه و الجسد يقال:شاكه شوكة، و شيك الرجل فهو مشوك إذا دخلت في جسمه. شرح الكافي 249:12. \">1</a></sup></span> و الخامّ و الإبردة في المفاصل يأخذ كفّا من حلبة و كفّا<span><sup><a class=\"NewFn\" href=\"#footnote1677\" title=\"(2)  في النسخة: «أو كفّا» و ما أثبتناه من المصدر. \">2</a></sup></span>من تمر يابس و تغمره بالماء و تطبخها<span><sup><a class=\"NewFn\" href=\"#footnote1678\" title=\"(3)  في الكافي: «تغمرهما بالماء و تطبخهما». \">3</a></sup></span> في قدر نظيفة، ثمّ تصفّى<span><sup><a class=\"NewFn\" href=\"#footnote1679\" title=\"(4)  في النسخة: «ثمّ تطفي» و ما أثبتناه من المصدر. \">4</a></sup></span> و تبرّد، ثمّ يشربه صاحبه يوما و يغبّ‌<span><sup><a class=\"NewFn\" href=\"#footnote1680\" title=\"(5)  في النسخة: «و يغيبه» و ما أثبتناه من المصدر. \">5</a></sup></span> يوما يشرب منه تمام أيّامه قدر قدح<span><sup><a class=\"NewFn\" href=\"#footnote1681\" title=\"(6)  في الكافي زيادة: «قدر قدح روي» و في بحار الأنوار 187:59: «قدر قدح رومي» و يقال: ماء رويّ كغنيّ‌: كثير مرو. \">6</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1682\" title=\"(7)  رواه الكليني بتفاوت في الكافي 221/191:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن بكر بن صالح، قال: سمعت أبا الحسن الأول عليه السّلام يقول:...، و فيه: «تين يابس» بدل «تمر يابس». \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p3625\" paragraph-id=\"3625\" class=\" G\">[502] </p>\n  <p id=\"p3626\" paragraph-id=\"3626\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و أيضا:</span> تكتب هذه العوذة على موضع الريح حتّى يسكن الاضطراب: سلكيطكلصسلكعمعمن سيعفكلصهلكم هلهليليعها<span><sup><a class=\"NewFn\" href=\"#footnote1683\" title=\"(8)  لم نعثر عليه في المصادر المتوفّرة لدينا.\">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p3627\" paragraph-id=\"3627\" class=\" G\">[503] </p>\n  <p id=\"p3628\" paragraph-id=\"3628\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و أيضا:</span> يسقى العليل في كلّ يوم ثلاثة دراهم دهن الخروع، و يصبّ </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1676\" footnote-id=\"1676\">(1) <page number=\"305\" /> في الكافي: «الريح الشابكة»، قال المجلسي: كأنّ المراد بالشابكة الريح التي تحدث فيما بين الجلد و اللحم فتشبك بينهما أو الريح التي تحدث في الظهر و أمثاله، شبيهة بالقولنج فلا يقدر الإنسان أن يتحرّك. بحار الأنوار 187:59.<br />و في بعض نسخ الكافي: «الريح الشائكة» فقال المازندراني: الريح الشائكة أي: الشديدة الحديدة من الشوكة و هي الشدّة و الحدّة، و هو داء معروف و حمرة تعلو الوجه و الجسد يقال:<br />شاكه شوكة، و شيك الرجل فهو مشوك إذا دخلت في جسمه. شرح الكافي 249:12. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1677\" footnote-id=\"1677\">(2)  في النسخة: «أو كفّا» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1678\" footnote-id=\"1678\">(3)  في الكافي: «تغمرهما بالماء و تطبخهما». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1679\" footnote-id=\"1679\">(4)  في النسخة: «ثمّ تطفي» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1680\" footnote-id=\"1680\">(5)  في النسخة: «و يغيبه» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1681\" footnote-id=\"1681\">(6)  في الكافي زيادة: «قدر قدح روي» و في بحار الأنوار 187:59: «قدر قدح رومي» و يقال: ماء رويّ كغنيّ‌: كثير مرو. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1682\" footnote-id=\"1682\">(7)  رواه الكليني بتفاوت في الكافي 221/191:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن بكر بن صالح، قال: سمعت أبا الحسن الأول عليه السّلام يقول:...، و فيه: «تين يابس» بدل «تمر يابس». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1683\" footnote-id=\"1683\">(8)  لم نعثر عليه في المصادر المتوفّرة لدينا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "AA856B6F-06BA-4148-9299-90CD9EEDA8E5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

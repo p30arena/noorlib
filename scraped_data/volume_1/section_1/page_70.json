@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 70,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166305,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2051\">و قد جمع بين الطريقين في الحديث الواحد بقوله: «حدّثنا أبو سليمان أحمد بن هوذة الباهلي، قال: حدّثنا إبراهيم بن إسحاق النهاوندي، قال: حدّثنا محمّد بن <page number=\"70\"/> الحسن شمون، عن عبد [الله] بن عبد الرحمن الأصمّ‌، عن حريز بن عبد [الله] الأزدي السجستاني، عن محمّد بن مسلم،</p>"
+        },
+        {
+          "paragraphId": 714166306,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2052\">قال: و حدّثني القاسم بن يحيى، عن الحسن بن راشد، عن أبي بصير، عن أبي عبد الله عليه السّلام، قال: قال أمير المؤمنين صلوات الله عليه في وصيّته لأصحابه:...»<lfootnote noteId=\"199\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166307,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2053\"><heading level=\"4\">2 - خواصّ القرآن المروي عن الإمام أبي عبد الله الصادق عليه السّلام:</heading></p>"
+        },
+        {
+          "paragraphId": 714166308,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2054\">صرّح المؤلّف باسم هذا الكتاب فقال: و أيضا في الخواصّ من القرآن<lfootnote noteId=\"200\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166309,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2055\">و لكن لم نجد المنقول عن هذا الكتاب في كتاب خواصّ القرآن المشهور المطبوع المنسوب إلى الإمام الصادق عليه السّلام<lfootnote noteId=\"201\">3</lfootnote>، فلعلّه يرجع لاختلاف نسخ الكتاب، أو أنّ المصنّف نقل عن كتاب آخر مسمّى بهذا الاسم، أو أنّ هذه العبارة لم تشر إلى اسم كتاب بل هو عنوان عامّ لمثل تلك الروايات.</p>"
+        },
+        {
+          "paragraphId": 714166310,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2056\"><heading level=\"4\">3 - صحيفة الإمام أبي الحسن الكاظم عليه السّلام (مسند الإمام الكاظم عليه السّلام):</heading></p>"
+        },
+        {
+          "paragraphId": 714166311,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2057\">مرّ ما يتعلّق به لدى رواية ابن همّام عن محمّد بن خلف المرورودي صاحب الصحيفة.</p>"
+        },
+        {
+          "paragraphId": 714166312,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2058\"><heading level=\"4\">4 - صحيفة الإمام أبي الحسن الرضا عليه السّلام (مسند الإمام الرضا عليه السّلام):</heading></p>"
+        },
+        {
+          "paragraphId": 714166313,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2059\">كذلك مرّ ما يتعلّق به عند رواية المصنّف عن ابن مهرويه القزويني عن داود بن سليمان الغازي القزويني. </p>"
+        },
+        {
+          "paragraphId": 714166314,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2060\"><page number=\"71\"/><heading level=\"4\">5 - كتاب السكوني:</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168253,
+          "text": "<footnote id=\"199\"><page number=\"70\"/><mnote>(1)</mnote> انظر: ح 157 من الجزء الثاني. </footnote>"
+        },
+        {
+          "footnoteId": 714168254,
+          "text": "<footnote id=\"200\"><mnote>(2)</mnote> انظر: ح 196 من الجزء الثاني. </footnote>"
+        },
+        {
+          "footnoteId": 714168255,
+          "text": "<footnote id=\"201\"><mnote>(3)</mnote> و قد مرّ ما يتعلّق بهذا الكتاب الذي قد حقّقته و سيطبع إن شاء الله تعالى. </footnote>"
+        }
+      ],
+      "pageValue": "70",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2051\" paragraph-id=\"2051\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo70\">70</span> الحسن شمون، عن عبد [الله] بن عبد الرحمن الأصمّ‌، عن حريز بن عبد [الله] الأزدي السجستاني، عن محمّد بن مسلم،</p>\n  <p id=\"p2052\" paragraph-id=\"2052\" class=\" G\">قال: و حدّثني القاسم بن يحيى، عن الحسن بن راشد، عن أبي بصير، عن أبي عبد الله عليه السّلام، قال: قال أمير المؤمنين صلوات الله عليه في وصيّته لأصحابه:...»<span><sup><a class=\"NewFn\" href=\"#footnote199\" title=\"(1)  انظر: ح 157 من الجزء الثاني. \">1</a></sup></span>.</p>\n  <p id=\"p2053\" paragraph-id=\"2053\" class=\" G\">\n    <strong style=\"0\" class=\"h-4 04\">2 - خواصّ القرآن المروي عن الإمام أبي عبد الله الصادق عليه السّلام:</strong>\n  </p>\n  <p id=\"p2054\" paragraph-id=\"2054\" class=\" G\">صرّح المؤلّف باسم هذا الكتاب فقال: و أيضا في الخواصّ من القرآن<span><sup><a class=\"NewFn\" href=\"#footnote200\" title=\"(2)  انظر: ح 196 من الجزء الثاني. \">2</a></sup></span>.</p>\n  <p id=\"p2055\" paragraph-id=\"2055\" class=\" G\">و لكن لم نجد المنقول عن هذا الكتاب في كتاب خواصّ القرآن المشهور المطبوع المنسوب إلى الإمام الصادق عليه السّلام<span><sup><a class=\"NewFn\" href=\"#footnote201\" title=\"(3)  و قد مرّ ما يتعلّق بهذا الكتاب الذي قد حقّقته و سيطبع إن شاء الله تعالى. \">3</a></sup></span>، فلعلّه يرجع لاختلاف نسخ الكتاب، أو أنّ المصنّف نقل عن كتاب آخر مسمّى بهذا الاسم، أو أنّ هذه العبارة لم تشر إلى اسم كتاب بل هو عنوان عامّ لمثل تلك الروايات.</p>\n  <p id=\"p2056\" paragraph-id=\"2056\" class=\" G\">\n    <strong style=\"0\" class=\"h-4 04\">3 - صحيفة الإمام أبي الحسن الكاظم عليه السّلام (مسند الإمام الكاظم عليه السّلام):</strong>\n  </p>\n  <p id=\"p2057\" paragraph-id=\"2057\" class=\" G\">مرّ ما يتعلّق به لدى رواية ابن همّام عن محمّد بن خلف المرورودي صاحب الصحيفة.</p>\n  <p id=\"p2058\" paragraph-id=\"2058\" class=\" G\">\n    <strong style=\"0\" class=\"h-4 04\">4 - صحيفة الإمام أبي الحسن الرضا عليه السّلام (مسند الإمام الرضا عليه السّلام):</strong>\n  </p>\n  <p id=\"p2059\" paragraph-id=\"2059\" class=\" G\">كذلك مرّ ما يتعلّق به عند رواية المصنّف عن ابن مهرويه القزويني عن داود بن سليمان الغازي القزويني. </p>\n  <p id=\"p2060\" paragraph-id=\"2060\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote199\" footnote-id=\"199\">(1) <page number=\"70\" /> انظر: ح 157 من الجزء الثاني. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote200\" footnote-id=\"200\">(2)  انظر: ح 196 من الجزء الثاني. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote201\" footnote-id=\"201\">(3)  و قد مرّ ما يتعلّق بهذا الكتاب الذي قد حقّقته و سيطبع إن شاء الله تعالى. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "9861107E-9453-4143-A97F-5941BED9E3E4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

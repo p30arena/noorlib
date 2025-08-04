@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 89,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170080,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1335\"><format class=\"hadith\" who=\"6\" Id=\"118\" RevayatIndex=\"639\"><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format> يؤخذ عشرة دراهم قرنفل و مثله حرمل و مثله كندر يدقّه دقّا ناعما، <page number=\"89\"/> ثمّ استفّ منه على الريق كلّ يوم قليلا<lfootnote noteId=\"347\">1</lfootnote>، يجوّد الذهن و يذهب بالبلغم و يقوّي القلب<lfootnote noteId=\"348\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170081,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1336\"><heading level=\"2\">[باب] ما يورث النسيان </heading></p>"
+        },
+        {
+          "paragraphId": 714170082,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1337\">[119] </p>"
+        },
+        {
+          "paragraphId": 714170083,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1338\"><format class=\"hadith\" who=\"6\" Id=\"119\" RevayatIndex=\"640\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«عشرة أشياء<lfootnote noteId=\"349\">3</lfootnote> تورث النسيان: قراءة ألواح القبور، و النظر إلى المصلوب، و إلقاء القمّل، و أكل سؤر الفأرة، و الكزبرة<lfootnote noteId=\"350\">4</lfootnote>، و أكل التفّاح الحامض، و المشي بين الطعام، و البول في الماء الراكد، و الحجامة في النقرة»<lfootnote noteId=\"351\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170084,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1339\">[120] </p>"
+        },
+        {
+          "paragraphId": 714170085,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1340\"><format class=\"hadith\" who=\"14\" Id=\"120\" RevayatIndex=\"641\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">النبيّ صلّى الله عليه و آله</format></format> أنّه قال: </format>«تسعة خصال تورث النسيان: أكل التفّاح الحامض، و الكزبرة، و الجبن، و أكل سؤر الفأر، و البول في الماء الراكد، - أو قال: الواقف - و قراءة الكتب على القبور، و المشي بين امرأتين، و طرح القمّلة، <page number=\"90\"/> و الحجامة في النقرة»<lfootnote noteId=\"352\">1</lfootnote>. </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170704,
+          "text": "<footnote id=\"347\"><page number=\"89\"/><mnote>(1)</mnote> النسخة مخرومة، و قوله: «على الريق كلّ يوم قليلا» أثبتناه من المصباح. </footnote>"
+        },
+        {
+          "footnoteId": 714170705,
+          "text": "<footnote id=\"348\"><mnote>(2)</mnote> ورد في المصباح للكفعمي: 200 هكذا: من أدوية الحفظ: عن أبي بصير، قال: قلت للصادق عليه السّلام: كيف نقدر على هذا العلم الذي فرعتموه لنا؟ فقال: «خذ وزن عشرة دراهم قرنفل و مثلها كندر ذكر و دقّهما ناعما، ثمّ استفّ على الريق كلّ يوم قليلا». و سقط منه الحرمل. </footnote>"
+        },
+        {
+          "footnoteId": 714170706,
+          "text": "<footnote id=\"349\"><mnote>(3)</mnote> كذا في النسخة، و المذكور في الحديث تسعة أشياء، و هناك كلمة غير مقروءة آخرها نون فوق كلمة: «و الكزبرة» و لعلّها «الجين» انظر الهامش التالي. </footnote>"
+        },
+        {
+          "footnoteId": 714170707,
+          "text": "<footnote id=\"350\"><mnote>(4)</mnote> في النسخة «و الكثيرة» بدل «و الكزبرة» و كذا في الرواية التالية و لم نجد لها معنى في المصادر، و الكزبرة أثبتناه من الفقيه و الخصال. </footnote>"
+        },
+        {
+          "footnoteId": 714170708,
+          "text": "<footnote id=\"351\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا.</footnote>"
+        }
+      ],
+      "pageValue": "89",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1335\" paragraph-id=\"1335\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo89\">89</span> ثمّ استفّ منه على الريق كلّ يوم قليلا<span><sup><a class=\"NewFn\" href=\"#footnote347\" title=\"(1)  النسخة مخرومة، و قوله: «على الريق كلّ يوم قليلا» أثبتناه من المصباح. \">1</a></sup></span>، يجوّد الذهن و يذهب بالبلغم و يقوّي القلب<span><sup><a class=\"NewFn\" href=\"#footnote348\" title=\"(2)  ورد في المصباح للكفعمي: 200 هكذا: من أدوية الحفظ: عن أبي بصير، قال: قلت للصادق عليه السّلام: كيف نقدر على هذا العلم الذي فرعتموه لنا؟ فقال: «خذ وزن عشرة دراهم قرنفل و مثلها كندر ذكر و دقّهما ناعما، ثمّ استفّ على الريق كلّ يوم قليلا». و سقط منه الحرمل. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1336\" paragraph-id=\"1336\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] ما يورث النسيان </strong>\n  </p>\n  <p id=\"p1337\" paragraph-id=\"1337\" class=\" G\">[119] </p>\n  <p id=\"p1338\" paragraph-id=\"1338\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«عشرة أشياء<span><sup><a class=\"NewFn\" href=\"#footnote349\" title=\"(3)  كذا في النسخة، و المذكور في الحديث تسعة أشياء، و هناك كلمة غير مقروءة آخرها نون فوق كلمة: «و الكزبرة» و لعلّها «الجين» انظر الهامش التالي. \">3</a></sup></span> تورث النسيان: قراءة ألواح القبور، و النظر إلى المصلوب، و إلقاء القمّل، و أكل سؤر الفأرة، و الكزبرة<span><sup><a class=\"NewFn\" href=\"#footnote350\" title=\"(4)  في النسخة «و الكثيرة» بدل «و الكزبرة» و كذا في الرواية التالية و لم نجد لها معنى في المصادر، و الكزبرة أثبتناه من الفقيه و الخصال. \">4</a></sup></span>، و أكل التفّاح الحامض، و المشي بين الطعام، و البول في الماء الراكد، و الحجامة في النقرة»<span><sup><a class=\"NewFn\" href=\"#footnote351\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا.\">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1339\" paragraph-id=\"1339\" class=\" G\">[120] </p>\n  <p id=\"p1340\" paragraph-id=\"1340\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">النبيّ صلّى الله عليه و آله</span></span> أنّه قال: </span>«تسعة خصال تورث النسيان: أكل التفّاح الحامض، و الكزبرة، و الجبن، و أكل سؤر الفأر، و البول في الماء الراكد، - أو قال: الواقف - و قراءة الكتب على القبور، و المشي بين امرأتين، و طرح القمّلة، </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote347\" footnote-id=\"347\">(1) <page number=\"89\" /> النسخة مخرومة، و قوله: «على الريق كلّ يوم قليلا» أثبتناه من المصباح. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote348\" footnote-id=\"348\">(2)  ورد في المصباح للكفعمي: 200 هكذا: من أدوية الحفظ: عن أبي بصير، قال: قلت للصادق عليه السّلام: كيف نقدر على هذا العلم الذي فرعتموه لنا؟ فقال: «خذ وزن عشرة دراهم قرنفل و مثلها كندر ذكر و دقّهما ناعما، ثمّ استفّ على الريق كلّ يوم قليلا». و سقط منه الحرمل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote349\" footnote-id=\"349\">(3)  كذا في النسخة، و المذكور في الحديث تسعة أشياء، و هناك كلمة غير مقروءة آخرها نون فوق كلمة: «و الكزبرة» و لعلّها «الجين» انظر الهامش التالي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote350\" footnote-id=\"350\">(4)  في النسخة «و الكثيرة» بدل «و الكزبرة» و كذا في الرواية التالية و لم نجد لها معنى في المصادر، و الكزبرة أثبتناه من الفقيه و الخصال. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote351\" footnote-id=\"351\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "7863D773-8483-4026-A028-677F90EC0D7D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

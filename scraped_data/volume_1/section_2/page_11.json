@@ -1,0 +1,83 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 11,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166407,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2153\"><format class=\"hadith\" who=\"13,5\" Id=\"5\" RevayatIndex=\"5\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، <page number=\"11\"/> عن الحسين بن سعيد<lfootnote noteId=\"269\">1</lfootnote>، عن محمّد بن الفضيل<lfootnote noteId=\"270\">2</lfootnote>، عن أبي حمزة الثمالي، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format> قال:</format> سألته عليه السّلام عن الخلق، فقال: «إنّ الله تعالى لمّا خلق الخلق من طين<lfootnote noteId=\"271\">3</lfootnote> أفاض بها كإفاضة القداح<lfootnote noteId=\"272\">4</lfootnote> فأخرج المؤمن<lfootnote noteId=\"273\">5</lfootnote> فجعله سعيدا و جعل الكافر شقيّا، فإذا وقعت النطفة في الرحم تلقّتها<lfootnote noteId=\"274\">6</lfootnote> الملائكة فصوّروها ثمّ قالوا:</format></p>"
+        },
+        {
+          "paragraphId": 714166408,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2154\"><format class=\"hadith\" who=\"13,5\" Id=\"5\" RevayatIndex=\"5\">يا ربّ‌، أذكرا أو انثى‌؟ فيقول<lfootnote noteId=\"275\">7</lfootnote> الربّ جلّ جلاله أيّ ذلك شاء. فيقولون:</format></p>"
+        },
+        {
+          "paragraphId": 714166409,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2155\"><format class=\"hadith\" who=\"13,5\" Id=\"5\" RevayatIndex=\"5\"><format class=\"ayah\" surah=\"23\" ayah=\"14\" toAyah=\"\">فَتَبٰارَكَ اَللّٰهُ أَحْسَنُ اَلْخٰالِقِينَ‌<format class=\"ayahWord\" fromWord=\"18\" toWord=\"21\"/><format class=\"ayahAddress\" surah=\"23\" ayah=\"14\" toAyah=\"\"/></format><lfootnote noteId=\"276\">8</lfootnote>، ثمّ توضع في بطن المرأة فتردّد تسعة أيّام في كلّ عرق و مفصل منها. و للرحم ثلاثة أقفال: قفل في أعلاها ممّا يلي السرّة من <page number=\"12\"/>الجانب الأيمن، و القفل الآخر في وسطها، و القفل الآخر أسفل الرحم<lfootnote noteId=\"277\">1</lfootnote>، فيوضع بعد تسعة أيّام في القفل الأعلى فيمكث فيه ثلاثة أشهر، فعند ذلك يصيب المرأة التهوّع و خبث النفس<lfootnote noteId=\"278\">2</lfootnote>، ثمّ ينزل إلى القفل الأوسط فيمكث فيه ثلاثة أشهر، و سرّة الصبي فيها مجمع العروق و عروق<lfootnote noteId=\"279\">3</lfootnote> المرأة كلّها منها، يدخل طعامه و شرابه من تلك العروق، ثمّ ينزل إلى القفل الأسفل فيمكث فيه ثلاثة أشهر، و سرّة الصبي كذلك<lfootnote noteId=\"280\">4</lfootnote> فذلك تسعة أشهر، ثمّ تطلق المرأة<lfootnote noteId=\"281\">5</lfootnote>، و كلّما طلقت انقطع عرق من سرّة الصبي<lfootnote noteId=\"282\">6</lfootnote> فيصيبها ذلك الوجع و يده في سرّته حتّى يقع إلى الأرض و يده مبسوطة<lfootnote noteId=\"283\">7</lfootnote> فيكون رزقه حينئذ من فيه<lfootnote noteId=\"284\">8</lfootnote>»<lfootnote noteId=\"285\">9</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168323,
+          "text": "<footnote id=\"269\"><page number=\"11\"/><mnote>(1)</mnote> في النسخة: «عن الحسن بن سعيد» و الصحيح ما أثبتناه موافقا للكافي؛ لانّا لم نعثر على رواية الحسن بن سعيد، عن محمّد بن الفضيل، خلافا لرواية أخيه الحسين حيث كانت كثيرة. </footnote>"
+        },
+        {
+          "footnoteId": 714168324,
+          "text": "<footnote id=\"270\"><mnote>(2)</mnote> في النسخة: «محمّد بن الفضل»، و الصحيح ما أثبتناه، إذ هو محمّد بن الفضيل الصيرفي الراوي عنه الحسين بن سعيد، و هو يروي عن أبي حمزة. انظر: الكافي 5/15:6، معاني الأخبار: 4/107. </footnote>"
+        },
+        {
+          "footnoteId": 714168325,
+          "text": "<footnote id=\"271\"><mnote>(3)</mnote> قوله: «من طين» أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168326,
+          "text": "<footnote id=\"272\"><mnote>(4)</mnote> القدح: و هو السهم قبل أن يراش و ينصل، فإنّهم كانوا يخلطونها و يقرعون بها بعد ما يكتبون عليها أسماءهم. و أفاض القوم بالقداح أي: دفعوا بها. و في التشبيه إشارة لطيفة إلى اشتباه خير بني آدم بشرّهم إلى أن يميّز الله الخبيث من الطيّب، و يمكن أن يقرأ «القداح» بفتح القاف و تشديد الدال و هو صانع القدح، أي: أفاض و شرع في بريها و نحتها كالقداح فيراهم مختلفة كالقداح. مرآة العقول 26:21، بحار الأنوار 364:57، الوافي 1284:23. </footnote>"
+        },
+        {
+          "footnoteId": 714168327,
+          "text": "<footnote id=\"273\"><mnote>(5)</mnote> في الكافي: «المسلم». </footnote>"
+        },
+        {
+          "footnoteId": 714168328,
+          "text": "<footnote id=\"274\"><mnote>(6)</mnote> في النسخة: «تلفّها» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168329,
+          "text": "<footnote id=\"275\"><mnote>(7)</mnote> في النسخة: «فقال» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168330,
+          "text": "<footnote id=\"276\"><mnote>(8)</mnote> سورة المؤمنون 14:23. </footnote>"
+        }
+      ],
+      "pageValue": "11",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2153\" paragraph-id=\"2153\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo11\">11</span> عن الحسين بن سعيد<span><sup><a class=\"NewFn\" href=\"#footnote269\" title=\"(1)  في النسخة: «عن الحسن بن سعيد» و الصحيح ما أثبتناه موافقا للكافي؛ لانّا لم نعثر على رواية الحسن بن سعيد، عن محمّد بن الفضيل، خلافا لرواية أخيه الحسين حيث كانت كثيرة. \">1</a></sup></span>، عن محمّد بن الفضيل<span><sup><a class=\"NewFn\" href=\"#footnote270\" title=\"(2)  في النسخة: «محمّد بن الفضل»، و الصحيح ما أثبتناه، إذ هو محمّد بن الفضيل الصيرفي الراوي عنه الحسين بن سعيد، و هو يروي عن أبي حمزة. انظر: الكافي 5/15:6، معاني الأخبار: 4/107. \">2</a></sup></span>، عن أبي حمزة الثمالي، عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span> قال:</span> سألته عليه السّلام عن الخلق، فقال: «إنّ الله تعالى لمّا خلق الخلق من طين<span><sup><a class=\"NewFn\" href=\"#footnote271\" title=\"(3)  قوله: «من طين» أثبتناه من الكافي. \">3</a></sup></span> أفاض بها كإفاضة القداح<span><sup><a class=\"NewFn\" href=\"#footnote272\" title=\"(4)  القدح: و هو السهم قبل أن يراش و ينصل، فإنّهم كانوا يخلطونها و يقرعون بها بعد ما يكتبون عليها أسماءهم. و أفاض القوم بالقداح أي: دفعوا بها. و في التشبيه إشارة لطيفة إلى اشتباه خير بني آدم بشرّهم إلى أن يميّز الله الخبيث من الطيّب، و يمكن أن يقرأ «القداح» بفتح القاف و تشديد الدال و هو صانع القدح، أي: أفاض و شرع في بريها و نحتها كالقداح فيراهم مختلفة كالقداح. مرآة العقول 26:21، بحار الأنوار 364:57، الوافي 1284:23. \">4</a></sup></span> فأخرج المؤمن<span><sup><a class=\"NewFn\" href=\"#footnote273\" title=\"(5)  في الكافي: «المسلم». \">5</a></sup></span> فجعله سعيدا و جعل الكافر شقيّا، فإذا وقعت النطفة في الرحم تلقّتها<span><sup><a class=\"NewFn\" href=\"#footnote274\" title=\"(6)  في النسخة: «تلفّها» و ما أثبتناه من المصدر. \">6</a></sup></span> الملائكة فصوّروها ثمّ قالوا:</span>\n  </p>\n  <p id=\"p2154\" paragraph-id=\"2154\" class=\" G\">\n    <span class=\"hadith\">يا ربّ‌، أذكرا أو انثى‌؟ فيقول<span><sup><a class=\"NewFn\" href=\"#footnote275\" title=\"(7)  في النسخة: «فقال» و ما أثبتناه من المصدر. \">7</a></sup></span> الربّ جلّ جلاله أيّ ذلك شاء. فيقولون:</span>\n  </p>\n  <p id=\"p2155\" paragraph-id=\"2155\" class=\" G\">\n    <span class=\"hadith\">\n      <span style=\"0\" class=\"ayah\" surah=\"23\" ayah=\"14\">فَتَبٰارَكَ اَللّٰهُ أَحْسَنُ اَلْخٰالِقِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/23/14\"></a></span></span>\n      <span>\n        <sup>\n          <a class=\"NewFn\" href=\"#footnote276\" title=\"(8)  سورة المؤمنون 14:23. \">8</a>\n        </sup>\n      </span>، ثمّ توضع في بطن المرأة فتردّد تسعة أيّام في كلّ عرق و مفصل منها. و للرحم ثلاثة أقفال: قفل في أعلاها ممّا يلي السرّة من </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote269\" footnote-id=\"269\">(1) <page number=\"11\" /> في النسخة: «عن الحسن بن سعيد» و الصحيح ما أثبتناه موافقا للكافي؛ لانّا لم نعثر على رواية الحسن بن سعيد، عن محمّد بن الفضيل، خلافا لرواية أخيه الحسين حيث كانت كثيرة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote270\" footnote-id=\"270\">(2)  في النسخة: «محمّد بن الفضل»، و الصحيح ما أثبتناه، إذ هو محمّد بن الفضيل الصيرفي الراوي عنه الحسين بن سعيد، و هو يروي عن أبي حمزة. انظر: الكافي 5/15:6، معاني الأخبار: 4/107. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote271\" footnote-id=\"271\">(3)  قوله: «من طين» أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote272\" footnote-id=\"272\">(4)  القدح: و هو السهم قبل أن يراش و ينصل، فإنّهم كانوا يخلطونها و يقرعون بها بعد ما يكتبون عليها أسماءهم. و أفاض القوم بالقداح أي: دفعوا بها. و في التشبيه إشارة لطيفة إلى اشتباه خير بني آدم بشرّهم إلى أن يميّز الله الخبيث من الطيّب، و يمكن أن يقرأ «القداح» بفتح القاف و تشديد الدال و هو صانع القدح، أي: أفاض و شرع في بريها و نحتها كالقداح فيراهم مختلفة كالقداح. مرآة العقول 26:21، بحار الأنوار 364:57، الوافي 1284:23. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote273\" footnote-id=\"273\">(5)  في الكافي: «المسلم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote274\" footnote-id=\"274\">(6)  في النسخة: «تلفّها» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote275\" footnote-id=\"275\">(7)  في النسخة: «فقال» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote276\" footnote-id=\"276\">(8)  سورة المؤمنون 14:23. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "6436D92B-2601-4E69-8DE5-9CD58DAD670D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

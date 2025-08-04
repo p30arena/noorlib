@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 263,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167623,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3369\"><page number=\"263\"/><heading level=\"2\">[باب] في القراقر و وجع الجوف </heading></p>"
+        },
+        {
+          "paragraphId": 714167624,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3370\">[426] </p>"
+        },
+        {
+          "paragraphId": 714167625,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3371\"><format class=\"hadith\" who=\"6\" Id=\"421\" RevayatIndex=\"421\"><format class=\"sanadHadith\">روى أبو عبد الله السيّاري، عن بعضهم، قال:</format> شكا ذريح المحرابي إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قراقر يجدها في بطنه، فقال: «ما يمنعك من السوسن<lfootnote noteId=\"1457\">1</lfootnote>»<lfootnote noteId=\"1458\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167626,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3372\">[427] </p>"
+        },
+        {
+          "paragraphId": 714167627,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3373\"><format class=\"hadith\" who=\"7\" Id=\"422\" RevayatIndex=\"422\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، و روى محمّد بن الحسن الصفّار جميعا، عن محمّد بن عيسى، عن سالم مولى علي بن يقطين<lfootnote noteId=\"1459\">3</lfootnote> قال:</format> قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">لأبي الحسن عليه السّلام</format></format>: أشكو إلى الله تعالى و إليك ريحا في بطني ليس ينقطع و لا يذهب و قد أضرّ بي في جميع جسدي مع إنكار من لقيني في كلّ وجه و الحمد لله، فكيف أفعل‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714167628,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3374\"><format class=\"hadith\" who=\"7\" Id=\"422\" RevayatIndex=\"422\">فقال: «اكتب القرآن بالعسل و اشربه بالغداة و عند النوم»<lfootnote noteId=\"1460\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167629,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3375\">[428] </p>"
+        },
+        {
+          "paragraphId": 714167630,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3376\"><format class=\"hadith\" who=\"6\" Id=\"423\" RevayatIndex=\"423\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن سعدان بن مسلم، عن يونس بن يعقوب<lfootnote noteId=\"1461\">5</lfootnote> قال:</format> قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لأبي <page number=\"264\"/> عبد الله عليه السّلام</format></format>: جعلت فداك إنّي أجد وجعا في بطني.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169412,
+          "text": "<footnote id=\"1457\"><page number=\"263\"/><mnote>(1)</mnote> اسم نبت، أعجمي معرّب، و قد جرى في كلام العرب، و أنواعه كثيرة، و أطيبه الأبيض. كتاب الماء 682:2. </footnote>"
+        },
+        {
+          "footnoteId": 714169413,
+          "text": "<footnote id=\"1458\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و روى ابنا بسطام في طبّ الأئمّة عليهم السّلام: 100، علاجا للقراقر في البطن، عن أحمد بن محارب السوداني، قال: حدّثنا صفوان بن عيسى بن يحيى البيّاع، قال: حدّثنا عبد الرحمن بن الجهم، قال: شكا ذريح المحاربي قراقر في بطنه إلى أبي عبد الله عليه السّلام فقال: «أتوجعك‌؟» قال: نعم، قال: «ما يمنعك من الحبّة السوداء و العسل لها؟» </footnote>"
+        },
+        {
+          "footnoteId": 714169414,
+          "text": "<footnote id=\"1459\"><mnote>(3)</mnote> في النسخة: «عن سلانة مولى يقطين» و لم نعثر عليه في المصادر، و الصحيح ما أثبتناه كما في بعض أسانيد بصائر الدرجات 3/251:1. و في الكافي 583/383:8: «سليم مولى علي بن يقطين». </footnote>"
+        },
+        {
+          "footnoteId": 714169415,
+          "text": "<footnote id=\"1460\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169416,
+          "text": "<footnote id=\"1461\"><mnote>(5)</mnote> في النسخة: «موسى بن يعقوب» و لم نعثر على اسمه في أسانيد مصادرنا، و ما أثبتناه من مكارم الأخلاق، و هو يونس بن يعقوب بن الجلاب البجلي الدهني الكوفي. انظر:<br/>رجال النجاشي: 1207/446، رجال الطوسي: 44/323.</footnote>"
+        }
+      ],
+      "pageValue": "263",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3369\" paragraph-id=\"3369\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo263\">263</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في القراقر و وجع الجوف </strong>\n  </p>\n  <p id=\"p3370\" paragraph-id=\"3370\" class=\" G\">[426] </p>\n  <p id=\"p3371\" paragraph-id=\"3371\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى أبو عبد الله السيّاري، عن بعضهم، قال:</span> شكا ذريح المحرابي إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قراقر يجدها في بطنه، فقال: «ما يمنعك من السوسن<span><sup><a class=\"NewFn\" href=\"#footnote1457\" title=\"(1)  اسم نبت، أعجمي معرّب، و قد جرى في كلام العرب، و أنواعه كثيرة، و أطيبه الأبيض. كتاب الماء 682:2. \">1</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1458\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى ابنا بسطام في طبّ الأئمّة عليهم السّلام: 100، علاجا للقراقر في البطن، عن أحمد بن محارب السوداني، قال: حدّثنا صفوان بن عيسى بن يحيى البيّاع، قال: حدّثنا عبد الرحمن بن الجهم، قال: شكا ذريح المحاربي قراقر في بطنه إلى أبي عبد الله عليه السّلام فقال: «أتوجعك‌؟» قال: نعم، قال: «ما يمنعك من الحبّة السوداء و العسل لها؟» \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3372\" paragraph-id=\"3372\" class=\" G\">[427] </p>\n  <p id=\"p3373\" paragraph-id=\"3373\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، و روى محمّد بن الحسن الصفّار جميعا، عن محمّد بن عيسى، عن سالم مولى علي بن يقطين<span><sup><a class=\"NewFn\" href=\"#footnote1459\" title=\"(3)  في النسخة: «عن سلانة مولى يقطين» و لم نعثر عليه في المصادر، و الصحيح ما أثبتناه كما في بعض أسانيد بصائر الدرجات 3/251:1. و في الكافي 583/383:8: «سليم مولى علي بن يقطين». \">3</a></sup></span> قال:</span> قلت <span class=\"Y\"><span class=\"maasoom\">لأبي الحسن عليه السّلام</span></span>: أشكو إلى الله تعالى و إليك ريحا في بطني ليس ينقطع و لا يذهب و قد أضرّ بي في جميع جسدي مع إنكار من لقيني في كلّ وجه و الحمد لله، فكيف أفعل‌؟</span>\n  </p>\n  <p id=\"p3374\" paragraph-id=\"3374\" class=\" G\">\n    <span class=\"hadith\">فقال: «اكتب القرآن بالعسل و اشربه بالغداة و عند النوم»<span><sup><a class=\"NewFn\" href=\"#footnote1460\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3375\" paragraph-id=\"3375\" class=\" G\">[428] </p>\n  <p id=\"p3376\" paragraph-id=\"3376\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن سعدان بن مسلم، عن يونس بن يعقوب<span><sup><a class=\"NewFn\" href=\"#footnote1461\" title=\"(5)  في النسخة: «موسى بن يعقوب» و لم نعثر على اسمه في أسانيد مصادرنا، و ما أثبتناه من مكارم الأخلاق، و هو يونس بن يعقوب بن الجلاب البجلي الدهني الكوفي. انظر:رجال النجاشي: 1207/446، رجال الطوسي: 44/323.\">5</a></sup></span> قال:</span> قلت <span class=\"Y\"><span class=\"maasoom\">لأبي </span></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1457\" footnote-id=\"1457\">(1) <page number=\"263\" /> اسم نبت، أعجمي معرّب، و قد جرى في كلام العرب، و أنواعه كثيرة، و أطيبه الأبيض. كتاب الماء 682:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1458\" footnote-id=\"1458\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى ابنا بسطام في طبّ الأئمّة عليهم السّلام: 100، علاجا للقراقر في البطن، عن أحمد بن محارب السوداني، قال: حدّثنا صفوان بن عيسى بن يحيى البيّاع، قال: حدّثنا عبد الرحمن بن الجهم، قال: شكا ذريح المحاربي قراقر في بطنه إلى أبي عبد الله عليه السّلام فقال: «أتوجعك‌؟» قال: نعم، قال: «ما يمنعك من الحبّة السوداء و العسل لها؟» </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1459\" footnote-id=\"1459\">(3)  في النسخة: «عن سلانة مولى يقطين» و لم نعثر عليه في المصادر، و الصحيح ما أثبتناه كما في بعض أسانيد بصائر الدرجات 3/251:1. و في الكافي 583/383:8: «سليم مولى علي بن يقطين». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1460\" footnote-id=\"1460\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1461\" footnote-id=\"1461\">(5)  في النسخة: «موسى بن يعقوب» و لم نعثر على اسمه في أسانيد مصادرنا، و ما أثبتناه من مكارم الأخلاق، و هو يونس بن يعقوب بن الجلاب البجلي الدهني الكوفي. انظر:<br />رجال النجاشي: 1207/446، رجال الطوسي: 44/323.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F0BBD7C4-0AE4-43E1-A3BF-FDFF7C25920B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

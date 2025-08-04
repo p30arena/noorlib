@@ -1,0 +1,111 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 190,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167110,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3009\"><format class=\"hadith\" who=\"6\" Id=\"296\" RevayatIndex=\"296\"><page number=\"190\"/> فقلت: جعلت فداك، إنّ التمر يفسد عليّ أسناني.</format></p>"
+        },
+        {
+          "paragraphId": 714167111,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3010\"><format class=\"hadith\" who=\"6\" Id=\"296\" RevayatIndex=\"296\">فقال: «و هل يشدّ الأسنان إلّا التمر»<lfootnote noteId=\"1116\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167112,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3011\">[299] </p>"
+        },
+        {
+          "paragraphId": 714167113,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3012\"><format class=\"hadith\" who=\"8\" Id=\"297\" RevayatIndex=\"297\"><format class=\"sanadHadith\">و عنه، عن علي بن الحسن، عن أحمد بن محمّد بن أبي نصر، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبي الحسن الرضا عليه السّلام</format></format>: </format>«التين أشبه شيء بنبات الجنّة<lfootnote noteId=\"1117\">2</lfootnote>، و هو يذهب بالبخر<lfootnote noteId=\"1118\">3</lfootnote>»<lfootnote noteId=\"1119\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167114,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3013\">[300] </p>"
+        },
+        {
+          "paragraphId": 714167115,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3014\"><format class=\"hadith\" who=\"6\" Id=\"298\" RevayatIndex=\"298\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">الصادق عليه السّلام</format></format> أنّه قال: </format>«السّعد<lfootnote noteId=\"1120\">5</lfootnote> يشدّ الأسنان»<lfootnote noteId=\"1121\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167116,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3015\">[301] </p>"
+        },
+        {
+          "paragraphId": 714167117,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3016\"><format class=\"hadith\" who=\"7\" Id=\"299\" RevayatIndex=\"299\"><format class=\"sanadHadith\">و روى أحمد بن محمّد القمي قال:</format> كتبت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن موسى عليه السّلام </format></format>أنّ أهلي بها حمل و جميع أسنانها تضرب عليها. </format></p>"
+        },
+        {
+          "paragraphId": 714167118,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3017\"><format class=\"hadith\" who=\"7\" Id=\"299\" RevayatIndex=\"299\"><page number=\"191\"/> فكتب إليّ‌: «احجمها، و لتغسل محاجمها - قبل أن تقوم الحجّامة و تأخذ عنها المحاجم - بخلّ خمر و ملح أندراني، يسكن عنها»<lfootnote noteId=\"1122\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169160,
+          "text": "<footnote id=\"1116\"><page number=\"190\"/><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169161,
+          "text": "<footnote id=\"1117\"><mnote>(2)</mnote> قال المجلسي: لعلّ الأشبهيّة لخلوص جوفه عمّا يلقى و يرمى. بحار الأنوار 185:63. و قال: لكونه بلا نواة و غير ذلك. مرآة العقول 199:22. </footnote>"
+        },
+        {
+          "footnoteId": 714169162,
+          "text": "<footnote id=\"1118\"><mnote>(3)</mnote> البخر: الرائحة المتغيّرة من الفم، و البخر النّتن يكون في الفم و غيره. كتاب الماء 99:1. </footnote>"
+        },
+        {
+          "footnoteId": 714169163,
+          "text": "<footnote id=\"1119\"><mnote>(4)</mnote> و سيأتي أيضا في الحديث 304 من هذا الجزء. رواه البرقي في المحاسن 903/554:2، عن أحمد بن محمّد بن أبي نصر، عن أبي الحسن الرضا عليه السّلام قال: «التين يذهب» و قال:<br/>«التين أشبه»، و الكليني في الكافي 1/358:6، باب التين هكذا: علي بن إبراهيم، عن أبيه، عن أحمد بن محمّد بن أبي نصر... مثل المحاسن، و رواه سهل بن زياد، عن أحمد بن الأشعث، عن أحمد بن محمّد بن أبي نصر أيضا مثله، [في بعض النسخ: عن محمّد بن الأشعث]، و الطبرسي قريبا منه في مكارم الأخلاق: 2/173، في التين، عن الرضا عليه السّلام قال: «التين يذهب بالبخر و يشدّ العظم و يذهب بالداء حتّى لا يحتاج معه إلى دواء».<br/>و روى نحوه العامّة عن الإمام الرضا عليهما السّلام كما في تفسير الرازي 8:32، و تفسير أبي السعود 174:9. </footnote>"
+        },
+        {
+          "footnoteId": 714169164,
+          "text": "<footnote id=\"1120\"><mnote>(5)</mnote> السّعد: نبت له أصل تحت الأرض، أسود طيب الريح. لسان العرب 216:3 «سعد». </footnote>"
+        },
+        {
+          "footnoteId": 714169165,
+          "text": "<footnote id=\"1121\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و روى في مكارم الأخلاق: 191، عن الرضا عليه السّلام:<br/>«استعمل السعد فإنّ أسنانك تثبت».</footnote>"
+        }
+      ],
+      "pageValue": "190",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3009\" paragraph-id=\"3009\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo190\">190</span> فقلت: جعلت فداك، إنّ التمر يفسد عليّ أسناني.</span>\n  </p>\n  <p id=\"p3010\" paragraph-id=\"3010\" class=\" G\">\n    <span class=\"hadith\">فقال: «و هل يشدّ الأسنان إلّا التمر»<span><sup><a class=\"NewFn\" href=\"#footnote1116\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3011\" paragraph-id=\"3011\" class=\" G\">[299] </p>\n  <p id=\"p3012\" paragraph-id=\"3012\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن علي بن الحسن، عن أحمد بن محمّد بن أبي نصر، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن الرضا عليه السّلام</span></span>: </span>«التين أشبه شيء بنبات الجنّة<span><sup><a class=\"NewFn\" href=\"#footnote1117\" title=\"(2)  قال المجلسي: لعلّ الأشبهيّة لخلوص جوفه عمّا يلقى و يرمى. بحار الأنوار 185:63. و قال: لكونه بلا نواة و غير ذلك. مرآة العقول 199:22. \">2</a></sup></span>، و هو يذهب بالبخر<span><sup><a class=\"NewFn\" href=\"#footnote1118\" title=\"(3)  البخر: الرائحة المتغيّرة من الفم، و البخر النّتن يكون في الفم و غيره. كتاب الماء 99:1. \">3</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1119\" title=\"(4)  و سيأتي أيضا في الحديث 304 من هذا الجزء. رواه البرقي في المحاسن 903/554:2، عن أحمد بن محمّد بن أبي نصر، عن أبي الحسن الرضا عليه السّلام قال: «التين يذهب» و قال:«التين أشبه»، و الكليني في الكافي 1/358:6، باب التين هكذا: علي بن إبراهيم، عن أبيه، عن أحمد بن محمّد بن أبي نصر... مثل المحاسن، و رواه سهل بن زياد، عن أحمد بن الأشعث، عن أحمد بن محمّد بن أبي نصر أيضا مثله، [في بعض النسخ: عن محمّد بن الأشعث]، و الطبرسي قريبا منه في مكارم الأخلاق: 2/173، في التين، عن الرضا عليه السّلام قال: «التين يذهب بالبخر و يشدّ العظم و يذهب بالداء حتّى لا يحتاج معه إلى دواء».و روى نحوه العامّة عن الإمام الرضا عليهما السّلام كما في تفسير الرازي 8:32، و تفسير أبي السعود 174:9. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3013\" paragraph-id=\"3013\" class=\" G\">[300] </p>\n  <p id=\"p3014\" paragraph-id=\"3014\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">الصادق عليه السّلام</span></span> أنّه قال: </span>«السّعد<span><sup><a class=\"NewFn\" href=\"#footnote1120\" title=\"(5)  السّعد: نبت له أصل تحت الأرض، أسود طيب الريح. لسان العرب 216:3 «سعد». \">5</a></sup></span> يشدّ الأسنان»<span><sup><a class=\"NewFn\" href=\"#footnote1121\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى في مكارم الأخلاق: 191، عن الرضا عليه السّلام:«استعمل السعد فإنّ أسنانك تثبت».\">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3015\" paragraph-id=\"3015\" class=\" G\">[301] </p>\n  <p id=\"p3016\" paragraph-id=\"3016\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى أحمد بن محمّد القمي قال:</span> كتبت إلى <span class=\"Y\"><span class=\"maasoom\">أبي الحسن موسى عليه السّلام </span></span>أنّ أهلي بها حمل و جميع أسنانها تضرب عليها. </span>\n  </p>\n  <p id=\"p3017\" paragraph-id=\"3017\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1116\" footnote-id=\"1116\">(1) <page number=\"190\" /> لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1117\" footnote-id=\"1117\">(2)  قال المجلسي: لعلّ الأشبهيّة لخلوص جوفه عمّا يلقى و يرمى. بحار الأنوار 185:63. و قال: لكونه بلا نواة و غير ذلك. مرآة العقول 199:22. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1118\" footnote-id=\"1118\">(3)  البخر: الرائحة المتغيّرة من الفم، و البخر النّتن يكون في الفم و غيره. كتاب الماء 99:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1119\" footnote-id=\"1119\">(4)  و سيأتي أيضا في الحديث 304 من هذا الجزء. رواه البرقي في المحاسن 903/554:2، عن أحمد بن محمّد بن أبي نصر، عن أبي الحسن الرضا عليه السّلام قال: «التين يذهب» و قال:<br />«التين أشبه»، و الكليني في الكافي 1/358:6، باب التين هكذا: علي بن إبراهيم، عن أبيه، عن أحمد بن محمّد بن أبي نصر... مثل المحاسن، و رواه سهل بن زياد، عن أحمد بن الأشعث، عن أحمد بن محمّد بن أبي نصر أيضا مثله، [في بعض النسخ: عن محمّد بن الأشعث]، و الطبرسي قريبا منه في مكارم الأخلاق: 2/173، في التين، عن الرضا عليه السّلام قال: «التين يذهب بالبخر و يشدّ العظم و يذهب بالداء حتّى لا يحتاج معه إلى دواء».<br />و روى نحوه العامّة عن الإمام الرضا عليهما السّلام كما في تفسير الرازي 8:32، و تفسير أبي السعود 174:9. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1120\" footnote-id=\"1120\">(5)  السّعد: نبت له أصل تحت الأرض، أسود طيب الريح. لسان العرب 216:3 «سعد». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1121\" footnote-id=\"1121\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى في مكارم الأخلاق: 191، عن الرضا عليه السّلام:<br />«استعمل السعد فإنّ أسنانك تثبت».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "EDEAECF5-5CC5-4DB6-8DF7-E0D9E251547B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

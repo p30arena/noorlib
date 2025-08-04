@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 201,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170556,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1811\"><page number=\"201\"/><heading level=\"2\">[باب] في الفصوص الغرويّة و غيرها </heading></p>"
+        },
+        {
+          "paragraphId": 714170557,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1812\">[277] </p>"
+        },
+        {
+          "paragraphId": 714170558,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1813\"><format class=\"hadith\" who=\"6\" Id=\"274\" RevayatIndex=\"795\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا جعفر بن مالك<lfootnote noteId=\"826\">1</lfootnote>، قال: حدّثني محمّد بن شهاب، عن عبد الله بن يونس السبيعي<lfootnote noteId=\"827\">2</lfootnote>، عن المفضّل، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«استحبّ لشيعتنا أن يتختّموا بخمس خواتيم».</format></p>"
+        },
+        {
+          "paragraphId": 714170559,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1814\"><format class=\"hadith\" who=\"6\" Id=\"274\" RevayatIndex=\"795\">قلت: يا سيّدي، و ما هي‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714170560,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1815\"><format class=\"hadith\" who=\"6\" Id=\"274\" RevayatIndex=\"795\">قال: «الياقوت و هو أفخرها و أسناها، و الفيروزج<lfootnote noteId=\"828\">3</lfootnote> و هو يجلب الرزق و يوسّع الصدر و يزيد في قوّة<lfootnote noteId=\"829\">4</lfootnote> قلوب الناظرين إليه، و العقيق و هو أخوفها لله و لرسوله و لنا، و الحديد<lfootnote noteId=\"830\">5</lfootnote> الصيني و أنا أكره لبسه في الصلاة، إلّا أنّه يطفئ الشرّ و يطرد المردة<lfootnote noteId=\"831\">6</lfootnote>، و الذكوات البيض<lfootnote noteId=\"832\">7</lfootnote>». </format></p>"
+        },
+        {
+          "paragraphId": 714170561,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1816\"><format class=\"hadith\" who=\"6\" Id=\"274\" RevayatIndex=\"795\"><page number=\"202\"/> قلت: و ما الذكوات البيض‌؟</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171623,
+          "text": "<footnote id=\"826\"><page number=\"201\"/><mnote>(1)</mnote> هو أبو عبد الله، جعفر بن محمّد بن مالك الفرازي الكوفي، روى عنه ابن همّام و أبو غالب الزراري رحمهما الله. </footnote>"
+        },
+        {
+          "footnoteId": 714171624,
+          "text": "<footnote id=\"827\"><mnote>(2)</mnote> في النسخة: «بن مالك، قال: حدّثني إبراهيم السبيعي، عن ابن شهاب» و ما أثبتناه من تهذيب الأحكام. </footnote>"
+        },
+        {
+          "footnoteId": 714171625,
+          "text": "<footnote id=\"828\"><mnote>(3)</mnote> هو معرّب «فيروزه» كلمة فارسية و أجودها خراساني و في طوس معادن منها. </footnote>"
+        },
+        {
+          "footnoteId": 714171626,
+          "text": "<footnote id=\"829\"><mnote>(4)</mnote> قوله: «يزيد في قوّة» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171627,
+          "text": "<footnote id=\"830\"><mnote>(5)</mnote> في النسخة: «في الحديد» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171628,
+          "text": "<footnote id=\"831\"><mnote>(6)</mnote> في تهذيب الأحكام 37:6: «و لا أكره لبسه عند لقاء أهل الشرّ ليطفئ شرّهم، و أحبّ اتّخاذه فإنّه يشرد المردة من الجنّ و الإنس».<br/>و في ملاذ الأخيار 94:9 في قوله عليه السّلام: و أحبّ اتّخاذه أي: بأن يكون معه بغير تختّم، أو في البيت ليتختّم به في بعض الأحيان لدفع الشرور. </footnote>"
+        },
+        {
+          "footnoteId": 714171629,
+          "text": "<footnote id=\"832\"><mnote>(7)</mnote> قال المجلسي في قوله عليه السّلام: بالذكوات هكذا فيما رأينا من النسخ «بالذكوات» بالذال المعجمة، و الذكوة في اللغة الجمرة الملتهبة، فيمكن أن يكون المراد التلال الصغيرة<page number=\"202\"/>المحيطة بقبره عليه السّلام، شبّهها لضيائها و توقّدها عند شروق الشمس عليها بالجمرة الملتهبة.<br/>و يحتمل أن يكون المراد بالذكوات نفس تلك الحصيات، أي: ما يظهر الله فيها من البركة، لكن ورد في أخبار كثيرة أنّ قبره عليه السّلام بين ذكوات بيض، و هو ينافي هذا ظاهرا.<br/>و قيل: إنّ أصله دكاوات جمع دكاء بمعنى التلّ الصغير.<br/>و رأيت في بعض نسخ فرحة الغري «الركوات» و هي جمع ركوة، و الركوة الحوض الكبير، فيمكن أن يكون المراد الحياض التي كانت تجمع فيها الماء حول قبره عليه السّلام، و الله يعلم. ملاذ الأخيار 94:9.<br/>و في الوافي 1456:14: بالذكوات البيض: في أكثر النسخ بالراء فيكون بمعنى الآبار كما مرّ، و هو الأصوب هنا، إذ تصحيحها بالذالّ المعجمة هنا لا يخلو من تكلّف. </footnote>"
+        }
+      ],
+      "pageValue": "201",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1811\" paragraph-id=\"1811\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo201\">201</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الفصوص الغرويّة و غيرها </strong>\n  </p>\n  <p id=\"p1812\" paragraph-id=\"1812\" class=\" G\">[277] </p>\n  <p id=\"p1813\" paragraph-id=\"1813\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا جعفر بن مالك<span><sup><a class=\"NewFn\" href=\"#footnote826\" title=\"(1)  هو أبو عبد الله، جعفر بن محمّد بن مالك الفرازي الكوفي، روى عنه ابن همّام و أبو غالب الزراري رحمهما الله. \">1</a></sup></span>، قال: حدّثني محمّد بن شهاب، عن عبد الله بن يونس السبيعي<span><sup><a class=\"NewFn\" href=\"#footnote827\" title=\"(2)  في النسخة: «بن مالك، قال: حدّثني إبراهيم السبيعي، عن ابن شهاب» و ما أثبتناه من تهذيب الأحكام. \">2</a></sup></span>، عن المفضّل، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«استحبّ لشيعتنا أن يتختّموا بخمس خواتيم».</span>\n  </p>\n  <p id=\"p1814\" paragraph-id=\"1814\" class=\" G\">\n    <span class=\"hadith\">قلت: يا سيّدي، و ما هي‌؟</span>\n  </p>\n  <p id=\"p1815\" paragraph-id=\"1815\" class=\" G\">\n    <span class=\"hadith\">قال: «الياقوت و هو أفخرها و أسناها، و الفيروزج<span><sup><a class=\"NewFn\" href=\"#footnote828\" title=\"(3)  هو معرّب «فيروزه» كلمة فارسية و أجودها خراساني و في طوس معادن منها. \">3</a></sup></span> و هو يجلب الرزق و يوسّع الصدر و يزيد في قوّة<span><sup><a class=\"NewFn\" href=\"#footnote829\" title=\"(4)  قوله: «يزيد في قوّة» أثبتناه من المصدر. \">4</a></sup></span> قلوب الناظرين إليه، و العقيق و هو أخوفها لله و لرسوله و لنا، و الحديد<span><sup><a class=\"NewFn\" href=\"#footnote830\" title=\"(5)  في النسخة: «في الحديد» و ما أثبتناه من المصدر. \">5</a></sup></span> الصيني و أنا أكره لبسه في الصلاة، إلّا أنّه يطفئ الشرّ و يطرد المردة<span><sup><a class=\"NewFn\" href=\"#footnote831\" title=\"(6)  في تهذيب الأحكام 37:6: «و لا أكره لبسه عند لقاء أهل الشرّ ليطفئ شرّهم، و أحبّ اتّخاذه فإنّه يشرد المردة من الجنّ و الإنس».و في ملاذ الأخيار 94:9 في قوله عليه السّلام: و أحبّ اتّخاذه أي: بأن يكون معه بغير تختّم، أو في البيت ليتختّم به في بعض الأحيان لدفع الشرور. \">6</a></sup></span>، و الذكوات البيض<span><sup><a class=\"NewFn\" href=\"#footnote832\" title=\"(7)  قال المجلسي في قوله عليه السّلام: بالذكوات هكذا فيما رأينا من النسخ «بالذكوات» بالذال المعجمة، و الذكوة في اللغة الجمرة الملتهبة، فيمكن أن يكون المراد التلال الصغيرة\">7</a></sup></span>». </span>\n  </p>\n  <p id=\"p1816\" paragraph-id=\"1816\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote826\" footnote-id=\"826\">(1) <page number=\"201\" /> هو أبو عبد الله، جعفر بن محمّد بن مالك الفرازي الكوفي، روى عنه ابن همّام و أبو غالب الزراري رحمهما الله. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote827\" footnote-id=\"827\">(2)  في النسخة: «بن مالك، قال: حدّثني إبراهيم السبيعي، عن ابن شهاب» و ما أثبتناه من تهذيب الأحكام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote828\" footnote-id=\"828\">(3)  هو معرّب «فيروزه» كلمة فارسية و أجودها خراساني و في طوس معادن منها. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote829\" footnote-id=\"829\">(4)  قوله: «يزيد في قوّة» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote830\" footnote-id=\"830\">(5)  في النسخة: «في الحديد» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote831\" footnote-id=\"831\">(6)  في تهذيب الأحكام 37:6: «و لا أكره لبسه عند لقاء أهل الشرّ ليطفئ شرّهم، و أحبّ اتّخاذه فإنّه يشرد المردة من الجنّ و الإنس».<br />و في ملاذ الأخيار 94:9 في قوله عليه السّلام: و أحبّ اتّخاذه أي: بأن يكون معه بغير تختّم، أو في البيت ليتختّم به في بعض الأحيان لدفع الشرور. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote832\" footnote-id=\"832\">(7)  قال المجلسي في قوله عليه السّلام: بالذكوات هكذا فيما رأينا من النسخ «بالذكوات» بالذال المعجمة، و الذكوة في اللغة الجمرة الملتهبة، فيمكن أن يكون المراد التلال الصغيرة</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4DABD0A6-21A9-41CA-879B-E6C9D8F19A57",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

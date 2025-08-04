@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 46,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166687,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2292\"><page number=\"46\"/>[59] </p>"
+        },
+        {
+          "paragraphId": 714166688,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2293\"><format class=\"hadith\" who=\"14,6|5\" Id=\"59\" RevayatIndex=\"59\"><format class=\"sanadHadith\">أبو عبد الله<lfootnote noteId=\"449\">1</lfootnote>، عن منصور بن عبّاس، عن عمرو بن عثمان، عن أبي عبد الله المؤمن، عمّن حدّثه، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6|5\">أحدهما</format></format>، قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: إنّ من خيار امّتي العوّادون المرضى، المعزّون الثكلى، المشيّعون الهلكى»<lfootnote noteId=\"450\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166689,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2294\">[60] </p>"
+        },
+        {
+          "paragraphId": 714166690,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2295\"><format class=\"hadith\" who=\"14,1,6\" Id=\"60\" RevayatIndex=\"60\"><format class=\"sanadHadith\">و روى بعض أصحابنا، عن أبي محمّد المروزي، عن عمر بن أحمد، عن ابن أبي عمير، عن رجل، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>: </format>«مرض <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين صلوات الله عليه</format></format> مرضة فعاده أصحاب <format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format> فقالوا: يا <format class=\"maasoom\" maasoomNo=\"1\">أبا الحسن</format>، لو تداويت!</format></p>"
+        },
+        {
+          "paragraphId": 714166691,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2296\"><format class=\"hadith\" who=\"14,1,6\" Id=\"60\" RevayatIndex=\"60\">فقال لهم: إن كان الله تعالى قدّر عليّ مرض تسعة أيّام أكان الدواء يبلغ به عشرة أيّام‌؟ فقالوا: لا.</format></p>"
+        },
+        {
+          "paragraphId": 714166692,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2297\"><format class=\"hadith\" who=\"14,1,6\" Id=\"60\" RevayatIndex=\"60\">قال: فإن كان الله قدّر عليّ مرض عشرة أيّام كان الدواء يردّه إلى تسعة أيّام‌؟ فقالوا: لا.</format></p>"
+        },
+        {
+          "paragraphId": 714166693,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2298\"><format class=\"hadith\" who=\"14,1,6\" Id=\"60\" RevayatIndex=\"60\">قال: فإنّي أخبركم، حديث سمعته من <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>، و هو يقول: ما من داء إلّا و له دواء، فإذا كان ذلك يبعث الله معه ملكا معه ستر، فجعله بين الداء و الدواء، فكلّما شرب من الدواء لم ينفع على الدواء، فإذا أراد الله تعالى برءه أمر الملك يرفع الستر ثمّ يشرب الدواء فينفعه الله تعالى»<lfootnote noteId=\"451\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166694,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2299\"><page number=\"47\"/>[61] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168002,
+          "text": "<footnote id=\"448\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا و قد روى في معدن الجواهر: 33: «ثلاثة لا يعادون <page number=\"46\"/>صاحب الدمل» لاحظ المغني لابن قدامة 505:6. </footnote>"
+        },
+        {
+          "footnoteId": 714168003,
+          "text": "<footnote id=\"449\"><mnote>(1)</mnote> هو محمّد بن عبد الله بن أحمد الجاموراني الرازي الذي روى عنه البرقي و الأشعري و سهل بن زياد و غيرهم، انظر: تهذيب الأحكام 29/295:6. </footnote>"
+        },
+        {
+          "footnoteId": 714168004,
+          "text": "<footnote id=\"450\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا، و نقل نحوه في بعض مصادر العامّة، فلاحظ: حلية الأولياء 45:4، الدرّ المنثور 118:3 و 542، فيض القدير 120:4. </footnote>"
+        },
+        {
+          "footnoteId": 714168005,
+          "text": "<footnote id=\"451\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا، و روي مضمونه في فقه الإمام الرضا عليه السّلام: 341.<br/>ثمّ ما يدلّ على أنّ لكلّ داء دواء و أنّ الدواء من القدر كثير. انظر: الرسالة الذهبية: 10، <page number=\"47\"/>الجعفريات: 167، دعائم الإسلام 143:2-499/144 و 500، غرر الحكم: 10/541 و 11، عيون الحكم و المواعظ: 6763/401 و 6764، مكارم الأخلاق: 313 و 389، الدعوات: 498/180 و 499. </footnote>"
+        }
+      ],
+      "pageValue": "46",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2292\" paragraph-id=\"2292\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo46\">46</span>[59] </p>\n  <p id=\"p2293\" paragraph-id=\"2293\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أبو عبد الله<span><sup><a class=\"NewFn\" href=\"#footnote449\" title=\"(1)  هو محمّد بن عبد الله بن أحمد الجاموراني الرازي الذي روى عنه البرقي و الأشعري و سهل بن زياد و غيرهم، انظر: تهذيب الأحكام 29/295:6. \">1</a></sup></span>، عن منصور بن عبّاس، عن عمرو بن عثمان، عن أبي عبد الله المؤمن، عمّن حدّثه، عن <span class=\"HQ\"><span class=\"maasoom\">أحدهما</span></span>، قال: </span>«قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: إنّ من خيار امّتي العوّادون المرضى، المعزّون الثكلى، المشيّعون الهلكى»<span><sup><a class=\"NewFn\" href=\"#footnote450\" title=\"(2)  لم نعثر عليه في المصادر المتوفرة لدينا، و نقل نحوه في بعض مصادر العامّة، فلاحظ: حلية الأولياء 45:4، الدرّ المنثور 118:3 و 542، فيض القدير 120:4. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2294\" paragraph-id=\"2294\" class=\" G\">[60] </p>\n  <p id=\"p2295\" paragraph-id=\"2295\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى بعض أصحابنا، عن أبي محمّد المروزي، عن عمر بن أحمد، عن ابن أبي عمير، عن رجل، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>: </span>«مرض <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين صلوات الله عليه</span></span> مرضة فعاده أصحاب <span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span> فقالوا: يا <span class=\"maasoom\">أبا الحسن</span>، لو تداويت!</span>\n  </p>\n  <p id=\"p2296\" paragraph-id=\"2296\" class=\" G\">\n    <span class=\"hadith\">فقال لهم: إن كان الله تعالى قدّر عليّ مرض تسعة أيّام أكان الدواء يبلغ به عشرة أيّام‌؟ فقالوا: لا.</span>\n  </p>\n  <p id=\"p2297\" paragraph-id=\"2297\" class=\" G\">\n    <span class=\"hadith\">قال: فإن كان الله قدّر عليّ مرض عشرة أيّام كان الدواء يردّه إلى تسعة أيّام‌؟ فقالوا: لا.</span>\n  </p>\n  <p id=\"p2298\" paragraph-id=\"2298\" class=\" G\">\n    <span class=\"hadith\">قال: فإنّي أخبركم، حديث سمعته من <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>، و هو يقول: ما من داء إلّا و له دواء، فإذا كان ذلك يبعث الله معه ملكا معه ستر، فجعله بين الداء و الدواء، فكلّما شرب من الدواء لم ينفع على الدواء، فإذا أراد الله تعالى برءه أمر الملك يرفع الستر ثمّ يشرب الدواء فينفعه الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote451\" title=\"(3)  لم نعثر عليه في المصادر المتوفرة لدينا، و روي مضمونه في فقه الإمام الرضا عليه السّلام: 341.ثمّ ما يدلّ على أنّ لكلّ داء دواء و أنّ الدواء من القدر كثير. انظر: الرسالة الذهبية: 10، \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2299\" paragraph-id=\"2299\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote448\" footnote-id=\"448\"><page number=\"46\" />صاحب الدمل» لاحظ المغني لابن قدامة 505:6. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote449\" footnote-id=\"449\">(1)  هو محمّد بن عبد الله بن أحمد الجاموراني الرازي الذي روى عنه البرقي و الأشعري و سهل بن زياد و غيرهم، انظر: تهذيب الأحكام 29/295:6. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote450\" footnote-id=\"450\">(2)  لم نعثر عليه في المصادر المتوفرة لدينا، و نقل نحوه في بعض مصادر العامّة، فلاحظ: حلية الأولياء 45:4، الدرّ المنثور 118:3 و 542، فيض القدير 120:4. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote451\" footnote-id=\"451\">(3)  لم نعثر عليه في المصادر المتوفرة لدينا، و روي مضمونه في فقه الإمام الرضا عليه السّلام: 341.<br />ثمّ ما يدلّ على أنّ لكلّ داء دواء و أنّ الدواء من القدر كثير. انظر: الرسالة الذهبية: 10، </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F26BA2EA-1A07-49EF-AF49-9A661D45C069",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

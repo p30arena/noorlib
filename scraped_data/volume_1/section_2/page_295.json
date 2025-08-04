@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 295,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167812,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3558\"><format class=\"hadith\" who=\"6\" Id=\"475\" RevayatIndex=\"475\">فقال له الرجل: جعلت فداك ألا امسح يدك المباركة على يدي‌؟ ففعل و قال له: قل هذا الدعاء حين تصلّي صلاة الليل و أنت ساجد: اللّهمّ إنّي أدعوك دعاء<lfootnote noteId=\"1624\">4</lfootnote> العليل الذّليل الفقير، دعاء من قد اشتدّت فاقته و قلّت حيلته و ضعف عمله و ألحّ البلاء عليه، دعاء مكروب إن لم تدركه هلك و إن لم تستنقذه فلا حيلة له، فلا تحط بي مكرك و لا تثبت عليّ غضبك و لا تضطرّني إلى اليأس من روحك <page number=\"295\"/> و القنوط من رحمتك<lfootnote noteId=\"1625\">1</lfootnote> و طول التّصبّر على البلاء، اللّهمّ إنّه لا طاقة لي ببلائك و لا غناء لي عن رحمتك و هذا ابن حبيبك أتوجّه به إليك فإنّك جعلته مفزعا<lfootnote noteId=\"1626\">2</lfootnote>لخلقك و استودعته علم ما سبق<lfootnote noteId=\"1627\">3</lfootnote> و ما هو كائن، فاكشف به ضرّي و خلّصني من هذه البليّة إلى ما عوّدتني من رحمتك، يا هو، يا من هو هو<lfootnote noteId=\"1628\">4</lfootnote>، يا من لا يعلم ما هو إلّا هو، انقطع الرّجاء إلّا منك.</format></p>"
+        },
+        {
+          "paragraphId": 714167813,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3559\"><format class=\"hadith\" who=\"6\" Id=\"475\" RevayatIndex=\"475\">قال أبي: انصرف<lfootnote noteId=\"1629\">5</lfootnote> الرجل، فرأيته بعد و ما به شيء ممّا كان يجد، - فأمره <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format> أن يكتم أمره ذلك -.</format></p>"
+        },
+        {
+          "paragraphId": 714167814,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3560\"><format class=\"hadith\" who=\"6\" Id=\"475\" RevayatIndex=\"475\">و قال <format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format>: فأخبرت أبي بعافيته.</format></p>"
+        },
+        {
+          "paragraphId": 714167815,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3561\"><format class=\"hadith\" who=\"6\" Id=\"475\" RevayatIndex=\"475\">فقال: يا بنيّ‌، من كتم بلاء ابتلي به و شكا ذلك إلى الله كان حقّا على الله أن يعافيه من ذلك البلاء<lfootnote noteId=\"1630\">6</lfootnote>»<lfootnote noteId=\"1631\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167816,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3562\"><page number=\"296\"/><heading level=\"2\">[باب] استرخاء الذكر </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169580,
+          "text": "<footnote id=\"1625\"><page number=\"295\"/><mnote>(1)</mnote> في النسخة: كلمة غير مقروءة، و ما أثبتناه من مكارم الأخلاق و كذا بقية الموارد المشابهة في هذا الحديث. </footnote>"
+        },
+        {
+          "footnoteId": 714169581,
+          "text": "<footnote id=\"1626\"><mnote>(2)</mnote> في النسخة: «مفرجا» و هو تصحيف. </footnote>"
+        },
+        {
+          "footnoteId": 714169582,
+          "text": "<footnote id=\"1627\"><mnote>(3)</mnote> في النسخة: «على ما سبق» و ما أثبتناه من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169583,
+          "text": "<footnote id=\"1628\"><mnote>(4)</mnote> في النسخة: «يا من هو» بدل «يا هو يا من هو هو». </footnote>"
+        },
+        {
+          "footnoteId": 714169584,
+          "text": "<footnote id=\"1629\"><mnote>(5)</mnote> في مهج الدعوات: «فانصرف» بدل «قال أبي: انصرف». </footnote>"
+        },
+        {
+          "footnoteId": 714169585,
+          "text": "<footnote id=\"1630\"><mnote>(6)</mnote> في بعض المصادر هنا زيادة: «عند هذا الدعاء». </footnote>"
+        },
+        {
+          "footnoteId": 714169586,
+          "text": "<footnote id=\"1631\"><mnote>(7)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/394، دعاء للحصاة و الفالج، عن الصادق عليه السّلام قال: «تقول حين تصلّي صلاة الليل و أنت ساجد: اللهم إنّي أدعوك»، و الراوندي في الدعوات: 488/173، فقال: دعاء العليل: عن الصادق عليه السّلام: «اللهم إنّي أدعوك»، و ابن طاوس في مهج الدعوات: 324 - و عنه الكفعمي في كتابيه البلد الأمين: 146 و المصباح: 148 - فقال: و من ذلك دعاء العافية رويناه بإسنادنا إلى سعد بن عبد الله، <page number=\"296\"/>بإسناده إلى أبي عبد الله عليه السّلام قال: كنت جالسا عند أبي...، و اختصر الكفعمي صدره في المصباح فقال: و في مهج الدعوات عن الصادق عليه السّلام: «قل بعد صلاة الليل إذا كانت بك علّة و أنت ساجد: اللهمّ إنّي أدعوك». </footnote>"
+        }
+      ],
+      "pageValue": "295",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3558\" paragraph-id=\"3558\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo295\">295</span> و القنوط من رحمتك<span><sup><a class=\"NewFn\" href=\"#footnote1625\" title=\"(1)  في النسخة: كلمة غير مقروءة، و ما أثبتناه من مكارم الأخلاق و كذا بقية الموارد المشابهة في هذا الحديث. \">1</a></sup></span> و طول التّصبّر على البلاء، اللّهمّ إنّه لا طاقة لي ببلائك و لا غناء لي عن رحمتك و هذا ابن حبيبك أتوجّه به إليك فإنّك جعلته مفزعا<span><sup><a class=\"NewFn\" href=\"#footnote1626\" title=\"(2)  في النسخة: «مفرجا» و هو تصحيف. \">2</a></sup></span>لخلقك و استودعته علم ما سبق<span><sup><a class=\"NewFn\" href=\"#footnote1627\" title=\"(3)  في النسخة: «على ما سبق» و ما أثبتناه من مكارم الأخلاق. \">3</a></sup></span> و ما هو كائن، فاكشف به ضرّي و خلّصني من هذه البليّة إلى ما عوّدتني من رحمتك، يا هو، يا من هو هو<span><sup><a class=\"NewFn\" href=\"#footnote1628\" title=\"(4)  في النسخة: «يا من هو» بدل «يا هو يا من هو هو». \">4</a></sup></span>، يا من لا يعلم ما هو إلّا هو، انقطع الرّجاء إلّا منك.</span>\n  </p>\n  <p id=\"p3559\" paragraph-id=\"3559\" class=\" G\">\n    <span class=\"hadith\">قال أبي: انصرف<span><sup><a class=\"NewFn\" href=\"#footnote1629\" title=\"(5)  في مهج الدعوات: «فانصرف» بدل «قال أبي: انصرف». \">5</a></sup></span> الرجل، فرأيته بعد و ما به شيء ممّا كان يجد، - فأمره <span class=\"BD\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span> أن يكتم أمره ذلك -.</span>\n  </p>\n  <p id=\"p3560\" paragraph-id=\"3560\" class=\" G\">\n    <span class=\"hadith\">و قال <span class=\"maasoom\">أبو عبد الله عليه السّلام</span>: فأخبرت أبي بعافيته.</span>\n  </p>\n  <p id=\"p3561\" paragraph-id=\"3561\" class=\" G\">\n    <span class=\"hadith\">فقال: يا بنيّ‌، من كتم بلاء ابتلي به و شكا ذلك إلى الله كان حقّا على الله أن يعافيه من ذلك البلاء<span><sup><a class=\"NewFn\" href=\"#footnote1630\" title=\"(6)  في بعض المصادر هنا زيادة: «عند هذا الدعاء». \">6</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1631\" title=\"(7)  رواه الطبرسي في مكارم الأخلاق: 1/394، دعاء للحصاة و الفالج، عن الصادق عليه السّلام قال: «تقول حين تصلّي صلاة الليل و أنت ساجد: اللهم إنّي أدعوك»، و الراوندي في الدعوات: 488/173، فقال: دعاء العليل: عن الصادق عليه السّلام: «اللهم إنّي أدعوك»، و ابن طاوس في مهج الدعوات: 324 - و عنه الكفعمي في كتابيه البلد الأمين: 146 و المصباح: 148 - فقال: و من ذلك دعاء العافية رويناه بإسنادنا إلى سعد بن عبد الله، \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p3562\" paragraph-id=\"3562\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1625\" footnote-id=\"1625\">(1) <page number=\"295\" /> في النسخة: كلمة غير مقروءة، و ما أثبتناه من مكارم الأخلاق و كذا بقية الموارد المشابهة في هذا الحديث. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1626\" footnote-id=\"1626\">(2)  في النسخة: «مفرجا» و هو تصحيف. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1627\" footnote-id=\"1627\">(3)  في النسخة: «على ما سبق» و ما أثبتناه من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1628\" footnote-id=\"1628\">(4)  في النسخة: «يا من هو» بدل «يا هو يا من هو هو». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1629\" footnote-id=\"1629\">(5)  في مهج الدعوات: «فانصرف» بدل «قال أبي: انصرف». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1630\" footnote-id=\"1630\">(6)  في بعض المصادر هنا زيادة: «عند هذا الدعاء». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1631\" footnote-id=\"1631\">(7)  رواه الطبرسي في مكارم الأخلاق: 1/394، دعاء للحصاة و الفالج، عن الصادق عليه السّلام قال: «تقول حين تصلّي صلاة الليل و أنت ساجد: اللهم إنّي أدعوك»، و الراوندي في الدعوات: 488/173، فقال: دعاء العليل: عن الصادق عليه السّلام: «اللهم إنّي أدعوك»، و ابن طاوس في مهج الدعوات: 324 - و عنه الكفعمي في كتابيه البلد الأمين: 146 و المصباح: 148 - فقال: و من ذلك دعاء العافية رويناه بإسنادنا إلى سعد بن عبد الله، </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "DEB1302C-0C1C-4CE3-B160-D34F2711DBFA",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

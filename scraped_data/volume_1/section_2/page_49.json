@@ -1,0 +1,85 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 49,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166705,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2310\"><page number=\"49\"/><format class=\"hadith\" who=\"\" Id=\"65\" RevayatIndex=\"\">(1)<format class=\"RevayatIndex\" index=\"65\"/> قال بهذا الهيثم بن أبي مسروق النهدي<lfootnote noteId=\"459\">1</lfootnote><format class=\"FD\">و زاد فيه</format>: «إنّ الله تعالى...<lfootnote noteId=\"460\">2</lfootnote> على كلّ حال». </format></p>"
+        },
+        {
+          "paragraphId": 714166706,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2311\"><heading level=\"2\">[باب] فيما يقال عند المحضور </heading></p>"
+        },
+        {
+          "paragraphId": 714166707,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2312\">[66] </p>"
+        },
+        {
+          "paragraphId": 714166708,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2313\"><format class=\"hadith\" who=\"7\" Id=\"66\" RevayatIndex=\"66\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن بكر، عن الجعفري<lfootnote noteId=\"461\">3</lfootnote>، قال: رأيت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبا الحسن عليه السّلام</format></format><lfootnote noteId=\"462\">4</lfootnote> يقول للقاسم: </format>«قم يا بنيّ فاقرأ عند رأس أخيك <format class=\"ayah\" surah=\"37\" ayah=\"1\" toAyah=\"\">وَ اَلصَّافّٰاتِ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"1\" toAyah=\"\"/></format> حتّى تستتمّها»، فقرأ فلمّا بلغ <format class=\"ayah\" surah=\"37\" ayah=\"11\" toAyah=\"\">أَ هُمْ أَشَدُّ خَلْقاً أَمْ مَنْ خَلَقْنٰا<format class=\"ayahWord\" fromWord=\"2\" toWord=\"8\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"11\" toAyah=\"\"/></format><lfootnote noteId=\"463\">5</lfootnote> قضى الفتى، فلمّا سجّي<lfootnote noteId=\"464\">6</lfootnote> و خرجوا، أقبل عليه يعقوب <page number=\"50\"/> و جعفر فقالا<lfootnote noteId=\"465\">1</lfootnote>: كنّا نعهد الميت إذا نزل به<lfootnote noteId=\"466\">2</lfootnote> يقرأ عنده <format class=\"ayah\" surah=\"36\" ayah=\"1\" toAyah=\"\">يس<format class=\"ayahWord\" fromWord=\"1\" toWord=\"1\"/><format class=\"ayahAddress\" surah=\"36\" ayah=\"1\" toAyah=\"\"/></format> صرت تأمرنا ب‍: <format class=\"ayah\" surah=\"37\" ayah=\"1\" toAyah=\"\">اَلصَّافّٰاتِ‌<format class=\"ayahWord\" fromWord=\"2\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"1\" toAyah=\"\"/></format> فقال: «يا بنيّ‌، لم تقرأ عند مكروب قطّ إلّا عجّل الله تعالى راحته»<lfootnote noteId=\"467\">3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168012,
+          "text": "<footnote id=\"458\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و روى الكليني نحوه في الكافي 5/112:3، باب علل <page number=\"49\"/>الموت و أنّ المؤمن يموت بكلّ ميتة، عن عدّة من أصحابنا، عن سهل بن زياد، عن أحمد بن محمّد بن أبي نصر و الحسن بن محبوب، عن أبي جميلة، عن جابر، عن أبي جعفر عليه السّلام قال: قال رسول الله صلّى الله عليه و آله:...، و الصدوق في من لا يحضره الفقيه 357/134:1، عن رسول الله صلّى الله عليه و آله، و أيضا في ج 363:4، و الطبرسي في مكارم الأخلاق 1/439، ضمن وصيّة النبي صلّى الله عليه و آله لأمير المؤمنين عليه السّلام المشهورة أنّه قال له: «يا علي، موت الفجأة راحة للمؤمن و حسرة للكافر»، و الراوندي في الدعوات 682/242، عن النبي صلّى الله عليه و آله: «موت الفجأة رحمة للمؤمنين و عذاب للكافرين». </footnote>"
+        },
+        {
+          "footnoteId": 714168013,
+          "text": "<footnote id=\"459\"><mnote>(1)</mnote> في النسخة: «الهندي» و الصحيح ما أثبتناه و هو أبو محمّد الهيثم بن أبي مسروق عبد الله النهدي الكوفي. انظر: رجال النجاشي: 1175/427، فهرست الطوسي: 788/498. </footnote>"
+        },
+        {
+          "footnoteId": 714168014,
+          "text": "<footnote id=\"460\"><mnote>(2)</mnote> كلمتان غير مقروءتين. </footnote>"
+        },
+        {
+          "footnoteId": 714168015,
+          "text": "<footnote id=\"461\"><mnote>(3)</mnote> في النسخة: «عن بكر بن الجعفري» و الصحيح ما أثبتناه، و هو بكر بن صالح الرازي، الراوي عن سليمان بن جعفر بن إبراهيم الجعفري. انظر: رجال النجاشي: 276/109، رجال الطوسي: 3/417. </footnote>"
+        },
+        {
+          "footnoteId": 714168016,
+          "text": "<footnote id=\"462\"><mnote>(4)</mnote> يعني مولانا الإمام الكاظم عليه السّلام إذ لم يكن لمولانا الإمام الرضا عليه السّلام ابن مسمّى بالقاسم. انظر: ملاذ الأخيار 218:3. </footnote>"
+        },
+        {
+          "footnoteId": 714168017,
+          "text": "<footnote id=\"463\"><mnote>(5)</mnote> سورة الصافّات 11:37. </footnote>"
+        },
+        {
+          "footnoteId": 714168018,
+          "text": "<footnote id=\"464\"><mnote>(6)</mnote> سجّي بالبناء للمفعول من السّجوّ: السّكون، و تسجية الميت: تغطيته بثوب. كتاب<page number=\"50\"/>العين 162:6، مجمع البحرين 213:1 «سجا». </footnote>"
+        }
+      ],
+      "pageValue": "49",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2310\" paragraph-id=\"2310\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo49\">49</span>\n    <span class=\"hadith\">(1)<span class=\"RevayatIndex\"></span> قال بهذا الهيثم بن أبي مسروق النهدي<span><sup><a class=\"NewFn\" href=\"#footnote459\" title=\"(1)  في النسخة: «الهندي» و الصحيح ما أثبتناه و هو أبو محمّد الهيثم بن أبي مسروق عبد الله النهدي الكوفي. انظر: رجال النجاشي: 1175/427، فهرست الطوسي: 788/498. \">1</a></sup></span><span class=\"FD\">و زاد فيه</span>: «إنّ الله تعالى...<span><sup><a class=\"NewFn\" href=\"#footnote460\" title=\"(2)  كلمتان غير مقروءتين. \">2</a></sup></span> على كلّ حال». </span>\n  </p>\n  <p id=\"p2311\" paragraph-id=\"2311\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] فيما يقال عند المحضور </strong>\n  </p>\n  <p id=\"p2312\" paragraph-id=\"2312\" class=\" G\">[66] </p>\n  <p id=\"p2313\" paragraph-id=\"2313\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن بكر، عن الجعفري<span><sup><a class=\"NewFn\" href=\"#footnote461\" title=\"(3)  في النسخة: «عن بكر بن الجعفري» و الصحيح ما أثبتناه، و هو بكر بن صالح الرازي، الراوي عن سليمان بن جعفر بن إبراهيم الجعفري. انظر: رجال النجاشي: 276/109، رجال الطوسي: 3/417. \">3</a></sup></span>، قال: رأيت <span class=\"Y\"><span class=\"maasoom\">أبا الحسن عليه السّلام</span></span><span><sup><a class=\"NewFn\" href=\"#footnote462\" title=\"(4)  يعني مولانا الإمام الكاظم عليه السّلام إذ لم يكن لمولانا الإمام الرضا عليه السّلام ابن مسمّى بالقاسم. انظر: ملاذ الأخيار 218:3. \">4</a></sup></span> يقول للقاسم: </span>«قم يا بنيّ فاقرأ عند رأس أخيك <span style=\"0\" class=\"ayah\" surah=\"37\" ayah=\"1\">وَ اَلصَّافّٰاتِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/37/1\"></a></span></span> حتّى تستتمّها»، فقرأ فلمّا بلغ <span style=\"0\" class=\"ayah\" surah=\"37\" ayah=\"11\">أَ هُمْ أَشَدُّ خَلْقاً أَمْ مَنْ خَلَقْنٰا<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/37/11\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote463\" title=\"(5)  سورة الصافّات 11:37. \">5</a></sup></span> قضى الفتى، فلمّا سجّي<span><sup><a class=\"NewFn\" href=\"#footnote464\" title=\"(6)  سجّي بالبناء للمفعول من السّجوّ: السّكون، و تسجية الميت: تغطيته بثوب. كتاب\">6</a></sup></span> و خرجوا، أقبل عليه يعقوب </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote458\" footnote-id=\"458\"><page number=\"49\" />الموت و أنّ المؤمن يموت بكلّ ميتة، عن عدّة من أصحابنا، عن سهل بن زياد، عن أحمد بن محمّد بن أبي نصر و الحسن بن محبوب، عن أبي جميلة، عن جابر، عن أبي جعفر عليه السّلام قال: قال رسول الله صلّى الله عليه و آله:...، و الصدوق في من لا يحضره الفقيه 357/134:1، عن رسول الله صلّى الله عليه و آله، و أيضا في ج 363:4، و الطبرسي في مكارم الأخلاق 1/439، ضمن وصيّة النبي صلّى الله عليه و آله لأمير المؤمنين عليه السّلام المشهورة أنّه قال له: «يا علي، موت الفجأة راحة للمؤمن و حسرة للكافر»، و الراوندي في الدعوات 682/242، عن النبي صلّى الله عليه و آله: «موت الفجأة رحمة للمؤمنين و عذاب للكافرين». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote459\" footnote-id=\"459\">(1)  في النسخة: «الهندي» و الصحيح ما أثبتناه و هو أبو محمّد الهيثم بن أبي مسروق عبد الله النهدي الكوفي. انظر: رجال النجاشي: 1175/427، فهرست الطوسي: 788/498. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote460\" footnote-id=\"460\">(2)  كلمتان غير مقروءتين. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote461\" footnote-id=\"461\">(3)  في النسخة: «عن بكر بن الجعفري» و الصحيح ما أثبتناه، و هو بكر بن صالح الرازي، الراوي عن سليمان بن جعفر بن إبراهيم الجعفري. انظر: رجال النجاشي: 276/109، رجال الطوسي: 3/417. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote462\" footnote-id=\"462\">(4)  يعني مولانا الإمام الكاظم عليه السّلام إذ لم يكن لمولانا الإمام الرضا عليه السّلام ابن مسمّى بالقاسم. انظر: ملاذ الأخيار 218:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote463\" footnote-id=\"463\">(5)  سورة الصافّات 11:37. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote464\" footnote-id=\"464\">(6)  سجّي بالبناء للمفعول من السّجوّ: السّكون، و تسجية الميت: تغطيته بثوب. كتاب</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "AB07CAB4-DB4F-4E42-B916-4562EA99C41C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

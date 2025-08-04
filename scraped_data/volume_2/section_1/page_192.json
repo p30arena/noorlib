@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 192,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170505,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1760\"><format class=\"hadith\" who=\"6\" Id=\"263\" RevayatIndex=\"784\"><page number=\"192\"/>قال: «و لا بأس بالطيلسان».</format></p>"
+        },
+        {
+          "paragraphId": 714170506,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1761\"><format class=\"hadith\" who=\"6\" Id=\"263\" RevayatIndex=\"784\">قلت: هو خزّ.</format></p>"
+        },
+        {
+          "paragraphId": 714170507,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1762\"><format class=\"hadith\" who=\"6\" Id=\"263\" RevayatIndex=\"784\">فقال: «و ما بأس بالخزّ».</format></p>"
+        },
+        {
+          "paragraphId": 714170508,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1763\"><format class=\"hadith\" who=\"6\" Id=\"263\" RevayatIndex=\"784\">قلت: سداه<lfootnote noteId=\"786\">1</lfootnote> إبريسم.</format></p>"
+        },
+        {
+          "paragraphId": 714170509,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1764\"><format class=\"hadith\" who=\"6\" Id=\"263\" RevayatIndex=\"784\">فقال: «و ما بأس بالإبريسم. لا يكره أن يكون سدى الثوب إبريسم و لا زرّه و لا علمه، إنّما يكره المصمت من الإبريسم للرجال، و لا يكره للنساء»<lfootnote noteId=\"787\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170510,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1765\">[267] </p>"
+        },
+        {
+          "paragraphId": 714170511,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1766\"><format class=\"hadith\" who=\"6\" Id=\"264\" RevayatIndex=\"785\"><format class=\"sanadHadith\">روي عن رشيد النحواني<lfootnote noteId=\"788\">3</lfootnote> قال:</format> اشتريت طيلسانا و لبسته و تزيّنت به، و دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> فقال: «ما هذا اللباس‌؟»</format></p>"
+        },
+        {
+          "paragraphId": 714170512,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1767\"><format class=\"hadith\" who=\"6\" Id=\"264\" RevayatIndex=\"785\">قلت: تجمّلت بين يديك. </format></p>"
+        },
+        {
+          "paragraphId": 714170513,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1768\"><format class=\"hadith\" who=\"6\" Id=\"264\" RevayatIndex=\"785\"><page number=\"193\"/> فقال: «إن كنت لبسته بمعرفة فقد برأت من ذمّتنا، و إن لبسته بلا معرفة فلا تعودنّ‌».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171583,
+          "text": "<footnote id=\"786\"><page number=\"192\"/><mnote>(1)</mnote> في الكافي: «شداه». </footnote>"
+        },
+        {
+          "footnoteId": 714171584,
+          "text": "<footnote id=\"787\"><mnote>(2)</mnote> رواه الكليني بتفاوت يسير في الكافي 5/451:6، باب لبس الخزّ، فقال: أبو علي الأشعري، عن محمّد بن عبد الجبّار، عن صفوان بن يحيى، عن العيص بن القاسم، عن أبي داود يوسف بن إبراهيم، قال: دخلت على أبي عبد الله عليه السّلام، و قريب منه بتفاوت في ج 7/442:6، باب اللباس، عن عدّة من أصحابنا، عن سهل بن زياد، عن محمّد بن عيسى، عن صفوان، عن يوسف بن إبراهيم قال: دخلت على أبي عبد الله عليه السّلام، و روى نحوه العيّاشي مع ذيل في تفسيره 32/15:2، عن يوسف بن إبراهيم قال: دخلت على أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/107، في لبس الخزّ، عن قتيبة بن محمّد قال: قلت لأبي عبد الله عليه السّلام إنّا نلبس الثوب الخزّ و سداه إبريسم‌؟ قال: «لا بأس بالإبريسم إذا كان معه غيره، قد أصيب الحسين عليه السّلام و عليه جبّة خزّ سداها إبريسم». قلت: إنّا نلبس هذه الطيالسة البربرية و صوفها ميّت. قال: «ليس في الصوف روح، ألا ترى أنّه يجزّ و يباع و هو حيّ‌». و لاحظ: دعائم الإسلام 544/153:2. </footnote>"
+        },
+        {
+          "footnoteId": 714171585,
+          "text": "<footnote id=\"788\"><mnote>(3)</mnote> كذا استظهرنا من العبارة و قد تقرأ: «الخواني»، و لكن لم نعثر على اسمه في مصدر.</footnote>"
+        }
+      ],
+      "pageValue": "192",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1760\" paragraph-id=\"1760\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo192\">192</span>قال: «و لا بأس بالطيلسان».</span>\n  </p>\n  <p id=\"p1761\" paragraph-id=\"1761\" class=\" G\">\n    <span class=\"hadith\">قلت: هو خزّ.</span>\n  </p>\n  <p id=\"p1762\" paragraph-id=\"1762\" class=\" G\">\n    <span class=\"hadith\">فقال: «و ما بأس بالخزّ».</span>\n  </p>\n  <p id=\"p1763\" paragraph-id=\"1763\" class=\" G\">\n    <span class=\"hadith\">قلت: سداه<span><sup><a class=\"NewFn\" href=\"#footnote786\" title=\"(1)  في الكافي: «شداه». \">1</a></sup></span> إبريسم.</span>\n  </p>\n  <p id=\"p1764\" paragraph-id=\"1764\" class=\" G\">\n    <span class=\"hadith\">فقال: «و ما بأس بالإبريسم. لا يكره أن يكون سدى الثوب إبريسم و لا زرّه و لا علمه، إنّما يكره المصمت من الإبريسم للرجال، و لا يكره للنساء»<span><sup><a class=\"NewFn\" href=\"#footnote787\" title=\"(2)  رواه الكليني بتفاوت يسير في الكافي 5/451:6، باب لبس الخزّ، فقال: أبو علي الأشعري، عن محمّد بن عبد الجبّار، عن صفوان بن يحيى، عن العيص بن القاسم، عن أبي داود يوسف بن إبراهيم، قال: دخلت على أبي عبد الله عليه السّلام، و قريب منه بتفاوت في ج 7/442:6، باب اللباس، عن عدّة من أصحابنا، عن سهل بن زياد، عن محمّد بن عيسى، عن صفوان، عن يوسف بن إبراهيم قال: دخلت على أبي عبد الله عليه السّلام، و روى نحوه العيّاشي مع ذيل في تفسيره 32/15:2، عن يوسف بن إبراهيم قال: دخلت على أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/107، في لبس الخزّ، عن قتيبة بن محمّد قال: قلت لأبي عبد الله عليه السّلام إنّا نلبس الثوب الخزّ و سداه إبريسم‌؟ قال: «لا بأس بالإبريسم إذا كان معه غيره، قد أصيب الحسين عليه السّلام و عليه جبّة خزّ سداها إبريسم». قلت: إنّا نلبس هذه الطيالسة البربرية و صوفها ميّت. قال: «ليس في الصوف روح، ألا ترى أنّه يجزّ و يباع و هو حيّ‌». و لاحظ: دعائم الإسلام 544/153:2. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1765\" paragraph-id=\"1765\" class=\" G\">[267] </p>\n  <p id=\"p1766\" paragraph-id=\"1766\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن رشيد النحواني<span><sup><a class=\"NewFn\" href=\"#footnote788\" title=\"(3)  كذا استظهرنا من العبارة و قد تقرأ: «الخواني»، و لكن لم نعثر على اسمه في مصدر.\">3</a></sup></span> قال:</span> اشتريت طيلسانا و لبسته و تزيّنت به، و دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> فقال: «ما هذا اللباس‌؟»</span>\n  </p>\n  <p id=\"p1767\" paragraph-id=\"1767\" class=\" G\">\n    <span class=\"hadith\">قلت: تجمّلت بين يديك. </span>\n  </p>\n  <p id=\"p1768\" paragraph-id=\"1768\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote786\" footnote-id=\"786\">(1) <page number=\"192\" /> في الكافي: «شداه». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote787\" footnote-id=\"787\">(2)  رواه الكليني بتفاوت يسير في الكافي 5/451:6، باب لبس الخزّ، فقال: أبو علي الأشعري، عن محمّد بن عبد الجبّار، عن صفوان بن يحيى، عن العيص بن القاسم، عن أبي داود يوسف بن إبراهيم، قال: دخلت على أبي عبد الله عليه السّلام، و قريب منه بتفاوت في ج 7/442:6، باب اللباس، عن عدّة من أصحابنا، عن سهل بن زياد، عن محمّد بن عيسى، عن صفوان، عن يوسف بن إبراهيم قال: دخلت على أبي عبد الله عليه السّلام، و روى نحوه العيّاشي مع ذيل في تفسيره 32/15:2، عن يوسف بن إبراهيم قال: دخلت على أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/107، في لبس الخزّ، عن قتيبة بن محمّد قال: قلت لأبي عبد الله عليه السّلام إنّا نلبس الثوب الخزّ و سداه إبريسم‌؟ قال: «لا بأس بالإبريسم إذا كان معه غيره، قد أصيب الحسين عليه السّلام و عليه جبّة خزّ سداها إبريسم». قلت: إنّا نلبس هذه الطيالسة البربرية و صوفها ميّت. قال: «ليس في الصوف روح، ألا ترى أنّه يجزّ و يباع و هو حيّ‌». و لاحظ: دعائم الإسلام 544/153:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote788\" footnote-id=\"788\">(3)  كذا استظهرنا من العبارة و قد تقرأ: «الخواني»، و لكن لم نعثر على اسمه في مصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "72ECB996-F68D-46D1-9DE4-C94433DFA5F4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

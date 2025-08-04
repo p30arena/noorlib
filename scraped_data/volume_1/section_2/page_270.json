@@ -1,0 +1,115 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 270,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167657,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3403\"><page number=\"270\"/>[436] </p>"
+        },
+        {
+          "paragraphId": 714167658,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3404\"><format class=\"hadith\" who=\"6\" Id=\"431\" RevayatIndex=\"431\"><format class=\"sanadHadith\">روى معاوية بن وهب</format> أنّه شكا إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> وجعا في ظهره و يبوسة.</format></p>"
+        },
+        {
+          "paragraphId": 714167659,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3405\"><format class=\"hadith\" who=\"6\" Id=\"431\" RevayatIndex=\"431\">فقال: «كلّ يوم اشرب وزن ثلاثين درهما دهن السمسم الطري على ماء بارد».</format></p>"
+        },
+        {
+          "paragraphId": 714167660,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3406\"><format class=\"hadith\" who=\"6\" Id=\"431\" RevayatIndex=\"431\">ففعلت فسكن عنّي<lfootnote noteId=\"1482\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167661,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3407\">[437] </p>"
+        },
+        {
+          "paragraphId": 714167662,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3408\"><format class=\"hadith\" who=\"8\" Id=\"432\" RevayatIndex=\"432\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن الحسين بن أبي الخطّاب، عن ابن أبي نصر، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format> قال: </format>«الحمّص جيّد لوجع الظهر».</format></p>"
+        },
+        {
+          "paragraphId": 714167663,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3409\"><format class=\"hadith\" who=\"8\" Id=\"432\" RevayatIndex=\"432\">و كان يدعو به<lfootnote noteId=\"1483\">2</lfootnote> قبل الطعام و بعده<lfootnote noteId=\"1484\">3</lfootnote><lfootnote noteId=\"1485\"> 4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167664,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3410\"><heading level=\"2\">[باب] في الورك و القدمين </heading></p>"
+        },
+        {
+          "paragraphId": 714167665,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3411\">[438] </p>"
+        },
+        {
+          "paragraphId": 714167666,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"3412\"><format class=\"hadith\" who=\"8|7|10\" Id=\"433\" RevayatIndex=\"433\"><format class=\"sanadHadith\">روي أنّ رجلا شكا إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8|7|10\">أبي الحسن عليه السّلام</format></format> وجعا في وركه.</format></format></p>"
+        },
+        {
+          "paragraphId": 714167667,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"3413\"><format class=\"hadith\" who=\"8|7|10\" Id=\"433\" RevayatIndex=\"433\"><format class=\"sanadHadith\">فقال: </format>«الزم أكل اللوز الحلو، و اغتسل بالماء البارد، و كل البيض و السمك <page number=\"271\"/> الطري المشويّ و الهندباء، و افتصد القيفال<lfootnote noteId=\"1486\">1</lfootnote>» ففعل ما أمره فوهب الله تعالى له العافية<lfootnote noteId=\"1487\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169437,
+          "text": "<footnote id=\"1482\"><page number=\"270\"/><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169438,
+          "text": "<footnote id=\"1483\"><mnote>(2)</mnote> كلمة: «به» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169439,
+          "text": "<footnote id=\"1484\"><mnote>(3)</mnote> قال المجلسي: كأنّه ردّ على الأطبّاء حيث خصّوا نفعه بأكله وسط الطعام، قال في القاموس: الحمّص كحلز و قنب حبّ معروف نافخ مليّن مدرّ يزيد في المني و الشهوة و الدم، مقوّ للبدن و الذكر بشرط أن لا يؤكل قبل الطعام و لا بعده بل في وسطه. بحار الأنوار 263:63. </footnote>"
+        },
+        {
+          "footnoteId": 714169440,
+          "text": "<footnote id=\"1485\"><mnote>(4)</mnote> رواه البرقي في المحاسن 1/505:2، باب الحمّص - و عنه الكليني في الكافي 4/342:6، باب الحمّص، فقال: عنه أي: عن البرقي بالإسناد الذي ذكره في الحديث الثالث، فقال:<br/>عدّة من أصحابنا، عن أحمد بن محمّد بن خالد - عن أحمد بن أبي نصر، عن أبي الحسن الرضا عليه السّلام، و الطبرسي نحوه في مكارم الأخلاق: 1/187، فقال: في الحمّص، عن الصادق عليه السّلام أنّه ذكر عنده الحمّص فقال: «هو جيّد لوجع الظهر».</footnote>"
+        }
+      ],
+      "pageValue": "270",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3403\" paragraph-id=\"3403\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo270\">270</span>[436] </p>\n  <p id=\"p3404\" paragraph-id=\"3404\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى معاوية بن وهب</span> أنّه شكا إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> وجعا في ظهره و يبوسة.</span>\n  </p>\n  <p id=\"p3405\" paragraph-id=\"3405\" class=\" G\">\n    <span class=\"hadith\">فقال: «كلّ يوم اشرب وزن ثلاثين درهما دهن السمسم الطري على ماء بارد».</span>\n  </p>\n  <p id=\"p3406\" paragraph-id=\"3406\" class=\" G\">\n    <span class=\"hadith\">ففعلت فسكن عنّي<span><sup><a class=\"NewFn\" href=\"#footnote1482\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3407\" paragraph-id=\"3407\" class=\" G\">[437] </p>\n  <p id=\"p3408\" paragraph-id=\"3408\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن الحسين بن أبي الخطّاب، عن ابن أبي نصر، عن <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span> قال: </span>«الحمّص جيّد لوجع الظهر».</span>\n  </p>\n  <p id=\"p3409\" paragraph-id=\"3409\" class=\" G\">\n    <span class=\"hadith\">و كان يدعو به<span><sup><a class=\"NewFn\" href=\"#footnote1483\" title=\"(2)  كلمة: «به» أثبتناها من المصدر. \">2</a></sup></span> قبل الطعام و بعده<span><sup><a class=\"NewFn\" href=\"#footnote1484\" title=\"(3)  قال المجلسي: كأنّه ردّ على الأطبّاء حيث خصّوا نفعه بأكله وسط الطعام، قال في القاموس: الحمّص كحلز و قنب حبّ معروف نافخ مليّن مدرّ يزيد في المني و الشهوة و الدم، مقوّ للبدن و الذكر بشرط أن لا يؤكل قبل الطعام و لا بعده بل في وسطه. بحار الأنوار 263:63. \">3</a></sup></span><span><sup><a class=\"NewFn\" href=\"#footnote1485\" title=\"(4)  رواه البرقي في المحاسن 1/505:2، باب الحمّص - و عنه الكليني في الكافي 4/342:6، باب الحمّص، فقال: عنه أي: عن البرقي بالإسناد الذي ذكره في الحديث الثالث، فقال:عدّة من أصحابنا، عن أحمد بن محمّد بن خالد - عن أحمد بن أبي نصر، عن أبي الحسن الرضا عليه السّلام، و الطبرسي نحوه في مكارم الأخلاق: 1/187، فقال: في الحمّص، عن الصادق عليه السّلام أنّه ذكر عنده الحمّص فقال: «هو جيّد لوجع الظهر».\"> 4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3410\" paragraph-id=\"3410\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الورك و القدمين </strong>\n  </p>\n  <p id=\"p3411\" paragraph-id=\"3411\" class=\" G\">[438] </p>\n  <p id=\"p3412\" paragraph-id=\"3412\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي أنّ رجلا شكا إلى <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> وجعا في وركه.</span>\n    </span>\n  </p>\n  <p id=\"p3413\" paragraph-id=\"3413\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فقال: </span>«الزم أكل اللوز الحلو، و اغتسل بالماء البارد، و كل البيض و السمك </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1482\" footnote-id=\"1482\">(1) <page number=\"270\" /> لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1483\" footnote-id=\"1483\">(2)  كلمة: «به» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1484\" footnote-id=\"1484\">(3)  قال المجلسي: كأنّه ردّ على الأطبّاء حيث خصّوا نفعه بأكله وسط الطعام، قال في القاموس: الحمّص كحلز و قنب حبّ معروف نافخ مليّن مدرّ يزيد في المني و الشهوة و الدم، مقوّ للبدن و الذكر بشرط أن لا يؤكل قبل الطعام و لا بعده بل في وسطه. بحار الأنوار 263:63. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1485\" footnote-id=\"1485\">(4)  رواه البرقي في المحاسن 1/505:2، باب الحمّص - و عنه الكليني في الكافي 4/342:6، باب الحمّص، فقال: عنه أي: عن البرقي بالإسناد الذي ذكره في الحديث الثالث، فقال:<br />عدّة من أصحابنا، عن أحمد بن محمّد بن خالد - عن أحمد بن أبي نصر، عن أبي الحسن الرضا عليه السّلام، و الطبرسي نحوه في مكارم الأخلاق: 1/187، فقال: في الحمّص، عن الصادق عليه السّلام أنّه ذكر عنده الحمّص فقال: «هو جيّد لوجع الظهر».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "259443F6-72A9-428E-80A6-84CD3920161D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

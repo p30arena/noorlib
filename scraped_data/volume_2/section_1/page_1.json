@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 1,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169700,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"955\"><page number=\"1\"/><heading level=\"1\">الجزء الثّاني</heading></p>"
+        },
+        {
+          "paragraphId": 714169701,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"956\"><format class=\"BeginIntroduction\" type=\"12\"/> بسم الله الرّحمن الرّحيم</p>"
+        },
+        {
+          "paragraphId": 714169702,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"957\">طبّ الأئمّة الصّادقين</p>"
+        },
+        {
+          "paragraphId": 714169703,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"958\"><page number=\"2\"/><img src=\"BK126314G002S1P2\" alt=\"\" imgtype=\"Scan\"/><page number=\"3\"/><img src=\"BK126314G002S1P3\" alt=\"\" imgtype=\"Scan\"/><page number=\"4\"/><img src=\"BK126314G002S1P4\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"12\"/><page number=\"5\"/><format class=\"q\"><format class=\"a\">بسم الله الرّحمن الرّحيم و به أستعين</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "1",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p955\" paragraph-id=\"955\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo1\">1</span>\n    <strong style=\"0\" class=\"h-1 01\">الجزء الثّاني</strong>\n  </p>\n  <p id=\"p956\" paragraph-id=\"956\" class=\" G\">\n    <span class=\"BeginIntroduction\"></span> بسم الله الرّحمن الرّحيم</p>\n  <p id=\"p957\" paragraph-id=\"957\" class=\" G\">طبّ الأئمّة الصّادقين</p>\n  <p id=\"p958\" paragraph-id=\"958\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "3534256A-9996-42D0-85BC-846C4F6773B3",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 159,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167243,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2840\"><page number=\"159\"/><heading level=\"2\">[باب] في الشبكور </heading></p>"
+        },
+        {
+          "paragraphId": 714167244,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2841\">[243] </p>"
+        },
+        {
+          "paragraphId": 714167245,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2842\"><format class=\"hadith\" who=\"7\" Id=\"241\" RevayatIndex=\"241\"><format class=\"sanadHadith\">روى محمّد بن أحمد بن يحيى، عن محمّد بن الحسين، عن الحسن بن علي بن<lfootnote noteId=\"973\">1</lfootnote> أبي عثمان، عن أبي يوسف المعصّب، قال:</format> قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">لأبي الحسن الأوّل عليه السّلام</format></format>: أشكو إليك ما أجد في بصري، و قد صرت شبكورا، فإن رأيت أن تعلّمني شيئا!</format></p>"
+        },
+        {
+          "paragraphId": 714167246,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2843\"><format class=\"hadith\" who=\"7\" Id=\"241\" RevayatIndex=\"241\">قال: «اكتب هذه الآية: <format class=\"ayah\" surah=\"24\" ayah=\"35\" toAyah=\"\">اَللّٰهُ نُورُ اَلسَّمٰاوٰاتِ وَ اَلْأَرْضِ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"24\" ayah=\"35\" toAyah=\"\"/></format><lfootnote noteId=\"974\">2</lfootnote> الآية ثلاث<lfootnote noteId=\"975\">3</lfootnote>مرّات في جام، ثمّ اغسله و صيّره في قارورة، و اكتحل به».</format></p>"
+        },
+        {
+          "paragraphId": 714167247,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2844\"><format class=\"hadith\" who=\"7\" Id=\"241\" RevayatIndex=\"241\">فقال: فما اكتحلت به<lfootnote noteId=\"976\">4</lfootnote> إلّا أقلّ من مائة ميل، حتّى رجع بصري أصحّ ما كان - أو قال: ما كنت -<lfootnote noteId=\"977\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167248,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2845\"><heading level=\"2\">[باب] في الغشاوة و الدمعة و الحكّة و كلّ آفات العين </heading></p>"
+        },
+        {
+          "paragraphId": 714167249,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2846\">[244] </p>"
+        },
+        {
+          "paragraphId": 714167250,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2847\"><format class=\"hadith\" who=\"8\" Id=\"242\" RevayatIndex=\"242\"><format class=\"sanadHadith\">روى محمّد بن موسى، قال: حدّثني الحسين بن علي الشهرزوري، عن محمّد بن إسماعيل بن بزيع، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format>، قال: </format>«وجع في العين من الغشاوة و الدمعة و الحكّة و غير ذلك من آفات العين». </format></p>"
+        },
+        {
+          "paragraphId": 714167251,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2848\"><page number=\"160\"/><heading level=\"3\">أخلاطه:</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168928,
+          "text": "<footnote id=\"973\"><page number=\"159\"/><mnote>(1)</mnote> قوله: «الحسن بن علي بن» أثبتناه من المصادر بقرينة الراوي و المروي عنه، و الرجل هو:<br/>أبو الحسن بن علي بن أبي عثمان الملّقب ب‍: «سجّادة»، رجال النجاشي: 141/61، و الفهرست للطوسي: 165/124. </footnote>"
+        },
+        {
+          "footnoteId": 714168929,
+          "text": "<footnote id=\"974\"><mnote>(2)</mnote> سورة النور 35:24. </footnote>"
+        },
+        {
+          "footnoteId": 714168930,
+          "text": "<footnote id=\"975\"><mnote>(3)</mnote> كلمة: «ثلاث» أثبتناها من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714168931,
+          "text": "<footnote id=\"976\"><mnote>(4)</mnote> في النسخة: «فاكتحلت به» و ما أثبتناه من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714168932,
+          "text": "<footnote id=\"977\"><mnote>(5)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/375، للشبكور، عن أبي يوسف المعصّب. </footnote>"
+        }
+      ],
+      "pageValue": "159",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2840\" paragraph-id=\"2840\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo159\">159</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الشبكور </strong>\n  </p>\n  <p id=\"p2841\" paragraph-id=\"2841\" class=\" G\">[243] </p>\n  <p id=\"p2842\" paragraph-id=\"2842\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن أحمد بن يحيى، عن محمّد بن الحسين، عن الحسن بن علي بن<span><sup><a class=\"NewFn\" href=\"#footnote973\" title=\"(1)  قوله: «الحسن بن علي بن» أثبتناه من المصادر بقرينة الراوي و المروي عنه، و الرجل هو:أبو الحسن بن علي بن أبي عثمان الملّقب ب‍: «سجّادة»، رجال النجاشي: 141/61، و الفهرست للطوسي: 165/124. \">1</a></sup></span> أبي عثمان، عن أبي يوسف المعصّب، قال:</span> قلت <span class=\"Y\"><span class=\"maasoom\">لأبي الحسن الأوّل عليه السّلام</span></span>: أشكو إليك ما أجد في بصري، و قد صرت شبكورا، فإن رأيت أن تعلّمني شيئا!</span>\n  </p>\n  <p id=\"p2843\" paragraph-id=\"2843\" class=\" G\">\n    <span class=\"hadith\">قال: «اكتب هذه الآية: <span style=\"0\" class=\"ayah\" surah=\"24\" ayah=\"35\">اَللّٰهُ نُورُ اَلسَّمٰاوٰاتِ وَ اَلْأَرْضِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/24/35\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote974\" title=\"(2)  سورة النور 35:24. \">2</a></sup></span> الآية ثلاث<span><sup><a class=\"NewFn\" href=\"#footnote975\" title=\"(3)  كلمة: «ثلاث» أثبتناها من مكارم الأخلاق. \">3</a></sup></span>مرّات في جام، ثمّ اغسله و صيّره في قارورة، و اكتحل به».</span>\n  </p>\n  <p id=\"p2844\" paragraph-id=\"2844\" class=\" G\">\n    <span class=\"hadith\">فقال: فما اكتحلت به<span><sup><a class=\"NewFn\" href=\"#footnote976\" title=\"(4)  في النسخة: «فاكتحلت به» و ما أثبتناه من مكارم الأخلاق. \">4</a></sup></span> إلّا أقلّ من مائة ميل، حتّى رجع بصري أصحّ ما كان - أو قال: ما كنت -<span><sup><a class=\"NewFn\" href=\"#footnote977\" title=\"(5)  رواه الطبرسي في مكارم الأخلاق: 1/375، للشبكور، عن أبي يوسف المعصّب. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2845\" paragraph-id=\"2845\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الغشاوة و الدمعة و الحكّة و كلّ آفات العين </strong>\n  </p>\n  <p id=\"p2846\" paragraph-id=\"2846\" class=\" G\">[244] </p>\n  <p id=\"p2847\" paragraph-id=\"2847\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن موسى، قال: حدّثني الحسين بن علي الشهرزوري، عن محمّد بن إسماعيل بن بزيع، عن <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span>، قال: </span>«وجع في العين من الغشاوة و الدمعة و الحكّة و غير ذلك من آفات العين». </span>\n  </p>\n  <p id=\"p2848\" paragraph-id=\"2848\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote973\" footnote-id=\"973\">(1) <page number=\"159\" /> قوله: «الحسن بن علي بن» أثبتناه من المصادر بقرينة الراوي و المروي عنه، و الرجل هو:<br />أبو الحسن بن علي بن أبي عثمان الملّقب ب‍: «سجّادة»، رجال النجاشي: 141/61، و الفهرست للطوسي: 165/124. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote974\" footnote-id=\"974\">(2)  سورة النور 35:24. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote975\" footnote-id=\"975\">(3)  كلمة: «ثلاث» أثبتناها من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote976\" footnote-id=\"976\">(4)  في النسخة: «فاكتحلت به» و ما أثبتناه من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote977\" footnote-id=\"977\">(5)  رواه الطبرسي في مكارم الأخلاق: 1/375، للشبكور، عن أبي يوسف المعصّب. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "7BC76FBF-71BF-4843-8CE7-A0EF41105B97",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

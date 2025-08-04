@@ -1,0 +1,121 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 55,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169928,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1183\"><format class=\"hadith\" who=\"6\" Id=\"75\" RevayatIndex=\"596\"><page number=\"55\"/> فقال<lfootnote noteId=\"204\">1</lfootnote>: أطعموني شيئا و اسقوني شيئا، فسقيناه سويقا، فلم أبرح من عنده حتّى تكلّم و جلس<lfootnote noteId=\"205\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169929,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1184\"><heading level=\"2\">[باب] الحجامة في الساق </heading></p>"
+        },
+        {
+          "paragraphId": 714169930,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1185\">[76] </p>"
+        },
+        {
+          "paragraphId": 714169931,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1186\"><format class=\"hadith\" who=\"8\" Id=\"76\" RevayatIndex=\"597\"><format class=\"sanadHadith\">سهل بن زياد، عن محمّد بن الحسين، عن علي بن أسباط، عن علي بن جعفر، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبي الحسن عليّ عليه السّلام</format></format>، قال: </format>«الحجامة على الساق شبر من العقب أو أربع أصابع من فوق العقب هو أزيد له»<lfootnote noteId=\"206\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169932,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1187\"><heading level=\"2\">[باب] الحجامة في الرجلين </heading></p>"
+        },
+        {
+          "paragraphId": 714169933,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1188\">[77] </p>"
+        },
+        {
+          "paragraphId": 714169934,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1189\"><format class=\"hadith\" who=\"6\" Id=\"77\" RevayatIndex=\"598\"><format class=\"sanadHadith\">و روي</format> أنّ رجلا شكا إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> الحكّة، فقال له: «شربت الدواء؟» قال: نعم.</format></p>"
+        },
+        {
+          "paragraphId": 714169935,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1190\"><format class=\"hadith\" who=\"6\" Id=\"77\" RevayatIndex=\"598\">فقال: «فصدت العرق‌؟» قال: نعم، فلم أنتفع به.</format></p>"
+        },
+        {
+          "paragraphId": 714169936,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1191\"><format class=\"hadith\" who=\"6\" Id=\"77\" RevayatIndex=\"598\">فقال: «احتجم ثلاث مرّات في الرجلين جميعا فيما بين العرقوب و الكعب» ففعل فذهب عنه<lfootnote noteId=\"207\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169937,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1192\"><heading level=\"2\">[باب] الحجامة بين الوركين </heading></p>"
+        },
+        {
+          "paragraphId": 714169938,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1193\">[78] </p>"
+        },
+        {
+          "paragraphId": 714169939,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1194\"><format class=\"hadith\" who=\"7|8\" Id=\"78\" RevayatIndex=\"599\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، و قال غيره، يروي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8\">أبي الحسن عليه السّلام </format></format><page number=\"56\"/> أنّه قال: </format>«الحجامة بين الوركين تزيد في طمث المرأة و تغلق الرحم و تبرّده»<lfootnote noteId=\"208\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170988,
+          "text": "<footnote id=\"204\"><page number=\"55\"/><mnote>(1)</mnote> حصل قفز في أوراق المخطوطة هنا من ص 213-222. </footnote>"
+        },
+        {
+          "footnoteId": 714170989,
+          "text": "<footnote id=\"205\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفرّة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714170990,
+          "text": "<footnote id=\"206\"><mnote>(3)</mnote> كذا في النسخة و لم نعثر عليه في المصادر المتوفّرة لدينا.<br/>قال ابن سهل الطبري في فردوس الحكمة في الطبّ‌: 155: و إن كان من دم فاسد احتجم على الساق فوق الكعب بمقدار شبر. </footnote>"
+        },
+        {
+          "footnoteId": 714170991,
+          "text": "<footnote id=\"207\"><mnote>(4)</mnote> تقدّم نحوه في الحديث 10 و 11 من هذا الجزء، راجع مصادره هناك.</footnote>"
+        }
+      ],
+      "pageValue": "55",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1183\" paragraph-id=\"1183\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo55\">55</span> فقال<span><sup><a class=\"NewFn\" href=\"#footnote204\" title=\"(1)  حصل قفز في أوراق المخطوطة هنا من ص 213-222. \">1</a></sup></span>: أطعموني شيئا و اسقوني شيئا، فسقيناه سويقا، فلم أبرح من عنده حتّى تكلّم و جلس<span><sup><a class=\"NewFn\" href=\"#footnote205\" title=\"(2)  لم نعثر عليه في المصادر المتوفرّة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1184\" paragraph-id=\"1184\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الحجامة في الساق </strong>\n  </p>\n  <p id=\"p1185\" paragraph-id=\"1185\" class=\" G\">[76] </p>\n  <p id=\"p1186\" paragraph-id=\"1186\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سهل بن زياد، عن محمّد بن الحسين، عن علي بن أسباط، عن علي بن جعفر، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليّ عليه السّلام</span></span>، قال: </span>«الحجامة على الساق شبر من العقب أو أربع أصابع من فوق العقب هو أزيد له»<span><sup><a class=\"NewFn\" href=\"#footnote206\" title=\"(3)  كذا في النسخة و لم نعثر عليه في المصادر المتوفّرة لدينا.قال ابن سهل الطبري في فردوس الحكمة في الطبّ‌: 155: و إن كان من دم فاسد احتجم على الساق فوق الكعب بمقدار شبر. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1187\" paragraph-id=\"1187\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الحجامة في الرجلين </strong>\n  </p>\n  <p id=\"p1188\" paragraph-id=\"1188\" class=\" G\">[77] </p>\n  <p id=\"p1189\" paragraph-id=\"1189\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي</span> أنّ رجلا شكا إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> الحكّة، فقال له: «شربت الدواء؟» قال: نعم.</span>\n  </p>\n  <p id=\"p1190\" paragraph-id=\"1190\" class=\" G\">\n    <span class=\"hadith\">فقال: «فصدت العرق‌؟» قال: نعم، فلم أنتفع به.</span>\n  </p>\n  <p id=\"p1191\" paragraph-id=\"1191\" class=\" G\">\n    <span class=\"hadith\">فقال: «احتجم ثلاث مرّات في الرجلين جميعا فيما بين العرقوب و الكعب» ففعل فذهب عنه<span><sup><a class=\"NewFn\" href=\"#footnote207\" title=\"(4)  تقدّم نحوه في الحديث 10 و 11 من هذا الجزء، راجع مصادره هناك.\">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1192\" paragraph-id=\"1192\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الحجامة بين الوركين </strong>\n  </p>\n  <p id=\"p1193\" paragraph-id=\"1193\" class=\" G\">[78] </p>\n  <p id=\"p1194\" paragraph-id=\"1194\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، و قال غيره، يروي عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام </span></span></span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote204\" footnote-id=\"204\">(1) <page number=\"55\" /> حصل قفز في أوراق المخطوطة هنا من ص 213-222. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote205\" footnote-id=\"205\">(2)  لم نعثر عليه في المصادر المتوفرّة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote206\" footnote-id=\"206\">(3)  كذا في النسخة و لم نعثر عليه في المصادر المتوفّرة لدينا.<br />قال ابن سهل الطبري في فردوس الحكمة في الطبّ‌: 155: و إن كان من دم فاسد احتجم على الساق فوق الكعب بمقدار شبر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote207\" footnote-id=\"207\">(4)  تقدّم نحوه في الحديث 10 و 11 من هذا الجزء، راجع مصادره هناك.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "9A594AA5-F2C8-4D72-AD46-0B1325E78495",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

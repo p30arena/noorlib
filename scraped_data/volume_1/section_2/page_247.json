@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 247,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167551,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3297\"><format class=\"hadith\" who=\"8\" Id=\"396\" RevayatIndex=\"396\"><format class=\"sanadHadith\">سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبا الحسن عليه السّلام</format></format> يقول: </format>«ألا أدلّكم على دواء البطن الذي يأتي صاحبه منه ما لا يغلبه<lfootnote noteId=\"1368\">1</lfootnote> مع مغص<lfootnote noteId=\"1369\">2</lfootnote> و تلوّي<lfootnote noteId=\"1370\">3</lfootnote>؟ تأخذ جوزة فتطرحها في النار حتّى يظنّ <page number=\"247\"/>أنّها قد غيّرت ما في جوفها، و تقشّرها و تأكلها، فإنّه يسكن بإذن الله تعالى»<lfootnote noteId=\"1371\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167552,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3298\">[400] </p>"
+        },
+        {
+          "paragraphId": 714167553,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3299\"><format class=\"hadith\" who=\"6\" Id=\"397\" RevayatIndex=\"397\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن نضر بن سويد، عن محمّد بن إسماعيل، عن محمّد بن مروان، قال:</format></format></p>"
+        },
+        {
+          "paragraphId": 714167554,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3300\"><format class=\"hadith\" who=\"6\" Id=\"397\" RevayatIndex=\"397\">كنت عند <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> و به بطن ذريع، فانصرفت من عنده عشيّة<lfootnote noteId=\"1372\">2</lfootnote> و أنا من أشفق الناس عليه، فأتيته من الغد<lfootnote noteId=\"1373\">3</lfootnote> فوجدته قد سكن ما به، فقلت له: جعلت<lfootnote noteId=\"1374\">4</lfootnote>فداك، فارقتك عشيّة أمس و بك من<lfootnote noteId=\"1375\">5</lfootnote> البطن أمر ذريع‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714167555,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3301\"><format class=\"hadith\" who=\"6\" Id=\"397\" RevayatIndex=\"397\">فقال: «إنّي أمرت بالأرزّ فغسل و جفّف و دقّ فاستففته فأمسك بطني»<lfootnote noteId=\"1376\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167556,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3302\"><page number=\"248\"/>[401] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169325,
+          "text": "<footnote id=\"1370\"><mnote>(3)</mnote> قال الهروي: اللوى بفتحتين، قال العلّامة: اعلم أنّ كثيرا ما يزيد الإنسان أيّاما في الطعام<page number=\"247\"/>و الشراب و يقلّل الرياضة فيمتلئ لذلك بدنه و تجتمع في عروقه و عضله رياح و بخارات و يحسّ في نفسه إعياء بسبب كثرة الرياح و البخار، فيتمدد العضل و العروق فتتلوى نفسه و يتمطّى و يتثاءب و يحمرّ الوجه و العين، و يسمّى هذا الحال: اللوى. بحر الجواهر: 333. </footnote>"
+        },
+        {
+          "footnoteId": 714169326,
+          "text": "<footnote id=\"1371\"><mnote>(1)</mnote> روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 101، فقالا: في المغص: أيّوب بن عمر، قال: حدّثنا محمّد بن عيسى، عن كامل، عن محمّد بن إبراهيم الجعفي، قال: شكا رجل إلى أبي الحسن علي بن موسى الرضا عليه السّلام مغصا كاد يقتله و سأله أن يدعو الله عزّ و جلّ له فقد أعياه كثرة ما يتّخذ له من الأودية و ليس ينفعه ذلك بل يزداد عليه شدّة، قال: فتبسّم صلوات الله عليه و قال: «ويحك إنّ دعاءنا من الله بمكان و إنّي أسال الله أن يخفّف عنك بحوله و قوته، فإذا اشتدّ بك الأمر و التويت منه فخذ جوزة و اطرحها على النار حتى تعلم أنّها قد اشتوى ما في جوفها و غيّرت النار قشرها، كلها فإنّها تسكن من ساعتها» قال: فو الله ما فعلت ذلك إلّا مرّة واحدة فسكن عنّي المغص بإذن الله عزّ و جلّ‌. </footnote>"
+        },
+        {
+          "footnoteId": 714169327,
+          "text": "<footnote id=\"1372\"><mnote>(2)</mnote> كلمة: «عشية» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169328,
+          "text": "<footnote id=\"1373\"><mnote>(3)</mnote> في النسخة: «و أتيته عليه» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169329,
+          "text": "<footnote id=\"1374\"><mnote>(4)</mnote> قوله: «له جعلت» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169330,
+          "text": "<footnote id=\"1375\"><mnote>(5)</mnote> كلمة: «من» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169331,
+          "text": "<footnote id=\"1376\"><mnote>(6)</mnote> رواه البرقي في المحاسن 6/503:2، باب الأرز، عن أبيه، عن النضر بن سويد. </footnote>"
+        }
+      ],
+      "pageValue": "247",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3297\" paragraph-id=\"3297\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo247\">247</span>أنّها قد غيّرت ما في جوفها، و تقشّرها و تأكلها، فإنّه يسكن بإذن الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote1371\" title=\"(1)  روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 101، فقالا: في المغص: أيّوب بن عمر، قال: حدّثنا محمّد بن عيسى، عن كامل، عن محمّد بن إبراهيم الجعفي، قال: شكا رجل إلى أبي الحسن علي بن موسى الرضا عليه السّلام مغصا كاد يقتله و سأله أن يدعو الله عزّ و جلّ له فقد أعياه كثرة ما يتّخذ له من الأودية و ليس ينفعه ذلك بل يزداد عليه شدّة، قال: فتبسّم صلوات الله عليه و قال: «ويحك إنّ دعاءنا من الله بمكان و إنّي أسال الله أن يخفّف عنك بحوله و قوته، فإذا اشتدّ بك الأمر و التويت منه فخذ جوزة و اطرحها على النار حتى تعلم أنّها قد اشتوى ما في جوفها و غيّرت النار قشرها، كلها فإنّها تسكن من ساعتها» قال: فو الله ما فعلت ذلك إلّا مرّة واحدة فسكن عنّي المغص بإذن الله عزّ و جلّ‌. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3298\" paragraph-id=\"3298\" class=\" G\">[400] </p>\n  <p id=\"p3299\" paragraph-id=\"3299\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن نضر بن سويد، عن محمّد بن إسماعيل، عن محمّد بن مروان، قال:</span>\n    </span>\n  </p>\n  <p id=\"p3300\" paragraph-id=\"3300\" class=\" G\">\n    <span class=\"hadith\">كنت عند <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> و به بطن ذريع، فانصرفت من عنده عشيّة<span><sup><a class=\"NewFn\" href=\"#footnote1372\" title=\"(2)  كلمة: «عشية» أثبتناها من المصدر. \">2</a></sup></span> و أنا من أشفق الناس عليه، فأتيته من الغد<span><sup><a class=\"NewFn\" href=\"#footnote1373\" title=\"(3)  في النسخة: «و أتيته عليه» و ما أثبتناه من المصدر. \">3</a></sup></span> فوجدته قد سكن ما به، فقلت له: جعلت<span><sup><a class=\"NewFn\" href=\"#footnote1374\" title=\"(4)  قوله: «له جعلت» أثبتناه من المصدر. \">4</a></sup></span>فداك، فارقتك عشيّة أمس و بك من<span><sup><a class=\"NewFn\" href=\"#footnote1375\" title=\"(5)  كلمة: «من» أثبتناها من المصدر. \">5</a></sup></span> البطن أمر ذريع‌؟</span>\n  </p>\n  <p id=\"p3301\" paragraph-id=\"3301\" class=\" G\">\n    <span class=\"hadith\">فقال: «إنّي أمرت بالأرزّ فغسل و جفّف و دقّ فاستففته فأمسك بطني»<span><sup><a class=\"NewFn\" href=\"#footnote1376\" title=\"(6)  رواه البرقي في المحاسن 6/503:2، باب الأرز، عن أبيه، عن النضر بن سويد. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3302\" paragraph-id=\"3302\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1370\" footnote-id=\"1370\"><page number=\"247\" />و الشراب و يقلّل الرياضة فيمتلئ لذلك بدنه و تجتمع في عروقه و عضله رياح و بخارات و يحسّ في نفسه إعياء بسبب كثرة الرياح و البخار، فيتمدد العضل و العروق فتتلوى نفسه و يتمطّى و يتثاءب و يحمرّ الوجه و العين، و يسمّى هذا الحال: اللوى. بحر الجواهر: 333. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1371\" footnote-id=\"1371\">(1)  روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 101، فقالا: في المغص: أيّوب بن عمر، قال: حدّثنا محمّد بن عيسى، عن كامل، عن محمّد بن إبراهيم الجعفي، قال: شكا رجل إلى أبي الحسن علي بن موسى الرضا عليه السّلام مغصا كاد يقتله و سأله أن يدعو الله عزّ و جلّ له فقد أعياه كثرة ما يتّخذ له من الأودية و ليس ينفعه ذلك بل يزداد عليه شدّة، قال: فتبسّم صلوات الله عليه و قال: «ويحك إنّ دعاءنا من الله بمكان و إنّي أسال الله أن يخفّف عنك بحوله و قوته، فإذا اشتدّ بك الأمر و التويت منه فخذ جوزة و اطرحها على النار حتى تعلم أنّها قد اشتوى ما في جوفها و غيّرت النار قشرها، كلها فإنّها تسكن من ساعتها» قال: فو الله ما فعلت ذلك إلّا مرّة واحدة فسكن عنّي المغص بإذن الله عزّ و جلّ‌. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1372\" footnote-id=\"1372\">(2)  كلمة: «عشية» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1373\" footnote-id=\"1373\">(3)  في النسخة: «و أتيته عليه» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1374\" footnote-id=\"1374\">(4)  قوله: «له جعلت» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1375\" footnote-id=\"1375\">(5)  كلمة: «من» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1376\" footnote-id=\"1376\">(6)  رواه البرقي في المحاسن 6/503:2، باب الأرز، عن أبيه، عن النضر بن سويد. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "9DA5E9F3-4A61-4C46-BEB5-1766A74A5A32",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

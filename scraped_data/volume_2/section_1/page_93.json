@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 93,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170095,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1350\"><page number=\"93\"/><heading level=\"2\">[باب] صفة دخنة مباركة<lfootnote noteId=\"359\">1</lfootnote>إذا بخّرت بها في الدار لم يدخلها خبر سوء و لا غيره و سبعين دارا حولها </heading></p>"
+        },
+        {
+          "paragraphId": 714170096,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1351\">[124] </p>"
+        },
+        {
+          "paragraphId": 714170097,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1352\"><format class=\"hadith\" who=\"6\" Id=\"123\" RevayatIndex=\"644\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>: </format>«يؤخذ لبان أبيض، و قسط هندي، و صعتر، و مرّ، و حبّ الحرمل، و لبنى يابس، و مقل أحمر<lfootnote noteId=\"360\">2</lfootnote>،...<lfootnote noteId=\"361\">3</lfootnote> يماني،...<lfootnote noteId=\"362\">4</lfootnote> - و هو جوز الحيّة، يوجد عند الصيادلة - يدقّ و ينخل و يحصر بالنيل...<lfootnote noteId=\"363\">5</lfootnote> و يبخّر به، و هو للعين و الدوابّ و كلّ شيء يصيبه العين و لإمساس...<lfootnote noteId=\"364\">6</lfootnote>»<lfootnote noteId=\"365\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170098,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1353\">[125] </p>"
+        },
+        {
+          "paragraphId": 714170099,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1354\"><format class=\"hadith\" who=\"13,37,32,16\" Id=\"124\" RevayatIndex=\"645\"><format class=\"sanadHadith\">و عنهم عليهم السّلام: </format>«أنّ الله تعالى أمر <format class=\"E\" Number=\"32\">موسى بن عمران</format> و <format class=\"E\" Number=\"37\">سليمان بن داود </format>صلوات الله عليهما أن يبخّرا به عند مجلس القضاء»<lfootnote noteId=\"366\">8</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170100,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1355\"><page number=\"94\"/><heading level=\"2\">[باب] بخور مريم عليها السّلام<lfootnote noteId=\"367\">1</lfootnote></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170716,
+          "text": "<footnote id=\"359\"><page number=\"93\"/><mnote>(1)</mnote> الدّخنة: كالذّريرة بخور يدخّن به الثياب أو البيت. لسان العرب 150:13 «دخن».<br/>و قال ابن قتيبة الدينوري: قال: قال رسول الله صلّى الله عليه و آله: «نعمت الدّخنة اللّبان، و اللّبان دخنة الأنبياء، و لن يدخل بيتا دخّن فيه بلبان ساحر و لا كاهن». عيون الأخبار 128:2.<br/>فائدة: روي النهي عن الدخنة بالعود و بغيره، و التجمير عند الموتى عند الغسل و التكفين، و روي ما يدلّ على عدم البأس به. انظر: الكافي 3/47، الخصال: 618، تهذيب الأحكام 866/295:1. </footnote>"
+        },
+        {
+          "footnoteId": 714170717,
+          "text": "<footnote id=\"360\"><mnote>(2)</mnote> قال الأزدي: المقل: الكندر الذي يستعمله اليهود في معابدهم، و لذلك يسمّى بمقل اليهود. و هو صمغ معروف. و أفضله الأزرق الصافي، المرّ الطعم، النقي من العيدان، السهل الانحلال، الطيّب الرائحة. كتاب الماء 1212:3. </footnote>"
+        },
+        {
+          "footnoteId": 714170718,
+          "text": "<footnote id=\"361\"><mnote>(3)</mnote> كلمة غير مقروءة. </footnote>"
+        },
+        {
+          "footnoteId": 714170719,
+          "text": "<footnote id=\"362\"><mnote>(4)</mnote> كلمة غير مقروءة. </footnote>"
+        },
+        {
+          "footnoteId": 714170720,
+          "text": "<footnote id=\"363\"><mnote>(5)</mnote> النسخة مخرومة بمقدار كلمتين. </footnote>"
+        },
+        {
+          "footnoteId": 714170721,
+          "text": "<footnote id=\"364\"><mnote>(6)</mnote> كلمة غير مقروءة. </footnote>"
+        },
+        {
+          "footnoteId": 714170722,
+          "text": "<footnote id=\"365\"><mnote>(7)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714170723,
+          "text": "<footnote id=\"366\"><mnote>(8)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "93",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1350\" paragraph-id=\"1350\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo93\">93</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] صفة دخنة مباركة<span><sup><a class=\"NewFn\" href=\"#footnote359\" title=\"(1)  الدّخنة: كالذّريرة بخور يدخّن به الثياب أو البيت. لسان العرب 150:13 «دخن».و قال ابن قتيبة الدينوري: قال: قال رسول الله صلّى الله عليه و آله: «نعمت الدّخنة اللّبان، و اللّبان دخنة الأنبياء، و لن يدخل بيتا دخّن فيه بلبان ساحر و لا كاهن». عيون الأخبار 128:2.فائدة: روي النهي عن الدخنة بالعود و بغيره، و التجمير عند الموتى عند الغسل و التكفين، و روي ما يدلّ على عدم البأس به. انظر: الكافي 3/47، الخصال: 618، تهذيب الأحكام 866/295:1. \">1</a></sup></span>إذا بخّرت بها في الدار لم يدخلها خبر سوء و لا غيره و سبعين دارا حولها </strong>\n  </p>\n  <p id=\"p1351\" paragraph-id=\"1351\" class=\" G\">[124] </p>\n  <p id=\"p1352\" paragraph-id=\"1352\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>: </span>«يؤخذ لبان أبيض، و قسط هندي، و صعتر، و مرّ، و حبّ الحرمل، و لبنى يابس، و مقل أحمر<span><sup><a class=\"NewFn\" href=\"#footnote360\" title=\"(2)  قال الأزدي: المقل: الكندر الذي يستعمله اليهود في معابدهم، و لذلك يسمّى بمقل اليهود. و هو صمغ معروف. و أفضله الأزرق الصافي، المرّ الطعم، النقي من العيدان، السهل الانحلال، الطيّب الرائحة. كتاب الماء 1212:3. \">2</a></sup></span>،...<span><sup><a class=\"NewFn\" href=\"#footnote361\" title=\"(3)  كلمة غير مقروءة. \">3</a></sup></span> يماني،...<span><sup><a class=\"NewFn\" href=\"#footnote362\" title=\"(4)  كلمة غير مقروءة. \">4</a></sup></span> - و هو جوز الحيّة، يوجد عند الصيادلة - يدقّ و ينخل و يحصر بالنيل...<span><sup><a class=\"NewFn\" href=\"#footnote363\" title=\"(5)  النسخة مخرومة بمقدار كلمتين. \">5</a></sup></span> و يبخّر به، و هو للعين و الدوابّ و كلّ شيء يصيبه العين و لإمساس...<span><sup><a class=\"NewFn\" href=\"#footnote364\" title=\"(6)  كلمة غير مقروءة. \">6</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote365\" title=\"(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p1353\" paragraph-id=\"1353\" class=\" G\">[125] </p>\n  <p id=\"p1354\" paragraph-id=\"1354\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنهم عليهم السّلام: </span>«أنّ الله تعالى أمر <span class=\"E\">موسى بن عمران</span> و <span class=\"E\">سليمان بن داود </span>صلوات الله عليهما أن يبخّرا به عند مجلس القضاء»<span><sup><a class=\"NewFn\" href=\"#footnote366\" title=\"(8)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">8</a></sup></span>. </span>\n  </p>\n  <p id=\"p1355\" paragraph-id=\"1355\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote359\" footnote-id=\"359\">(1) <page number=\"93\" /> الدّخنة: كالذّريرة بخور يدخّن به الثياب أو البيت. لسان العرب 150:13 «دخن».<br />و قال ابن قتيبة الدينوري: قال: قال رسول الله صلّى الله عليه و آله: «نعمت الدّخنة اللّبان، و اللّبان دخنة الأنبياء، و لن يدخل بيتا دخّن فيه بلبان ساحر و لا كاهن». عيون الأخبار 128:2.<br />فائدة: روي النهي عن الدخنة بالعود و بغيره، و التجمير عند الموتى عند الغسل و التكفين، و روي ما يدلّ على عدم البأس به. انظر: الكافي 3/47، الخصال: 618، تهذيب الأحكام 866/295:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote360\" footnote-id=\"360\">(2)  قال الأزدي: المقل: الكندر الذي يستعمله اليهود في معابدهم، و لذلك يسمّى بمقل اليهود. و هو صمغ معروف. و أفضله الأزرق الصافي، المرّ الطعم، النقي من العيدان، السهل الانحلال، الطيّب الرائحة. كتاب الماء 1212:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote361\" footnote-id=\"361\">(3)  كلمة غير مقروءة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote362\" footnote-id=\"362\">(4)  كلمة غير مقروءة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote363\" footnote-id=\"363\">(5)  النسخة مخرومة بمقدار كلمتين. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote364\" footnote-id=\"364\">(6)  كلمة غير مقروءة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote365\" footnote-id=\"365\">(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote366\" footnote-id=\"366\">(8)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "833EEF54-025B-4E7A-AD85-62448B0BA5EA",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

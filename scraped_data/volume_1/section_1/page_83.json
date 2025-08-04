@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 83,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166388,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2134\"><format class=\"v\">1442 ه‍ قم المقدّسة </format><page number=\"83\"/></p>"
+        },
+        {
+          "paragraphId": 714166389,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2135\"><heading level=\"3\">نموذج النسخة الخطية</heading></p>"
+        },
+        {
+          "paragraphId": 714166390,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2136\"><page number=\"84\"/><page number=\"85\"/><img src=\"BK126314G001S1P85\" alt=\"\" imgtype=\"Scan\"/><page number=\"86\"/><img src=\"BK126314G001S1P86\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"2\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "83",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2134\" paragraph-id=\"2134\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo83\">83</span>\n  </p>\n  <p id=\"p2135\" paragraph-id=\"2135\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">نموذج النسخة الخطية</strong>\n  </p>\n  <p id=\"p2136\" paragraph-id=\"2136\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "998A4AC4-6400-4E38-8493-5E7457DA402B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

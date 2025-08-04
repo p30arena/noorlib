@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 33,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166478,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2224\"><page number=\"33\"/>[32] </p>"
+        },
+        {
+          "paragraphId": 714166479,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2225\"><format class=\"hadith\" who=\"6\" Id=\"32\" RevayatIndex=\"32\"><format class=\"sanadHadith\">أحمد بن أبي عبد الله البرقي، عن أبيه، عن علي بن النعمان، عن سعيد بن سيّار، قال:</format> دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> و هو محموم، فقال له رجل:</format></p>"
+        },
+        {
+          "paragraphId": 714166480,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2226\"><format class=\"hadith\" who=\"6\" Id=\"32\" RevayatIndex=\"32\">يضاعف عليكم الوجع‌؟ قال: «نعم، و يضاعف لنا الأجر»<lfootnote noteId=\"395\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166481,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2227\">[33] </p>"
+        },
+        {
+          "paragraphId": 714166482,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2228\"><format class=\"hadith\" who=\"6\" Id=\"33\" RevayatIndex=\"33\"><format class=\"sanadHadith\">و قيل <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لأبي عبد الله عليه السّلام</format></format>: </format>ما أصاب المؤمن من بلاء فبذنب‌؟ قال:</format></p>"
+        },
+        {
+          "paragraphId": 714166483,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2229\"><format class=\"hadith\" who=\"6\" Id=\"33\" RevayatIndex=\"33\">«بذنب و غير ذنب؛ ليسمع الله تعالى أنينه و شكواه، و يكتب له بها الحسنات و يحطّ عنه بها السيّئات و يرفع له بها الدرجات»<lfootnote noteId=\"396\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166484,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2230\">[34] </p>"
+        },
+        {
+          "paragraphId": 714166485,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2231\"><format class=\"hadith\" who=\"6\" Id=\"34\" RevayatIndex=\"34\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>: </format>«أنّه إذا أراد الله تعالى - أو قال: إنّ الله إذا أحبّ - عبدا نظر إليه، فإذا نظر إليه أتحفه بواحدة من ثلاث: إمّا<lfootnote noteId=\"397\">3</lfootnote> حمّى أو وجع عين أو صداع»<lfootnote noteId=\"398\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166486,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2232\"><page number=\"34\"/>[35] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168448,
+          "text": "<footnote id=\"394\"><mnote>(3)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 50، عن عون بن محمّد بن القاسم، قال: حدّثنا <page number=\"33\"/>أبو عيسى قال: حدّثنا الحسين بن المختار، عن أبي أسامة، قال: سمعت الصادق عليه السّلام يقول... </footnote>"
+        },
+        {
+          "footnoteId": 714168449,
+          "text": "<footnote id=\"395\"><mnote>(1)</mnote> لم نعثر على نصّه في المصادر المتوفّرة لدينا، و قد روى ابن همّام ما يؤيّده في التمحيص، ص 23/34 قيل: عن أبي سعيد الخدري أنّه وضع يده على رسول الله صلّى الله عليه و آله و عليه حمّى فوجدها من فوق اللحاف فقال: ما أشدّها عليك يا رسول الله! قال: «إنّا كذلك يشتدّ علينا البلاء و يضعّف لنا الأجر»، قال: يا رسول الله، أيّ الناس أشدّ بلاء؟ قال:<br/>«الأنبياء»، قال: ثمّ من‌؟ قال: «ثمّ الصالحون، إن كان أحدهم ليبتلى بالفقر حتّى ما يجد إلّا العباءة، إن كان أحدهم ليبتلى بالقمّل حتّى يقتله، و إن كان أحدهم ليفرح بالبلاء كما يفرح أحدكم بالرخاء». </footnote>"
+        },
+        {
+          "footnoteId": 714168450,
+          "text": "<footnote id=\"396\"><mnote>(2)</mnote> رواه الحسين بن سعيد الأهوازي في المؤمن: 34/24، عن الصباح بن سيابة، قال: قلت لأبي عبد الله عليه السّلام، و الديلمي في أعلام الدين: 435، فقالا: روى أبو الصباح، قال: قلت لأبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168451,
+          "text": "<footnote id=\"397\"><mnote>(3)</mnote> في النسخة: «أو» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168452,
+          "text": "<footnote id=\"398\"><mnote>(4)</mnote> رواه ابن همّام في التمحيص: 47/42، عن جابر، عن أبي جعفر عليه السّلام، و الصدوق في <page number=\"34\"/>الخصال: 45/13، فقال: «إنّ الله تبارك و تعالى إذا أحبّ عبدا نظر إليه، فإذا نظر إليه أتحفه من ثلاثة بواحدة» حدّثنا أبي رضي الله عنه، قال: حدّثني أحمد بن إدريس، عن محمّد بن أحمد، عن علي بن السندي، عن أحمد بن النضر الخزّاز، عن عمرو بن شمر، عن جابر، عن أبي جعفر عليه السّلام، و الطبرسي في مكارم الأخلاق: 17/358، في ثواب المريض، عن أبي عبد الله عليه السّلام، و الديلمي في أعلام الدين: 277 ضمن حديث رسول الله صلّى الله عليه و آله «و إنّ الله إذا أحبّ‌». </footnote>"
+        }
+      ],
+      "pageValue": "33",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2224\" paragraph-id=\"2224\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo33\">33</span>[32] </p>\n  <p id=\"p2225\" paragraph-id=\"2225\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أحمد بن أبي عبد الله البرقي، عن أبيه، عن علي بن النعمان، عن سعيد بن سيّار، قال:</span> دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> و هو محموم، فقال له رجل:</span>\n  </p>\n  <p id=\"p2226\" paragraph-id=\"2226\" class=\" G\">\n    <span class=\"hadith\">يضاعف عليكم الوجع‌؟ قال: «نعم، و يضاعف لنا الأجر»<span><sup><a class=\"NewFn\" href=\"#footnote395\" title=\"(1)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و قد روى ابن همّام ما يؤيّده في التمحيص، ص 23/34 قيل: عن أبي سعيد الخدري أنّه وضع يده على رسول الله صلّى الله عليه و آله و عليه حمّى فوجدها من فوق اللحاف فقال: ما أشدّها عليك يا رسول الله! قال: «إنّا كذلك يشتدّ علينا البلاء و يضعّف لنا الأجر»، قال: يا رسول الله، أيّ الناس أشدّ بلاء؟ قال:«الأنبياء»، قال: ثمّ من‌؟ قال: «ثمّ الصالحون، إن كان أحدهم ليبتلى بالفقر حتّى ما يجد إلّا العباءة، إن كان أحدهم ليبتلى بالقمّل حتّى يقتله، و إن كان أحدهم ليفرح بالبلاء كما يفرح أحدكم بالرخاء». \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2227\" paragraph-id=\"2227\" class=\" G\">[33] </p>\n  <p id=\"p2228\" paragraph-id=\"2228\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قيل <span class=\"Y\"><span class=\"maasoom\">لأبي عبد الله عليه السّلام</span></span>: </span>ما أصاب المؤمن من بلاء فبذنب‌؟ قال:</span>\n  </p>\n  <p id=\"p2229\" paragraph-id=\"2229\" class=\" G\">\n    <span class=\"hadith\">«بذنب و غير ذنب؛ ليسمع الله تعالى أنينه و شكواه، و يكتب له بها الحسنات و يحطّ عنه بها السيّئات و يرفع له بها الدرجات»<span><sup><a class=\"NewFn\" href=\"#footnote396\" title=\"(2)  رواه الحسين بن سعيد الأهوازي في المؤمن: 34/24، عن الصباح بن سيابة، قال: قلت لأبي عبد الله عليه السّلام، و الديلمي في أعلام الدين: 435، فقالا: روى أبو الصباح، قال: قلت لأبي عبد الله عليه السّلام. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2230\" paragraph-id=\"2230\" class=\" G\">[34] </p>\n  <p id=\"p2231\" paragraph-id=\"2231\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>: </span>«أنّه إذا أراد الله تعالى - أو قال: إنّ الله إذا أحبّ - عبدا نظر إليه، فإذا نظر إليه أتحفه بواحدة من ثلاث: إمّا<span><sup><a class=\"NewFn\" href=\"#footnote397\" title=\"(3)  في النسخة: «أو» و ما أثبتناه من المصدر. \">3</a></sup></span> حمّى أو وجع عين أو صداع»<span><sup><a class=\"NewFn\" href=\"#footnote398\" title=\"(4)  رواه ابن همّام في التمحيص: 47/42، عن جابر، عن أبي جعفر عليه السّلام، و الصدوق في \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2232\" paragraph-id=\"2232\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote394\" footnote-id=\"394\"><page number=\"33\" />أبو عيسى قال: حدّثنا الحسين بن المختار، عن أبي أسامة، قال: سمعت الصادق عليه السّلام يقول... </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote395\" footnote-id=\"395\">(1)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و قد روى ابن همّام ما يؤيّده في التمحيص، ص 23/34 قيل: عن أبي سعيد الخدري أنّه وضع يده على رسول الله صلّى الله عليه و آله و عليه حمّى فوجدها من فوق اللحاف فقال: ما أشدّها عليك يا رسول الله! قال: «إنّا كذلك يشتدّ علينا البلاء و يضعّف لنا الأجر»، قال: يا رسول الله، أيّ الناس أشدّ بلاء؟ قال:<br />«الأنبياء»، قال: ثمّ من‌؟ قال: «ثمّ الصالحون، إن كان أحدهم ليبتلى بالفقر حتّى ما يجد إلّا العباءة، إن كان أحدهم ليبتلى بالقمّل حتّى يقتله، و إن كان أحدهم ليفرح بالبلاء كما يفرح أحدكم بالرخاء». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote396\" footnote-id=\"396\">(2)  رواه الحسين بن سعيد الأهوازي في المؤمن: 34/24، عن الصباح بن سيابة، قال: قلت لأبي عبد الله عليه السّلام، و الديلمي في أعلام الدين: 435، فقالا: روى أبو الصباح، قال: قلت لأبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote397\" footnote-id=\"397\">(3)  في النسخة: «أو» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote398\" footnote-id=\"398\">(4)  رواه ابن همّام في التمحيص: 47/42، عن جابر، عن أبي جعفر عليه السّلام، و الصدوق في </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "21D42FB3-F629-410D-B1C9-09F23CBCAEE0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

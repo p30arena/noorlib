@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 112,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170174,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1429\"><format class=\"hadith\" who=\"8\" Id=\"151\" RevayatIndex=\"672\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد<lfootnote noteId=\"438\">3</lfootnote>، عن محمّد بن إبراهيم، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الخراساني عليه السّلام</format></format><lfootnote noteId=\"439\">4</lfootnote> قال: </format>«أكل <page number=\"112\"/> الرمّان يزيد في ماء الرجل و يحسن الولد»<lfootnote noteId=\"440\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170175,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1430\">[154] </p>"
+        },
+        {
+          "paragraphId": 714170176,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1431\"><format class=\"hadith\" who=\"14\" Id=\"152\" RevayatIndex=\"673\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن محمّد بن عبيد الله الطهّري<lfootnote noteId=\"441\">2</lfootnote>، عمّن ذكره، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: </format>«الزيتون يزيد في ماء الظهر<lfootnote noteId=\"442\">3</lfootnote>»<lfootnote noteId=\"443\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170177,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1432\">[155] </p>"
+        },
+        {
+          "paragraphId": 714170178,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1433\"><format class=\"hadith\" who=\"6\" Id=\"153\" RevayatIndex=\"674\"><format class=\"sanadHadith\">و روى نوح بن شعيب...<lfootnote noteId=\"444\">5</lfootnote> عمّن ذكره، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال:</format></format></p>"
+        },
+        {
+          "paragraphId": 714170179,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1434\"><format class=\"hadith\" who=\"6\" Id=\"153\" RevayatIndex=\"674\"><format class=\"sanadHadith\"/>«من تغيّر عليه ماء ظهره ينفع له اللبن الحليب بالعسل»<lfootnote noteId=\"445\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170180,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1435\"><page number=\"113\"/>[156] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171147,
+          "text": "<footnote id=\"440\"><page number=\"112\"/><mnote>(1)</mnote> رواه البرقي في المحاسن 40/546:2، باب الرمّان - و الكليني في الكافي 17/355:6، باب الرمّان، عن عدّة من الأصحاب، عن أحمد بن محمّد البرقي - عن الحسين بن سعيد، عن عمرو بن إبراهيم، عن الخراساني عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171148,
+          "text": "<footnote id=\"441\"><mnote>(2)</mnote> في النسخة: «الطهوي» و في المحاسن: «المطهري»، و ما أثبتناه من هامش المحاسن، و عنه في وسائل الشيعة 97:25، الباب 48 من أبواب بقية الأطعمة و الأشربة، ح 4. </footnote>"
+        },
+        {
+          "footnoteId": 714171149,
+          "text": "<footnote id=\"442\"><mnote>(3)</mnote> في المحاسن و الكافي: «يزيد في الماء». </footnote>"
+        },
+        {
+          "footnoteId": 714171150,
+          "text": "<footnote id=\"443\"><mnote>(4)</mnote> رواه البرقي في المحاسن 4/484:2، باب الزيتون، عن يعقوب بن يزيد، عن محمّد بن عبيد الله المطهّري، عمّن ذكره، عن أبي عبد الله عليه السّلام، و الكليني في الكافي 7/332:6، باب الزيت و الزيتون، عن محمّد بن يحيى، عن عبد الله بن جعفر رفعه قال: قال أبو عبد الله عليه السّلام... </footnote>"
+        },
+        {
+          "footnoteId": 714171151,
+          "text": "<footnote id=\"444\"><mnote>(5)</mnote> النسخة مخرومة، و قوله: «بن شعيب» أثبتناه من الحديث المتقدّم في الجزء الأوّل برقم 434. و نوح بن شعيب النيسابوري الخراساني وقع في إسناد عدّة من الروايات، و قيل: إنّه متّحد مع نوح بن صالح بن شعيب، الذي أثنى عليه الفضل بن شاذان النيسابوري. انظر: نقد الرجال 20:5. </footnote>"
+        },
+        {
+          "footnoteId": 714171152,
+          "text": "<footnote id=\"445\"><mnote>(6)</mnote> تقدّم الحديث في الجزء الأوّل برقم 434، باب وجع الظهر و يبسه، هكذا: حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، نوح بن شعيب، عمّن ذكره، عن أبي الحسن عليه السّلام. فانظر بيانه و مصادره. </footnote>"
+        }
+      ],
+      "pageValue": "112",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1429\" paragraph-id=\"1429\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo112\">112</span> الرمّان يزيد في ماء الرجل و يحسن الولد»<span><sup><a class=\"NewFn\" href=\"#footnote440\" title=\"(1)  رواه البرقي في المحاسن 40/546:2، باب الرمّان - و الكليني في الكافي 17/355:6، باب الرمّان، عن عدّة من الأصحاب، عن أحمد بن محمّد البرقي - عن الحسين بن سعيد، عن عمرو بن إبراهيم، عن الخراساني عليه السّلام. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1430\" paragraph-id=\"1430\" class=\" G\">[154] </p>\n  <p id=\"p1431\" paragraph-id=\"1431\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن محمّد بن عبيد الله الطهّري<span><sup><a class=\"NewFn\" href=\"#footnote441\" title=\"(2)  في النسخة: «الطهوي» و في المحاسن: «المطهري»، و ما أثبتناه من هامش المحاسن، و عنه في وسائل الشيعة 97:25، الباب 48 من أبواب بقية الأطعمة و الأشربة، ح 4. \">2</a></sup></span>، عمّن ذكره، قال: قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: </span>«الزيتون يزيد في ماء الظهر<span><sup><a class=\"NewFn\" href=\"#footnote442\" title=\"(3)  في المحاسن و الكافي: «يزيد في الماء». \">3</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote443\" title=\"(4)  رواه البرقي في المحاسن 4/484:2، باب الزيتون، عن يعقوب بن يزيد، عن محمّد بن عبيد الله المطهّري، عمّن ذكره، عن أبي عبد الله عليه السّلام، و الكليني في الكافي 7/332:6، باب الزيت و الزيتون، عن محمّد بن يحيى، عن عبد الله بن جعفر رفعه قال: قال أبو عبد الله عليه السّلام... \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1432\" paragraph-id=\"1432\" class=\" G\">[155] </p>\n  <p id=\"p1433\" paragraph-id=\"1433\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى نوح بن شعيب...<span><sup><a class=\"NewFn\" href=\"#footnote444\" title=\"(5)  النسخة مخرومة، و قوله: «بن شعيب» أثبتناه من الحديث المتقدّم في الجزء الأوّل برقم 434. و نوح بن شعيب النيسابوري الخراساني وقع في إسناد عدّة من الروايات، و قيل: إنّه متّحد مع نوح بن صالح بن شعيب، الذي أثنى عليه الفضل بن شاذان النيسابوري. انظر: نقد الرجال 20:5. \">5</a></sup></span> عمّن ذكره، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال:</span>\n    </span>\n  </p>\n  <p id=\"p1434\" paragraph-id=\"1434\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\"></span>«من تغيّر عليه ماء ظهره ينفع له اللبن الحليب بالعسل»<span><sup><a class=\"NewFn\" href=\"#footnote445\" title=\"(6)  تقدّم الحديث في الجزء الأوّل برقم 434، باب وجع الظهر و يبسه، هكذا: حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، نوح بن شعيب، عمّن ذكره، عن أبي الحسن عليه السّلام. فانظر بيانه و مصادره. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1435\" paragraph-id=\"1435\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote440\" footnote-id=\"440\">(1) <page number=\"112\" /> رواه البرقي في المحاسن 40/546:2، باب الرمّان - و الكليني في الكافي 17/355:6، باب الرمّان، عن عدّة من الأصحاب، عن أحمد بن محمّد البرقي - عن الحسين بن سعيد، عن عمرو بن إبراهيم، عن الخراساني عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote441\" footnote-id=\"441\">(2)  في النسخة: «الطهوي» و في المحاسن: «المطهري»، و ما أثبتناه من هامش المحاسن، و عنه في وسائل الشيعة 97:25، الباب 48 من أبواب بقية الأطعمة و الأشربة، ح 4. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote442\" footnote-id=\"442\">(3)  في المحاسن و الكافي: «يزيد في الماء». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote443\" footnote-id=\"443\">(4)  رواه البرقي في المحاسن 4/484:2، باب الزيتون، عن يعقوب بن يزيد، عن محمّد بن عبيد الله المطهّري، عمّن ذكره، عن أبي عبد الله عليه السّلام، و الكليني في الكافي 7/332:6، باب الزيت و الزيتون، عن محمّد بن يحيى، عن عبد الله بن جعفر رفعه قال: قال أبو عبد الله عليه السّلام... </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote444\" footnote-id=\"444\">(5)  النسخة مخرومة، و قوله: «بن شعيب» أثبتناه من الحديث المتقدّم في الجزء الأوّل برقم 434. و نوح بن شعيب النيسابوري الخراساني وقع في إسناد عدّة من الروايات، و قيل: إنّه متّحد مع نوح بن صالح بن شعيب، الذي أثنى عليه الفضل بن شاذان النيسابوري. انظر: نقد الرجال 20:5. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote445\" footnote-id=\"445\">(6)  تقدّم الحديث في الجزء الأوّل برقم 434، باب وجع الظهر و يبسه، هكذا: حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، نوح بن شعيب، عمّن ذكره، عن أبي الحسن عليه السّلام. فانظر بيانه و مصادره. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0A03FD31-9FE4-4567-A01D-51AE1100495F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

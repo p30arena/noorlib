@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 172,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167012,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2911\"><format class=\"hadith\" who=\"6\" Id=\"263\" RevayatIndex=\"263\"><format class=\"sanadHadith\">و قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«يستفّ‌<lfootnote noteId=\"1032\">5</lfootnote> سويق الحنطة<lfootnote noteId=\"1033\">6</lfootnote> - يعني: يستفّ على الريق - <page number=\"172\"/> ثلاث راحات، و يدّهن بدهن البنفسج، و لا تقرننّ الماء ما أمكنك<lfootnote noteId=\"1034\">1</lfootnote>، ففعل ذلك سيف فانقطع الرعاف»<lfootnote noteId=\"1035\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167013,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2912\"><heading level=\"2\">[باب] الزكام </heading></p>"
+        },
+        {
+          "paragraphId": 714167014,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2913\">[266] </p>"
+        },
+        {
+          "paragraphId": 714167015,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2914\"><format class=\"hadith\" who=\"14\" Id=\"264\" RevayatIndex=\"264\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">النبي صلّى الله عليه و آله</format></format> أنّه قال: </format>«الزكام جند من جنود الله عزّ و جلّ‌، يبعثه على الداء، فينزل إنزالا»<lfootnote noteId=\"1036\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167016,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2915\">[267] </p>"
+        },
+        {
+          "paragraphId": 714167017,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2916\"><format class=\"hadith\" who=\"6\" Id=\"265\" RevayatIndex=\"265\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، أنّه قال: </format>«تأخذ دهن بنفسج في قطنة فاحتمله في سفلتك<lfootnote noteId=\"1037\">4</lfootnote> عند منامك<lfootnote noteId=\"1038\">5</lfootnote> فإنّه نافع للزكام إن شاء الله»<lfootnote noteId=\"1039\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167018,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2917\">[268] </p>"
+        },
+        {
+          "paragraphId": 714167019,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2918\"><format class=\"hadith\" who=\"6\" Id=\"266\" RevayatIndex=\"266\"><format class=\"sanadHadith\">و له أيضا:</format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format> وزن دانق شونيز و نصف دانق كندس<lfootnote noteId=\"1040\">7</lfootnote> يدقّ و ينخل <page number=\"173\"/> و ينفخ في الأنف فإنّه يذهب بالزكام و هو جيّد مجرّب<lfootnote noteId=\"1041\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168989,
+          "text": "<footnote id=\"1034\"><page number=\"172\"/><mnote>(1)</mnote> كذا في النسخة و الأصح: «و لا يقرننّ الماء ما أمكنه». </footnote>"
+        },
+        {
+          "footnoteId": 714168990,
+          "text": "<footnote id=\"1035\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168991,
+          "text": "<footnote id=\"1036\"><mnote>(3)</mnote> رواه الكليني في الكافي 578/382:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن ابن أبي عمير، عن هشام بن سالم، عن أبي عبد الله عليه السّلام، عن رسول الله صلّى الله عليه و آله، و الطبرسي في مكارم الأخلاق: 1/377، للزكام، روي عن النبي صلّى الله عليه و آله، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 64-65، فقالا: في الزكام: سعيد بن منصور قال: حدّثنا زكريّا بن يحيى المزني، قال: حدّثنا إبراهيم بن أبي يحيى، عن أبي عبد الله عليه السّلام قال: شكوت إليه الزكام، فقال: «صنع من صنع الله، جند من جنود الله، بعثه الله إلى علّة في بدنك ليقلعها فإذا قلعها فعليك بوزن دانق شونيز». </footnote>"
+        },
+        {
+          "footnoteId": 714168992,
+          "text": "<footnote id=\"1037\"><mnote>(4)</mnote> في النسخة: «شفتك» و في هامشها: «سفتك» و ما أثبتناه من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714168993,
+          "text": "<footnote id=\"1038\"><mnote>(5)</mnote> أي: اجعله حقنة. </footnote>"
+        },
+        {
+          "footnoteId": 714168994,
+          "text": "<footnote id=\"1039\"><mnote>(6)</mnote> رواه الطبرسي في مكارم الأخلاق: 2/377، للزكام بعد الحديث السابق، فقال: و روي للزكام عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168995,
+          "text": "<footnote id=\"1040\"><mnote>(7)</mnote> الكندس: عروق نبات داخله أصفر و خارجه أسود مقيء و مسهّل جلّاء للبهق، و إذا سحق<page number=\"173\"/>و نفخ في الأنف عطس و أنار البصر الكليل. القاموس المحيط 245:2 «الكدس». </footnote>"
+        }
+      ],
+      "pageValue": "172",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2911\" paragraph-id=\"2911\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo172\">172</span> ثلاث راحات، و يدّهن بدهن البنفسج، و لا تقرننّ الماء ما أمكنك<span><sup><a class=\"NewFn\" href=\"#footnote1034\" title=\"(1)  كذا في النسخة و الأصح: «و لا يقرننّ الماء ما أمكنه». \">1</a></sup></span>، ففعل ذلك سيف فانقطع الرعاف»<span><sup><a class=\"NewFn\" href=\"#footnote1035\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2912\" paragraph-id=\"2912\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الزكام </strong>\n  </p>\n  <p id=\"p2913\" paragraph-id=\"2913\" class=\" G\">[266] </p>\n  <p id=\"p2914\" paragraph-id=\"2914\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">النبي صلّى الله عليه و آله</span></span> أنّه قال: </span>«الزكام جند من جنود الله عزّ و جلّ‌، يبعثه على الداء، فينزل إنزالا»<span><sup><a class=\"NewFn\" href=\"#footnote1036\" title=\"(3)  رواه الكليني في الكافي 578/382:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن ابن أبي عمير، عن هشام بن سالم، عن أبي عبد الله عليه السّلام، عن رسول الله صلّى الله عليه و آله، و الطبرسي في مكارم الأخلاق: 1/377، للزكام، روي عن النبي صلّى الله عليه و آله، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 64-65، فقالا: في الزكام: سعيد بن منصور قال: حدّثنا زكريّا بن يحيى المزني، قال: حدّثنا إبراهيم بن أبي يحيى، عن أبي عبد الله عليه السّلام قال: شكوت إليه الزكام، فقال: «صنع من صنع الله، جند من جنود الله، بعثه الله إلى علّة في بدنك ليقلعها فإذا قلعها فعليك بوزن دانق شونيز». \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2915\" paragraph-id=\"2915\" class=\" G\">[267] </p>\n  <p id=\"p2916\" paragraph-id=\"2916\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، أنّه قال: </span>«تأخذ دهن بنفسج في قطنة فاحتمله في سفلتك<span><sup><a class=\"NewFn\" href=\"#footnote1037\" title=\"(4)  في النسخة: «شفتك» و في هامشها: «سفتك» و ما أثبتناه من مكارم الأخلاق. \">4</a></sup></span> عند منامك<span><sup><a class=\"NewFn\" href=\"#footnote1038\" title=\"(5)  أي: اجعله حقنة. \">5</a></sup></span> فإنّه نافع للزكام إن شاء الله»<span><sup><a class=\"NewFn\" href=\"#footnote1039\" title=\"(6)  رواه الطبرسي في مكارم الأخلاق: 2/377، للزكام بعد الحديث السابق، فقال: و روي للزكام عن أبي عبد الله عليه السّلام. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2917\" paragraph-id=\"2917\" class=\" G\">[268] </p>\n  <p id=\"p2918\" paragraph-id=\"2918\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و له أيضا:</span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span> وزن دانق شونيز و نصف دانق كندس<span><sup><a class=\"NewFn\" href=\"#footnote1040\" title=\"(7)  الكندس: عروق نبات داخله أصفر و خارجه أسود مقيء و مسهّل جلّاء للبهق، و إذا سحق\">7</a></sup></span> يدقّ و ينخل </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1034\" footnote-id=\"1034\">(1) <page number=\"172\" /> كذا في النسخة و الأصح: «و لا يقرننّ الماء ما أمكنه». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1035\" footnote-id=\"1035\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1036\" footnote-id=\"1036\">(3)  رواه الكليني في الكافي 578/382:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن ابن أبي عمير، عن هشام بن سالم، عن أبي عبد الله عليه السّلام، عن رسول الله صلّى الله عليه و آله، و الطبرسي في مكارم الأخلاق: 1/377، للزكام، روي عن النبي صلّى الله عليه و آله، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 64-65، فقالا: في الزكام: سعيد بن منصور قال: حدّثنا زكريّا بن يحيى المزني، قال: حدّثنا إبراهيم بن أبي يحيى، عن أبي عبد الله عليه السّلام قال: شكوت إليه الزكام، فقال: «صنع من صنع الله، جند من جنود الله، بعثه الله إلى علّة في بدنك ليقلعها فإذا قلعها فعليك بوزن دانق شونيز». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1037\" footnote-id=\"1037\">(4)  في النسخة: «شفتك» و في هامشها: «سفتك» و ما أثبتناه من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1038\" footnote-id=\"1038\">(5)  أي: اجعله حقنة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1039\" footnote-id=\"1039\">(6)  رواه الطبرسي في مكارم الأخلاق: 2/377، للزكام بعد الحديث السابق، فقال: و روي للزكام عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1040\" footnote-id=\"1040\">(7)  الكندس: عروق نبات داخله أصفر و خارجه أسود مقيء و مسهّل جلّاء للبهق، و إذا سحق</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4F3F2BE2-45D7-4886-BCB3-55EC25CBB335",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

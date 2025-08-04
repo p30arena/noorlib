@@ -1,0 +1,85 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 137,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170269,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1524\"><format class=\"hadith\" who=\"6\" Id=\"183\" RevayatIndex=\"704\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال<lfootnote noteId=\"543\">3</lfootnote>: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن ابن أبي عمير، عن حفص، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«مروا القابلة و امّ الصبي أو بعض من يليه أن<lfootnote noteId=\"544\">4</lfootnote> تقيم الصلاة في اذنه اليمنى، فلا يصيبه <page number=\"137\"/> امّ الصبيان<lfootnote noteId=\"545\">1</lfootnote> و لا تابعة<lfootnote noteId=\"546\">2</lfootnote> أبدا»<lfootnote noteId=\"547\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170270,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1525\">[186] </p>"
+        },
+        {
+          "paragraphId": 714170271,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1526\"><format class=\"hadith\" who=\"14,6\" Id=\"184\" RevayatIndex=\"705\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن الحسن بن موسى الخشّاب، عن غياث بن كلوب<lfootnote noteId=\"548\">4</lfootnote>، عن إسحاق بن عمّار، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام </format></format>[قال:]<lfootnote noteId=\"549\">5</lfootnote> «إنّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله </format></format>قال:</format> إذا رأيتم من صبيانكم سوء خلق فأذّنوا في الاذن اليسرى و أقيموا في اليمنى، فإنّ <format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format> فعل <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"2\">بالحسن</format></format> و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"3\">الحسين عليهما السّلام</format></format> حين ولدا<lfootnote noteId=\"550\">6</lfootnote>»<lfootnote noteId=\"551\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170272,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1527\"><page number=\"138\"/>[187] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171342,
+          "text": "<footnote id=\"545\"><page number=\"137\"/><mnote>(1)</mnote> في الكافي: «لمم» بدل «امّ الصبيان». </footnote>"
+        },
+        {
+          "footnoteId": 714171343,
+          "text": "<footnote id=\"546\"><mnote>(2)</mnote> التابع و التابعة: الجنّي و الجنّية يكونان مع الإنسان يتبعانه حيث يذهب. القاموس المحيط 949:2 «تبع». </footnote>"
+        },
+        {
+          "footnoteId": 714171344,
+          "text": "<footnote id=\"547\"><mnote>(3)</mnote> رواه الكليني في الكافي 2/23:6، باب ما يفعل بالمولود من التحنيك و غيره إذا ولد، عن الحسين بن محمّد، عن معلّى بن محمّد، عن الحسن بن علي، عن أبان، عن حفص الكناسي، عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171345,
+          "text": "<footnote id=\"548\"><mnote>(4)</mnote> في النسخة: «غياث بن عثمان» و لم نعثر على اسمه في المصادر الرجاليّة، و الصحيح ما أثبتناه، و قد روى الحسن بن موسى الخشاب عنه كثيرا. </footnote>"
+        },
+        {
+          "footnoteId": 714171346,
+          "text": "<footnote id=\"549\"><mnote>(5)</mnote> ما بين المعقوفتين أثبتناه لضرورة السياق. </footnote>"
+        },
+        {
+          "footnoteId": 714171347,
+          "text": "<footnote id=\"550\"><mnote>(6)</mnote> الظاهر أنّ الاستدلال بفعل رسول الله صلّى الله عليه و آله كان من مولانا الإمام الصادق عليه السّلام، و من المعلوم أنّ فعله صلّى الله عليه و آله بهما عليهما السّلام ليس لسوء الخلق أبدا، فالاستدلال يكون لأصل تشريع الأذان و الإقامة في الاذن، ثمّ إنّ رسول الله صلّى الله عليه و آله أذّن في اليمنى و أقام في اليسرى، و هو متفق عليه لدى الفريقين.<br/>و أمّا الأذان لسوء الخلق، و أنّ من لم يأكل اللحم أربعين يوما ساء خلقه و من ساء خلقه و فسد عقله فأذّنوا في اذنه أنّه يطرد الشيطان من البيت، و يستحبّ من أجل الصبيان، فوردت فيه أحاديث. انظر: طبّ الأئمّة عليهم السّلام: 139، المحاسن 433/465:2 و 435/466 و ح 436، الكافي 35/308:3 و ج 1/309:6، من لا يحضره الفقيه 912/299:1، مكارم الأخلاق:<br/>228، النوادر للراوندي: 237، السرائر 143:3.<br/>و لاحظ: مواهب الجليل 85:2، كنز العمّال 41665/421:15. </footnote>"
+        },
+        {
+          "footnoteId": 714171348,
+          "text": "<footnote id=\"551\"><mnote>(7)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "137",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1524\" paragraph-id=\"1524\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo137\">137</span> امّ الصبيان<span><sup><a class=\"NewFn\" href=\"#footnote545\" title=\"(1)  في الكافي: «لمم» بدل «امّ الصبيان». \">1</a></sup></span> و لا تابعة<span><sup><a class=\"NewFn\" href=\"#footnote546\" title=\"(2)  التابع و التابعة: الجنّي و الجنّية يكونان مع الإنسان يتبعانه حيث يذهب. القاموس المحيط 949:2 «تبع». \">2</a></sup></span> أبدا»<span><sup><a class=\"NewFn\" href=\"#footnote547\" title=\"(3)  رواه الكليني في الكافي 2/23:6، باب ما يفعل بالمولود من التحنيك و غيره إذا ولد، عن الحسين بن محمّد، عن معلّى بن محمّد، عن الحسن بن علي، عن أبان، عن حفص الكناسي، عن أبي عبد الله عليه السّلام. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1525\" paragraph-id=\"1525\" class=\" G\">[186] </p>\n  <p id=\"p1526\" paragraph-id=\"1526\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن الحسن بن موسى الخشّاب، عن غياث بن كلوب<span><sup><a class=\"NewFn\" href=\"#footnote548\" title=\"(4)  في النسخة: «غياث بن عثمان» و لم نعثر على اسمه في المصادر الرجاليّة، و الصحيح ما أثبتناه، و قد روى الحسن بن موسى الخشاب عنه كثيرا. \">4</a></sup></span>، عن إسحاق بن عمّار، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام </span></span>[قال:]<span><sup><a class=\"NewFn\" href=\"#footnote549\" title=\"(5)  ما بين المعقوفتين أثبتناه لضرورة السياق. \">5</a></sup></span> «إنّ <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله </span></span>قال:</span> إذا رأيتم من صبيانكم سوء خلق فأذّنوا في الاذن اليسرى و أقيموا في اليمنى، فإنّ <span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span> فعل <span class=\"BD\"><span class=\"maasoom\">بالحسن</span></span> و <span class=\"BD\"><span class=\"maasoom\">الحسين عليهما السّلام</span></span> حين ولدا<span><sup><a class=\"NewFn\" href=\"#footnote550\" title=\"(6)  الظاهر أنّ الاستدلال بفعل رسول الله صلّى الله عليه و آله كان من مولانا الإمام الصادق عليه السّلام، و من المعلوم أنّ فعله صلّى الله عليه و آله بهما عليهما السّلام ليس لسوء الخلق أبدا، فالاستدلال يكون لأصل تشريع الأذان و الإقامة في الاذن، ثمّ إنّ رسول الله صلّى الله عليه و آله أذّن في اليمنى و أقام في اليسرى، و هو متفق عليه لدى الفريقين.و أمّا الأذان لسوء الخلق، و أنّ من لم يأكل اللحم أربعين يوما ساء خلقه و من ساء خلقه و فسد عقله فأذّنوا في اذنه أنّه يطرد الشيطان من البيت، و يستحبّ من أجل الصبيان، فوردت فيه أحاديث. انظر: طبّ الأئمّة عليهم السّلام: 139، المحاسن 433/465:2 و 435/466 و ح 436، الكافي 35/308:3 و ج 1/309:6، من لا يحضره الفقيه 912/299:1، مكارم الأخلاق:228، النوادر للراوندي: 237، السرائر 143:3.و لاحظ: مواهب الجليل 85:2، كنز العمّال 41665/421:15. \">6</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote551\" title=\"(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p1527\" paragraph-id=\"1527\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote545\" footnote-id=\"545\">(1) <page number=\"137\" /> في الكافي: «لمم» بدل «امّ الصبيان». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote546\" footnote-id=\"546\">(2)  التابع و التابعة: الجنّي و الجنّية يكونان مع الإنسان يتبعانه حيث يذهب. القاموس المحيط 949:2 «تبع». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote547\" footnote-id=\"547\">(3)  رواه الكليني في الكافي 2/23:6، باب ما يفعل بالمولود من التحنيك و غيره إذا ولد، عن الحسين بن محمّد، عن معلّى بن محمّد، عن الحسن بن علي، عن أبان، عن حفص الكناسي، عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote548\" footnote-id=\"548\">(4)  في النسخة: «غياث بن عثمان» و لم نعثر على اسمه في المصادر الرجاليّة، و الصحيح ما أثبتناه، و قد روى الحسن بن موسى الخشاب عنه كثيرا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote549\" footnote-id=\"549\">(5)  ما بين المعقوفتين أثبتناه لضرورة السياق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote550\" footnote-id=\"550\">(6)  الظاهر أنّ الاستدلال بفعل رسول الله صلّى الله عليه و آله كان من مولانا الإمام الصادق عليه السّلام، و من المعلوم أنّ فعله صلّى الله عليه و آله بهما عليهما السّلام ليس لسوء الخلق أبدا، فالاستدلال يكون لأصل تشريع الأذان و الإقامة في الاذن، ثمّ إنّ رسول الله صلّى الله عليه و آله أذّن في اليمنى و أقام في اليسرى، و هو متفق عليه لدى الفريقين.<br />و أمّا الأذان لسوء الخلق، و أنّ من لم يأكل اللحم أربعين يوما ساء خلقه و من ساء خلقه و فسد عقله فأذّنوا في اذنه أنّه يطرد الشيطان من البيت، و يستحبّ من أجل الصبيان، فوردت فيه أحاديث. انظر: طبّ الأئمّة عليهم السّلام: 139، المحاسن 433/465:2 و 435/466 و ح 436، الكافي 35/308:3 و ج 1/309:6، من لا يحضره الفقيه 912/299:1، مكارم الأخلاق:<br />228، النوادر للراوندي: 237، السرائر 143:3.<br />و لاحظ: مواهب الجليل 85:2، كنز العمّال 41665/421:15. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote551\" footnote-id=\"551\">(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "EF8FACF5-EE4F-4B22-AB34-51BDB8D63F61",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 280,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167724,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3470\"><page number=\"280\"/><heading level=\"2\">[باب] في الزحير<lfootnote noteId=\"1542\">1</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714167725,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3471\">[455] </p>"
+        },
+        {
+          "paragraphId": 714167726,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3472\"><format class=\"hadith\" who=\"9\" Id=\"450\" RevayatIndex=\"450\"><format class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن بن فضّال، عن الحسين بن سعيد، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"9\">أبي جعفر عليه السّلام</format></format> قال: </format>«تلتّ الحرف<lfootnote noteId=\"1543\">2</lfootnote> بالعسل جميعا فينفع من الزحير و من عرق البسر»<lfootnote noteId=\"1544\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167727,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3473\">[456] و أيضا: ممّا وجدته في كتاب أبي جعفر بن بندار النهاوندي: يؤخذ للزحير سبع جوزات فيقشرها ثمّ يدقّها دقّا جيّدا ثمّ يجعل معه مثله سكّر فيأكل منه صاحب الزحير بالغداة و بالليل يوما أو يومين و إنّه يسكن<lfootnote noteId=\"1545\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714167728,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3474\">[457] </p>"
+        },
+        {
+          "paragraphId": 714167729,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3475\"><format class=\"hadith\" who=\"7|8\" Id=\"451\" RevayatIndex=\"451\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال حدّثنا الحميري، عن محمّد بن عيسى، قال:</format></format></p>"
+        },
+        {
+          "paragraphId": 714167730,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3476\"><format class=\"hadith\" who=\"7|8\" Id=\"451\" RevayatIndex=\"451\">شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8\">أبي الحسن عليه السّلام</format></format> أنّ بي زحيرا لا يسكن.</format></p>"
+        },
+        {
+          "paragraphId": 714167731,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3477\"><format class=\"hadith\" who=\"7|8\" Id=\"451\" RevayatIndex=\"451\"><page number=\"281\"/> فقال: «إذا فرغت من صلاة الليل فقل: اللّهمّ ما كان من خير فهو منك لا حمد لي فيه، و ما عملت من شرّ فقد حذّرتنيه فلا عذر لي فيه، اللّهمّ إنّي أعوذ بك أن أتوكّل على ما لا حمد<lfootnote noteId=\"1546\">1</lfootnote> لي فيه أو آمن ما لا عذر لي منه»<lfootnote noteId=\"1547\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169496,
+          "text": "<footnote id=\"1541\"><mnote>(5)</mnote> رواه البرقي في المحاسن 13/512:2، باب الكرّاث - و عنه الكليني في الكافي 6/365:6، باب الكرّاث - عن داود بن أبي داود، عن رجل رأى أبا الحسن بخراسان يأكل الكرّاث من البستان كما هو، فقيل: إنّ فيه السماد، فقال: و كذلك روى البرقي في <page number=\"280\"/>المحاسن 11/511:2، باب الكرّاث، عن أبي سعيد الآدمي - و مثله الكليني في الكافي 11/365:6، باب الكرّاث، فقال: عنه، أي: عن سهل بن زياد الآدمي المذكور في سند الحديث الذي رواه قبله - قال: حدّثني من رأى أبا الحسن عليه السّلام يأكل الكرّاث من المشارة، يعني: الدبرة، يغسله بالماء و يأكله، و انظر أحاديث الكرّاث في بحار الأنوار 200:63. </footnote>"
+        },
+        {
+          "footnoteId": 714169497,
+          "text": "<footnote id=\"1542\"><mnote>(1)</mnote> الزحير و كذلك الزّحار بالضمّ‌، قال فيه اللغويون: استطلاق البطن، و قال بعضهم:<br/>تقطيع في البطن يمشّي دما. الصحاح 668:2، و تاج العروس 457:6 «زحر». و قال الهروي: الزحير كأمير: حركة من الأمعاء المستقيم لدفع ما يحتبس فيه من الشيء المؤذي إمّا بكيفيّة أو كميّة أو جميعا. بحر الجواهر: 194. فارسيته: كناك و هو خاصّ بالأمعاء المستقيم و لا يوجد في غيره، و انظر: مجمع البحرين 316:3 «زحر». </footnote>"
+        },
+        {
+          "footnoteId": 714169498,
+          "text": "<footnote id=\"1543\"><mnote>(2)</mnote> الحرف بضم الحاء: حبّ الرشاد. كتاب الماء 309:1. </footnote>"
+        },
+        {
+          "footnoteId": 714169499,
+          "text": "<footnote id=\"1544\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و انظر: طبّ الأئمّة عليهم السّلام: 65. </footnote>"
+        },
+        {
+          "footnoteId": 714169500,
+          "text": "<footnote id=\"1545\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا.</footnote>"
+        }
+      ],
+      "pageValue": "280",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3470\" paragraph-id=\"3470\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo280\">280</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الزحير<span><sup><a class=\"NewFn\" href=\"#footnote1542\" title=\"(1)  الزحير و كذلك الزّحار بالضمّ‌، قال فيه اللغويون: استطلاق البطن، و قال بعضهم:تقطيع في البطن يمشّي دما. الصحاح 668:2، و تاج العروس 457:6 «زحر». و قال الهروي: الزحير كأمير: حركة من الأمعاء المستقيم لدفع ما يحتبس فيه من الشيء المؤذي إمّا بكيفيّة أو كميّة أو جميعا. بحر الجواهر: 194. فارسيته: كناك و هو خاصّ بالأمعاء المستقيم و لا يوجد في غيره، و انظر: مجمع البحرين 316:3 «زحر». \">1</a></sup></span></strong>\n  </p>\n  <p id=\"p3471\" paragraph-id=\"3471\" class=\" G\">[455] </p>\n  <p id=\"p3472\" paragraph-id=\"3472\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن بن فضّال، عن الحسين بن سعيد، عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span> قال: </span>«تلتّ الحرف<span><sup><a class=\"NewFn\" href=\"#footnote1543\" title=\"(2)  الحرف بضم الحاء: حبّ الرشاد. كتاب الماء 309:1. \">2</a></sup></span> بالعسل جميعا فينفع من الزحير و من عرق البسر»<span><sup><a class=\"NewFn\" href=\"#footnote1544\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا، و انظر: طبّ الأئمّة عليهم السّلام: 65. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p3473\" paragraph-id=\"3473\" class=\" G\">[456] و أيضا: ممّا وجدته في كتاب أبي جعفر بن بندار النهاوندي: يؤخذ للزحير سبع جوزات فيقشرها ثمّ يدقّها دقّا جيّدا ثمّ يجعل معه مثله سكّر فيأكل منه صاحب الزحير بالغداة و بالليل يوما أو يومين و إنّه يسكن<span><sup><a class=\"NewFn\" href=\"#footnote1545\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا.\">4</a></sup></span>.</p>\n  <p id=\"p3474\" paragraph-id=\"3474\" class=\" G\">[457] </p>\n  <p id=\"p3475\" paragraph-id=\"3475\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال حدّثنا الحميري، عن محمّد بن عيسى، قال:</span>\n    </span>\n  </p>\n  <p id=\"p3476\" paragraph-id=\"3476\" class=\" G\">\n    <span class=\"hadith\">شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> أنّ بي زحيرا لا يسكن.</span>\n  </p>\n  <p id=\"p3477\" paragraph-id=\"3477\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1541\" footnote-id=\"1541\"><page number=\"280\" />المحاسن 11/511:2، باب الكرّاث، عن أبي سعيد الآدمي - و مثله الكليني في الكافي 11/365:6، باب الكرّاث، فقال: عنه، أي: عن سهل بن زياد الآدمي المذكور في سند الحديث الذي رواه قبله - قال: حدّثني من رأى أبا الحسن عليه السّلام يأكل الكرّاث من المشارة، يعني: الدبرة، يغسله بالماء و يأكله، و انظر أحاديث الكرّاث في بحار الأنوار 200:63. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1542\" footnote-id=\"1542\">(1)  الزحير و كذلك الزّحار بالضمّ‌، قال فيه اللغويون: استطلاق البطن، و قال بعضهم:<br />تقطيع في البطن يمشّي دما. الصحاح 668:2، و تاج العروس 457:6 «زحر». و قال الهروي: الزحير كأمير: حركة من الأمعاء المستقيم لدفع ما يحتبس فيه من الشيء المؤذي إمّا بكيفيّة أو كميّة أو جميعا. بحر الجواهر: 194. فارسيته: كناك و هو خاصّ بالأمعاء المستقيم و لا يوجد في غيره، و انظر: مجمع البحرين 316:3 «زحر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1543\" footnote-id=\"1543\">(2)  الحرف بضم الحاء: حبّ الرشاد. كتاب الماء 309:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1544\" footnote-id=\"1544\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا، و انظر: طبّ الأئمّة عليهم السّلام: 65. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1545\" footnote-id=\"1545\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A65C1D89-F1B6-4C8B-8FBD-BE465D1D9A6E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

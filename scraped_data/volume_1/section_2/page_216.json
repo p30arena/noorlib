@@ -1,0 +1,117 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 216,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167404,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3150\"><page number=\"216\"/>[351] </p>"
+        },
+        {
+          "paragraphId": 714167405,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3151\"><format class=\"hadith\" who=\"7\" Id=\"349\" RevayatIndex=\"349\"><format class=\"sanadHadith\">روى موسى: أنّ محمّد اليقطيني، قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">موسى عليه السّلام </format></format>وجعا أجده في جوامع صدري.</format></p>"
+        },
+        {
+          "paragraphId": 714167406,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3152\"><format class=\"hadith\" who=\"7\" Id=\"349\" RevayatIndex=\"349\">فقال: «خذ رطلا - برطل العراقي - من لبن البقر و ذرّ فيه وزن عشرة دراهم سكّر».</format></p>"
+        },
+        {
+          "paragraphId": 714167407,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3153\"><format class=\"hadith\" who=\"7\" Id=\"349\" RevayatIndex=\"349\">قلت: آخذه حليبا أو مزّا؟ قال: «خذه حليبا».</format></p>"
+        },
+        {
+          "paragraphId": 714167408,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3154\"><format class=\"hadith\" who=\"7\" Id=\"349\" RevayatIndex=\"349\">قلت: ما يكون طعامي‌؟ قال: «ماء الحمّص بدهن السمسم».</format></p>"
+        },
+        {
+          "paragraphId": 714167409,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3155\"><format class=\"hadith\" who=\"7\" Id=\"349\" RevayatIndex=\"349\">قلت: كم آخذه‌؟ قال: «ثلاثة أيّام على الريق». فأخذته مرّتين و لم أحتج إلى ثالثة<lfootnote noteId=\"1235\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167410,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3156\">[352] </p>"
+        },
+        {
+          "paragraphId": 714167411,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3157\"><format class=\"hadith\" who=\"6\" Id=\"350\" RevayatIndex=\"350\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format></format> أنّه شكى إليه رجل وجعا في صدره فقال له: «استشف بالقرآن فإنّ الله تعالى يقول فيه: <format class=\"ayah\" surah=\"10\" ayah=\"57\" toAyah=\"\">شِفٰاءٌ لِمٰا فِي اَلصُّدُورِ<format class=\"ayahWord\" fromWord=\"10\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"10\" ayah=\"57\" toAyah=\"\"/></format><lfootnote noteId=\"1236\">2</lfootnote>»<lfootnote noteId=\"1237\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167412,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3158\"><heading level=\"2\">[باب] في وجع الفؤاد </heading></p>"
+        },
+        {
+          "paragraphId": 714167413,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"3159\">[353] </p>"
+        },
+        {
+          "paragraphId": 714167414,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"3160\"><format class=\"hadith\" who=\"5\" Id=\"351\" RevayatIndex=\"351\"><format class=\"sanadHadith\">روى محمّد بن مسلم، قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format> وجع الفؤاد و ريحا يأخذني في فؤادي. </format></p>"
+        },
+        {
+          "paragraphId": 714167415,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"3161\"><format class=\"hadith\" who=\"5\" Id=\"351\" RevayatIndex=\"351\"><page number=\"217\"/> قال: «يا بن مسلم، خذ وزن خمسة دراهم صعتر و وزن درهم كرويا<lfootnote noteId=\"1238\">1</lfootnote> و وزن درهم حبّ الكرفس و وزن دانقين حبّ الكرّاث و اجمعه في إناء دقّه ثمّ خذه بماء فاتر على الريق و لا تقربنّ الطعام إلى بعد الزوال».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169279,
+          "text": "<footnote id=\"1235\"><page number=\"216\"/><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169280,
+          "text": "<footnote id=\"1236\"><mnote>(2)</mnote> سورة يونس 57:10. </footnote>"
+        },
+        {
+          "footnoteId": 714169281,
+          "text": "<footnote id=\"1237\"><mnote>(3)</mnote> رواه العيّاشي في تفسيره 27/124:2، عن السكوني، عن أبي عبد الله عليه السّلام عن أبيه عليه السّلام قال: «شكا رجل إلى النّبي صلّى الله عليه و آله وجعا في صدره»، و الكليني في الكافي 7/600:2، كتاب فضل القرآن، عن علي بن إبراهيم، عن أبيه، عن النوفلي، عن السكوني: عن أبي عبد الله، عن آبائه عليهم السّلام، قال: شكا رجل، و الطبرسي في مكارم الأخلاق: 1/378، لوجع الصدر، فقال: روي عن أبي عبد الله عليه السّلام أنّه شكا إليه رجل وجع صدره.</footnote>"
+        }
+      ],
+      "pageValue": "216",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3150\" paragraph-id=\"3150\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo216\">216</span>[351] </p>\n  <p id=\"p3151\" paragraph-id=\"3151\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى موسى: أنّ محمّد اليقطيني، قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">موسى عليه السّلام </span></span>وجعا أجده في جوامع صدري.</span>\n  </p>\n  <p id=\"p3152\" paragraph-id=\"3152\" class=\" G\">\n    <span class=\"hadith\">فقال: «خذ رطلا - برطل العراقي - من لبن البقر و ذرّ فيه وزن عشرة دراهم سكّر».</span>\n  </p>\n  <p id=\"p3153\" paragraph-id=\"3153\" class=\" G\">\n    <span class=\"hadith\">قلت: آخذه حليبا أو مزّا؟ قال: «خذه حليبا».</span>\n  </p>\n  <p id=\"p3154\" paragraph-id=\"3154\" class=\" G\">\n    <span class=\"hadith\">قلت: ما يكون طعامي‌؟ قال: «ماء الحمّص بدهن السمسم».</span>\n  </p>\n  <p id=\"p3155\" paragraph-id=\"3155\" class=\" G\">\n    <span class=\"hadith\">قلت: كم آخذه‌؟ قال: «ثلاثة أيّام على الريق». فأخذته مرّتين و لم أحتج إلى ثالثة<span><sup><a class=\"NewFn\" href=\"#footnote1235\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3156\" paragraph-id=\"3156\" class=\" G\">[352] </p>\n  <p id=\"p3157\" paragraph-id=\"3157\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span></span> أنّه شكى إليه رجل وجعا في صدره فقال له: «استشف بالقرآن فإنّ الله تعالى يقول فيه: <span style=\"0\" class=\"ayah\" surah=\"10\" ayah=\"57\">شِفٰاءٌ لِمٰا فِي اَلصُّدُورِ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/10/57\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote1236\" title=\"(2)  سورة يونس 57:10. \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1237\" title=\"(3)  رواه العيّاشي في تفسيره 27/124:2، عن السكوني، عن أبي عبد الله عليه السّلام عن أبيه عليه السّلام قال: «شكا رجل إلى النّبي صلّى الله عليه و آله وجعا في صدره»، و الكليني في الكافي 7/600:2، كتاب فضل القرآن، عن علي بن إبراهيم، عن أبيه، عن النوفلي، عن السكوني: عن أبي عبد الله، عن آبائه عليهم السّلام، قال: شكا رجل، و الطبرسي في مكارم الأخلاق: 1/378، لوجع الصدر، فقال: روي عن أبي عبد الله عليه السّلام أنّه شكا إليه رجل وجع صدره.\">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p3158\" paragraph-id=\"3158\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في وجع الفؤاد </strong>\n  </p>\n  <p id=\"p3159\" paragraph-id=\"3159\" class=\" G\">[353] </p>\n  <p id=\"p3160\" paragraph-id=\"3160\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن مسلم، قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span> وجع الفؤاد و ريحا يأخذني في فؤادي. </span>\n  </p>\n  <p id=\"p3161\" paragraph-id=\"3161\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1235\" footnote-id=\"1235\">(1) <page number=\"216\" /> لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1236\" footnote-id=\"1236\">(2)  سورة يونس 57:10. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1237\" footnote-id=\"1237\">(3)  رواه العيّاشي في تفسيره 27/124:2، عن السكوني، عن أبي عبد الله عليه السّلام عن أبيه عليه السّلام قال: «شكا رجل إلى النّبي صلّى الله عليه و آله وجعا في صدره»، و الكليني في الكافي 7/600:2، كتاب فضل القرآن، عن علي بن إبراهيم، عن أبيه، عن النوفلي، عن السكوني: عن أبي عبد الله، عن آبائه عليهم السّلام، قال: شكا رجل، و الطبرسي في مكارم الأخلاق: 1/378، لوجع الصدر، فقال: روي عن أبي عبد الله عليه السّلام أنّه شكا إليه رجل وجع صدره.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "9749390B-205E-48D2-A08B-63CA8F6C6418",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

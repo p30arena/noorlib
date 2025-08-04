@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 140,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170279,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1534\"><page number=\"140\"/>[190]</p>"
+        },
+        {
+          "paragraphId": 714170280,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1535\"><format class=\"hadith\" who=\"16\" Id=\"188\" RevayatIndex=\"709\"><format class=\"sanadHadith\"><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format></format> و أيضا يكتب في جيبها<lfootnote noteId=\"561\">1</lfootnote>: بسم الله و بالله اخرج بإذن الله <format class=\"ayah\" surah=\"20\" ayah=\"55\" toAyah=\"\">مِنْهٰا خَلَقْنٰاكُمْ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"55\" toAyah=\"\"/></format> إلى <format class=\"ayah\" surah=\"20\" ayah=\"55\" toAyah=\"\">أُخْرىٰ‌<format class=\"ayahWord\" fromWord=\"10\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"55\" toAyah=\"\"/></format><lfootnote noteId=\"562\">2</lfootnote> و صلّى على <format class=\"maasoom\" maasoomNo=\"14\">محمّد</format> النبيّ و <format class=\"maasoom\" maasoomNo=\"40\">آله</format> و سلّم<lfootnote noteId=\"563\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170281,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1536\">[191] </p>"
+        },
+        {
+          "paragraphId": 714170282,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1537\"><format class=\"hadith\" who=\"6\" Id=\"189\" RevayatIndex=\"710\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى و السيّاري جميعا، عن الحسن بن علي<lfootnote noteId=\"564\">4</lfootnote> و غيره، عن عبد الله بن سنان، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال<lfootnote noteId=\"565\">5</lfootnote>: </format>«إذا عسر على المرأة ولادتها تكتب هذه الآيات، ثمّ تغسلها بماء و تسقى منه<lfootnote noteId=\"566\">6</lfootnote> المرأة، و تنضح على فرجها منه<lfootnote noteId=\"567\">7</lfootnote>: <format class=\"ayah\" surah=\"79\" ayah=\"46\" toAyah=\"\">كَأَنَّهُمْ يَوْمَ يَرَوْنَهٰا لَمْ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"79\" ayah=\"46\" toAyah=\"\"/></format><page number=\"141\"/><format class=\"ayah\" surah=\"79\" ayah=\"46\" toAyah=\"\">يَلْبَثُوا إِلاّٰ عَشِيَّةً أَوْ ضُحٰاهٰا <format class=\"ayahWord\" fromWord=\"5\" toWord=\"9\"/><format class=\"ayahAddress\" surah=\"79\" ayah=\"46\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"46\" ayah=\"35\" toAyah=\"\">كَأَنَّهُمْ يَوْمَ يَرَوْنَ مٰا يُوعَدُونَ لَمْ يَلْبَثُوا إِلاّٰ سٰاعَةً مِنْ نَهٰارٍ بَلاٰغٌ فَهَلْ يُهْلَكُ إِلاَّ اَلْقَوْمُ اَلْفٰاسِقُونَ <format class=\"ayahWord\" fromWord=\"12\" toWord=\"28\"/><format class=\"ayahAddress\" surah=\"46\" ayah=\"35\" toAyah=\"\"/></format><lfootnote noteId=\"568\">1</lfootnote><format class=\"ayah\" surah=\"12\" ayah=\"111\" toAyah=\"\">لَقَدْ كٰانَ فِي قَصَصِهِمْ عِبْرَةٌ لِأُولِي اَلْأَلْبٰابِ مٰا كٰانَ حَدِيثاً يُفْتَرىٰ وَ لٰكِنْ تَصْدِيقَ اَلَّذِي بَيْنَ يَدَيْهِ وَ تَفْصِيلَ كُلِّ شَيْ‌ءٍ وَ هُدىً وَ رَحْمَةً لِقَوْمٍ يُؤْمِنُونَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"27\"/><format class=\"ayahAddress\" surah=\"12\" ayah=\"111\" toAyah=\"\"/></format><lfootnote noteId=\"569\">2</lfootnote>»<lfootnote noteId=\"570\">3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171357,
+          "text": "<footnote id=\"560\"><mnote>(6)</mnote> رواه الطبرسي في مكارم الأخلاق: 2/381، لعسر الولادة، فقال: يكتب، و روى ابنا بسطام في طبّ الأئمّة عليهم السّلام: 35 نحوه، فقالا: عوذة للمرأة إذا تعسر عليها ولدها، <page number=\"140\"/>الخواتيمي قال: حدّثنا محمّد بن علي الصيرفي، قال: حدّثنا محمّد بن أسلم، عن الحسن بن محمّد الهاشمي، عن أبان بن أبي عيّاش، عن سليم بن قيس الهلالي، عن أمير المؤمنين عليه السّلام قال: «إنّي لأعرف آيتين من كتاب الله المنزل يكتبان للمرأة إذا عسر عليها ولدها، يكتبان في رقّ ظبي و تعلّقه عليها في حقويها... سبع مرات، و انظر نحوه أيضا في المصباح للكفعمي: 159. و الآيتان من سورة الحج 1:22-2. </footnote>"
+        },
+        {
+          "footnoteId": 714171358,
+          "text": "<footnote id=\"561\"><mnote>(1)</mnote> في مكارم الأخلاق: «في جنبها». </footnote>"
+        },
+        {
+          "footnoteId": 714171359,
+          "text": "<footnote id=\"562\"><mnote>(2)</mnote> سورة طه 55:20. </footnote>"
+        },
+        {
+          "footnoteId": 714171360,
+          "text": "<footnote id=\"563\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 3/381، لعسر الولادة، بعد الحديث السابق فقال:<br/>و مثله: يكتب في جنبها، و روى في الحديث 1 من الباب لعسرة الولادة، يكتب و يعلّق على ساقها اليسرى: باسم الله و بالله محمّد رسول الله. </footnote>"
+        },
+        {
+          "footnoteId": 714171361,
+          "text": "<footnote id=\"564\"><mnote>(4)</mnote> في النسخة: «الحسين بن علي» و لم نجد فيمن روى عنهم أحمد بن محمّد بن عيسى و السيّاري من هو مسمّى بالحسين بن علي، و ما أثبتناه في المتن هو: الحسن بن علي الوشّاء أو الحسن بن علي بن فضّال الراوي عنهما أحمد بن محمّد بن عيسى، و هما رويا عن عبد الله بن سنان، و لكن لم نجد بين مشايخ السيّاري من هو مسمّى بالحسن إلّا الحسن بن علي بن يقطين، و هو من مشايخ أحمد بن محمّد بن عيسى أيضا، إلّا أنّه لم يرو عن عبد الله بن سنان. </footnote>"
+        },
+        {
+          "footnoteId": 714171362,
+          "text": "<footnote id=\"565\"><mnote>(5)</mnote> كلمة: «قال» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171363,
+          "text": "<footnote id=\"566\"><mnote>(6)</mnote> في النسخة كلمة غير مقروءة، و كلمة: «منه» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171364,
+          "text": "<footnote id=\"567\"><mnote>(7)</mnote> في طبّ الأئمّة عليهم السّلام: «تكتب لها هذه الآيات في إناء نظيف بمسك و زعفران، ثمّ يغسل <page number=\"141\"/>بماء البئر و تسقى منه المرأة، و تنضح بطنها و فرجها فإنّها تلد من ساعتها، يكتب». </footnote>"
+        }
+      ],
+      "pageValue": "140",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1534\" paragraph-id=\"1534\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo140\">140</span>[190]</p>\n  <p id=\"p1535\" paragraph-id=\"1535\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"Y\">\n          <span class=\"maasoom\"></span>\n        </span>\n      </span> و أيضا يكتب في جيبها<span><sup><a class=\"NewFn\" href=\"#footnote561\" title=\"(1)  في مكارم الأخلاق: «في جنبها». \">1</a></sup></span>: بسم الله و بالله اخرج بإذن الله <span style=\"0\" class=\"ayah\" surah=\"20\" ayah=\"55\">مِنْهٰا خَلَقْنٰاكُمْ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/20/55\"></a></span></span> إلى <span style=\"0\" class=\"ayah\" surah=\"20\" ayah=\"55\">أُخْرىٰ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/20/55\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote562\" title=\"(2)  سورة طه 55:20. \">2</a></sup></span> و صلّى على <span class=\"maasoom\">محمّد</span> النبيّ و <span class=\"maasoom\">آله</span> و سلّم<span><sup><a class=\"NewFn\" href=\"#footnote563\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 3/381، لعسر الولادة، بعد الحديث السابق فقال:و مثله: يكتب في جنبها، و روى في الحديث 1 من الباب لعسرة الولادة، يكتب و يعلّق على ساقها اليسرى: باسم الله و بالله محمّد رسول الله. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1536\" paragraph-id=\"1536\" class=\" G\">[191] </p>\n  <p id=\"p1537\" paragraph-id=\"1537\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى و السيّاري جميعا، عن الحسن بن علي<span><sup><a class=\"NewFn\" href=\"#footnote564\" title=\"(4)  في النسخة: «الحسين بن علي» و لم نجد فيمن روى عنهم أحمد بن محمّد بن عيسى و السيّاري من هو مسمّى بالحسين بن علي، و ما أثبتناه في المتن هو: الحسن بن علي الوشّاء أو الحسن بن علي بن فضّال الراوي عنهما أحمد بن محمّد بن عيسى، و هما رويا عن عبد الله بن سنان، و لكن لم نجد بين مشايخ السيّاري من هو مسمّى بالحسن إلّا الحسن بن علي بن يقطين، و هو من مشايخ أحمد بن محمّد بن عيسى أيضا، إلّا أنّه لم يرو عن عبد الله بن سنان. \">4</a></sup></span> و غيره، عن عبد الله بن سنان، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال<span><sup><a class=\"NewFn\" href=\"#footnote565\" title=\"(5)  كلمة: «قال» أثبتناها من المصدر. \">5</a></sup></span>: </span>«إذا عسر على المرأة ولادتها تكتب هذه الآيات، ثمّ تغسلها بماء و تسقى منه<span><sup><a class=\"NewFn\" href=\"#footnote566\" title=\"(6)  في النسخة كلمة غير مقروءة، و كلمة: «منه» أثبتناها من المصدر. \">6</a></sup></span> المرأة، و تنضح على فرجها منه<span><sup><a class=\"NewFn\" href=\"#footnote567\" title=\"(7)  في طبّ الأئمّة عليهم السّلام: «تكتب لها هذه الآيات في إناء نظيف بمسك و زعفران، ثمّ يغسل \">7</a></sup></span>: <span style=\"0\" class=\"ayah\" surah=\"79\" ayah=\"46\">كَأَنَّهُمْ يَوْمَ يَرَوْنَهٰا لَمْ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/79/46\"></a></span></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote560\" footnote-id=\"560\"><page number=\"140\" />الخواتيمي قال: حدّثنا محمّد بن علي الصيرفي، قال: حدّثنا محمّد بن أسلم، عن الحسن بن محمّد الهاشمي، عن أبان بن أبي عيّاش، عن سليم بن قيس الهلالي، عن أمير المؤمنين عليه السّلام قال: «إنّي لأعرف آيتين من كتاب الله المنزل يكتبان للمرأة إذا عسر عليها ولدها، يكتبان في رقّ ظبي و تعلّقه عليها في حقويها... سبع مرات، و انظر نحوه أيضا في المصباح للكفعمي: 159. و الآيتان من سورة الحج 1:22-2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote561\" footnote-id=\"561\">(1)  في مكارم الأخلاق: «في جنبها». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote562\" footnote-id=\"562\">(2)  سورة طه 55:20. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote563\" footnote-id=\"563\">(3)  رواه الطبرسي في مكارم الأخلاق: 3/381، لعسر الولادة، بعد الحديث السابق فقال:<br />و مثله: يكتب في جنبها، و روى في الحديث 1 من الباب لعسرة الولادة، يكتب و يعلّق على ساقها اليسرى: باسم الله و بالله محمّد رسول الله. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote564\" footnote-id=\"564\">(4)  في النسخة: «الحسين بن علي» و لم نجد فيمن روى عنهم أحمد بن محمّد بن عيسى و السيّاري من هو مسمّى بالحسين بن علي، و ما أثبتناه في المتن هو: الحسن بن علي الوشّاء أو الحسن بن علي بن فضّال الراوي عنهما أحمد بن محمّد بن عيسى، و هما رويا عن عبد الله بن سنان، و لكن لم نجد بين مشايخ السيّاري من هو مسمّى بالحسن إلّا الحسن بن علي بن يقطين، و هو من مشايخ أحمد بن محمّد بن عيسى أيضا، إلّا أنّه لم يرو عن عبد الله بن سنان. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote565\" footnote-id=\"565\">(5)  كلمة: «قال» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote566\" footnote-id=\"566\">(6)  في النسخة كلمة غير مقروءة، و كلمة: «منه» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote567\" footnote-id=\"567\">(7)  في طبّ الأئمّة عليهم السّلام: «تكتب لها هذه الآيات في إناء نظيف بمسك و زعفران، ثمّ يغسل </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A539ECE2-ACEC-40A9-8C66-C1BD1B4BC199",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

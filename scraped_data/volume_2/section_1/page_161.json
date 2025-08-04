@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 161,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170355,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1610\"><page number=\"161\"/>[219] </p>"
+        },
+        {
+          "paragraphId": 714170356,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1611\"><format class=\"hadith\" who=\"6\" Id=\"216\" RevayatIndex=\"737\"><format class=\"sanadHadith\">و روى الحسن بن بندار، عن علي بن الحسن بن فضّال، عن محمّد بن عبد الله بن زياد، عن الحسن بن محبوب، عن عبد الله بن سنان، قال:</format> سألت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format>: هل كان <format class=\"E\" Number=\"44\">عيسى بن مريم عليهما السّلام</format> يصيبه ما يصيب الصغار و الكبار من الأوجاع‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714170357,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1612\"><format class=\"hadith\" who=\"6\" Id=\"216\" RevayatIndex=\"737\">فقال: «نعم، و لقد كان يصيبه وجع الكبار في صغره، و وجع الصغار في كبره، و يصيبه المرض، و كان<lfootnote noteId=\"652\">1</lfootnote> إذا مسّه وجع الخاصرة في صغره - و هو من علل الكبار<lfootnote noteId=\"653\">2</lfootnote> - قال لامّه: ابغي<lfootnote noteId=\"654\">3</lfootnote> لي عسلا<lfootnote noteId=\"655\">4</lfootnote> و شونيزا و زيتا، فتعجن جميع ذلك ثمّ تأتيه، فيكرهه و يعرض وجهه، فتقول له امّه: يا بنيّ‌، أنت طلبته منّي، و وصفته لي فلمّا أتيتك به كرهته‌؟! فيقول: هاتيه، نعتّه لك بعلم النبوّة<lfootnote noteId=\"656\">5</lfootnote>، و كرهته بجزع الصبى»<lfootnote noteId=\"657\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170358,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1613\"><heading level=\"2\">[باب] لعلّة البطن </heading></p>"
+        },
+        {
+          "paragraphId": 714170359,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1614\">[220] </p>"
+        },
+        {
+          "paragraphId": 714170360,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1615\"><format class=\"hadith\" who=\"7\" Id=\"217\" RevayatIndex=\"738\"><format class=\"sanadHadith\">روى الحسن بن خالد قال:</format> كتبت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي إبراهيم عليه السّلام</format></format>، أشكو إليه <page number=\"162\"/> علّة بطني و أسأله الدعاء.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171448,
+          "text": "<footnote id=\"651\"><mnote>(4)</mnote> روى الطبرسي نحوه في مكارم الأخلاق: 354، فقال: عنه، قال: قال النبيّ صلّى الله عليه و آله: «من سبق العاطس بالحمد عوفي من وجع الضرس و الخاصرة». <page number=\"161\"/>و نقل العامّة نحوه عنه صلّى الله عليه و آله فلاحظ: المعجم الأوسط 155:7، تاريخ مدينة دمشق 386:35. </footnote>"
+        },
+        {
+          "footnoteId": 714171449,
+          "text": "<footnote id=\"652\"><mnote>(1)</mnote> قوله: «و لقد كان يصيبه... المرض، و» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171450,
+          "text": "<footnote id=\"653\"><mnote>(2)</mnote> من قوله: «في صغره...» إلى هنا أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171451,
+          "text": "<footnote id=\"654\"><mnote>(3)</mnote> بغيت الشيء: طلبته. لسان العرب 77:14 «بغا». </footnote>"
+        },
+        {
+          "footnoteId": 714171452,
+          "text": "<footnote id=\"655\"><mnote>(4)</mnote> كلمة: «عسلا» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171453,
+          "text": "<footnote id=\"656\"><mnote>(5)</mnote> في النسخة: «هاتيه، أي لطمته لك بعلم النبوّة، و وصفته لك» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171454,
+          "text": "<footnote id=\"657\"><mnote>(6)</mnote> رواه الراوندي في قصص الأنبياء عليهم السّلام: 343/269، فقال: بإسناده [أي: بإسناد الصدوق] عن الحسن بن محبوب.</footnote>"
+        }
+      ],
+      "pageValue": "161",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1610\" paragraph-id=\"1610\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo161\">161</span>[219] </p>\n  <p id=\"p1611\" paragraph-id=\"1611\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى الحسن بن بندار، عن علي بن الحسن بن فضّال، عن محمّد بن عبد الله بن زياد، عن الحسن بن محبوب، عن عبد الله بن سنان، قال:</span> سألت <span class=\"Y\"><span class=\"maasoom\">أبا عبد الله عليه السّلام</span></span>: هل كان <span class=\"E\">عيسى بن مريم عليهما السّلام</span> يصيبه ما يصيب الصغار و الكبار من الأوجاع‌؟</span>\n  </p>\n  <p id=\"p1612\" paragraph-id=\"1612\" class=\" G\">\n    <span class=\"hadith\">فقال: «نعم، و لقد كان يصيبه وجع الكبار في صغره، و وجع الصغار في كبره، و يصيبه المرض، و كان<span><sup><a class=\"NewFn\" href=\"#footnote652\" title=\"(1)  قوله: «و لقد كان يصيبه... المرض، و» أثبتناه من المصدر. \">1</a></sup></span> إذا مسّه وجع الخاصرة في صغره - و هو من علل الكبار<span><sup><a class=\"NewFn\" href=\"#footnote653\" title=\"(2)  من قوله: «في صغره...» إلى هنا أثبتناه من المصدر. \">2</a></sup></span> - قال لامّه: ابغي<span><sup><a class=\"NewFn\" href=\"#footnote654\" title=\"(3)  بغيت الشيء: طلبته. لسان العرب 77:14 «بغا». \">3</a></sup></span> لي عسلا<span><sup><a class=\"NewFn\" href=\"#footnote655\" title=\"(4)  كلمة: «عسلا» أثبتناه من المصدر. \">4</a></sup></span> و شونيزا و زيتا، فتعجن جميع ذلك ثمّ تأتيه، فيكرهه و يعرض وجهه، فتقول له امّه: يا بنيّ‌، أنت طلبته منّي، و وصفته لي فلمّا أتيتك به كرهته‌؟! فيقول: هاتيه، نعتّه لك بعلم النبوّة<span><sup><a class=\"NewFn\" href=\"#footnote656\" title=\"(5)  في النسخة: «هاتيه، أي لطمته لك بعلم النبوّة، و وصفته لك» و ما أثبتناه من المصدر. \">5</a></sup></span>، و كرهته بجزع الصبى»<span><sup><a class=\"NewFn\" href=\"#footnote657\" title=\"(6)  رواه الراوندي في قصص الأنبياء عليهم السّلام: 343/269، فقال: بإسناده [أي: بإسناد الصدوق] عن الحسن بن محبوب.\">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1613\" paragraph-id=\"1613\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] لعلّة البطن </strong>\n  </p>\n  <p id=\"p1614\" paragraph-id=\"1614\" class=\" G\">[220] </p>\n  <p id=\"p1615\" paragraph-id=\"1615\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الحسن بن خالد قال:</span> كتبت إلى <span class=\"Y\"><span class=\"maasoom\">أبي إبراهيم عليه السّلام</span></span>، أشكو إليه </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote651\" footnote-id=\"651\"><page number=\"161\" />و نقل العامّة نحوه عنه صلّى الله عليه و آله فلاحظ: المعجم الأوسط 155:7، تاريخ مدينة دمشق 386:35. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote652\" footnote-id=\"652\">(1)  قوله: «و لقد كان يصيبه... المرض، و» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote653\" footnote-id=\"653\">(2)  من قوله: «في صغره...» إلى هنا أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote654\" footnote-id=\"654\">(3)  بغيت الشيء: طلبته. لسان العرب 77:14 «بغا». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote655\" footnote-id=\"655\">(4)  كلمة: «عسلا» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote656\" footnote-id=\"656\">(5)  في النسخة: «هاتيه، أي لطمته لك بعلم النبوّة، و وصفته لك» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote657\" footnote-id=\"657\">(6)  رواه الراوندي في قصص الأنبياء عليهم السّلام: 343/269، فقال: بإسناده [أي: بإسناد الصدوق] عن الحسن بن محبوب.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "3DE950B6-1A5E-4CEC-B235-EB288345EB72",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

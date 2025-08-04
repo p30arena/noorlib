@@ -1,0 +1,115 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 159,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170343,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1598\"><format class=\"hadith\" who=\"6\" Id=\"212\" RevayatIndex=\"733\">فقال: «أيّها المرأة، إنّ دم الافتضاض لا يجاوز الشفرتين<lfootnote noteId=\"641\">2</lfootnote>، و إنّ دم الحيض <page number=\"159\"/> يخرج بحرارة و دفق شديد، و إنّ دم المستحاضة دم بارد و يسيل و هي لا تعلم».</format></p>"
+        },
+        {
+          "paragraphId": 714170344,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1599\"><format class=\"hadith\" who=\"6\" Id=\"212\" RevayatIndex=\"733\">فقلت: يا <format class=\"maasoom\" maasoomNo=\"6\">بن رسول الله</format>، لو كنت امرأة ما ازددت على ما وصفت<lfootnote noteId=\"642\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170345,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1600\">[216] </p>"
+        },
+        {
+          "paragraphId": 714170346,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1601\"><format class=\"hadith\" who=\"6\" Id=\"213\" RevayatIndex=\"734\"><format class=\"sanadHadith\">روى حفص بن البختري، قال:</format> دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> امرأة، فسألته عن امرأة يستمرّ بها الدم، فلا يدرى أحيض ذاك أم غيره‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714170347,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1602\"><format class=\"hadith\" who=\"6\" Id=\"213\" RevayatIndex=\"734\">فقال لها: «إنّ دم الحيض حارّ غليظ<lfootnote noteId=\"643\">2</lfootnote> أسود<lfootnote noteId=\"644\">3</lfootnote>، و دم المستحاضة أصفر<lfootnote noteId=\"645\">4</lfootnote> بارد، فإذا<lfootnote noteId=\"646\">5</lfootnote> كان للدم حرارة و دفق و سواد فلتدع الصلاة».</format></p>"
+        },
+        {
+          "paragraphId": 714170348,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1603\"><format class=\"hadith\" who=\"6\" Id=\"213\" RevayatIndex=\"734\">قال: فخرجت و هي تقول: و الله لو كان امرأة ما زاد على ذا<lfootnote noteId=\"647\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170349,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1604\">[217] </p>"
+        },
+        {
+          "paragraphId": 714170350,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1605\"><format class=\"hadith\" who=\"7\" Id=\"214\" RevayatIndex=\"735\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن موسى عليه السّلام</format></format></format> أنّه سئل عن بكر اقتضّها زوجها فاستمرّ بها الدم، فلا تدري أمن الحيض هو أم من العذرة‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714170351,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1606\"><format class=\"hadith\" who=\"7\" Id=\"214\" RevayatIndex=\"735\">فقال: «مرها فتستلقي بإحدى رجليها على الحائط، ثمّ تستدخل قطنة <page number=\"160\"/> بيضاء، فإن خرجت القطنة مطوّقة بالدم فهو من العذرة، و إن خرجت القطنة مصبوغة فهو من الحيض»، ثمّ قال: «لا يعلم هؤلاء ما هذا»<lfootnote noteId=\"648\">1</lfootnote>. </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171438,
+          "text": "<footnote id=\"641\"><mnote>(2)</mnote> في النسخة: «الشقر» و ما أثبتناه من فقه الإمام الرضا عليه السّلام.<page number=\"159\"/>و الشفران: اللحم المحيط بالفرج إحاطة الشفتين بالفم. مجمع البحرين 352:3 «شفر». </footnote>"
+        },
+        {
+          "footnoteId": 714171439,
+          "text": "<footnote id=\"642\"><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و لكن روى نحوه في فقه الإمام الرضا عليه السّلام: 194، و الصدوق في كتبه الثلاثة، من لا يحضره الفقيه 98:1، و الهداية: 100، و المقنع: 52. </footnote>"
+        },
+        {
+          "footnoteId": 714171440,
+          "text": "<footnote id=\"643\"><mnote>(2)</mnote> في الكافي: «حارّ عبيط». </footnote>"
+        },
+        {
+          "footnoteId": 714171441,
+          "text": "<footnote id=\"644\"><mnote>(3)</mnote> في الكافي زيادة: «له دفع و حرارة». </footnote>"
+        },
+        {
+          "footnoteId": 714171442,
+          "text": "<footnote id=\"645\"><mnote>(4)</mnote> كلمة: «أصفر» أثبتناها من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171443,
+          "text": "<footnote id=\"646\"><mnote>(5)</mnote> في النسخة: «و إذا» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171444,
+          "text": "<footnote id=\"647\"><mnote>(6)</mnote> رواه الكليني في الكافي 1/91:3، باب معرفة دم الحيض من دم الاستحاضة - و عنه الطوسي في تهذيب الأحكام 1/151:1، باب حكم الحيض و الاستحاضة و النفاس و الطهارة من ذلك.<br/>و انظر المحاسن 112/113:1، الكافي 1/83:3-3 و ج 2/551:5، ثواب الأعمال: 267، تهذيب الأحكام 6/381:1 و 2/151 و 3 و ج 38/127:8، الاستبصار 1/332:3.</footnote>"
+        }
+      ],
+      "pageValue": "159",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1598\" paragraph-id=\"1598\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo159\">159</span> يخرج بحرارة و دفق شديد، و إنّ دم المستحاضة دم بارد و يسيل و هي لا تعلم».</span>\n  </p>\n  <p id=\"p1599\" paragraph-id=\"1599\" class=\" G\">\n    <span class=\"hadith\">فقلت: يا <span class=\"maasoom\">بن رسول الله</span>، لو كنت امرأة ما ازددت على ما وصفت<span><sup><a class=\"NewFn\" href=\"#footnote642\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا، و لكن روى نحوه في فقه الإمام الرضا عليه السّلام: 194، و الصدوق في كتبه الثلاثة، من لا يحضره الفقيه 98:1، و الهداية: 100، و المقنع: 52. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1600\" paragraph-id=\"1600\" class=\" G\">[216] </p>\n  <p id=\"p1601\" paragraph-id=\"1601\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى حفص بن البختري، قال:</span> دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> امرأة، فسألته عن امرأة يستمرّ بها الدم، فلا يدرى أحيض ذاك أم غيره‌؟</span>\n  </p>\n  <p id=\"p1602\" paragraph-id=\"1602\" class=\" G\">\n    <span class=\"hadith\">فقال لها: «إنّ دم الحيض حارّ غليظ<span><sup><a class=\"NewFn\" href=\"#footnote643\" title=\"(2)  في الكافي: «حارّ عبيط». \">2</a></sup></span> أسود<span><sup><a class=\"NewFn\" href=\"#footnote644\" title=\"(3)  في الكافي زيادة: «له دفع و حرارة». \">3</a></sup></span>، و دم المستحاضة أصفر<span><sup><a class=\"NewFn\" href=\"#footnote645\" title=\"(4)  كلمة: «أصفر» أثبتناها من الكافي. \">4</a></sup></span> بارد، فإذا<span><sup><a class=\"NewFn\" href=\"#footnote646\" title=\"(5)  في النسخة: «و إذا» و ما أثبتناه من المصدر. \">5</a></sup></span> كان للدم حرارة و دفق و سواد فلتدع الصلاة».</span>\n  </p>\n  <p id=\"p1603\" paragraph-id=\"1603\" class=\" G\">\n    <span class=\"hadith\">قال: فخرجت و هي تقول: و الله لو كان امرأة ما زاد على ذا<span><sup><a class=\"NewFn\" href=\"#footnote647\" title=\"(6)  رواه الكليني في الكافي 1/91:3، باب معرفة دم الحيض من دم الاستحاضة - و عنه الطوسي في تهذيب الأحكام 1/151:1، باب حكم الحيض و الاستحاضة و النفاس و الطهارة من ذلك.و انظر المحاسن 112/113:1، الكافي 1/83:3-3 و ج 2/551:5، ثواب الأعمال: 267، تهذيب الأحكام 6/381:1 و 2/151 و 3 و ج 38/127:8، الاستبصار 1/332:3.\">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1604\" paragraph-id=\"1604\" class=\" G\">[217] </p>\n  <p id=\"p1605\" paragraph-id=\"1605\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن موسى عليه السّلام</span></span></span> أنّه سئل عن بكر اقتضّها زوجها فاستمرّ بها الدم، فلا تدري أمن الحيض هو أم من العذرة‌؟</span>\n  </p>\n  <p id=\"p1606\" paragraph-id=\"1606\" class=\" G\">\n    <span class=\"hadith\">فقال: «مرها فتستلقي بإحدى رجليها على الحائط، ثمّ تستدخل قطنة </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote641\" footnote-id=\"641\"><page number=\"159\" />و الشفران: اللحم المحيط بالفرج إحاطة الشفتين بالفم. مجمع البحرين 352:3 «شفر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote642\" footnote-id=\"642\">(1)  لم نعثر عليه في المصادر المتوفّرة لدينا، و لكن روى نحوه في فقه الإمام الرضا عليه السّلام: 194، و الصدوق في كتبه الثلاثة، من لا يحضره الفقيه 98:1، و الهداية: 100، و المقنع: 52. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote643\" footnote-id=\"643\">(2)  في الكافي: «حارّ عبيط». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote644\" footnote-id=\"644\">(3)  في الكافي زيادة: «له دفع و حرارة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote645\" footnote-id=\"645\">(4)  كلمة: «أصفر» أثبتناها من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote646\" footnote-id=\"646\">(5)  في النسخة: «و إذا» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote647\" footnote-id=\"647\">(6)  رواه الكليني في الكافي 1/91:3، باب معرفة دم الحيض من دم الاستحاضة - و عنه الطوسي في تهذيب الأحكام 1/151:1، باب حكم الحيض و الاستحاضة و النفاس و الطهارة من ذلك.<br />و انظر المحاسن 112/113:1، الكافي 1/83:3-3 و ج 2/551:5، ثواب الأعمال: 267، تهذيب الأحكام 6/381:1 و 2/151 و 3 و ج 38/127:8، الاستبصار 1/332:3.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "32FA7250-66E4-4C92-AC56-5EBA298CDC25",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

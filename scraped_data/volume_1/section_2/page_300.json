@@ -1,0 +1,137 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 300,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167841,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3587\"><format class=\"hadith\" who=\"6\" Id=\"483\" RevayatIndex=\"483\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن محمّد بن عبد الله المسمعي، عن عبد الرحمن بن <page number=\"300\"/> أبي نجران، عن معاوية بن وهب، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام </format></format>[سمعته]<lfootnote noteId=\"1649\">1</lfootnote> يقول: </format>«الغمز زيادة في العمر»<lfootnote noteId=\"1650\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167842,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3588\">[493] </p>"
+        },
+        {
+          "paragraphId": 714167843,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3589\"><format class=\"hadith\" who=\"6\" Id=\"484\" RevayatIndex=\"484\"><format class=\"sanadHadith\">و عنه<lfootnote noteId=\"1651\">3</lfootnote>، عن علي بن سليمان بن داود، عن محسن بن أحمد، عن يونس بن يعقوب، عن عبد الأعلى مولى آل سام، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«من أراد طول البقاء بلا هرم فليتعاهد غمز البدن إذا أخذ مضجعه»<lfootnote noteId=\"1652\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167844,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3590\">[494] </p>"
+        },
+        {
+          "paragraphId": 714167845,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3591\"><format class=\"hadith\" who=\"6\" Id=\"485\" RevayatIndex=\"485\"><format class=\"sanadHadith\">و روى علي بن إبراهيم بن هاشم، عن أبيه، عن بعض أصحابنا، يرفعه، قال:</format> شكا بعض أصحابنا إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> وجعا يصيبه على قدميه<lfootnote noteId=\"1653\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167846,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3592\"><format class=\"hadith\" who=\"6\" Id=\"485\" RevayatIndex=\"485\">فقال: «إذا خرجت من الحمّام فامش خمس عشرة خطوة، ثمّ البس الحذاء».</format></p>"
+        },
+        {
+          "paragraphId": 714167847,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3593\"><format class=\"hadith\" who=\"6\" Id=\"485\" RevayatIndex=\"485\">قال: ففعل فذهب عنه<lfootnote noteId=\"1654\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167848,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3594\">[495] </p>"
+        },
+        {
+          "paragraphId": 714167849,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3595\"><format class=\"hadith\" who=\"6\" Id=\"486\" RevayatIndex=\"486\"><format class=\"sanadHadith\">و عنه عليه السّلام أنّه قال</format>: <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«لو كان شيء يزيد في العمر لكان الغمز»<lfootnote noteId=\"1655\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167850,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"3596\">[496] </p>"
+        },
+        {
+          "paragraphId": 714167851,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"3597\"><format class=\"hadith\" who=\"7|8|10\" Id=\"487\" RevayatIndex=\"487\"><format class=\"sanadHadith\">و قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8|10\">أبو الحسن عليه السّلام</format></format>: </format>«الغمز يذهب بالتعب و النصب و يزيد في العمر»<lfootnote noteId=\"1656\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167852,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"3598\"><page number=\"301\"/><heading level=\"2\">[باب] في دواء الفالج </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169604,
+          "text": "<footnote id=\"1649\"><page number=\"300\"/><mnote>(1)</mnote> في النسخة: «عمّن سمعه» و هو من سهو الناسخ، و ما أثبتناه بين المعقوفتين هو الصواب. </footnote>"
+        },
+        {
+          "footnoteId": 714169605,
+          "text": "<footnote id=\"1650\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169606,
+          "text": "<footnote id=\"1651\"><mnote>(3)</mnote> أي: عن محمّد بن عيسى بن عبيد بن يقطين المتقدّم في الحديث 491 بقرينة المروي عنه و هو علي بن سليمان بن داود الرازي. </footnote>"
+        },
+        {
+          "footnoteId": 714169607,
+          "text": "<footnote id=\"1652\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169608,
+          "text": "<footnote id=\"1653\"><mnote>(5)</mnote> كذا في النسخة و لعلّه تصحيف: «في قدميه». </footnote>"
+        },
+        {
+          "footnoteId": 714169609,
+          "text": "<footnote id=\"1654\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169610,
+          "text": "<footnote id=\"1655\"><mnote>(7)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169611,
+          "text": "<footnote id=\"1656\"><mnote>(8)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "300",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3587\" paragraph-id=\"3587\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo300\">300</span> أبي نجران، عن معاوية بن وهب، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام </span></span>[سمعته]<span><sup><a class=\"NewFn\" href=\"#footnote1649\" title=\"(1)  في النسخة: «عمّن سمعه» و هو من سهو الناسخ، و ما أثبتناه بين المعقوفتين هو الصواب. \">1</a></sup></span> يقول: </span>«الغمز زيادة في العمر»<span><sup><a class=\"NewFn\" href=\"#footnote1650\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3588\" paragraph-id=\"3588\" class=\" G\">[493] </p>\n  <p id=\"p3589\" paragraph-id=\"3589\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه<span><sup><a class=\"NewFn\" href=\"#footnote1651\" title=\"(3)  أي: عن محمّد بن عيسى بن عبيد بن يقطين المتقدّم في الحديث 491 بقرينة المروي عنه و هو علي بن سليمان بن داود الرازي. \">3</a></sup></span>، عن علي بن سليمان بن داود، عن محسن بن أحمد، عن يونس بن يعقوب، عن عبد الأعلى مولى آل سام، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«من أراد طول البقاء بلا هرم فليتعاهد غمز البدن إذا أخذ مضجعه»<span><sup><a class=\"NewFn\" href=\"#footnote1652\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3590\" paragraph-id=\"3590\" class=\" G\">[494] </p>\n  <p id=\"p3591\" paragraph-id=\"3591\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى علي بن إبراهيم بن هاشم، عن أبيه، عن بعض أصحابنا، يرفعه، قال:</span> شكا بعض أصحابنا إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> وجعا يصيبه على قدميه<span><sup><a class=\"NewFn\" href=\"#footnote1653\" title=\"(5)  كذا في النسخة و لعلّه تصحيف: «في قدميه». \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p3592\" paragraph-id=\"3592\" class=\" G\">\n    <span class=\"hadith\">فقال: «إذا خرجت من الحمّام فامش خمس عشرة خطوة، ثمّ البس الحذاء».</span>\n  </p>\n  <p id=\"p3593\" paragraph-id=\"3593\" class=\" G\">\n    <span class=\"hadith\">قال: ففعل فذهب عنه<span><sup><a class=\"NewFn\" href=\"#footnote1654\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3594\" paragraph-id=\"3594\" class=\" G\">[495] </p>\n  <p id=\"p3595\" paragraph-id=\"3595\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه عليه السّلام أنّه قال</span>: <span class=\"Y\"><span class=\"maasoom\"></span></span>«لو كان شيء يزيد في العمر لكان الغمز»<span><sup><a class=\"NewFn\" href=\"#footnote1655\" title=\"(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p3596\" paragraph-id=\"3596\" class=\" G\">[496] </p>\n  <p id=\"p3597\" paragraph-id=\"3597\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال <span class=\"Y\"><span class=\"maasoom\">أبو الحسن عليه السّلام</span></span>: </span>«الغمز يذهب بالتعب و النصب و يزيد في العمر»<span><sup><a class=\"NewFn\" href=\"#footnote1656\" title=\"(8)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p3598\" paragraph-id=\"3598\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1649\" footnote-id=\"1649\">(1) <page number=\"300\" /> في النسخة: «عمّن سمعه» و هو من سهو الناسخ، و ما أثبتناه بين المعقوفتين هو الصواب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1650\" footnote-id=\"1650\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1651\" footnote-id=\"1651\">(3)  أي: عن محمّد بن عيسى بن عبيد بن يقطين المتقدّم في الحديث 491 بقرينة المروي عنه و هو علي بن سليمان بن داود الرازي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1652\" footnote-id=\"1652\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1653\" footnote-id=\"1653\">(5)  كذا في النسخة و لعلّه تصحيف: «في قدميه». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1654\" footnote-id=\"1654\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1655\" footnote-id=\"1655\">(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1656\" footnote-id=\"1656\">(8)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A206AEED-339D-4D83-B286-FC1E90C294CB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

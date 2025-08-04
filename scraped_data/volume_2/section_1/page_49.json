@@ -1,0 +1,81 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 49,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169897,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1152\"><page number=\"49\"/>[66]</p>"
+        },
+        {
+          "paragraphId": 714169898,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1153\"><format class=\"hadith\" who=\"6\" Id=\"66\" RevayatIndex=\"587\"> و دخل بعض أصحابنا على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> و هو يحتجم، ثمّ دخل عليه من الغد فرآه يحتجم.</format></p>"
+        },
+        {
+          "paragraphId": 714169899,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1154\"><format class=\"hadith\" who=\"6\" Id=\"66\" RevayatIndex=\"587\">فقال عليه السّلام: «إنّ هذه بغير تلك التي رأيت أمس»<lfootnote noteId=\"186\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169900,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1155\">[67] </p>"
+        },
+        {
+          "paragraphId": 714169901,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1156\"><format class=\"hadith\" who=\"6\" Id=\"67\" RevayatIndex=\"588\"><format class=\"sanadHadith\">و قال عليه السّلام: <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format></format>«احتجم في الصيف آخر النهار، تستقبل الروح، و في الشتاء أوّل النهار، تستقبل دفء النهار»<lfootnote noteId=\"187\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169902,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1157\"><page number=\"50\"/>[68] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170969,
+          "text": "<footnote id=\"185\"><mnote>(5)</mnote> رواه الطبرسي في مكارم الأخلاق: 26/75، الفصل الرابع في الحجامة، عن <page number=\"49\"/>الصادق عليه السّلام، و قال الفضل الطبرسي في الآداب الدينية: 265/92، في آداب الحجامة:<br/>و اقرأ آية الكرسي.<br/>أقول: رواية المتن ذات فقرتين، و هما «اقرأ آية الكرسي و احتجم أيّ يوم شئت» و «و تصدّق و اخرج أيّ يوم شئت». فبعض المشايخ قطّع الرواية و روى القطعة الأولى منهما كما في المتن هنا. و بعضهم روى الفقرتين معا كما روي في فقه الإمام الرضا عليه السّلام: 394، هكذا: و قد روي عن أبي عبد الله عليه السّلام أنّه قال:...، و كما رواه الكليني مع زيادة الأمر بالتصدّق و الخروج أيّ يوم شاء في الكافي 408/273:8، عنه [أي: عن أحمد بن محمّد الراوي، عنه عدّة من الأصحاب - كما في الرواية المتقدّمة عنها في الكافي -] عن ابن محبوب، عن عبد الرحمن بن الحجّاج، عن أبي عبد الله عليه السّلام.<br/>و أمّا الفقرة الثانية و هو الأمر بالتصدّق و الخروج أيّ يوم شاء. انظر: المحاسن 1/348:2 و 2، طبّ الأئمّة عليهم السّلام: 56، الكافي 3/283:4 و 4، من لا يحضره الفقيه 2404/269:2 و 2405، تهذيب الأحكام 13/49:5 و 14، الآداب الدينية: 209/76، مكارم الأخلاق:<br/>242 و 243، الأمان من أخطار الأسفار و الأزمان: 38.<br/>و لاحظ: المجموع 652:4، كنز العمّال 16:10. </footnote>"
+        },
+        {
+          "footnoteId": 714170970,
+          "text": "<footnote id=\"186\"><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714170971,
+          "text": "<footnote id=\"187\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "49",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1152\" paragraph-id=\"1152\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo49\">49</span>[66]</p>\n  <p id=\"p1153\" paragraph-id=\"1153\" class=\" G\">\n    <span class=\"hadith\"> و دخل بعض أصحابنا على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> و هو يحتجم، ثمّ دخل عليه من الغد فرآه يحتجم.</span>\n  </p>\n  <p id=\"p1154\" paragraph-id=\"1154\" class=\" G\">\n    <span class=\"hadith\">فقال عليه السّلام: «إنّ هذه بغير تلك التي رأيت أمس»<span><sup><a class=\"NewFn\" href=\"#footnote186\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1155\" paragraph-id=\"1155\" class=\" G\">[67] </p>\n  <p id=\"p1156\" paragraph-id=\"1156\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال عليه السّلام: <span class=\"Y\"><span class=\"maasoom\"></span></span></span>«احتجم في الصيف آخر النهار، تستقبل الروح، و في الشتاء أوّل النهار، تستقبل دفء النهار»<span><sup><a class=\"NewFn\" href=\"#footnote187\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1157\" paragraph-id=\"1157\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote185\" footnote-id=\"185\"><page number=\"49\" />الصادق عليه السّلام، و قال الفضل الطبرسي في الآداب الدينية: 265/92، في آداب الحجامة:<br />و اقرأ آية الكرسي.<br />أقول: رواية المتن ذات فقرتين، و هما «اقرأ آية الكرسي و احتجم أيّ يوم شئت» و «و تصدّق و اخرج أيّ يوم شئت». فبعض المشايخ قطّع الرواية و روى القطعة الأولى منهما كما في المتن هنا. و بعضهم روى الفقرتين معا كما روي في فقه الإمام الرضا عليه السّلام: 394، هكذا: و قد روي عن أبي عبد الله عليه السّلام أنّه قال:...، و كما رواه الكليني مع زيادة الأمر بالتصدّق و الخروج أيّ يوم شاء في الكافي 408/273:8، عنه [أي: عن أحمد بن محمّد الراوي، عنه عدّة من الأصحاب - كما في الرواية المتقدّمة عنها في الكافي -] عن ابن محبوب، عن عبد الرحمن بن الحجّاج، عن أبي عبد الله عليه السّلام.<br />و أمّا الفقرة الثانية و هو الأمر بالتصدّق و الخروج أيّ يوم شاء. انظر: المحاسن 1/348:2 و 2، طبّ الأئمّة عليهم السّلام: 56، الكافي 3/283:4 و 4، من لا يحضره الفقيه 2404/269:2 و 2405، تهذيب الأحكام 13/49:5 و 14، الآداب الدينية: 209/76، مكارم الأخلاق:<br />242 و 243، الأمان من أخطار الأسفار و الأزمان: 38.<br />و لاحظ: المجموع 652:4، كنز العمّال 16:10. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote186\" footnote-id=\"186\">(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote187\" footnote-id=\"187\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C6D4512D-A852-48A4-B853-6E88B9863B06",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

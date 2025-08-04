@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 52,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169909,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1164\"><page number=\"52\"/><heading level=\"2\">[باب] الحجامة في الرأس<lfootnote noteId=\"196\">1</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714169910,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1165\">[71] </p>"
+        },
+        {
+          "paragraphId": 714169911,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1166\"><format class=\"hadith\" who=\"6\" Id=\"71\" RevayatIndex=\"592\"><format class=\"sanadHadith\">روى يعقوب بن يزيد، عن رجل يكنّى أبا عبد الله من أصحابنا، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«الحجامة في وسط الرأس تنفع<lfootnote noteId=\"197\">2</lfootnote> من الوسواس و النعاس و وجع الأضراس»<lfootnote noteId=\"198\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169912,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1167\">[72] </p>"
+        },
+        {
+          "paragraphId": 714169913,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1168\"><format class=\"hadith\" who=\"6\" Id=\"72\" RevayatIndex=\"593\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن عبد العزيز الصائغ<lfootnote noteId=\"199\">4</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«إنّ الحجامة في الرأس تذهب كلّ داء إلّا السام».</format></p>"
+        },
+        {
+          "paragraphId": 714169914,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1169\">[73] </p>"
+        },
+        {
+          "paragraphId": 714169915,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1170\"><format class=\"hadith\" who=\"6\" Id=\"73\" RevayatIndex=\"594\"><format class=\"sanadHadith\">و عنه عليه السّلام، قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«إنّ الحجامة وسط الرأس شبر من طرف الأنف إلى <page number=\"53\"/> حيث يبلغ، و فتر من الحاجبين إلى وسط الرأس شفاء من كلّ داء إلّا السام، و السام هو الموت». </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170980,
+          "text": "<footnote id=\"196\"><page number=\"52\"/><mnote>(1)</mnote> هذا الباب المشتمل على ثلاث روايات قد تقدّمت بتفاوت يسير في الأحاديث المرقّمة ب‍: 207 و 208 و 209 من الجزء الأوّل باب في حجامة الرأس، و قد أشبعنا الكلام هناك في مصادر روايات الباب. فانظره. </footnote>"
+        },
+        {
+          "footnoteId": 714170981,
+          "text": "<footnote id=\"197\"><mnote>(2)</mnote> كلمة: «تنفع» أثبتناها من الكافي 160/160:8، «الحجامة في الرأس هي المغيثة تنفع من كلّ داء إلّا السام. </footnote>"
+        },
+        {
+          "footnoteId": 714170982,
+          "text": "<footnote id=\"198\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا و كذا الحديثين الآتيين، و انظر تخريجات باب حجامة الرأس في الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714170983,
+          "text": "<footnote id=\"199\"><mnote>(4)</mnote> الصائغ روى عنه خالد الكيّال، عن الإمام الصادق عليه السّلام كما في بصائر الدرجات:<br/>2/122 و الأمالي للطوسي: 444 /المجلس 15 ح 51.<br/>هذا، و لكن لم نجد أيضا رواية أحمد بن محمّد بن عيسى الأشعري عن هذا الرجل، نعم هناك اثنان من مشائخ أحمد بن محمّد من اسمه عبد العزيز، أوّلهم: عبد العزيز بن المهتدي بن محمّد بن عبد العزيز الأشعري القمّي الثقة الذي روى عن الإمام الرضا عليه السّلام، و ثانيهما: عبد العزيز بن حسّان، و لكنّهما لم يلقّبا ب‍: «الصائغ»، فالأمر مشكل على جميع الأحوال.</footnote>"
+        }
+      ],
+      "pageValue": "52",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1164\" paragraph-id=\"1164\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo52\">52</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] الحجامة في الرأس<span><sup><a class=\"NewFn\" href=\"#footnote196\" title=\"(1)  هذا الباب المشتمل على ثلاث روايات قد تقدّمت بتفاوت يسير في الأحاديث المرقّمة ب‍: 207 و 208 و 209 من الجزء الأوّل باب في حجامة الرأس، و قد أشبعنا الكلام هناك في مصادر روايات الباب. فانظره. \">1</a></sup></span></strong>\n  </p>\n  <p id=\"p1165\" paragraph-id=\"1165\" class=\" G\">[71] </p>\n  <p id=\"p1166\" paragraph-id=\"1166\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى يعقوب بن يزيد، عن رجل يكنّى أبا عبد الله من أصحابنا، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«الحجامة في وسط الرأس تنفع<span><sup><a class=\"NewFn\" href=\"#footnote197\" title=\"(2)  كلمة: «تنفع» أثبتناها من الكافي 160/160:8، «الحجامة في الرأس هي المغيثة تنفع من كلّ داء إلّا السام. \">2</a></sup></span> من الوسواس و النعاس و وجع الأضراس»<span><sup><a class=\"NewFn\" href=\"#footnote198\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا و كذا الحديثين الآتيين، و انظر تخريجات باب حجامة الرأس في الجزء الأوّل. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1167\" paragraph-id=\"1167\" class=\" G\">[72] </p>\n  <p id=\"p1168\" paragraph-id=\"1168\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن عبد العزيز الصائغ<span><sup><a class=\"NewFn\" href=\"#footnote199\" title=\"(4)  الصائغ روى عنه خالد الكيّال، عن الإمام الصادق عليه السّلام كما في بصائر الدرجات:2/122 و الأمالي للطوسي: 444 /المجلس 15 ح 51.هذا، و لكن لم نجد أيضا رواية أحمد بن محمّد بن عيسى الأشعري عن هذا الرجل، نعم هناك اثنان من مشائخ أحمد بن محمّد من اسمه عبد العزيز، أوّلهم: عبد العزيز بن المهتدي بن محمّد بن عبد العزيز الأشعري القمّي الثقة الذي روى عن الإمام الرضا عليه السّلام، و ثانيهما: عبد العزيز بن حسّان، و لكنّهما لم يلقّبا ب‍: «الصائغ»، فالأمر مشكل على جميع الأحوال.\">4</a></sup></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«إنّ الحجامة في الرأس تذهب كلّ داء إلّا السام».</span>\n  </p>\n  <p id=\"p1169\" paragraph-id=\"1169\" class=\" G\">[73] </p>\n  <p id=\"p1170\" paragraph-id=\"1170\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه عليه السّلام، قال: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«إنّ الحجامة وسط الرأس شبر من طرف الأنف إلى </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote196\" footnote-id=\"196\">(1) <page number=\"52\" /> هذا الباب المشتمل على ثلاث روايات قد تقدّمت بتفاوت يسير في الأحاديث المرقّمة ب‍: 207 و 208 و 209 من الجزء الأوّل باب في حجامة الرأس، و قد أشبعنا الكلام هناك في مصادر روايات الباب. فانظره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote197\" footnote-id=\"197\">(2)  كلمة: «تنفع» أثبتناها من الكافي 160/160:8، «الحجامة في الرأس هي المغيثة تنفع من كلّ داء إلّا السام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote198\" footnote-id=\"198\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا و كذا الحديثين الآتيين، و انظر تخريجات باب حجامة الرأس في الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote199\" footnote-id=\"199\">(4)  الصائغ روى عنه خالد الكيّال، عن الإمام الصادق عليه السّلام كما في بصائر الدرجات:<br />2/122 و الأمالي للطوسي: 444 /المجلس 15 ح 51.<br />هذا، و لكن لم نجد أيضا رواية أحمد بن محمّد بن عيسى الأشعري عن هذا الرجل، نعم هناك اثنان من مشائخ أحمد بن محمّد من اسمه عبد العزيز، أوّلهم: عبد العزيز بن المهتدي بن محمّد بن عبد العزيز الأشعري القمّي الثقة الذي روى عن الإمام الرضا عليه السّلام، و ثانيهما: عبد العزيز بن حسّان، و لكنّهما لم يلقّبا ب‍: «الصائغ»، فالأمر مشكل على جميع الأحوال.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "400058C3-189C-4185-94F6-F09EC8435A89",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

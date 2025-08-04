@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 242,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167530,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3276\"><page number=\"242\"/>[393] </p>"
+        },
+        {
+          "paragraphId": 714167531,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3277\"><format class=\"hadith\" who=\"6\" Id=\"390\" RevayatIndex=\"390\"><format class=\"sanadHadith\">و غيره<lfootnote noteId=\"1346\">1</lfootnote> عن الحميري، عن أحمد بن محمّد، عن محمّد بن أحمد بن أبي محمود<lfootnote noteId=\"1347\">2</lfootnote> أو غيره من أصحابنا، رفعه إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«شرب الماء من قيام بالنهار يمرئ الطعام<lfootnote noteId=\"1348\">3</lfootnote>»<lfootnote noteId=\"1349\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167532,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3278\">[394] </p>"
+        },
+        {
+          "paragraphId": 714167533,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3279\"><format class=\"hadith\" who=\"16\" Id=\"391\" RevayatIndex=\"391\"><format class=\"sanadHadith\">و روي: </format>«ورق الفجلّ يمرئ الطعام»<lfootnote noteId=\"1350\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167534,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3280\">[395] </p>"
+        },
+        {
+          "paragraphId": 714167535,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3281\"><format class=\"hadith\" who=\"8|7|10\" Id=\"392\" RevayatIndex=\"392\"><format class=\"sanadHadith\">روى أبو العبّاس الرازي<lfootnote noteId=\"1351\">6</lfootnote>، عن ابن جمهور، عن ابن نعيم، عمّن ذكره، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8|7|10\">أبي الحسن عليه السّلام</format></format>: </format>«من أراد أكل الماست<lfootnote noteId=\"1352\">7</lfootnote> و لا يضرّه، فليصبّ عليه من <page number=\"243\"/> الهاضوم»<lfootnote noteId=\"1353\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169300,
+          "text": "<footnote id=\"1345\"><mnote>(5)</mnote> رواه البرقي في المحاسن 13/572:2، باب فضل الماء، عن النوفلي بإسناده [أي: عن السكوني عن أبي عبد الله عليه السّلام]، و الطبرسي في مكارم الأخلاق: 3/157، باب في النهي <page number=\"242\"/>عن إكثار شرب الماء، عن الصادق عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169301,
+          "text": "<footnote id=\"1346\"><mnote>(1)</mnote> أي: ابن همّام و غيره. </footnote>"
+        },
+        {
+          "footnoteId": 714169302,
+          "text": "<footnote id=\"1347\"><mnote>(2)</mnote> في النسخة: «عن الحميري، عن أحمد بن محمّد بن أبي أحمد، عن أبي محمود» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714169303,
+          "text": "<footnote id=\"1348\"><mnote>(3)</mnote> هنا روايات كثيرة دلّت على ذمّ شرب الماء بالليل من قيام و حسنه بالنهار و عكسه. انظر: بحار الأنوار 458:63، باب آداب الشرب و أوانيه. </footnote>"
+        },
+        {
+          "footnoteId": 714169304,
+          "text": "<footnote id=\"1349\"><mnote>(4)</mnote> رواه البرقي بزيادة في ذيله في المحاسن 17/572:2، باب فضل الماء، عن ابن محبوب، عن أبيه و غيره، رفعه قال: قال أبو عبد الله عليه السّلام: «شرب الماء من قيام بالنهار يمرئ الطعام، و شرب الماء بالليل يورث الماء الأصفر، و من شرب الماء بالليل فقال: يا ماء، عليك السّلام من ماء زمزم و ماء الفرات لم يضرّه شرب الماء بالليل»، و الكليني في الكافي 2/383:6، باب شرب الماء من قيام و الشرب في نفس واحد، عن علي بن محمّد، عن محمّد بن أحمد بن أبي محمود، رفعه إلى أبي عبد الله عليه السّلام، مثل المحاسن إلى قوله عليه السّلام: «يورث الماء الأصفر»، و رواه الطبرسي مثل المحاسن في مكارم الأخلاق: 2/157، باب في شرب الماء من قيام، عن الصادق عليه السّلام قال: «... بالليل» و قال: «ثلاث مرات». </footnote>"
+        },
+        {
+          "footnoteId": 714169305,
+          "text": "<footnote id=\"1350\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا و لاحظ الحديث 22 من الجزء الثاني. </footnote>"
+        },
+        {
+          "footnoteId": 714169306,
+          "text": "<footnote id=\"1351\"><mnote>(6)</mnote> هو أحمد بن علي الخضيب الأيادي، أبو العبّاس الرازي. </footnote>"
+        },
+        {
+          "footnoteId": 714169307,
+          "text": "<footnote id=\"1352\"><mnote>(7)</mnote> فارسية و تعني اللبن و هو الحليب الرائب.</footnote>"
+        }
+      ],
+      "pageValue": "242",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3276\" paragraph-id=\"3276\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo242\">242</span>[393] </p>\n  <p id=\"p3277\" paragraph-id=\"3277\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و غيره<span><sup><a class=\"NewFn\" href=\"#footnote1346\" title=\"(1)  أي: ابن همّام و غيره. \">1</a></sup></span> عن الحميري، عن أحمد بن محمّد، عن محمّد بن أحمد بن أبي محمود<span><sup><a class=\"NewFn\" href=\"#footnote1347\" title=\"(2)  في النسخة: «عن الحميري، عن أحمد بن محمّد بن أبي أحمد، عن أبي محمود» و ما أثبتناه من الكافي. \">2</a></sup></span> أو غيره من أصحابنا، رفعه إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«شرب الماء من قيام بالنهار يمرئ الطعام<span><sup><a class=\"NewFn\" href=\"#footnote1348\" title=\"(3)  هنا روايات كثيرة دلّت على ذمّ شرب الماء بالليل من قيام و حسنه بالنهار و عكسه. انظر: بحار الأنوار 458:63، باب آداب الشرب و أوانيه. \">3</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1349\" title=\"(4)  رواه البرقي بزيادة في ذيله في المحاسن 17/572:2، باب فضل الماء، عن ابن محبوب، عن أبيه و غيره، رفعه قال: قال أبو عبد الله عليه السّلام: «شرب الماء من قيام بالنهار يمرئ الطعام، و شرب الماء بالليل يورث الماء الأصفر، و من شرب الماء بالليل فقال: يا ماء، عليك السّلام من ماء زمزم و ماء الفرات لم يضرّه شرب الماء بالليل»، و الكليني في الكافي 2/383:6، باب شرب الماء من قيام و الشرب في نفس واحد، عن علي بن محمّد، عن محمّد بن أحمد بن أبي محمود، رفعه إلى أبي عبد الله عليه السّلام، مثل المحاسن إلى قوله عليه السّلام: «يورث الماء الأصفر»، و رواه الطبرسي مثل المحاسن في مكارم الأخلاق: 2/157، باب في شرب الماء من قيام، عن الصادق عليه السّلام قال: «... بالليل» و قال: «ثلاث مرات». \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3278\" paragraph-id=\"3278\" class=\" G\">[394] </p>\n  <p id=\"p3279\" paragraph-id=\"3279\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي: </span>«ورق الفجلّ يمرئ الطعام»<span><sup><a class=\"NewFn\" href=\"#footnote1350\" title=\"(5)  لم نعثر عليه في المصادر المتوفرة لدينا و لاحظ الحديث 22 من الجزء الثاني. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p3280\" paragraph-id=\"3280\" class=\" G\">[395] </p>\n  <p id=\"p3281\" paragraph-id=\"3281\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى أبو العبّاس الرازي<span><sup><a class=\"NewFn\" href=\"#footnote1351\" title=\"(6)  هو أحمد بن علي الخضيب الأيادي، أبو العبّاس الرازي. \">6</a></sup></span>، عن ابن جمهور، عن ابن نعيم، عمّن ذكره، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span>: </span>«من أراد أكل الماست<span><sup><a class=\"NewFn\" href=\"#footnote1352\" title=\"(7)  فارسية و تعني اللبن و هو الحليب الرائب.\">7</a></sup></span> و لا يضرّه، فليصبّ عليه من </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1345\" footnote-id=\"1345\"><page number=\"242\" />عن إكثار شرب الماء، عن الصادق عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1346\" footnote-id=\"1346\">(1)  أي: ابن همّام و غيره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1347\" footnote-id=\"1347\">(2)  في النسخة: «عن الحميري، عن أحمد بن محمّد بن أبي أحمد، عن أبي محمود» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1348\" footnote-id=\"1348\">(3)  هنا روايات كثيرة دلّت على ذمّ شرب الماء بالليل من قيام و حسنه بالنهار و عكسه. انظر: بحار الأنوار 458:63، باب آداب الشرب و أوانيه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1349\" footnote-id=\"1349\">(4)  رواه البرقي بزيادة في ذيله في المحاسن 17/572:2، باب فضل الماء، عن ابن محبوب، عن أبيه و غيره، رفعه قال: قال أبو عبد الله عليه السّلام: «شرب الماء من قيام بالنهار يمرئ الطعام، و شرب الماء بالليل يورث الماء الأصفر، و من شرب الماء بالليل فقال: يا ماء، عليك السّلام من ماء زمزم و ماء الفرات لم يضرّه شرب الماء بالليل»، و الكليني في الكافي 2/383:6، باب شرب الماء من قيام و الشرب في نفس واحد، عن علي بن محمّد، عن محمّد بن أحمد بن أبي محمود، رفعه إلى أبي عبد الله عليه السّلام، مثل المحاسن إلى قوله عليه السّلام: «يورث الماء الأصفر»، و رواه الطبرسي مثل المحاسن في مكارم الأخلاق: 2/157، باب في شرب الماء من قيام، عن الصادق عليه السّلام قال: «... بالليل» و قال: «ثلاث مرات». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1350\" footnote-id=\"1350\">(5)  لم نعثر عليه في المصادر المتوفرة لدينا و لاحظ الحديث 22 من الجزء الثاني. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1351\" footnote-id=\"1351\">(6)  هو أحمد بن علي الخضيب الأيادي، أبو العبّاس الرازي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1352\" footnote-id=\"1352\">(7)  فارسية و تعني اللبن و هو الحليب الرائب.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D69F572B-07DB-4907-B913-8486501D2EC1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

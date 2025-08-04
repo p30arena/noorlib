@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 151,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170313,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1568\"><format class=\"hadith\" who=\"16\" Id=\"201\" RevayatIndex=\"722\"><format class=\"sanadHadith\"><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format></format> تقول: «<format class=\"semicolon\">بسم الله و بالله، و الحمد لله<lfootnote noteId=\"603\">4</lfootnote>، و الله أكبر، إيمانا بالله، و ثناء <page number=\"151\"/> على <format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format><lfootnote noteId=\"604\">1</lfootnote>، و العصمة لأمره، و الشّكر لرزقه، و فضله علينا أهل البيت</format>».</format></p>"
+        },
+        {
+          "paragraphId": 714170314,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1569\"><format class=\"hadith\" who=\"16\" Id=\"201\" RevayatIndex=\"722\">فإن كان ذكرا فقل<lfootnote noteId=\"605\">2</lfootnote>: <format class=\"semicolon\">«اللّهمّ إنّك وهبت لنا ذكرا<lfootnote noteId=\"606\">3</lfootnote>، و أنت أعلم بما وهبت، اللّهمّ ما أعطيت فاجعله بارّا تقيّا واسع الرزق و من شيعة <format class=\"maasoom\" maasoomNo=\"40\">آل محمّد</format>، و كلّ‌<lfootnote noteId=\"607\">4</lfootnote> ما صنعنا فتقبّله منّا على سنّتك و سنّة <format class=\"maasoom\" maasoomNo=\"14\">نبيّك صلّى الله عليه و آله</format>، و اصرف عنّا الشّيطان الرّجيم، لك سفكت الدّماء، لا شريك لك، الحمد لله ربّ العالمين</format>»<lfootnote noteId=\"608\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170315,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1570\">[205]</p>"
+        },
+        {
+          "paragraphId": 714170316,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1571\"><format class=\"hadith\" who=\"16\" Id=\"202\" RevayatIndex=\"723\"><format class=\"sanadHadith\"><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format></format> و تقول هذا الكلام [في]<lfootnote noteId=\"609\">6</lfootnote> العقيقة: «<format class=\"semicolon\">بسم الله منك و إليك، عقيقة<lfootnote noteId=\"610\">7</lfootnote>عن فلان بن فلان، على ملّتك و ملّة نبيّك و دينك و سنّة <format class=\"maasoom\" maasoomNo=\"14\">رسولك صلّى الله عليه و آله</format></format>». و لا تكسر بها عظما و فصّلها تفصيلا<lfootnote noteId=\"611\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170317,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1572\">[206] </p>"
+        },
+        {
+          "paragraphId": 714170318,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1573\"><format class=\"hadith\" who=\"14,6\" Id=\"203\" RevayatIndex=\"724\"><format class=\"sanadHadith\">عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«عقّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> عن <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"2\">الحسن </format></format>و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"3\">الحسين بن علي عليهما السّلام</format></format> بيده فقال: بسم الله، عقيقة عن <format class=\"maasoom\" maasoomNo=\"2\">الحسن بن علي</format>، عظمها <page number=\"152\"/> بعظمه، و لحمها بلحمه<lfootnote noteId=\"612\">1</lfootnote>، و دمها بدمه، و شعرها بشعره، اللّهمّ اجعلها وقاء <format class=\"maasoom\" maasoomNo=\"14\">لمحمّد</format> و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\">آل محمّد</format></format>»<lfootnote noteId=\"613\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171401,
+          "text": "<footnote id=\"604\"><page number=\"151\"/><mnote>(1)</mnote> في النسخة: «بالله ربّنا على ملّة رسول الله» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171402,
+          "text": "<footnote id=\"605\"><mnote>(2)</mnote> قوله: «فإن كان ذكرا فقل» أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171403,
+          "text": "<footnote id=\"606\"><mnote>(3)</mnote> في النسخة: «اللّهمّ وهب لنا ذكرا أهل البيت» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171404,
+          "text": "<footnote id=\"607\"><mnote>(4)</mnote> كلمة: «و كلّ‌» أثبتناها من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171405,
+          "text": "<footnote id=\"608\"><mnote>(5)</mnote> لم نعثر على نصّه في المصادر المتوفّرة لدينا، و روي ما يشابهه لفظا. انظر: فقه الإمام الرضا عليه السّلام: 239، الكافي 2/30:6-6، من لا يحضره الفقيه 4722/487:3-4723، تهذيب الأحكام 1774/443:7، مكارم الأخلاق: 227-228. </footnote>"
+        },
+        {
+          "footnoteId": 714171406,
+          "text": "<footnote id=\"609\"><mnote>(6)</mnote> ما بين المعقوفتين أثبتناه لضرورة السياق. </footnote>"
+        },
+        {
+          "footnoteId": 714171407,
+          "text": "<footnote id=\"610\"><mnote>(7)</mnote> أي: هذه عقيقة، أو: عققت عقيقة. </footnote>"
+        },
+        {
+          "footnoteId": 714171408,
+          "text": "<footnote id=\"611\"><mnote>(8)</mnote> لم نعثر على نصّه في المصادر المتوفّرة لدينا، و لكن ورد نحوه في فقه الإمام الرضا عليه السّلام: 239، و المقنع: 336.</footnote>"
+        }
+      ],
+      "pageValue": "151",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1568\" paragraph-id=\"1568\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"semicolon\">\n        <span class=\"GPA0 bookPage PageNo151\">151</span> على <span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span><span><sup><a class=\"NewFn\" href=\"#footnote604\" title=\"(1)  في النسخة: «بالله ربّنا على ملّة رسول الله» و ما أثبتناه من الكافي. \">1</a></sup></span>، و العصمة لأمره، و الشّكر لرزقه، و فضله علينا أهل البيت</span>».</span>\n  </p>\n  <p id=\"p1569\" paragraph-id=\"1569\" class=\" G\">\n    <span class=\"hadith\">فإن كان ذكرا فقل<span><sup><a class=\"NewFn\" href=\"#footnote605\" title=\"(2)  قوله: «فإن كان ذكرا فقل» أثبتناه من الكافي. \">2</a></sup></span>: <span class=\"semicolon\">«اللّهمّ إنّك وهبت لنا ذكرا<span><sup><a class=\"NewFn\" href=\"#footnote606\" title=\"(3)  في النسخة: «اللّهمّ وهب لنا ذكرا أهل البيت» و ما أثبتناه من الكافي. \">3</a></sup></span>، و أنت أعلم بما وهبت، اللّهمّ ما أعطيت فاجعله بارّا تقيّا واسع الرزق و من شيعة <span class=\"maasoom\">آل محمّد</span>، و كلّ‌<span><sup><a class=\"NewFn\" href=\"#footnote607\" title=\"(4)  كلمة: «و كلّ‌» أثبتناها من الكافي. \">4</a></sup></span> ما صنعنا فتقبّله منّا على سنّتك و سنّة <span class=\"maasoom\">نبيّك صلّى الله عليه و آله</span>، و اصرف عنّا الشّيطان الرّجيم، لك سفكت الدّماء، لا شريك لك، الحمد لله ربّ العالمين</span>»<span><sup><a class=\"NewFn\" href=\"#footnote608\" title=\"(5)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و روي ما يشابهه لفظا. انظر: فقه الإمام الرضا عليه السّلام: 239، الكافي 2/30:6-6، من لا يحضره الفقيه 4722/487:3-4723، تهذيب الأحكام 1774/443:7، مكارم الأخلاق: 227-228. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1570\" paragraph-id=\"1570\" class=\" G\">[205]</p>\n  <p id=\"p1571\" paragraph-id=\"1571\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"Y\">\n          <span class=\"maasoom\"></span>\n        </span>\n      </span> و تقول هذا الكلام [في]<span><sup><a class=\"NewFn\" href=\"#footnote609\" title=\"(6)  ما بين المعقوفتين أثبتناه لضرورة السياق. \">6</a></sup></span> العقيقة: «<span class=\"semicolon\">بسم الله منك و إليك، عقيقة<span><sup><a class=\"NewFn\" href=\"#footnote610\" title=\"(7)  أي: هذه عقيقة، أو: عققت عقيقة. \">7</a></sup></span>عن فلان بن فلان، على ملّتك و ملّة نبيّك و دينك و سنّة <span class=\"maasoom\">رسولك صلّى الله عليه و آله</span></span>». و لا تكسر بها عظما و فصّلها تفصيلا<span><sup><a class=\"NewFn\" href=\"#footnote611\" title=\"(8)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و لكن ورد نحوه في فقه الإمام الرضا عليه السّلام: 239، و المقنع: 336.\">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p1572\" paragraph-id=\"1572\" class=\" G\">[206] </p>\n  <p id=\"p1573\" paragraph-id=\"1573\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«عقّ <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span> عن <span class=\"BD\"><span class=\"maasoom\">الحسن </span></span>و <span class=\"BD\"><span class=\"maasoom\">الحسين بن علي عليهما السّلام</span></span> بيده فقال: بسم الله، عقيقة عن <span class=\"maasoom\">الحسن بن علي</span>، عظمها </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote604\" footnote-id=\"604\">(1) <page number=\"151\" /> في النسخة: «بالله ربّنا على ملّة رسول الله» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote605\" footnote-id=\"605\">(2)  قوله: «فإن كان ذكرا فقل» أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote606\" footnote-id=\"606\">(3)  في النسخة: «اللّهمّ وهب لنا ذكرا أهل البيت» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote607\" footnote-id=\"607\">(4)  كلمة: «و كلّ‌» أثبتناها من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote608\" footnote-id=\"608\">(5)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و روي ما يشابهه لفظا. انظر: فقه الإمام الرضا عليه السّلام: 239، الكافي 2/30:6-6، من لا يحضره الفقيه 4722/487:3-4723، تهذيب الأحكام 1774/443:7، مكارم الأخلاق: 227-228. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote609\" footnote-id=\"609\">(6)  ما بين المعقوفتين أثبتناه لضرورة السياق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote610\" footnote-id=\"610\">(7)  أي: هذه عقيقة، أو: عققت عقيقة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote611\" footnote-id=\"611\">(8)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و لكن ورد نحوه في فقه الإمام الرضا عليه السّلام: 239، و المقنع: 336.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5943CE4D-886D-4C0C-8EBC-7F44C6894697",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

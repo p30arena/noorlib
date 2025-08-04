@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 2,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166002,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1748\"><page number=\"2\"/><img src=\"BK126314G001S1P2\" alt=\"\" imgtype=\"Scan\"/><page number=\"3\"/><img src=\"BK126314G001S1P3\" alt=\"\" imgtype=\"Scan\"/><page number=\"4\"/><img src=\"BK126314G001S1P4\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"12\"/><page number=\"5\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"1\"/>مقدمة المجمع</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "2",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1748\" paragraph-id=\"1748\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo2\">2</span>\n    <img src=\"/file/book/page/h_HEPqA6eacDGrV3AukVpl72t7fHyyM6e9Tnbydm1-4171LxT94PK64Y6fmQlcPE\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "A97A3918-6731-446A-8C82-81AEF6CAD0E0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

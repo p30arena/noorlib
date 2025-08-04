@@ -1,0 +1,83 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 88,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166912,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2517\"><format class=\"hadith\" who=\"6\" Id=\"132\" RevayatIndex=\"132\">ففعلت ذلك<lfootnote noteId=\"662\">5</lfootnote>، فبرأت، فخبرت بعض المتطبّبين - و كان أفره أهل بلادنا<lfootnote noteId=\"663\">6</lfootnote> - فقال: من أين عرف <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">أبو عبد الله عليه السّلام</format></format> هذا؟ و هذا من مخزون علمنا، <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\"/></format><page number=\"88\"/> أما إنّه صاحب كتب، فينبغي أن يكون أصابه في بعض الكتب<lfootnote noteId=\"664\">1</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714166913,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2518\"><heading level=\"2\">باب السكّر ينجّم للحمّى<lfootnote noteId=\"665\">2</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714166914,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2519\">[135] </p>"
+        },
+        {
+          "paragraphId": 714166915,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2520\"><format class=\"hadith\" who=\"7\" Id=\"133\" RevayatIndex=\"133\"><format class=\"sanadHadith\">روى إبراهيم بن إسحاق، عن عبد الله بن أحمد، عن الحسين بن قارب، عن مولاة <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">لأبي إبراهيم عليه السّلام</format></format> قالت:</format> كان إذا حمّ يأمر أن ينجّم له السكّر الصغار الدقاق ثلاث ليال، في أوّل ليلة سكّرة و نصف، و في الليلة الثانية بسكّرتين<lfootnote noteId=\"666\">3</lfootnote> و نصف، و في الليلة الثالثة ثلاث سكّرات و نصف، و يجعل في إناء زجاج نظيف، و يصبّ عليه من الماء غمرة<lfootnote noteId=\"667\">4</lfootnote>، و ينجّم من مغيب الشمس إلى طلوع الفجر، يقرأ عليه - من قبل أن يشرب - الحمد و آية الكرسي و قل هو الله أحد و المعوّذتين، و يصيّر على القدح خرقة جديدة أو نظيفة، و من تحته مثلها، و يصيّر عليه حديدة و يشربه<lfootnote noteId=\"668\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166916,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2521\"><page number=\"89\"/><heading level=\"2\">[باب] في السكّر و الهليلج و الرازيانج </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168695,
+          "text": "<footnote id=\"664\"><page number=\"88\"/><mnote>(1)</mnote> رواه الكليني في الكافي 5/333:6، باب السكّر، و في ج 385/265:8، عن محمّد بن يحيى، عن أحمد بن محمّد، و الطبرسي صدره بتفاوت يسير في مكارم الأخلاق: 3/168، باب السكّر، عن علي بن يقطين، عن أبي الحسن عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168696,
+          "text": "<footnote id=\"665\"><mnote>(2)</mnote> التنجيم: وضع الشيء تحت السماء بحيث تصيبه النجوم. الوافي 342:19. </footnote>"
+        },
+        {
+          "footnoteId": 714168697,
+          "text": "<footnote id=\"666\"><mnote>(3)</mnote> كذا في النسخة و لعلّ الصواب: «سكّرتين». </footnote>"
+        },
+        {
+          "footnoteId": 714168698,
+          "text": "<footnote id=\"667\"><mnote>(4)</mnote> الغمر: الماء الكثير، و قد غمره الماء يغمره، أي: علاه. الصحاح 772:2 «غمر». </footnote>"
+        },
+        {
+          "footnoteId": 714168699,
+          "text": "<footnote id=\"668\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و لكن روى الكليني ما يؤيّده في الكافي 11/334:6، باب السكر، عن محمّد بن يحيى، عن أحمد بن محمّد، عن علي بن أحمد بن أشيم، عن بعض أصحابنا قال: حمّ بعض أهلنا فوصف له المتطبّبون الغافث فسقيناه فلم ينتفع به، فشكوت ذلك إلى أبي عبد الله عليه السّلام فقال:...، و أيضا في ج 386/265:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن جعفر بن يحيى الخزاعي، عن الحسين بن <page number=\"89\"/>الحسن، عن عاصم بن يونس، عن رجل، عن أبي عبد الله عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "88",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2517\" paragraph-id=\"2517\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo88\">88</span> أما إنّه صاحب كتب، فينبغي أن يكون أصابه في بعض الكتب<span><sup><a class=\"NewFn\" href=\"#footnote664\" title=\"(1)  رواه الكليني في الكافي 5/333:6، باب السكّر، و في ج 385/265:8، عن محمّد بن يحيى، عن أحمد بن محمّد، و الطبرسي صدره بتفاوت يسير في مكارم الأخلاق: 3/168، باب السكّر، عن علي بن يقطين، عن أبي الحسن عليه السّلام. \">1</a></sup></span>. </span>\n  </p>\n  <p id=\"p2518\" paragraph-id=\"2518\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب السكّر ينجّم للحمّى<span><sup><a class=\"NewFn\" href=\"#footnote665\" title=\"(2)  التنجيم: وضع الشيء تحت السماء بحيث تصيبه النجوم. الوافي 342:19. \">2</a></sup></span></strong>\n  </p>\n  <p id=\"p2519\" paragraph-id=\"2519\" class=\" G\">[135] </p>\n  <p id=\"p2520\" paragraph-id=\"2520\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى إبراهيم بن إسحاق، عن عبد الله بن أحمد، عن الحسين بن قارب، عن مولاة <span class=\"Y\"><span class=\"maasoom\">لأبي إبراهيم عليه السّلام</span></span> قالت:</span> كان إذا حمّ يأمر أن ينجّم له السكّر الصغار الدقاق ثلاث ليال، في أوّل ليلة سكّرة و نصف، و في الليلة الثانية بسكّرتين<span><sup><a class=\"NewFn\" href=\"#footnote666\" title=\"(3)  كذا في النسخة و لعلّ الصواب: «سكّرتين». \">3</a></sup></span> و نصف، و في الليلة الثالثة ثلاث سكّرات و نصف، و يجعل في إناء زجاج نظيف، و يصبّ عليه من الماء غمرة<span><sup><a class=\"NewFn\" href=\"#footnote667\" title=\"(4)  الغمر: الماء الكثير، و قد غمره الماء يغمره، أي: علاه. الصحاح 772:2 «غمر». \">4</a></sup></span>، و ينجّم من مغيب الشمس إلى طلوع الفجر، يقرأ عليه - من قبل أن يشرب - الحمد و آية الكرسي و قل هو الله أحد و المعوّذتين، و يصيّر على القدح خرقة جديدة أو نظيفة، و من تحته مثلها، و يصيّر عليه حديدة و يشربه<span><sup><a class=\"NewFn\" href=\"#footnote668\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، و لكن روى الكليني ما يؤيّده في الكافي 11/334:6، باب السكر، عن محمّد بن يحيى، عن أحمد بن محمّد، عن علي بن أحمد بن أشيم، عن بعض أصحابنا قال: حمّ بعض أهلنا فوصف له المتطبّبون الغافث فسقيناه فلم ينتفع به، فشكوت ذلك إلى أبي عبد الله عليه السّلام فقال:...، و أيضا في ج 386/265:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن جعفر بن يحيى الخزاعي، عن الحسين بن \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2521\" paragraph-id=\"2521\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote664\" footnote-id=\"664\">(1) <page number=\"88\" /> رواه الكليني في الكافي 5/333:6، باب السكّر، و في ج 385/265:8، عن محمّد بن يحيى، عن أحمد بن محمّد، و الطبرسي صدره بتفاوت يسير في مكارم الأخلاق: 3/168، باب السكّر، عن علي بن يقطين، عن أبي الحسن عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote665\" footnote-id=\"665\">(2)  التنجيم: وضع الشيء تحت السماء بحيث تصيبه النجوم. الوافي 342:19. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote666\" footnote-id=\"666\">(3)  كذا في النسخة و لعلّ الصواب: «سكّرتين». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote667\" footnote-id=\"667\">(4)  الغمر: الماء الكثير، و قد غمره الماء يغمره، أي: علاه. الصحاح 772:2 «غمر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote668\" footnote-id=\"668\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، و لكن روى الكليني ما يؤيّده في الكافي 11/334:6، باب السكر، عن محمّد بن يحيى، عن أحمد بن محمّد، عن علي بن أحمد بن أشيم، عن بعض أصحابنا قال: حمّ بعض أهلنا فوصف له المتطبّبون الغافث فسقيناه فلم ينتفع به، فشكوت ذلك إلى أبي عبد الله عليه السّلام فقال:...، و أيضا في ج 386/265:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن جعفر بن يحيى الخزاعي، عن الحسين بن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "FBD73EAE-5DA2-4E72-B67B-AA000DCCD9FB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

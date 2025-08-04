@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 63,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166777,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2382\"><format class=\"hadith\" who=\"8\" Id=\"95\" RevayatIndex=\"95\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن محمّد بن الحسين بن أبي الخطّاب، عن محمّد بن الحسن الميثمي، عن علي بن أبي حمزة، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبي الحسن عليه السّلام </format></format>- يعني <format class=\"maasoom\" maasoomNo=\"8\">الرضا </format><lfootnote noteId=\"531\">5</lfootnote>- أنّه قال: </format>«لو أنّ الناس قصروا في <page number=\"63\"/> الطعام لاستقامت أبدانهم<lfootnote noteId=\"532\">1</lfootnote>»<lfootnote noteId=\"533\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166778,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2383\"><heading level=\"2\">[باب] فيمن يكره الحمية </heading></p>"
+        },
+        {
+          "paragraphId": 714166779,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2384\">[96] </p>"
+        },
+        {
+          "paragraphId": 714166780,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2385\"><format class=\"hadith\" who=\"14,6\" Id=\"96\" RevayatIndex=\"96\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن عبد الرحمن بن حمّاد الكوفي<lfootnote noteId=\"534\">3</lfootnote>، عن محمّد بن إسحاق، عن محمّد بن الفيض، قال:</format> قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لأبي عبد الله عليه السّلام</format></format>: جعلت فداك، يمرض منّا المريض فيأمر المعالجون بالحمية.</format></p>"
+        },
+        {
+          "paragraphId": 714166781,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2386\"><format class=\"hadith\" who=\"14,6\" Id=\"96\" RevayatIndex=\"96\">فقال: «لكنّا <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\">أهل بيت</format></format><lfootnote noteId=\"535\">4</lfootnote> لا نحتمي إلّا من التمر، و نتداوى<lfootnote noteId=\"536\">5</lfootnote> بالتفّاح و الماء البارد».</format></p>"
+        },
+        {
+          "paragraphId": 714166782,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2387\"><format class=\"hadith\" who=\"14,6\" Id=\"96\" RevayatIndex=\"96\">قلت: فلم تحتمون من التمر؟ قال: «إنّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">نبي الله صلّى الله عليه و آله</format></format> حمى <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">عليّا عليه السّلام</format></format> منه في <page number=\"64\"/> مرضه»<lfootnote noteId=\"537\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168086,
+          "text": "<footnote id=\"532\"><page number=\"63\"/><mnote>(1)</mnote> في المحاسن: قصدوا في الطعام. ثمّ قال المجلسي: قصدوا، أي: في الكمّ و الكيف معا. بحار الأنوار 334:63. </footnote>"
+        },
+        {
+          "footnoteId": 714168087,
+          "text": "<footnote id=\"533\"><mnote>(2)</mnote> رواه البرقي في المحاسن 1/439:2، باب الاقتصاد في الأكل و مقداره، عن أبيه، عن عمرو بن إبراهيم، قال: سمعت أبا الحسن عليه السّلام، و فيه: «لو أن الناس قصدوا»، و الطبرسي في مكارم الأخلاق: 8/362، في معالجة المريض، عن الرضا عليه السّلام، و نحوه في دعائم الإسلام 508/145:2، عن جعفر بن محمّد عليه السّلام، و انظر: المحاسن 9/571:2، مكارم الأخلاق: 1/157. </footnote>"
+        },
+        {
+          "footnoteId": 714168088,
+          "text": "<footnote id=\"534\"><mnote>(3)</mnote> في النسخة: «عن ابن الرحمن» و الصحيح ما أثبتناه، و هو عبد الرحمن بن حماد، أو أبي حماد أبو القاسم الكوفي الصيرفي. انظر: رجال النجاشي: 633/238، فهرست الطوسي:<br/>477/312. </footnote>"
+        },
+        {
+          "footnoteId": 714168089,
+          "text": "<footnote id=\"535\"><mnote>(4)</mnote> قوله: «أهل بيت» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168090,
+          "text": "<footnote id=\"536\"><mnote>(5)</mnote> في النسخة: «و تناولوا» بدل «و نتداوى» و ما أثبتناه من المصدر.</footnote>"
+        }
+      ],
+      "pageValue": "63",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2382\" paragraph-id=\"2382\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo63\">63</span> الطعام لاستقامت أبدانهم<span><sup><a class=\"NewFn\" href=\"#footnote532\" title=\"(1)  في المحاسن: قصدوا في الطعام. ثمّ قال المجلسي: قصدوا، أي: في الكمّ و الكيف معا. بحار الأنوار 334:63. \">1</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote533\" title=\"(2)  رواه البرقي في المحاسن 1/439:2، باب الاقتصاد في الأكل و مقداره، عن أبيه، عن عمرو بن إبراهيم، قال: سمعت أبا الحسن عليه السّلام، و فيه: «لو أن الناس قصدوا»، و الطبرسي في مكارم الأخلاق: 8/362، في معالجة المريض، عن الرضا عليه السّلام، و نحوه في دعائم الإسلام 508/145:2، عن جعفر بن محمّد عليه السّلام، و انظر: المحاسن 9/571:2، مكارم الأخلاق: 1/157. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2383\" paragraph-id=\"2383\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] فيمن يكره الحمية </strong>\n  </p>\n  <p id=\"p2384\" paragraph-id=\"2384\" class=\" G\">[96] </p>\n  <p id=\"p2385\" paragraph-id=\"2385\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن عبد الرحمن بن حمّاد الكوفي<span><sup><a class=\"NewFn\" href=\"#footnote534\" title=\"(3)  في النسخة: «عن ابن الرحمن» و الصحيح ما أثبتناه، و هو عبد الرحمن بن حماد، أو أبي حماد أبو القاسم الكوفي الصيرفي. انظر: رجال النجاشي: 633/238، فهرست الطوسي:477/312. \">3</a></sup></span>، عن محمّد بن إسحاق، عن محمّد بن الفيض، قال:</span> قلت <span class=\"Y\"><span class=\"maasoom\">لأبي عبد الله عليه السّلام</span></span>: جعلت فداك، يمرض منّا المريض فيأمر المعالجون بالحمية.</span>\n  </p>\n  <p id=\"p2386\" paragraph-id=\"2386\" class=\" G\">\n    <span class=\"hadith\">فقال: «لكنّا <span class=\"BD\"><span class=\"maasoom\">أهل بيت</span></span><span><sup><a class=\"NewFn\" href=\"#footnote535\" title=\"(4)  قوله: «أهل بيت» أثبتناه من المصدر. \">4</a></sup></span> لا نحتمي إلّا من التمر، و نتداوى<span><sup><a class=\"NewFn\" href=\"#footnote536\" title=\"(5)  في النسخة: «و تناولوا» بدل «و نتداوى» و ما أثبتناه من المصدر.\">5</a></sup></span> بالتفّاح و الماء البارد».</span>\n  </p>\n  <p id=\"p2387\" paragraph-id=\"2387\" class=\" G\">\n    <span class=\"hadith\">قلت: فلم تحتمون من التمر؟ قال: «إنّ <span class=\"Y\"><span class=\"maasoom\">نبي الله صلّى الله عليه و آله</span></span> حمى <span class=\"BD\"><span class=\"maasoom\">عليّا عليه السّلام</span></span> منه في </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote532\" footnote-id=\"532\">(1) <page number=\"63\" /> في المحاسن: قصدوا في الطعام. ثمّ قال المجلسي: قصدوا، أي: في الكمّ و الكيف معا. بحار الأنوار 334:63. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote533\" footnote-id=\"533\">(2)  رواه البرقي في المحاسن 1/439:2، باب الاقتصاد في الأكل و مقداره، عن أبيه، عن عمرو بن إبراهيم، قال: سمعت أبا الحسن عليه السّلام، و فيه: «لو أن الناس قصدوا»، و الطبرسي في مكارم الأخلاق: 8/362، في معالجة المريض، عن الرضا عليه السّلام، و نحوه في دعائم الإسلام 508/145:2، عن جعفر بن محمّد عليه السّلام، و انظر: المحاسن 9/571:2، مكارم الأخلاق: 1/157. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote534\" footnote-id=\"534\">(3)  في النسخة: «عن ابن الرحمن» و الصحيح ما أثبتناه، و هو عبد الرحمن بن حماد، أو أبي حماد أبو القاسم الكوفي الصيرفي. انظر: رجال النجاشي: 633/238، فهرست الطوسي:<br />477/312. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote535\" footnote-id=\"535\">(4)  قوله: «أهل بيت» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote536\" footnote-id=\"536\">(5)  في النسخة: «و تناولوا» بدل «و نتداوى» و ما أثبتناه من المصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A5CF823C-2BB3-4709-8FB0-75E1868BB60D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

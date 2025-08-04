@@ -1,0 +1,81 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 9,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166401,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2147\"><format class=\"hadith\" who=\"8|7\" Id=\"3\" RevayatIndex=\"3\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، <page number=\"9\"/> عن بكر بن صالح، عن عبد الله بن إبراهيم بن محمّد بن علي بن عبد الله بن جعفر بن أبي طالب<lfootnote noteId=\"258\">1</lfootnote>، و القاسم بن محمّد إبراهيم، قال: سمعنا <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8|7\">أبا الحسن عليه السّلام </format></format>يقول: </format>«في البدن خمسة أرواح، منها روح العقل، و منها روح الحياة، و منها روح الموت، و منها روح يحرّك الأركان، و منها روح الشهوات، فتبقى في بدن الشهيد روحان روح تحريك الجوارح و روح تحريك الأركان، و هما يكونان في العروق الساكنة التي لا تتحرّك إلّا من علّة»<lfootnote noteId=\"259\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166402,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2148\">[4] </p>"
+        },
+        {
+          "paragraphId": 714166403,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2149\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"4\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسن بن علي بن فضّال، عن عبد الله بن سنان، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال:</format></format></p>"
+        },
+        {
+          "paragraphId": 714166404,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2150\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"4\"><format class=\"sanadHadith\"/>«إنّ الله تعالى لمّا أراد أن يخلق <format class=\"E\" Number=\"18\">آدم</format> من تلك الطينتين<lfootnote noteId=\"260\">3</lfootnote>، ثمّ فرقهما فرقتين<lfootnote noteId=\"261\">4</lfootnote> فقال لأصحاب اليمين: كونوا خلقا بإذني<lfootnote noteId=\"262\">5</lfootnote>، فكانوا خلقا على مثل الذرّ يسعى، و قال لأهل الشمال: كونوا خلقا بإذني، فكانوا خلقا بمنزلة الذرّ يدرج، ثمّ رفع لهما نارا فقال لهما: ادخلوها بإذني، فدخل<lfootnote noteId=\"263\">6</lfootnote> أصحاب اليمين و كان أوّل من دخلها <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">محمّد صلّى الله عليه و آله</format></format> ثمّ اتّبعه أولوا العزم من الرسل و أوصياؤهم<format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\"/></format> و أتباعهم، ثمّ قال <page number=\"10\"/> لأصحاب الشمال: ادخلوها بإذني، فقالوا: ربّنا خلقتنا لتحرقنا؟! فعصوا، فقال لأصحاب اليمين: اخرجوا من النار بإذني فخرجوا من النار لم تكلم النار بهم كلما<lfootnote noteId=\"264\">1</lfootnote>و لم تؤثّر فيهم أثرا، فلمّا رآهم أصحاب الشمال قالوا: ربّنا نرى أصحابنا قد سلموا فأقلنا<lfootnote noteId=\"265\">2</lfootnote> بالدخول، فقال تبارك و تعالى: قد أقلتكم فادخلوها، فلمّا دنوا و أصابهم الوهج<lfootnote noteId=\"266\">3</lfootnote> رجعوا و قالوا: ربنّا لا صبر لنا على الاحتراق، فأمرهم ثلاثا، كلّ ذلك يعصون و يرجعون، فقال لهم: كونوا طينا بإذني، فخلق منه <format class=\"E\" Number=\"18\">آدم عليه السّلام</format>، فمن كان من هؤلاء لا يكون من هؤلاء، و من كان من هؤلاء لا يكون من هؤلاء<lfootnote noteId=\"267\">4</lfootnote>»<lfootnote noteId=\"268\">5</lfootnote>. </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168312,
+          "text": "<footnote id=\"258\"><page number=\"9\"/><mnote>(1)</mnote> في النسخة: «عبد الله بن إبراهيم بن محمّد بن عبد الله بن محمّد بن علي بن عبد الله بن جعفر بن أبي طالب» و ما أثبتناه من رجال النجاشي: 562/216. </footnote>"
+        },
+        {
+          "footnoteId": 714168313,
+          "text": "<footnote id=\"259\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168314,
+          "text": "<footnote id=\"260\"><mnote>(3)</mnote> في النسخة: «ذلك الطين» بدل «تلك الطينتين» و ما أثبتناه من المصدر، و في الكلام إشارة إلى الطينة المعلومة للمخاطب من سياق الكلام أو من قرينة المقام. </footnote>"
+        },
+        {
+          "footnoteId": 714168315,
+          "text": "<footnote id=\"261\"><mnote>(4)</mnote> أي: أصحاب اليمين و أصحاب الشمال. </footnote>"
+        },
+        {
+          "footnoteId": 714168316,
+          "text": "<footnote id=\"262\"><mnote>(5)</mnote> كلمة: «بإذني» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168317,
+          "text": "<footnote id=\"263\"><mnote>(6)</mnote> في النسخة: «فدخلوا» و ما أثبتناه من المصدر.</footnote>"
+        }
+      ],
+      "pageValue": "9",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2147\" paragraph-id=\"2147\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo9\">9</span> عن بكر بن صالح، عن عبد الله بن إبراهيم بن محمّد بن علي بن عبد الله بن جعفر بن أبي طالب<span><sup><a class=\"NewFn\" href=\"#footnote258\" title=\"(1)  في النسخة: «عبد الله بن إبراهيم بن محمّد بن عبد الله بن محمّد بن علي بن عبد الله بن جعفر بن أبي طالب» و ما أثبتناه من رجال النجاشي: 562/216. \">1</a></sup></span>، و القاسم بن محمّد إبراهيم، قال: سمعنا <span class=\"Y\"><span class=\"maasoom\">أبا الحسن عليه السّلام </span></span>يقول: </span>«في البدن خمسة أرواح، منها روح العقل، و منها روح الحياة، و منها روح الموت، و منها روح يحرّك الأركان، و منها روح الشهوات، فتبقى في بدن الشهيد روحان روح تحريك الجوارح و روح تحريك الأركان، و هما يكونان في العروق الساكنة التي لا تتحرّك إلّا من علّة»<span><sup><a class=\"NewFn\" href=\"#footnote259\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2148\" paragraph-id=\"2148\" class=\" G\">[4] </p>\n  <p id=\"p2149\" paragraph-id=\"2149\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسن بن علي بن فضّال، عن عبد الله بن سنان، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال:</span>\n    </span>\n  </p>\n  <p id=\"p2150\" paragraph-id=\"2150\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\"></span>«إنّ الله تعالى لمّا أراد أن يخلق <span class=\"E\">آدم</span> من تلك الطينتين<span><sup><a class=\"NewFn\" href=\"#footnote260\" title=\"(3)  في النسخة: «ذلك الطين» بدل «تلك الطينتين» و ما أثبتناه من المصدر، و في الكلام إشارة إلى الطينة المعلومة للمخاطب من سياق الكلام أو من قرينة المقام. \">3</a></sup></span>، ثمّ فرقهما فرقتين<span><sup><a class=\"NewFn\" href=\"#footnote261\" title=\"(4)  أي: أصحاب اليمين و أصحاب الشمال. \">4</a></sup></span> فقال لأصحاب اليمين: كونوا خلقا بإذني<span><sup><a class=\"NewFn\" href=\"#footnote262\" title=\"(5)  كلمة: «بإذني» أثبتناها من المصدر. \">5</a></sup></span>، فكانوا خلقا على مثل الذرّ يسعى، و قال لأهل الشمال: كونوا خلقا بإذني، فكانوا خلقا بمنزلة الذرّ يدرج، ثمّ رفع لهما نارا فقال لهما: ادخلوها بإذني، فدخل<span><sup><a class=\"NewFn\" href=\"#footnote263\" title=\"(6)  في النسخة: «فدخلوا» و ما أثبتناه من المصدر.\">6</a></sup></span> أصحاب اليمين و كان أوّل من دخلها <span class=\"BD\"><span class=\"maasoom\">محمّد صلّى الله عليه و آله</span></span> ثمّ اتّبعه أولوا العزم من الرسل و أوصياؤهم<span class=\"BD\"><span class=\"maasoom\"></span></span> و أتباعهم، ثمّ قال </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote258\" footnote-id=\"258\">(1) <page number=\"9\" /> في النسخة: «عبد الله بن إبراهيم بن محمّد بن عبد الله بن محمّد بن علي بن عبد الله بن جعفر بن أبي طالب» و ما أثبتناه من رجال النجاشي: 562/216. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote259\" footnote-id=\"259\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote260\" footnote-id=\"260\">(3)  في النسخة: «ذلك الطين» بدل «تلك الطينتين» و ما أثبتناه من المصدر، و في الكلام إشارة إلى الطينة المعلومة للمخاطب من سياق الكلام أو من قرينة المقام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote261\" footnote-id=\"261\">(4)  أي: أصحاب اليمين و أصحاب الشمال. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote262\" footnote-id=\"262\">(5)  كلمة: «بإذني» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote263\" footnote-id=\"263\">(6)  في النسخة: «فدخلوا» و ما أثبتناه من المصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0B9B6341-8A53-4F77-A376-D9EFE0103C0A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

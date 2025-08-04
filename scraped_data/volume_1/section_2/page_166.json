@@ -1,0 +1,113 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 166,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167283,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2880\"><page number=\"166\"/>[254] </p>"
+        },
+        {
+          "paragraphId": 714167284,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2881\"><format class=\"hadith\" who=\"6\" Id=\"252\" RevayatIndex=\"252\"><format class=\"sanadHadith\">و روي عن واحد من أصحابنا، عن جعفر بن بشير الوشّاء، عن ذريح، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format> يقول - و سئل عن الكحل في شهر رمضان، فقال: </format>«اكتحل بالإثمد الممسّك<lfootnote noteId=\"1001\">1</lfootnote>؛ فإنّه جيّد للعين»<lfootnote noteId=\"1002\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167285,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2882\">[255] </p>"
+        },
+        {
+          "paragraphId": 714167286,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2883\"><format class=\"hadith\" who=\"6\" Id=\"253\" RevayatIndex=\"253\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن ابن أبي عمير، عن الحسين بن الحسن بن عاصم، عن أبيه<lfootnote noteId=\"1003\">3</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«من نام على إثمد ممسّك<lfootnote noteId=\"1004\">4</lfootnote> أمن من الماء الأسود أبدا ما دام ينام عليه»<lfootnote noteId=\"1005\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167287,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2884\">[256] </p>"
+        },
+        {
+          "paragraphId": 714167288,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2885\"><format class=\"hadith\" who=\"14,16\" Id=\"254\" RevayatIndex=\"254\"><format class=\"sanadHadith\">و قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> لامّ سلمة إذ هي رمدة في شهر رمضان:</format></p>"
+        },
+        {
+          "paragraphId": 714167289,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2886\"><format class=\"hadith\" who=\"14,16\" Id=\"254\" RevayatIndex=\"254\">افطري فإنّ عشاء الليل<lfootnote noteId=\"1006\">6</lfootnote> لعينك رديء»<lfootnote noteId=\"1007\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167290,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2887\"><page number=\"167\"/>[257] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168955,
+          "text": "<footnote id=\"1000\"><mnote>(4)</mnote> رواه الطبرسي في مكارم الأخلاق: 14/65، الفصل الأوّل في تقليم الأظفار، من طبّ <page number=\"166\"/>الأئمّة عليهم السّلام عنه عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168956,
+          "text": "<footnote id=\"1001\"><mnote>(1)</mnote> الممسّك - بالتشديد -: المخلوط بالمسك. الوافي 691:6. </footnote>"
+        },
+        {
+          "footnoteId": 714168957,
+          "text": "<footnote id=\"1002\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168958,
+          "text": "<footnote id=\"1003\"><mnote>(3)</mnote> في النسخة: «عن الحسن بن الحسن، عن أبيه» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168959,
+          "text": "<footnote id=\"1004\"><mnote>(4)</mnote> في النسخة: «من نام على فراش ممسّك»، و في الكافي: «من نام على إثمد غير ممسّك» و عليها أفتى العلماء باستحباب الكحل خصوصا إذا كان غير ممسّك، على عكس ما في روايتنا. </footnote>"
+        },
+        {
+          "footnoteId": 714168960,
+          "text": "<footnote id=\"1005\"><mnote>(5)</mnote> رواه الكليني في الكافي 9/494:6، باب الكحل، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن أحمد بن محمّد بن أبي نصر، عن أحمد بن المبارك، عن الحسين بن الحسن بن عاصم. </footnote>"
+        },
+        {
+          "footnoteId": 714168961,
+          "text": "<footnote id=\"1006\"><mnote>(6)</mnote> العشاء: الطعام الذي يؤكل عند العشاء، و هو خلاف الغداء. لسان العرب 61:15 «عشا». و أورد الحرّ العاملي في وسائل الشيعة 218:10، باب جواز الإفطار لوجع العين إذا ضرّها الصوم، و انظر: الكافي 4/118:4، من لا يحضره الفقيه 1945/132:2. </footnote>"
+        },
+        {
+          "footnoteId": 714168962,
+          "text": "<footnote id=\"1007\"><mnote>(7)</mnote> رواه الكليني بتفاوت يسير في الكافي 7/119:4، باب حدّ المرض الذي يجوز للرجل أن يفطر فيه، عن أحمد بن محمّد، عن الحسين بن سعيد، عن فضالة، عن الحسين بن عثمان، عن <page number=\"167\"/>سليمان بن عمرو، عن أبي عبد الله عليه السّلام، قال: «اشتكت امّ سلمة - رحمة الله عليها - عينها في شهر رمضان، فأمرها رسول الله صلّى الله عليه و آله أن تفطر، و قال: عشاء الليل لعينك رديء»، و مثل الكافي رواه الصدوق في من لا يحضره الفقيه 1944/132:2، فقال: روى سليمان بن عمرو، عن أبي عبد الله عليه السّلام، و علل الشرائع: 2/382، باب العلّة التي من أجلها وجب الإفطار على المريض و المسافر، فقال: حدّثنا محمّد بن الحسن، قال: حدّثنا الحسين بن الحسن بن أبان، عن الحسين بن سعيد، عن سليمان بن عمرو، عن أبي عبد الله عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "166",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2880\" paragraph-id=\"2880\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo166\">166</span>[254] </p>\n  <p id=\"p2881\" paragraph-id=\"2881\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن واحد من أصحابنا، عن جعفر بن بشير الوشّاء، عن ذريح، قال: سمعت <span class=\"Y\"><span class=\"maasoom\">أبا عبد الله عليه السّلام</span></span> يقول - و سئل عن الكحل في شهر رمضان، فقال: </span>«اكتحل بالإثمد الممسّك<span><sup><a class=\"NewFn\" href=\"#footnote1001\" title=\"(1)  الممسّك - بالتشديد -: المخلوط بالمسك. الوافي 691:6. \">1</a></sup></span>؛ فإنّه جيّد للعين»<span><sup><a class=\"NewFn\" href=\"#footnote1002\" title=\"(2)  لم نعثر عليه في المصادر المتوفرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2882\" paragraph-id=\"2882\" class=\" G\">[255] </p>\n  <p id=\"p2883\" paragraph-id=\"2883\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن ابن أبي عمير، عن الحسين بن الحسن بن عاصم، عن أبيه<span><sup><a class=\"NewFn\" href=\"#footnote1003\" title=\"(3)  في النسخة: «عن الحسن بن الحسن، عن أبيه» و ما أثبتناه من المصدر. \">3</a></sup></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«من نام على إثمد ممسّك<span><sup><a class=\"NewFn\" href=\"#footnote1004\" title=\"(4)  في النسخة: «من نام على فراش ممسّك»، و في الكافي: «من نام على إثمد غير ممسّك» و عليها أفتى العلماء باستحباب الكحل خصوصا إذا كان غير ممسّك، على عكس ما في روايتنا. \">4</a></sup></span> أمن من الماء الأسود أبدا ما دام ينام عليه»<span><sup><a class=\"NewFn\" href=\"#footnote1005\" title=\"(5)  رواه الكليني في الكافي 9/494:6، باب الكحل، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن أحمد بن محمّد بن أبي نصر، عن أحمد بن المبارك، عن الحسين بن الحسن بن عاصم. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2884\" paragraph-id=\"2884\" class=\" G\">[256] </p>\n  <p id=\"p2885\" paragraph-id=\"2885\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال: </span>«قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span> لامّ سلمة إذ هي رمدة في شهر رمضان:</span>\n  </p>\n  <p id=\"p2886\" paragraph-id=\"2886\" class=\" G\">\n    <span class=\"hadith\">افطري فإنّ عشاء الليل<span><sup><a class=\"NewFn\" href=\"#footnote1006\" title=\"(6)  العشاء: الطعام الذي يؤكل عند العشاء، و هو خلاف الغداء. لسان العرب 61:15 «عشا». و أورد الحرّ العاملي في وسائل الشيعة 218:10، باب جواز الإفطار لوجع العين إذا ضرّها الصوم، و انظر: الكافي 4/118:4، من لا يحضره الفقيه 1945/132:2. \">6</a></sup></span> لعينك رديء»<span><sup><a class=\"NewFn\" href=\"#footnote1007\" title=\"(7)  رواه الكليني بتفاوت يسير في الكافي 7/119:4، باب حدّ المرض الذي يجوز للرجل أن يفطر فيه، عن أحمد بن محمّد، عن الحسين بن سعيد، عن فضالة، عن الحسين بن عثمان، عن \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p2887\" paragraph-id=\"2887\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1000\" footnote-id=\"1000\"><page number=\"166\" />الأئمّة عليهم السّلام عنه عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1001\" footnote-id=\"1001\">(1)  الممسّك - بالتشديد -: المخلوط بالمسك. الوافي 691:6. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1002\" footnote-id=\"1002\">(2)  لم نعثر عليه في المصادر المتوفرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1003\" footnote-id=\"1003\">(3)  في النسخة: «عن الحسن بن الحسن، عن أبيه» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1004\" footnote-id=\"1004\">(4)  في النسخة: «من نام على فراش ممسّك»، و في الكافي: «من نام على إثمد غير ممسّك» و عليها أفتى العلماء باستحباب الكحل خصوصا إذا كان غير ممسّك، على عكس ما في روايتنا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1005\" footnote-id=\"1005\">(5)  رواه الكليني في الكافي 9/494:6، باب الكحل، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن أحمد بن محمّد بن أبي نصر، عن أحمد بن المبارك، عن الحسين بن الحسن بن عاصم. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1006\" footnote-id=\"1006\">(6)  العشاء: الطعام الذي يؤكل عند العشاء، و هو خلاف الغداء. لسان العرب 61:15 «عشا». و أورد الحرّ العاملي في وسائل الشيعة 218:10، باب جواز الإفطار لوجع العين إذا ضرّها الصوم، و انظر: الكافي 4/118:4، من لا يحضره الفقيه 1945/132:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1007\" footnote-id=\"1007\">(7)  رواه الكليني بتفاوت يسير في الكافي 7/119:4، باب حدّ المرض الذي يجوز للرجل أن يفطر فيه، عن أحمد بن محمّد، عن الحسين بن سعيد، عن فضالة، عن الحسين بن عثمان، عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A424A2C0-046F-4F16-85E0-E0C42FFF666C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 112,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166598,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2630\"><format class=\"hadith\" who=\"6\" Id=\"166\" RevayatIndex=\"166\"><format class=\"sanadHadith\">روى داود بن زربي<lfootnote noteId=\"771\">4</lfootnote>، قال:</format> وعكت بالمدينة وعكا شديدا فبلغ ذلك <page number=\"111\"/><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format> فكتب إليّ‌<lfootnote noteId=\"772\">1</lfootnote>: «قد بلغني علّتك، فاشتر صاعا من برّ<lfootnote noteId=\"773\">2</lfootnote> ثمّ استلق على قفاك، و انثره على صدرك<lfootnote noteId=\"774\">3</lfootnote> كيف ما انتثر<lfootnote noteId=\"775\">4</lfootnote>، و أنت تقول<lfootnote noteId=\"776\">5</lfootnote>: اللّهمّ إنّي أسألك باسمك الّذي إذا سألك به المضطرّ فكشفت عليه ما به من ضرّ<lfootnote noteId=\"777\">6</lfootnote>، و مكّنت له في الأرض، و جعلته خليفتك على خلقك<lfootnote noteId=\"778\">7</lfootnote> أن تصلّي على <format class=\"maasoom\" maasoomNo=\"14\">محمّد</format> و <format class=\"maasoom\" maasoomNo=\"40\">آل محمّد</format>، و<lfootnote noteId=\"779\">8</lfootnote> أن تعافيني<lfootnote noteId=\"780\">9</lfootnote> من <page number=\"112\"/>علّتي. و استو جالسا، و اجمع البرّ من حولك، و قل مثل ذلك، و اقسمه مدّا مدّا لكلّ مسكين، و قل مثل ذلك».</format></p>"
+        },
+        {
+          "paragraphId": 714166599,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2631\"><format class=\"hadith\" who=\"6\" Id=\"166\" RevayatIndex=\"166\">قال داود: ففعلت ذلك فكأنّما نشطت من عقال<lfootnote noteId=\"781\">1</lfootnote><lfootnote noteId=\"782\"> 2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166600,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2632\">[169] </p>"
+        },
+        {
+          "paragraphId": 714166601,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2633\"><format class=\"hadith\" who=\"6\" Id=\"167\" RevayatIndex=\"167\"><format class=\"sanadHadith\">و روي عنه عليه السّلام، قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«إنّ الصدقة تعرج فيتلقّاها البلاء فتنزل فيتواقعان إلى يوم القيامة»<lfootnote noteId=\"783\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166602,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2634\">[170] </p>"
+        },
+        {
+          "paragraphId": 714166603,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2635\"><format class=\"hadith\" who=\"37,16\" Id=\"168\" RevayatIndex=\"168\"><format class=\"sanadHadith\">و روي:</format> أنّ طائرا شكا إلى <format class=\"E\" Number=\"37\">سليمان بن داود عليه السّلام</format> أنّ رجلا يراصد فراخه حتّى إذا كبرت اصطادها فذبحها، فوجّه إليه <format class=\"E\" Number=\"37\">سليمان عليه السّلام</format> ببعض العفاريت، و أمره أن يمنعه منها، و أن يرمي به الموضع الذي يصعد إليه لأخذ الفراخ، فمضى العفريت فلم يلبث أن عاد و الطائر معه.</format></p>"
+        },
+        {
+          "paragraphId": 714166604,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2636\"><format class=\"hadith\" who=\"37,16\" Id=\"168\" RevayatIndex=\"168\">فقال: «أيّ شيء عملت‌؟».</format></p>"
+        },
+        {
+          "paragraphId": 714166605,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2637\"><format class=\"hadith\" who=\"37,16\" Id=\"168\" RevayatIndex=\"168\">فقال له: حيل بيني و بين الرجل. </format></p>"
+        },
+        {
+          "paragraphId": 714166606,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2638\"><format class=\"hadith\" who=\"37,16\" Id=\"168\" RevayatIndex=\"168\"><page number=\"113\"/> فقال له: «أيّ [شيء]<lfootnote noteId=\"784\">1</lfootnote> كان السبب‌؟».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168812,
+          "text": "<footnote id=\"781\"><page number=\"112\"/><mnote>(1)</mnote> في النسخة: «و تجمعه و أنت تقوله و تعتذر به، ففعلت فكما نشطت من عقال»، بدل قوله:<br/>«و استو جالسا...» إلى هنا، و ما أثبتناه من المصدر. «نشط من عقال» أي: حلّ‌. النهاية لابن الأثير 57:5 «نشط». </footnote>"
+        },
+        {
+          "footnoteId": 714168813,
+          "text": "<footnote id=\"782\"><mnote>(2)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 53، فقال: في انتثار البرّ للحمّى، الفيض بن المبارك الأسدي، قال: حدّثنا عبد العزيز، عن يونس، عن داود الرقي، و الكليني في الكافي مرّتين في ج 2/564:2، باب الدعاء للعلل و الأمراض، و في ج 54/88:8، عن محمّد بن يحيى، عن أحمد بن محمّد، عن عبد العزيز بن المهتدي، عن يونس بن عبد الرحمن، عن داود بن زربي، و الطبرسي في مكارم الأخلاق: 1/388، في الصدقة و الدعاء، و الراوندي في الدعوات: 504/181، و ورّام بن أبي فراس في تنبيه الخواطر 136:2، و الكفعمي في المصباح: 150، كلّهم عن داود بن زربي. </footnote>"
+        },
+        {
+          "footnoteId": 714168814,
+          "text": "<footnote id=\"783\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا.</footnote>"
+        }
+      ],
+      "pageValue": "112",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2630\" paragraph-id=\"2630\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo112\">112</span>علّتي. و استو جالسا، و اجمع البرّ من حولك، و قل مثل ذلك، و اقسمه مدّا مدّا لكلّ مسكين، و قل مثل ذلك».</span>\n  </p>\n  <p id=\"p2631\" paragraph-id=\"2631\" class=\" G\">\n    <span class=\"hadith\">قال داود: ففعلت ذلك فكأنّما نشطت من عقال<span><sup><a class=\"NewFn\" href=\"#footnote781\" title=\"(1)  في النسخة: «و تجمعه و أنت تقوله و تعتذر به، ففعلت فكما نشطت من عقال»، بدل قوله:«و استو جالسا...» إلى هنا، و ما أثبتناه من المصدر. «نشط من عقال» أي: حلّ‌. النهاية لابن الأثير 57:5 «نشط». \">1</a></sup></span><span><sup><a class=\"NewFn\" href=\"#footnote782\" title=\"(2)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 53، فقال: في انتثار البرّ للحمّى، الفيض بن المبارك الأسدي، قال: حدّثنا عبد العزيز، عن يونس، عن داود الرقي، و الكليني في الكافي مرّتين في ج 2/564:2، باب الدعاء للعلل و الأمراض، و في ج 54/88:8، عن محمّد بن يحيى، عن أحمد بن محمّد، عن عبد العزيز بن المهتدي، عن يونس بن عبد الرحمن، عن داود بن زربي، و الطبرسي في مكارم الأخلاق: 1/388، في الصدقة و الدعاء، و الراوندي في الدعوات: 504/181، و ورّام بن أبي فراس في تنبيه الخواطر 136:2، و الكفعمي في المصباح: 150، كلّهم عن داود بن زربي. \"> 2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2632\" paragraph-id=\"2632\" class=\" G\">[169] </p>\n  <p id=\"p2633\" paragraph-id=\"2633\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عنه عليه السّلام، قال: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«إنّ الصدقة تعرج فيتلقّاها البلاء فتنزل فيتواقعان إلى يوم القيامة»<span><sup><a class=\"NewFn\" href=\"#footnote783\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا.\">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2634\" paragraph-id=\"2634\" class=\" G\">[170] </p>\n  <p id=\"p2635\" paragraph-id=\"2635\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي:</span> أنّ طائرا شكا إلى <span class=\"E\">سليمان بن داود عليه السّلام</span> أنّ رجلا يراصد فراخه حتّى إذا كبرت اصطادها فذبحها، فوجّه إليه <span class=\"E\">سليمان عليه السّلام</span> ببعض العفاريت، و أمره أن يمنعه منها، و أن يرمي به الموضع الذي يصعد إليه لأخذ الفراخ، فمضى العفريت فلم يلبث أن عاد و الطائر معه.</span>\n  </p>\n  <p id=\"p2636\" paragraph-id=\"2636\" class=\" G\">\n    <span class=\"hadith\">فقال: «أيّ شيء عملت‌؟».</span>\n  </p>\n  <p id=\"p2637\" paragraph-id=\"2637\" class=\" G\">\n    <span class=\"hadith\">فقال له: حيل بيني و بين الرجل. </span>\n  </p>\n  <p id=\"p2638\" paragraph-id=\"2638\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote781\" footnote-id=\"781\">(1) <page number=\"112\" /> في النسخة: «و تجمعه و أنت تقوله و تعتذر به، ففعلت فكما نشطت من عقال»، بدل قوله:<br />«و استو جالسا...» إلى هنا، و ما أثبتناه من المصدر. «نشط من عقال» أي: حلّ‌. النهاية لابن الأثير 57:5 «نشط». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote782\" footnote-id=\"782\">(2)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 53، فقال: في انتثار البرّ للحمّى، الفيض بن المبارك الأسدي، قال: حدّثنا عبد العزيز، عن يونس، عن داود الرقي، و الكليني في الكافي مرّتين في ج 2/564:2، باب الدعاء للعلل و الأمراض، و في ج 54/88:8، عن محمّد بن يحيى، عن أحمد بن محمّد، عن عبد العزيز بن المهتدي، عن يونس بن عبد الرحمن، عن داود بن زربي، و الطبرسي في مكارم الأخلاق: 1/388، في الصدقة و الدعاء، و الراوندي في الدعوات: 504/181، و ورّام بن أبي فراس في تنبيه الخواطر 136:2، و الكفعمي في المصباح: 150، كلّهم عن داود بن زربي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote783\" footnote-id=\"783\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "FB0538CE-BDE3-4829-90F9-5F22773C2DD5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

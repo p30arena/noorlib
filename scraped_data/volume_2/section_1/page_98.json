@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 98,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170109,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1364\"><page number=\"98\"/>[129] </p>"
+        },
+        {
+          "paragraphId": 714170110,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1365\"><format class=\"hadith\" who=\"8\" Id=\"128\" RevayatIndex=\"649\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبي الحسن عليه السّلام</format></format> أنّه قال: </format>«استكثروا من اللبان و استفّوه و امضغوه، أحبّه إليّ المضغ، فإنّه ينزف<lfootnote noteId=\"382\">1</lfootnote> البلغم، و يشدّ العقل، و يمريء الطعام»<lfootnote noteId=\"383\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170111,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1366\">[130] </p>"
+        },
+        {
+          "paragraphId": 714170112,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1367\"><format class=\"hadith\" who=\"10|11\" Id=\"129\" RevayatIndex=\"650\"><format class=\"sanadHadith\">و يروى أنّه وجد في جيب <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"10|11\">أبي العسكري عليه السّلام</format></format><lfootnote noteId=\"384\">3</lfootnote>: </format>الكندر، و طين القبر<lfootnote noteId=\"385\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170113,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1368\"><heading level=\"2\">[باب] في العقارب و الحيّات و الزنابير </heading></p>"
+        },
+        {
+          "paragraphId": 714170114,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1369\">[131] </p>"
+        },
+        {
+          "paragraphId": 714170115,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1370\"><format class=\"hadith\" who=\"6\" Id=\"130\" RevayatIndex=\"651\"><format class=\"sanadHadith\">روي عن إسحاق بن عمّار، قال:</format> قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لأبي عبد الله عليه السّلام</format></format>: جعلت فداك إنّي أخاف العقارب<lfootnote noteId=\"386\">5</lfootnote> قال: «انظر إلى بنات نعش الكبرى من<lfootnote noteId=\"387\">6</lfootnote> الكواكب الثلاثة، الأوسط منها بجنبه<lfootnote noteId=\"388\">7</lfootnote> كوكب صغير قريب منه<lfootnote noteId=\"389\">8</lfootnote>، تسمّيه العرب <page number=\"99\"/>«السها»، و نسميه نحن «أسلم»، تحدّ النظر إليه كلّ ليلة، و تقول ثلاث مرّات:</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170739,
+          "text": "<footnote id=\"382\"><page number=\"98\"/><mnote>(1)</mnote> في النسخة: «و امضغوه حبّه و المضغ يزفّ‌» و ما أثبتناه من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714170740,
+          "text": "<footnote id=\"383\"><mnote>(2)</mnote> رواه الطبرسي في مكارم الأخلاق: 4/194، باب في مضغ اللبان، عن الرضا عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714170741,
+          "text": "<footnote id=\"384\"><mnote>(3)</mnote> كذا في النسخة، و لعلّه أبو الحسن الهادي عليه السّلام أو أبو محمّد العسكري عليه السّلام و سقط لفظ:<br/>«الحسن» أو «محمّد». و لعلّ أبي بياء النسبة، فيكون العسكري بدلا منه [عطف بيان] و القائل حينئذ هو أبو محمّد العسكري أو ابنه الحجّة سلام الله عليهما. و لعلّ أبي مضاف إلى العسكري فهو إمّا أبو جعفر الجواد عليه السّلام و إمّا أبو الحسن الهادي عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714170742,
+          "text": "<footnote id=\"385\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و لكنّه مؤيّد بما تقدّم من الروايات. </footnote>"
+        },
+        {
+          "footnoteId": 714170743,
+          "text": "<footnote id=\"386\"><mnote>(5)</mnote> من قوله: «روي عن اسحاق...» إلى هنا أثبتناه من سند الحديث 139 من هذا الجزء. </footnote>"
+        },
+        {
+          "footnoteId": 714170744,
+          "text": "<footnote id=\"387\"><mnote>(6)</mnote> قوله: «الكبرى من» لم يرد في المصدر.<br/>و بنات نعش: نجوم سبعة معروفة، على القرب من القطب الشمالي، لا تغيب بل ينحطّ بعضها إلى جانب المغيب انحطاطا، و بها يهتدون و يعيّنون القبلة. انظر: توحيد المفضّل: 135، الكافي 351:8، فرج المهموم: 89. </footnote>"
+        },
+        {
+          "footnoteId": 714170745,
+          "text": "<footnote id=\"388\"><mnote>(7)</mnote> قال المجلسي: «الأوسط» مبتدأ و «بجنبه» خبره، أو بدل عن بنات نعش، و بجنبه جملة مستأنفة، و الأوّل أظهر. مرآة العقول 439:12. </footnote>"
+        },
+        {
+          "footnoteId": 714170746,
+          "text": "<footnote id=\"389\"><mnote>(8)</mnote> كلمة: «منه» أثبتناها من المصدر. </footnote>"
+        }
+      ],
+      "pageValue": "98",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1364\" paragraph-id=\"1364\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo98\">98</span>[129] </p>\n  <p id=\"p1365\" paragraph-id=\"1365\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> أنّه قال: </span>«استكثروا من اللبان و استفّوه و امضغوه، أحبّه إليّ المضغ، فإنّه ينزف<span><sup><a class=\"NewFn\" href=\"#footnote382\" title=\"(1)  في النسخة: «و امضغوه حبّه و المضغ يزفّ‌» و ما أثبتناه من مكارم الأخلاق. \">1</a></sup></span> البلغم، و يشدّ العقل، و يمريء الطعام»<span><sup><a class=\"NewFn\" href=\"#footnote383\" title=\"(2)  رواه الطبرسي في مكارم الأخلاق: 4/194، باب في مضغ اللبان، عن الرضا عليه السّلام. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1366\" paragraph-id=\"1366\" class=\" G\">[130] </p>\n  <p id=\"p1367\" paragraph-id=\"1367\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و يروى أنّه وجد في جيب <span class=\"Y\"><span class=\"maasoom\">أبي العسكري عليه السّلام</span></span><span><sup><a class=\"NewFn\" href=\"#footnote384\" title=\"(3)  كذا في النسخة، و لعلّه أبو الحسن الهادي عليه السّلام أو أبو محمّد العسكري عليه السّلام و سقط لفظ:«الحسن» أو «محمّد». و لعلّ أبي بياء النسبة، فيكون العسكري بدلا منه [عطف بيان] و القائل حينئذ هو أبو محمّد العسكري أو ابنه الحجّة سلام الله عليهما. و لعلّ أبي مضاف إلى العسكري فهو إمّا أبو جعفر الجواد عليه السّلام و إمّا أبو الحسن الهادي عليه السّلام. \">3</a></sup></span>: </span>الكندر، و طين القبر<span><sup><a class=\"NewFn\" href=\"#footnote385\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و لكنّه مؤيّد بما تقدّم من الروايات. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1368\" paragraph-id=\"1368\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في العقارب و الحيّات و الزنابير </strong>\n  </p>\n  <p id=\"p1369\" paragraph-id=\"1369\" class=\" G\">[131] </p>\n  <p id=\"p1370\" paragraph-id=\"1370\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن إسحاق بن عمّار، قال:</span> قلت <span class=\"Y\"><span class=\"maasoom\">لأبي عبد الله عليه السّلام</span></span>: جعلت فداك إنّي أخاف العقارب<span><sup><a class=\"NewFn\" href=\"#footnote386\" title=\"(5)  من قوله: «روي عن اسحاق...» إلى هنا أثبتناه من سند الحديث 139 من هذا الجزء. \">5</a></sup></span> قال: «انظر إلى بنات نعش الكبرى من<span><sup><a class=\"NewFn\" href=\"#footnote387\" title=\"(6)  قوله: «الكبرى من» لم يرد في المصدر.و بنات نعش: نجوم سبعة معروفة، على القرب من القطب الشمالي، لا تغيب بل ينحطّ بعضها إلى جانب المغيب انحطاطا، و بها يهتدون و يعيّنون القبلة. انظر: توحيد المفضّل: 135، الكافي 351:8، فرج المهموم: 89. \">6</a></sup></span> الكواكب الثلاثة، الأوسط منها بجنبه<span><sup><a class=\"NewFn\" href=\"#footnote388\" title=\"(7)  قال المجلسي: «الأوسط» مبتدأ و «بجنبه» خبره، أو بدل عن بنات نعش، و بجنبه جملة مستأنفة، و الأوّل أظهر. مرآة العقول 439:12. \">7</a></sup></span> كوكب صغير قريب منه<span><sup><a class=\"NewFn\" href=\"#footnote389\" title=\"(8)  كلمة: «منه» أثبتناها من المصدر. \">8</a></sup></span>، تسمّيه العرب </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote382\" footnote-id=\"382\">(1) <page number=\"98\" /> في النسخة: «و امضغوه حبّه و المضغ يزفّ‌» و ما أثبتناه من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote383\" footnote-id=\"383\">(2)  رواه الطبرسي في مكارم الأخلاق: 4/194، باب في مضغ اللبان، عن الرضا عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote384\" footnote-id=\"384\">(3)  كذا في النسخة، و لعلّه أبو الحسن الهادي عليه السّلام أو أبو محمّد العسكري عليه السّلام و سقط لفظ:<br />«الحسن» أو «محمّد». و لعلّ أبي بياء النسبة، فيكون العسكري بدلا منه [عطف بيان] و القائل حينئذ هو أبو محمّد العسكري أو ابنه الحجّة سلام الله عليهما. و لعلّ أبي مضاف إلى العسكري فهو إمّا أبو جعفر الجواد عليه السّلام و إمّا أبو الحسن الهادي عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote385\" footnote-id=\"385\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و لكنّه مؤيّد بما تقدّم من الروايات. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote386\" footnote-id=\"386\">(5)  من قوله: «روي عن اسحاق...» إلى هنا أثبتناه من سند الحديث 139 من هذا الجزء. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote387\" footnote-id=\"387\">(6)  قوله: «الكبرى من» لم يرد في المصدر.<br />و بنات نعش: نجوم سبعة معروفة، على القرب من القطب الشمالي، لا تغيب بل ينحطّ بعضها إلى جانب المغيب انحطاطا، و بها يهتدون و يعيّنون القبلة. انظر: توحيد المفضّل: 135، الكافي 351:8، فرج المهموم: 89. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote388\" footnote-id=\"388\">(7)  قال المجلسي: «الأوسط» مبتدأ و «بجنبه» خبره، أو بدل عن بنات نعش، و بجنبه جملة مستأنفة، و الأوّل أظهر. مرآة العقول 439:12. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote389\" footnote-id=\"389\">(8)  كلمة: «منه» أثبتناها من المصدر. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4C86BD29-7597-4626-B767-D3B0BA9ECF50",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

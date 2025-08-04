@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 297,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167822,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3568\"><format class=\"hadith\" who=\"6\" Id=\"477\" RevayatIndex=\"477\"><format class=\"sanadHadith\">فقال: </format>«يأخذ رطلا من السمكة البيضاء المنقّطة بسواد - و هي الملكة - فيغلى بزيت مغسول<lfootnote noteId=\"1634\">3</lfootnote>، و ينكب عليه ستّ بيضات، و لا يطرح عليه ملح، و من الغد <page number=\"297\"/> رطلا، و ينكب عليه تسع بيضات، و يوم الثالث رطلا، و ينكب عليه ثمان بيضات، تمام ثلاثة و عشرين بيضة في ثلاثة أيّام تجعله في هذه الأيّام طعامك، فإنّه جيّد مجرّب»<lfootnote noteId=\"1635\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167823,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3569\">[487] </p>"
+        },
+        {
+          "paragraphId": 714167824,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3570\"><format class=\"hadith\" who=\"7\" Id=\"478\" RevayatIndex=\"478\"><format class=\"sanadHadith\">روى أبو عبد الله الهمداني، عن داود بن فرقد، قال:</format> دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن عليه السّلام</format></format> و بين يديه جزر<lfootnote noteId=\"1636\">2</lfootnote> فناولني جزرة فقال: «كله».</format></p>"
+        },
+        {
+          "paragraphId": 714167825,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3571\"><format class=\"hadith\" who=\"7\" Id=\"478\" RevayatIndex=\"478\">فقلت: إنّه ليس لي طواحن<lfootnote noteId=\"1637\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167826,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3572\"><format class=\"hadith\" who=\"7\" Id=\"478\" RevayatIndex=\"478\">فقال: «أما لك جارية‌؟»</format></p>"
+        },
+        {
+          "paragraphId": 714167827,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3573\"><format class=\"hadith\" who=\"7\" Id=\"478\" RevayatIndex=\"478\">فقلت: بلى.</format></p>"
+        },
+        {
+          "paragraphId": 714167828,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3574\"><format class=\"hadith\" who=\"7\" Id=\"478\" RevayatIndex=\"478\">فقال: «مرها تسلقه لك و كله<lfootnote noteId=\"1638\">4</lfootnote>، فإنّه يسخّن الكليتين و يقيم الذكر»<lfootnote noteId=\"1639\">5</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714167829,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3575\"><page number=\"298\"/><heading level=\"2\">[باب] في الغمز و منافعه<lfootnote noteId=\"1640\">1</lfootnote></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169590,
+          "text": "<footnote id=\"1635\"><page number=\"297\"/><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169591,
+          "text": "<footnote id=\"1636\"><mnote>(2)</mnote> و في بدء خلقة الجزر رواية لطيفة، رواها الصدوق في علل الشرائع: 31/574، و الراوندي في الخرائج و الجرائح 928:2 انظرها. </footnote>"
+        },
+        {
+          "footnoteId": 714169592,
+          "text": "<footnote id=\"1637\"><mnote>(3)</mnote> الطّواحن: الأضراس، الواحدة طاحنة و الهاء للمبالغة. مجمع البحرين 276:6 «طحن». </footnote>"
+        },
+        {
+          "footnoteId": 714169593,
+          "text": "<footnote id=\"1638\"><mnote>(4)</mnote> في النسخة: «تسلقه، كله»، و ما أثبتناه من المحاسن. </footnote>"
+        },
+        {
+          "footnoteId": 714169594,
+          "text": "<footnote id=\"1639\"><mnote>(5)</mnote> رواه البرقي في المحاسن 2/524:2، باب الجزر، فقال: و روى بعض أصحابنا أنّ داود قال:...، و الطبرسي في مكارم الأخلاق: 184، في الجزر، عن داود بن فرقد، و البرقي في الحديث 1 من الباب، عن بعض أصحابنا، عمّن ذكره، عن داود بن فرقد، قال:<br/>سمعت أبا الحسن عليه السّلام يقول: «أكل الجزر يسخّن الكليتين و يقيم الذكر، قلت: جعلت فداك و كيف آكله و ليس لي أسنان‌؟ فقال: مر الجارية تسلقه و كله»، و مثله الكليني في الكافي 3/372:6، باب الجزر، عن عدّة من أصحابنا، عن سهل بن زياد، عن إبراهيم بن عبد الرحمن، عن أبيه، عن داود بن فرقد، و في الحديث 1 من الباب، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسن بن علي أو غيره، عن داود بن فرقد، عن <page number=\"298\"/>أبي عبد الله عليه السّلام قال: «أكل الجزر يسخّن الكليتين و يقيم الذكر»، و في الحديث 2، عن محمّد بن يحيى، عن محمّد بن موسى، عن أحمد بن الحسن الجلّاب، عن موسى بن إسماعيل، عن ابن أبي عمير، عن بعض أصحابنا، قال: قال أبو عبد الله عليه السّلام: «الجزر أمان من القولنج و البواسير، و يعين على الجماع»، و مثله الطبرسي في مكارم الأخلاق: 2/184، باب الجزر. </footnote>"
+        }
+      ],
+      "pageValue": "297",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3568\" paragraph-id=\"3568\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo297\">297</span> رطلا، و ينكب عليه تسع بيضات، و يوم الثالث رطلا، و ينكب عليه ثمان بيضات، تمام ثلاثة و عشرين بيضة في ثلاثة أيّام تجعله في هذه الأيّام طعامك، فإنّه جيّد مجرّب»<span><sup><a class=\"NewFn\" href=\"#footnote1635\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3569\" paragraph-id=\"3569\" class=\" G\">[487] </p>\n  <p id=\"p3570\" paragraph-id=\"3570\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى أبو عبد الله الهمداني، عن داود بن فرقد، قال:</span> دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> و بين يديه جزر<span><sup><a class=\"NewFn\" href=\"#footnote1636\" title=\"(2)  و في بدء خلقة الجزر رواية لطيفة، رواها الصدوق في علل الشرائع: 31/574، و الراوندي في الخرائج و الجرائح 928:2 انظرها. \">2</a></sup></span> فناولني جزرة فقال: «كله».</span>\n  </p>\n  <p id=\"p3571\" paragraph-id=\"3571\" class=\" G\">\n    <span class=\"hadith\">فقلت: إنّه ليس لي طواحن<span><sup><a class=\"NewFn\" href=\"#footnote1637\" title=\"(3)  الطّواحن: الأضراس، الواحدة طاحنة و الهاء للمبالغة. مجمع البحرين 276:6 «طحن». \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p3572\" paragraph-id=\"3572\" class=\" G\">\n    <span class=\"hadith\">فقال: «أما لك جارية‌؟»</span>\n  </p>\n  <p id=\"p3573\" paragraph-id=\"3573\" class=\" G\">\n    <span class=\"hadith\">فقلت: بلى.</span>\n  </p>\n  <p id=\"p3574\" paragraph-id=\"3574\" class=\" G\">\n    <span class=\"hadith\">فقال: «مرها تسلقه لك و كله<span><sup><a class=\"NewFn\" href=\"#footnote1638\" title=\"(4)  في النسخة: «تسلقه، كله»، و ما أثبتناه من المحاسن. \">4</a></sup></span>، فإنّه يسخّن الكليتين و يقيم الذكر»<span><sup><a class=\"NewFn\" href=\"#footnote1639\" title=\"(5)  رواه البرقي في المحاسن 2/524:2، باب الجزر، فقال: و روى بعض أصحابنا أنّ داود قال:...، و الطبرسي في مكارم الأخلاق: 184، في الجزر، عن داود بن فرقد، و البرقي في الحديث 1 من الباب، عن بعض أصحابنا، عمّن ذكره، عن داود بن فرقد، قال:سمعت أبا الحسن عليه السّلام يقول: «أكل الجزر يسخّن الكليتين و يقيم الذكر، قلت: جعلت فداك و كيف آكله و ليس لي أسنان‌؟ فقال: مر الجارية تسلقه و كله»، و مثله الكليني في الكافي 3/372:6، باب الجزر، عن عدّة من أصحابنا، عن سهل بن زياد، عن إبراهيم بن عبد الرحمن، عن أبيه، عن داود بن فرقد، و في الحديث 1 من الباب، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسن بن علي أو غيره، عن داود بن فرقد، عن \">5</a></sup></span>. </span>\n  </p>\n  <p id=\"p3575\" paragraph-id=\"3575\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1635\" footnote-id=\"1635\">(1) <page number=\"297\" /> لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1636\" footnote-id=\"1636\">(2)  و في بدء خلقة الجزر رواية لطيفة، رواها الصدوق في علل الشرائع: 31/574، و الراوندي في الخرائج و الجرائح 928:2 انظرها. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1637\" footnote-id=\"1637\">(3)  الطّواحن: الأضراس، الواحدة طاحنة و الهاء للمبالغة. مجمع البحرين 276:6 «طحن». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1638\" footnote-id=\"1638\">(4)  في النسخة: «تسلقه، كله»، و ما أثبتناه من المحاسن. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1639\" footnote-id=\"1639\">(5)  رواه البرقي في المحاسن 2/524:2، باب الجزر، فقال: و روى بعض أصحابنا أنّ داود قال:...، و الطبرسي في مكارم الأخلاق: 184، في الجزر، عن داود بن فرقد، و البرقي في الحديث 1 من الباب، عن بعض أصحابنا، عمّن ذكره، عن داود بن فرقد، قال:<br />سمعت أبا الحسن عليه السّلام يقول: «أكل الجزر يسخّن الكليتين و يقيم الذكر، قلت: جعلت فداك و كيف آكله و ليس لي أسنان‌؟ فقال: مر الجارية تسلقه و كله»، و مثله الكليني في الكافي 3/372:6، باب الجزر، عن عدّة من أصحابنا، عن سهل بن زياد، عن إبراهيم بن عبد الرحمن، عن أبيه، عن داود بن فرقد، و في الحديث 1 من الباب، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسن بن علي أو غيره، عن داود بن فرقد، عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0D9F31C8-74F0-432D-8274-53A17A1B736B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

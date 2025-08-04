@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 222,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170654,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1909\"><format class=\"hadith\" who=\"5\" Id=\"307\" RevayatIndex=\"828\"><format class=\"sanadHadith\">أحمد بن محمّد، عن الحسن بن محبوب، عن عبد الله بن سنان، عن <page number=\"222\"/> أبي حمزة الثمالي، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format><lfootnote noteId=\"909\">1</lfootnote>، قال: </format>«دهن الليل<lfootnote noteId=\"910\">2</lfootnote> يجري في العروق، و يروي البشرة، و يبيّض الوجه»<lfootnote noteId=\"911\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170655,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1910\">[312] </p>"
+        },
+        {
+          "paragraphId": 714170656,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1911\"><format class=\"hadith\" who=\"16\" Id=\"308\" RevayatIndex=\"829\"><format class=\"sanadHadith\">روى علي بن أسباط <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\">عنهم عليهم السّلام</format></format> قال: </format>«دهن الحاجبين بالبنفسج يذهب بالصداع»<lfootnote noteId=\"912\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170657,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1912\">[313] </p>"
+        },
+        {
+          "paragraphId": 714170658,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1913\"><format class=\"hadith\" who=\"6\" Id=\"309\" RevayatIndex=\"830\"><format class=\"sanadHadith\">محمّد بن عيسى، عن الحسين بن سعيد، عن يونس، قال: حدّثنا بعض أصحابنا عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«مثل البنفسج في الأدهان كمثل المؤمن في الناس»<lfootnote noteId=\"913\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170659,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1914\">[314] </p>"
+        },
+        {
+          "paragraphId": 714170660,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1915\"><format class=\"hadith\" who=\"6|5\" Id=\"310\" RevayatIndex=\"831\"><format class=\"sanadHadith\">أحمد بن محمّد الشامي، عن الحسين بن حنظلة، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6|5\">أحدهما عليهما السّلام </format></format>قال: </format>«دهن البنفسج يرزن<lfootnote noteId=\"914\">6</lfootnote> الدماغ»<lfootnote noteId=\"915\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170661,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1916\"><page number=\"223\"/>[315] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171261,
+          "text": "<footnote id=\"909\"><page number=\"222\"/><mnote>(1)</mnote> قوله: «عن أبي جعفر عليه السّلام» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171262,
+          "text": "<footnote id=\"910\"><mnote>(2)</mnote> الإضافة ظرفية كما في مكر الليل. </footnote>"
+        },
+        {
+          "footnoteId": 714171263,
+          "text": "<footnote id=\"911\"><mnote>(3)</mnote> رواه الكليني في الكافي 5/519:6، باب الأدهان، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن ابن محبوب، و ابنا بسطام بتفاوت في طبّ الأئمّة عليهم السّلام: 93، عن إبراهيم بن الحسن، قال: حدّثنا ابن محبوب، و فيه: «و يربي البشرة». </footnote>"
+        },
+        {
+          "footnoteId": 714171264,
+          "text": "<footnote id=\"912\"><mnote>(4)</mnote> تقدّم نحوه في الحديث 190 من الجزء الأوّل هكذا: «دهن الحاجبين يذهب بالصداع». انظر مصادره. </footnote>"
+        },
+        {
+          "footnoteId": 714171265,
+          "text": "<footnote id=\"913\"><mnote>(5)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 93، عنه عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171266,
+          "text": "<footnote id=\"914\"><mnote>(6)</mnote> رزن الرجل بالضم فهو رزين، أي: وقور. و امرأة رزان إذا كانت رزينة في مجلسها. الصحاح 2123:5. شيء رزين أي ثقيل. مجمع البحرين 255:6. «رزن». و في بحار الأنوار 223:59: الرزانة الوقار، و كأنّها هنا كناية عن القوّة. </footnote>"
+        },
+        {
+          "footnoteId": 714171267,
+          "text": "<footnote id=\"915\"><mnote>(7)</mnote> رواه الكليني في الكافي 8/522:6، باب دهن البنفسج، عن عدّة من أصحابنا، عن سهل بن زياد، عن أحمد بن محمّد بن أبي نصر، عن حمّاد بن عثمان، عن محمّد بن سوقة، <page number=\"223\"/>عن أبي عبد الله عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "222",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1909\" paragraph-id=\"1909\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo222\">222</span> أبي حمزة الثمالي، عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span><span><sup><a class=\"NewFn\" href=\"#footnote909\" title=\"(1)  قوله: «عن أبي جعفر عليه السّلام» أثبتناه من المصدر. \">1</a></sup></span>، قال: </span>«دهن الليل<span><sup><a class=\"NewFn\" href=\"#footnote910\" title=\"(2)  الإضافة ظرفية كما في مكر الليل. \">2</a></sup></span> يجري في العروق، و يروي البشرة، و يبيّض الوجه»<span><sup><a class=\"NewFn\" href=\"#footnote911\" title=\"(3)  رواه الكليني في الكافي 5/519:6، باب الأدهان، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن ابن محبوب، و ابنا بسطام بتفاوت في طبّ الأئمّة عليهم السّلام: 93، عن إبراهيم بن الحسن، قال: حدّثنا ابن محبوب، و فيه: «و يربي البشرة». \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1910\" paragraph-id=\"1910\" class=\" G\">[312] </p>\n  <p id=\"p1911\" paragraph-id=\"1911\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى علي بن أسباط <span class=\"Y\"><span class=\"maasoom\">عنهم عليهم السّلام</span></span> قال: </span>«دهن الحاجبين بالبنفسج يذهب بالصداع»<span><sup><a class=\"NewFn\" href=\"#footnote912\" title=\"(4)  تقدّم نحوه في الحديث 190 من الجزء الأوّل هكذا: «دهن الحاجبين يذهب بالصداع». انظر مصادره. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1912\" paragraph-id=\"1912\" class=\" G\">[313] </p>\n  <p id=\"p1913\" paragraph-id=\"1913\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن عيسى، عن الحسين بن سعيد، عن يونس، قال: حدّثنا بعض أصحابنا عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«مثل البنفسج في الأدهان كمثل المؤمن في الناس»<span><sup><a class=\"NewFn\" href=\"#footnote913\" title=\"(5)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 93، عنه عليه السّلام. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1914\" paragraph-id=\"1914\" class=\" G\">[314] </p>\n  <p id=\"p1915\" paragraph-id=\"1915\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أحمد بن محمّد الشامي، عن الحسين بن حنظلة، عن <span class=\"Y\"><span class=\"maasoom\">أحدهما عليهما السّلام </span></span>قال: </span>«دهن البنفسج يرزن<span><sup><a class=\"NewFn\" href=\"#footnote914\" title=\"(6)  رزن الرجل بالضم فهو رزين، أي: وقور. و امرأة رزان إذا كانت رزينة في مجلسها. الصحاح 2123:5. شيء رزين أي ثقيل. مجمع البحرين 255:6. «رزن». و في بحار الأنوار 223:59: الرزانة الوقار، و كأنّها هنا كناية عن القوّة. \">6</a></sup></span> الدماغ»<span><sup><a class=\"NewFn\" href=\"#footnote915\" title=\"(7)  رواه الكليني في الكافي 8/522:6، باب دهن البنفسج، عن عدّة من أصحابنا، عن سهل بن زياد، عن أحمد بن محمّد بن أبي نصر، عن حمّاد بن عثمان، عن محمّد بن سوقة، \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p1916\" paragraph-id=\"1916\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote909\" footnote-id=\"909\">(1) <page number=\"222\" /> قوله: «عن أبي جعفر عليه السّلام» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote910\" footnote-id=\"910\">(2)  الإضافة ظرفية كما في مكر الليل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote911\" footnote-id=\"911\">(3)  رواه الكليني في الكافي 5/519:6، باب الأدهان، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن ابن محبوب، و ابنا بسطام بتفاوت في طبّ الأئمّة عليهم السّلام: 93، عن إبراهيم بن الحسن، قال: حدّثنا ابن محبوب، و فيه: «و يربي البشرة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote912\" footnote-id=\"912\">(4)  تقدّم نحوه في الحديث 190 من الجزء الأوّل هكذا: «دهن الحاجبين يذهب بالصداع». انظر مصادره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote913\" footnote-id=\"913\">(5)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 93، عنه عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote914\" footnote-id=\"914\">(6)  رزن الرجل بالضم فهو رزين، أي: وقور. و امرأة رزان إذا كانت رزينة في مجلسها. الصحاح 2123:5. شيء رزين أي ثقيل. مجمع البحرين 255:6. «رزن». و في بحار الأنوار 223:59: الرزانة الوقار، و كأنّها هنا كناية عن القوّة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote915\" footnote-id=\"915\">(7)  رواه الكليني في الكافي 8/522:6، باب دهن البنفسج، عن عدّة من أصحابنا، عن سهل بن زياد، عن أحمد بن محمّد بن أبي نصر، عن حمّاد بن عثمان، عن محمّد بن سوقة، </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "53CC9340-089F-4414-ABC8-A08464A19A36",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

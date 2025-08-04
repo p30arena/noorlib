@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 191,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167118,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3017\"><format class=\"hadith\" who=\"7\" Id=\"299\" RevayatIndex=\"299\"><page number=\"191\"/> فكتب إليّ‌: «احجمها، و لتغسل محاجمها - قبل أن تقوم الحجّامة و تأخذ عنها المحاجم - بخلّ خمر و ملح أندراني، يسكن عنها»<lfootnote noteId=\"1122\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167119,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3018\">[302] </p>"
+        },
+        {
+          "paragraphId": 714167120,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3019\"><format class=\"hadith\" who=\"5\" Id=\"300\" RevayatIndex=\"300\"><format class=\"sanadHadith\">روى البرقي، عن محمّد بن عيسى، عن عاصم الخيّاط، عن فضيل بن يسار، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبا جعفر عليه السّلام</format></format> يقول: </format>«افتتحوا بالملح و اختموا به، فمن فعل ذلك لم يشتك شيئا من فمه»<lfootnote noteId=\"1123\">2</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714167121,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3020\"><heading level=\"2\">[باب] الحكّة في الفم و ضربان العمور<lfootnote noteId=\"1124\">3</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714167122,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3021\">[303] </p>"
+        },
+        {
+          "paragraphId": 714167123,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3022\"><format class=\"hadith\" who=\"7\" Id=\"301\" RevayatIndex=\"301\"><format class=\"sanadHadith\">روى يحيى بن القاسم،</format> قال: شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">موسى عليه السّلام</format></format> حكّة كنت أجدها في فمي و ضربات في عمور أسناني.</format></p>"
+        },
+        {
+          "paragraphId": 714167124,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3023\"><format class=\"hadith\" who=\"7\" Id=\"301\" RevayatIndex=\"301\">فقال عليه السّلام: «خذ ماء الآس الرطب و تمضمض به مرارا و اغسل فمك بعده بخلّ خمر». ففعلت فسكن عنّي<lfootnote noteId=\"1125\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167125,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3024\"><page number=\"192\"/><heading level=\"2\">[باب] ما يطيب النكهة و يذهب بالبخر </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169166,
+          "text": "<footnote id=\"1122\"><page number=\"191\"/><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169167,
+          "text": "<footnote id=\"1123\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا من ذكر فائدة البدء بالملح و الختم به، و لكن وردت روايات كثيرة في الأمر بالبدء بالملح و الختم به و ذكرت له فوائد. انظر: صحيفة الإمام الرضا عليه السّلام: 162/78، المحاسن 485:2، باب الخلّ‌، و 590، باب الملح، الكافي 326:6، باب فضل الملح، و 329، باب الخلّ‌، من لا يحضره الفقيه 357:3، و ج 368:4، عيون أخبار الرضا عليه السّلام 42:2، الخصال: 623، تحف العقول: 12 و 113، الآداب الدينية: 90، مكارم الأخلاق: 142 و 189 و 442، الدعوات: 145، السرائر 620:3، تنبيه الخواطر 48:1، الأمان من أخطار الأسفار و الأزمان: 61، دعائم الإسلام 114:2. </footnote>"
+        },
+        {
+          "footnoteId": 714169168,
+          "text": "<footnote id=\"1124\"><mnote>(3)</mnote> العمر: واحد عمور الأسنان، و هو ما بينها من اللحم. الصحاح 757:2 «عمر». </footnote>"
+        },
+        {
+          "footnoteId": 714169169,
+          "text": "<footnote id=\"1125\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "191",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3017\" paragraph-id=\"3017\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo191\">191</span> فكتب إليّ‌: «احجمها، و لتغسل محاجمها - قبل أن تقوم الحجّامة و تأخذ عنها المحاجم - بخلّ خمر و ملح أندراني، يسكن عنها»<span><sup><a class=\"NewFn\" href=\"#footnote1122\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3018\" paragraph-id=\"3018\" class=\" G\">[302] </p>\n  <p id=\"p3019\" paragraph-id=\"3019\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى البرقي، عن محمّد بن عيسى، عن عاصم الخيّاط، عن فضيل بن يسار، قال: سمعت <span class=\"Y\"><span class=\"maasoom\">أبا جعفر عليه السّلام</span></span> يقول: </span>«افتتحوا بالملح و اختموا به، فمن فعل ذلك لم يشتك شيئا من فمه»<span><sup><a class=\"NewFn\" href=\"#footnote1123\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا من ذكر فائدة البدء بالملح و الختم به، و لكن وردت روايات كثيرة في الأمر بالبدء بالملح و الختم به و ذكرت له فوائد. انظر: صحيفة الإمام الرضا عليه السّلام: 162/78، المحاسن 485:2، باب الخلّ‌، و 590، باب الملح، الكافي 326:6، باب فضل الملح، و 329، باب الخلّ‌، من لا يحضره الفقيه 357:3، و ج 368:4، عيون أخبار الرضا عليه السّلام 42:2، الخصال: 623، تحف العقول: 12 و 113، الآداب الدينية: 90، مكارم الأخلاق: 142 و 189 و 442، الدعوات: 145، السرائر 620:3، تنبيه الخواطر 48:1، الأمان من أخطار الأسفار و الأزمان: 61، دعائم الإسلام 114:2. \">2</a></sup></span>. </span>\n  </p>\n  <p id=\"p3020\" paragraph-id=\"3020\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الحكّة في الفم و ضربان العمور<span><sup><a class=\"NewFn\" href=\"#footnote1124\" title=\"(3)  العمر: واحد عمور الأسنان، و هو ما بينها من اللحم. الصحاح 757:2 «عمر». \">3</a></sup></span></strong>\n  </p>\n  <p id=\"p3021\" paragraph-id=\"3021\" class=\" G\">[303] </p>\n  <p id=\"p3022\" paragraph-id=\"3022\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى يحيى بن القاسم،</span> قال: شكوت إلى <span class=\"Y\"><span class=\"maasoom\">موسى عليه السّلام</span></span> حكّة كنت أجدها في فمي و ضربات في عمور أسناني.</span>\n  </p>\n  <p id=\"p3023\" paragraph-id=\"3023\" class=\" G\">\n    <span class=\"hadith\">فقال عليه السّلام: «خذ ماء الآس الرطب و تمضمض به مرارا و اغسل فمك بعده بخلّ خمر». ففعلت فسكن عنّي<span><sup><a class=\"NewFn\" href=\"#footnote1125\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3024\" paragraph-id=\"3024\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1122\" footnote-id=\"1122\">(1) <page number=\"191\" /> لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1123\" footnote-id=\"1123\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا من ذكر فائدة البدء بالملح و الختم به، و لكن وردت روايات كثيرة في الأمر بالبدء بالملح و الختم به و ذكرت له فوائد. انظر: صحيفة الإمام الرضا عليه السّلام: 162/78، المحاسن 485:2، باب الخلّ‌، و 590، باب الملح، الكافي 326:6، باب فضل الملح، و 329، باب الخلّ‌، من لا يحضره الفقيه 357:3، و ج 368:4، عيون أخبار الرضا عليه السّلام 42:2، الخصال: 623، تحف العقول: 12 و 113، الآداب الدينية: 90، مكارم الأخلاق: 142 و 189 و 442، الدعوات: 145، السرائر 620:3، تنبيه الخواطر 48:1، الأمان من أخطار الأسفار و الأزمان: 61، دعائم الإسلام 114:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1124\" footnote-id=\"1124\">(3)  العمر: واحد عمور الأسنان، و هو ما بينها من اللحم. الصحاح 757:2 «عمر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1125\" footnote-id=\"1125\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "BF552357-3EE3-4393-8D5F-55E73A6173ED",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

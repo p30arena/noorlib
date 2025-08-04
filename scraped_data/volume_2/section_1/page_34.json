@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 34,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169845,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1100\"><format class=\"hadith\" who=\"6\" Id=\"47\" RevayatIndex=\"568\"><format class=\"sanadHadith\">روى إبراهيم، عن حفص بن غياث<lfootnote noteId=\"125\">4</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«من <page number=\"34\"/> كان محتجما أو همّ بالحجامة<lfootnote noteId=\"126\">1</lfootnote> فيوم السبت»<lfootnote noteId=\"127\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169846,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1101\">[48] </p>"
+        },
+        {
+          "paragraphId": 714169847,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1102\"><format class=\"hadith\" who=\"14,7\" Id=\"48\" RevayatIndex=\"569\"><format class=\"sanadHadith\">أخبرنا أبو علي البغدادي<lfootnote noteId=\"128\">3</lfootnote>، قال: حدّثنا محمّد بن خلف، قال: حدّثني موسى بن إبراهيم<lfootnote noteId=\"129\">4</lfootnote>، قال: حدّثنا <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"7\">موسى بن جعفر</format></format>، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"6\">أبيه</format></format>، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"4\">جدّه عليهم السّلام</format></format>، قال:</format></format></p>"
+        },
+        {
+          "paragraphId": 714169848,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1103\"><format class=\"hadith\" who=\"14,7\" Id=\"48\" RevayatIndex=\"569\"><format class=\"sanadHadith\"/>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: من كان منكم محتجما فليحتجم يوم السبت»<lfootnote noteId=\"130\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169849,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1104\"><heading level=\"2\">[باب] الحجامة يوم الأحد </heading></p>"
+        },
+        {
+          "paragraphId": 714169850,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1105\">[49] </p>"
+        },
+        {
+          "paragraphId": 714169851,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1106\"><format class=\"hadith\" who=\"6\" Id=\"49\" RevayatIndex=\"570\"><format class=\"sanadHadith\">روى بعض أصحابنا، يرفعه، قال:</format> مرّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">جعفر بن محمّد عليهما السّلام</format></format> بقوم يحتجمون، فقال: «ما عليكم لو أخّرتموه إلى عشيّة الأحد، فإنّه أنزل للداء»<lfootnote noteId=\"131\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169852,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1107\"><page number=\"35\"/>[50] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170909,
+          "text": "<footnote id=\"125\"><mnote>(4)</mnote> في النسخة: «إبراهيم جعفر بن غياث»، و الصحيح ما أثبتناه، و لم نعثر على هذا الإسم<page number=\"34\"/>و لا على جعفر بن غياث، و لعلّ «إبراهيم» هو «إبراهيم بن محمّد» الذي روى عن «حفص بن غياث» كما في تأويل الآيات الظاهرة في فضائل العترة الطاهرة عليهم السّلام: 587، فيكون «جعفر» تصحيف «حفص». </footnote>"
+        },
+        {
+          "footnoteId": 714170910,
+          "text": "<footnote id=\"126\"><mnote>(1)</mnote> الظاهر أنّ الترديد من الراوي. </footnote>"
+        },
+        {
+          "footnoteId": 714170911,
+          "text": "<footnote id=\"127\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714170912,
+          "text": "<footnote id=\"128\"><mnote>(3)</mnote> «أبو علي البغدادي» المذكور في السند هو محمّد بن همّام. </footnote>"
+        },
+        {
+          "footnoteId": 714170913,
+          "text": "<footnote id=\"129\"><mnote>(4)</mnote> و هو المروزي صاحب مسند الإمام موسى بن جعفر عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714170914,
+          "text": "<footnote id=\"130\"><mnote>(5)</mnote> مسند الإمام موسى بن جعفر عليه السّلام ح 35، و به [أي بالإسناد الذي ذكر قبل بقوله:<br/>حدّثنا محمّد بن خلف، حدّثنا موسى بن إبراهيم، حدّثنا موسى بن جعفر، عن جدّه،] قال: إنّ رسول الله صلّى الله عليه و آله...، و الطبرسي في مكارم الأخلاق: 13/74، الفصل الرابع في الحجامة، عن طبّ الأئمّة عليهم السّلام، عن الكاظم عليه السّلام، عن رسول الله صلّى الله عليه و آله.<br/>و نقله العامّة أيضا عن الحجّاج بن أرطاة، عن رسول الله صلّى الله عليه و آله فلاحظ: المصنّف لابن أبي شيبة الكوفي 2/459:5، التمهيد لابن عبد البرّ 351:24. </footnote>"
+        },
+        {
+          "footnoteId": 714170915,
+          "text": "<footnote id=\"131\"><mnote>(6)</mnote> رواه الصدوق في الخصال: 60/383، ما جاء في الأحد و ما بعده، حدّثنا أبي رضي الله عنه، قال: حدّثنا سعد بن عبد الله، قال: حدّثني أحمد بن الحسين بن سعيد، عن الحسين بن أسد البصري، عن <page number=\"35\"/>الحسين بن سعيد، عمّن رواه، عن خلف بن حمّاد، عن رجل، عن أبي عبد الله عليه السّلام، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 57، الأوقات المختلفة في الحجامة، أحمد بن عبد الله بن زريق، و الطبرسي في مكارم الأخلاق: 15/74، الفصل الرابع في الحجامة، و عنه عليه السّلام أنّه مرّ بقوم. </footnote>"
+        }
+      ],
+      "pageValue": "34",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1100\" paragraph-id=\"1100\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo34\">34</span> كان محتجما أو همّ بالحجامة<span><sup><a class=\"NewFn\" href=\"#footnote126\" title=\"(1)  الظاهر أنّ الترديد من الراوي. \">1</a></sup></span> فيوم السبت»<span><sup><a class=\"NewFn\" href=\"#footnote127\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1101\" paragraph-id=\"1101\" class=\" G\">[48] </p>\n  <p id=\"p1102\" paragraph-id=\"1102\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أخبرنا أبو علي البغدادي<span><sup><a class=\"NewFn\" href=\"#footnote128\" title=\"(3)  «أبو علي البغدادي» المذكور في السند هو محمّد بن همّام. \">3</a></sup></span>، قال: حدّثنا محمّد بن خلف، قال: حدّثني موسى بن إبراهيم<span><sup><a class=\"NewFn\" href=\"#footnote129\" title=\"(4)  و هو المروزي صاحب مسند الإمام موسى بن جعفر عليه السّلام. \">4</a></sup></span>، قال: حدّثنا <span class=\"HQ\"><span class=\"maasoom\">موسى بن جعفر</span></span>، عن <span class=\"G\"><span class=\"maasoom\">أبيه</span></span>، عن <span class=\"G\"><span class=\"maasoom\">جدّه عليهم السّلام</span></span>، قال:</span>\n    </span>\n  </p>\n  <p id=\"p1103\" paragraph-id=\"1103\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\"></span>«قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: من كان منكم محتجما فليحتجم يوم السبت»<span><sup><a class=\"NewFn\" href=\"#footnote130\" title=\"(5)  مسند الإمام موسى بن جعفر عليه السّلام ح 35، و به [أي بالإسناد الذي ذكر قبل بقوله:حدّثنا محمّد بن خلف، حدّثنا موسى بن إبراهيم، حدّثنا موسى بن جعفر، عن جدّه،] قال: إنّ رسول الله صلّى الله عليه و آله...، و الطبرسي في مكارم الأخلاق: 13/74، الفصل الرابع في الحجامة، عن طبّ الأئمّة عليهم السّلام، عن الكاظم عليه السّلام، عن رسول الله صلّى الله عليه و آله.و نقله العامّة أيضا عن الحجّاج بن أرطاة، عن رسول الله صلّى الله عليه و آله فلاحظ: المصنّف لابن أبي شيبة الكوفي 2/459:5، التمهيد لابن عبد البرّ 351:24. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1104\" paragraph-id=\"1104\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الحجامة يوم الأحد </strong>\n  </p>\n  <p id=\"p1105\" paragraph-id=\"1105\" class=\" G\">[49] </p>\n  <p id=\"p1106\" paragraph-id=\"1106\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى بعض أصحابنا، يرفعه، قال:</span> مرّ <span class=\"Y\"><span class=\"maasoom\">جعفر بن محمّد عليهما السّلام</span></span> بقوم يحتجمون، فقال: «ما عليكم لو أخّرتموه إلى عشيّة الأحد، فإنّه أنزل للداء»<span><sup><a class=\"NewFn\" href=\"#footnote131\" title=\"(6)  رواه الصدوق في الخصال: 60/383، ما جاء في الأحد و ما بعده، حدّثنا أبي رضي الله عنه، قال: حدّثنا سعد بن عبد الله، قال: حدّثني أحمد بن الحسين بن سعيد، عن الحسين بن أسد البصري، عن \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1107\" paragraph-id=\"1107\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote125\" footnote-id=\"125\"><page number=\"34\" />و لا على جعفر بن غياث، و لعلّ «إبراهيم» هو «إبراهيم بن محمّد» الذي روى عن «حفص بن غياث» كما في تأويل الآيات الظاهرة في فضائل العترة الطاهرة عليهم السّلام: 587، فيكون «جعفر» تصحيف «حفص». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote126\" footnote-id=\"126\">(1)  الظاهر أنّ الترديد من الراوي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote127\" footnote-id=\"127\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote128\" footnote-id=\"128\">(3)  «أبو علي البغدادي» المذكور في السند هو محمّد بن همّام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote129\" footnote-id=\"129\">(4)  و هو المروزي صاحب مسند الإمام موسى بن جعفر عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote130\" footnote-id=\"130\">(5)  مسند الإمام موسى بن جعفر عليه السّلام ح 35، و به [أي بالإسناد الذي ذكر قبل بقوله:<br />حدّثنا محمّد بن خلف، حدّثنا موسى بن إبراهيم، حدّثنا موسى بن جعفر، عن جدّه،] قال: إنّ رسول الله صلّى الله عليه و آله...، و الطبرسي في مكارم الأخلاق: 13/74، الفصل الرابع في الحجامة، عن طبّ الأئمّة عليهم السّلام، عن الكاظم عليه السّلام، عن رسول الله صلّى الله عليه و آله.<br />و نقله العامّة أيضا عن الحجّاج بن أرطاة، عن رسول الله صلّى الله عليه و آله فلاحظ: المصنّف لابن أبي شيبة الكوفي 2/459:5، التمهيد لابن عبد البرّ 351:24. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote131\" footnote-id=\"131\">(6)  رواه الصدوق في الخصال: 60/383، ما جاء في الأحد و ما بعده، حدّثنا أبي رضي الله عنه، قال: حدّثنا سعد بن عبد الله، قال: حدّثني أحمد بن الحسين بن سعيد، عن الحسين بن أسد البصري، عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "7AC9CFD4-CB29-41F2-98DD-4E5812E5E38C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

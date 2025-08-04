@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 22,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169790,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1045\"><page number=\"22\"/>[29] </p>"
+        },
+        {
+          "paragraphId": 714169791,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1046\"><format class=\"hadith\" who=\"14,6\" Id=\"29\" RevayatIndex=\"550\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن أحمد بن محمّد بن عيسى، عن ابن أبي عمير، عن عبد الرحمن بن أبي نجران، عن أبي يعقوب قال:</format> قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لأبي عبد الله عليه السّلام</format></format>:</format></p>"
+        },
+        {
+          "paragraphId": 714169792,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1047\"><format class=\"hadith\" who=\"14,6\" Id=\"29\" RevayatIndex=\"550\">نكتوي بالنار و ربما قتل، و من يعافى أكثر.</format></p>"
+        },
+        {
+          "paragraphId": 714169793,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1048\"><format class=\"hadith\" who=\"14,6\" Id=\"29\" RevayatIndex=\"550\">قال: «قد اكتوى رجل من أصحاب <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> و هو قائم على رأسه»<lfootnote noteId=\"77\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169794,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1049\">[30] </p>"
+        },
+        {
+          "paragraphId": 714169795,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1050\"><format class=\"hadith\" who=\"14,1\" Id=\"30\" RevayatIndex=\"551\"><format class=\"sanadHadith\">و روي عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين عليه السّلام</format></format> أنّه قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: أنهى<lfootnote noteId=\"78\">2</lfootnote>عن الكيّ‌<lfootnote noteId=\"79\">3</lfootnote>، و أكره شرب الحميم، و آمره بكحل ثلاثة أميال في كلّ يوم عند النوم»<lfootnote noteId=\"80\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169796,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1051\"><page number=\"23\"/><heading level=\"2\">[باب] في تقليم الأظفار<lfootnote noteId=\"81\">1</lfootnote></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170860,
+          "text": "<footnote id=\"76\"><mnote>(4)</mnote> لم نعثر على نصّه في المصادر المتوفرة لدينا، و لكن نقل العامّة عن عائشة أنّ النبيّ صلّى الله عليه و آله أمر بابن زرارة أن يكوى، فلاحظ: مسند أبي يعلى 4825/245:8، صحيح ابن حبّان 443:13، مجمع الزوائد 98:5، موارد الظمآن 1403/383:4، و عن أنس: أنّ النبيّ صلّى الله عليه و آله كوى أسعد بن زرارة فلاحظ: مسند أحمد 65:4 و ج 378:5، مسند ابن الجعد: 383، <page number=\"22\"/>الطبقات الكبرى 610:3، تأويل مختلف الحديث: 306 و 308.<br/>و نقل ابن أبي جمهور الأحسائي عنهم في عوالي اللئالي 147/75:1، كما هو سيرته في كثير من منقولاته. </footnote>"
+        },
+        {
+          "footnoteId": 714170861,
+          "text": "<footnote id=\"77\"><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714170862,
+          "text": "<footnote id=\"78\"><mnote>(2)</mnote> في النسخة: «نهى» و ما أثبتناه لضرورة السياق. </footnote>"
+        },
+        {
+          "footnoteId": 714170863,
+          "text": "<footnote id=\"79\"><mnote>(3)</mnote> لا يخفى أنّ الجمع بين هذا النهي و بين الروايات الماضية الدالّة على الرخصة - بعد معارضة منقولات العامّة في ذلك - هو كلام أمير المؤمنين عليه السّلام من أنّ آخر الدواء الكيّ‌، فمتى يمكن التداوي بغيره فلا يجوز به، كما أنّ من اصول طبّ أهل البيت عليهم السّلام التداوي بالأسهل فالأسهل. </footnote>"
+        },
+        {
+          "footnoteId": 714170864,
+          "text": "<footnote id=\"80\"><mnote>(4)</mnote> روى ابن الأشعث في الجعفريات: 173، بالإسناد عن موسى بن جعفر عليه السّلام، عن آبائه، عن علي بن أبي طالب عليهم السّلام و هو ينهى عن الكيّ و يكره شرب الحميم، و في دعائم الإسلام 515/146:2 عن رسول الله صلّى الله عليه و آله أنّه نهى عن الكيّ‌، و في ج 542/151:2 عن رسول الله صلّى الله عليه و آله أنّه نهى عن شرب الحميم، يعني الماء الشديد الحرارة.<br/>و نقل العامة نحوه، لاحظ: مسند أحمد 156:4، سنن الترمذي 10/263:3، فتوح مصر و أخبارها: 150/494، المعجم الكبير 338:17. </footnote>"
+        }
+      ],
+      "pageValue": "22",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1045\" paragraph-id=\"1045\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo22\">22</span>[29] </p>\n  <p id=\"p1046\" paragraph-id=\"1046\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن أحمد بن محمّد بن عيسى، عن ابن أبي عمير، عن عبد الرحمن بن أبي نجران، عن أبي يعقوب قال:</span> قلت <span class=\"Y\"><span class=\"maasoom\">لأبي عبد الله عليه السّلام</span></span>:</span>\n  </p>\n  <p id=\"p1047\" paragraph-id=\"1047\" class=\" G\">\n    <span class=\"hadith\">نكتوي بالنار و ربما قتل، و من يعافى أكثر.</span>\n  </p>\n  <p id=\"p1048\" paragraph-id=\"1048\" class=\" G\">\n    <span class=\"hadith\">قال: «قد اكتوى رجل من أصحاب <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span> و هو قائم على رأسه»<span><sup><a class=\"NewFn\" href=\"#footnote77\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1049\" paragraph-id=\"1049\" class=\" G\">[30] </p>\n  <p id=\"p1050\" paragraph-id=\"1050\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"HQ\"><span class=\"maasoom\">أمير المؤمنين عليه السّلام</span></span> أنّه قال: </span>«قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: أنهى<span><sup><a class=\"NewFn\" href=\"#footnote78\" title=\"(2)  في النسخة: «نهى» و ما أثبتناه لضرورة السياق. \">2</a></sup></span>عن الكيّ‌<span><sup><a class=\"NewFn\" href=\"#footnote79\" title=\"(3)  لا يخفى أنّ الجمع بين هذا النهي و بين الروايات الماضية الدالّة على الرخصة - بعد معارضة منقولات العامّة في ذلك - هو كلام أمير المؤمنين عليه السّلام من أنّ آخر الدواء الكيّ‌، فمتى يمكن التداوي بغيره فلا يجوز به، كما أنّ من اصول طبّ أهل البيت عليهم السّلام التداوي بالأسهل فالأسهل. \">3</a></sup></span>، و أكره شرب الحميم، و آمره بكحل ثلاثة أميال في كلّ يوم عند النوم»<span><sup><a class=\"NewFn\" href=\"#footnote80\" title=\"(4)  روى ابن الأشعث في الجعفريات: 173، بالإسناد عن موسى بن جعفر عليه السّلام، عن آبائه، عن علي بن أبي طالب عليهم السّلام و هو ينهى عن الكيّ و يكره شرب الحميم، و في دعائم الإسلام 515/146:2 عن رسول الله صلّى الله عليه و آله أنّه نهى عن الكيّ‌، و في ج 542/151:2 عن رسول الله صلّى الله عليه و آله أنّه نهى عن شرب الحميم، يعني الماء الشديد الحرارة.و نقل العامة نحوه، لاحظ: مسند أحمد 156:4، سنن الترمذي 10/263:3، فتوح مصر و أخبارها: 150/494، المعجم الكبير 338:17. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1051\" paragraph-id=\"1051\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote76\" footnote-id=\"76\"><page number=\"22\" />الطبقات الكبرى 610:3، تأويل مختلف الحديث: 306 و 308.<br />و نقل ابن أبي جمهور الأحسائي عنهم في عوالي اللئالي 147/75:1، كما هو سيرته في كثير من منقولاته. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote77\" footnote-id=\"77\">(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote78\" footnote-id=\"78\">(2)  في النسخة: «نهى» و ما أثبتناه لضرورة السياق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote79\" footnote-id=\"79\">(3)  لا يخفى أنّ الجمع بين هذا النهي و بين الروايات الماضية الدالّة على الرخصة - بعد معارضة منقولات العامّة في ذلك - هو كلام أمير المؤمنين عليه السّلام من أنّ آخر الدواء الكيّ‌، فمتى يمكن التداوي بغيره فلا يجوز به، كما أنّ من اصول طبّ أهل البيت عليهم السّلام التداوي بالأسهل فالأسهل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote80\" footnote-id=\"80\">(4)  روى ابن الأشعث في الجعفريات: 173، بالإسناد عن موسى بن جعفر عليه السّلام، عن آبائه، عن علي بن أبي طالب عليهم السّلام و هو ينهى عن الكيّ و يكره شرب الحميم، و في دعائم الإسلام 515/146:2 عن رسول الله صلّى الله عليه و آله أنّه نهى عن الكيّ‌، و في ج 542/151:2 عن رسول الله صلّى الله عليه و آله أنّه نهى عن شرب الحميم، يعني الماء الشديد الحرارة.<br />و نقل العامة نحوه، لاحظ: مسند أحمد 156:4، سنن الترمذي 10/263:3، فتوح مصر و أخبارها: 150/494، المعجم الكبير 338:17. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "BBF3F030-9D05-4D08-BFE7-800094D88D51",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

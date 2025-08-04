@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 10,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169732,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"987\"><format class=\"hadith\" who=\"8\" Id=\"8\" RevayatIndex=\"529\"><format class=\"sanadHadith\">قال: </format>«خذ لكلّ ثالول سبع شعيرات، و اقرأ على كلّ شعيرة سبع مرّات <format class=\"ayah\" surah=\"56\" ayah=\"1\" toAyah=\"\">إِذٰا وَقَعَتِ اَلْوٰاقِعَةُ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"56\" ayah=\"1\" toAyah=\"\"/></format> إلى قوله تعالى: <format class=\"ayah\" surah=\"56\" ayah=\"6\" toAyah=\"\">فَكٰانَتْ هَبٰاءً مُنْبَثًّا<format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"56\" ayah=\"6\" toAyah=\"\"/></format><lfootnote noteId=\"25\">6</lfootnote>، و اقرأ: <format class=\"ayah\" surah=\"20\" ayah=\"105\" toAyah=\"\">وَ يَسْئَلُونَكَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"105\" toAyah=\"\"/></format><page number=\"10\"/><format class=\"ayah\" surah=\"20\" ayah=\"105\" toAyah=\"\">عَنِ اَلْجِبٰالِ فَقُلْ يَنْسِفُهٰا رَبِّي نَسْفاً<format class=\"ayahWord\" fromWord=\"3\" toWord=\"8\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"105\" toAyah=\"\"/></format> إلى قوله: <format class=\"ayah\" surah=\"20\" ayah=\"107\" toAyah=\"\">وَ لاٰ أَمْتاً<format class=\"ayahWord\" fromWord=\"5\" toWord=\"7\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"107\" toAyah=\"\"/></format><lfootnote noteId=\"26\">1</lfootnote>، ثمّ خذ الشعير شعيرة شعيرة<lfootnote noteId=\"27\">2</lfootnote> فامسحها على الثآليل، و صرّها<lfootnote noteId=\"28\">3</lfootnote> في خرقة جديدة، و اربط على الخرقة حجرا، و ألقها في كنيف».</format></p>"
+        },
+        {
+          "paragraphId": 714169733,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"988\"><format class=\"hadith\" who=\"8\" Id=\"8\" RevayatIndex=\"529\">ثمّ قال<lfootnote noteId=\"29\">4</lfootnote>: «تنظر يوم السابع أو الثامن و هو مثل راحتك.</format></p>"
+        },
+        {
+          "paragraphId": 714169734,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"989\"><format class=\"hadith\" who=\"8\" Id=\"8\" RevayatIndex=\"529\">و ينبغي أن تعالج في محاق الشهر»<lfootnote noteId=\"30\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169735,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"990\">و أيضا لها:</p>"
+        },
+        {
+          "paragraphId": 714169736,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"991\">[9]</p>"
+        },
+        {
+          "paragraphId": 714169737,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"992\"><format class=\"hadith\" who=\"16\" Id=\"9\" RevayatIndex=\"530\"> انظر إلى أوّل كوكب يطلع بالعشي و لا يحيد بصرك عنه و تناول التراب و ادلكه بها و أنت تقول: <format class=\"semicolon\">بسم الله و بالله رأيتني و لم أرك، شقّ عود بصرك، الله يخفي أثرك، ارفع ثواليلي معك</format><lfootnote noteId=\"31\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169738,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"993\"><page number=\"11\"/><heading level=\"2\">[باب] في الجرب و الحكّة </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170810,
+          "text": "<footnote id=\"26\"><page number=\"10\"/><mnote>(1)</mnote> سورة طه 105:20-107. </footnote>"
+        },
+        {
+          "footnoteId": 714170811,
+          "text": "<footnote id=\"27\"><mnote>(2)</mnote> في النسخة: «خذ الشعير شعيرة» و ما أثبتناه من عيون الأخبار و مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714170812,
+          "text": "<footnote id=\"28\"><mnote>(3)</mnote> في عيون أخبار الرضا عليه السّلام و مكارم الأخلاق: «صيّرها». </footnote>"
+        },
+        {
+          "footnoteId": 714170813,
+          "text": "<footnote id=\"29\"><mnote>(4)</mnote> كلمة «قال» أثبتناها من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714170814,
+          "text": "<footnote id=\"30\"><mnote>(5)</mnote> رواه الطبرسي بتفاوت يسير في مكارم الأخلاق: 3/385، فقال: للثؤلول روي أنّ رجلا سأل الرضا عليه السّلام، و ابنا بسطام بتفاوت في طبّ الأئمّة عليهم السّلام: 109، في الثؤلول، سعدويه بن عبد الله قال: حدّثنا علي بن النعمان، عن أبي الحسن الرضا عليه السّلام، عن آبائه عليهم السّلام، و الصدوق في عيون أخبار الرضا عليه السّلام 193/50:2، حدّثنا محمّد بن الحسن بن أحمد بن الوليد رضي الله عنه، قال: حدّثنا عبد الله بن جعفر الحميري، عن أحمد بن محمّد السياري، عن علي بن نعمان، عن أبي الحسن علي بن موسى الرضا عليه السّلام، و الراوندي في الدعوات: 549/199، و عن علي بن النعمان، قال: قلت للرضا عليه السّلام:...، و الكفعمي في المصباح: 158، للثآليل، عن الرضا عليه السّلام: «خذ لكلّ ثؤلول...». </footnote>"
+        },
+        {
+          "footnoteId": 714170815,
+          "text": "<footnote id=\"31\"><mnote>(6)</mnote> رواه الطبرسي في مكارم الأخلاق: 411، للثؤلول، عن الرضا عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "10",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p987\" paragraph-id=\"987\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo10\">10</span>\n      <span style=\"0\" class=\"ayah\" surah=\"20\" ayah=\"105\">عَنِ اَلْجِبٰالِ فَقُلْ يَنْسِفُهٰا رَبِّي نَسْفاً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/20/105\"></a></span></span> إلى قوله: <span style=\"0\" class=\"ayah\" surah=\"20\" ayah=\"107\">وَ لاٰ أَمْتاً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/20/107\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote26\" title=\"(1)  سورة طه 105:20-107. \">1</a></sup></span>، ثمّ خذ الشعير شعيرة شعيرة<span><sup><a class=\"NewFn\" href=\"#footnote27\" title=\"(2)  في النسخة: «خذ الشعير شعيرة» و ما أثبتناه من عيون الأخبار و مكارم الأخلاق. \">2</a></sup></span> فامسحها على الثآليل، و صرّها<span><sup><a class=\"NewFn\" href=\"#footnote28\" title=\"(3)  في عيون أخبار الرضا عليه السّلام و مكارم الأخلاق: «صيّرها». \">3</a></sup></span> في خرقة جديدة، و اربط على الخرقة حجرا، و ألقها في كنيف».</span>\n  </p>\n  <p id=\"p988\" paragraph-id=\"988\" class=\" G\">\n    <span class=\"hadith\">ثمّ قال<span><sup><a class=\"NewFn\" href=\"#footnote29\" title=\"(4)  كلمة «قال» أثبتناها من مكارم الأخلاق. \">4</a></sup></span>: «تنظر يوم السابع أو الثامن و هو مثل راحتك.</span>\n  </p>\n  <p id=\"p989\" paragraph-id=\"989\" class=\" G\">\n    <span class=\"hadith\">و ينبغي أن تعالج في محاق الشهر»<span><sup><a class=\"NewFn\" href=\"#footnote30\" title=\"(5)  رواه الطبرسي بتفاوت يسير في مكارم الأخلاق: 3/385، فقال: للثؤلول روي أنّ رجلا سأل الرضا عليه السّلام، و ابنا بسطام بتفاوت في طبّ الأئمّة عليهم السّلام: 109، في الثؤلول، سعدويه بن عبد الله قال: حدّثنا علي بن النعمان، عن أبي الحسن الرضا عليه السّلام، عن آبائه عليهم السّلام، و الصدوق في عيون أخبار الرضا عليه السّلام 193/50:2، حدّثنا محمّد بن الحسن بن أحمد بن الوليد رضي الله عنه، قال: حدّثنا عبد الله بن جعفر الحميري، عن أحمد بن محمّد السياري، عن علي بن نعمان، عن أبي الحسن علي بن موسى الرضا عليه السّلام، و الراوندي في الدعوات: 549/199، و عن علي بن النعمان، قال: قلت للرضا عليه السّلام:...، و الكفعمي في المصباح: 158، للثآليل، عن الرضا عليه السّلام: «خذ لكلّ ثؤلول...». \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p990\" paragraph-id=\"990\" class=\" G\">و أيضا لها:</p>\n  <p id=\"p991\" paragraph-id=\"991\" class=\" G\">[9]</p>\n  <p id=\"p992\" paragraph-id=\"992\" class=\" G\">\n    <span class=\"hadith\"> انظر إلى أوّل كوكب يطلع بالعشي و لا يحيد بصرك عنه و تناول التراب و ادلكه بها و أنت تقول: <span class=\"semicolon\">بسم الله و بالله رأيتني و لم أرك، شقّ عود بصرك، الله يخفي أثرك، ارفع ثواليلي معك</span><span><sup><a class=\"NewFn\" href=\"#footnote31\" title=\"(6)  رواه الطبرسي في مكارم الأخلاق: 411، للثؤلول، عن الرضا عليه السّلام. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p993\" paragraph-id=\"993\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote26\" footnote-id=\"26\">(1) <page number=\"10\" /> سورة طه 105:20-107. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote27\" footnote-id=\"27\">(2)  في النسخة: «خذ الشعير شعيرة» و ما أثبتناه من عيون الأخبار و مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote28\" footnote-id=\"28\">(3)  في عيون أخبار الرضا عليه السّلام و مكارم الأخلاق: «صيّرها». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote29\" footnote-id=\"29\">(4)  كلمة «قال» أثبتناها من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote30\" footnote-id=\"30\">(5)  رواه الطبرسي بتفاوت يسير في مكارم الأخلاق: 3/385، فقال: للثؤلول روي أنّ رجلا سأل الرضا عليه السّلام، و ابنا بسطام بتفاوت في طبّ الأئمّة عليهم السّلام: 109، في الثؤلول، سعدويه بن عبد الله قال: حدّثنا علي بن النعمان، عن أبي الحسن الرضا عليه السّلام، عن آبائه عليهم السّلام، و الصدوق في عيون أخبار الرضا عليه السّلام 193/50:2، حدّثنا محمّد بن الحسن بن أحمد بن الوليد رضي الله عنه، قال: حدّثنا عبد الله بن جعفر الحميري، عن أحمد بن محمّد السياري، عن علي بن نعمان، عن أبي الحسن علي بن موسى الرضا عليه السّلام، و الراوندي في الدعوات: 549/199، و عن علي بن النعمان، قال: قلت للرضا عليه السّلام:...، و الكفعمي في المصباح: 158، للثآليل، عن الرضا عليه السّلام: «خذ لكلّ ثؤلول...». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote31\" footnote-id=\"31\">(6)  رواه الطبرسي في مكارم الأخلاق: 411، للثؤلول، عن الرضا عليه السّلام. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "69766A44-B325-40E8-B94E-1A7BA797C32B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

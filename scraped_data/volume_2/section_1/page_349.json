@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 349,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170783,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1961\"><img src=\"BK126314G002S1P341\" alt=\"\" imgtype=\"Scan\"/><page number=\"342\"/><img src=\"BK126314G002S1P342\" alt=\"\" imgtype=\"Scan\"/><page number=\"343\"/><img src=\"BK126314G002S1P343\" alt=\"\" imgtype=\"Scan\"/><page number=\"344\"/><img src=\"BK126314G002S1P344\" alt=\"\" imgtype=\"Scan\"/><page number=\"345\"/><img src=\"BK126314G002S1P345\" alt=\"\" imgtype=\"Scan\"/><page number=\"346\"/><img src=\"BK126314G002S1P346\" alt=\"\" imgtype=\"Scan\"/><page number=\"347\"/><img src=\"BK126314G002S1P347\" alt=\"\" imgtype=\"Scan\"/><page number=\"348\"/><img src=\"BK126314G002S1P348\" alt=\"\" imgtype=\"Scan\"/><page number=\"349\"/><img src=\"BK126314G002S1P349\" alt=\"\" imgtype=\"Scan\"/><page number=\"350\"/><img src=\"BK126314G002S1P350\" alt=\"\" imgtype=\"Scan\"/><page number=\"351\"/><img src=\"BK126314G002S1P351\" alt=\"\" imgtype=\"Scan\"/><page number=\"352\"/><img src=\"BK126314G002S1P352\" alt=\"\" imgtype=\"Scan\"/><page number=\"353\"/><img src=\"BK126314G002S1P353\" alt=\"\" imgtype=\"Scan\"/><page number=\"354\"/><img src=\"BK126314G002S1P354\" alt=\"\" imgtype=\"Scan\"/><page number=\"355\"/><img src=\"BK126314G002S1P355\" alt=\"\" imgtype=\"Scan\"/><page number=\"356\"/><img src=\"BK126314G002S1P356\" alt=\"\" imgtype=\"Scan\"/><page number=\"357\"/><img src=\"BK126314G002S1P357\" alt=\"\" imgtype=\"Scan\"/><page number=\"358\"/><img src=\"BK126314G002S1P358\" alt=\"\" imgtype=\"Scan\"/><page number=\"359\"/><img src=\"BK126314G002S1P359\" alt=\"\" imgtype=\"Scan\"/><page number=\"360\"/><img src=\"BK126314G002S1P360\" alt=\"\" imgtype=\"Scan\"/><page number=\"361\"/><img src=\"BK126314G002S1P361\" alt=\"\" imgtype=\"Scan\"/><page number=\"362\"/><img src=\"BK126314G002S1P362\" alt=\"\" imgtype=\"Scan\"/><page number=\"363\"/><img src=\"BK126314G002S1P363\" alt=\"\" imgtype=\"Scan\"/><page number=\"364\"/><img src=\"BK126314G002S1P364\" alt=\"\" imgtype=\"Scan\"/><page number=\"365\"/><img src=\"BK126314G002S1P365\" alt=\"\" imgtype=\"Scan\"/><page number=\"366\"/><img src=\"BK126314G002S1P366\" alt=\"\" imgtype=\"Scan\"/><page number=\"367\"/><img src=\"BK126314G002S1P367\" alt=\"\" imgtype=\"Scan\"/><page number=\"368\"/><img src=\"BK126314G002S1P368\" alt=\"\" imgtype=\"Scan\"/><page number=\"369\"/><img src=\"BK126314G002S1P369\" alt=\"\" imgtype=\"Scan\"/><page number=\"370\"/><img src=\"BK126314G002S1P370\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"12\"/><page number=\"371\"/><heading level=\"3\"><format class=\"BeginIntroduction\" type=\"5\"/> فهرس المحتويات</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "349",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1961\" paragraph-id=\"1961\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo349\">349</span>\n    <img src=\"/file/book/page/EZkGvGt9JBQsA7QkUATTXLo7NGPBv0SjBNK-DKRDH-PR87SBNlUjrLmHmV03ocjM\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "6365A818-F4E5-42FA-8FEC-01F896AEED15",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

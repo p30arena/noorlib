@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 48,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166698,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2303\"><page number=\"48\"/>[63] </p>"
+        },
+        {
+          "paragraphId": 714166699,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2304\"><format class=\"hadith\" who=\"6\" Id=\"63\" RevayatIndex=\"63\"><format class=\"sanadHadith\">و قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«أعظمكم أجرا في العيادة أخفّكم جلوسا»<lfootnote noteId=\"455\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166700,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2305\"><heading level=\"2\">[باب] في موت الفجأة </heading></p>"
+        },
+        {
+          "paragraphId": 714166701,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2306\">[64] </p>"
+        },
+        {
+          "paragraphId": 714166702,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2307\"><format class=\"hadith\" who=\"6\" Id=\"64\" RevayatIndex=\"64\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن يعقوب بن يزيد، عن يحيى بن المبارك، عن بهلول بن مسلم، عن جعفر الصيرفي، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«من مات<lfootnote noteId=\"456\">2</lfootnote> في أقلّ من أربعة عشر يوما كان موته فجأة»<lfootnote noteId=\"457\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166703,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2308\">[65] </p>"
+        },
+        {
+          "paragraphId": 714166704,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2309\"><format class=\"hadith\" who=\"6\" Id=\"65\" RevayatIndex=\"65\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن السيّاري رفعه قال:</format> سئل <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام </format></format>عن موت الفجأة‌؟ فقال: «هو راحة للمؤمن و أسف على الكافر»<lfootnote noteId=\"458\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166705,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2310\"><page number=\"49\"/><format class=\"hadith\" who=\"\" Id=\"65\" RevayatIndex=\"\">(1)<format class=\"RevayatIndex\" index=\"65\"/> قال بهذا الهيثم بن أبي مسروق النهدي<lfootnote noteId=\"459\">1</lfootnote><format class=\"FD\">و زاد فيه</format>: «إنّ الله تعالى...<lfootnote noteId=\"460\">2</lfootnote> على كلّ حال». </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168008,
+          "text": "<footnote id=\"454\"><mnote>(3)</mnote> رواه الكليني في الكافي 3/117:3، باب المريض يؤذن به الناس، عن محمّد بن يحيى، <page number=\"48\"/>عن أحمد بن محمّد، عن محمّد بن خالد، عن القاسم بن محمّد، عن عبد الرحمن بن محمّد، عن سيف بن عميرة، قال: قال أبو عبد الله عليه السّلام: «فليسأله يدعو له فإنّ‌...»، و الطبرسي في مكارم الأخلاق: 19/361، في عيادة المريض، عنه عليه السّلام: «فليدع له و ليطلب منه الدعاء»، و انظر: الجعفريات: 226، باب الفضل في دعاء الملائكة، روضة الواعظين 388:2، ثواب الأعمال: 194، الأمالي للصدوق: 377، الخصال: 170، مكارم الأخلاق: 359، مشكاة الأنوار: 281، الفصل الثاني في فضل المرض و كتمانه. </footnote>"
+        },
+        {
+          "footnoteId": 714168009,
+          "text": "<footnote id=\"455\"><mnote>(1)</mnote> رواه الطبرسي في مكارم الأخلاق: 18/361، في عيادة المريض عنه عليه السّلام، و روي نحوه في قرب الإسناد: 39/13. </footnote>"
+        },
+        {
+          "footnoteId": 714168010,
+          "text": "<footnote id=\"456\"><mnote>(2)</mnote> في النسخة: «ماته» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168011,
+          "text": "<footnote id=\"457\"><mnote>(3)</mnote> رواه الكليني في الكافي 1/119:3، باب حدّ موت الفجأة، عن محمّد بن يحيى، عن موسى بن الحسن، عن أبي الحسن النهدي رفع الحديث قال: كان أبو جعفر عليه السّلام يقول:... و في الحديث الثاني عنه، عن يعقوب بن يزيد، عن يحيى بن المبارك، عن بهلول بن مسلم، عن حفص، عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168012,
+          "text": "<footnote id=\"458\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و روى الكليني نحوه في الكافي 5/112:3، باب علل <page number=\"49\"/>الموت و أنّ المؤمن يموت بكلّ ميتة، عن عدّة من أصحابنا، عن سهل بن زياد، عن أحمد بن محمّد بن أبي نصر و الحسن بن محبوب، عن أبي جميلة، عن جابر، عن أبي جعفر عليه السّلام قال: قال رسول الله صلّى الله عليه و آله:...، و الصدوق في من لا يحضره الفقيه 357/134:1، عن رسول الله صلّى الله عليه و آله، و أيضا في ج 363:4، و الطبرسي في مكارم الأخلاق 1/439، ضمن وصيّة النبي صلّى الله عليه و آله لأمير المؤمنين عليه السّلام المشهورة أنّه قال له: «يا علي، موت الفجأة راحة للمؤمن و حسرة للكافر»، و الراوندي في الدعوات 682/242، عن النبي صلّى الله عليه و آله: «موت الفجأة رحمة للمؤمنين و عذاب للكافرين». </footnote>"
+        }
+      ],
+      "pageValue": "48",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2303\" paragraph-id=\"2303\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo48\">48</span>[63] </p>\n  <p id=\"p2304\" paragraph-id=\"2304\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«أعظمكم أجرا في العيادة أخفّكم جلوسا»<span><sup><a class=\"NewFn\" href=\"#footnote455\" title=\"(1)  رواه الطبرسي في مكارم الأخلاق: 18/361، في عيادة المريض عنه عليه السّلام، و روي نحوه في قرب الإسناد: 39/13. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2305\" paragraph-id=\"2305\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في موت الفجأة </strong>\n  </p>\n  <p id=\"p2306\" paragraph-id=\"2306\" class=\" G\">[64] </p>\n  <p id=\"p2307\" paragraph-id=\"2307\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن يعقوب بن يزيد، عن يحيى بن المبارك، عن بهلول بن مسلم، عن جعفر الصيرفي، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«من مات<span><sup><a class=\"NewFn\" href=\"#footnote456\" title=\"(2)  في النسخة: «ماته» و ما أثبتناه من المصدر. \">2</a></sup></span> في أقلّ من أربعة عشر يوما كان موته فجأة»<span><sup><a class=\"NewFn\" href=\"#footnote457\" title=\"(3)  رواه الكليني في الكافي 1/119:3، باب حدّ موت الفجأة، عن محمّد بن يحيى، عن موسى بن الحسن، عن أبي الحسن النهدي رفع الحديث قال: كان أبو جعفر عليه السّلام يقول:... و في الحديث الثاني عنه، عن يعقوب بن يزيد، عن يحيى بن المبارك، عن بهلول بن مسلم، عن حفص، عن أبي عبد الله عليه السّلام. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2308\" paragraph-id=\"2308\" class=\" G\">[65] </p>\n  <p id=\"p2309\" paragraph-id=\"2309\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن السيّاري رفعه قال:</span> سئل <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام </span></span>عن موت الفجأة‌؟ فقال: «هو راحة للمؤمن و أسف على الكافر»<span><sup><a class=\"NewFn\" href=\"#footnote458\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى الكليني نحوه في الكافي 5/112:3، باب علل \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2310\" paragraph-id=\"2310\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote454\" footnote-id=\"454\"><page number=\"48\" />عن أحمد بن محمّد، عن محمّد بن خالد، عن القاسم بن محمّد، عن عبد الرحمن بن محمّد، عن سيف بن عميرة، قال: قال أبو عبد الله عليه السّلام: «فليسأله يدعو له فإنّ‌...»، و الطبرسي في مكارم الأخلاق: 19/361، في عيادة المريض، عنه عليه السّلام: «فليدع له و ليطلب منه الدعاء»، و انظر: الجعفريات: 226، باب الفضل في دعاء الملائكة، روضة الواعظين 388:2، ثواب الأعمال: 194، الأمالي للصدوق: 377، الخصال: 170، مكارم الأخلاق: 359، مشكاة الأنوار: 281، الفصل الثاني في فضل المرض و كتمانه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote455\" footnote-id=\"455\">(1)  رواه الطبرسي في مكارم الأخلاق: 18/361، في عيادة المريض عنه عليه السّلام، و روي نحوه في قرب الإسناد: 39/13. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote456\" footnote-id=\"456\">(2)  في النسخة: «ماته» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote457\" footnote-id=\"457\">(3)  رواه الكليني في الكافي 1/119:3، باب حدّ موت الفجأة، عن محمّد بن يحيى، عن موسى بن الحسن، عن أبي الحسن النهدي رفع الحديث قال: كان أبو جعفر عليه السّلام يقول:... و في الحديث الثاني عنه، عن يعقوب بن يزيد، عن يحيى بن المبارك، عن بهلول بن مسلم، عن حفص، عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote458\" footnote-id=\"458\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى الكليني نحوه في الكافي 5/112:3، باب علل </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "55A60AB1-0E50-4D14-B916-1CDAD7536A26",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

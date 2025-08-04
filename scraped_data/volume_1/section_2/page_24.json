@@ -1,0 +1,85 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 24,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166442,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2188\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\"><format class=\"sanadHadith\">عن محمّد بن أبي الصهبان<lfootnote noteId=\"355\">4</lfootnote>، عن أبي محمّد الأنصاري - قال: و كان خيّرا - قال: حدّثني أبو اليقظان عمّار الأسدي، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: لو أنّ مؤمنا أقسم على الله ألّا يميته ما أماته أبدا، و لكن إذا كان ذلك<lfootnote noteId=\"356\">5</lfootnote><page number=\"24\"/> و حضر أجله<lfootnote noteId=\"357\">1</lfootnote> بعث الله عزّ و جلّ ريحا يقال لها<lfootnote noteId=\"358\">2</lfootnote>: المسخية<lfootnote noteId=\"359\">3</lfootnote>، فتسخي نفسه عن الدنيا حتّى يختار ما عند الله تعالى»<lfootnote noteId=\"360\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166443,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2189\">[19] </p>"
+        },
+        {
+          "paragraphId": 714166444,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2190\"><format class=\"hadith\" who=\"8\" Id=\"19\" RevayatIndex=\"19\"><format class=\"sanadHadith\">محمّد بن أحمد بن يحيى، عن الحسن بن شعيب المدائني<lfootnote noteId=\"361\">5</lfootnote>، قال:</format> كنّا عند <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبي الحسن الرضا عليه السّلام</format></format> فقلت: إنّ بأهلي حملا فادع الله أن يرزقني غلاما، فدعا و قال: «سمّه عليّا؛ فإنّه أطول لعمره<lfootnote noteId=\"362\">6</lfootnote>». قال الحسن: فاستقبلني الكتاب بالبشارة،<format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"8\"/></format> أنّه ولد لي غلام<lfootnote noteId=\"363\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166445,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2191\"><page number=\"25\"/>[20] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168411,
+          "text": "<footnote id=\"357\"><page number=\"24\"/><mnote>(1)</mnote> في الكافي بزيادة: «أو إذا حضر أجله». قال المجلسي: الترديد من الراوي، و ليس في بعض النسخ كلمة «أو» فهو بيان لمّا تقدّم. مرآة العقول 284:13. </footnote>"
+        },
+        {
+          "footnoteId": 714168412,
+          "text": "<footnote id=\"358\"><mnote>(2)</mnote> كلمة: «لها» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168413,
+          "text": "<footnote id=\"359\"><mnote>(3)</mnote> المسخية: ريح يبعثها الله إلى المؤمن تسخي نفسه عن الدنيا حتّى يختار ما عند الله تعالى كأنّه من سخوت نفسي عن الشيء: تركته. مجمع البحرين 215:1 «سخا». </footnote>"
+        },
+        {
+          "footnoteId": 714168414,
+          "text": "<footnote id=\"360\"><mnote>(4)</mnote> رواه الكليني بتفاوت يسير في الكافي 1/127:3، باب أنّ المؤمن لا يكره على قبض روحه، عن أبي علي الأشعري، عن محمّد بن عبد الجبّار، عن أبي محمّد الأنصاري، و الصدوق في معاني الأخبار: 1/142، باب معنى الريح المنسية و المسخية، فقال: حدّثنا أحمد بن زياد بن جعفر الهمداني رحمه الله، قال: حدّثنا علي بن إبراهيم بن هاشم، عن أبيه، قال: حدّثني أبو محمّد الأنصاري، و الطوسي نحوه في الأمالي: 80/414 بإسناد آخر، عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168415,
+          "text": "<footnote id=\"361\"><mnote>(5)</mnote> عدّه الطوسي في رجاله: 13/354، من أصحاب أبي الحسن علي بن موسى الرضا عليهما السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168416,
+          "text": "<footnote id=\"362\"><mnote>(6)</mnote> في النسخة: «أطول العمر» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168417,
+          "text": "<footnote id=\"363\"><mnote>(7)</mnote> روى الكليني نحوه في الكافي 2/11:6، باب من كان له حمل فنوى أن يسمّيه محمّدا أو عليّا ولد له ذكر و الدعاء لذلك، عن محمّد بن يحيى، عن أحمد بن محمّد [بن عيسى]، عن علي بن الحكم، عن الحسين بن سعيد، قال: كنت أنا و ابن غيلان المدائني دخلنا على أبي الحسن الرضا عليه السّلام فقال له ابن غيلان: أصلحك الله... </footnote>"
+        }
+      ],
+      "pageValue": "24",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2188\" paragraph-id=\"2188\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo24\">24</span> و حضر أجله<span><sup><a class=\"NewFn\" href=\"#footnote357\" title=\"(1)  في الكافي بزيادة: «أو إذا حضر أجله». قال المجلسي: الترديد من الراوي، و ليس في بعض النسخ كلمة «أو» فهو بيان لمّا تقدّم. مرآة العقول 284:13. \">1</a></sup></span> بعث الله عزّ و جلّ ريحا يقال لها<span><sup><a class=\"NewFn\" href=\"#footnote358\" title=\"(2)  كلمة: «لها» أثبتناها من المصدر. \">2</a></sup></span>: المسخية<span><sup><a class=\"NewFn\" href=\"#footnote359\" title=\"(3)  المسخية: ريح يبعثها الله إلى المؤمن تسخي نفسه عن الدنيا حتّى يختار ما عند الله تعالى كأنّه من سخوت نفسي عن الشيء: تركته. مجمع البحرين 215:1 «سخا». \">3</a></sup></span>، فتسخي نفسه عن الدنيا حتّى يختار ما عند الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote360\" title=\"(4)  رواه الكليني بتفاوت يسير في الكافي 1/127:3، باب أنّ المؤمن لا يكره على قبض روحه، عن أبي علي الأشعري، عن محمّد بن عبد الجبّار، عن أبي محمّد الأنصاري، و الصدوق في معاني الأخبار: 1/142، باب معنى الريح المنسية و المسخية، فقال: حدّثنا أحمد بن زياد بن جعفر الهمداني رحمه الله، قال: حدّثنا علي بن إبراهيم بن هاشم، عن أبيه، قال: حدّثني أبو محمّد الأنصاري، و الطوسي نحوه في الأمالي: 80/414 بإسناد آخر، عن أبي عبد الله عليه السّلام. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2189\" paragraph-id=\"2189\" class=\" G\">[19] </p>\n  <p id=\"p2190\" paragraph-id=\"2190\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن أحمد بن يحيى، عن الحسن بن شعيب المدائني<span><sup><a class=\"NewFn\" href=\"#footnote361\" title=\"(5)  عدّه الطوسي في رجاله: 13/354، من أصحاب أبي الحسن علي بن موسى الرضا عليهما السّلام. \">5</a></sup></span>، قال:</span> كنّا عند <span class=\"Y\"><span class=\"maasoom\">أبي الحسن الرضا عليه السّلام</span></span> فقلت: إنّ بأهلي حملا فادع الله أن يرزقني غلاما، فدعا و قال: «سمّه عليّا؛ فإنّه أطول لعمره<span><sup><a class=\"NewFn\" href=\"#footnote362\" title=\"(6)  في النسخة: «أطول العمر» و ما أثبتناه من الكافي. \">6</a></sup></span>». قال الحسن: فاستقبلني الكتاب بالبشارة،<span class=\"BD\"><span class=\"maasoom\"></span></span> أنّه ولد لي غلام<span><sup><a class=\"NewFn\" href=\"#footnote363\" title=\"(7)  روى الكليني نحوه في الكافي 2/11:6، باب من كان له حمل فنوى أن يسمّيه محمّدا أو عليّا ولد له ذكر و الدعاء لذلك، عن محمّد بن يحيى، عن أحمد بن محمّد [بن عيسى]، عن علي بن الحكم، عن الحسين بن سعيد، قال: كنت أنا و ابن غيلان المدائني دخلنا على أبي الحسن الرضا عليه السّلام فقال له ابن غيلان: أصلحك الله... \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p2191\" paragraph-id=\"2191\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote357\" footnote-id=\"357\">(1) <page number=\"24\" /> في الكافي بزيادة: «أو إذا حضر أجله». قال المجلسي: الترديد من الراوي، و ليس في بعض النسخ كلمة «أو» فهو بيان لمّا تقدّم. مرآة العقول 284:13. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote358\" footnote-id=\"358\">(2)  كلمة: «لها» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote359\" footnote-id=\"359\">(3)  المسخية: ريح يبعثها الله إلى المؤمن تسخي نفسه عن الدنيا حتّى يختار ما عند الله تعالى كأنّه من سخوت نفسي عن الشيء: تركته. مجمع البحرين 215:1 «سخا». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote360\" footnote-id=\"360\">(4)  رواه الكليني بتفاوت يسير في الكافي 1/127:3، باب أنّ المؤمن لا يكره على قبض روحه، عن أبي علي الأشعري، عن محمّد بن عبد الجبّار، عن أبي محمّد الأنصاري، و الصدوق في معاني الأخبار: 1/142، باب معنى الريح المنسية و المسخية، فقال: حدّثنا أحمد بن زياد بن جعفر الهمداني رحمه الله، قال: حدّثنا علي بن إبراهيم بن هاشم، عن أبيه، قال: حدّثني أبو محمّد الأنصاري، و الطوسي نحوه في الأمالي: 80/414 بإسناد آخر، عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote361\" footnote-id=\"361\">(5)  عدّه الطوسي في رجاله: 13/354، من أصحاب أبي الحسن علي بن موسى الرضا عليهما السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote362\" footnote-id=\"362\">(6)  في النسخة: «أطول العمر» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote363\" footnote-id=\"363\">(7)  روى الكليني نحوه في الكافي 2/11:6، باب من كان له حمل فنوى أن يسمّيه محمّدا أو عليّا ولد له ذكر و الدعاء لذلك، عن محمّد بن يحيى، عن أحمد بن محمّد [بن عيسى]، عن علي بن الحكم، عن الحسين بن سعيد، قال: كنت أنا و ابن غيلان المدائني دخلنا على أبي الحسن الرضا عليه السّلام فقال له ابن غيلان: أصلحك الله... </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "AE73E8DD-C651-45D9-8BDA-5EF8FFFF69CC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

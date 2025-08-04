@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 208,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170583,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1838\"><page number=\"208\"/>[284] </p>"
+        },
+        {
+          "paragraphId": 714170584,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1839\"><format class=\"hadith\" who=\"1\" Id=\"281\" RevayatIndex=\"802\"><format class=\"sanadHadith\">و قال عليه السّلام<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\"/></format>: </format>«مر شيعتي أن لا يتختّموا بالحديد فإنّه رجس»<lfootnote noteId=\"849\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170585,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1840\">[285] </p>"
+        },
+        {
+          "paragraphId": 714170586,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1841\"><format class=\"hadith\" who=\"16\" Id=\"282\" RevayatIndex=\"803\"><format class=\"sanadHadith\">و قال عليه السّلام<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format>: </format>«من نقش على خاتمه: ما شاء الله لا قوّة إلّا بالله أستغفر الله، أثرى له ماله و ولده<lfootnote noteId=\"850\">2</lfootnote>، ثمّ تلى هذه الآية: - <format class=\"ayah\" surah=\"18\" ayah=\"39\" toAyah=\"\">وَ لَوْ لاٰ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مٰا شٰاءَ اَللّٰهُ لاٰ قُوَّةَ إِلاّٰ بِاللّٰهِ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"14\"/><format class=\"ayahAddress\" surah=\"18\" ayah=\"39\" toAyah=\"\"/></format><lfootnote noteId=\"851\">3</lfootnote>، ثمّ تلى هذه الآية: - <format class=\"ayah\" surah=\"71\" ayah=\"10\" toAyah=\"\">اِسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كٰانَ غَفّٰاراً<format class=\"ayahWord\" fromWord=\"2\" toWord=\"6\"/><format class=\"ayahAddress\" surah=\"71\" ayah=\"10\" toAyah=\"\"/></format><lfootnote noteId=\"852\">4</lfootnote>»<lfootnote noteId=\"853\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170587,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1842\"><page number=\"209\"/>[286] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171200,
+          "text": "<footnote id=\"848\"><mnote>(2)</mnote> رواه الطبرسي في مكارم الأخلاق: 14/87، في لبس أنواع الخاتم و كراهيته، بعد الحديثين السابقين، عن طبّ الأئمّة عليهم السّلام فقال: و قال عليه السّلام في وصيّته لأصحابه، و روي في كتاب آداب أمير المؤمنين عليه السّلام: 21/81، المشهور بحديث الأربعمائة، الذي رواه القاسم بن يحيى الراشدي هكذا: قال أمير المؤمنين عليه السّلام: «من نقش على خاتمه اسم الله فليحوّله عن اليد التي يستنجي بها في المتوضّأ»، و عنه في الخصال: 612، و تحف العقول: 102، و الكليني في الكافي 9/474:6، باب نقش الخواتيم، عن محمّد بن يحيى، عن أحمد بن محمّد، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن أبي بصير، عن أبي عبد الله عليه السّلام قال: قال أمير المؤمنين عليه السّلام.<br/>و روي من الأحاديث ما بمعناه و ما يتعلّق به، ثمّ بحث فقهاؤنا العظام حوله و حول ما <page number=\"208\"/>يعارضه و علاج التعارض و غيره. انظر: مسائل علي بن جعفر عليه السّلام: 381/188 - و عنه في قرب الإسناد: 1157/293 - قرب الإسناد 566/154، الكافي 8/56:3 و ج 8/474:6، الجعفريات: 186، عيون أخبار الرضا عليه السّلام 206/54:2، الأمالي للصدوق: 5/541، الخصال: 36/335، تهذيب الأحكام 21/82/31:1 و ح 22/83 و ح 23/84، الاستبصار 1/133/48:1، و 2/134، و 3/135، النوادر للراوندي: 55، مكارم الأخلاق: 92. </footnote>"
+        },
+        {
+          "footnoteId": 714171201,
+          "text": "<footnote id=\"849\"><mnote>(1)</mnote> رواه الطبرسي في مكارم الأخلاق: 12/87، في لبس أنواع الخاتم و كراهيته، ذيلا للحديث الذي مرّ من أنّه كان لأمير المؤمنين عليه السّلام أربع خواتيم...، فقال: «و نهى...» و لم يذكر قوله عليه السّلام: «فإنّه رجس». </footnote>"
+        },
+        {
+          "footnoteId": 714171202,
+          "text": "<footnote id=\"850\"><mnote>(2)</mnote> أثرى الرجل: كثرت أمواله. و الثّروة: كثرة العدد. مجمع البحرين 73:1 «ثرى». </footnote>"
+        },
+        {
+          "footnoteId": 714171203,
+          "text": "<footnote id=\"851\"><mnote>(3)</mnote> سورة الكهف 39:18. </footnote>"
+        },
+        {
+          "footnoteId": 714171204,
+          "text": "<footnote id=\"852\"><mnote>(4)</mnote> و الآيتان اللتان بعدها هما: <format class=\"ayah\" surah=\"71\" ayah=\"11\" toAyah=\"12\">يُرْسِلِ اَلسَّمٰاءَ عَلَيْكُمْ مِدْرٰاراً * <format class=\"AyahSeprator\"/>وَ يُمْدِدْكُمْ بِأَمْوٰالٍ وَ بَنِينَ وَ يَجْعَلْ لَكُمْ جَنّٰاتٍ وَ يَجْعَلْ لَكُمْ أَنْهٰاراً<format class=\"ayahWord\" fromWord=\"1\" toWord=\"17\"/><format class=\"ayahAddress\" surah=\"71\" ayah=\"11\" toAyah=\"12\"/></format>. [سورة نوح 10:71-12]. </footnote>"
+        },
+        {
+          "footnoteId": 714171205,
+          "text": "<footnote id=\"853\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و لكن روى الصدوق ما يؤيّده معنى في ثواب الأعمال: 1/180، باب ثواب من كتب على خاتمه «ما شاء الله لا قوة إلّا بالله أستغفر الله»، أبي رحمه الله، قال: حدّثني أحمد بن إدريس، قال: حدّثني محمّد بن أحمد، قال: حدّثني عمرو بن علي، عن عمّه محمّد بن عمر، يرفعه إلى أبي عبد الله عليه السّلام، قال: «من كتب على خاتمه: ما شاء الله لا قوّة إلّا بالله أستغفر الله أمن من الفقر المدقع»، و السبزواري مثله في<page number=\"209\"/>جامع الأخبار: 25/376، عن محمّد بن محمّد بن عمير. </footnote>"
+        }
+      ],
+      "pageValue": "208",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1838\" paragraph-id=\"1838\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo208\">208</span>[284] </p>\n  <p id=\"p1839\" paragraph-id=\"1839\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال عليه السّلام<span class=\"Y\"><span class=\"maasoom\"></span></span>: </span>«مر شيعتي أن لا يتختّموا بالحديد فإنّه رجس»<span><sup><a class=\"NewFn\" href=\"#footnote849\" title=\"(1)  رواه الطبرسي في مكارم الأخلاق: 12/87، في لبس أنواع الخاتم و كراهيته، ذيلا للحديث الذي مرّ من أنّه كان لأمير المؤمنين عليه السّلام أربع خواتيم...، فقال: «و نهى...» و لم يذكر قوله عليه السّلام: «فإنّه رجس». \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1840\" paragraph-id=\"1840\" class=\" G\">[285] </p>\n  <p id=\"p1841\" paragraph-id=\"1841\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال عليه السّلام<span class=\"Y\"><span class=\"maasoom\"></span></span>: </span>«من نقش على خاتمه: ما شاء الله لا قوّة إلّا بالله أستغفر الله، أثرى له ماله و ولده<span><sup><a class=\"NewFn\" href=\"#footnote850\" title=\"(2)  أثرى الرجل: كثرت أمواله. و الثّروة: كثرة العدد. مجمع البحرين 73:1 «ثرى». \">2</a></sup></span>، ثمّ تلى هذه الآية: - <span style=\"0\" class=\"ayah\" surah=\"18\" ayah=\"39\">وَ لَوْ لاٰ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مٰا شٰاءَ اَللّٰهُ لاٰ قُوَّةَ إِلاّٰ بِاللّٰهِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/18/39\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote851\" title=\"(3)  سورة الكهف 39:18. \">3</a></sup></span>، ثمّ تلى هذه الآية: - <span style=\"0\" class=\"ayah\" surah=\"71\" ayah=\"10\">اِسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كٰانَ غَفّٰاراً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/71/10\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote852\" title=\"(4)  و الآيتان اللتان بعدها هما: يُرْسِلِ اَلسَّمٰاءَ عَلَيْكُمْ مِدْرٰاراً * وَ يُمْدِدْكُمْ بِأَمْوٰالٍ وَ بَنِينَ وَ يَجْعَلْ لَكُمْ جَنّٰاتٍ وَ يَجْعَلْ لَكُمْ أَنْهٰاراً. [سورة نوح 10:71-12]. \">4</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote853\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، و لكن روى الصدوق ما يؤيّده معنى في ثواب الأعمال: 1/180، باب ثواب من كتب على خاتمه «ما شاء الله لا قوة إلّا بالله أستغفر الله»، أبي رحمه الله، قال: حدّثني أحمد بن إدريس، قال: حدّثني محمّد بن أحمد، قال: حدّثني عمرو بن علي، عن عمّه محمّد بن عمر، يرفعه إلى أبي عبد الله عليه السّلام، قال: «من كتب على خاتمه: ما شاء الله لا قوّة إلّا بالله أستغفر الله أمن من الفقر المدقع»، و السبزواري مثله في\">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1842\" paragraph-id=\"1842\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote848\" footnote-id=\"848\"><page number=\"208\" />يعارضه و علاج التعارض و غيره. انظر: مسائل علي بن جعفر عليه السّلام: 381/188 - و عنه في قرب الإسناد: 1157/293 - قرب الإسناد 566/154، الكافي 8/56:3 و ج 8/474:6، الجعفريات: 186، عيون أخبار الرضا عليه السّلام 206/54:2، الأمالي للصدوق: 5/541، الخصال: 36/335، تهذيب الأحكام 21/82/31:1 و ح 22/83 و ح 23/84، الاستبصار 1/133/48:1، و 2/134، و 3/135، النوادر للراوندي: 55، مكارم الأخلاق: 92. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote849\" footnote-id=\"849\">(1)  رواه الطبرسي في مكارم الأخلاق: 12/87، في لبس أنواع الخاتم و كراهيته، ذيلا للحديث الذي مرّ من أنّه كان لأمير المؤمنين عليه السّلام أربع خواتيم...، فقال: «و نهى...» و لم يذكر قوله عليه السّلام: «فإنّه رجس». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote850\" footnote-id=\"850\">(2)  أثرى الرجل: كثرت أمواله. و الثّروة: كثرة العدد. مجمع البحرين 73:1 «ثرى». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote851\" footnote-id=\"851\">(3)  سورة الكهف 39:18. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote852\" footnote-id=\"852\">(4)  و الآيتان اللتان بعدها هما: <format class=\"ayah\" surah=\"71\" ayah=\"11\" toAyah=\"12\">يُرْسِلِ اَلسَّمٰاءَ عَلَيْكُمْ مِدْرٰاراً * <format class=\"AyahSeprator\" />وَ يُمْدِدْكُمْ بِأَمْوٰالٍ وَ بَنِينَ وَ يَجْعَلْ لَكُمْ جَنّٰاتٍ وَ يَجْعَلْ لَكُمْ أَنْهٰاراً<format class=\"ayahWord\" fromWord=\"1\" toWord=\"17\" /><format class=\"ayahAddress\" surah=\"71\" ayah=\"11\" toAyah=\"12\" /></format>. [سورة نوح 10:71-12]. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote853\" footnote-id=\"853\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، و لكن روى الصدوق ما يؤيّده معنى في ثواب الأعمال: 1/180، باب ثواب من كتب على خاتمه «ما شاء الله لا قوة إلّا بالله أستغفر الله»، أبي رحمه الله، قال: حدّثني أحمد بن إدريس، قال: حدّثني محمّد بن أحمد، قال: حدّثني عمرو بن علي، عن عمّه محمّد بن عمر، يرفعه إلى أبي عبد الله عليه السّلام، قال: «من كتب على خاتمه: ما شاء الله لا قوّة إلّا بالله أستغفر الله أمن من الفقر المدقع»، و السبزواري مثله في</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5B2BC0A7-8248-40BE-8D20-BF8B08C5B982",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

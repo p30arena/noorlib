@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 107,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170151,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1406\"><page number=\"107\"/>[144] </p>"
+        },
+        {
+          "paragraphId": 714170152,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1407\"><format class=\"hadith\" who=\"6\" Id=\"142\" RevayatIndex=\"663\"><format class=\"sanadHadith\">و عنه، عن عبد الرحمن بن الحجّاج، عن بعض رجاله، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«لو يعلم الناس ما في الحشيش لاستغنوا عن الدرياق»<lfootnote noteId=\"416\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170153,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1408\"><heading level=\"2\">[باب] في الباه و ما يزيد في الجماع </heading></p>"
+        },
+        {
+          "paragraphId": 714170154,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1409\">[145] </p>"
+        },
+        {
+          "paragraphId": 714170155,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1410\"><format class=\"hadith\" who=\"7\" Id=\"143\" RevayatIndex=\"664\"><format class=\"sanadHadith\">روى محمّد بن عيسى، عن عمران بن أبي حنظلة الجمّال، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبو الحسن عليه السّلام</format></format><lfootnote noteId=\"417\">2</lfootnote>: </format>«من أكل البيض<lfootnote noteId=\"418\">3</lfootnote> و البصل و الزيت زاد في جماعه، و من أكل اللحم بالبيض كثر ولده<lfootnote noteId=\"419\">4</lfootnote>»<lfootnote noteId=\"420\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170156,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1411\">[146] </p>"
+        },
+        {
+          "paragraphId": 714170157,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1412\"><format class=\"hadith\" who=\"7\" Id=\"144\" RevayatIndex=\"665\"><format class=\"sanadHadith\">أخبرنا ابن همّام، قال حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، <page number=\"108\"/> عن ابن أبي أيّوب<lfootnote noteId=\"421\">1</lfootnote>، عن علي بن أسباط، عن خلف بن سلمة<lfootnote noteId=\"422\">2</lfootnote>، قال:</format> قال أبي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">لأبي الحسن عليه السّلام</format></format><lfootnote noteId=\"423\">3</lfootnote>: أيّ شيء عندك - جعلت فداك - في الجماع‌؟</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170772,
+          "text": "<footnote id=\"415\"><mnote>(5)</mnote> قال ابن طاوس: و قد ينفع من لسع الهوامّ استعمال الأشياء التي تولّد العرق و تخرج الفضول من البدن، و يستعمل أيضا هذا الدواء، فإنّه كثير المنفعة في لسع الحيّات و العقارب و جميع الهوامّ‌.<br/>أخلاطه: يؤخذ من السكبينج، و أصل السوس الأسمانجوني الأزرق، و الزنجبيل، من <page number=\"107\"/>كلّ واحد وزن أربعة دراهم، و من الزراوند وزن خمسة دراهم، و من السذاب و الغاريقون من كلّ واحد ثلاثة دراهم، و من دقيق الكرسنة وزن درهمين، يدقّ ذلك أجمع و ينخل، و يتخذ منه أقراص وزن كلّ قرص أربعة دوانيق، و يشرب في وقت الحاجة بشراب أو ببعض الأشربة المتّخذة من الفواكه أو بماء حار، نافع إن شاء الله تعالى. و في نسخة اخرى: و قد ينفع من لسع الهوامّ فصد العرق لا سيّما إذا كان الملسوع شابّا ممتلئ البدن. الأمان من أخطار الأسفار و الأزمان: 194. </footnote>"
+        },
+        {
+          "footnoteId": 714170773,
+          "text": "<footnote id=\"416\"><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714170774,
+          "text": "<footnote id=\"417\"><mnote>(2)</mnote> في النسخة: «قال الحسن عليه السّلام» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714170775,
+          "text": "<footnote id=\"418\"><mnote>(3)</mnote> في النسخة: «أكله بالبيض» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714170776,
+          "text": "<footnote id=\"419\"><mnote>(4)</mnote> في مكارم الأخلاق: «كبر عظم ولده». </footnote>"
+        },
+        {
+          "footnoteId": 714171127,
+          "text": "<footnote id=\"420\"><mnote>(5)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/195، في أكل البصل مع البيض و غيره، قال أبو الحسن عليه السّلام:...، و البرقي نحوه في المحاسن 4/481:2-5، باب البيض، و الكليني في الكافي 2/324:6، باب بيض الدجاج. و سيأتي في الأحاديث 173-178 في ما يزيد في الولد و النسل. فانظرها.</footnote>"
+        }
+      ],
+      "pageValue": "107",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1406\" paragraph-id=\"1406\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo107\">107</span>[144] </p>\n  <p id=\"p1407\" paragraph-id=\"1407\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن عبد الرحمن بن الحجّاج، عن بعض رجاله، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«لو يعلم الناس ما في الحشيش لاستغنوا عن الدرياق»<span><sup><a class=\"NewFn\" href=\"#footnote416\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1408\" paragraph-id=\"1408\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الباه و ما يزيد في الجماع </strong>\n  </p>\n  <p id=\"p1409\" paragraph-id=\"1409\" class=\" G\">[145] </p>\n  <p id=\"p1410\" paragraph-id=\"1410\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن عيسى، عن عمران بن أبي حنظلة الجمّال، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو الحسن عليه السّلام</span></span><span><sup><a class=\"NewFn\" href=\"#footnote417\" title=\"(2)  في النسخة: «قال الحسن عليه السّلام» و ما أثبتناه من المصدر. \">2</a></sup></span>: </span>«من أكل البيض<span><sup><a class=\"NewFn\" href=\"#footnote418\" title=\"(3)  في النسخة: «أكله بالبيض» و ما أثبتناه من المصدر. \">3</a></sup></span> و البصل و الزيت زاد في جماعه، و من أكل اللحم بالبيض كثر ولده<span><sup><a class=\"NewFn\" href=\"#footnote419\" title=\"(4)  في مكارم الأخلاق: «كبر عظم ولده». \">4</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote420\" title=\"(5)  رواه الطبرسي في مكارم الأخلاق: 1/195، في أكل البصل مع البيض و غيره، قال أبو الحسن عليه السّلام:...، و البرقي نحوه في المحاسن 4/481:2-5، باب البيض، و الكليني في الكافي 2/324:6، باب بيض الدجاج. و سيأتي في الأحاديث 173-178 في ما يزيد في الولد و النسل. فانظرها.\">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1411\" paragraph-id=\"1411\" class=\" G\">[146] </p>\n  <p id=\"p1412\" paragraph-id=\"1412\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أخبرنا ابن همّام، قال حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote415\" footnote-id=\"415\"><page number=\"107\" />كلّ واحد وزن أربعة دراهم، و من الزراوند وزن خمسة دراهم، و من السذاب و الغاريقون من كلّ واحد ثلاثة دراهم، و من دقيق الكرسنة وزن درهمين، يدقّ ذلك أجمع و ينخل، و يتخذ منه أقراص وزن كلّ قرص أربعة دوانيق، و يشرب في وقت الحاجة بشراب أو ببعض الأشربة المتّخذة من الفواكه أو بماء حار، نافع إن شاء الله تعالى. و في نسخة اخرى: و قد ينفع من لسع الهوامّ فصد العرق لا سيّما إذا كان الملسوع شابّا ممتلئ البدن. الأمان من أخطار الأسفار و الأزمان: 194. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote416\" footnote-id=\"416\">(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote417\" footnote-id=\"417\">(2)  في النسخة: «قال الحسن عليه السّلام» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote418\" footnote-id=\"418\">(3)  في النسخة: «أكله بالبيض» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote419\" footnote-id=\"419\">(4)  في مكارم الأخلاق: «كبر عظم ولده». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote420\" footnote-id=\"420\">(5)  رواه الطبرسي في مكارم الأخلاق: 1/195، في أكل البصل مع البيض و غيره، قال أبو الحسن عليه السّلام:...، و البرقي نحوه في المحاسن 4/481:2-5، باب البيض، و الكليني في الكافي 2/324:6، باب بيض الدجاج. و سيأتي في الأحاديث 173-178 في ما يزيد في الولد و النسل. فانظرها.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "79B1AD80-060B-40C8-8286-E22B5CBA090D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

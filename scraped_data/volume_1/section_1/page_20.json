@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 20,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166087,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1833\"><page number=\"20\"/> 31 - كتاب العافية الوافية في آداب الأطعمة و الأشربة و منافعها السنية، لأحمد بن عبد الرضا البصري، (1090 ه‍) و هو مطبوع.</p>"
+        },
+        {
+          "paragraphId": 714166088,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1834\">32 - الطبّ الأحمدي، لأحمد بن صالح بن حاج علي بن عبد الحسين بن شيبة البحراني الجهرمي (1124 ه‍)<lfootnote noteId=\"40\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166089,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1835\">33-35 - كتاب الأربعين الطبّية و كتاب حافظ الأبدان و شرح طبّ الإمام الصادق عليه السّلام، للمولى محمّد شريف بن محمّد صادق الخاتون‌آبادي، من أعلام القرن الثاني عشر<lfootnote noteId=\"41\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166090,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1836\">36 - طبّ الأئمة عليهم السّلام، للميرزا قاسم بن الميرزا غلام علي الطبيب<lfootnote noteId=\"42\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166091,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1837\">37 - علاج الأسقام و دفاع الآلام بعون الله الملك العلّام، للمولى محمّد علي بن محمّد رضا التوني الخراساني<lfootnote noteId=\"43\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166092,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1838\">38 - وسيلة الشفاء، لمحمّد صالح بن محمّد باقر الرضوي من معاصري المجلسي<lfootnote noteId=\"44\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166093,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1839\">39 - الأطعمة و الأشربة، للسيّد شبّر بن محمّد بن ثنوان الموسوي المشعشعي الحويزي<lfootnote noteId=\"45\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166094,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1840\">40 - مفتاح الشفاء، لمحمّد كاظم بن محمّد غياث الدين بن محمّد هاشم بن <page number=\"21\"/> محمّد طاهر الطبيب الطهراني<lfootnote noteId=\"46\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714167995,
+          "text": "<footnote id=\"40\"><page number=\"20\"/><mnote>(1)</mnote> مرآة الكتب: 271، و انظر: الذريعة 140:15. </footnote>"
+        },
+        {
+          "footnoteId": 714167996,
+          "text": "<footnote id=\"41\"><mnote>(2)</mnote> الذريعة 2158/418:1 و ج 1299/232:6. </footnote>"
+        },
+        {
+          "footnoteId": 714167997,
+          "text": "<footnote id=\"42\"><mnote>(3)</mnote> الذريعة 934/139:15. </footnote>"
+        },
+        {
+          "footnoteId": 714167998,
+          "text": "<footnote id=\"43\"><mnote>(4)</mnote> الذريعة 1973/312:15. </footnote>"
+        },
+        {
+          "footnoteId": 714168098,
+          "text": "<footnote id=\"44\"><mnote>(5)</mnote> الذريعة 429/79:25. </footnote>"
+        },
+        {
+          "footnoteId": 714168099,
+          "text": "<footnote id=\"45\"><mnote>(6)</mnote> الذريعة 852/218:2.</footnote>"
+        }
+      ],
+      "pageValue": "20",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1833\" paragraph-id=\"1833\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo20\">20</span> 31 - كتاب العافية الوافية في آداب الأطعمة و الأشربة و منافعها السنية، لأحمد بن عبد الرضا البصري، (1090 ه‍) و هو مطبوع.</p>\n  <p id=\"p1834\" paragraph-id=\"1834\" class=\" G\">32 - الطبّ الأحمدي، لأحمد بن صالح بن حاج علي بن عبد الحسين بن شيبة البحراني الجهرمي (1124 ه‍)<span><sup><a class=\"NewFn\" href=\"#footnote40\" title=\"(1)  مرآة الكتب: 271، و انظر: الذريعة 140:15. \">1</a></sup></span>.</p>\n  <p id=\"p1835\" paragraph-id=\"1835\" class=\" G\">33-35 - كتاب الأربعين الطبّية و كتاب حافظ الأبدان و شرح طبّ الإمام الصادق عليه السّلام، للمولى محمّد شريف بن محمّد صادق الخاتون‌آبادي، من أعلام القرن الثاني عشر<span><sup><a class=\"NewFn\" href=\"#footnote41\" title=\"(2)  الذريعة 2158/418:1 و ج 1299/232:6. \">2</a></sup></span>.</p>\n  <p id=\"p1836\" paragraph-id=\"1836\" class=\" G\">36 - طبّ الأئمة عليهم السّلام، للميرزا قاسم بن الميرزا غلام علي الطبيب<span><sup><a class=\"NewFn\" href=\"#footnote42\" title=\"(3)  الذريعة 934/139:15. \">3</a></sup></span>.</p>\n  <p id=\"p1837\" paragraph-id=\"1837\" class=\" G\">37 - علاج الأسقام و دفاع الآلام بعون الله الملك العلّام، للمولى محمّد علي بن محمّد رضا التوني الخراساني<span><sup><a class=\"NewFn\" href=\"#footnote43\" title=\"(4)  الذريعة 1973/312:15. \">4</a></sup></span>.</p>\n  <p id=\"p1838\" paragraph-id=\"1838\" class=\" G\">38 - وسيلة الشفاء، لمحمّد صالح بن محمّد باقر الرضوي من معاصري المجلسي<span><sup><a class=\"NewFn\" href=\"#footnote44\" title=\"(5)  الذريعة 429/79:25. \">5</a></sup></span>.</p>\n  <p id=\"p1839\" paragraph-id=\"1839\" class=\" G\">39 - الأطعمة و الأشربة، للسيّد شبّر بن محمّد بن ثنوان الموسوي المشعشعي الحويزي<span><sup><a class=\"NewFn\" href=\"#footnote45\" title=\"(6)  الذريعة 852/218:2.\">6</a></sup></span>.</p>\n  <p id=\"p1840\" paragraph-id=\"1840\" class=\" G\">40 - مفتاح الشفاء، لمحمّد كاظم بن محمّد غياث الدين بن محمّد هاشم بن </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote40\" footnote-id=\"40\">(1) <page number=\"20\" /> مرآة الكتب: 271، و انظر: الذريعة 140:15. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote41\" footnote-id=\"41\">(2)  الذريعة 2158/418:1 و ج 1299/232:6. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote42\" footnote-id=\"42\">(3)  الذريعة 934/139:15. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote43\" footnote-id=\"43\">(4)  الذريعة 1973/312:15. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote44\" footnote-id=\"44\">(5)  الذريعة 429/79:25. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote45\" footnote-id=\"45\">(6)  الذريعة 852/218:2.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "71CF3191-B083-4F88-ADB2-2CAE879EB408",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

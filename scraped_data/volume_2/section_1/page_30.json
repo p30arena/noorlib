@@ -1,0 +1,85 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 30,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169828,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1083\"><page number=\"30\"/><heading level=\"2\">[باب] ما تقول إذا رأيت الدم </heading></p>"
+        },
+        {
+          "paragraphId": 714169829,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1084\">[43] </p>"
+        },
+        {
+          "paragraphId": 714169830,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1085\"><format class=\"hadith\" who=\"6\" Id=\"43\" RevayatIndex=\"564\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان، عن خلف بن حمّاد، عن رجل، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال لرجل من أصحابه: </format>«إذا أردت الحجامة و خرج الدم من محاجمك فقل قبل أن تفرغ و الدم<lfootnote noteId=\"106\">1</lfootnote> يسيل: بسم الله الرّحمن الرّحيم أعوذ بالله الكريم في حجامتي هذه من العين في الدّم<lfootnote noteId=\"107\">2</lfootnote> و من كلّ سوء».</format></p>"
+        },
+        {
+          "paragraphId": 714169831,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1086\"><format class=\"hadith\" who=\"6\" Id=\"43\" RevayatIndex=\"564\">ثمّ قال: «و لو علمت<lfootnote noteId=\"108\">3</lfootnote> يا فلان، أنّك إذا قلت هذا فقد جمعت الخير<lfootnote noteId=\"109\">4</lfootnote>، إنّ الله تبارك و تعالى يقول في كتابه: <format class=\"ayah\" surah=\"7\" ayah=\"188\" toAyah=\"\">وَ لَوْ كُنْتُ أَعْلَمُ اَلْغَيْبَ لاَسْتَكْثَرْتُ مِنَ اَلْخَيْرِ وَ مٰا مَسَّنِيَ اَلسُّوءُ‌<format class=\"ayahWord\" fromWord=\"13\" toWord=\"24\"/><format class=\"ayahAddress\" surah=\"7\" ayah=\"188\" toAyah=\"\"/></format><lfootnote noteId=\"110\">5</lfootnote> يعني الفقر<lfootnote noteId=\"111\">6</lfootnote>. و قال في موضع آخر: <format class=\"ayah\" surah=\"12\" ayah=\"24\" toAyah=\"\">وَ لَقَدْ هَمَّتْ بِهِ وَ هَمَّ بِهٰا لَوْ لاٰ أَنْ رَأىٰ بُرْهٰانَ رَبِّهِ كَذٰلِكَ لِنَصْرِفَ عَنْهُ اَلسُّوءَ وَ اَلْفَحْشٰاءَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"19\"/><format class=\"ayahAddress\" surah=\"12\" ayah=\"24\" toAyah=\"\"/></format><lfootnote noteId=\"112\">7</lfootnote><page number=\"31\"/> يعني<lfootnote noteId=\"113\">1</lfootnote> قبل أن يدخل في الزنا، و قال الله تعالى <format class=\"E\" Number=\"32\">لموسى عليه السّلام</format><lfootnote noteId=\"114\">2</lfootnote>: <format class=\"ayah\" surah=\"27\" ayah=\"12\" toAyah=\"\">أَدْخِلْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضٰاءَ مِنْ غَيْرِ سُوءٍ‌<format class=\"ayahWord\" fromWord=\"2\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"27\" ayah=\"12\" toAyah=\"\"/></format><lfootnote noteId=\"115\">3</lfootnote> يعني برص»<lfootnote noteId=\"116\">4</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170890,
+          "text": "<footnote id=\"106\"><page number=\"30\"/><mnote>(1)</mnote> في النسخة «الدم» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714170891,
+          "text": "<footnote id=\"107\"><mnote>(2)</mnote> قال المجلسي: «من العين في الدم»، أي: إصابة العين في خروج الدم أو العين بمعنى العيب. بحار الأنوار 112:59. </footnote>"
+        },
+        {
+          "footnoteId": 714170892,
+          "text": "<footnote id=\"108\"><mnote>(3)</mnote> في معاني الأخبار: «ما علمت». قال المجلسي: «و ما علمت» استفهام تقرير، أي: اعلم أنّ قولك: «من كلّ سوء» يشمل الاستعاذة من جميع الآفات الدينية و الدنيوية، من الأمراض البدنية و الأحوال الدينية، ثمّ استشهد عليه السّلام بالآيات التي استعمل السوء فيها بجميع تلك المعاني. بحار الأنوار 112:59. </footnote>"
+        },
+        {
+          "footnoteId": 714170893,
+          "text": "<footnote id=\"109\"><mnote>(4)</mnote> كلمة: «الخير» أثبتناها من مكارم الأخلاق، و في معاني الأخبار: «فقد جمعت الأشياء كلّها». </footnote>"
+        },
+        {
+          "footnoteId": 714170894,
+          "text": "<footnote id=\"110\"><mnote>(5)</mnote> سورة الأعراف 188:7. </footnote>"
+        },
+        {
+          "footnoteId": 714170895,
+          "text": "<footnote id=\"111\"><mnote>(6)</mnote> قوله: «يعني الفقر» أثبتناه من معاني الأخبار. </footnote>"
+        },
+        {
+          "footnoteId": 714170896,
+          "text": "<footnote id=\"112\"><mnote>(7)</mnote> سورة يوسف 24:12.</footnote>"
+        }
+      ],
+      "pageValue": "30",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1083\" paragraph-id=\"1083\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo30\">30</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] ما تقول إذا رأيت الدم </strong>\n  </p>\n  <p id=\"p1084\" paragraph-id=\"1084\" class=\" G\">[43] </p>\n  <p id=\"p1085\" paragraph-id=\"1085\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان، عن خلف بن حمّاد، عن رجل، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال لرجل من أصحابه: </span>«إذا أردت الحجامة و خرج الدم من محاجمك فقل قبل أن تفرغ و الدم<span><sup><a class=\"NewFn\" href=\"#footnote106\" title=\"(1)  في النسخة «الدم» و ما أثبتناه من المصدر. \">1</a></sup></span> يسيل: بسم الله الرّحمن الرّحيم أعوذ بالله الكريم في حجامتي هذه من العين في الدّم<span><sup><a class=\"NewFn\" href=\"#footnote107\" title=\"(2)  قال المجلسي: «من العين في الدم»، أي: إصابة العين في خروج الدم أو العين بمعنى العيب. بحار الأنوار 112:59. \">2</a></sup></span> و من كلّ سوء».</span>\n  </p>\n  <p id=\"p1086\" paragraph-id=\"1086\" class=\" G\">\n    <span class=\"hadith\">ثمّ قال: «و لو علمت<span><sup><a class=\"NewFn\" href=\"#footnote108\" title=\"(3)  في معاني الأخبار: «ما علمت». قال المجلسي: «و ما علمت» استفهام تقرير، أي: اعلم أنّ قولك: «من كلّ سوء» يشمل الاستعاذة من جميع الآفات الدينية و الدنيوية، من الأمراض البدنية و الأحوال الدينية، ثمّ استشهد عليه السّلام بالآيات التي استعمل السوء فيها بجميع تلك المعاني. بحار الأنوار 112:59. \">3</a></sup></span> يا فلان، أنّك إذا قلت هذا فقد جمعت الخير<span><sup><a class=\"NewFn\" href=\"#footnote109\" title=\"(4)  كلمة: «الخير» أثبتناها من مكارم الأخلاق، و في معاني الأخبار: «فقد جمعت الأشياء كلّها». \">4</a></sup></span>، إنّ الله تبارك و تعالى يقول في كتابه: <span style=\"0\" class=\"ayah\" surah=\"7\" ayah=\"188\">وَ لَوْ كُنْتُ أَعْلَمُ اَلْغَيْبَ لاَسْتَكْثَرْتُ مِنَ اَلْخَيْرِ وَ مٰا مَسَّنِيَ اَلسُّوءُ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/7/188\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote110\" title=\"(5)  سورة الأعراف 188:7. \">5</a></sup></span> يعني الفقر<span><sup><a class=\"NewFn\" href=\"#footnote111\" title=\"(6)  قوله: «يعني الفقر» أثبتناه من معاني الأخبار. \">6</a></sup></span>. و قال في موضع آخر: <span style=\"0\" class=\"ayah\" surah=\"12\" ayah=\"24\">وَ لَقَدْ هَمَّتْ بِهِ وَ هَمَّ بِهٰا لَوْ لاٰ أَنْ رَأىٰ بُرْهٰانَ رَبِّهِ كَذٰلِكَ لِنَصْرِفَ عَنْهُ اَلسُّوءَ وَ اَلْفَحْشٰاءَ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/12/24\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote112\" title=\"(7)  سورة يوسف 24:12.\">7</a></sup></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote106\" footnote-id=\"106\">(1) <page number=\"30\" /> في النسخة «الدم» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote107\" footnote-id=\"107\">(2)  قال المجلسي: «من العين في الدم»، أي: إصابة العين في خروج الدم أو العين بمعنى العيب. بحار الأنوار 112:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote108\" footnote-id=\"108\">(3)  في معاني الأخبار: «ما علمت». قال المجلسي: «و ما علمت» استفهام تقرير، أي: اعلم أنّ قولك: «من كلّ سوء» يشمل الاستعاذة من جميع الآفات الدينية و الدنيوية، من الأمراض البدنية و الأحوال الدينية، ثمّ استشهد عليه السّلام بالآيات التي استعمل السوء فيها بجميع تلك المعاني. بحار الأنوار 112:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote109\" footnote-id=\"109\">(4)  كلمة: «الخير» أثبتناها من مكارم الأخلاق، و في معاني الأخبار: «فقد جمعت الأشياء كلّها». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote110\" footnote-id=\"110\">(5)  سورة الأعراف 188:7. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote111\" footnote-id=\"111\">(6)  قوله: «يعني الفقر» أثبتناه من معاني الأخبار. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote112\" footnote-id=\"112\">(7)  سورة يوسف 24:12.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "27655834-268D-4C36-956A-C58FAEC8F74F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

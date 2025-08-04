@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 296,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167816,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3562\"><page number=\"296\"/><heading level=\"2\">[باب] استرخاء الذكر </heading></p>"
+        },
+        {
+          "paragraphId": 714167817,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3563\">[485] </p>"
+        },
+        {
+          "paragraphId": 714167818,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3564\"><format class=\"hadith\" who=\"8\" Id=\"476\" RevayatIndex=\"476\"><format class=\"sanadHadith\">روى محمّد بن الحسن بن مهران،</format> قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">للرضا عليه السّلام</format></format>: إنّ ابني دخل بابنة أخي فليس افترعها<lfootnote noteId=\"1632\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167819,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3565\"><format class=\"hadith\" who=\"8\" Id=\"476\" RevayatIndex=\"476\">قال: فتبسّم ثمّ قال: «يا بن مهران، تقدّم إلى ابنك فليكثر أكل النبق الرطب على الريق و ليأكل لحم الكباب رطبا بمائه و لا يدع النار تعمل فيه»، ففعل ما أمره فوصل إلى حاجته<lfootnote noteId=\"1633\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167820,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3566\">[486] </p>"
+        },
+        {
+          "paragraphId": 714167821,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3567\"><format class=\"hadith\" who=\"6\" Id=\"477\" RevayatIndex=\"477\"><format class=\"sanadHadith\">روى موسى بن جعفر البغدادي، عن محمّد بن الحسن بن شمون، قال: كتب إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> بعض أصحابنا، يسأله عن قلّة الماء؟</format></format></p>"
+        },
+        {
+          "paragraphId": 714167822,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3568\"><format class=\"hadith\" who=\"6\" Id=\"477\" RevayatIndex=\"477\"><format class=\"sanadHadith\">فقال: </format>«يأخذ رطلا من السمكة البيضاء المنقّطة بسواد - و هي الملكة - فيغلى بزيت مغسول<lfootnote noteId=\"1634\">3</lfootnote>، و ينكب عليه ستّ بيضات، و لا يطرح عليه ملح، و من الغد <page number=\"297\"/> رطلا، و ينكب عليه تسع بيضات، و يوم الثالث رطلا، و ينكب عليه ثمان بيضات، تمام ثلاثة و عشرين بيضة في ثلاثة أيّام تجعله في هذه الأيّام طعامك، فإنّه جيّد مجرّب»<lfootnote noteId=\"1635\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169586,
+          "text": "<footnote id=\"1631\"><mnote>(7)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/394، دعاء للحصاة و الفالج، عن الصادق عليه السّلام قال: «تقول حين تصلّي صلاة الليل و أنت ساجد: اللهم إنّي أدعوك»، و الراوندي في الدعوات: 488/173، فقال: دعاء العليل: عن الصادق عليه السّلام: «اللهم إنّي أدعوك»، و ابن طاوس في مهج الدعوات: 324 - و عنه الكفعمي في كتابيه البلد الأمين: 146 و المصباح: 148 - فقال: و من ذلك دعاء العافية رويناه بإسنادنا إلى سعد بن عبد الله، <page number=\"296\"/>بإسناده إلى أبي عبد الله عليه السّلام قال: كنت جالسا عند أبي...، و اختصر الكفعمي صدره في المصباح فقال: و في مهج الدعوات عن الصادق عليه السّلام: «قل بعد صلاة الليل إذا كانت بك علّة و أنت ساجد: اللهمّ إنّي أدعوك». </footnote>"
+        },
+        {
+          "footnoteId": 714169587,
+          "text": "<footnote id=\"1632\"><mnote>(1)</mnote> في النسخة: «افتراعها» و الافتراع - بالفاء -: إزالة البكارة، في لسان العرب 250:8:<br/>افترع البكر: اقتضّها، و الفرعة دمها، و قيل له: افتراع لإنّه أوّل جماعها، و هذا أول صيد فرعه أي: أراق دمه «فرع». </footnote>"
+        },
+        {
+          "footnoteId": 714169588,
+          "text": "<footnote id=\"1633\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169589,
+          "text": "<footnote id=\"1634\"><mnote>(3)</mnote> الزيت المغسول: هو الدهن المعتصر من الزيتون، فإن أخذ أوّل ما خضّب بالسواد و دق ناعما و ركّب عليه الماء الحار و مرس حتى يخرج فوق الماء فهو المغسول، و يسمى زيت إنفاق. تذكرة أولي الألباب 183:1.<br/>و قال الهروي: الزيت المغسول هو الذي يضرب في الماء العذب و يؤخذ منه. بحر الجواهر: 200.</footnote>"
+        }
+      ],
+      "pageValue": "296",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3562\" paragraph-id=\"3562\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo296\">296</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] استرخاء الذكر </strong>\n  </p>\n  <p id=\"p3563\" paragraph-id=\"3563\" class=\" G\">[485] </p>\n  <p id=\"p3564\" paragraph-id=\"3564\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن الحسن بن مهران،</span> قال <span class=\"Y\"><span class=\"maasoom\">للرضا عليه السّلام</span></span>: إنّ ابني دخل بابنة أخي فليس افترعها<span><sup><a class=\"NewFn\" href=\"#footnote1632\" title=\"(1)  في النسخة: «افتراعها» و الافتراع - بالفاء -: إزالة البكارة، في لسان العرب 250:8:افترع البكر: اقتضّها، و الفرعة دمها، و قيل له: افتراع لإنّه أوّل جماعها، و هذا أول صيد فرعه أي: أراق دمه «فرع». \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3565\" paragraph-id=\"3565\" class=\" G\">\n    <span class=\"hadith\">قال: فتبسّم ثمّ قال: «يا بن مهران، تقدّم إلى ابنك فليكثر أكل النبق الرطب على الريق و ليأكل لحم الكباب رطبا بمائه و لا يدع النار تعمل فيه»، ففعل ما أمره فوصل إلى حاجته<span><sup><a class=\"NewFn\" href=\"#footnote1633\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3566\" paragraph-id=\"3566\" class=\" G\">[486] </p>\n  <p id=\"p3567\" paragraph-id=\"3567\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى موسى بن جعفر البغدادي، عن محمّد بن الحسن بن شمون، قال: كتب إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> بعض أصحابنا، يسأله عن قلّة الماء؟</span>\n    </span>\n  </p>\n  <p id=\"p3568\" paragraph-id=\"3568\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فقال: </span>«يأخذ رطلا من السمكة البيضاء المنقّطة بسواد - و هي الملكة - فيغلى بزيت مغسول<span><sup><a class=\"NewFn\" href=\"#footnote1634\" title=\"(3)  الزيت المغسول: هو الدهن المعتصر من الزيتون، فإن أخذ أوّل ما خضّب بالسواد و دق ناعما و ركّب عليه الماء الحار و مرس حتى يخرج فوق الماء فهو المغسول، و يسمى زيت إنفاق. تذكرة أولي الألباب 183:1.و قال الهروي: الزيت المغسول هو الذي يضرب في الماء العذب و يؤخذ منه. بحر الجواهر: 200.\">3</a></sup></span>، و ينكب عليه ستّ بيضات، و لا يطرح عليه ملح، و من الغد </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1631\" footnote-id=\"1631\"><page number=\"296\" />بإسناده إلى أبي عبد الله عليه السّلام قال: كنت جالسا عند أبي...، و اختصر الكفعمي صدره في المصباح فقال: و في مهج الدعوات عن الصادق عليه السّلام: «قل بعد صلاة الليل إذا كانت بك علّة و أنت ساجد: اللهمّ إنّي أدعوك». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1632\" footnote-id=\"1632\">(1)  في النسخة: «افتراعها» و الافتراع - بالفاء -: إزالة البكارة، في لسان العرب 250:8:<br />افترع البكر: اقتضّها، و الفرعة دمها، و قيل له: افتراع لإنّه أوّل جماعها، و هذا أول صيد فرعه أي: أراق دمه «فرع». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1633\" footnote-id=\"1633\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1634\" footnote-id=\"1634\">(3)  الزيت المغسول: هو الدهن المعتصر من الزيتون، فإن أخذ أوّل ما خضّب بالسواد و دق ناعما و ركّب عليه الماء الحار و مرس حتى يخرج فوق الماء فهو المغسول، و يسمى زيت إنفاق. تذكرة أولي الألباب 183:1.<br />و قال الهروي: الزيت المغسول هو الذي يضرب في الماء العذب و يؤخذ منه. بحر الجواهر: 200.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "36DB07BB-91BB-4305-874F-DAE109FFFBD2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,83 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 40,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166183,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1929\">و بدأ سند عدّة من الروايات بمن لا يروي ابن همّام عنه إلّا مع واسطة<lfootnote noteId=\"88\">2</lfootnote>كأحمد بن محمّد الأشعري<lfootnote noteId=\"89\">3</lfootnote>، و محمّد بن عيسى<lfootnote noteId=\"90\">4</lfootnote>، و العبّاس بن معروف<lfootnote noteId=\"91\">5</lfootnote>، و محمّد بن عبد الجبّار (أبي الصهبان) القمّي<lfootnote noteId=\"92\">6</lfootnote>، و أحمد بن محمّد بن خالد البرقي المتوفّى سنة 274 أو 280 ه‍<lfootnote noteId=\"93\">7</lfootnote>، و محمّد بن أحمد بن يحيى بن عمران الأشعري القمّي<lfootnote noteId=\"94\">8</lfootnote>، <page number=\"40\"/> و أحمد بن إسحاق<lfootnote noteId=\"95\">1</lfootnote>، و علي بن محمّد القاشاني<lfootnote noteId=\"96\">2</lfootnote>، و أبي سعيد سهل بن زياد الآدمي<lfootnote noteId=\"97\">3</lfootnote>، و محمّد بن حسّان الرازي<lfootnote noteId=\"98\">4</lfootnote>، و محمّد بن الحسين بن الخطّاب<lfootnote noteId=\"99\">5</lfootnote>، و أبي عبد الله محمّد بن عبد الله الجاموراني<lfootnote noteId=\"100\">6</lfootnote>، و إبراهيم بن هاشم<lfootnote noteId=\"101\">7</lfootnote>، و أحمد بن هلال الكرخي العبرتائي<lfootnote noteId=\"102\">8</lfootnote>، و سلمة بن الخطّاب<lfootnote noteId=\"103\">9</lfootnote>، و محمّد بن يحيى الخزّاز<lfootnote noteId=\"104\">10</lfootnote>، و محمّد بن جمهور العمّي<lfootnote noteId=\"105\">11</lfootnote>، و علي بن إسماعيل بن السندي بن <page number=\"41\"/> عيسى الأشعري<lfootnote noteId=\"106\">1</lfootnote>، و يعقوب بن يزيد الأنباري<lfootnote noteId=\"107\">2</lfootnote>، و علي بن أسباط بن سالم<lfootnote noteId=\"108\">3</lfootnote>، و أبو إسحاق إبراهيم بن محمّد الثقفي المتوفّى سنة 283 ه‍ صاحب الغارات<lfootnote noteId=\"109\">4</lfootnote>، و الحسين بن سعيد الأهوازي<lfootnote noteId=\"110\">5</lfootnote>، و الحسن بن الحسين اللؤلؤي<lfootnote noteId=\"111\">6</lfootnote>، و علي بن الحسن بن فضّال<lfootnote noteId=\"112\">7</lfootnote> و علي بن إبراهيم<lfootnote noteId=\"113\">8</lfootnote>، و محمّد بن يحيى<lfootnote noteId=\"114\">9</lfootnote>، و الحسن بن سهل<lfootnote noteId=\"115\">10</lfootnote>، و كامل بن محمّد<lfootnote noteId=\"116\">11</lfootnote>، و موسى بن جعفر البغدادي<lfootnote noteId=\"117\">12</lfootnote>، و علي بن الحكم<lfootnote noteId=\"118\">13</lfootnote>، و الحسن بن موسى الخشّاب<lfootnote noteId=\"119\">14</lfootnote>، و محمّد بن علي الهمداني<lfootnote noteId=\"120\">15</lfootnote>، و القاسم بن يحيى بن <page number=\"42\"/> الحسن بن راشد<lfootnote noteId=\"121\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168149,
+          "text": "<footnote id=\"95\"><page number=\"40\"/><mnote>(1)</mnote> انظر: ح 25 و 488 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714168150,
+          "text": "<footnote id=\"96\"><mnote>(2)</mnote> انظر: ح 26 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714168151,
+          "text": "<footnote id=\"97\"><mnote>(3)</mnote> انظر: ح 40 و 153 و 441 و 511 و 513 من الجزء الأوّل، و ح 76، 62، 61 من الجزء الثاني. و هو من معاصري الأشعري و الحميري، و لكن لم نجد روايتهما عنه إلّا رواية الحميري عنه في إثبات الوصية: 201 و يروي ابن همّام عنه بالواسطة. انظر: الغيبة للنعماني: 37/186، فلاح السائل: 96. </footnote>"
+        },
+        {
+          "footnoteId": 714168152,
+          "text": "<footnote id=\"98\"><mnote>(4)</mnote> فإنّه روى في عدّة من الأحاديث من الكتاب عن أبي محمّد الرازي، عن النوفلي عن السكوني، عن أبي عبد الله عليه السّلام، انظر: ح 321، 298، 296، 39 من الجزء الأوّل، و ح 31 و 32 من الجزء الثاني. </footnote>"
+        },
+        {
+          "footnoteId": 714168153,
+          "text": "<footnote id=\"99\"><mnote>(5)</mnote> انظر: ح 52 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714168154,
+          "text": "<footnote id=\"100\"><mnote>(6)</mnote> انظر: ح 59 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714168155,
+          "text": "<footnote id=\"101\"><mnote>(7)</mnote> انظر: ح 110 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714168156,
+          "text": "<footnote id=\"102\"><mnote>(8)</mnote> من مشايخ ابن هوذة الباهلي و الحميري و غيرهما من مشايخ ابن همّام. انظر: ح 130 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714168157,
+          "text": "<footnote id=\"103\"><mnote>(9)</mnote> من مشايخ محمّد بن يحيى العطّار و الصفّار. انظر: ح 147 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714168158,
+          "text": "<footnote id=\"104\"><mnote>(10)</mnote> من مشايخ الأشعري و البرقي. انظر: ح 149 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714168159,
+          "text": "<footnote id=\"105\"><mnote>(11)</mnote> من مشايخ السيّاري و البرقي، و يروي ابن همّام عنه بواسطة ابنه الحسن بن محمّد بن جمهور. انظر: ح 175 من الجزء الأوّل.</footnote>"
+        }
+      ],
+      "pageValue": "40",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1929\" paragraph-id=\"1929\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo40\">40</span> و أحمد بن إسحاق<span><sup><a class=\"NewFn\" href=\"#footnote95\" title=\"(1)  انظر: ح 25 و 488 من الجزء الأوّل. \">1</a></sup></span>، و علي بن محمّد القاشاني<span><sup><a class=\"NewFn\" href=\"#footnote96\" title=\"(2)  انظر: ح 26 من الجزء الأوّل. \">2</a></sup></span>، و أبي سعيد سهل بن زياد الآدمي<span><sup><a class=\"NewFn\" href=\"#footnote97\" title=\"(3)  انظر: ح 40 و 153 و 441 و 511 و 513 من الجزء الأوّل، و ح 76، 62، 61 من الجزء الثاني. و هو من معاصري الأشعري و الحميري، و لكن لم نجد روايتهما عنه إلّا رواية الحميري عنه في إثبات الوصية: 201 و يروي ابن همّام عنه بالواسطة. انظر: الغيبة للنعماني: 37/186، فلاح السائل: 96. \">3</a></sup></span>، و محمّد بن حسّان الرازي<span><sup><a class=\"NewFn\" href=\"#footnote98\" title=\"(4)  فإنّه روى في عدّة من الأحاديث من الكتاب عن أبي محمّد الرازي، عن النوفلي عن السكوني، عن أبي عبد الله عليه السّلام، انظر: ح 321، 298، 296، 39 من الجزء الأوّل، و ح 31 و 32 من الجزء الثاني. \">4</a></sup></span>، و محمّد بن الحسين بن الخطّاب<span><sup><a class=\"NewFn\" href=\"#footnote99\" title=\"(5)  انظر: ح 52 من الجزء الأوّل. \">5</a></sup></span>، و أبي عبد الله محمّد بن عبد الله الجاموراني<span><sup><a class=\"NewFn\" href=\"#footnote100\" title=\"(6)  انظر: ح 59 من الجزء الأوّل. \">6</a></sup></span>، و إبراهيم بن هاشم<span><sup><a class=\"NewFn\" href=\"#footnote101\" title=\"(7)  انظر: ح 110 من الجزء الأوّل. \">7</a></sup></span>، و أحمد بن هلال الكرخي العبرتائي<span><sup><a class=\"NewFn\" href=\"#footnote102\" title=\"(8)  من مشايخ ابن هوذة الباهلي و الحميري و غيرهما من مشايخ ابن همّام. انظر: ح 130 من الجزء الأوّل. \">8</a></sup></span>، و سلمة بن الخطّاب<span><sup><a class=\"NewFn\" href=\"#footnote103\" title=\"(9)  من مشايخ محمّد بن يحيى العطّار و الصفّار. انظر: ح 147 من الجزء الأوّل. \">9</a></sup></span>، و محمّد بن يحيى الخزّاز<span><sup><a class=\"NewFn\" href=\"#footnote104\" title=\"(10)  من مشايخ الأشعري و البرقي. انظر: ح 149 من الجزء الأوّل. \">10</a></sup></span>، و محمّد بن جمهور العمّي<span><sup><a class=\"NewFn\" href=\"#footnote105\" title=\"(11)  من مشايخ السيّاري و البرقي، و يروي ابن همّام عنه بواسطة ابنه الحسن بن محمّد بن جمهور. انظر: ح 175 من الجزء الأوّل.\">11</a></sup></span>، و علي بن إسماعيل بن السندي بن </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote95\" footnote-id=\"95\">(1) <page number=\"40\" /> انظر: ح 25 و 488 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote96\" footnote-id=\"96\">(2)  انظر: ح 26 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote97\" footnote-id=\"97\">(3)  انظر: ح 40 و 153 و 441 و 511 و 513 من الجزء الأوّل، و ح 76، 62، 61 من الجزء الثاني. و هو من معاصري الأشعري و الحميري، و لكن لم نجد روايتهما عنه إلّا رواية الحميري عنه في إثبات الوصية: 201 و يروي ابن همّام عنه بالواسطة. انظر: الغيبة للنعماني: 37/186، فلاح السائل: 96. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote98\" footnote-id=\"98\">(4)  فإنّه روى في عدّة من الأحاديث من الكتاب عن أبي محمّد الرازي، عن النوفلي عن السكوني، عن أبي عبد الله عليه السّلام، انظر: ح 321، 298، 296، 39 من الجزء الأوّل، و ح 31 و 32 من الجزء الثاني. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote99\" footnote-id=\"99\">(5)  انظر: ح 52 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote100\" footnote-id=\"100\">(6)  انظر: ح 59 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote101\" footnote-id=\"101\">(7)  انظر: ح 110 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote102\" footnote-id=\"102\">(8)  من مشايخ ابن هوذة الباهلي و الحميري و غيرهما من مشايخ ابن همّام. انظر: ح 130 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote103\" footnote-id=\"103\">(9)  من مشايخ محمّد بن يحيى العطّار و الصفّار. انظر: ح 147 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote104\" footnote-id=\"104\">(10)  من مشايخ الأشعري و البرقي. انظر: ح 149 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote105\" footnote-id=\"105\">(11)  من مشايخ السيّاري و البرقي، و يروي ابن همّام عنه بواسطة ابنه الحسن بن محمّد بن جمهور. انظر: ح 175 من الجزء الأوّل.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "8C66D272-1A6B-4623-98E9-ABFF7296D375",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

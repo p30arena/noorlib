@@ -1,0 +1,131 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 200,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170544,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1799\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\"><page number=\"200\"/> قلت: يا <format class=\"maasoom\" maasoomNo=\"6\">بن رسول الله</format>، زدني.</format></p>"
+        },
+        {
+          "paragraphId": 714170545,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1800\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قال: «يا سليمان، هو أمان من قطع اليد».</format></p>"
+        },
+        {
+          "paragraphId": 714170546,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1801\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قلت: يا <format class=\"maasoom\" maasoomNo=\"6\">بن رسول الله</format>، زدني.</format></p>"
+        },
+        {
+          "paragraphId": 714170547,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1802\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قال: «يا سليمان، إنّ الله عزّ و جلّ يحبّ أن ترفع إليه<lfootnote noteId=\"821\">1</lfootnote> في الدعاء يد فيها فصّ عقيق».</format></p>"
+        },
+        {
+          "paragraphId": 714170548,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1803\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قلت: يا <format class=\"maasoom\" maasoomNo=\"6\">بن رسول الله</format>، زدني.</format></p>"
+        },
+        {
+          "paragraphId": 714170549,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1804\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قال: «العجب من يد فيها فصّ عقيق كيف تخلو من الدراهم و الدنانير».</format></p>"
+        },
+        {
+          "paragraphId": 714170550,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1805\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قلت: يا <format class=\"maasoom\" maasoomNo=\"6\">بن رسول الله</format>، زدني.</format></p>"
+        },
+        {
+          "paragraphId": 714170551,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1806\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قال: «إنّه حرز من كلّ بلاء و أمان من كلّ خوف».</format></p>"
+        },
+        {
+          "paragraphId": 714170552,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1807\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قلت: يا <format class=\"maasoom\" maasoomNo=\"6\">بن رسول الله</format>، زدني.</format></p>"
+        },
+        {
+          "paragraphId": 714170553,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1808\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قال: «هو أمان من الفقر».</format></p>"
+        },
+        {
+          "paragraphId": 714170554,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1809\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قلت: يا <format class=\"maasoom\" maasoomNo=\"6\">بن رسول الله</format>، أخذت هذا<lfootnote noteId=\"822\">2</lfootnote> عن جدّك، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"3\">الحسين بن علي بن أبي طالب</format></format>، عن<lfootnote noteId=\"823\">3</lfootnote><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين عليهم السّلام</format></format>؟</format></p>"
+        },
+        {
+          "paragraphId": 714170555,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1810\"><format class=\"hadith\" who=\"1,6\" Id=\"273\" RevayatIndex=\"794\">قال: «نعم يا سليمان<lfootnote noteId=\"824\">4</lfootnote>»<lfootnote noteId=\"825\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170556,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1811\"><page number=\"201\"/><heading level=\"2\">[باب] في الفصوص الغرويّة و غيرها </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171618,
+          "text": "<footnote id=\"821\"><page number=\"200\"/><mnote>(1)</mnote> كلمة: «إليه» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171619,
+          "text": "<footnote id=\"822\"><mnote>(2)</mnote> في المصدر: «أحدّث بها» بدل «أخذت هذا». </footnote>"
+        },
+        {
+          "footnoteId": 714171620,
+          "text": "<footnote id=\"823\"><mnote>(3)</mnote> كلمة: «عن» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171621,
+          "text": "<footnote id=\"824\"><mnote>(4)</mnote> في المصدر: «قلت: يا بن رسول الله، أحدّث بها عن جدّك الحسين بن علي، عن أمير المؤمنين عليه السّلام‌؟ قال: نعم». </footnote>"
+        },
+        {
+          "footnoteId": 714171622,
+          "text": "<footnote id=\"825\"><mnote>(5)</mnote> رواه الطبرسي في مكارم الأخلاق: 6/88، في فصوص الخواتيم، فقال: عن سليمان الأعمش. </footnote>"
+        }
+      ],
+      "pageValue": "200",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1799\" paragraph-id=\"1799\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo200\">200</span> قلت: يا <span class=\"maasoom\">بن رسول الله</span>، زدني.</span>\n  </p>\n  <p id=\"p1800\" paragraph-id=\"1800\" class=\" G\">\n    <span class=\"hadith\">قال: «يا سليمان، هو أمان من قطع اليد».</span>\n  </p>\n  <p id=\"p1801\" paragraph-id=\"1801\" class=\" G\">\n    <span class=\"hadith\">قلت: يا <span class=\"maasoom\">بن رسول الله</span>، زدني.</span>\n  </p>\n  <p id=\"p1802\" paragraph-id=\"1802\" class=\" G\">\n    <span class=\"hadith\">قال: «يا سليمان، إنّ الله عزّ و جلّ يحبّ أن ترفع إليه<span><sup><a class=\"NewFn\" href=\"#footnote821\" title=\"(1)  كلمة: «إليه» أثبتناها من المصدر. \">1</a></sup></span> في الدعاء يد فيها فصّ عقيق».</span>\n  </p>\n  <p id=\"p1803\" paragraph-id=\"1803\" class=\" G\">\n    <span class=\"hadith\">قلت: يا <span class=\"maasoom\">بن رسول الله</span>، زدني.</span>\n  </p>\n  <p id=\"p1804\" paragraph-id=\"1804\" class=\" G\">\n    <span class=\"hadith\">قال: «العجب من يد فيها فصّ عقيق كيف تخلو من الدراهم و الدنانير».</span>\n  </p>\n  <p id=\"p1805\" paragraph-id=\"1805\" class=\" G\">\n    <span class=\"hadith\">قلت: يا <span class=\"maasoom\">بن رسول الله</span>، زدني.</span>\n  </p>\n  <p id=\"p1806\" paragraph-id=\"1806\" class=\" G\">\n    <span class=\"hadith\">قال: «إنّه حرز من كلّ بلاء و أمان من كلّ خوف».</span>\n  </p>\n  <p id=\"p1807\" paragraph-id=\"1807\" class=\" G\">\n    <span class=\"hadith\">قلت: يا <span class=\"maasoom\">بن رسول الله</span>، زدني.</span>\n  </p>\n  <p id=\"p1808\" paragraph-id=\"1808\" class=\" G\">\n    <span class=\"hadith\">قال: «هو أمان من الفقر».</span>\n  </p>\n  <p id=\"p1809\" paragraph-id=\"1809\" class=\" G\">\n    <span class=\"hadith\">قلت: يا <span class=\"maasoom\">بن رسول الله</span>، أخذت هذا<span><sup><a class=\"NewFn\" href=\"#footnote822\" title=\"(2)  في المصدر: «أحدّث بها» بدل «أخذت هذا». \">2</a></sup></span> عن جدّك، عن <span class=\"G\"><span class=\"maasoom\">الحسين بن علي بن أبي طالب</span></span>، عن<span><sup><a class=\"NewFn\" href=\"#footnote823\" title=\"(3)  كلمة: «عن» أثبتناها من المصدر. \">3</a></sup></span><span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين عليهم السّلام</span></span>؟</span>\n  </p>\n  <p id=\"p1810\" paragraph-id=\"1810\" class=\" G\">\n    <span class=\"hadith\">قال: «نعم يا سليمان<span><sup><a class=\"NewFn\" href=\"#footnote824\" title=\"(4)  في المصدر: «قلت: يا بن رسول الله، أحدّث بها عن جدّك الحسين بن علي، عن أمير المؤمنين عليه السّلام‌؟ قال: نعم». \">4</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote825\" title=\"(5)  رواه الطبرسي في مكارم الأخلاق: 6/88، في فصوص الخواتيم، فقال: عن سليمان الأعمش. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1811\" paragraph-id=\"1811\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote821\" footnote-id=\"821\">(1) <page number=\"200\" /> كلمة: «إليه» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote822\" footnote-id=\"822\">(2)  في المصدر: «أحدّث بها» بدل «أخذت هذا». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote823\" footnote-id=\"823\">(3)  كلمة: «عن» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote824\" footnote-id=\"824\">(4)  في المصدر: «قلت: يا بن رسول الله، أحدّث بها عن جدّك الحسين بن علي، عن أمير المؤمنين عليه السّلام‌؟ قال: نعم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote825\" footnote-id=\"825\">(5)  رواه الطبرسي في مكارم الأخلاق: 6/88، في فصوص الخواتيم، فقال: عن سليمان الأعمش. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "96826AFA-E909-4E9D-8E43-97595E7771C8",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

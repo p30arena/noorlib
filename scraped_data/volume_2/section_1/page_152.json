@@ -1,0 +1,83 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 152,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170318,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1573\"><format class=\"hadith\" who=\"14,6\" Id=\"203\" RevayatIndex=\"724\"><format class=\"sanadHadith\">عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«عقّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> عن <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"2\">الحسن </format></format>و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"3\">الحسين بن علي عليهما السّلام</format></format> بيده فقال: بسم الله، عقيقة عن <format class=\"maasoom\" maasoomNo=\"2\">الحسن بن علي</format>، عظمها <page number=\"152\"/> بعظمه، و لحمها بلحمه<lfootnote noteId=\"612\">1</lfootnote>، و دمها بدمه، و شعرها بشعره، اللّهمّ اجعلها وقاء <format class=\"maasoom\" maasoomNo=\"14\">لمحمّد</format> و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\">آل محمّد</format></format>»<lfootnote noteId=\"613\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170319,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1574\">[207] </p>"
+        },
+        {
+          "paragraphId": 714170320,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1575\"><format class=\"hadith\" who=\"16\" Id=\"204\" RevayatIndex=\"725\"><format class=\"sanadHadith\">و روي<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format>: </format>العقيقة شاة يذبح و يعطى الورك - يعني الرجل تامّا - للقابلة التي تقبل الولد و تكون بين المرأة<lfootnote noteId=\"614\">3</lfootnote>، و تصدّق منه على المساكين، و تطعم إخوانه<lfootnote noteId=\"615\">4</lfootnote>، و لا تكسر عظما من عظامها، و لا تأكل من لحمها، و يكون ذلك يوم السابع<lfootnote noteId=\"616\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170321,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1576\">[208] </p>"
+        },
+        {
+          "paragraphId": 714170322,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1577\"><format class=\"hadith\" who=\"14,5\" Id=\"205\" RevayatIndex=\"726\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format> قال: </format>«ختن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله </format></format><format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"2\">الحسن </format></format><page number=\"153\"/> و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"3\">الحسين عليهما السّلام</format></format> لسبعة أيّام، و حلق رؤوسهما و تصدّق بزنة الشعر فضّة، و عقّ عنهما<lfootnote noteId=\"617\">1</lfootnote> و أعطى القابلة طائفا»<lfootnote noteId=\"618\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171409,
+          "text": "<footnote id=\"612\"><page number=\"152\"/><mnote>(1)</mnote> في الوافي 1336:23: «عظمها بعظمه» أي: افتديته به أو أفتد به. </footnote>"
+        },
+        {
+          "footnoteId": 714171410,
+          "text": "<footnote id=\"613\"><mnote>(2)</mnote> رواه الكليني في الكافي 1/32:6، باب أنّ رسول الله صلّى الله عليه و آله و فاطمة عليها السّلام عقّا عن الحسن و الحسين عليهما السّلام، عن علي بن إبراهيم، عن أبيه، عن إسماعيل بن مرار، عن يونس، عن بعض أصحابه، عن أبي عبد الله عليه السّلام، و روى نحوه في ج 1/30:6، باب القول على العقيقة، عن علي بن إبراهيم، عن أبيه، و علي بن محمّد، عن صالح بن أبي حمّاد جميعا، عن ابن أبي عمير و صفوان، عن إبراهيم الكرخي، عن أبي عبد الله عليه السّلام قال: «تقول على العقيقة إذا عققت: بسم الله و بالله». </footnote>"
+        },
+        {
+          "footnoteId": 714171411,
+          "text": "<footnote id=\"614\"><mnote>(3)</mnote> لا ريب في استحباب إعطاء القابلة جزءا من العقيقة إذا لم تكن من العيال، و إنّما الكلام في تعيين هذا الجزء، و الروايات لا تخلو من اختلاف بين الثلث و الربع، و الرجل و الورك، و أكثر هذه الأخبار على الأخيرين. انظر: الكافي 6/28:6-7 و 10/29 و 2/32 و 5/33، من لا يحضره الفقيه 486:3، تهذيب الأحكام 1770/442:7 و 1775/444. </footnote>"
+        },
+        {
+          "footnoteId": 714171412,
+          "text": "<footnote id=\"615\"><mnote>(4)</mnote> من المستحبّات طبخها و إطعامها لأهل الولاية. انظر: فقه الإمام الرضا عليه السّلام: 239، من لا يحضره الفقيه 4718/486:3 و 4719. </footnote>"
+        },
+        {
+          "footnoteId": 714171413,
+          "text": "<footnote id=\"616\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. جمع هذا الحديث عدّة من أحكام العقيقة، و مرّت هذه الأحكام في الأحاديث الماضية و سيأتي في الأحاديث الآتية.</footnote>"
+        }
+      ],
+      "pageValue": "152",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1573\" paragraph-id=\"1573\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo152\">152</span> بعظمه، و لحمها بلحمه<span><sup><a class=\"NewFn\" href=\"#footnote612\" title=\"(1)  في الوافي 1336:23: «عظمها بعظمه» أي: افتديته به أو أفتد به. \">1</a></sup></span>، و دمها بدمه، و شعرها بشعره، اللّهمّ اجعلها وقاء <span class=\"maasoom\">لمحمّد</span> و <span class=\"BD\"><span class=\"maasoom\">آل محمّد</span></span>»<span><sup><a class=\"NewFn\" href=\"#footnote613\" title=\"(2)  رواه الكليني في الكافي 1/32:6، باب أنّ رسول الله صلّى الله عليه و آله و فاطمة عليها السّلام عقّا عن الحسن و الحسين عليهما السّلام، عن علي بن إبراهيم، عن أبيه، عن إسماعيل بن مرار، عن يونس، عن بعض أصحابه، عن أبي عبد الله عليه السّلام، و روى نحوه في ج 1/30:6، باب القول على العقيقة، عن علي بن إبراهيم، عن أبيه، و علي بن محمّد، عن صالح بن أبي حمّاد جميعا، عن ابن أبي عمير و صفوان، عن إبراهيم الكرخي، عن أبي عبد الله عليه السّلام قال: «تقول على العقيقة إذا عققت: بسم الله و بالله». \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1574\" paragraph-id=\"1574\" class=\" G\">[207] </p>\n  <p id=\"p1575\" paragraph-id=\"1575\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي<span class=\"Y\"><span class=\"maasoom\"></span></span>: </span>العقيقة شاة يذبح و يعطى الورك - يعني الرجل تامّا - للقابلة التي تقبل الولد و تكون بين المرأة<span><sup><a class=\"NewFn\" href=\"#footnote614\" title=\"(3)  لا ريب في استحباب إعطاء القابلة جزءا من العقيقة إذا لم تكن من العيال، و إنّما الكلام في تعيين هذا الجزء، و الروايات لا تخلو من اختلاف بين الثلث و الربع، و الرجل و الورك، و أكثر هذه الأخبار على الأخيرين. انظر: الكافي 6/28:6-7 و 10/29 و 2/32 و 5/33، من لا يحضره الفقيه 486:3، تهذيب الأحكام 1770/442:7 و 1775/444. \">3</a></sup></span>، و تصدّق منه على المساكين، و تطعم إخوانه<span><sup><a class=\"NewFn\" href=\"#footnote615\" title=\"(4)  من المستحبّات طبخها و إطعامها لأهل الولاية. انظر: فقه الإمام الرضا عليه السّلام: 239، من لا يحضره الفقيه 4718/486:3 و 4719. \">4</a></sup></span>، و لا تكسر عظما من عظامها، و لا تأكل من لحمها، و يكون ذلك يوم السابع<span><sup><a class=\"NewFn\" href=\"#footnote616\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. جمع هذا الحديث عدّة من أحكام العقيقة، و مرّت هذه الأحكام في الأحاديث الماضية و سيأتي في الأحاديث الآتية.\">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1576\" paragraph-id=\"1576\" class=\" G\">[208] </p>\n  <p id=\"p1577\" paragraph-id=\"1577\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span> قال: </span>«ختن <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله </span></span><span class=\"BD\"><span class=\"maasoom\">الحسن </span></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote612\" footnote-id=\"612\">(1) <page number=\"152\" /> في الوافي 1336:23: «عظمها بعظمه» أي: افتديته به أو أفتد به. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote613\" footnote-id=\"613\">(2)  رواه الكليني في الكافي 1/32:6، باب أنّ رسول الله صلّى الله عليه و آله و فاطمة عليها السّلام عقّا عن الحسن و الحسين عليهما السّلام، عن علي بن إبراهيم، عن أبيه، عن إسماعيل بن مرار، عن يونس، عن بعض أصحابه، عن أبي عبد الله عليه السّلام، و روى نحوه في ج 1/30:6، باب القول على العقيقة، عن علي بن إبراهيم، عن أبيه، و علي بن محمّد، عن صالح بن أبي حمّاد جميعا، عن ابن أبي عمير و صفوان، عن إبراهيم الكرخي، عن أبي عبد الله عليه السّلام قال: «تقول على العقيقة إذا عققت: بسم الله و بالله». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote614\" footnote-id=\"614\">(3)  لا ريب في استحباب إعطاء القابلة جزءا من العقيقة إذا لم تكن من العيال، و إنّما الكلام في تعيين هذا الجزء، و الروايات لا تخلو من اختلاف بين الثلث و الربع، و الرجل و الورك، و أكثر هذه الأخبار على الأخيرين. انظر: الكافي 6/28:6-7 و 10/29 و 2/32 و 5/33، من لا يحضره الفقيه 486:3، تهذيب الأحكام 1770/442:7 و 1775/444. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote615\" footnote-id=\"615\">(4)  من المستحبّات طبخها و إطعامها لأهل الولاية. انظر: فقه الإمام الرضا عليه السّلام: 239، من لا يحضره الفقيه 4718/486:3 و 4719. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote616\" footnote-id=\"616\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. جمع هذا الحديث عدّة من أحكام العقيقة، و مرّت هذه الأحكام في الأحاديث الماضية و سيأتي في الأحاديث الآتية.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0DA1AF5B-5ED8-43C5-84E1-8F7CF8785CE6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

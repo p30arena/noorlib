@@ -1,0 +1,93 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 100,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166553,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2585\"><format class=\"hadith\" who=\"6\" Id=\"150\" RevayatIndex=\"150\">و من قرأ إذا زلزلت في نوافله لم تصبه زلزلة أبدا و لم يصب بها<lfootnote noteId=\"725\">5</lfootnote>، و لا <page number=\"100\"/> بصاعقة و لا بآفة من آفات الدنيا.</format></p>"
+        },
+        {
+          "paragraphId": 714166554,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2586\"><format class=\"hadith\" who=\"6\" Id=\"150\" RevayatIndex=\"150\">و من قرأ ويل لكلّ همزة في فريضة نفت عنه الفتن، و جلبت عليه الرزق، و دفعت عنه ميتة السوء.</format></p>"
+        },
+        {
+          "paragraphId": 714166555,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2587\"><format class=\"hadith\" who=\"6\" Id=\"150\" RevayatIndex=\"150\">و من قرأ قل يا أيّها الكافرون و قل هو الله أحد في فريضة من الفرائض غفر الله له و لوالديه، و إن كان شقيّا محي من ديوان الأشقياء و أثبت في ديوان السعداء، و أحياه الله سعيدا، و أماته شهيدا، و بعثه شهيدا.</format></p>"
+        },
+        {
+          "paragraphId": 714166556,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2588\"><format class=\"hadith\" who=\"6\" Id=\"150\" RevayatIndex=\"150\">و من قرأ إذا جاء نصر الله في نوافله أو فريضته نصره الله<lfootnote noteId=\"726\">1</lfootnote> على أعدائه»<lfootnote noteId=\"727\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166557,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2589\">[153] </p>"
+        },
+        {
+          "paragraphId": 714166558,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2590\"><format class=\"hadith\" who=\"6\" Id=\"151\" RevayatIndex=\"151\"><format class=\"sanadHadith\">سهل بن زياد، عن إدريس الحارثي، عن ابن سنان، عن مفضّل بن عمر، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format><lfootnote noteId=\"728\">3</lfootnote>: </format>«يا مفضّل، احتجز<lfootnote noteId=\"729\">4</lfootnote> من<lfootnote noteId=\"730\">5</lfootnote> الناس ب‍: بسم الله <page number=\"101\"/> الرّحمن الرّحيم، و قل هو الله أحد، اقرأ عن يمينك و عن شمالك، و من بين يديك و من خلفك، و من فوقك و من تحتك، فادخل على ملك جائر، فاقرأ حين تنظر إليه قل هو الله أحد ثلاث مرّات، و اعقد بيدك اليسرى، ثمّ لا تفارقها حتّى تخرج من عنده<lfootnote noteId=\"731\">1</lfootnote>»<lfootnote noteId=\"732\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168756,
+          "text": "<footnote id=\"725\"><mnote>(5)</mnote> في المصدر: «و لم يمت بها». قال المازندراني: قوله: «لا تملّوا من قراءة إذا زلزلت<page number=\"100\"/>الأرض...» دلّ على أنّ الجزاء المذكور مترتّب على إكثار القراءة و أخذها عادة، فإذا مات يعني إذا حضره الموت. شرح الكافي 59:11. </footnote>"
+        },
+        {
+          "footnoteId": 714168757,
+          "text": "<footnote id=\"726\"><mnote>(1)</mnote> لفظ الجلالة «الله» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168758,
+          "text": "<footnote id=\"727\"><mnote>(2)</mnote> روي هذا الحديث بأكمله في فقه الإمام الرضا عليه السّلام: 342 هكذا: نروي أنّه...، و قد روي مقاطع منه في فضائل السور في تفسير العيّاشي 1/254:2، الكافي 24/626:2، ثواب الأعمال: 107 و 110 و 112 و 116 و 117 و 118 و 120 و 121 و 124 و 126 و 127، مكارم الأخلاق: 364 و 365، و غيرها من المصادر. </footnote>"
+        },
+        {
+          "footnoteId": 714168759,
+          "text": "<footnote id=\"728\"><mnote>(3)</mnote> في النسخة: «عن إدريس الحاربي، عن ابن سنان، عن أبيه قال: قال أبو عبد الله عليه السّلام» و الظاهر أنّ الصحيح ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168760,
+          "text": "<footnote id=\"729\"><mnote>(4)</mnote> احتجز من الناس كلّهم، أي: امتنع من شرّهم، من الحجز بمعنى المنع، و في النسخة:<br/>«احتجن» و في بعض نسخ الكافي: «احترز».<br/>و احتجن الرجل: إذا اختصّ بشيء لنفسه دون أصحابه. كتاب العين 81:3 «حجن». </footnote>"
+        },
+        {
+          "footnoteId": 714168761,
+          "text": "<footnote id=\"730\"><mnote>(5)</mnote> كلمة: «من» أثبتناها من المصدر.</footnote>"
+        }
+      ],
+      "pageValue": "100",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2585\" paragraph-id=\"2585\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo100\">100</span> بصاعقة و لا بآفة من آفات الدنيا.</span>\n  </p>\n  <p id=\"p2586\" paragraph-id=\"2586\" class=\" G\">\n    <span class=\"hadith\">و من قرأ ويل لكلّ همزة في فريضة نفت عنه الفتن، و جلبت عليه الرزق، و دفعت عنه ميتة السوء.</span>\n  </p>\n  <p id=\"p2587\" paragraph-id=\"2587\" class=\" G\">\n    <span class=\"hadith\">و من قرأ قل يا أيّها الكافرون و قل هو الله أحد في فريضة من الفرائض غفر الله له و لوالديه، و إن كان شقيّا محي من ديوان الأشقياء و أثبت في ديوان السعداء، و أحياه الله سعيدا، و أماته شهيدا، و بعثه شهيدا.</span>\n  </p>\n  <p id=\"p2588\" paragraph-id=\"2588\" class=\" G\">\n    <span class=\"hadith\">و من قرأ إذا جاء نصر الله في نوافله أو فريضته نصره الله<span><sup><a class=\"NewFn\" href=\"#footnote726\" title=\"(1)  لفظ الجلالة «الله» أثبتناه من المصدر. \">1</a></sup></span> على أعدائه»<span><sup><a class=\"NewFn\" href=\"#footnote727\" title=\"(2)  روي هذا الحديث بأكمله في فقه الإمام الرضا عليه السّلام: 342 هكذا: نروي أنّه...، و قد روي مقاطع منه في فضائل السور في تفسير العيّاشي 1/254:2، الكافي 24/626:2، ثواب الأعمال: 107 و 110 و 112 و 116 و 117 و 118 و 120 و 121 و 124 و 126 و 127، مكارم الأخلاق: 364 و 365، و غيرها من المصادر. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2589\" paragraph-id=\"2589\" class=\" G\">[153] </p>\n  <p id=\"p2590\" paragraph-id=\"2590\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سهل بن زياد، عن إدريس الحارثي، عن ابن سنان، عن مفضّل بن عمر، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span><span><sup><a class=\"NewFn\" href=\"#footnote728\" title=\"(3)  في النسخة: «عن إدريس الحاربي، عن ابن سنان، عن أبيه قال: قال أبو عبد الله عليه السّلام» و الظاهر أنّ الصحيح ما أثبتناه من الكافي. \">3</a></sup></span>: </span>«يا مفضّل، احتجز<span><sup><a class=\"NewFn\" href=\"#footnote729\" title=\"(4)  احتجز من الناس كلّهم، أي: امتنع من شرّهم، من الحجز بمعنى المنع، و في النسخة:«احتجن» و في بعض نسخ الكافي: «احترز».و احتجن الرجل: إذا اختصّ بشيء لنفسه دون أصحابه. كتاب العين 81:3 «حجن». \">4</a></sup></span> من<span><sup><a class=\"NewFn\" href=\"#footnote730\" title=\"(5)  كلمة: «من» أثبتناها من المصدر.\">5</a></sup></span> الناس ب‍: بسم الله </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote725\" footnote-id=\"725\"><page number=\"100\" />الأرض...» دلّ على أنّ الجزاء المذكور مترتّب على إكثار القراءة و أخذها عادة، فإذا مات يعني إذا حضره الموت. شرح الكافي 59:11. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote726\" footnote-id=\"726\">(1)  لفظ الجلالة «الله» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote727\" footnote-id=\"727\">(2)  روي هذا الحديث بأكمله في فقه الإمام الرضا عليه السّلام: 342 هكذا: نروي أنّه...، و قد روي مقاطع منه في فضائل السور في تفسير العيّاشي 1/254:2، الكافي 24/626:2، ثواب الأعمال: 107 و 110 و 112 و 116 و 117 و 118 و 120 و 121 و 124 و 126 و 127، مكارم الأخلاق: 364 و 365، و غيرها من المصادر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote728\" footnote-id=\"728\">(3)  في النسخة: «عن إدريس الحاربي، عن ابن سنان، عن أبيه قال: قال أبو عبد الله عليه السّلام» و الظاهر أنّ الصحيح ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote729\" footnote-id=\"729\">(4)  احتجز من الناس كلّهم، أي: امتنع من شرّهم، من الحجز بمعنى المنع، و في النسخة:<br />«احتجن» و في بعض نسخ الكافي: «احترز».<br />و احتجن الرجل: إذا اختصّ بشيء لنفسه دون أصحابه. كتاب العين 81:3 «حجن». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote730\" footnote-id=\"730\">(5)  كلمة: «من» أثبتناها من المصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D5CDE65A-EAFC-47BD-8CB4-35EB7B0EF7AB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

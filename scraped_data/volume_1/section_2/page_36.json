@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 36,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166496,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2242\"><page number=\"36\"/>[39] </p>"
+        },
+        {
+          "paragraphId": 714166497,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2243\"><format class=\"hadith\" who=\"14,6\" Id=\"39\" RevayatIndex=\"39\"><format class=\"sanadHadith\">و عن محمّد بن حسّان الرازي، عن الحسن بن محمّد النوفلي، قال:</format></format></p>"
+        },
+        {
+          "paragraphId": 714166498,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2244\"><format class=\"hadith\" who=\"14,6\" Id=\"39\" RevayatIndex=\"39\"><format class=\"sanadHadith\">أخبرني <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">جعفر بن محمّد</format></format>، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"5\">أبيه</format></format>، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"4\">جدّه عليهم السّلام</format></format>، قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>:</format></p>"
+        },
+        {
+          "paragraphId": 714166640,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2245\"><format class=\"hadith\" who=\"14,6\" Id=\"39\" RevayatIndex=\"39\">الرجل من امّتي إذا مرض ثمّ صحّ كان كالبرد يسقط من السماء في صفائه و حسن لونه»<lfootnote noteId=\"405\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166641,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2246\">[40] </p>"
+        },
+        {
+          "paragraphId": 714166642,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2247\"><format class=\"hadith\" who=\"14,7\" Id=\"40\" RevayatIndex=\"40\"><format class=\"sanadHadith\">سهل بن زياد<lfootnote noteId=\"406\">2</lfootnote>، عن جعفر بن محمّد بن يسار، عن عبد الله بن درست<lfootnote noteId=\"407\">3</lfootnote>، عن عبد الحميد، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"7\">أبي إبراهيم عليه السّلام</format></format>، قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>:</format></p>"
+        },
+        {
+          "paragraphId": 714166643,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2248\"><format class=\"hadith\" who=\"14,7\" Id=\"40\" RevayatIndex=\"40\">للمريض أربع خصال: يرفع عنه القلم، و يأمر الله تعالى الملك فيكتب له كلّ فضل كان يعمله في صحّته، و يتبع مرضه كلّ عضو في جسده فيستخرج ذنوبه منه، فإن مات مات مغفورا و إن عاش عاش مغفورا»<lfootnote noteId=\"408\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166644,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2249\"><page number=\"37\"/>[41] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168458,
+          "text": "<footnote id=\"404\"><mnote>(5)</mnote> رواه الطبرسي في مكارم الأخلاق: 2/359، باب الصبر على العلّة، عن الرضا عليه السّلام.<br/>و الصدوق في ثواب الأعمال: 193، بزيادة في ذيله، فقال: ثواب المرض: حدّثني أحمد بن محمّد، عن أبيه، عن محمّد بن أحمد، عن إبراهيم بن إسحاق، عن عبد الله بن أحمد، عن <page number=\"36\"/>محمّد بن سنان، عن الرضا عليه السّلام، و فيه: «تعذيب و لعنة»، و بنحو ما في ثواب الأعمال روى السبزواري في جامع الأخبار: 6/466، الفصل في الحمّى ليلة، و الطبرسي في مكارم الأخلاق: 12/358، في ثواب المريض، عن الرضا عليه السّلام، و الديلمي في إرشاد القلوب 43:1، و أعلام الدين: 398. </footnote>"
+        },
+        {
+          "footnoteId": 714168459,
+          "text": "<footnote id=\"405\"><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168460,
+          "text": "<footnote id=\"406\"><mnote>(2)</mnote> سهل بن زياد الآدمي من معاصري الأشعري و الحميري، و لكن لم نجد روايتهما عنه مباشرة، و يروي ابن همّام عنه بالواسطة. انظر: الغيبة للنعماني: 37/186، فلاح السائل: 96. </footnote>"
+        },
+        {
+          "footnoteId": 714168461,
+          "text": "<footnote id=\"407\"><mnote>(3)</mnote> في النسخة: «عبيد الله درست» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168462,
+          "text": "<footnote id=\"408\"><mnote>(4)</mnote> رواه الصدوق في ثواب الأعمال: 193، فقال: ثواب المريض، حدّثني محمّد بن الحسن، قال: حدّثني محمّد بن يحيى، عن محمّد بن أحمد، عن سهل بن زياد، عن جعفر بن محمّد بن بشّار، عن عبد الله بن درست، و فيه: «مغفورا له» في الموردين، و مثله السبزواري في جامع الأخبار: 8/466، و الطبرسي في مكارم الأخلاق: 14/358، في ثواب المريض <page number=\"37\"/>عن أبي إبراهيم عليه السّلام، و الراوندي في الدعوات: 450/163، و الديلمي في إرشاد القلوب 43:1، و أعلام الدين: 398، كلّهم عن النبي صلّى الله عليه و آله. </footnote>"
+        }
+      ],
+      "pageValue": "36",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2242\" paragraph-id=\"2242\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo36\">36</span>[39] </p>\n  <p id=\"p2243\" paragraph-id=\"2243\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عن محمّد بن حسّان الرازي، عن الحسن بن محمّد النوفلي، قال:</span>\n    </span>\n  </p>\n  <p id=\"p2244\" paragraph-id=\"2244\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أخبرني <span class=\"HQ\"><span class=\"maasoom\">جعفر بن محمّد</span></span>، عن <span class=\"G\"><span class=\"maasoom\">أبيه</span></span>، عن <span class=\"G\"><span class=\"maasoom\">جدّه عليهم السّلام</span></span>، قال: </span>«قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>:</span>\n  </p>\n  <p id=\"p2245\" paragraph-id=\"2245\" class=\" G\">\n    <span class=\"hadith\">الرجل من امّتي إذا مرض ثمّ صحّ كان كالبرد يسقط من السماء في صفائه و حسن لونه»<span><sup><a class=\"NewFn\" href=\"#footnote405\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2246\" paragraph-id=\"2246\" class=\" G\">[40] </p>\n  <p id=\"p2247\" paragraph-id=\"2247\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سهل بن زياد<span><sup><a class=\"NewFn\" href=\"#footnote406\" title=\"(2)  سهل بن زياد الآدمي من معاصري الأشعري و الحميري، و لكن لم نجد روايتهما عنه مباشرة، و يروي ابن همّام عنه بالواسطة. انظر: الغيبة للنعماني: 37/186، فلاح السائل: 96. \">2</a></sup></span>، عن جعفر بن محمّد بن يسار، عن عبد الله بن درست<span><sup><a class=\"NewFn\" href=\"#footnote407\" title=\"(3)  في النسخة: «عبيد الله درست» و ما أثبتناه من المصدر. \">3</a></sup></span>، عن عبد الحميد، عن <span class=\"HQ\"><span class=\"maasoom\">أبي إبراهيم عليه السّلام</span></span>، قال: </span>«قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>:</span>\n  </p>\n  <p id=\"p2248\" paragraph-id=\"2248\" class=\" G\">\n    <span class=\"hadith\">للمريض أربع خصال: يرفع عنه القلم، و يأمر الله تعالى الملك فيكتب له كلّ فضل كان يعمله في صحّته، و يتبع مرضه كلّ عضو في جسده فيستخرج ذنوبه منه، فإن مات مات مغفورا و إن عاش عاش مغفورا»<span><sup><a class=\"NewFn\" href=\"#footnote408\" title=\"(4)  رواه الصدوق في ثواب الأعمال: 193، فقال: ثواب المريض، حدّثني محمّد بن الحسن، قال: حدّثني محمّد بن يحيى، عن محمّد بن أحمد، عن سهل بن زياد، عن جعفر بن محمّد بن بشّار، عن عبد الله بن درست، و فيه: «مغفورا له» في الموردين، و مثله السبزواري في جامع الأخبار: 8/466، و الطبرسي في مكارم الأخلاق: 14/358، في ثواب المريض \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2249\" paragraph-id=\"2249\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote404\" footnote-id=\"404\"><page number=\"36\" />محمّد بن سنان، عن الرضا عليه السّلام، و فيه: «تعذيب و لعنة»، و بنحو ما في ثواب الأعمال روى السبزواري في جامع الأخبار: 6/466، الفصل في الحمّى ليلة، و الطبرسي في مكارم الأخلاق: 12/358، في ثواب المريض، عن الرضا عليه السّلام، و الديلمي في إرشاد القلوب 43:1، و أعلام الدين: 398. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote405\" footnote-id=\"405\">(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote406\" footnote-id=\"406\">(2)  سهل بن زياد الآدمي من معاصري الأشعري و الحميري، و لكن لم نجد روايتهما عنه مباشرة، و يروي ابن همّام عنه بالواسطة. انظر: الغيبة للنعماني: 37/186، فلاح السائل: 96. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote407\" footnote-id=\"407\">(3)  في النسخة: «عبيد الله درست» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote408\" footnote-id=\"408\">(4)  رواه الصدوق في ثواب الأعمال: 193، فقال: ثواب المريض، حدّثني محمّد بن الحسن، قال: حدّثني محمّد بن يحيى، عن محمّد بن أحمد، عن سهل بن زياد، عن جعفر بن محمّد بن بشّار، عن عبد الله بن درست، و فيه: «مغفورا له» في الموردين، و مثله السبزواري في جامع الأخبار: 8/466، و الطبرسي في مكارم الأخلاق: 14/358، في ثواب المريض </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5E2C1420-A529-49BB-8B6A-855082A5A51D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

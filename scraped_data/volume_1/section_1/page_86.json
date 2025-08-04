@@ -1,0 +1,44 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 86,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166390,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2136\"><page number=\"84\"/><page number=\"85\"/><img src=\"BK126314G001S1P85\" alt=\"\" imgtype=\"Scan\"/><page number=\"86\"/><img src=\"BK126314G001S1P86\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"2\"/></p>"
+        },
+        {
+          "paragraphId": 714166391,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2137\"><page number=\"1\"/><img src=\"BK126314G001S2P1\" alt=\"\" imgtype=\"Scan\"/><page number=\"2\"/><page number=\"3\"/><format class=\"q\"><format class=\"a\">بسم الله الرحمن الرحيم الحمد لله، و الصلاة و السّلام على محمّد و آله أجمعين</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "86",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2136\" paragraph-id=\"2136\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo86\">86</span>\n    <img src=\"/file/book/page/h_HEPqA6eacDGrV3AukVpqr9xeVE1F-Lvjf5jTB2gNh-LMT-Y2K_e2s-dTx0KWnb\" alt=\"\" imgtype=\"Scan\" />\n    <span class=\"EndIntroduction\"></span>\n  </p>\n  <p id=\"p2137\" paragraph-id=\"2137\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "BB536EE7-2446-4FB3-8E22-E86BF619DE38",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

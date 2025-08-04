@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 258,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167603,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3349\"><format class=\"hadith\" who=\"16\" Id=\"413\" RevayatIndex=\"413\"><format class=\"sanadHadith\">روى علي بن السندي، عن سعيد بن سعد، عنهم عليهم السّلام: </format>«يرقى مآء <page number=\"258\"/> بلا دهن، ثمّ يسقى صاحب اللوي، ثمّ تمرّ يدك على بطنه<lfootnote noteId=\"1430\">1</lfootnote> ثلاث مرّات و تقول:</format></p>"
+        },
+        {
+          "paragraphId": 714167604,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3350\"><format class=\"hadith\" who=\"16\" Id=\"413\" RevayatIndex=\"413\"><format class=\"ayah\" surah=\"2\" ayah=\"185\" toAyah=\"\">يُرِيدُ اَللّٰهُ بِكُمُ اَلْيُسْرَ وَ لاٰ يُرِيدُ بِكُمُ اَلْعُسْرَ<format class=\"ayahWord\" fromWord=\"31\" toWord=\"39\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"185\" toAyah=\"\"/></format><lfootnote noteId=\"1431\">2</lfootnote>، <format class=\"ayah\" surah=\"80\" ayah=\"20\" toAyah=\"\">ثُمَّ اَلسَّبِيلَ يَسَّرَهُ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"80\" ayah=\"20\" toAyah=\"\"/></format><lfootnote noteId=\"1432\">3</lfootnote>، <format class=\"ayah\" surah=\"21\" ayah=\"30\" toAyah=\"\">أَنَّ اَلسَّمٰاوٰاتِ وَ اَلْأَرْضَ كٰانَتٰا رَتْقاً فَفَتَقْنٰاهُمٰا<format class=\"ayahWord\" fromWord=\"7\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"21\" ayah=\"30\" toAyah=\"\"/></format><lfootnote noteId=\"1433\">4</lfootnote>، <format class=\"ayah\" surah=\"19\" ayah=\"23\" toAyah=\"\">فَأَجٰاءَهَا اَلْمَخٰاضُ إِلىٰ جِذْعِ اَلنَّخْلَةِ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"19\" ayah=\"23\" toAyah=\"\"/></format><lfootnote noteId=\"1434\">5</lfootnote>، <format class=\"ayah\" surah=\"16\" ayah=\"78\" toAyah=\"\">وَ اَللّٰهُ أَخْرَجَكُمْ مِنْ بُطُونِ أُمَّهٰاتِكُمْ لاٰ تَعْلَمُونَ شَيْئاً<format class=\"ayahWord\" fromWord=\"1\" toWord=\"9\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"78\" toAyah=\"\"/></format><lfootnote noteId=\"1435\">6</lfootnote>، كذلك اخرج أيّها<lfootnote noteId=\"1436\">7</lfootnote> اللوي بإذن الله تعالى»<lfootnote noteId=\"1437\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167605,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3351\"><heading level=\"2\">[باب] وجع الخاصرة </heading></p>"
+        },
+        {
+          "paragraphId": 714167606,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3352\">[419] </p>"
+        },
+        {
+          "paragraphId": 714167607,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3353\"><format class=\"hadith\" who=\"6\" Id=\"414\" RevayatIndex=\"414\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان، عن المفضّل، قال: دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> و أنا عليل، فقال: </format>«ما لي أراك هكذا يا مفضّل‌؟ قلت: أشتكي من خاصرتي. فقال: «يا مفضّل، عليك بالحرمل فنعم الشيء لوجع البطن» فاستعملت كما قال لي فأذهب الله عنّي ما كنت أجده من وجع الخاصرة<lfootnote noteId=\"1438\">9</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167608,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3354\"><page number=\"259\"/>[420] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169385,
+          "text": "<footnote id=\"1430\"><page number=\"258\"/><mnote>(1)</mnote> في النسخة: «على يديه» و ما أثبتناه من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169386,
+          "text": "<footnote id=\"1431\"><mnote>(2)</mnote> سورة البقرة 185:2. </footnote>"
+        },
+        {
+          "footnoteId": 714169387,
+          "text": "<footnote id=\"1432\"><mnote>(3)</mnote> سورة عبس 20:80. </footnote>"
+        },
+        {
+          "footnoteId": 714169388,
+          "text": "<footnote id=\"1433\"><mnote>(4)</mnote> سورة الأنبياء 30:21. </footnote>"
+        },
+        {
+          "footnoteId": 714169389,
+          "text": "<footnote id=\"1434\"><mnote>(5)</mnote> سورة مريم 23:19. </footnote>"
+        },
+        {
+          "footnoteId": 714169390,
+          "text": "<footnote id=\"1435\"><mnote>(6)</mnote> سورة النحل 78:16. </footnote>"
+        },
+        {
+          "footnoteId": 714169391,
+          "text": "<footnote id=\"1436\"><mnote>(7)</mnote> كلمة: «أيها» أثبتناها من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169392,
+          "text": "<footnote id=\"1437\"><mnote>(8)</mnote> رواه الطبرسي في مكارم الأخلاق: 4/383، بعد الحديث المتقدّم، فقال: و مثله: عنهم عليهم السّلام... و روى الكفعمي نحوه في المصباح: 158، فقال: لوجع اللويّ عن الكاظم عليه السّلام: «خذ ماء و اقرأ عليه ثلاثا...». </footnote>"
+        },
+        {
+          "footnoteId": 714169393,
+          "text": "<footnote id=\"1438\"><mnote>(9)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "258",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3349\" paragraph-id=\"3349\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo258\">258</span> بلا دهن، ثمّ يسقى صاحب اللوي، ثمّ تمرّ يدك على بطنه<span><sup><a class=\"NewFn\" href=\"#footnote1430\" title=\"(1)  في النسخة: «على يديه» و ما أثبتناه من مكارم الأخلاق. \">1</a></sup></span> ثلاث مرّات و تقول:</span>\n  </p>\n  <p id=\"p3350\" paragraph-id=\"3350\" class=\" G\">\n    <span class=\"hadith\">\n      <span style=\"0\" class=\"ayah\" surah=\"2\" ayah=\"185\">يُرِيدُ اَللّٰهُ بِكُمُ اَلْيُسْرَ وَ لاٰ يُرِيدُ بِكُمُ اَلْعُسْرَ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/2/185\"></a></span></span>\n      <span>\n        <sup>\n          <a class=\"NewFn\" href=\"#footnote1431\" title=\"(2)  سورة البقرة 185:2. \">2</a>\n        </sup>\n      </span>، <span style=\"0\" class=\"ayah\" surah=\"80\" ayah=\"20\">ثُمَّ اَلسَّبِيلَ يَسَّرَهُ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/80/20\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote1432\" title=\"(3)  سورة عبس 20:80. \">3</a></sup></span>، <span style=\"0\" class=\"ayah\" surah=\"21\" ayah=\"30\">أَنَّ اَلسَّمٰاوٰاتِ وَ اَلْأَرْضَ كٰانَتٰا رَتْقاً فَفَتَقْنٰاهُمٰا<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/21/30\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote1433\" title=\"(4)  سورة الأنبياء 30:21. \">4</a></sup></span>، <span style=\"0\" class=\"ayah\" surah=\"19\" ayah=\"23\">فَأَجٰاءَهَا اَلْمَخٰاضُ إِلىٰ جِذْعِ اَلنَّخْلَةِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/19/23\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote1434\" title=\"(5)  سورة مريم 23:19. \">5</a></sup></span>، <span style=\"0\" class=\"ayah\" surah=\"16\" ayah=\"78\">وَ اَللّٰهُ أَخْرَجَكُمْ مِنْ بُطُونِ أُمَّهٰاتِكُمْ لاٰ تَعْلَمُونَ شَيْئاً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/16/78\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote1435\" title=\"(6)  سورة النحل 78:16. \">6</a></sup></span>، كذلك اخرج أيّها<span><sup><a class=\"NewFn\" href=\"#footnote1436\" title=\"(7)  كلمة: «أيها» أثبتناها من مكارم الأخلاق. \">7</a></sup></span> اللوي بإذن الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote1437\" title=\"(8)  رواه الطبرسي في مكارم الأخلاق: 4/383، بعد الحديث المتقدّم، فقال: و مثله: عنهم عليهم السّلام... و روى الكفعمي نحوه في المصباح: 158، فقال: لوجع اللويّ عن الكاظم عليه السّلام: «خذ ماء و اقرأ عليه ثلاثا...». \">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p3351\" paragraph-id=\"3351\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] وجع الخاصرة </strong>\n  </p>\n  <p id=\"p3352\" paragraph-id=\"3352\" class=\" G\">[419] </p>\n  <p id=\"p3353\" paragraph-id=\"3353\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان، عن المفضّل، قال: دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> و أنا عليل، فقال: </span>«ما لي أراك هكذا يا مفضّل‌؟ قلت: أشتكي من خاصرتي. فقال: «يا مفضّل، عليك بالحرمل فنعم الشيء لوجع البطن» فاستعملت كما قال لي فأذهب الله عنّي ما كنت أجده من وجع الخاصرة<span><sup><a class=\"NewFn\" href=\"#footnote1438\" title=\"(9)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">9</a></sup></span>.</span>\n  </p>\n  <p id=\"p3354\" paragraph-id=\"3354\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1430\" footnote-id=\"1430\">(1) <page number=\"258\" /> في النسخة: «على يديه» و ما أثبتناه من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1431\" footnote-id=\"1431\">(2)  سورة البقرة 185:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1432\" footnote-id=\"1432\">(3)  سورة عبس 20:80. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1433\" footnote-id=\"1433\">(4)  سورة الأنبياء 30:21. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1434\" footnote-id=\"1434\">(5)  سورة مريم 23:19. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1435\" footnote-id=\"1435\">(6)  سورة النحل 78:16. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1436\" footnote-id=\"1436\">(7)  كلمة: «أيها» أثبتناها من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1437\" footnote-id=\"1437\">(8)  رواه الطبرسي في مكارم الأخلاق: 4/383، بعد الحديث المتقدّم، فقال: و مثله: عنهم عليهم السّلام... و روى الكفعمي نحوه في المصباح: 158، فقال: لوجع اللويّ عن الكاظم عليه السّلام: «خذ ماء و اقرأ عليه ثلاثا...». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1438\" footnote-id=\"1438\">(9)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4A9E3C73-508D-4DF1-848E-4CB51BB21C67",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

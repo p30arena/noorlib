@@ -1,0 +1,83 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 30,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166465,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2211\"><format class=\"hadith\" who=\"4\" Id=\"26\" RevayatIndex=\"26\"><format class=\"sanadHadith\">علي بن محمّد القاشاني، عن القاسم بن محمّد<lfootnote noteId=\"381\">4</lfootnote>، عن<lfootnote noteId=\"382\">5</lfootnote> سليمان بن <page number=\"30\"/>داود، عن سفيان بن عيينة، عن الزهري، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"4\">علي بن الحسين عليه السّلام</format></format> قال: </format>«نعم الوجع الحمّى تعطي كلّ عضو قسطه<lfootnote noteId=\"383\">1</lfootnote> من البلاء، و لا خير فيمن لا يبتلى»<lfootnote noteId=\"384\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166466,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2212\">[27] </p>"
+        },
+        {
+          "paragraphId": 714166467,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2213\"><format class=\"hadith\" who=\"6\" Id=\"27\" RevayatIndex=\"27\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن الحسن بن صالح الصيمري<lfootnote noteId=\"385\">3</lfootnote>، عن الحسن بن ياسر البصري يرفعه إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>: </format>«سهر ليلة<lfootnote noteId=\"386\">4</lfootnote> يعدل عبادة سنة»<lfootnote noteId=\"387\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166468,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2214\">[28] </p>"
+        },
+        {
+          "paragraphId": 714166469,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2215\"><format class=\"hadith\" who=\"6\" Id=\"28\" RevayatIndex=\"28\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن العبيدي، عن سعدان، و أحمد بن محمّد بن عيسى، عن محمّد بن إسماعيل بن بزيع، عن سعدان بن <page number=\"31\"/> مسلم، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: سمعته يقول: </format>«الحمّى رائد الموت<lfootnote noteId=\"388\">1</lfootnote>، و هي سجن الله في الأرض، و هي حظّ المؤمن<lfootnote noteId=\"389\">2</lfootnote> من النار»<lfootnote noteId=\"390\">3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168437,
+          "text": "<footnote id=\"383\"><page number=\"30\"/><mnote>(1)</mnote> في النسخة: «سقطه» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168438,
+          "text": "<footnote id=\"384\"><mnote>(2)</mnote> رواه الصدوق في ثواب الأعمال: 192، فقال: حدّثني محمّد بن الحسن، عن محمّد بن الحسن الصفّار، عن علي بن محمّد القاشاني، و السبزواري في جامع الأخبار: 2/465، و الطبرسي في مكارم الأخلاق: 4/357، في ثواب المريض، كلاهما عن علي بن الحسين عليهما السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168439,
+          "text": "<footnote id=\"385\"><mnote>(3)</mnote> في النسخة: «الضميري» و ما أثبتناه هو الصواب كما في معجم رجال الحديث 5:<br/>2736/274. </footnote>"
+        },
+        {
+          "footnoteId": 714168440,
+          "text": "<footnote id=\"386\"><mnote>(4)</mnote> أي: سهر ليلة من مرض كما في المصادر. </footnote>"
+        },
+        {
+          "footnoteId": 714168441,
+          "text": "<footnote id=\"387\"><mnote>(5)</mnote> لم نعثر على نصّه في المصادر المتوفّرة لدينا، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام:<br/>1/16، مقدار الثواب في كلّ علّة، بالسند الذي تقدّم في هامش الحديث 25، و روى نحوه الكليني في الكافي 113:3-4/114، باب ثواب المرض، عن علي بن إبراهيم، عن أبيه، عن عبد الله بن المغيرة، عن أبي الصباح قال: قال أبو جعفر عليه السّلام، و مثله الطبرسي في مكارم الأخلاق: 9/358، باب في ثواب المريض، عن الباقر عليه السّلام، و روى الكليني أيضا في الحديث السادس عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن النضر بن سويد، عن درست، عن زرارة، عن أحدهما عليهما السّلام، و مثله الطبرسي في الحديث العاشر عن زرارة، عن أحدهما عليهما السّلام.</footnote>"
+        }
+      ],
+      "pageValue": "30",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2211\" paragraph-id=\"2211\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo30\">30</span>داود، عن سفيان بن عيينة، عن الزهري، عن <span class=\"Y\"><span class=\"maasoom\">علي بن الحسين عليه السّلام</span></span> قال: </span>«نعم الوجع الحمّى تعطي كلّ عضو قسطه<span><sup><a class=\"NewFn\" href=\"#footnote383\" title=\"(1)  في النسخة: «سقطه» و ما أثبتناه من المصدر. \">1</a></sup></span> من البلاء، و لا خير فيمن لا يبتلى»<span><sup><a class=\"NewFn\" href=\"#footnote384\" title=\"(2)  رواه الصدوق في ثواب الأعمال: 192، فقال: حدّثني محمّد بن الحسن، عن محمّد بن الحسن الصفّار، عن علي بن محمّد القاشاني، و السبزواري في جامع الأخبار: 2/465، و الطبرسي في مكارم الأخلاق: 4/357، في ثواب المريض، كلاهما عن علي بن الحسين عليهما السّلام. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2212\" paragraph-id=\"2212\" class=\" G\">[27] </p>\n  <p id=\"p2213\" paragraph-id=\"2213\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن الحسن بن صالح الصيمري<span><sup><a class=\"NewFn\" href=\"#footnote385\" title=\"(3)  في النسخة: «الضميري» و ما أثبتناه هو الصواب كما في معجم رجال الحديث 5:2736/274. \">3</a></sup></span>، عن الحسن بن ياسر البصري يرفعه إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>: </span>«سهر ليلة<span><sup><a class=\"NewFn\" href=\"#footnote386\" title=\"(4)  أي: سهر ليلة من مرض كما في المصادر. \">4</a></sup></span> يعدل عبادة سنة»<span><sup><a class=\"NewFn\" href=\"#footnote387\" title=\"(5)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام:1/16، مقدار الثواب في كلّ علّة، بالسند الذي تقدّم في هامش الحديث 25، و روى نحوه الكليني في الكافي 113:3-4/114، باب ثواب المرض، عن علي بن إبراهيم، عن أبيه، عن عبد الله بن المغيرة، عن أبي الصباح قال: قال أبو جعفر عليه السّلام، و مثله الطبرسي في مكارم الأخلاق: 9/358، باب في ثواب المريض، عن الباقر عليه السّلام، و روى الكليني أيضا في الحديث السادس عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن النضر بن سويد، عن درست، عن زرارة، عن أحدهما عليهما السّلام، و مثله الطبرسي في الحديث العاشر عن زرارة، عن أحدهما عليهما السّلام.\">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2214\" paragraph-id=\"2214\" class=\" G\">[28] </p>\n  <p id=\"p2215\" paragraph-id=\"2215\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن العبيدي، عن سعدان، و أحمد بن محمّد بن عيسى، عن محمّد بن إسماعيل بن بزيع، عن سعدان بن </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote383\" footnote-id=\"383\">(1) <page number=\"30\" /> في النسخة: «سقطه» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote384\" footnote-id=\"384\">(2)  رواه الصدوق في ثواب الأعمال: 192، فقال: حدّثني محمّد بن الحسن، عن محمّد بن الحسن الصفّار، عن علي بن محمّد القاشاني، و السبزواري في جامع الأخبار: 2/465، و الطبرسي في مكارم الأخلاق: 4/357، في ثواب المريض، كلاهما عن علي بن الحسين عليهما السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote385\" footnote-id=\"385\">(3)  في النسخة: «الضميري» و ما أثبتناه هو الصواب كما في معجم رجال الحديث 5:<br />2736/274. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote386\" footnote-id=\"386\">(4)  أي: سهر ليلة من مرض كما في المصادر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote387\" footnote-id=\"387\">(5)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام:<br />1/16، مقدار الثواب في كلّ علّة، بالسند الذي تقدّم في هامش الحديث 25، و روى نحوه الكليني في الكافي 113:3-4/114، باب ثواب المرض، عن علي بن إبراهيم، عن أبيه، عن عبد الله بن المغيرة، عن أبي الصباح قال: قال أبو جعفر عليه السّلام، و مثله الطبرسي في مكارم الأخلاق: 9/358، باب في ثواب المريض، عن الباقر عليه السّلام، و روى الكليني أيضا في الحديث السادس عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن النضر بن سويد، عن درست، عن زرارة، عن أحدهما عليهما السّلام، و مثله الطبرسي في الحديث العاشر عن زرارة، عن أحدهما عليهما السّلام.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "827CE1A7-6455-4859-8187-887237684EC6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

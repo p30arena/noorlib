@@ -1,0 +1,115 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 54,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166728,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2333\"><page number=\"54\"/>[75] </p>"
+        },
+        {
+          "paragraphId": 714166729,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2334\"><format class=\"hadith\" who=\"7\" Id=\"75\" RevayatIndex=\"75\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن بكر بن صالح، عن الجعفري، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">موسى عليه السّلام</format></format> يقول: </format>«ادفعوا الدواء و معالجة الأطبّاء ما اندفع الداء<lfootnote noteId=\"487\">1</lfootnote> عنكم فإنّه بمنزلة البناء، قليله يجرّ إلى كثيره<lfootnote noteId=\"488\">2</lfootnote>»<lfootnote noteId=\"489\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166730,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2335\">[76] </p>"
+        },
+        {
+          "paragraphId": 714166731,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2336\"><format class=\"hadith\" who=\"16\" Id=\"76\" RevayatIndex=\"76\"><format class=\"sanadHadith\">و قال عليه السّلام: </format>«اثنان عليلان أبدا: صحيح محتم و عليل مخلّط<lfootnote noteId=\"490\">4</lfootnote>»<lfootnote noteId=\"491\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166732,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2337\">[77] </p>"
+        },
+        {
+          "paragraphId": 714166733,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2338\"><format class=\"hadith\" who=\"16\" Id=\"77\" RevayatIndex=\"77\"><format class=\"sanadHadith\">و روي: </format>«إذا جعت فكل، و إذا نعست فنم، و إذا عطشت فاشرب الماء، و إذا هاج بك البول فبل، و لا تجامع إلّا من حاجة، فإنّ ذلك مصحّة البدن»<lfootnote noteId=\"492\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166734,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2339\">[78] </p>"
+        },
+        {
+          "paragraphId": 714166735,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2340\"><format class=\"hadith\" who=\"16\" Id=\"78\" RevayatIndex=\"78\"><format class=\"sanadHadith\">و روي: </format>«ما يكون من علّة إلّا بذنب، و ما يعفو الله تعالى عنه أكثر»<lfootnote noteId=\"493\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166736,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2341\"><page number=\"55\"/>[79] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168041,
+          "text": "<footnote id=\"487\"><page number=\"54\"/><mnote>(1)</mnote> كلمة: «الداء» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168042,
+          "text": "<footnote id=\"488\"><mnote>(2)</mnote> في النسخة: «الخير الكثير» بدل «يجرّ إلى كثيره» و ما أثبتناه من المصدر.<br/>و معنى المتن: الشروع في المداواة لقليل الداء يوجب زيادة المرض و الاحتياج إلى دواء أعظم. بحار الأنوار 64:59. </footnote>"
+        },
+        {
+          "footnoteId": 714168043,
+          "text": "<footnote id=\"489\"><mnote>(3)</mnote> رواه الصدوق في علل الشرائع: 17/465، باب النوادر، عن أبيه رحمه الله قال: حدّثنا سعد بن عبد الله، عن أحمد بن محمّد، عن بكر بن صالح، انظر: وسائل الشيعة 408:2، باب استحباب ترك المداواة مع إمكان الصبر و عدم الخطر و خصوصا من الزكام و الدماميل و الرمد و السعال و ما ينبغي التداوي به، و وجوبه عند الخطر بالترك. </footnote>"
+        },
+        {
+          "footnoteId": 714168044,
+          "text": "<footnote id=\"490\"><mnote>(4)</mnote> المحتم من حمى الشيء: منعه و دفع عنه. لسان العرب 198:14 «حما». و في بعض المصادر: «محتمي». و الظاهر أنّ المخلّط هو الذي لا يبالي في أكل الأشياء، فأكل شيء مع شيء آخر لا يناسبه. </footnote>"
+        },
+        {
+          "footnoteId": 714168045,
+          "text": "<footnote id=\"491\"><mnote>(5)</mnote> روي في فقه الإمام الرضا عليه السّلام: 340، و رواه الطبرسي في مكارم الأخلاق: 4/362، في معالجة المريض عنه صلّى الله عليه و آله، و الإربلي في كشف الغمة 350:2، عن كتاب الجنابذي عن الإمام الجواد عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168046,
+          "text": "<footnote id=\"492\"><mnote>(6)</mnote> روي في فقه الإمام الرضا عليه السّلام: 340. </footnote>"
+        },
+        {
+          "footnoteId": 714168047,
+          "text": "<footnote id=\"493\"><mnote>(7)</mnote> روي في فقه الإمام الرضا عليه السّلام: 340، و رواه الطبرسي في مكارم الأخلاق: 3/362، في <page number=\"55\"/>معالجة المريض عنه صلّى الله عليه و آله، و انظر: الاصول الستّة عشر: 288، كتاب درست بن أبي منصور، تفسير الإمام الحسن العسكري عليه السّلام: 588، الكافي 269:2، باب الذنوب، و 445، باب تعجيل عقوبة الذنب، الجعفريات: 179، الأمالي للمفيد: 1/34، الأمالي للطوسي:<br/>2/631، مكارم الأخلاق: 357، في ثواب المريض، مشكاة الأنوار: 155 و 278. </footnote>"
+        }
+      ],
+      "pageValue": "54",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2333\" paragraph-id=\"2333\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo54\">54</span>[75] </p>\n  <p id=\"p2334\" paragraph-id=\"2334\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن بكر بن صالح، عن الجعفري، قال: سمعت <span class=\"Y\"><span class=\"maasoom\">موسى عليه السّلام</span></span> يقول: </span>«ادفعوا الدواء و معالجة الأطبّاء ما اندفع الداء<span><sup><a class=\"NewFn\" href=\"#footnote487\" title=\"(1)  كلمة: «الداء» أثبتناها من المصدر. \">1</a></sup></span> عنكم فإنّه بمنزلة البناء، قليله يجرّ إلى كثيره<span><sup><a class=\"NewFn\" href=\"#footnote488\" title=\"(2)  في النسخة: «الخير الكثير» بدل «يجرّ إلى كثيره» و ما أثبتناه من المصدر.و معنى المتن: الشروع في المداواة لقليل الداء يوجب زيادة المرض و الاحتياج إلى دواء أعظم. بحار الأنوار 64:59. \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote489\" title=\"(3)  رواه الصدوق في علل الشرائع: 17/465، باب النوادر، عن أبيه رحمه الله قال: حدّثنا سعد بن عبد الله، عن أحمد بن محمّد، عن بكر بن صالح، انظر: وسائل الشيعة 408:2، باب استحباب ترك المداواة مع إمكان الصبر و عدم الخطر و خصوصا من الزكام و الدماميل و الرمد و السعال و ما ينبغي التداوي به، و وجوبه عند الخطر بالترك. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2335\" paragraph-id=\"2335\" class=\" G\">[76] </p>\n  <p id=\"p2336\" paragraph-id=\"2336\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال عليه السّلام: </span>«اثنان عليلان أبدا: صحيح محتم و عليل مخلّط<span><sup><a class=\"NewFn\" href=\"#footnote490\" title=\"(4)  المحتم من حمى الشيء: منعه و دفع عنه. لسان العرب 198:14 «حما». و في بعض المصادر: «محتمي». و الظاهر أنّ المخلّط هو الذي لا يبالي في أكل الأشياء، فأكل شيء مع شيء آخر لا يناسبه. \">4</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote491\" title=\"(5)  روي في فقه الإمام الرضا عليه السّلام: 340، و رواه الطبرسي في مكارم الأخلاق: 4/362، في معالجة المريض عنه صلّى الله عليه و آله، و الإربلي في كشف الغمة 350:2، عن كتاب الجنابذي عن الإمام الجواد عليه السّلام. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2337\" paragraph-id=\"2337\" class=\" G\">[77] </p>\n  <p id=\"p2338\" paragraph-id=\"2338\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي: </span>«إذا جعت فكل، و إذا نعست فنم، و إذا عطشت فاشرب الماء، و إذا هاج بك البول فبل، و لا تجامع إلّا من حاجة، فإنّ ذلك مصحّة البدن»<span><sup><a class=\"NewFn\" href=\"#footnote492\" title=\"(6)  روي في فقه الإمام الرضا عليه السّلام: 340. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2339\" paragraph-id=\"2339\" class=\" G\">[78] </p>\n  <p id=\"p2340\" paragraph-id=\"2340\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي: </span>«ما يكون من علّة إلّا بذنب، و ما يعفو الله تعالى عنه أكثر»<span><sup><a class=\"NewFn\" href=\"#footnote493\" title=\"(7)  روي في فقه الإمام الرضا عليه السّلام: 340، و رواه الطبرسي في مكارم الأخلاق: 3/362، في \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p2341\" paragraph-id=\"2341\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote487\" footnote-id=\"487\">(1) <page number=\"54\" /> كلمة: «الداء» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote488\" footnote-id=\"488\">(2)  في النسخة: «الخير الكثير» بدل «يجرّ إلى كثيره» و ما أثبتناه من المصدر.<br />و معنى المتن: الشروع في المداواة لقليل الداء يوجب زيادة المرض و الاحتياج إلى دواء أعظم. بحار الأنوار 64:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote489\" footnote-id=\"489\">(3)  رواه الصدوق في علل الشرائع: 17/465، باب النوادر، عن أبيه رحمه الله قال: حدّثنا سعد بن عبد الله، عن أحمد بن محمّد، عن بكر بن صالح، انظر: وسائل الشيعة 408:2، باب استحباب ترك المداواة مع إمكان الصبر و عدم الخطر و خصوصا من الزكام و الدماميل و الرمد و السعال و ما ينبغي التداوي به، و وجوبه عند الخطر بالترك. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote490\" footnote-id=\"490\">(4)  المحتم من حمى الشيء: منعه و دفع عنه. لسان العرب 198:14 «حما». و في بعض المصادر: «محتمي». و الظاهر أنّ المخلّط هو الذي لا يبالي في أكل الأشياء، فأكل شيء مع شيء آخر لا يناسبه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote491\" footnote-id=\"491\">(5)  روي في فقه الإمام الرضا عليه السّلام: 340، و رواه الطبرسي في مكارم الأخلاق: 4/362، في معالجة المريض عنه صلّى الله عليه و آله، و الإربلي في كشف الغمة 350:2، عن كتاب الجنابذي عن الإمام الجواد عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote492\" footnote-id=\"492\">(6)  روي في فقه الإمام الرضا عليه السّلام: 340. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote493\" footnote-id=\"493\">(7)  روي في فقه الإمام الرضا عليه السّلام: 340، و رواه الطبرسي في مكارم الأخلاق: 3/362، في </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F56AE648-2BD3-416F-8B79-9D84063BAD3D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

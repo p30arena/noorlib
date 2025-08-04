@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 242,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170779,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1957\"><img src=\"BK126314G002S1P235\" alt=\"\" imgtype=\"Scan\"/><page number=\"236\"/><img src=\"BK126314G002S1P236\" alt=\"\" imgtype=\"Scan\"/><page number=\"237\"/><img src=\"BK126314G002S1P237\" alt=\"\" imgtype=\"Scan\"/><page number=\"238\"/><img src=\"BK126314G002S1P238\" alt=\"\" imgtype=\"Scan\"/><page number=\"239\"/><img src=\"BK126314G002S1P239\" alt=\"\" imgtype=\"Scan\"/><page number=\"240\"/><img src=\"BK126314G002S1P240\" alt=\"\" imgtype=\"Scan\"/><page number=\"241\"/><img src=\"BK126314G002S1P241\" alt=\"\" imgtype=\"Scan\"/><page number=\"242\"/><img src=\"BK126314G002S1P242\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"7\"/><page number=\"243\"/><heading level=\"3\"><format class=\"BeginIntroduction\" type=\"8\"/> فهرس الاحاديث...</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "242",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1957\" paragraph-id=\"1957\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo242\">242</span>\n    <img src=\"/file/book/page/EZkGvGt9JBQsA7QkUATTXFG3wps60adSvtUQGELkyvIUkoqXSbpUYWifOFTYUm3C\" alt=\"\" imgtype=\"Scan\" />\n    <span class=\"EndIntroduction\"></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "6B4F97A7-8FF7-4A07-862A-DCDF8100D451",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

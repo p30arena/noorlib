@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 188,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167098,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2997\"><format class=\"hadith\" who=\"7\" Id=\"292\" RevayatIndex=\"292\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن بكر بن صالح، عن الجعفري، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">موسى بن جعفر عليهما السّلام </format></format>يقول:</format> لوجع الفم و الدم الذي يخرج من الأسنان و الضربان<lfootnote noteId=\"1104\">7</lfootnote> و الحمرة التي تقع <page number=\"188\"/> في الفم: «تأخذ حنظلة رطبة قد اصفرّت، فتجعل عليها قالبا من طين<lfootnote noteId=\"1105\">1</lfootnote>، ثمّ تثقب رأسها، و تدخل سكّينا في جوفها، فتحكّ جوانبها حكّا رقيقا، ثمّ تصبّ عليها خلّ خمر حامض شديد الحموضة، ثمّ تضعها على النار، فتغليها غليا شديدا، و يأخذ منه صاحب الوجع كلّما احتمل ظفره، فيدلك به فمه، و يتمضمض بخلّ‌، و إن أحبّ أن يحوّله من الحنظلة إلى الزجاجة أو البستوقة<lfootnote noteId=\"1106\">2</lfootnote>فعل، و كلّما فني خلّه أعاد مكانه<lfootnote noteId=\"1107\">3</lfootnote>، و كلّما عتق كان خيرا له إن شاء الله»<lfootnote noteId=\"1108\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167099,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2998\"><heading level=\"2\">[باب] الحرّ الذي يكون في فم الصبي </heading></p>"
+        },
+        {
+          "paragraphId": 714167100,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2999\">[295] </p>"
+        },
+        {
+          "paragraphId": 714167101,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3000\"><format class=\"hadith\" who=\"7\" Id=\"293\" RevayatIndex=\"293\"><format class=\"sanadHadith\">روى السيّاري، عن الحسين بن سعيد، عن محمّد بن عمرو، عن يحيى بن حبيب، قال:</format> كتبت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن الأوّل عليه السّلام</format></format> في صبيّ لنا ابن أربعين ليلة خرج في فيه حرّ، فكتب إليّ‌: «احجمه». فحجمته فذهب ما كان به<lfootnote noteId=\"1109\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167102,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3001\"><heading level=\"2\">[باب] النوادر في علل الفم </heading></p>"
+        },
+        {
+          "paragraphId": 714167103,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3002\">[296] </p>"
+        },
+        {
+          "paragraphId": 714167104,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3003\"><format class=\"hadith\" who=\"14,6\" Id=\"294\" RevayatIndex=\"294\"><format class=\"sanadHadith\">روى محمّد بن حسان الرازي، عن أبي محمّد الرازي، عن الحسين بن يزيد<lfootnote noteId=\"1110\">6</lfootnote>، <page number=\"189\"/> عن السكوني، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: من قلّم أظفاره في يوم السبت و يوم الخميس و أخذ من شاربه عوفي من وجع الأضراس و وجع العين<lfootnote noteId=\"1111\">1</lfootnote>»<lfootnote noteId=\"1112\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169149,
+          "text": "<footnote id=\"1105\"><page number=\"188\"/><mnote>(1)</mnote> قال المجلسي أي: يطلى جميعها بالطين لئلّا يفسدها النار إذا وضعت عليها، و لا يخرج منها شيء إذا حصل خرق أو ثقب. مرآة العقول 95:26، بحار الأنوار 164:59. </footnote>"
+        },
+        {
+          "footnoteId": 714169150,
+          "text": "<footnote id=\"1106\"><mnote>(2)</mnote> البستوقة بالضم: من الفخار معرّب «بستق». مجمع البحرين 139:5 «بستق».<br/>و قال الحرّ العاملي: أي: قدر. الفصول المهمّة 134:3. </footnote>"
+        },
+        {
+          "footnoteId": 714169151,
+          "text": "<footnote id=\"1107\"><mnote>(3)</mnote> من قوله: «فعل، و كلّما...» إلى هنا أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714169152,
+          "text": "<footnote id=\"1108\"><mnote>(4)</mnote> رواه الكليني في الكافي 232/194:8 مع الحديث 286 المتقدّم بسند واحد فانظره. </footnote>"
+        },
+        {
+          "footnoteId": 714169153,
+          "text": "<footnote id=\"1109\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169154,
+          "text": "<footnote id=\"1110\"><mnote>(6)</mnote> في النسخة: «الحسين بن السعيد» و الصحيح ما أثبتناه فهو لا يروي عن السكوني، أما<page number=\"189\"/>الحسين بن يزيد النوفلي فقد روى كثيرا عن السكوني. </footnote>"
+        }
+      ],
+      "pageValue": "188",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2997\" paragraph-id=\"2997\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo188\">188</span> في الفم: «تأخذ حنظلة رطبة قد اصفرّت، فتجعل عليها قالبا من طين<span><sup><a class=\"NewFn\" href=\"#footnote1105\" title=\"(1)  قال المجلسي أي: يطلى جميعها بالطين لئلّا يفسدها النار إذا وضعت عليها، و لا يخرج منها شيء إذا حصل خرق أو ثقب. مرآة العقول 95:26، بحار الأنوار 164:59. \">1</a></sup></span>، ثمّ تثقب رأسها، و تدخل سكّينا في جوفها، فتحكّ جوانبها حكّا رقيقا، ثمّ تصبّ عليها خلّ خمر حامض شديد الحموضة، ثمّ تضعها على النار، فتغليها غليا شديدا، و يأخذ منه صاحب الوجع كلّما احتمل ظفره، فيدلك به فمه، و يتمضمض بخلّ‌، و إن أحبّ أن يحوّله من الحنظلة إلى الزجاجة أو البستوقة<span><sup><a class=\"NewFn\" href=\"#footnote1106\" title=\"(2)  البستوقة بالضم: من الفخار معرّب «بستق». مجمع البحرين 139:5 «بستق».و قال الحرّ العاملي: أي: قدر. الفصول المهمّة 134:3. \">2</a></sup></span>فعل، و كلّما فني خلّه أعاد مكانه<span><sup><a class=\"NewFn\" href=\"#footnote1107\" title=\"(3)  من قوله: «فعل، و كلّما...» إلى هنا أثبتناه من الكافي. \">3</a></sup></span>، و كلّما عتق كان خيرا له إن شاء الله»<span><sup><a class=\"NewFn\" href=\"#footnote1108\" title=\"(4)  رواه الكليني في الكافي 232/194:8 مع الحديث 286 المتقدّم بسند واحد فانظره. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2998\" paragraph-id=\"2998\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الحرّ الذي يكون في فم الصبي </strong>\n  </p>\n  <p id=\"p2999\" paragraph-id=\"2999\" class=\" G\">[295] </p>\n  <p id=\"p3000\" paragraph-id=\"3000\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى السيّاري، عن الحسين بن سعيد، عن محمّد بن عمرو، عن يحيى بن حبيب، قال:</span> كتبت إلى <span class=\"Y\"><span class=\"maasoom\">أبي الحسن الأوّل عليه السّلام</span></span> في صبيّ لنا ابن أربعين ليلة خرج في فيه حرّ، فكتب إليّ‌: «احجمه». فحجمته فذهب ما كان به<span><sup><a class=\"NewFn\" href=\"#footnote1109\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p3001\" paragraph-id=\"3001\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] النوادر في علل الفم </strong>\n  </p>\n  <p id=\"p3002\" paragraph-id=\"3002\" class=\" G\">[296] </p>\n  <p id=\"p3003\" paragraph-id=\"3003\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن حسان الرازي، عن أبي محمّد الرازي، عن الحسين بن يزيد<span><sup><a class=\"NewFn\" href=\"#footnote1110\" title=\"(6)  في النسخة: «الحسين بن السعيد» و الصحيح ما أثبتناه فهو لا يروي عن السكوني، أما\">6</a></sup></span>، </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1105\" footnote-id=\"1105\">(1) <page number=\"188\" /> قال المجلسي أي: يطلى جميعها بالطين لئلّا يفسدها النار إذا وضعت عليها، و لا يخرج منها شيء إذا حصل خرق أو ثقب. مرآة العقول 95:26، بحار الأنوار 164:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1106\" footnote-id=\"1106\">(2)  البستوقة بالضم: من الفخار معرّب «بستق». مجمع البحرين 139:5 «بستق».<br />و قال الحرّ العاملي: أي: قدر. الفصول المهمّة 134:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1107\" footnote-id=\"1107\">(3)  من قوله: «فعل، و كلّما...» إلى هنا أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1108\" footnote-id=\"1108\">(4)  رواه الكليني في الكافي 232/194:8 مع الحديث 286 المتقدّم بسند واحد فانظره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1109\" footnote-id=\"1109\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1110\" footnote-id=\"1110\">(6)  في النسخة: «الحسين بن السعيد» و الصحيح ما أثبتناه فهو لا يروي عن السكوني، أما</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "230E8657-E036-42E5-ADEF-B3EB7D2385CD",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

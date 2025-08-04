@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 163,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167271,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2868\"><format class=\"hadith\" who=\"6\" Id=\"247\" RevayatIndex=\"247\"><format class=\"sanadHadith\">و روى موسى بن عمر، عن أبي صفوان، عن محمّد بن منصور<lfootnote noteId=\"989\">4</lfootnote>، <page number=\"163\"/> عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«إنّ العين اليمنى تفضّل في الكحل على العين اليسرى»<lfootnote noteId=\"990\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167272,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2869\">[250] </p>"
+        },
+        {
+          "paragraphId": 714167273,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2870\"><format class=\"hadith\" who=\"8\" Id=\"248\" RevayatIndex=\"248\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن علي بن أيّوب، عن علي بن أسباط، عن خلف بن سلمة، قال:</format> رآني <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبو الحسن الرضا عليه السّلام</format></format> و أنا أرمد، قال: «ألا أدلّك على شيء إذا أنت فعلته لم تشتك عينيك»؟ قلت: بلى.</format></p>"
+        },
+        {
+          "paragraphId": 714167274,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2871\"><format class=\"hadith\" who=\"8\" Id=\"248\" RevayatIndex=\"248\">قال: «خذ من أظفارك في كلّ يوم خميس».</format></p>"
+        },
+        {
+          "paragraphId": 714167275,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2872\"><format class=\"hadith\" who=\"8\" Id=\"248\" RevayatIndex=\"248\">قال<lfootnote noteId=\"991\">2</lfootnote>: ففعلت و لم تشتك عيني<lfootnote noteId=\"992\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167276,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2873\">[251] </p>"
+        },
+        {
+          "paragraphId": 714167277,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2874\"><format class=\"hadith\" who=\"14,6\" Id=\"249\" RevayatIndex=\"249\"><format class=\"sanadHadith\">و روى محمّد بن أبي الصهبان<lfootnote noteId=\"993\">4</lfootnote>، عن بعض أصحابنا، عن عيسى بن الوليد، عن رجل، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«نظر <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> إلى سلمان و هو رمد، قال: متى هاجت عينك‌؟ قال: أمس.</format></p>"
+        },
+        {
+          "paragraphId": 714167278,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2875\"><format class=\"hadith\" who=\"14,6\" Id=\"249\" RevayatIndex=\"249\"><page number=\"164\"/> قال: لا تأكل التمر، و لا تنم على جانبك الأيسر»<lfootnote noteId=\"994\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168944,
+          "text": "<footnote id=\"989\"><mnote>(4)</mnote> هكذا ذكر السند في النسخة، و لعلّ فيه سقط و تخليط و تصحيف، فإنّ موسى بن عمر بن يزيد بن ذبيان روى عن محمّد بن منصور الصيقل بلا واسطة، و محمّد بن منصور روى<page number=\"163\"/>بواسطة أبيه منصور عن أبي عبد الله عليه السّلام و لم يروه عنه عليه السّلام بلا واسطة. </footnote>"
+        },
+        {
+          "footnoteId": 714168945,
+          "text": "<footnote id=\"990\"><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و قد تقدّم في الحديث 222 و 224 ما يدلّ عليه. </footnote>"
+        },
+        {
+          "footnoteId": 714168946,
+          "text": "<footnote id=\"991\"><mnote>(2)</mnote> كلمة: «قال» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168947,
+          "text": "<footnote id=\"992\"><mnote>(3)</mnote> رواه الكليني في الكافي 13/491:6، باب قصّ الأظفار، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن علي بن أسباط، عن خلف، و الطبرسي في مكارم الأخلاق: 10/65، الفصل الأوّل في تقليم الأظفار، عن خلف، و سيأتي بعد قليل ما يدلّ على أنّ تقليم الأظفار في يوم الخميس أمان من الرمد. انظر: الحديث 252 من هذا الجزء. </footnote>"
+        },
+        {
+          "footnoteId": 714168948,
+          "text": "<footnote id=\"993\"><mnote>(4)</mnote> في النسخة: «محمّد بن أبي الصهباء» و هو محمّد بن عبد الجبّار الذي قال عنه في الخلاصة: 26/242: و هو ابن أبي الصهبان...: قمّي، من أصحاب أبي الحسن الثالث الهادي عليه السّلام، ثقة.</footnote>"
+        }
+      ],
+      "pageValue": "163",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2868\" paragraph-id=\"2868\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo163\">163</span> عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«إنّ العين اليمنى تفضّل في الكحل على العين اليسرى»<span><sup><a class=\"NewFn\" href=\"#footnote990\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا، و قد تقدّم في الحديث 222 و 224 ما يدلّ عليه. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2869\" paragraph-id=\"2869\" class=\" G\">[250] </p>\n  <p id=\"p2870\" paragraph-id=\"2870\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن علي بن أيّوب، عن علي بن أسباط، عن خلف بن سلمة، قال:</span> رآني <span class=\"Y\"><span class=\"maasoom\">أبو الحسن الرضا عليه السّلام</span></span> و أنا أرمد، قال: «ألا أدلّك على شيء إذا أنت فعلته لم تشتك عينيك»؟ قلت: بلى.</span>\n  </p>\n  <p id=\"p2871\" paragraph-id=\"2871\" class=\" G\">\n    <span class=\"hadith\">قال: «خذ من أظفارك في كلّ يوم خميس».</span>\n  </p>\n  <p id=\"p2872\" paragraph-id=\"2872\" class=\" G\">\n    <span class=\"hadith\">قال<span><sup><a class=\"NewFn\" href=\"#footnote991\" title=\"(2)  كلمة: «قال» أثبتناها من المصدر. \">2</a></sup></span>: ففعلت و لم تشتك عيني<span><sup><a class=\"NewFn\" href=\"#footnote992\" title=\"(3)  رواه الكليني في الكافي 13/491:6، باب قصّ الأظفار، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن علي بن أسباط، عن خلف، و الطبرسي في مكارم الأخلاق: 10/65، الفصل الأوّل في تقليم الأظفار، عن خلف، و سيأتي بعد قليل ما يدلّ على أنّ تقليم الأظفار في يوم الخميس أمان من الرمد. انظر: الحديث 252 من هذا الجزء. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2873\" paragraph-id=\"2873\" class=\" G\">[251] </p>\n  <p id=\"p2874\" paragraph-id=\"2874\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى محمّد بن أبي الصهبان<span><sup><a class=\"NewFn\" href=\"#footnote993\" title=\"(4)  في النسخة: «محمّد بن أبي الصهباء» و هو محمّد بن عبد الجبّار الذي قال عنه في الخلاصة: 26/242: و هو ابن أبي الصهبان...: قمّي، من أصحاب أبي الحسن الثالث الهادي عليه السّلام، ثقة.\">4</a></sup></span>، عن بعض أصحابنا، عن عيسى بن الوليد، عن رجل، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«نظر <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span> إلى سلمان و هو رمد، قال: متى هاجت عينك‌؟ قال: أمس.</span>\n  </p>\n  <p id=\"p2875\" paragraph-id=\"2875\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote989\" footnote-id=\"989\"><page number=\"163\" />بواسطة أبيه منصور عن أبي عبد الله عليه السّلام و لم يروه عنه عليه السّلام بلا واسطة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote990\" footnote-id=\"990\">(1)  لم نعثر عليه في المصادر المتوفّرة لدينا، و قد تقدّم في الحديث 222 و 224 ما يدلّ عليه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote991\" footnote-id=\"991\">(2)  كلمة: «قال» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote992\" footnote-id=\"992\">(3)  رواه الكليني في الكافي 13/491:6، باب قصّ الأظفار، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن علي بن أسباط، عن خلف، و الطبرسي في مكارم الأخلاق: 10/65، الفصل الأوّل في تقليم الأظفار، عن خلف، و سيأتي بعد قليل ما يدلّ على أنّ تقليم الأظفار في يوم الخميس أمان من الرمد. انظر: الحديث 252 من هذا الجزء. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote993\" footnote-id=\"993\">(4)  في النسخة: «محمّد بن أبي الصهباء» و هو محمّد بن عبد الجبّار الذي قال عنه في الخلاصة: 26/242: و هو ابن أبي الصهبان...: قمّي، من أصحاب أبي الحسن الثالث الهادي عليه السّلام، ثقة.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "396BCAFF-D807-43B9-A484-7939C9E1BE6B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 221,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170646,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1901\"><page number=\"221\"/>[308] </p>"
+        },
+        {
+          "paragraphId": 714170647,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1902\"><format class=\"hadith\" who=\"6\" Id=\"304\" RevayatIndex=\"825\"><format class=\"sanadHadith\">أحمد بن محمّد، عن الحسن بن علي بن فضّال، عن ثعلبة بن ميمون، عن أسباط، عن إسرائيل بن<lfootnote noteId=\"904\">1</lfootnote> أسامة بيّاع الزطّي قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>:</format></format></p>"
+        },
+        {
+          "paragraphId": 714170648,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1903\"><format class=\"hadith\" who=\"6\" Id=\"304\" RevayatIndex=\"825\">«البنفسج سيّد الأدهان»<lfootnote noteId=\"905\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170649,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1904\">[309] </p>"
+        },
+        {
+          "paragraphId": 714170650,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1905\"><format class=\"hadith\" who=\"6\" Id=\"305\" RevayatIndex=\"826\"><format class=\"sanadHadith\">محمّد بن عيسى بن عبيد، عن رجل، عن ابن الفيض، قال:</format> ذكرت الأدهان عند <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، فذكر البنفسج و فضله، فقال: «نعم الدهن البنفسج، ادّهنوا به؛ فإنّ فضله على سائر الأدهان كفضلنا على الناس»<lfootnote noteId=\"906\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170651,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1906\">[310] </p>"
+        },
+        {
+          "paragraphId": 714170652,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1907\"><format class=\"hadith\" who=\"6\" Id=\"306\" RevayatIndex=\"827\"><format class=\"sanadHadith\">أحمد بن محمّد، عن عثمان بن عيسى، عن خالد بن نجيح<lfootnote noteId=\"907\">4</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«مثل البنفسج في الدهن كمثل شيعتنا في الناس»<lfootnote noteId=\"908\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170653,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1908\">[311] </p>"
+        },
+        {
+          "paragraphId": 714170654,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1909\"><format class=\"hadith\" who=\"5\" Id=\"307\" RevayatIndex=\"828\"><format class=\"sanadHadith\">أحمد بن محمّد، عن الحسن بن محبوب، عن عبد الله بن سنان، عن <page number=\"222\"/> أبي حمزة الثمالي، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format><lfootnote noteId=\"909\">1</lfootnote>، قال: </format>«دهن الليل<lfootnote noteId=\"910\">2</lfootnote> يجري في العروق، و يروي البشرة، و يبيّض الوجه»<lfootnote noteId=\"911\">3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171256,
+          "text": "<footnote id=\"904\"><page number=\"221\"/><mnote>(1)</mnote> في النسخة: «عن» بدل «بن»، و الصحيح ما أثبتناه؛ إذ أنّ أسباط بن سالم يروي عن إسرائيل بن أسامة الكوفي، بيّاع الزطي. انظر: رجال البرقي: 26، رجال الطوسي:<br/>201/165. و في الكافي 4/521:6: اسرائيل بن أبي اسامة. </footnote>"
+        },
+        {
+          "footnoteId": 714171257,
+          "text": "<footnote id=\"905\"><mnote>(2)</mnote> رواه ابنا بسطام في طبّ الأئمة عليهم السّلام 93: فقالا: في باب دهن البنفسج، حسام بن محمّد، قال: حدثنا سعد بن جناب، عن محمّد بن أبي عمير، عن هشام بن الحكم، قال: قال أبو عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 5/48، في الدهن، عن الصادق عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171258,
+          "text": "<footnote id=\"906\"><mnote>(3)</mnote> رواه بزيادة في آخره الكليني في الكافي 1/523:6، باب دهن البان، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، عن محمّد بن الفيض، قال: ذكرت عند أبي عبد الله عليه السّلام الأدهان...، فقال: «كفضلنا على الناس، و البان دهن ذكر، نعم الدهن البان، و إنّه ليعجبني الخلوق». </footnote>"
+        },
+        {
+          "footnoteId": 714171259,
+          "text": "<footnote id=\"907\"><mnote>(4)</mnote> في النسخة: «عن خالد بن يحيى» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171260,
+          "text": "<footnote id=\"908\"><mnote>(5)</mnote> رواه بزيادة في آخره الكليني في الكافي 10/522:6، باب دهن البنفسج، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن عثمان بن عيسى.</footnote>"
+        }
+      ],
+      "pageValue": "221",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1901\" paragraph-id=\"1901\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo221\">221</span>[308] </p>\n  <p id=\"p1902\" paragraph-id=\"1902\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أحمد بن محمّد، عن الحسن بن علي بن فضّال، عن ثعلبة بن ميمون، عن أسباط، عن إسرائيل بن<span><sup><a class=\"NewFn\" href=\"#footnote904\" title=\"(1)  في النسخة: «عن» بدل «بن»، و الصحيح ما أثبتناه؛ إذ أنّ أسباط بن سالم يروي عن إسرائيل بن أسامة الكوفي، بيّاع الزطي. انظر: رجال البرقي: 26، رجال الطوسي:201/165. و في الكافي 4/521:6: اسرائيل بن أبي اسامة. \">1</a></sup></span> أسامة بيّاع الزطّي قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>:</span>\n    </span>\n  </p>\n  <p id=\"p1903\" paragraph-id=\"1903\" class=\" G\">\n    <span class=\"hadith\">«البنفسج سيّد الأدهان»<span><sup><a class=\"NewFn\" href=\"#footnote905\" title=\"(2)  رواه ابنا بسطام في طبّ الأئمة عليهم السّلام 93: فقالا: في باب دهن البنفسج، حسام بن محمّد، قال: حدثنا سعد بن جناب، عن محمّد بن أبي عمير، عن هشام بن الحكم، قال: قال أبو عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 5/48، في الدهن، عن الصادق عليه السّلام. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1904\" paragraph-id=\"1904\" class=\" G\">[309] </p>\n  <p id=\"p1905\" paragraph-id=\"1905\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن عيسى بن عبيد، عن رجل، عن ابن الفيض، قال:</span> ذكرت الأدهان عند <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، فذكر البنفسج و فضله، فقال: «نعم الدهن البنفسج، ادّهنوا به؛ فإنّ فضله على سائر الأدهان كفضلنا على الناس»<span><sup><a class=\"NewFn\" href=\"#footnote906\" title=\"(3)  رواه بزيادة في آخره الكليني في الكافي 1/523:6، باب دهن البان، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، عن محمّد بن الفيض، قال: ذكرت عند أبي عبد الله عليه السّلام الأدهان...، فقال: «كفضلنا على الناس، و البان دهن ذكر، نعم الدهن البان، و إنّه ليعجبني الخلوق». \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1906\" paragraph-id=\"1906\" class=\" G\">[310] </p>\n  <p id=\"p1907\" paragraph-id=\"1907\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أحمد بن محمّد، عن عثمان بن عيسى، عن خالد بن نجيح<span><sup><a class=\"NewFn\" href=\"#footnote907\" title=\"(4)  في النسخة: «عن خالد بن يحيى» و ما أثبتناه من الكافي. \">4</a></sup></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«مثل البنفسج في الدهن كمثل شيعتنا في الناس»<span><sup><a class=\"NewFn\" href=\"#footnote908\" title=\"(5)  رواه بزيادة في آخره الكليني في الكافي 10/522:6، باب دهن البنفسج، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن عثمان بن عيسى.\">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1908\" paragraph-id=\"1908\" class=\" G\">[311] </p>\n  <p id=\"p1909\" paragraph-id=\"1909\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أحمد بن محمّد، عن الحسن بن محبوب، عن عبد الله بن سنان، عن </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote904\" footnote-id=\"904\">(1) <page number=\"221\" /> في النسخة: «عن» بدل «بن»، و الصحيح ما أثبتناه؛ إذ أنّ أسباط بن سالم يروي عن إسرائيل بن أسامة الكوفي، بيّاع الزطي. انظر: رجال البرقي: 26، رجال الطوسي:<br />201/165. و في الكافي 4/521:6: اسرائيل بن أبي اسامة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote905\" footnote-id=\"905\">(2)  رواه ابنا بسطام في طبّ الأئمة عليهم السّلام 93: فقالا: في باب دهن البنفسج، حسام بن محمّد، قال: حدثنا سعد بن جناب، عن محمّد بن أبي عمير، عن هشام بن الحكم، قال: قال أبو عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 5/48، في الدهن، عن الصادق عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote906\" footnote-id=\"906\">(3)  رواه بزيادة في آخره الكليني في الكافي 1/523:6، باب دهن البان، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، عن محمّد بن الفيض، قال: ذكرت عند أبي عبد الله عليه السّلام الأدهان...، فقال: «كفضلنا على الناس، و البان دهن ذكر، نعم الدهن البان، و إنّه ليعجبني الخلوق». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote907\" footnote-id=\"907\">(4)  في النسخة: «عن خالد بن يحيى» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote908\" footnote-id=\"908\">(5)  رواه بزيادة في آخره الكليني في الكافي 10/522:6، باب دهن البنفسج، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن عثمان بن عيسى.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "156B1A1C-829F-4429-A4DD-C4A4AA1B39A4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

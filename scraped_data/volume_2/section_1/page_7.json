@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 7,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169715,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"970\"><page number=\"7\"/>[5] </p>"
+        },
+        {
+          "paragraphId": 714169716,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"971\"><format class=\"hadith\" who=\"6\" Id=\"5\" RevayatIndex=\"526\"><format class=\"sanadHadith\">و عنه قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم،</format></format></p>"
+        },
+        {
+          "paragraphId": 714169717,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"972\"><format class=\"hadith\" who=\"6\" Id=\"5\" RevayatIndex=\"526\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن الحسن بن ظريف جميعاً،</format></format></p>"
+        },
+        {
+          "paragraphId": 714169718,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"973\"><format class=\"hadith\" who=\"6\" Id=\"5\" RevayatIndex=\"526\"><format class=\"sanadHadith\">عن ابن أبي عمير، عن هشام بن سالم<lfootnote noteId=\"10\">1</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>: </format>«أكل<lfootnote noteId=\"11\">2</lfootnote>الحيتان يورث السلّ‌»<lfootnote noteId=\"12\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169719,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"974\">[6] </p>"
+        },
+        {
+          "paragraphId": 714169720,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"975\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"527\"><format class=\"sanadHadith\">و بإسناده عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«ثلاث لا يؤكلن<lfootnote noteId=\"13\">4</lfootnote> فيسمنّ‌، و ثلاث يؤكلن فيهزلن، و اثنان ينفعان من كلّ شيء و لا يضرّان من شيء.</format></p>"
+        },
+        {
+          "paragraphId": 714169721,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"976\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"527\">فاللاتي لا يؤكلن فيسمنّ‌: استشعار الكتان<lfootnote noteId=\"14\">5</lfootnote>، و الطيب، و النورة، و اللاتي يؤكلن و يهزلن: اللحم اليابس، و الطلع، و الجبن».</format></p>"
+        },
+        {
+          "paragraphId": 714169722,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"977\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"527\"><page number=\"8\"/><format class=\"sanadHadith\">و في حديث آخر</format>: «الكسب»<lfootnote noteId=\"15\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170793,
+          "text": "<footnote id=\"9\"><mnote>(5)</mnote> روى البرقي نحوه في المحاسن 4/476:2، باب السمك و الحيتان، عن أبي القاسم و يعقوب بن يزيد، عن القندي، عن ابن سنان و أبي البختري، عن أبي عبد الله عليه السّلام قال:<br/>«السمك الطري يذيب الجسد»، عنه، عن علي بن حسان، عن موسى بن بكر القصير، عن أبي الحسن عليه السّلام، مثله، و الكليني في الكافي 7/323:6، باب السمك، عن سهل بن زياد، عن علي بن حسان، و الطبرسي في مكارم الأخلاق: 2/16 في السمك، عنه عليه السّلام، = <page number=\"7\"/>و روي ما في معناه مع ما يشابهه في بعض الألفاظ أنّ أكل السمك أو الحيتان أو السمك الطري أو إدمان الأكل يذيب البدن أو الجسد أو اللحم أو شحم العين أو...<br/>و نقل العامّة أيضا عن أمير المؤمنين عليه السّلام أنّه عليه السّلام قال: «و السمك يذيب الجسد». لا حظ:<br/>كنز العمّال 28472/86:10. </footnote>"
+        },
+        {
+          "footnoteId": 714170794,
+          "text": "<footnote id=\"10\"><mnote>(1)</mnote> في النسخة: «هشام بن خلد» و ما أثبتناه من المحاسن. </footnote>"
+        },
+        {
+          "footnoteId": 714170795,
+          "text": "<footnote id=\"11\"><mnote>(2)</mnote> كلمة: «أكل» أثبتناها من المحاسن. </footnote>"
+        },
+        {
+          "footnoteId": 714170796,
+          "text": "<footnote id=\"12\"><mnote>(3)</mnote> رواه البرقي في المحاسن 11/476:2، باب الحيتان و السمك، عن أبيه، عن ابن أبي عمير، و الطبرسي نحوه في مكارم الأخلاق: 1/161، في السمك، عن الصادق عليه السّلام قال: «أكل لحم الحيتان يورث السلّ‌». </footnote>"
+        },
+        {
+          "footnoteId": 714170797,
+          "text": "<footnote id=\"13\"><mnote>(4)</mnote> في النسخة: «يؤكلهنّ‌» و كذا الموارد الآتية و هو تصحيف، و ما أثبتناه من المحاسن. </footnote>"
+        },
+        {
+          "footnoteId": 714170798,
+          "text": "<footnote id=\"14\"><mnote>(5)</mnote> في النسخة: «فاستشعار» و ما أثبتناه من المصدر، و الشعار ككتاب بكسر الشين و فتحها: ما تحت الدثار من اللباس و هو يلي شعر الجسد و استشعاره لبسه. الوافي 298:19. </footnote>"
+        }
+      ],
+      "pageValue": "7",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p970\" paragraph-id=\"970\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo7\">7</span>[5] </p>\n  <p id=\"p971\" paragraph-id=\"971\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم،</span>\n    </span>\n  </p>\n  <p id=\"p972\" paragraph-id=\"972\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن الحسن بن ظريف جميعاً،</span>\n    </span>\n  </p>\n  <p id=\"p973\" paragraph-id=\"973\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">عن ابن أبي عمير، عن هشام بن سالم<span><sup><a class=\"NewFn\" href=\"#footnote10\" title=\"(1)  في النسخة: «هشام بن خلد» و ما أثبتناه من المحاسن. \">1</a></sup></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>: </span>«أكل<span><sup><a class=\"NewFn\" href=\"#footnote11\" title=\"(2)  كلمة: «أكل» أثبتناها من المحاسن. \">2</a></sup></span>الحيتان يورث السلّ‌»<span><sup><a class=\"NewFn\" href=\"#footnote12\" title=\"(3)  رواه البرقي في المحاسن 11/476:2، باب الحيتان و السمك، عن أبيه، عن ابن أبي عمير، و الطبرسي نحوه في مكارم الأخلاق: 1/161، في السمك، عن الصادق عليه السّلام قال: «أكل لحم الحيتان يورث السلّ‌». \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p974\" paragraph-id=\"974\" class=\" G\">[6] </p>\n  <p id=\"p975\" paragraph-id=\"975\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و بإسناده عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«ثلاث لا يؤكلن<span><sup><a class=\"NewFn\" href=\"#footnote13\" title=\"(4)  في النسخة: «يؤكلهنّ‌» و كذا الموارد الآتية و هو تصحيف، و ما أثبتناه من المحاسن. \">4</a></sup></span> فيسمنّ‌، و ثلاث يؤكلن فيهزلن، و اثنان ينفعان من كلّ شيء و لا يضرّان من شيء.</span>\n  </p>\n  <p id=\"p976\" paragraph-id=\"976\" class=\" G\">\n    <span class=\"hadith\">فاللاتي لا يؤكلن فيسمنّ‌: استشعار الكتان<span><sup><a class=\"NewFn\" href=\"#footnote14\" title=\"(5)  في النسخة: «فاستشعار» و ما أثبتناه من المصدر، و الشعار ككتاب بكسر الشين و فتحها: ما تحت الدثار من اللباس و هو يلي شعر الجسد و استشعاره لبسه. الوافي 298:19. \">5</a></sup></span>، و الطيب، و النورة، و اللاتي يؤكلن و يهزلن: اللحم اليابس، و الطلع، و الجبن».</span>\n  </p>\n  <p id=\"p977\" paragraph-id=\"977\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote9\" footnote-id=\"9\"><page number=\"7\" />و روي ما في معناه مع ما يشابهه في بعض الألفاظ أنّ أكل السمك أو الحيتان أو السمك الطري أو إدمان الأكل يذيب البدن أو الجسد أو اللحم أو شحم العين أو...<br />و نقل العامّة أيضا عن أمير المؤمنين عليه السّلام أنّه عليه السّلام قال: «و السمك يذيب الجسد». لا حظ:<br />كنز العمّال 28472/86:10. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote10\" footnote-id=\"10\">(1)  في النسخة: «هشام بن خلد» و ما أثبتناه من المحاسن. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote11\" footnote-id=\"11\">(2)  كلمة: «أكل» أثبتناها من المحاسن. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote12\" footnote-id=\"12\">(3)  رواه البرقي في المحاسن 11/476:2، باب الحيتان و السمك، عن أبيه، عن ابن أبي عمير، و الطبرسي نحوه في مكارم الأخلاق: 1/161، في السمك، عن الصادق عليه السّلام قال: «أكل لحم الحيتان يورث السلّ‌». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote13\" footnote-id=\"13\">(4)  في النسخة: «يؤكلهنّ‌» و كذا الموارد الآتية و هو تصحيف، و ما أثبتناه من المحاسن. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote14\" footnote-id=\"14\">(5)  في النسخة: «فاستشعار» و ما أثبتناه من المصدر، و الشعار ككتاب بكسر الشين و فتحها: ما تحت الدثار من اللباس و هو يلي شعر الجسد و استشعاره لبسه. الوافي 298:19. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "587C441D-2BE5-4A77-8797-1C36B3D4A340",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

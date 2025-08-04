@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 229,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167462,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3208\"><format class=\"hadith\" who=\"5,6\" Id=\"369\" RevayatIndex=\"369\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن بكر بن صالح، عن عبد الله<lfootnote noteId=\"1285\">4</lfootnote> قال: حدّثني لوط بن إسحاق الهاشمي من ولد <page number=\"229\"/>ربيعة بن الحارث<lfootnote noteId=\"1286\">1</lfootnote>، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">جعفر بن محمّد</format></format>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبيه عليهما السّلام</format></format> قال: </format>«شكى نبيّ من الأنبياء إلى الله تعالى الغمّ‌، فأوحى إليه: كل العنب»<lfootnote noteId=\"1287\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167463,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3209\"><heading level=\"2\">[باب] في نفخة [البطن و وجع] الكبد </heading></p>"
+        },
+        {
+          "paragraphId": 714167464,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3210\">[372] </p>"
+        },
+        {
+          "paragraphId": 714167465,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3211\"><format class=\"hadith\" who=\"6\" Id=\"370\" RevayatIndex=\"370\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه شكا إليه بعضهم فقال:</format> إنّي أجد ضعف الركبتين و وجع الكبد و نفخة أجدها في بطني، شبعانا كنت أو جائعا.</format></p>"
+        },
+        {
+          "paragraphId": 714167466,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3212\"><format class=\"hadith\" who=\"6\" Id=\"370\" RevayatIndex=\"370\">فقال له: «الزم أكل النبق<lfootnote noteId=\"1288\">3</lfootnote> على الريق و خبز الشعير بالملح عن الشبع». قال:</format></p>"
+        },
+        {
+          "paragraphId": 714167467,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3213\"><format class=\"hadith\" who=\"6\" Id=\"370\" RevayatIndex=\"370\">فأخذته فذهب ما كان بي و الحمد لله<lfootnote noteId=\"1289\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167468,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3214\">[373] </p>"
+        },
+        {
+          "paragraphId": 714167469,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3215\"><format class=\"hadith\" who=\"6\" Id=\"371\" RevayatIndex=\"371\"><format class=\"sanadHadith\">روى علي بن إبراهيم، عن محسن الوشّاء قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي <page number=\"230\"/> عبد الله عليه السّلام</format></format> وجع الكبد و الربو<lfootnote noteId=\"1290\">1</lfootnote>، فدعا بالفاصد ففصدني من قدمي.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169028,
+          "text": "<footnote id=\"1285\"><mnote>(4)</mnote> يبدو أنّ هذا الراوي هو أبو محمّد عبد الله بن إبراهيم بن أبي عمرو الغفاري، دون أبي محمّد عبد الله الجعفري بن إبراهيم بن محمّد بن علي بن عبد الله بن جعفر بن أبي طالب؛ <page number=\"229\"/>و ذلك لأنّ بكر بن صالح و إن روى عن كليهما إلّا أنّ الذي روى عن لوط بن إسحاق هو عبد الله الغفاري دون الجعفري. انظر: ثواب الأعمال: 149، رجال النجاشي: 590/225، فهرست الطوسي: 2/434/166 و 3/435. </footnote>"
+        },
+        {
+          "footnoteId": 714169029,
+          "text": "<footnote id=\"1286\"><mnote>(1)</mnote> في النسخة: «عن ولد ربيعة بن الحرث»، و الصحيح ما أثبتناه؛ إذ الراوي هو أبو المغيرة لوط بن إسحاق بن المغيرة بن نوفل بن الحارث بن عبد المطلب بن ربيعة بن الحارث بن عبد المطلب القرشي، الهاشمي، المدني، محدّث، وثّقه بعض العامّة. توفّي في عهد المنصور العباسي الدوانيقي الذي مات سنة 158 ه‍. </footnote>"
+        },
+        {
+          "footnoteId": 714169030,
+          "text": "<footnote id=\"1287\"><mnote>(2)</mnote> رواه البرقي في المحاسن 9/547:2، باب العنب، عن بكر بن صالح، عن أبي عبد الله عليه السّلام، و الكليني في الكافي 4/358:6، باب العنب، عن عدّة من أصحابنا، عن أحمد بن محمّد، عن بكر بن صالح، رفعه عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/174، باب العنب، عن الصادق عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169031,
+          "text": "<footnote id=\"1288\"><mnote>(3)</mnote> النّبق: ثمرة السدر، واحدتها نبقة بكسر الباء أيضا، أشبه شيء بها العنّاب قبل أن تشتدّ حمرته، و الجمع نبقات. مجمع البحرين 237:5 «نبق». </footnote>"
+        },
+        {
+          "footnoteId": 714169032,
+          "text": "<footnote id=\"1289\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا.</footnote>"
+        }
+      ],
+      "pageValue": "229",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3208\" paragraph-id=\"3208\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo229\">229</span>ربيعة بن الحارث<span><sup><a class=\"NewFn\" href=\"#footnote1286\" title=\"(1)  في النسخة: «عن ولد ربيعة بن الحرث»، و الصحيح ما أثبتناه؛ إذ الراوي هو أبو المغيرة لوط بن إسحاق بن المغيرة بن نوفل بن الحارث بن عبد المطلب بن ربيعة بن الحارث بن عبد المطلب القرشي، الهاشمي، المدني، محدّث، وثّقه بعض العامّة. توفّي في عهد المنصور العباسي الدوانيقي الذي مات سنة 158 ه‍. \">1</a></sup></span>، عن <span class=\"HQ\"><span class=\"maasoom\">جعفر بن محمّد</span></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبيه عليهما السّلام</span></span> قال: </span>«شكى نبيّ من الأنبياء إلى الله تعالى الغمّ‌، فأوحى إليه: كل العنب»<span><sup><a class=\"NewFn\" href=\"#footnote1287\" title=\"(2)  رواه البرقي في المحاسن 9/547:2، باب العنب، عن بكر بن صالح، عن أبي عبد الله عليه السّلام، و الكليني في الكافي 4/358:6، باب العنب، عن عدّة من أصحابنا، عن أحمد بن محمّد، عن بكر بن صالح، رفعه عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/174، باب العنب، عن الصادق عليه السّلام. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3209\" paragraph-id=\"3209\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في نفخة [البطن و وجع] الكبد </strong>\n  </p>\n  <p id=\"p3210\" paragraph-id=\"3210\" class=\" G\">[372] </p>\n  <p id=\"p3211\" paragraph-id=\"3211\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه شكا إليه بعضهم فقال:</span> إنّي أجد ضعف الركبتين و وجع الكبد و نفخة أجدها في بطني، شبعانا كنت أو جائعا.</span>\n  </p>\n  <p id=\"p3212\" paragraph-id=\"3212\" class=\" G\">\n    <span class=\"hadith\">فقال له: «الزم أكل النبق<span><sup><a class=\"NewFn\" href=\"#footnote1288\" title=\"(3)  النّبق: ثمرة السدر، واحدتها نبقة بكسر الباء أيضا، أشبه شيء بها العنّاب قبل أن تشتدّ حمرته، و الجمع نبقات. مجمع البحرين 237:5 «نبق». \">3</a></sup></span> على الريق و خبز الشعير بالملح عن الشبع». قال:</span>\n  </p>\n  <p id=\"p3213\" paragraph-id=\"3213\" class=\" G\">\n    <span class=\"hadith\">فأخذته فذهب ما كان بي و الحمد لله<span><sup><a class=\"NewFn\" href=\"#footnote1289\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا.\">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3214\" paragraph-id=\"3214\" class=\" G\">[373] </p>\n  <p id=\"p3215\" paragraph-id=\"3215\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى علي بن إبراهيم، عن محسن الوشّاء قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي </span></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1285\" footnote-id=\"1285\"><page number=\"229\" />و ذلك لأنّ بكر بن صالح و إن روى عن كليهما إلّا أنّ الذي روى عن لوط بن إسحاق هو عبد الله الغفاري دون الجعفري. انظر: ثواب الأعمال: 149، رجال النجاشي: 590/225، فهرست الطوسي: 2/434/166 و 3/435. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1286\" footnote-id=\"1286\">(1)  في النسخة: «عن ولد ربيعة بن الحرث»، و الصحيح ما أثبتناه؛ إذ الراوي هو أبو المغيرة لوط بن إسحاق بن المغيرة بن نوفل بن الحارث بن عبد المطلب بن ربيعة بن الحارث بن عبد المطلب القرشي، الهاشمي، المدني، محدّث، وثّقه بعض العامّة. توفّي في عهد المنصور العباسي الدوانيقي الذي مات سنة 158 ه‍. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1287\" footnote-id=\"1287\">(2)  رواه البرقي في المحاسن 9/547:2، باب العنب، عن بكر بن صالح، عن أبي عبد الله عليه السّلام، و الكليني في الكافي 4/358:6، باب العنب، عن عدّة من أصحابنا، عن أحمد بن محمّد، عن بكر بن صالح، رفعه عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/174، باب العنب، عن الصادق عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1288\" footnote-id=\"1288\">(3)  النّبق: ثمرة السدر، واحدتها نبقة بكسر الباء أيضا، أشبه شيء بها العنّاب قبل أن تشتدّ حمرته، و الجمع نبقات. مجمع البحرين 237:5 «نبق». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1289\" footnote-id=\"1289\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "7E99C141-5C34-4043-8276-284CC6656EDE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

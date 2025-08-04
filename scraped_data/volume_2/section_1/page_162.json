@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 162,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170360,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1615\"><format class=\"hadith\" who=\"7\" Id=\"217\" RevayatIndex=\"738\"><format class=\"sanadHadith\">روى الحسن بن خالد قال:</format> كتبت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي إبراهيم عليه السّلام</format></format>، أشكو إليه <page number=\"162\"/> علّة بطني و أسأله الدعاء.</format></p>"
+        },
+        {
+          "paragraphId": 714170361,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1616\"><format class=\"hadith\" who=\"7\" Id=\"217\" RevayatIndex=\"738\">فكتب إليّ‌: «بسم الله الرحمن الرحيم أن...<lfootnote noteId=\"658\">1</lfootnote> تكتب امّ القرآن، و المعوّذتين، و <format class=\"ayah\" surah=\"112\" ayah=\"1\" toAyah=\"\">قُلْ هُوَ اَللّٰهُ أَحَدٌ<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"112\" ayah=\"1\" toAyah=\"\"/></format>، ثمّ اكتب أسفل ذلك: <format class=\"semicolon\">أعوذ بوجه الله العظيم، و عزّته الّتي لا ترام، و قدرته الّتي لا يمتنع منها شيء من هذا الوجع و من شرّ ما فيه و من شرّ ما أحذر منه</format>»<lfootnote noteId=\"659\">2</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170362,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1617\"><heading level=\"2\">[باب] دعاء لكلّ وجع </heading></p>"
+        },
+        {
+          "paragraphId": 714170363,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1618\">[221] </p>"
+        },
+        {
+          "paragraphId": 714170364,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1619\"><format class=\"hadith\" who=\"6\" Id=\"218\" RevayatIndex=\"739\"><format class=\"sanadHadith\">روى المفضّل بن عمر، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format></format> للأوجاع، قال: «تقول:</format></p>"
+        },
+        {
+          "paragraphId": 714170365,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1620\"><format class=\"hadith\" who=\"6\" Id=\"218\" RevayatIndex=\"739\"><format class=\"semicolon\">بسم الله و بالله، كم نعمة لله في عرق ساكن و غير ساكن<lfootnote noteId=\"660\">3</lfootnote>، على عبد شاكر و غير شاكر</format>، و تأخذ لحيتك بيدك اليمني بعد كلّ صلاة و تقول: <format class=\"semicolon\">اللّهمّ عجّل عافيتي و اكشف كربتي و اكشف ضرّي، ثلاث مرّات، و احرص أن يكون مع ذلك دموع و بكاء</format>»<lfootnote noteId=\"661\">4</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170366,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1621\"><page number=\"163\"/><heading level=\"2\">[باب إمساك البطن]<lfootnote noteId=\"662\">1</lfootnote></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171455,
+          "text": "<footnote id=\"658\"><page number=\"162\"/><mnote>(1)</mnote> كلمة غير مقروءة. </footnote>"
+        },
+        {
+          "footnoteId": 714171456,
+          "text": "<footnote id=\"659\"><mnote>(2)</mnote> تقدّم نحو هذه العوذة في الحديثين 414 و 499 من الجزء الأوّل و استخرجنا مصادرها، فانظرها. </footnote>"
+        },
+        {
+          "footnoteId": 714171457,
+          "text": "<footnote id=\"660\"><mnote>(3)</mnote> قوله: «و غير ساكن» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171458,
+          "text": "<footnote id=\"661\"><mnote>(4)</mnote> رواه الكليني في الكافي 7/565:2، باب الدعاء للعلل و الأمراض، فقال: عنه [أي:<br/>عن بعض أصحابه الذي ذكره في الحديث السابق بقوله: عن محمّد بن يحيى، عن بعض أصحابه] عن محمّد بن عيسى، عن داود، عن مفضّل، عن أبي عبد الله عليه السّلام، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 116، و عن المفضّل بن عمر الجعفي، عن أبي عبد الله الصادق عليه السّلام، و الطبرسي في مكارم الأخلاق: 390، فقال: دعاء آخر: قال الصادق عليه السّلام: «تقول...». </footnote>"
+        }
+      ],
+      "pageValue": "162",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1615\" paragraph-id=\"1615\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo162\">162</span> علّة بطني و أسأله الدعاء.</span>\n  </p>\n  <p id=\"p1616\" paragraph-id=\"1616\" class=\" G\">\n    <span class=\"hadith\">فكتب إليّ‌: «بسم الله الرحمن الرحيم أن...<span><sup><a class=\"NewFn\" href=\"#footnote658\" title=\"(1)  كلمة غير مقروءة. \">1</a></sup></span> تكتب امّ القرآن، و المعوّذتين، و <span style=\"0\" class=\"ayah\" surah=\"112\" ayah=\"1\">قُلْ هُوَ اَللّٰهُ أَحَدٌ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/112/1\"></a></span></span>، ثمّ اكتب أسفل ذلك: <span class=\"semicolon\">أعوذ بوجه الله العظيم، و عزّته الّتي لا ترام، و قدرته الّتي لا يمتنع منها شيء من هذا الوجع و من شرّ ما فيه و من شرّ ما أحذر منه</span>»<span><sup><a class=\"NewFn\" href=\"#footnote659\" title=\"(2)  تقدّم نحو هذه العوذة في الحديثين 414 و 499 من الجزء الأوّل و استخرجنا مصادرها، فانظرها. \">2</a></sup></span>. </span>\n  </p>\n  <p id=\"p1617\" paragraph-id=\"1617\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] دعاء لكلّ وجع </strong>\n  </p>\n  <p id=\"p1618\" paragraph-id=\"1618\" class=\" G\">[221] </p>\n  <p id=\"p1619\" paragraph-id=\"1619\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى المفضّل بن عمر، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span></span> للأوجاع، قال: «تقول:</span>\n  </p>\n  <p id=\"p1620\" paragraph-id=\"1620\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"semicolon\">بسم الله و بالله، كم نعمة لله في عرق ساكن و غير ساكن<span><sup><a class=\"NewFn\" href=\"#footnote660\" title=\"(3)  قوله: «و غير ساكن» أثبتناه من المصدر. \">3</a></sup></span>، على عبد شاكر و غير شاكر</span>، و تأخذ لحيتك بيدك اليمني بعد كلّ صلاة و تقول: <span class=\"semicolon\">اللّهمّ عجّل عافيتي و اكشف كربتي و اكشف ضرّي، ثلاث مرّات، و احرص أن يكون مع ذلك دموع و بكاء</span>»<span><sup><a class=\"NewFn\" href=\"#footnote661\" title=\"(4)  رواه الكليني في الكافي 7/565:2، باب الدعاء للعلل و الأمراض، فقال: عنه [أي:عن بعض أصحابه الذي ذكره في الحديث السابق بقوله: عن محمّد بن يحيى، عن بعض أصحابه] عن محمّد بن عيسى، عن داود، عن مفضّل، عن أبي عبد الله عليه السّلام، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 116، و عن المفضّل بن عمر الجعفي، عن أبي عبد الله الصادق عليه السّلام، و الطبرسي في مكارم الأخلاق: 390، فقال: دعاء آخر: قال الصادق عليه السّلام: «تقول...». \">4</a></sup></span>. </span>\n  </p>\n  <p id=\"p1621\" paragraph-id=\"1621\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote658\" footnote-id=\"658\">(1) <page number=\"162\" /> كلمة غير مقروءة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote659\" footnote-id=\"659\">(2)  تقدّم نحو هذه العوذة في الحديثين 414 و 499 من الجزء الأوّل و استخرجنا مصادرها، فانظرها. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote660\" footnote-id=\"660\">(3)  قوله: «و غير ساكن» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote661\" footnote-id=\"661\">(4)  رواه الكليني في الكافي 7/565:2، باب الدعاء للعلل و الأمراض، فقال: عنه [أي:<br />عن بعض أصحابه الذي ذكره في الحديث السابق بقوله: عن محمّد بن يحيى، عن بعض أصحابه] عن محمّد بن عيسى، عن داود، عن مفضّل، عن أبي عبد الله عليه السّلام، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 116، و عن المفضّل بن عمر الجعفي، عن أبي عبد الله الصادق عليه السّلام، و الطبرسي في مكارم الأخلاق: 390، فقال: دعاء آخر: قال الصادق عليه السّلام: «تقول...». </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "763480EA-7890-43C9-997F-C088A0BD4A67",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 332,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170782,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1960\"><img src=\"BK126314G002S1P301\" alt=\"\" imgtype=\"Scan\"/><page number=\"302\"/><img src=\"BK126314G002S1P302\" alt=\"\" imgtype=\"Scan\"/><page number=\"303\"/><img src=\"BK126314G002S1P303\" alt=\"\" imgtype=\"Scan\"/><page number=\"304\"/><img src=\"BK126314G002S1P304\" alt=\"\" imgtype=\"Scan\"/><page number=\"305\"/><img src=\"BK126314G002S1P305\" alt=\"\" imgtype=\"Scan\"/><page number=\"306\"/><img src=\"BK126314G002S1P306\" alt=\"\" imgtype=\"Scan\"/><page number=\"307\"/><img src=\"BK126314G002S1P307\" alt=\"\" imgtype=\"Scan\"/><page number=\"308\"/><img src=\"BK126314G002S1P308\" alt=\"\" imgtype=\"Scan\"/><page number=\"309\"/><img src=\"BK126314G002S1P309\" alt=\"\" imgtype=\"Scan\"/><page number=\"310\"/><img src=\"BK126314G002S1P310\" alt=\"\" imgtype=\"Scan\"/><page number=\"311\"/><img src=\"BK126314G002S1P311\" alt=\"\" imgtype=\"Scan\"/><page number=\"312\"/><img src=\"BK126314G002S1P312\" alt=\"\" imgtype=\"Scan\"/><page number=\"313\"/><img src=\"BK126314G002S1P313\" alt=\"\" imgtype=\"Scan\"/><page number=\"314\"/><img src=\"BK126314G002S1P314\" alt=\"\" imgtype=\"Scan\"/><page number=\"315\"/><img src=\"BK126314G002S1P315\" alt=\"\" imgtype=\"Scan\"/><page number=\"316\"/><img src=\"BK126314G002S1P316\" alt=\"\" imgtype=\"Scan\"/><page number=\"317\"/><img src=\"BK126314G002S1P317\" alt=\"\" imgtype=\"Scan\"/><page number=\"318\"/><img src=\"BK126314G002S1P318\" alt=\"\" imgtype=\"Scan\"/><page number=\"319\"/><img src=\"BK126314G002S1P319\" alt=\"\" imgtype=\"Scan\"/><page number=\"320\"/><img src=\"BK126314G002S1P320\" alt=\"\" imgtype=\"Scan\"/><page number=\"321\"/><img src=\"BK126314G002S1P321\" alt=\"\" imgtype=\"Scan\"/><page number=\"322\"/><img src=\"BK126314G002S1P322\" alt=\"\" imgtype=\"Scan\"/><page number=\"323\"/><img src=\"BK126314G002S1P323\" alt=\"\" imgtype=\"Scan\"/><page number=\"324\"/><img src=\"BK126314G002S1P324\" alt=\"\" imgtype=\"Scan\"/><page number=\"325\"/><img src=\"BK126314G002S1P325\" alt=\"\" imgtype=\"Scan\"/><page number=\"326\"/><img src=\"BK126314G002S1P326\" alt=\"\" imgtype=\"Scan\"/><page number=\"327\"/><img src=\"BK126314G002S1P327\" alt=\"\" imgtype=\"Scan\"/><page number=\"328\"/><img src=\"BK126314G002S1P328\" alt=\"\" imgtype=\"Scan\"/><page number=\"329\"/><img src=\"BK126314G002S1P329\" alt=\"\" imgtype=\"Scan\"/><page number=\"330\"/><img src=\"BK126314G002S1P330\" alt=\"\" imgtype=\"Scan\"/><page number=\"331\"/><img src=\"BK126314G002S1P331\" alt=\"\" imgtype=\"Scan\"/><page number=\"332\"/><img src=\"BK126314G002S1P332\" alt=\"\" imgtype=\"Scan\"/><page number=\"333\"/><img src=\"BK126314G002S1P333\" alt=\"\" imgtype=\"Scan\"/><page number=\"334\"/><img src=\"BK126314G002S1P334\" alt=\"\" imgtype=\"Scan\"/><page number=\"335\"/><img src=\"BK126314G002S1P335\" alt=\"\" imgtype=\"Scan\"/><page number=\"336\"/><img src=\"BK126314G002S1P336\" alt=\"\" imgtype=\"Scan\"/><page number=\"337\"/><img src=\"BK126314G002S1P337\" alt=\"\" imgtype=\"Scan\"/><page number=\"338\"/><img src=\"BK126314G002S1P338\" alt=\"\" imgtype=\"Scan\"/><page number=\"339\"/><img src=\"BK126314G002S1P339\" alt=\"\" imgtype=\"Scan\"/><page number=\"340\"/><page number=\"341\"/><heading level=\"3\">فهرس مصادر التحقيق</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "332",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1960\" paragraph-id=\"1960\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo332\">332</span>\n    <img src=\"/file/book/page/EZkGvGt9JBQsA7QkUATTXPvotkbpWzCBpB2vcVggZhOrnZiBL2Dgf_O0CysQpwUx\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "743FA991-EA32-4A51-AA1E-3FA66E136D54",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

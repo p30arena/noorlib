@@ -1,0 +1,113 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 85,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166887,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2492\"><page number=\"85\"/>[129] </p>"
+        },
+        {
+          "paragraphId": 714166888,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2493\"><format class=\"hadith\" who=\"16\" Id=\"127\" RevayatIndex=\"127\"><format class=\"sanadHadith\">و روى السيّاري عنهم عليهم السّلام للحمّى: </format>«تأخذون عشر دراهم سكّرا بماء بارد على الريق»<lfootnote noteId=\"648\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166889,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2494\">[130] </p>"
+        },
+        {
+          "paragraphId": 714166890,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2495\"><format class=\"hadith\" who=\"6\" Id=\"128\" RevayatIndex=\"128\"><format class=\"sanadHadith\">أحمد بن هلال<lfootnote noteId=\"649\">2</lfootnote>، عن ابن أبي عمير، عن بعض أصحابنا يرفعه، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«إذا حمّ المحموم لم تزل له القدر عن الأثافي حتّى يبرأ أو يحدث الله تعالى به».</format></p>"
+        },
+        {
+          "paragraphId": 714166891,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2496\"><format class=\"hadith\" who=\"6\" Id=\"128\" RevayatIndex=\"128\">قال: قلت: و ما هو؟ [قال:] «التليين بالرفق و اللين<lfootnote noteId=\"650\">3</lfootnote>»<lfootnote noteId=\"651\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166892,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2497\">[131] </p>"
+        },
+        {
+          "paragraphId": 714166893,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2498\"><format class=\"hadith\" who=\"6\" Id=\"129\" RevayatIndex=\"129\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن محمّد بن سنان، عن بعض أصحابنا، عن زرارة، قال:</format> دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> فقال لي: «يا أبا الحسن، بماذا تداوون المحموم»؟</format></p>"
+        },
+        {
+          "paragraphId": 714166894,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2499\"><format class=\"hadith\" who=\"6\" Id=\"129\" RevayatIndex=\"129\">قلت: بالهليلج و الشكاع.</format></p>"
+        },
+        {
+          "paragraphId": 714166895,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2500\"><format class=\"hadith\" who=\"6\" Id=\"129\" RevayatIndex=\"129\">قال: «إنّ الهليلج كريه و الحمّى كرهة<lfootnote noteId=\"652\">5</lfootnote>».</format></p>"
+        },
+        {
+          "paragraphId": 714166896,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2501\"><format class=\"hadith\" who=\"6\" Id=\"129\" RevayatIndex=\"129\">فقلت: جعلت فداك فبماذا أداويه‌؟ <page number=\"86\"/> قال: «بالسكّر».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168679,
+          "text": "<footnote id=\"648\"><page number=\"85\"/><mnote>(1)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 50، فقالا: في صفة الحمّى و طريق علاجه: عن عون بن محمّد القاسم، قال: حدّثنا حمّاد بن عيسى، عن الحسين بن المختار، عن أسامة الشحّام، قال: سمعت أبا عبد الله عليه السّلام يقول: «ما اختار جدّنا صلّى الله عليه و آله للحمّى إلّا وزن عشر...».<br/>و الطبرسي في مكارم الأخلاق: 5/168، باب في السكّر عنه عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168680,
+          "text": "<footnote id=\"649\"><mnote>(2)</mnote> هو أحمد بن هلال الكرخي من مشايخ ابن هوذة الباهلي و الحميري و غيرهما من مشايخ ابن همّام، الغيبة للنعماني: 7/67، و 17/176، و 28/180، عيون أخبار الرضا عليه السّلام: 27/58. </footnote>"
+        },
+        {
+          "footnoteId": 714168681,
+          "text": "<footnote id=\"650\"><mnote>(3)</mnote> كذا في النسخة، و لعلّه إشارة إلى تداوي الحمّى بالإسهال، و لعلّه مصحّف: «التلبين بالدقيق و اللبن». </footnote>"
+        },
+        {
+          "footnoteId": 714168682,
+          "text": "<footnote id=\"651\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و ما بين المعقوفتين أثبتناه للضرورة. </footnote>"
+        },
+        {
+          "footnoteId": 714168683,
+          "text": "<footnote id=\"652\"><mnote>(5)</mnote> كذا في النسخة، و لعلّه: «كريهة».</footnote>"
+        }
+      ],
+      "pageValue": "85",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2492\" paragraph-id=\"2492\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo85\">85</span>[129] </p>\n  <p id=\"p2493\" paragraph-id=\"2493\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى السيّاري عنهم عليهم السّلام للحمّى: </span>«تأخذون عشر دراهم سكّرا بماء بارد على الريق»<span><sup><a class=\"NewFn\" href=\"#footnote648\" title=\"(1)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 50، فقالا: في صفة الحمّى و طريق علاجه: عن عون بن محمّد القاسم، قال: حدّثنا حمّاد بن عيسى، عن الحسين بن المختار، عن أسامة الشحّام، قال: سمعت أبا عبد الله عليه السّلام يقول: «ما اختار جدّنا صلّى الله عليه و آله للحمّى إلّا وزن عشر...».و الطبرسي في مكارم الأخلاق: 5/168، باب في السكّر عنه عليه السّلام. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2494\" paragraph-id=\"2494\" class=\" G\">[130] </p>\n  <p id=\"p2495\" paragraph-id=\"2495\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أحمد بن هلال<span><sup><a class=\"NewFn\" href=\"#footnote649\" title=\"(2)  هو أحمد بن هلال الكرخي من مشايخ ابن هوذة الباهلي و الحميري و غيرهما من مشايخ ابن همّام، الغيبة للنعماني: 7/67، و 17/176، و 28/180، عيون أخبار الرضا عليه السّلام: 27/58. \">2</a></sup></span>، عن ابن أبي عمير، عن بعض أصحابنا يرفعه، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«إذا حمّ المحموم لم تزل له القدر عن الأثافي حتّى يبرأ أو يحدث الله تعالى به».</span>\n  </p>\n  <p id=\"p2496\" paragraph-id=\"2496\" class=\" G\">\n    <span class=\"hadith\">قال: قلت: و ما هو؟ [قال:] «التليين بالرفق و اللين<span><sup><a class=\"NewFn\" href=\"#footnote650\" title=\"(3)  كذا في النسخة، و لعلّه إشارة إلى تداوي الحمّى بالإسهال، و لعلّه مصحّف: «التلبين بالدقيق و اللبن». \">3</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote651\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و ما بين المعقوفتين أثبتناه للضرورة. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2497\" paragraph-id=\"2497\" class=\" G\">[131] </p>\n  <p id=\"p2498\" paragraph-id=\"2498\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن محمّد بن سنان، عن بعض أصحابنا، عن زرارة، قال:</span> دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> فقال لي: «يا أبا الحسن، بماذا تداوون المحموم»؟</span>\n  </p>\n  <p id=\"p2499\" paragraph-id=\"2499\" class=\" G\">\n    <span class=\"hadith\">قلت: بالهليلج و الشكاع.</span>\n  </p>\n  <p id=\"p2500\" paragraph-id=\"2500\" class=\" G\">\n    <span class=\"hadith\">قال: «إنّ الهليلج كريه و الحمّى كرهة<span><sup><a class=\"NewFn\" href=\"#footnote652\" title=\"(5)  كذا في النسخة، و لعلّه: «كريهة».\">5</a></sup></span>».</span>\n  </p>\n  <p id=\"p2501\" paragraph-id=\"2501\" class=\" G\">\n    <span class=\"hadith\">فقلت: جعلت فداك فبماذا أداويه‌؟ </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote648\" footnote-id=\"648\">(1) <page number=\"85\" /> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 50، فقالا: في صفة الحمّى و طريق علاجه: عن عون بن محمّد القاسم، قال: حدّثنا حمّاد بن عيسى، عن الحسين بن المختار، عن أسامة الشحّام، قال: سمعت أبا عبد الله عليه السّلام يقول: «ما اختار جدّنا صلّى الله عليه و آله للحمّى إلّا وزن عشر...».<br />و الطبرسي في مكارم الأخلاق: 5/168، باب في السكّر عنه عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote649\" footnote-id=\"649\">(2)  هو أحمد بن هلال الكرخي من مشايخ ابن هوذة الباهلي و الحميري و غيرهما من مشايخ ابن همّام، الغيبة للنعماني: 7/67، و 17/176، و 28/180، عيون أخبار الرضا عليه السّلام: 27/58. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote650\" footnote-id=\"650\">(3)  كذا في النسخة، و لعلّه إشارة إلى تداوي الحمّى بالإسهال، و لعلّه مصحّف: «التلبين بالدقيق و اللبن». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote651\" footnote-id=\"651\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و ما بين المعقوفتين أثبتناه للضرورة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote652\" footnote-id=\"652\">(5)  كذا في النسخة، و لعلّه: «كريهة».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "6EF17497-8930-4E7F-A14D-D2AE50F86FA8",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

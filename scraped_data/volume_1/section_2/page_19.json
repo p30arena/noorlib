@@ -1,0 +1,81 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 19,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166425,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2171\"><format class=\"hadith\" who=\"13,5\" Id=\"11\" RevayatIndex=\"11\"><page number=\"19\"/> سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبا جعفر عليه السّلام</format></format> يقول: «إذا وقعت النطفة في رحم استقرّت فيها أربعين يوما و تكون علقة أربعين يوما<lfootnote noteId=\"330\">1</lfootnote> ثمّ تكون مضغة أربعين يوما، ثمّ يبعث الله ملكين<lfootnote noteId=\"331\">2</lfootnote> خلّاقين، فيقال لهما: اخلقا كما يريد الله ذكرا أو انثى، صوّراه و اكتبا له البداء بعد ذلك، قال: فيكتبان الميثاق الذي أخذ عليه في الذرّ بين عينيه، فإذا دنا خروجه من بطن امّه بعث الله إليه ملكا يقال له: زاجر، فيزجره فيفزع فزعا شديدا فينسى الميثاق و يقع إلى الأرض يبكي من زجرة الملك»<lfootnote noteId=\"332\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166426,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2172\">[12] </p>"
+        },
+        {
+          "paragraphId": 714166427,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2173\"><format class=\"hadith\" who=\"5\" Id=\"12\" RevayatIndex=\"12\"><format class=\"sanadHadith\">و روى محمّد بن إسماعيل،</format> قال: قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">لأبي جعفر عليه السّلام</format></format>: جعلت فداك الرجل يدعو للحلبي أن يجعل الله ما في بطنها ذكرا سويّا؟ قال: «يدعو فيما بينه و بين أربعة أشهر، فإنّه أربعين ليلة<lfootnote noteId=\"333\">4</lfootnote> نطفة و أربعين ليلة علقة و أربعين ليلة<lfootnote noteId=\"334\">5</lfootnote> مضغة فذلك تمام أربعة أشهر، ثمّ يبعث الله ملكين خلّاقين<lfootnote noteId=\"335\">6</lfootnote> فيقولان: يا ربّ‌، ما نخلق‌؟» - فقلت: جعلت فداك، يا مولانا! فقال: «من عند الله، ألا ترى أنّ ملك الموت له أعوان و شرط؟ - فيقولان:</format></p>"
+        },
+        {
+          "paragraphId": 714166428,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2174\"><format class=\"hadith\" who=\"5\" Id=\"12\" RevayatIndex=\"12\">ذكرا أم انثى‌؟ شقيّا أو سعيدا؟ فيقال ذلك، فيقولان: يا ربّ‌، ما رزقه و ما أجله و ما مدّته‌؟ فيقال ذلك، و ميثاقه بين عينيه ينظر إليه و لا يزال منتصبا في <page number=\"20\"/> بطن امّه حتى إذا دنا خروجه بعث الله عزّ و جلّ إليه<lfootnote noteId=\"336\">1</lfootnote> ملكا فيزجره فينسى الميثاق فيخرج»<lfootnote noteId=\"337\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168384,
+          "text": "<footnote id=\"330\"><page number=\"19\"/><mnote>(1)</mnote> قوله: «و تكون علقة أربعين يوما» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168385,
+          "text": "<footnote id=\"331\"><mnote>(2)</mnote> كلمة: «ملكين» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168386,
+          "text": "<footnote id=\"332\"><mnote>(3)</mnote> رواه الكليني في الكافي 7/16:6، باب بدء خلق الإنسان و تقلّبه في بطن امه، عن محمّد بن يحيى، عن أحمد بن محمّد، و علي بن إبراهيم، عن أبيه، عن ابن محبوب. </footnote>"
+        },
+        {
+          "footnoteId": 714168387,
+          "text": "<footnote id=\"333\"><mnote>(4)</mnote> في النسخة: «أربعين يوما» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168388,
+          "text": "<footnote id=\"334\"><mnote>(5)</mnote> كلمة: «ليلة» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168389,
+          "text": "<footnote id=\"335\"><mnote>(6)</mnote> قال المجلسي: و الخلق المنسوب إلى الملكين بمعنى التقدير و التصوير و التخطيط كما هو معناه المعروف في اللغة. مرآة العقول 27:21.</footnote>"
+        }
+      ],
+      "pageValue": "19",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2171\" paragraph-id=\"2171\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo19\">19</span> سمعت <span class=\"Y\"><span class=\"maasoom\">أبا جعفر عليه السّلام</span></span> يقول: «إذا وقعت النطفة في رحم استقرّت فيها أربعين يوما و تكون علقة أربعين يوما<span><sup><a class=\"NewFn\" href=\"#footnote330\" title=\"(1)  قوله: «و تكون علقة أربعين يوما» أثبتناه من المصدر. \">1</a></sup></span> ثمّ تكون مضغة أربعين يوما، ثمّ يبعث الله ملكين<span><sup><a class=\"NewFn\" href=\"#footnote331\" title=\"(2)  كلمة: «ملكين» أثبتناها من المصدر. \">2</a></sup></span> خلّاقين، فيقال لهما: اخلقا كما يريد الله ذكرا أو انثى، صوّراه و اكتبا له البداء بعد ذلك، قال: فيكتبان الميثاق الذي أخذ عليه في الذرّ بين عينيه، فإذا دنا خروجه من بطن امّه بعث الله إليه ملكا يقال له: زاجر، فيزجره فيفزع فزعا شديدا فينسى الميثاق و يقع إلى الأرض يبكي من زجرة الملك»<span><sup><a class=\"NewFn\" href=\"#footnote332\" title=\"(3)  رواه الكليني في الكافي 7/16:6، باب بدء خلق الإنسان و تقلّبه في بطن امه، عن محمّد بن يحيى، عن أحمد بن محمّد، و علي بن إبراهيم، عن أبيه، عن ابن محبوب. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2172\" paragraph-id=\"2172\" class=\" G\">[12] </p>\n  <p id=\"p2173\" paragraph-id=\"2173\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى محمّد بن إسماعيل،</span> قال: قلت <span class=\"Y\"><span class=\"maasoom\">لأبي جعفر عليه السّلام</span></span>: جعلت فداك الرجل يدعو للحلبي أن يجعل الله ما في بطنها ذكرا سويّا؟ قال: «يدعو فيما بينه و بين أربعة أشهر، فإنّه أربعين ليلة<span><sup><a class=\"NewFn\" href=\"#footnote333\" title=\"(4)  في النسخة: «أربعين يوما» و ما أثبتناه من المصدر. \">4</a></sup></span> نطفة و أربعين ليلة علقة و أربعين ليلة<span><sup><a class=\"NewFn\" href=\"#footnote334\" title=\"(5)  كلمة: «ليلة» أثبتناها من المصدر. \">5</a></sup></span> مضغة فذلك تمام أربعة أشهر، ثمّ يبعث الله ملكين خلّاقين<span><sup><a class=\"NewFn\" href=\"#footnote335\" title=\"(6)  قال المجلسي: و الخلق المنسوب إلى الملكين بمعنى التقدير و التصوير و التخطيط كما هو معناه المعروف في اللغة. مرآة العقول 27:21.\">6</a></sup></span> فيقولان: يا ربّ‌، ما نخلق‌؟» - فقلت: جعلت فداك، يا مولانا! فقال: «من عند الله، ألا ترى أنّ ملك الموت له أعوان و شرط؟ - فيقولان:</span>\n  </p>\n  <p id=\"p2174\" paragraph-id=\"2174\" class=\" G\">\n    <span class=\"hadith\">ذكرا أم انثى‌؟ شقيّا أو سعيدا؟ فيقال ذلك، فيقولان: يا ربّ‌، ما رزقه و ما أجله و ما مدّته‌؟ فيقال ذلك، و ميثاقه بين عينيه ينظر إليه و لا يزال منتصبا في </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote330\" footnote-id=\"330\">(1) <page number=\"19\" /> قوله: «و تكون علقة أربعين يوما» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote331\" footnote-id=\"331\">(2)  كلمة: «ملكين» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote332\" footnote-id=\"332\">(3)  رواه الكليني في الكافي 7/16:6، باب بدء خلق الإنسان و تقلّبه في بطن امه، عن محمّد بن يحيى، عن أحمد بن محمّد، و علي بن إبراهيم، عن أبيه، عن ابن محبوب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote333\" footnote-id=\"333\">(4)  في النسخة: «أربعين يوما» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote334\" footnote-id=\"334\">(5)  كلمة: «ليلة» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote335\" footnote-id=\"335\">(6)  قال المجلسي: و الخلق المنسوب إلى الملكين بمعنى التقدير و التصوير و التخطيط كما هو معناه المعروف في اللغة. مرآة العقول 27:21.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "33141465-8878-4A08-9D76-49C24088E71E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

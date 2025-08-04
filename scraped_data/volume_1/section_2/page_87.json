@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 87,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166908,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2513\"><format class=\"hadith\" who=\"6\" Id=\"131\" RevayatIndex=\"131\"><page number=\"87\"/> قلت: أيّ سكّر؟</format></p>"
+        },
+        {
+          "paragraphId": 714166909,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2514\"><format class=\"hadith\" who=\"6\" Id=\"131\" RevayatIndex=\"131\">قال: «سليمانيّكم هذا<lfootnote noteId=\"658\">1</lfootnote>»<lfootnote noteId=\"659\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166910,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2515\">[134] </p>"
+        },
+        {
+          "paragraphId": 714166911,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2516\"><format class=\"hadith\" who=\"6\" Id=\"132\" RevayatIndex=\"132\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن الحسن بن علي بن النعمان<lfootnote noteId=\"660\">3</lfootnote>، عن بعض أصحابنا، قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام </format></format>الوجع، فقال: «إذا أويت إلى فراشك فكل سكّرتين»<lfootnote noteId=\"661\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166912,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2517\"><format class=\"hadith\" who=\"6\" Id=\"132\" RevayatIndex=\"132\">ففعلت ذلك<lfootnote noteId=\"662\">5</lfootnote>، فبرأت، فخبرت بعض المتطبّبين - و كان أفره أهل بلادنا<lfootnote noteId=\"663\">6</lfootnote> - فقال: من أين عرف <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">أبو عبد الله عليه السّلام</format></format> هذا؟ و هذا من مخزون علمنا، <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\"/></format><page number=\"88\"/> أما إنّه صاحب كتب، فينبغي أن يكون أصابه في بعض الكتب<lfootnote noteId=\"664\">1</lfootnote>. </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168689,
+          "text": "<footnote id=\"658\"><page number=\"87\"/><mnote>(1)</mnote> نوع من السكّر الأبيض. الفصول المهمّة 87:3. </footnote>"
+        },
+        {
+          "footnoteId": 714168690,
+          "text": "<footnote id=\"659\"><mnote>(2)</mnote> رواه الكليني في الكافي 3/333:6، باب السكّر، عن محمّد بن يحيى، عن أحمد بن محمّد، عن محمّد بن أحمد الأزدي، عن بعض أصحابنا، رفعه قال: شكا رجل إلى أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/167، باب السكّر، عن الصادق عليه السّلام في علّة يجدها بعض أصحابه، قال: «أين هو؟» و ممّا يؤيّده ما رواه الكليني في الكافي الحديث السابع من الباب، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، رفعه عن أبي عبد الله عليه السّلام قال:<br/>شكا إليه رجل الوباء فقال له: «و أين أنت عن الطيّب المبارك‌؟». </footnote>"
+        },
+        {
+          "footnoteId": 714168691,
+          "text": "<footnote id=\"660\"><mnote>(3)</mnote> قوله: «بن النعمان» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168692,
+          "text": "<footnote id=\"661\"><mnote>(4)</mnote> قال المجلسي: قوله عليه السّلام: «فكل سكّرتين» يدلّ على أنّه كان لمعموله في ذلك الزمان مقدار صغير معلوم، مرآة العقول 260:26، و في هامش الفصول المهمّة 84:3: و في حاشية على نسخة «م» بعنوان عبد العزيز: يظهر من هذا الخبر بملاحظة ما مضى من اختيار رسول الله صلّى الله عليه و آله مقدار عشرة دراهم من السكر، أنّ مقدار السكّرتين لا يتجاوز عشرة دراهم و الله تعالى أعلم. </footnote>"
+        },
+        {
+          "footnoteId": 714168693,
+          "text": "<footnote id=\"662\"><mnote>(5)</mnote> كلمة: «ذلك» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168694,
+          "text": "<footnote id=\"663\"><mnote>(6)</mnote> الفاره: الحاذق بالشيء. لسان العرب 522:13، مجمع البحرين 354:6 «فره».</footnote>"
+        }
+      ],
+      "pageValue": "87",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2513\" paragraph-id=\"2513\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo87\">87</span> قلت: أيّ سكّر؟</span>\n  </p>\n  <p id=\"p2514\" paragraph-id=\"2514\" class=\" G\">\n    <span class=\"hadith\">قال: «سليمانيّكم هذا<span><sup><a class=\"NewFn\" href=\"#footnote658\" title=\"(1)  نوع من السكّر الأبيض. الفصول المهمّة 87:3. \">1</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote659\" title=\"(2)  رواه الكليني في الكافي 3/333:6، باب السكّر، عن محمّد بن يحيى، عن أحمد بن محمّد، عن محمّد بن أحمد الأزدي، عن بعض أصحابنا، رفعه قال: شكا رجل إلى أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/167، باب السكّر، عن الصادق عليه السّلام في علّة يجدها بعض أصحابه، قال: «أين هو؟» و ممّا يؤيّده ما رواه الكليني في الكافي الحديث السابع من الباب، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، رفعه عن أبي عبد الله عليه السّلام قال:شكا إليه رجل الوباء فقال له: «و أين أنت عن الطيّب المبارك‌؟». \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2515\" paragraph-id=\"2515\" class=\" G\">[134] </p>\n  <p id=\"p2516\" paragraph-id=\"2516\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن الحسن بن علي بن النعمان<span><sup><a class=\"NewFn\" href=\"#footnote660\" title=\"(3)  قوله: «بن النعمان» أثبتناه من المصدر. \">3</a></sup></span>، عن بعض أصحابنا، قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام </span></span>الوجع، فقال: «إذا أويت إلى فراشك فكل سكّرتين»<span><sup><a class=\"NewFn\" href=\"#footnote661\" title=\"(4)  قال المجلسي: قوله عليه السّلام: «فكل سكّرتين» يدلّ على أنّه كان لمعموله في ذلك الزمان مقدار صغير معلوم، مرآة العقول 260:26، و في هامش الفصول المهمّة 84:3: و في حاشية على نسخة «م» بعنوان عبد العزيز: يظهر من هذا الخبر بملاحظة ما مضى من اختيار رسول الله صلّى الله عليه و آله مقدار عشرة دراهم من السكر، أنّ مقدار السكّرتين لا يتجاوز عشرة دراهم و الله تعالى أعلم. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2517\" paragraph-id=\"2517\" class=\" G\">\n    <span class=\"hadith\">ففعلت ذلك<span><sup><a class=\"NewFn\" href=\"#footnote662\" title=\"(5)  كلمة: «ذلك» أثبتناها من المصدر. \">5</a></sup></span>، فبرأت، فخبرت بعض المتطبّبين - و كان أفره أهل بلادنا<span><sup><a class=\"NewFn\" href=\"#footnote663\" title=\"(6)  الفاره: الحاذق بالشيء. لسان العرب 522:13، مجمع البحرين 354:6 «فره».\">6</a></sup></span> - فقال: من أين عرف <span class=\"BD\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span> هذا؟ و هذا من مخزون علمنا، <span class=\"BD\"><span class=\"maasoom\"></span></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote658\" footnote-id=\"658\">(1) <page number=\"87\" /> نوع من السكّر الأبيض. الفصول المهمّة 87:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote659\" footnote-id=\"659\">(2)  رواه الكليني في الكافي 3/333:6، باب السكّر، عن محمّد بن يحيى، عن أحمد بن محمّد، عن محمّد بن أحمد الأزدي، عن بعض أصحابنا، رفعه قال: شكا رجل إلى أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/167، باب السكّر، عن الصادق عليه السّلام في علّة يجدها بعض أصحابه، قال: «أين هو؟» و ممّا يؤيّده ما رواه الكليني في الكافي الحديث السابع من الباب، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، رفعه عن أبي عبد الله عليه السّلام قال:<br />شكا إليه رجل الوباء فقال له: «و أين أنت عن الطيّب المبارك‌؟». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote660\" footnote-id=\"660\">(3)  قوله: «بن النعمان» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote661\" footnote-id=\"661\">(4)  قال المجلسي: قوله عليه السّلام: «فكل سكّرتين» يدلّ على أنّه كان لمعموله في ذلك الزمان مقدار صغير معلوم، مرآة العقول 260:26، و في هامش الفصول المهمّة 84:3: و في حاشية على نسخة «م» بعنوان عبد العزيز: يظهر من هذا الخبر بملاحظة ما مضى من اختيار رسول الله صلّى الله عليه و آله مقدار عشرة دراهم من السكر، أنّ مقدار السكّرتين لا يتجاوز عشرة دراهم و الله تعالى أعلم. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote662\" footnote-id=\"662\">(5)  كلمة: «ذلك» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote663\" footnote-id=\"663\">(6)  الفاره: الحاذق بالشيء. لسان العرب 522:13، مجمع البحرين 354:6 «فره».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "3E1763E8-E8DB-4E79-B633-92D0A6F9E137",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 264,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167630,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3376\"><format class=\"hadith\" who=\"6\" Id=\"423\" RevayatIndex=\"423\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن سعدان بن مسلم، عن يونس بن يعقوب<lfootnote noteId=\"1461\">5</lfootnote> قال:</format> قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لأبي <page number=\"264\"/> عبد الله عليه السّلام</format></format>: جعلت فداك إنّي أجد وجعا في بطني.</format></p>"
+        },
+        {
+          "paragraphId": 714167631,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3377\"><format class=\"hadith\" who=\"6\" Id=\"423\" RevayatIndex=\"423\">فقال: «وحّد الله».</format></p>"
+        },
+        {
+          "paragraphId": 714167632,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3378\"><format class=\"hadith\" who=\"6\" Id=\"423\" RevayatIndex=\"423\">فأدركني رأي<lfootnote noteId=\"1462\">1</lfootnote> فقلت: كيف أقول‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714167633,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3379\"><format class=\"hadith\" who=\"6\" Id=\"423\" RevayatIndex=\"423\">قال: «تقول: يا الله، يا ربّي، يا رحمن، يا ربّ الأرباب، يا سيّد السّادة، اشفني و عافني من كلّ داء و سقم فإنّي عبدك و ابن عبدك أتقلّب في قبضتك<lfootnote noteId=\"1463\">2</lfootnote>»<lfootnote noteId=\"1464\">3</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714167634,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3380\"><heading level=\"2\">[باب] في الهيضة<lfootnote noteId=\"1465\">4</lfootnote> و دوائها </heading></p>"
+        },
+        {
+          "paragraphId": 714167635,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3381\">[429] </p>"
+        },
+        {
+          "paragraphId": 714167636,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3382\"><format class=\"hadith\" who=\"6\" Id=\"424\" RevayatIndex=\"424\"><format class=\"sanadHadith\">و روى العبّاس بن معروف، عن محمّد بن يحيى الصيرفي، عن حمّاد بن عثمان قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format> يقول: </format>«يؤخذ للهيضة سفة<lfootnote noteId=\"1466\">5</lfootnote> من ملح، تقمح<lfootnote noteId=\"1467\">6</lfootnote>»<lfootnote noteId=\"1468\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167637,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3383\"><page number=\"265\"/>[430] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169417,
+          "text": "<footnote id=\"1462\"><page number=\"264\"/><mnote>(1)</mnote> قوله: «فأدركني رأي» لم يرد في المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169418,
+          "text": "<footnote id=\"1463\"><mnote>(2)</mnote> في الكافي: «اشفني بشفائك» قال المجلسي: يحتمل أنّ المراد بشفائك بالشفاء الكامل، فإنّ ما ينسب إلى الكامل يكون كاملا. مرآة العقول 235:12. </footnote>"
+        },
+        {
+          "footnoteId": 714169419,
+          "text": "<footnote id=\"1464\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 407، للرياح في البطن، و انظر لمطلق الوجع و الألم في طبّ الأئمّة عليهم السّلام: 28، و الكافي 11/566:2، باب الدعاء للعلل و الأمراض، و 11/524، باب القول عند الإصباح و الإمساء، و في المصباح: 154. و للسلّ في طبّ الأئمّة عليهم السّلام: 37، و المصباح: 157، و لريح البحر في طبّ الأئمّة عليهم السّلام: 118. </footnote>"
+        },
+        {
+          "footnoteId": 714169420,
+          "text": "<footnote id=\"1465\"><mnote>(4)</mnote> قال الهروي: هيضة: حركة من الموادّ الفاسدة غير المنهضمة إلى الانفصال بالقيء و الإسهال راجعة من البدن على شدّة و عنف من الدافعة. بحر الجواهر: 386. </footnote>"
+        },
+        {
+          "footnoteId": 714169421,
+          "text": "<footnote id=\"1466\"><mnote>(5)</mnote> قال الهروي ما معناه بالفارسية: السفة بالضمّ‌: المقدار من كلّ شيء هو الذي يلقونه في الفم، أي:<br/>ما كان قدره، و الجمع: اسفف. بحر الجواهر: 210، و انظر: مجمع البحرين 71:5 «سفف». </footnote>"
+        },
+        {
+          "footnoteId": 714169422,
+          "text": "<footnote id=\"1467\"><mnote>(6)</mnote> قمح الماء و اللبن و اقتمحه، و هو شربه إيّاه، و قمح السويق قمحا،... إنّما يقال: القمح، فيما يسفّ‌. و يقال: قمحت السويق، بكسر الميم، إذا استففته. لسان العرب 567:2 «قمح». </footnote>"
+        },
+        {
+          "footnoteId": 714169423,
+          "text": "<footnote id=\"1468\"><mnote>(7)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "264",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3376\" paragraph-id=\"3376\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"Y\">\n        <span class=\"maasoom\">\n          <span class=\"GPA0 bookPage PageNo264\">264</span> عبد الله عليه السّلام</span>\n      </span>: جعلت فداك إنّي أجد وجعا في بطني.</span>\n  </p>\n  <p id=\"p3377\" paragraph-id=\"3377\" class=\" G\">\n    <span class=\"hadith\">فقال: «وحّد الله».</span>\n  </p>\n  <p id=\"p3378\" paragraph-id=\"3378\" class=\" G\">\n    <span class=\"hadith\">فأدركني رأي<span><sup><a class=\"NewFn\" href=\"#footnote1462\" title=\"(1)  قوله: «فأدركني رأي» لم يرد في المصدر. \">1</a></sup></span> فقلت: كيف أقول‌؟</span>\n  </p>\n  <p id=\"p3379\" paragraph-id=\"3379\" class=\" G\">\n    <span class=\"hadith\">قال: «تقول: يا الله، يا ربّي، يا رحمن، يا ربّ الأرباب، يا سيّد السّادة، اشفني و عافني من كلّ داء و سقم فإنّي عبدك و ابن عبدك أتقلّب في قبضتك<span><sup><a class=\"NewFn\" href=\"#footnote1463\" title=\"(2)  في الكافي: «اشفني بشفائك» قال المجلسي: يحتمل أنّ المراد بشفائك بالشفاء الكامل، فإنّ ما ينسب إلى الكامل يكون كاملا. مرآة العقول 235:12. \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1464\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 407، للرياح في البطن، و انظر لمطلق الوجع و الألم في طبّ الأئمّة عليهم السّلام: 28، و الكافي 11/566:2، باب الدعاء للعلل و الأمراض، و 11/524، باب القول عند الإصباح و الإمساء، و في المصباح: 154. و للسلّ في طبّ الأئمّة عليهم السّلام: 37، و المصباح: 157، و لريح البحر في طبّ الأئمّة عليهم السّلام: 118. \">3</a></sup></span>. </span>\n  </p>\n  <p id=\"p3380\" paragraph-id=\"3380\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الهيضة<span><sup><a class=\"NewFn\" href=\"#footnote1465\" title=\"(4)  قال الهروي: هيضة: حركة من الموادّ الفاسدة غير المنهضمة إلى الانفصال بالقيء و الإسهال راجعة من البدن على شدّة و عنف من الدافعة. بحر الجواهر: 386. \">4</a></sup></span> و دوائها </strong>\n  </p>\n  <p id=\"p3381\" paragraph-id=\"3381\" class=\" G\">[429] </p>\n  <p id=\"p3382\" paragraph-id=\"3382\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى العبّاس بن معروف، عن محمّد بن يحيى الصيرفي، عن حمّاد بن عثمان قال: سمعت <span class=\"Y\"><span class=\"maasoom\">أبا عبد الله عليه السّلام</span></span> يقول: </span>«يؤخذ للهيضة سفة<span><sup><a class=\"NewFn\" href=\"#footnote1466\" title=\"(5)  قال الهروي ما معناه بالفارسية: السفة بالضمّ‌: المقدار من كلّ شيء هو الذي يلقونه في الفم، أي:ما كان قدره، و الجمع: اسفف. بحر الجواهر: 210، و انظر: مجمع البحرين 71:5 «سفف». \">5</a></sup></span> من ملح، تقمح<span><sup><a class=\"NewFn\" href=\"#footnote1467\" title=\"(6)  قمح الماء و اللبن و اقتمحه، و هو شربه إيّاه، و قمح السويق قمحا،... إنّما يقال: القمح، فيما يسفّ‌. و يقال: قمحت السويق، بكسر الميم، إذا استففته. لسان العرب 567:2 «قمح». \">6</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1468\" title=\"(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p3383\" paragraph-id=\"3383\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1462\" footnote-id=\"1462\">(1) <page number=\"264\" /> قوله: «فأدركني رأي» لم يرد في المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1463\" footnote-id=\"1463\">(2)  في الكافي: «اشفني بشفائك» قال المجلسي: يحتمل أنّ المراد بشفائك بالشفاء الكامل، فإنّ ما ينسب إلى الكامل يكون كاملا. مرآة العقول 235:12. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1464\" footnote-id=\"1464\">(3)  رواه الطبرسي في مكارم الأخلاق: 407، للرياح في البطن، و انظر لمطلق الوجع و الألم في طبّ الأئمّة عليهم السّلام: 28، و الكافي 11/566:2، باب الدعاء للعلل و الأمراض، و 11/524، باب القول عند الإصباح و الإمساء، و في المصباح: 154. و للسلّ في طبّ الأئمّة عليهم السّلام: 37، و المصباح: 157، و لريح البحر في طبّ الأئمّة عليهم السّلام: 118. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1465\" footnote-id=\"1465\">(4)  قال الهروي: هيضة: حركة من الموادّ الفاسدة غير المنهضمة إلى الانفصال بالقيء و الإسهال راجعة من البدن على شدّة و عنف من الدافعة. بحر الجواهر: 386. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1466\" footnote-id=\"1466\">(5)  قال الهروي ما معناه بالفارسية: السفة بالضمّ‌: المقدار من كلّ شيء هو الذي يلقونه في الفم، أي:<br />ما كان قدره، و الجمع: اسفف. بحر الجواهر: 210، و انظر: مجمع البحرين 71:5 «سفف». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1467\" footnote-id=\"1467\">(6)  قمح الماء و اللبن و اقتمحه، و هو شربه إيّاه، و قمح السويق قمحا،... إنّما يقال: القمح، فيما يسفّ‌. و يقال: قمحت السويق، بكسر الميم، إذا استففته. لسان العرب 567:2 «قمح». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1468\" footnote-id=\"1468\">(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "59603625-21F2-442F-8392-816062A3C14C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

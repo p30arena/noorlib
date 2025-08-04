@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 156,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170334,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1589\"><page number=\"156\"/><heading level=\"2\">[باب] في الدم و دوامه </heading></p>"
+        },
+        {
+          "paragraphId": 714170335,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1590\">[213] </p>"
+        },
+        {
+          "paragraphId": 714170336,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1591\"><format class=\"hadith\" who=\"8\" Id=\"210\" RevayatIndex=\"731\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format></format> أنّه شكت إليه امرأة دوام الدم، فقال:</format></p>"
+        },
+        {
+          "paragraphId": 714170337,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1592\"><format class=\"hadith\" who=\"8\" Id=\"210\" RevayatIndex=\"731\">«تأخذين كفّا من كتيرة<lfootnote noteId=\"630\">1</lfootnote> و مثله سماق، فتنقعيه ليلة<lfootnote noteId=\"631\">2</lfootnote>، ثمّ تغليه يسيرا<lfootnote noteId=\"632\">3</lfootnote>، ثمّ تشربين منه يسيرا أو قدر سكرجة، تشفي»<lfootnote noteId=\"633\">4</lfootnote><lfootnote noteId=\"634\"> 5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170338,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1593\"><page number=\"157\"/>[214] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171426,
+          "text": "<footnote id=\"629\"><mnote>(2)</mnote> رواه الطبرسي في مكارم الأخلاق: 48/223، في فضل الأولاد، بعد الحديث السابق، <page number=\"156\"/>فقال: عن الصادق عليه السّلام قال: «يزيد الصبي»، و الكليني بتفاوت يسير في الكافي 2/46:6، باب النشوء: عن محمّد بن يحيى، عن محمّد بن أحمد، عن موسى بن عمر، عن علي بن الحسين بن الحسن الضرير، عن حمّاد بن عيسى، عن أبي عبد الله عليه السّلام قال:<br/>قال أمير المؤمنين عليه السّلام: «يشبّ الصبي كلّ سنة أربع أصابع بأصابع نفسه»، و الصدوق مثل الكليني في من لا يحضره الفقيه 4747/493:3، فقال: و في رواية حمّاد بن عيسى، و ابن شهر آشوب مثلهما في مناقب آل أبي طالب 330:1، و ابن جبر في نهج الإيمان: 283، و البياضي العاملي في الصراط المستقيم 224:1، كلّهم عن أمير المؤمنين عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171427,
+          "text": "<footnote id=\"630\"><mnote>(1)</mnote> كذا في النسخة، و في المصدر: «كزبرة». </footnote>"
+        },
+        {
+          "footnoteId": 714171428,
+          "text": "<footnote id=\"631\"><mnote>(2)</mnote> في المصدر زيادة: «تحت النجوم». </footnote>"
+        },
+        {
+          "footnoteId": 714171429,
+          "text": "<footnote id=\"632\"><mnote>(3)</mnote> أي: تغليه بالنار، و في طبّ الأئمّة عليهم السّلام: ثمّ اغليه بالنار في خزفة، و في عبارته الاخرى:<br/>ثمّ تقرّبيه بالنار و تصفّيه. </footnote>"
+        },
+        {
+          "footnoteId": 714171430,
+          "text": "<footnote id=\"633\"><mnote>(4)</mnote> في المصدر: «قدر سكرجة يسكن عنك الدم بإذن الله تعالى». </footnote>"
+        },
+        {
+          "footnoteId": 714171431,
+          "text": "<footnote id=\"634\"><mnote>(5)</mnote> رواه ابنا بسطام بتفاوت يسير في الألفاظ في طبّ الأئمّة عليهم السّلام: 64، فقالا: في الدم و دوامه: المسعودي قال: حدّثنا الحسن بن خالد، قال: كتبت امرأة إلى الرضا عليه السّلام، و قالا في 101: في تسكين الدم: الصباح بن محمّد الأزدي، قال: حدّثنا الحسين بن خالد قال:<br/>كتبت امرأة إلى الرضا عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "156",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1589\" paragraph-id=\"1589\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo156\">156</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الدم و دوامه </strong>\n  </p>\n  <p id=\"p1590\" paragraph-id=\"1590\" class=\" G\">[213] </p>\n  <p id=\"p1591\" paragraph-id=\"1591\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span></span> أنّه شكت إليه امرأة دوام الدم، فقال:</span>\n  </p>\n  <p id=\"p1592\" paragraph-id=\"1592\" class=\" G\">\n    <span class=\"hadith\">«تأخذين كفّا من كتيرة<span><sup><a class=\"NewFn\" href=\"#footnote630\" title=\"(1)  كذا في النسخة، و في المصدر: «كزبرة». \">1</a></sup></span> و مثله سماق، فتنقعيه ليلة<span><sup><a class=\"NewFn\" href=\"#footnote631\" title=\"(2)  في المصدر زيادة: «تحت النجوم». \">2</a></sup></span>، ثمّ تغليه يسيرا<span><sup><a class=\"NewFn\" href=\"#footnote632\" title=\"(3)  أي: تغليه بالنار، و في طبّ الأئمّة عليهم السّلام: ثمّ اغليه بالنار في خزفة، و في عبارته الاخرى:ثمّ تقرّبيه بالنار و تصفّيه. \">3</a></sup></span>، ثمّ تشربين منه يسيرا أو قدر سكرجة، تشفي»<span><sup><a class=\"NewFn\" href=\"#footnote633\" title=\"(4)  في المصدر: «قدر سكرجة يسكن عنك الدم بإذن الله تعالى». \">4</a></sup></span><span><sup><a class=\"NewFn\" href=\"#footnote634\" title=\"(5)  رواه ابنا بسطام بتفاوت يسير في الألفاظ في طبّ الأئمّة عليهم السّلام: 64، فقالا: في الدم و دوامه: المسعودي قال: حدّثنا الحسن بن خالد، قال: كتبت امرأة إلى الرضا عليه السّلام، و قالا في 101: في تسكين الدم: الصباح بن محمّد الأزدي، قال: حدّثنا الحسين بن خالد قال:كتبت امرأة إلى الرضا عليه السّلام. \"> 5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1593\" paragraph-id=\"1593\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote629\" footnote-id=\"629\"><page number=\"156\" />فقال: عن الصادق عليه السّلام قال: «يزيد الصبي»، و الكليني بتفاوت يسير في الكافي 2/46:6، باب النشوء: عن محمّد بن يحيى، عن محمّد بن أحمد، عن موسى بن عمر، عن علي بن الحسين بن الحسن الضرير، عن حمّاد بن عيسى، عن أبي عبد الله عليه السّلام قال:<br />قال أمير المؤمنين عليه السّلام: «يشبّ الصبي كلّ سنة أربع أصابع بأصابع نفسه»، و الصدوق مثل الكليني في من لا يحضره الفقيه 4747/493:3، فقال: و في رواية حمّاد بن عيسى، و ابن شهر آشوب مثلهما في مناقب آل أبي طالب 330:1، و ابن جبر في نهج الإيمان: 283، و البياضي العاملي في الصراط المستقيم 224:1، كلّهم عن أمير المؤمنين عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote630\" footnote-id=\"630\">(1)  كذا في النسخة، و في المصدر: «كزبرة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote631\" footnote-id=\"631\">(2)  في المصدر زيادة: «تحت النجوم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote632\" footnote-id=\"632\">(3)  أي: تغليه بالنار، و في طبّ الأئمّة عليهم السّلام: ثمّ اغليه بالنار في خزفة، و في عبارته الاخرى:<br />ثمّ تقرّبيه بالنار و تصفّيه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote633\" footnote-id=\"633\">(4)  في المصدر: «قدر سكرجة يسكن عنك الدم بإذن الله تعالى». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote634\" footnote-id=\"634\">(5)  رواه ابنا بسطام بتفاوت يسير في الألفاظ في طبّ الأئمّة عليهم السّلام: 64، فقالا: في الدم و دوامه: المسعودي قال: حدّثنا الحسن بن خالد، قال: كتبت امرأة إلى الرضا عليه السّلام، و قالا في 101: في تسكين الدم: الصباح بن محمّد الأزدي، قال: حدّثنا الحسين بن خالد قال:<br />كتبت امرأة إلى الرضا عليه السّلام. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "083E64E1-0773-4218-A3B1-27B7EBAAD0E8",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

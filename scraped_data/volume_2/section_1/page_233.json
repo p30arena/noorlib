@@ -1,0 +1,44 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 233,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170777,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1955\"><page number=\"232\"/><page number=\"233\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"5\"/> الفهارس الفنيه</heading></p>"
+        },
+        {
+          "paragraphId": 714170778,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1956\"><img src=\"BK126314G002S1P233\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"5\"/><page number=\"234\"/><page number=\"235\"/><heading level=\"3\"><format class=\"BeginIntroduction\" type=\"7\"/> فهرس الآيات الكريمة</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "233",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1955\" paragraph-id=\"1955\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo233\">233</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span> الفهارس الفنيه</strong>\n  </p>\n  <p id=\"p1956\" paragraph-id=\"1956\" class=\" G\">\n    <img src=\"/file/book/page/EZkGvGt9JBQsA7QkUATTXONwKYgx_PZkgnLE9fQGy19d2PQnzXfljZBUnr7LsIUL\" alt=\"\" imgtype=\"Scan\" />\n    <span class=\"EndIntroduction\"></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "FE7C2130-C7D0-41B2-B098-383E8716FB89",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

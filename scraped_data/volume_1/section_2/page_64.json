@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 64,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166782,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2387\"><format class=\"hadith\" who=\"14,6\" Id=\"96\" RevayatIndex=\"96\">قلت: فلم تحتمون من التمر؟ قال: «إنّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">نبي الله صلّى الله عليه و آله</format></format> حمى <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">عليّا عليه السّلام</format></format> منه في <page number=\"64\"/> مرضه»<lfootnote noteId=\"537\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166783,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2388\">[97] </p>"
+        },
+        {
+          "paragraphId": 714166784,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2389\"><format class=\"hadith\" who=\"1,14,7\" Id=\"97\" RevayatIndex=\"97\"><format class=\"sanadHadith\">و عنه، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن القاسم بن محمّد بن الجوهري، عن علي بن أبي حمزة، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي إبراهيم عليه السّلام</format></format><lfootnote noteId=\"538\">2</lfootnote> قال:</format> قلت: جعلت فداك، أكان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> حمى <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">عليّا</format></format> و هو موعوك‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714166785,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2390\"><format class=\"hadith\" who=\"1,14,7\" Id=\"97\" RevayatIndex=\"97\">قال: «إنّما كان <format class=\"maasoom\" maasoomNo=\"14\">رسول الله</format> أتى <format class=\"maasoom\" maasoomNo=\"1\">عليّا</format> و هو موعوك، و في يد <format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format> تمر، فتناوله <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">علي عليه السّلام</format></format>، فقال له <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: إيها الآن، فلم تكن تلك حمية».</format></p>"
+        },
+        {
+          "paragraphId": 714166786,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2391\"><format class=\"hadith\" who=\"1,14,7\" Id=\"97\" RevayatIndex=\"97\">فقلت: جعلت فداك أحتمي لها؟</format></p>"
+        },
+        {
+          "paragraphId": 714166787,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2392\"><format class=\"hadith\" who=\"1,14,7\" Id=\"97\" RevayatIndex=\"97\">فقال كلاما لم أحفظه فوقع في روعي أنّها سبعة أيّام أو تسعة أيّام.</format></p>"
+        },
+        {
+          "paragraphId": 714166788,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2393\"><format class=\"hadith\" who=\"1,14,7\" Id=\"97\" RevayatIndex=\"97\">فقال <format class=\"maasoom\" maasoomNo=\"1\">علي</format>: إنّ الكلام الذي كلّمني به أشبه شيء بالعبرانية<lfootnote noteId=\"539\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166789,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2394\">[98] </p>"
+        },
+        {
+          "paragraphId": 714166790,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2395\"><format class=\"hadith\" who=\"1\" Id=\"98\" RevayatIndex=\"98\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن فضالة، عن داود بن فرقد، عمّن ذكره عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين <page number=\"65\"/>صلوات الله عليه</format></format> أنّه قال: </format>«ضمنت لمن سمّى على طعامه ألّا يشتكي<lfootnote noteId=\"540\">1</lfootnote>».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168091,
+          "text": "<footnote id=\"537\"><page number=\"64\"/><mnote>(1)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 59، في الحميّة، عن إسحاق بن يوسف، قال:<br/>حدّثنا محمّد بن العيص، و الكليني في الكافي 441/291:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن عبد الرحمن بن حمّاد، عن محمّد بن إسحاق، و الصدوق في علل الشرائع: 11/464، باب النوادر فقال: حدّثنا محمّد بن علي ماجيلويه رحمه الله، قال حدّثنا محمّد بن يحيى العطّار، عن الحسين بن الحسن بن أبان، عن محمّد بن أورمة، عن الحسن بن سعيد، عن محمّد بن إسحاق، و انظر: الجعفريات: 199، دعائم الإسلام 144:2، النوادر للراوندي: 9. </footnote>"
+        },
+        {
+          "footnoteId": 714168092,
+          "text": "<footnote id=\"538\"><mnote>(2)</mnote> في النسخة: «علي بن إبراهيم» و ما أثبتناه من سند الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168093,
+          "text": "<footnote id=\"539\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. و أورد الكليني رواية تتعلّق بعلاج للحمّى بهذا الإسناد. انظر: الكافي 87/109:8. </footnote>"
+        }
+      ],
+      "pageValue": "64",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2387\" paragraph-id=\"2387\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo64\">64</span> مرضه»<span><sup><a class=\"NewFn\" href=\"#footnote537\" title=\"(1)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 59، في الحميّة، عن إسحاق بن يوسف، قال:حدّثنا محمّد بن العيص، و الكليني في الكافي 441/291:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن عبد الرحمن بن حمّاد، عن محمّد بن إسحاق، و الصدوق في علل الشرائع: 11/464، باب النوادر فقال: حدّثنا محمّد بن علي ماجيلويه رحمه الله، قال حدّثنا محمّد بن يحيى العطّار، عن الحسين بن الحسن بن أبان، عن محمّد بن أورمة، عن الحسن بن سعيد، عن محمّد بن إسحاق، و انظر: الجعفريات: 199، دعائم الإسلام 144:2، النوادر للراوندي: 9. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2388\" paragraph-id=\"2388\" class=\" G\">[97] </p>\n  <p id=\"p2389\" paragraph-id=\"2389\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن القاسم بن محمّد بن الجوهري، عن علي بن أبي حمزة، عن <span class=\"Y\"><span class=\"maasoom\">أبي إبراهيم عليه السّلام</span></span><span><sup><a class=\"NewFn\" href=\"#footnote538\" title=\"(2)  في النسخة: «علي بن إبراهيم» و ما أثبتناه من سند الكافي. \">2</a></sup></span> قال:</span> قلت: جعلت فداك، أكان <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span> حمى <span class=\"BD\"><span class=\"maasoom\">عليّا</span></span> و هو موعوك‌؟</span>\n  </p>\n  <p id=\"p2390\" paragraph-id=\"2390\" class=\" G\">\n    <span class=\"hadith\">قال: «إنّما كان <span class=\"maasoom\">رسول الله</span> أتى <span class=\"maasoom\">عليّا</span> و هو موعوك، و في يد <span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span> تمر، فتناوله <span class=\"Y\"><span class=\"maasoom\">علي عليه السّلام</span></span>، فقال له <span class=\"BD\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: إيها الآن، فلم تكن تلك حمية».</span>\n  </p>\n  <p id=\"p2391\" paragraph-id=\"2391\" class=\" G\">\n    <span class=\"hadith\">فقلت: جعلت فداك أحتمي لها؟</span>\n  </p>\n  <p id=\"p2392\" paragraph-id=\"2392\" class=\" G\">\n    <span class=\"hadith\">فقال كلاما لم أحفظه فوقع في روعي أنّها سبعة أيّام أو تسعة أيّام.</span>\n  </p>\n  <p id=\"p2393\" paragraph-id=\"2393\" class=\" G\">\n    <span class=\"hadith\">فقال <span class=\"maasoom\">علي</span>: إنّ الكلام الذي كلّمني به أشبه شيء بالعبرانية<span><sup><a class=\"NewFn\" href=\"#footnote539\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. و أورد الكليني رواية تتعلّق بعلاج للحمّى بهذا الإسناد. انظر: الكافي 87/109:8. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2394\" paragraph-id=\"2394\" class=\" G\">[98] </p>\n  <p id=\"p2395\" paragraph-id=\"2395\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن فضالة، عن داود بن فرقد، عمّن ذكره عن <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين </span></span></span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote537\" footnote-id=\"537\">(1) <page number=\"64\" /> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 59، في الحميّة، عن إسحاق بن يوسف، قال:<br />حدّثنا محمّد بن العيص، و الكليني في الكافي 441/291:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن عبد الرحمن بن حمّاد، عن محمّد بن إسحاق، و الصدوق في علل الشرائع: 11/464، باب النوادر فقال: حدّثنا محمّد بن علي ماجيلويه رحمه الله، قال حدّثنا محمّد بن يحيى العطّار، عن الحسين بن الحسن بن أبان، عن محمّد بن أورمة، عن الحسن بن سعيد، عن محمّد بن إسحاق، و انظر: الجعفريات: 199، دعائم الإسلام 144:2، النوادر للراوندي: 9. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote538\" footnote-id=\"538\">(2)  في النسخة: «علي بن إبراهيم» و ما أثبتناه من سند الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote539\" footnote-id=\"539\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. و أورد الكليني رواية تتعلّق بعلاج للحمّى بهذا الإسناد. انظر: الكافي 87/109:8. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A2AC6513-726D-4AF8-B041-3AE2025772E6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 90,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166922,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2527\"><format class=\"hadith\" who=\"6\" Id=\"135\" RevayatIndex=\"135\"><format class=\"sanadHadith\"><page number=\"90\"/> و روى أبو العباس الفضل بن عامر<lfootnote noteId=\"672\">1</lfootnote>، عن موسى بن القاسم، قال: حدّثني أبو زيد، قال: أخبرني مولى <format class=\"maasoom\" maasoomNo=\"6\">لجعفر عليه السّلام</format>، قال:</format> مرض بعض مواليه فخرجنا نعوده و نحن عدّة من موالي جعفر فاستقبلنا <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">جعفر عليه السّلام</format></format> في بعض الطريق، فقال لنا:</format></p>"
+        },
+        {
+          "paragraphId": 714166923,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2528\"><format class=\"hadith\" who=\"6\" Id=\"135\" RevayatIndex=\"135\">«أين تريدون»؟</format></p>"
+        },
+        {
+          "paragraphId": 714166924,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2529\"><format class=\"hadith\" who=\"6\" Id=\"135\" RevayatIndex=\"135\">فقلنا: نريد فلانا نعوده.</format></p>"
+        },
+        {
+          "paragraphId": 714166925,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2530\"><format class=\"hadith\" who=\"6\" Id=\"135\" RevayatIndex=\"135\">فقال لنا<lfootnote noteId=\"673\">2</lfootnote>: «قفوا». فوقفنا، فقال عليه السّلام<lfootnote noteId=\"674\">3</lfootnote>: «مع أحدكم تفّاحة أو سفر جلة أو أترجة<lfootnote noteId=\"675\">4</lfootnote> أو لعقة من طيب‌؟<lfootnote noteId=\"676\">5</lfootnote>».</format></p>"
+        },
+        {
+          "paragraphId": 714166499,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2531\"><format class=\"hadith\" who=\"6\" Id=\"135\" RevayatIndex=\"135\">فقلنا: ما معنا من هذا شيء.</format></p>"
+        },
+        {
+          "paragraphId": 714166500,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2532\"><format class=\"hadith\" who=\"6\" Id=\"135\" RevayatIndex=\"135\">فقال: «أما علمتم أنّ المريض يستريح إلى كلّ ما أدخل عليه<lfootnote noteId=\"677\">6</lfootnote>؟»<lfootnote noteId=\"678\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166501,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2533\"><page number=\"91\"/>[138] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168703,
+          "text": "<footnote id=\"672\"><page number=\"90\"/><mnote>(1)</mnote> عدّه الطوسي في الرجال: 6232/435 في ذكر أسماء من لم يرو عن واحد من الأئمّة عليهم السّلام و قال عنه: روى عنه سعد بن عبد الله، و انظر روايته في بصائر الدرجات 3/423:1، الكافي 3/118:3، من لا يحضره الفقيه 474:4، التوحيد: 34/461، ثواب الأعمال: 182، الخصال: 15/86، علل الشرائع: 1/278 و 2/302. </footnote>"
+        },
+        {
+          "footnoteId": 714168704,
+          "text": "<footnote id=\"673\"><mnote>(2)</mnote> كلمة: «لنا» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168705,
+          "text": "<footnote id=\"674\"><mnote>(3)</mnote> قوله: «فقال عليه السّلام» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168706,
+          "text": "<footnote id=\"675\"><mnote>(4)</mnote> الأترجة: بضم الهمزة و تشديد الجيم واحدة الأترج كذلك، و هي فاكهة معروفة، و في لغة ضعيفة ترنجة. مجمع البحرين 280:2 «ترج». </footnote>"
+        },
+        {
+          "footnoteId": 714168707,
+          "text": "<footnote id=\"676\"><mnote>(5)</mnote> اللعوق: اسم لما يلعق به الدواء و العسل و غيره. مجمع البحرين 233:5 «لعق». </footnote>"
+        },
+        {
+          "footnoteId": 714168708,
+          "text": "<footnote id=\"677\"><mnote>(6)</mnote> تدلّ الرواية على استحباب استصحاب العائد هدية إلى المريض من فاكهة أو شيئا طيّبا. انظر: وسائل الشيعة 17/427:2. </footnote>"
+        },
+        {
+          "footnoteId": 714168709,
+          "text": "<footnote id=\"678\"><mnote>(7)</mnote> رواه الكليني في الكافي 3/118:3، باب في كم يعاد المريض و قدر ما يجلس عنده و تمام العيادة، عن محمّد بن يحيى، عن موسى بن الحسن، عن الفضل بن عامر أبي العبّاس، عن <page number=\"91\"/>موسى بن القاسم، و الطبرسي في مكارم الأخلاق: 23/361، في عيادة المريض، فقال:<br/>عن مولى لجعفر بن محمّد عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "90",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2527\" paragraph-id=\"2527\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo90\">90</span> و روى أبو العباس الفضل بن عامر<span><sup><a class=\"NewFn\" href=\"#footnote672\" title=\"(1)  عدّه الطوسي في الرجال: 6232/435 في ذكر أسماء من لم يرو عن واحد من الأئمّة عليهم السّلام و قال عنه: روى عنه سعد بن عبد الله، و انظر روايته في بصائر الدرجات 3/423:1، الكافي 3/118:3، من لا يحضره الفقيه 474:4، التوحيد: 34/461، ثواب الأعمال: 182، الخصال: 15/86، علل الشرائع: 1/278 و 2/302. \">1</a></sup></span>، عن موسى بن القاسم، قال: حدّثني أبو زيد، قال: أخبرني مولى <span class=\"maasoom\">لجعفر عليه السّلام</span>، قال:</span> مرض بعض مواليه فخرجنا نعوده و نحن عدّة من موالي جعفر فاستقبلنا <span class=\"Y\"><span class=\"maasoom\">جعفر عليه السّلام</span></span> في بعض الطريق، فقال لنا:</span>\n  </p>\n  <p id=\"p2528\" paragraph-id=\"2528\" class=\" G\">\n    <span class=\"hadith\">«أين تريدون»؟</span>\n  </p>\n  <p id=\"p2529\" paragraph-id=\"2529\" class=\" G\">\n    <span class=\"hadith\">فقلنا: نريد فلانا نعوده.</span>\n  </p>\n  <p id=\"p2530\" paragraph-id=\"2530\" class=\" G\">\n    <span class=\"hadith\">فقال لنا<span><sup><a class=\"NewFn\" href=\"#footnote673\" title=\"(2)  كلمة: «لنا» أثبتناها من المصدر. \">2</a></sup></span>: «قفوا». فوقفنا، فقال عليه السّلام<span><sup><a class=\"NewFn\" href=\"#footnote674\" title=\"(3)  قوله: «فقال عليه السّلام» أثبتناه من المصدر. \">3</a></sup></span>: «مع أحدكم تفّاحة أو سفر جلة أو أترجة<span><sup><a class=\"NewFn\" href=\"#footnote675\" title=\"(4)  الأترجة: بضم الهمزة و تشديد الجيم واحدة الأترج كذلك، و هي فاكهة معروفة، و في لغة ضعيفة ترنجة. مجمع البحرين 280:2 «ترج». \">4</a></sup></span> أو لعقة من طيب‌؟<span><sup><a class=\"NewFn\" href=\"#footnote676\" title=\"(5)  اللعوق: اسم لما يلعق به الدواء و العسل و غيره. مجمع البحرين 233:5 «لعق». \">5</a></sup></span>».</span>\n  </p>\n  <p id=\"p2531\" paragraph-id=\"2531\" class=\" G\">\n    <span class=\"hadith\">فقلنا: ما معنا من هذا شيء.</span>\n  </p>\n  <p id=\"p2532\" paragraph-id=\"2532\" class=\" G\">\n    <span class=\"hadith\">فقال: «أما علمتم أنّ المريض يستريح إلى كلّ ما أدخل عليه<span><sup><a class=\"NewFn\" href=\"#footnote677\" title=\"(6)  تدلّ الرواية على استحباب استصحاب العائد هدية إلى المريض من فاكهة أو شيئا طيّبا. انظر: وسائل الشيعة 17/427:2. \">6</a></sup></span>؟»<span><sup><a class=\"NewFn\" href=\"#footnote678\" title=\"(7)  رواه الكليني في الكافي 3/118:3، باب في كم يعاد المريض و قدر ما يجلس عنده و تمام العيادة، عن محمّد بن يحيى، عن موسى بن الحسن، عن الفضل بن عامر أبي العبّاس، عن \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p2533\" paragraph-id=\"2533\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote672\" footnote-id=\"672\">(1) <page number=\"90\" /> عدّه الطوسي في الرجال: 6232/435 في ذكر أسماء من لم يرو عن واحد من الأئمّة عليهم السّلام و قال عنه: روى عنه سعد بن عبد الله، و انظر روايته في بصائر الدرجات 3/423:1، الكافي 3/118:3، من لا يحضره الفقيه 474:4، التوحيد: 34/461، ثواب الأعمال: 182، الخصال: 15/86، علل الشرائع: 1/278 و 2/302. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote673\" footnote-id=\"673\">(2)  كلمة: «لنا» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote674\" footnote-id=\"674\">(3)  قوله: «فقال عليه السّلام» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote675\" footnote-id=\"675\">(4)  الأترجة: بضم الهمزة و تشديد الجيم واحدة الأترج كذلك، و هي فاكهة معروفة، و في لغة ضعيفة ترنجة. مجمع البحرين 280:2 «ترج». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote676\" footnote-id=\"676\">(5)  اللعوق: اسم لما يلعق به الدواء و العسل و غيره. مجمع البحرين 233:5 «لعق». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote677\" footnote-id=\"677\">(6)  تدلّ الرواية على استحباب استصحاب العائد هدية إلى المريض من فاكهة أو شيئا طيّبا. انظر: وسائل الشيعة 17/427:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote678\" footnote-id=\"678\">(7)  رواه الكليني في الكافي 3/118:3، باب في كم يعاد المريض و قدر ما يجلس عنده و تمام العيادة، عن محمّد بن يحيى، عن موسى بن الحسن، عن الفضل بن عامر أبي العبّاس، عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "B2A51E00-1C4B-42C8-933F-65E9D9AFD1E2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

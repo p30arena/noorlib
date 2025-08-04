@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 314,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167918,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3664\"><format class=\"hadith\" who=\"16\" Id=\"509\" RevayatIndex=\"509\"><format class=\"sanadHadith\">قال صاحب الكتاب: و ممّا كتبته من ابن البندار، ممّا حذفت إسناده، قال:</format> يؤخذ للبهق الأسود و الشقاق: أفتيمون و هليلج أسود كابلي<lfootnote noteId=\"1720\">3</lfootnote> منزوع العجم، و سنا مكّي مكد<lfootnote noteId=\"1721\">4</lfootnote> جزء، و زبيب قد نقي من عجمه، يدقّ الأفتيمون<lfootnote noteId=\"1722\">5</lfootnote><page number=\"314\"/> و السناء و الهليلج و ينخل على حدة، ثمّ يدقّ الزبيب و يجمع به، و يؤخذ منه كلّ يوم وزن درهمين<lfootnote noteId=\"1723\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167919,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3665\">[519] </p>"
+        },
+        {
+          "paragraphId": 714167920,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3666\"><format class=\"hadith\" who=\"8\" Id=\"510\" RevayatIndex=\"510\"><format class=\"sanadHadith\">روى حمّاد بن عيسى قال:</format> كتبت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format> أشكو إليه البهق و علّته عليّ‌.</format></p>"
+        },
+        {
+          "paragraphId": 714167921,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3667\"><format class=\"hadith\" who=\"8\" Id=\"510\" RevayatIndex=\"510\">فكتب إليّ‌: «خذ بزر الفجلّ فاطحنه طحنا ناعما، ثمّ انخله و صبّ عليه خلّ الخمر أجود ما تقدر عليه و اطل عليه، و ادخل الحمّام حتّى تعرق مرّتين أو ثلاثة، ثمّ اغتسل و اخرج و الزم شرب العسل بالماء البارد على الريق، و ادفع الحجامة ما أمكنك» ففعلت فذهب عنّي و رزقت العافية<lfootnote noteId=\"1724\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167922,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3668\"><heading level=\"3\">أيضا للبهق الأسود و غيره:</heading></p>"
+        },
+        {
+          "paragraphId": 714167923,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3669\">[520] </p>"
+        },
+        {
+          "paragraphId": 714167924,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3670\"><format class=\"hadith\" who=\"16\" Id=\"511\" RevayatIndex=\"511\"><format class=\"sanadHadith\">روي عنهم عليهم السّلام</format>: «تأخذ خمسة و عشرين هليلجة كابلية و مثلها أفتيمون و ثلثي وزنه زبيب أبيض منزوع الخضرة، يدقّ الهليلج على حدة و الأفتيمون على حدة، ثمّ يدقّ زبيب حتّى يلين و يلقى عليه الهليلج [و الأفتيمون]<lfootnote noteId=\"1725\">3</lfootnote> و يجعل بنادق و يؤخذ منه على الريق كلّ يوم بندقة»<lfootnote noteId=\"1726\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167925,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3671\"><page number=\"315\"/><heading level=\"2\">[باب] في الجذام و دوائه </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169677,
+          "text": "<footnote id=\"1722\"><mnote>(5)</mnote> أفتيمون: لفظ يوناني معناه: دواء الجنون، و هو نبات له أصل كالجزر شديد الحمرة،<page number=\"314\"/>و فروع كالخيوط الليفية تحفّ بأوراق دقاق خضر، و زهره إلى حمرة و غبرة، و بزر دون الخردل أحمر إلى صفرة يلتفّ بما يليه. تذكرة اولي الألباب 51:1. </footnote>"
+        },
+        {
+          "footnoteId": 714169678,
+          "text": "<footnote id=\"1723\"><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و قد مرّ في هامش الحديث السابق عن مكارم الأخلاق: 2/188، و يؤخذ مع الزبيب الأحمر. </footnote>"
+        },
+        {
+          "footnoteId": 714169679,
+          "text": "<footnote id=\"1724\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169680,
+          "text": "<footnote id=\"1725\"><mnote>(3)</mnote> ما بين المعقوفتين أثبتناه لضرورة السياق. </footnote>"
+        },
+        {
+          "footnoteId": 714169681,
+          "text": "<footnote id=\"1726\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "314",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3664\" paragraph-id=\"3664\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo314\">314</span> و السناء و الهليلج و ينخل على حدة، ثمّ يدقّ الزبيب و يجمع به، و يؤخذ منه كلّ يوم وزن درهمين<span><sup><a class=\"NewFn\" href=\"#footnote1723\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا، و قد مرّ في هامش الحديث السابق عن مكارم الأخلاق: 2/188، و يؤخذ مع الزبيب الأحمر. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3665\" paragraph-id=\"3665\" class=\" G\">[519] </p>\n  <p id=\"p3666\" paragraph-id=\"3666\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى حمّاد بن عيسى قال:</span> كتبت إلى <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span> أشكو إليه البهق و علّته عليّ‌.</span>\n  </p>\n  <p id=\"p3667\" paragraph-id=\"3667\" class=\" G\">\n    <span class=\"hadith\">فكتب إليّ‌: «خذ بزر الفجلّ فاطحنه طحنا ناعما، ثمّ انخله و صبّ عليه خلّ الخمر أجود ما تقدر عليه و اطل عليه، و ادخل الحمّام حتّى تعرق مرّتين أو ثلاثة، ثمّ اغتسل و اخرج و الزم شرب العسل بالماء البارد على الريق، و ادفع الحجامة ما أمكنك» ففعلت فذهب عنّي و رزقت العافية<span><sup><a class=\"NewFn\" href=\"#footnote1724\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3668\" paragraph-id=\"3668\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">أيضا للبهق الأسود و غيره:</strong>\n  </p>\n  <p id=\"p3669\" paragraph-id=\"3669\" class=\" G\">[520] </p>\n  <p id=\"p3670\" paragraph-id=\"3670\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عنهم عليهم السّلام</span>: «تأخذ خمسة و عشرين هليلجة كابلية و مثلها أفتيمون و ثلثي وزنه زبيب أبيض منزوع الخضرة، يدقّ الهليلج على حدة و الأفتيمون على حدة، ثمّ يدقّ زبيب حتّى يلين و يلقى عليه الهليلج [و الأفتيمون]<span><sup><a class=\"NewFn\" href=\"#footnote1725\" title=\"(3)  ما بين المعقوفتين أثبتناه لضرورة السياق. \">3</a></sup></span> و يجعل بنادق و يؤخذ منه على الريق كلّ يوم بندقة»<span><sup><a class=\"NewFn\" href=\"#footnote1726\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3671\" paragraph-id=\"3671\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1722\" footnote-id=\"1722\"><page number=\"314\" />و فروع كالخيوط الليفية تحفّ بأوراق دقاق خضر، و زهره إلى حمرة و غبرة، و بزر دون الخردل أحمر إلى صفرة يلتفّ بما يليه. تذكرة اولي الألباب 51:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1723\" footnote-id=\"1723\">(1)  لم نعثر عليه في المصادر المتوفّرة لدينا، و قد مرّ في هامش الحديث السابق عن مكارم الأخلاق: 2/188، و يؤخذ مع الزبيب الأحمر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1724\" footnote-id=\"1724\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1725\" footnote-id=\"1725\">(3)  ما بين المعقوفتين أثبتناه لضرورة السياق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1726\" footnote-id=\"1726\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0A841DB0-5856-48BC-B941-B6FA70BFA47B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

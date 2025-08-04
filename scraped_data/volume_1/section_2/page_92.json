@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 92,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166508,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2540\"><format class=\"hadith\" who=\"8\" Id=\"138\" RevayatIndex=\"138\"><page number=\"92\"/> و يقول: «دواء المرّة شرب الماء البارد، و دواء البلغم شرب الماء الحارّ»<lfootnote noteId=\"683\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166509,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2541\">[141] </p>"
+        },
+        {
+          "paragraphId": 714166510,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2542\"><format class=\"hadith\" who=\"16\" Id=\"139\" RevayatIndex=\"139\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن اسماعيل، عن حفص، قال:</format> كان بعض موالينا عليهم السّلام إذا حمّ احتجم ثنتين فإن تركته، و إلّا عاودها فاحتجم أخرى فتتركه<lfootnote noteId=\"684\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166511,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2543\">[142] </p>"
+        },
+        {
+          "paragraphId": 714166512,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2544\"><format class=\"hadith\" who=\"6\" Id=\"140\" RevayatIndex=\"140\"><format class=\"sanadHadith\">عنه، عن الحميري، عن محمّد بن عيسى، عن يونس بن عبد الرحمن، يرفعه إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«لو يعلم الناس ما في التفّاح ما داووا مرضا<lfootnote noteId=\"685\">3</lfootnote>إلّا به»<lfootnote noteId=\"686\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166513,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2545\"><heading level=\"2\">[باب] في الدليل على خروج الحمّى </heading></p>"
+        },
+        {
+          "paragraphId": 714166514,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2546\">[143] </p>"
+        },
+        {
+          "paragraphId": 714166515,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2547\"><format class=\"hadith\" who=\"6\" Id=\"141\" RevayatIndex=\"141\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن خالد البرقي، يرفع الحديث إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format></format></p>"
+        },
+        {
+          "paragraphId": 714166516,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2548\"><format class=\"hadith\" who=\"6\" Id=\"141\" RevayatIndex=\"141\"><page number=\"93\"/>«الحمّى تخرج في ثلاث: العرق و البطن و القيء<lfootnote noteId=\"687\">1</lfootnote>»<lfootnote noteId=\"688\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168714,
+          "text": "<footnote id=\"683\"><page number=\"92\"/><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168715,
+          "text": "<footnote id=\"684\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168716,
+          "text": "<footnote id=\"685\"><mnote>(3)</mnote> في المصدر: «مرضاهم». </footnote>"
+        },
+        {
+          "footnoteId": 714168717,
+          "text": "<footnote id=\"686\"><mnote>(4)</mnote> رواه البرقي في المحاسن 3/551:2، باب التفّاح، عن أبيه، عن يونس، عمّن ذكره، عن أبي عبد الله عليه السّلام - و عنه الكليني في الكافي 10/356:6، باب التفّاح، و الحسين بن بسطام في طبّ الأئمّة عليهم السّلام: 53، في باب التفّاح: فقال: حدّثنا محمّد بن خلف، عن الوشّاء الحسين بن علي، عن عبد الله بن سنان، قال جعفر بن محمّد عليه السّلام:...، و كذا ابنا بسطام مع زيادة في 135، فقالا: التفّاح: جابر بن عمر السكسكي، قال: حدّثنا محمّد بن عيسى، عن أيّوب بن فضالة، عن محمّد بن مسلم، قال: قال أبو عبد الله الصادق عليه السّلام:...، و الزيادة في آخره: «ألا و إنّه أسرع شيء منفعة للفؤاد خاصّة و إنّه نضوحه». </footnote>"
+        }
+      ],
+      "pageValue": "92",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2540\" paragraph-id=\"2540\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo92\">92</span> و يقول: «دواء المرّة شرب الماء البارد، و دواء البلغم شرب الماء الحارّ»<span><sup><a class=\"NewFn\" href=\"#footnote683\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2541\" paragraph-id=\"2541\" class=\" G\">[141] </p>\n  <p id=\"p2542\" paragraph-id=\"2542\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن اسماعيل، عن حفص، قال:</span> كان بعض موالينا عليهم السّلام إذا حمّ احتجم ثنتين فإن تركته، و إلّا عاودها فاحتجم أخرى فتتركه<span><sup><a class=\"NewFn\" href=\"#footnote684\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2543\" paragraph-id=\"2543\" class=\" G\">[142] </p>\n  <p id=\"p2544\" paragraph-id=\"2544\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">عنه، عن الحميري، عن محمّد بن عيسى، عن يونس بن عبد الرحمن، يرفعه إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«لو يعلم الناس ما في التفّاح ما داووا مرضا<span><sup><a class=\"NewFn\" href=\"#footnote685\" title=\"(3)  في المصدر: «مرضاهم». \">3</a></sup></span>إلّا به»<span><sup><a class=\"NewFn\" href=\"#footnote686\" title=\"(4)  رواه البرقي في المحاسن 3/551:2، باب التفّاح، عن أبيه، عن يونس، عمّن ذكره، عن أبي عبد الله عليه السّلام - و عنه الكليني في الكافي 10/356:6، باب التفّاح، و الحسين بن بسطام في طبّ الأئمّة عليهم السّلام: 53، في باب التفّاح: فقال: حدّثنا محمّد بن خلف، عن الوشّاء الحسين بن علي، عن عبد الله بن سنان، قال جعفر بن محمّد عليه السّلام:...، و كذا ابنا بسطام مع زيادة في 135، فقالا: التفّاح: جابر بن عمر السكسكي، قال: حدّثنا محمّد بن عيسى، عن أيّوب بن فضالة، عن محمّد بن مسلم، قال: قال أبو عبد الله الصادق عليه السّلام:...، و الزيادة في آخره: «ألا و إنّه أسرع شيء منفعة للفؤاد خاصّة و إنّه نضوحه». \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2545\" paragraph-id=\"2545\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الدليل على خروج الحمّى </strong>\n  </p>\n  <p id=\"p2546\" paragraph-id=\"2546\" class=\" G\">[143] </p>\n  <p id=\"p2547\" paragraph-id=\"2547\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن خالد البرقي، يرفع الحديث إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>\n    </span>\n  </p>\n  <p id=\"p2548\" paragraph-id=\"2548\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote683\" footnote-id=\"683\">(1) <page number=\"92\" /> لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote684\" footnote-id=\"684\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote685\" footnote-id=\"685\">(3)  في المصدر: «مرضاهم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote686\" footnote-id=\"686\">(4)  رواه البرقي في المحاسن 3/551:2، باب التفّاح، عن أبيه، عن يونس، عمّن ذكره، عن أبي عبد الله عليه السّلام - و عنه الكليني في الكافي 10/356:6، باب التفّاح، و الحسين بن بسطام في طبّ الأئمّة عليهم السّلام: 53، في باب التفّاح: فقال: حدّثنا محمّد بن خلف، عن الوشّاء الحسين بن علي، عن عبد الله بن سنان، قال جعفر بن محمّد عليه السّلام:...، و كذا ابنا بسطام مع زيادة في 135، فقالا: التفّاح: جابر بن عمر السكسكي، قال: حدّثنا محمّد بن عيسى، عن أيّوب بن فضالة، عن محمّد بن مسلم، قال: قال أبو عبد الله الصادق عليه السّلام:...، و الزيادة في آخره: «ألا و إنّه أسرع شيء منفعة للفؤاد خاصّة و إنّه نضوحه». </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "38D30D5D-F201-4966-A284-0188763664B7",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

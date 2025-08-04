@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 302,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167860,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3606\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\"><page number=\"302\"/> قلت: على أيّ ماء أسقيه‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714167861,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3607\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">قال: «على مثله ماء الحسك»<lfootnote noteId=\"1660\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167862,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3608\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">قلت: و كيف آخذ ماء الحسك‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714167863,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3609\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">قال: «خذ عشرة أساتير من حسك و صبّ عليه ثلاثة و عشرين رطلا ماء و أوقد تحته حتّى يصير على الربع، ثمّ صفّه بخرقة رقيقة و صيّره في إناء و اسكب عليه الأدهان».</format></p>"
+        },
+        {
+          "paragraphId": 714167864,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3610\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">قلت: كم أعالجه به‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714167865,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3611\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">قال: «سبعة أيّام و خمس ليال».</format></p>"
+        },
+        {
+          "paragraphId": 714167866,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3612\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">قلت: فما يكون طعامه‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714167867,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3613\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">قال: «لحم أسفيداج<lfootnote noteId=\"1661\">2</lfootnote> و يصطنع بالخردل، و إن كان الباقلى بالخردل فلا بأس، و إن اشتهى الحلو فاتّخذ له عصيدة<lfootnote noteId=\"1662\">3</lfootnote> بالعسل و دهن الجوز، و لا بأس أن يثرد الثريد بماء الحمّص و الزيت».</format></p>"
+        },
+        {
+          "paragraphId": 714167868,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3614\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">قال: ففعلت به ذلك فبرأ بإذن الله تعالى<lfootnote noteId=\"1663\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167869,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"3615\"><page number=\"303\"/>[498] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169615,
+          "text": "<footnote id=\"1660\"><page number=\"302\"/><mnote>(1)</mnote> الحسك: نبات له ثمرة خشنة تتعلّق بأصواف الغنم، الواحدة حسكة. كتاب العين 59:3.<br/>هي عشبة شوكها مدحرج، الواحدة: حسكة. مجمع البحرين 262:5 «حسك».<br/>و في بحر الجواهر: 136: خارخسك. </footnote>"
+        },
+        {
+          "footnoteId": 714169616,
+          "text": "<footnote id=\"1661\"><mnote>(2)</mnote> كذا في النسخة و لعلّه هو الذي قاله الهروي: الإسفيدباجة: هي مرقة اللحم التي لا يطرح فيه شيء من التوابل و الأبازير و الأشياء التي لها طعوم غالبة من حرافة و حموضة و غيرهما لئلّا يكتسب الدم كيفيّة رديئة. قال الإقسرائي: أصله: اللحم و البصل و الحمّص لا طبيخ للصحيح المعتدل المزاج الأوفق منه. بحر الجواهر: 33. </footnote>"
+        },
+        {
+          "footnoteId": 714169617,
+          "text": "<footnote id=\"1662\"><mnote>(3)</mnote> العصيد: دقيق يلتّ بالسمن و يطبخ. بحر الجواهر: 269. </footnote>"
+        },
+        {
+          "footnoteId": 714169618,
+          "text": "<footnote id=\"1663\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "302",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3606\" paragraph-id=\"3606\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo302\">302</span> قلت: على أيّ ماء أسقيه‌؟</span>\n  </p>\n  <p id=\"p3607\" paragraph-id=\"3607\" class=\" G\">\n    <span class=\"hadith\">قال: «على مثله ماء الحسك»<span><sup><a class=\"NewFn\" href=\"#footnote1660\" title=\"(1)  الحسك: نبات له ثمرة خشنة تتعلّق بأصواف الغنم، الواحدة حسكة. كتاب العين 59:3.هي عشبة شوكها مدحرج، الواحدة: حسكة. مجمع البحرين 262:5 «حسك».و في بحر الجواهر: 136: خارخسك. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3608\" paragraph-id=\"3608\" class=\" G\">\n    <span class=\"hadith\">قلت: و كيف آخذ ماء الحسك‌؟</span>\n  </p>\n  <p id=\"p3609\" paragraph-id=\"3609\" class=\" G\">\n    <span class=\"hadith\">قال: «خذ عشرة أساتير من حسك و صبّ عليه ثلاثة و عشرين رطلا ماء و أوقد تحته حتّى يصير على الربع، ثمّ صفّه بخرقة رقيقة و صيّره في إناء و اسكب عليه الأدهان».</span>\n  </p>\n  <p id=\"p3610\" paragraph-id=\"3610\" class=\" G\">\n    <span class=\"hadith\">قلت: كم أعالجه به‌؟</span>\n  </p>\n  <p id=\"p3611\" paragraph-id=\"3611\" class=\" G\">\n    <span class=\"hadith\">قال: «سبعة أيّام و خمس ليال».</span>\n  </p>\n  <p id=\"p3612\" paragraph-id=\"3612\" class=\" G\">\n    <span class=\"hadith\">قلت: فما يكون طعامه‌؟</span>\n  </p>\n  <p id=\"p3613\" paragraph-id=\"3613\" class=\" G\">\n    <span class=\"hadith\">قال: «لحم أسفيداج<span><sup><a class=\"NewFn\" href=\"#footnote1661\" title=\"(2)  كذا في النسخة و لعلّه هو الذي قاله الهروي: الإسفيدباجة: هي مرقة اللحم التي لا يطرح فيه شيء من التوابل و الأبازير و الأشياء التي لها طعوم غالبة من حرافة و حموضة و غيرهما لئلّا يكتسب الدم كيفيّة رديئة. قال الإقسرائي: أصله: اللحم و البصل و الحمّص لا طبيخ للصحيح المعتدل المزاج الأوفق منه. بحر الجواهر: 33. \">2</a></sup></span> و يصطنع بالخردل، و إن كان الباقلى بالخردل فلا بأس، و إن اشتهى الحلو فاتّخذ له عصيدة<span><sup><a class=\"NewFn\" href=\"#footnote1662\" title=\"(3)  العصيد: دقيق يلتّ بالسمن و يطبخ. بحر الجواهر: 269. \">3</a></sup></span> بالعسل و دهن الجوز، و لا بأس أن يثرد الثريد بماء الحمّص و الزيت».</span>\n  </p>\n  <p id=\"p3614\" paragraph-id=\"3614\" class=\" G\">\n    <span class=\"hadith\">قال: ففعلت به ذلك فبرأ بإذن الله تعالى<span><sup><a class=\"NewFn\" href=\"#footnote1663\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3615\" paragraph-id=\"3615\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1660\" footnote-id=\"1660\">(1) <page number=\"302\" /> الحسك: نبات له ثمرة خشنة تتعلّق بأصواف الغنم، الواحدة حسكة. كتاب العين 59:3.<br />هي عشبة شوكها مدحرج، الواحدة: حسكة. مجمع البحرين 262:5 «حسك».<br />و في بحر الجواهر: 136: خارخسك. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1661\" footnote-id=\"1661\">(2)  كذا في النسخة و لعلّه هو الذي قاله الهروي: الإسفيدباجة: هي مرقة اللحم التي لا يطرح فيه شيء من التوابل و الأبازير و الأشياء التي لها طعوم غالبة من حرافة و حموضة و غيرهما لئلّا يكتسب الدم كيفيّة رديئة. قال الإقسرائي: أصله: اللحم و البصل و الحمّص لا طبيخ للصحيح المعتدل المزاج الأوفق منه. بحر الجواهر: 33. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1662\" footnote-id=\"1662\">(3)  العصيد: دقيق يلتّ بالسمن و يطبخ. بحر الجواهر: 269. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1663\" footnote-id=\"1663\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "342FAB14-410E-4C5B-A2A8-3D1F95F02EA3",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

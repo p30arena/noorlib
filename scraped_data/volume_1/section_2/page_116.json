@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 116,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166623,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2655\"><format class=\"hadith\" who=\"6\" Id=\"173\" RevayatIndex=\"173\"><page number=\"116\"/> فقال: «يا سليمان، إنّي وعكت البارحة فبعثت إلى هذا لآكله، استطفئ به الحرارة، و يبرّد الجوف و يذهب بالحمّى<lfootnote noteId=\"802\">1</lfootnote>»<lfootnote noteId=\"803\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166624,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2656\">[176] </p>"
+        },
+        {
+          "paragraphId": 714166625,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2657\"><format class=\"hadith\" who=\"7\" Id=\"174\" RevayatIndex=\"174\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن الحسين<lfootnote noteId=\"804\">3</lfootnote>، عن مروك بن عبيد المقانعي، عن نشيط بن صالح، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن الأوّل عليه السّلام</format></format>، قال: </format>«لو يعلم الملوك ما في التفّاح لبالغوا به. إنّ سويقه يقمع الحمّى و يقمع كلّ داء في البطن»<lfootnote noteId=\"805\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166626,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2658\">[177] </p>"
+        },
+        {
+          "paragraphId": 714166627,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2659\"><format class=\"hadith\" who=\"6\" Id=\"175\" RevayatIndex=\"175\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«لو يعلم الناس ما في التفّاح ما داووا مرضاهم إلّا به»<lfootnote noteId=\"806\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166628,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2660\">[178] </p>"
+        },
+        {
+          "paragraphId": 714166629,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2661\"><format class=\"hadith\" who=\"6\" Id=\"176\" RevayatIndex=\"176\"><format class=\"sanadHadith\">و قال عليه السّلام: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«أطعموا محموميكم التفّاح فما من شيء أنفع منه»<lfootnote noteId=\"807\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166630,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2662\"><page number=\"117\"/>[179] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168833,
+          "text": "<footnote id=\"802\"><page number=\"116\"/><mnote>(1)</mnote> قال المجلسي في بيانه: «إنّى وعكت» على بناء المفعول، قال في النهاية: «الوعك هو الحمّى و قيل: ألمها و قد وعكه المرض وعكا فهو وعك و موعوك. «فبعثت إلى هذا» أي:<br/>طلبته من بعض النواحي، «استطفئ» جملة استئنافية بيانية. بحار الأنوار 173:63. </footnote>"
+        },
+        {
+          "footnoteId": 714168499,
+          "text": "<footnote id=\"803\"><mnote>(2)</mnote> رواه البرقي في المحاسن 6/552:2، باب التفّاح، عن محمّد بن جمهور، و قال في آخره:<br/>رواه أبو الخزرج، عن سليمان، و الطبرسي في مكارم الأخلاق: 1/173، في التفّاح: عن سليمان بن درستويه.<br/>و قريب منه ما رواه البرقي في المحاسن 5/551:2، باب التفّاح، عن محمّد بن علي الهمداني، عن عبد الله بن سنان، عن درست بن أبي منصور الواسطي، قال: بعثني المفضّل بن عمر إلى أبي عبد الله عليه السّلام، و الكليني في الكافي 3/355:6، باب التفّاح، عن علي بن محمّد بن بندار، عن أبيه، عن محمّد بن علي الهمداني. </footnote>"
+        },
+        {
+          "footnoteId": 714168500,
+          "text": "<footnote id=\"804\"><mnote>(3)</mnote> في النسخة: «الحسن» و الصحيح ما أثبتناه، و هو: محمّد بن الحسين بن أبي الخطاب الذي يروي عنه الحميري كثيرا. </footnote>"
+        },
+        {
+          "footnoteId": 714168501,
+          "text": "<footnote id=\"805\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168502,
+          "text": "<footnote id=\"806\"><mnote>(5)</mnote> تقدّم في الحديث 142. انظر مصادره. </footnote>"
+        },
+        {
+          "footnoteId": 714168503,
+          "text": "<footnote id=\"807\"><mnote>(6)</mnote> رواه البرقي في المحاسن 4/551:2، باب التفّاح بعد الحديث المتقدّم، عن بعضهم، عن <page number=\"117\"/>أبي عبد الله عليه السّلام، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 63، فقالا: في التفّاح: عن إبراهيم بن محمّد، قال: حدّثنا زرعة، عن سماعة، قال: سألت أبا عبد الله الصادق عليه السّلام عن مريض اشتهى التفّاح و قد نهي عنه أن يأكله، قال عليه السّلام: «أطعموا» الحديث، و الكليني عن البرقي في الكافي 356:6 /ذيل حديث 10. </footnote>"
+        }
+      ],
+      "pageValue": "116",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2655\" paragraph-id=\"2655\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo116\">116</span> فقال: «يا سليمان، إنّي وعكت البارحة فبعثت إلى هذا لآكله، استطفئ به الحرارة، و يبرّد الجوف و يذهب بالحمّى<span><sup><a class=\"NewFn\" href=\"#footnote802\" title=\"(1)  قال المجلسي في بيانه: «إنّى وعكت» على بناء المفعول، قال في النهاية: «الوعك هو الحمّى و قيل: ألمها و قد وعكه المرض وعكا فهو وعك و موعوك. «فبعثت إلى هذا» أي:طلبته من بعض النواحي، «استطفئ» جملة استئنافية بيانية. بحار الأنوار 173:63. \">1</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote803\" title=\"(2)  رواه البرقي في المحاسن 6/552:2، باب التفّاح، عن محمّد بن جمهور، و قال في آخره:رواه أبو الخزرج، عن سليمان، و الطبرسي في مكارم الأخلاق: 1/173، في التفّاح: عن سليمان بن درستويه.و قريب منه ما رواه البرقي في المحاسن 5/551:2، باب التفّاح، عن محمّد بن علي الهمداني، عن عبد الله بن سنان، عن درست بن أبي منصور الواسطي، قال: بعثني المفضّل بن عمر إلى أبي عبد الله عليه السّلام، و الكليني في الكافي 3/355:6، باب التفّاح، عن علي بن محمّد بن بندار، عن أبيه، عن محمّد بن علي الهمداني. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2656\" paragraph-id=\"2656\" class=\" G\">[176] </p>\n  <p id=\"p2657\" paragraph-id=\"2657\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن الحسين<span><sup><a class=\"NewFn\" href=\"#footnote804\" title=\"(3)  في النسخة: «الحسن» و الصحيح ما أثبتناه، و هو: محمّد بن الحسين بن أبي الخطاب الذي يروي عنه الحميري كثيرا. \">3</a></sup></span>، عن مروك بن عبيد المقانعي، عن نشيط بن صالح، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن الأوّل عليه السّلام</span></span>، قال: </span>«لو يعلم الملوك ما في التفّاح لبالغوا به. إنّ سويقه يقمع الحمّى و يقمع كلّ داء في البطن»<span><sup><a class=\"NewFn\" href=\"#footnote805\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2658\" paragraph-id=\"2658\" class=\" G\">[177] </p>\n  <p id=\"p2659\" paragraph-id=\"2659\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«لو يعلم الناس ما في التفّاح ما داووا مرضاهم إلّا به»<span><sup><a class=\"NewFn\" href=\"#footnote806\" title=\"(5)  تقدّم في الحديث 142. انظر مصادره. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2660\" paragraph-id=\"2660\" class=\" G\">[178] </p>\n  <p id=\"p2661\" paragraph-id=\"2661\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال عليه السّلام: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«أطعموا محموميكم التفّاح فما من شيء أنفع منه»<span><sup><a class=\"NewFn\" href=\"#footnote807\" title=\"(6)  رواه البرقي في المحاسن 4/551:2، باب التفّاح بعد الحديث المتقدّم، عن بعضهم، عن \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2662\" paragraph-id=\"2662\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote802\" footnote-id=\"802\">(1) <page number=\"116\" /> قال المجلسي في بيانه: «إنّى وعكت» على بناء المفعول، قال في النهاية: «الوعك هو الحمّى و قيل: ألمها و قد وعكه المرض وعكا فهو وعك و موعوك. «فبعثت إلى هذا» أي:<br />طلبته من بعض النواحي، «استطفئ» جملة استئنافية بيانية. بحار الأنوار 173:63. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote803\" footnote-id=\"803\">(2)  رواه البرقي في المحاسن 6/552:2، باب التفّاح، عن محمّد بن جمهور، و قال في آخره:<br />رواه أبو الخزرج، عن سليمان، و الطبرسي في مكارم الأخلاق: 1/173، في التفّاح: عن سليمان بن درستويه.<br />و قريب منه ما رواه البرقي في المحاسن 5/551:2، باب التفّاح، عن محمّد بن علي الهمداني، عن عبد الله بن سنان، عن درست بن أبي منصور الواسطي، قال: بعثني المفضّل بن عمر إلى أبي عبد الله عليه السّلام، و الكليني في الكافي 3/355:6، باب التفّاح، عن علي بن محمّد بن بندار، عن أبيه، عن محمّد بن علي الهمداني. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote804\" footnote-id=\"804\">(3)  في النسخة: «الحسن» و الصحيح ما أثبتناه، و هو: محمّد بن الحسين بن أبي الخطاب الذي يروي عنه الحميري كثيرا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote805\" footnote-id=\"805\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote806\" footnote-id=\"806\">(5)  تقدّم في الحديث 142. انظر مصادره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote807\" footnote-id=\"807\">(6)  رواه البرقي في المحاسن 4/551:2، باب التفّاح بعد الحديث المتقدّم، عن بعضهم، عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "BCF4FB94-343E-4C1C-AD65-703A331A12A3",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

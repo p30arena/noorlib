@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 290,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167781,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3527\"><format class=\"hadith\" who=\"16\" Id=\"465\" RevayatIndex=\"465\"> و شكا إليه عمرو الأزرق<lfootnote noteId=\"1591\">4</lfootnote>، فقال: «خذ هذه الحبّة السوداء - و هي <page number=\"290\"/> الشونيز -»<lfootnote noteId=\"1592\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167782,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3528\"><format class=\"hadith\" who=\"16\" Id=\"465\" RevayatIndex=\"465\">و قال: «يؤخذ للبول: الحرمل و يغسل بالماء البارد ستّ غسلات و بالماء الحارّ مرّة، ثمّ يجفّف في الظلّ‌، ثمّ يلتّ بدهن الجلّ‌<lfootnote noteId=\"1593\">2</lfootnote> الخالص، ثمّ يستفّ كلّ غداة ثلاث سفّات، فإنّه يقطع البول<lfootnote noteId=\"1594\">3</lfootnote> بإذن الله تعالى»<lfootnote noteId=\"1595\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167783,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3529\">[475] </p>"
+        },
+        {
+          "paragraphId": 714167784,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3530\"><format class=\"hadith\" who=\"6\" Id=\"466\" RevayatIndex=\"466\"><format class=\"sanadHadith\">روى حمران بن أعين قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> كثرة ما يصيبني من التقطير.</format></p>"
+        },
+        {
+          "paragraphId": 714167785,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3531\"><format class=\"hadith\" who=\"6\" Id=\"466\" RevayatIndex=\"466\">فقال: «كل الباقلّى بالخردل».</format></p>"
+        },
+        {
+          "paragraphId": 714167786,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3532\"><format class=\"hadith\" who=\"6\" Id=\"466\" RevayatIndex=\"466\">قلت: كيف آكله‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714167787,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3533\"><format class=\"hadith\" who=\"6\" Id=\"466\" RevayatIndex=\"466\">فقال: «تطبخ لك الباقلى حتى تتهرأ و تبقى قشره، و يضرب لك الخردل الحرّيف<lfootnote noteId=\"1596\">5</lfootnote> و يجعل لك الباقلى فيه و تصبّ عليه الزيت، ثمّ كله» ففعلت فسكن عنّي<lfootnote noteId=\"1597\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167788,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3534\"><page number=\"291\"/>[476] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169547,
+          "text": "<footnote id=\"1592\"><page number=\"290\"/><mnote>(1)</mnote> لعلّه مع ما بعده حديث واحد، و على أي حال لم نعثر على هذه الفقرة في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169548,
+          "text": "<footnote id=\"1593\"><mnote>(2)</mnote> الجلّ‌: الياسمين و قيل: هو الورد أبيضه و أحمره و أصفره. لسان العرب 121:11 «جلل». و قد يقرأ «الحل» و هو الشيرج و هو دهن السمسم. تاج العروس 165:14 «حلل». </footnote>"
+        },
+        {
+          "footnoteId": 714169549,
+          "text": "<footnote id=\"1594\"><mnote>(3)</mnote> في المصدر: «يقطع التقطير» بدل «يقطع البول». </footnote>"
+        },
+        {
+          "footnoteId": 714169550,
+          "text": "<footnote id=\"1595\"><mnote>(4)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 68، فقالا: في البول و تقطيره، محمّد بن إبراهيم العلوي، قال: حدّثنا فضالة، عن محمّد بن أبي بصير، عن أبيه، قال: شكا عمرو الأفرق إلى الباقر عليه السّلام تقطير البول، فقال: «خذ الحرمل و اغسله بالماء البارد ستّ مرات». </footnote>"
+        },
+        {
+          "footnoteId": 714169551,
+          "text": "<footnote id=\"1596\"><mnote>(5)</mnote> كذا استظهرناه و قد يقرأ بصيغة اخرى. و الحرّيف: الذي يلذع اللسان بحرافته، و كذلك بصل حرّيف. الصحاح 1342:4 «حرف». </footnote>"
+        },
+        {
+          "footnoteId": 714169552,
+          "text": "<footnote id=\"1597\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "290",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3527\" paragraph-id=\"3527\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo290\">290</span> الشونيز -»<span><sup><a class=\"NewFn\" href=\"#footnote1592\" title=\"(1)  لعلّه مع ما بعده حديث واحد، و على أي حال لم نعثر على هذه الفقرة في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3528\" paragraph-id=\"3528\" class=\" G\">\n    <span class=\"hadith\">و قال: «يؤخذ للبول: الحرمل و يغسل بالماء البارد ستّ غسلات و بالماء الحارّ مرّة، ثمّ يجفّف في الظلّ‌، ثمّ يلتّ بدهن الجلّ‌<span><sup><a class=\"NewFn\" href=\"#footnote1593\" title=\"(2)  الجلّ‌: الياسمين و قيل: هو الورد أبيضه و أحمره و أصفره. لسان العرب 121:11 «جلل». و قد يقرأ «الحل» و هو الشيرج و هو دهن السمسم. تاج العروس 165:14 «حلل». \">2</a></sup></span> الخالص، ثمّ يستفّ كلّ غداة ثلاث سفّات، فإنّه يقطع البول<span><sup><a class=\"NewFn\" href=\"#footnote1594\" title=\"(3)  في المصدر: «يقطع التقطير» بدل «يقطع البول». \">3</a></sup></span> بإذن الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote1595\" title=\"(4)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 68، فقالا: في البول و تقطيره، محمّد بن إبراهيم العلوي، قال: حدّثنا فضالة، عن محمّد بن أبي بصير، عن أبيه، قال: شكا عمرو الأفرق إلى الباقر عليه السّلام تقطير البول، فقال: «خذ الحرمل و اغسله بالماء البارد ستّ مرات». \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3529\" paragraph-id=\"3529\" class=\" G\">[475] </p>\n  <p id=\"p3530\" paragraph-id=\"3530\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى حمران بن أعين قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> كثرة ما يصيبني من التقطير.</span>\n  </p>\n  <p id=\"p3531\" paragraph-id=\"3531\" class=\" G\">\n    <span class=\"hadith\">فقال: «كل الباقلّى بالخردل».</span>\n  </p>\n  <p id=\"p3532\" paragraph-id=\"3532\" class=\" G\">\n    <span class=\"hadith\">قلت: كيف آكله‌؟</span>\n  </p>\n  <p id=\"p3533\" paragraph-id=\"3533\" class=\" G\">\n    <span class=\"hadith\">فقال: «تطبخ لك الباقلى حتى تتهرأ و تبقى قشره، و يضرب لك الخردل الحرّيف<span><sup><a class=\"NewFn\" href=\"#footnote1596\" title=\"(5)  كذا استظهرناه و قد يقرأ بصيغة اخرى. و الحرّيف: الذي يلذع اللسان بحرافته، و كذلك بصل حرّيف. الصحاح 1342:4 «حرف». \">5</a></sup></span> و يجعل لك الباقلى فيه و تصبّ عليه الزيت، ثمّ كله» ففعلت فسكن عنّي<span><sup><a class=\"NewFn\" href=\"#footnote1597\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3534\" paragraph-id=\"3534\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1592\" footnote-id=\"1592\">(1) <page number=\"290\" /> لعلّه مع ما بعده حديث واحد، و على أي حال لم نعثر على هذه الفقرة في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1593\" footnote-id=\"1593\">(2)  الجلّ‌: الياسمين و قيل: هو الورد أبيضه و أحمره و أصفره. لسان العرب 121:11 «جلل». و قد يقرأ «الحل» و هو الشيرج و هو دهن السمسم. تاج العروس 165:14 «حلل». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1594\" footnote-id=\"1594\">(3)  في المصدر: «يقطع التقطير» بدل «يقطع البول». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1595\" footnote-id=\"1595\">(4)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 68، فقالا: في البول و تقطيره، محمّد بن إبراهيم العلوي، قال: حدّثنا فضالة، عن محمّد بن أبي بصير، عن أبيه، قال: شكا عمرو الأفرق إلى الباقر عليه السّلام تقطير البول، فقال: «خذ الحرمل و اغسله بالماء البارد ستّ مرات». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1596\" footnote-id=\"1596\">(5)  كذا استظهرناه و قد يقرأ بصيغة اخرى. و الحرّيف: الذي يلذع اللسان بحرافته، و كذلك بصل حرّيف. الصحاح 1342:4 «حرف». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1597\" footnote-id=\"1597\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "294845CA-32F4-4957-9C93-FA551E757121",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

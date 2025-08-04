@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 198,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167304,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3050\"><page number=\"198\"/>[315] </p>"
+        },
+        {
+          "paragraphId": 714167305,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3051\"><format class=\"hadith\" who=\"14\" Id=\"313\" RevayatIndex=\"313\"><format class=\"sanadHadith\">و في وصيّة <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">النبي صلّى الله عليه و آله </format></format><format class=\"maasoom\" maasoomNo=\"1\">لعلي عليه السّلام</format>: </format>«يا <format class=\"maasoom\" maasoomNo=\"1\">علي</format>، عليك بالسواك فإن استطعت أن لا تقلّ منه فافعل، فإنّ كلّ صلاة تصلّيها بسواك تفضل على التي تصليها<lfootnote noteId=\"1152\">1</lfootnote>بغير سواك سبعين ضعفا»<lfootnote noteId=\"1153\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167306,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3052\">[316] </p>"
+        },
+        {
+          "paragraphId": 714167307,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3053\"><format class=\"hadith\" who=\"14,1,6\" Id=\"314\" RevayatIndex=\"314\"><format class=\"sanadHadith\">أخبرنا أبو الحسن الأهوازي، قال: حدّثنا منصور بن خليل بن زيد، قال: حدّثنا أحمد بن عيسى بن زيد، عن <format class=\"maasoom\" maasoomNo=\"6\">الصادق عليه السّلام</format>، عن <format class=\"maasoom\" maasoomNo=\"5\">أبيه</format>، </format><format class=\"sanadHadith\">عن زيد بن علي، و عمّي الحسين بن زيد، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">الصادق جعفر بن محمّد</format></format>، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"5\">أبيه</format></format>، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"4\">علي بن الحسين</format></format>، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"3\">أبيه</format></format>، عن جدّه <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">علي عليهم السّلام</format></format>، قال: </format>«احتبس الوحي على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>.</format></p>"
+        },
+        {
+          "paragraphId": 714167308,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3054\"><format class=\"hadith\" who=\"14,1,6\" Id=\"314\" RevayatIndex=\"314\">فقيل: احتبس الوحي عليك يا <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله</format></format>؟</format></p>"
+        },
+        {
+          "paragraphId": 714167309,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3055\"><format class=\"hadith\" who=\"14,1,6\" Id=\"314\" RevayatIndex=\"314\">فقال: و كيف لا يحتبس عليّ الوحي و أنتم لا تستاكون أفواهكم، و لا تقلّمون أظفاركم و لا تنقّون براجمكم<lfootnote noteId=\"1154\">3</lfootnote> و لا تداوون آباطكم، أفلا تستاكون فإنّه طرق القرآن، و داووا آباطكم.</format></p>"
+        },
+        {
+          "paragraphId": 714167310,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3056\"><format class=\"hadith\" who=\"14,1,6\" Id=\"314\" RevayatIndex=\"314\">ألا و إنّ حليّ الرجال الأولاد فأحسنوا أدبهم و انقوا درنهم فإنّ الولد الصالح ريحانة من رياحين الجنّة»<lfootnote noteId=\"1155\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167311,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3057\"><page number=\"199\"/><heading level=\"2\">[باب] الخلال </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169196,
+          "text": "<footnote id=\"1152\"><page number=\"198\"/><mnote>(1)</mnote> كلمة: «تصلّيها» أثبتناها من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169197,
+          "text": "<footnote id=\"1153\"><mnote>(2)</mnote> رواه الطبرسي في مكارم الأخلاق: 23/50، الفصل الثالث في السواك، من كتاب طبّ الأئمّة عليهم السّلام، و في وصيّة النّبي صلّى الله عليه و آله لأمير المؤمنين عليه السّلام: «يا علي...». </footnote>"
+        },
+        {
+          "footnoteId": 714169198,
+          "text": "<footnote id=\"1154\"><mnote>(3)</mnote> البرجم: هي العقدة التي في ظهور الأصابع، يجتمع فيها الوسخ. النهاية في غريب الحديث 113:1 «برجم». </footnote>"
+        },
+        {
+          "footnoteId": 714169199,
+          "text": "<footnote id=\"1155\"><mnote>(4)</mnote> روى نحوه موجزا ابن الأشعث في الجعفريات: 15 - و بالإسناد إليه الراوندي في النوادر: 40 - بالإسناد عن موسى بن جعفر، عن آبائه، عن علي عليهم السّلام قال: «قال رسول الله صلّى الله عليه و آله: أتاني جبرائيل عليه السّلام فقال: يا محمّد، كيف ننزل عليكم و أنتم لا تستاكون و لا تستنجون بالماء و لا تغسلون براجمكم»، و عنه في دعائم الإسلام 119:1. </footnote>"
+        }
+      ],
+      "pageValue": "198",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3050\" paragraph-id=\"3050\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo198\">198</span>[315] </p>\n  <p id=\"p3051\" paragraph-id=\"3051\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و في وصيّة <span class=\"Y\"><span class=\"maasoom\">النبي صلّى الله عليه و آله </span></span><span class=\"maasoom\">لعلي عليه السّلام</span>: </span>«يا <span class=\"maasoom\">علي</span>، عليك بالسواك فإن استطعت أن لا تقلّ منه فافعل، فإنّ كلّ صلاة تصلّيها بسواك تفضل على التي تصليها<span><sup><a class=\"NewFn\" href=\"#footnote1152\" title=\"(1)  كلمة: «تصلّيها» أثبتناها من مكارم الأخلاق. \">1</a></sup></span>بغير سواك سبعين ضعفا»<span><sup><a class=\"NewFn\" href=\"#footnote1153\" title=\"(2)  رواه الطبرسي في مكارم الأخلاق: 23/50، الفصل الثالث في السواك، من كتاب طبّ الأئمّة عليهم السّلام، و في وصيّة النّبي صلّى الله عليه و آله لأمير المؤمنين عليه السّلام: «يا علي...». \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3052\" paragraph-id=\"3052\" class=\" G\">[316] </p>\n  <p id=\"p3053\" paragraph-id=\"3053\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أخبرنا أبو الحسن الأهوازي، قال: حدّثنا منصور بن خليل بن زيد، قال: حدّثنا أحمد بن عيسى بن زيد، عن <span class=\"maasoom\">الصادق عليه السّلام</span>، عن <span class=\"maasoom\">أبيه</span>، </span>\n      <span class=\"sanadHadith\">عن زيد بن علي، و عمّي الحسين بن زيد، عن <span class=\"HQ\"><span class=\"maasoom\">الصادق جعفر بن محمّد</span></span>، عن <span class=\"G\"><span class=\"maasoom\">أبيه</span></span>، عن <span class=\"G\"><span class=\"maasoom\">علي بن الحسين</span></span>، عن <span class=\"G\"><span class=\"maasoom\">أبيه</span></span>، عن جدّه <span class=\"Y\"><span class=\"maasoom\">علي عليهم السّلام</span></span>، قال: </span>«احتبس الوحي على <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>.</span>\n  </p>\n  <p id=\"p3054\" paragraph-id=\"3054\" class=\" G\">\n    <span class=\"hadith\">فقيل: احتبس الوحي عليك يا <span class=\"BD\"><span class=\"maasoom\">رسول الله</span></span>؟</span>\n  </p>\n  <p id=\"p3055\" paragraph-id=\"3055\" class=\" G\">\n    <span class=\"hadith\">فقال: و كيف لا يحتبس عليّ الوحي و أنتم لا تستاكون أفواهكم، و لا تقلّمون أظفاركم و لا تنقّون براجمكم<span><sup><a class=\"NewFn\" href=\"#footnote1154\" title=\"(3)  البرجم: هي العقدة التي في ظهور الأصابع، يجتمع فيها الوسخ. النهاية في غريب الحديث 113:1 «برجم». \">3</a></sup></span> و لا تداوون آباطكم، أفلا تستاكون فإنّه طرق القرآن، و داووا آباطكم.</span>\n  </p>\n  <p id=\"p3056\" paragraph-id=\"3056\" class=\" G\">\n    <span class=\"hadith\">ألا و إنّ حليّ الرجال الأولاد فأحسنوا أدبهم و انقوا درنهم فإنّ الولد الصالح ريحانة من رياحين الجنّة»<span><sup><a class=\"NewFn\" href=\"#footnote1155\" title=\"(4)  روى نحوه موجزا ابن الأشعث في الجعفريات: 15 - و بالإسناد إليه الراوندي في النوادر: 40 - بالإسناد عن موسى بن جعفر، عن آبائه، عن علي عليهم السّلام قال: «قال رسول الله صلّى الله عليه و آله: أتاني جبرائيل عليه السّلام فقال: يا محمّد، كيف ننزل عليكم و أنتم لا تستاكون و لا تستنجون بالماء و لا تغسلون براجمكم»، و عنه في دعائم الإسلام 119:1. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3057\" paragraph-id=\"3057\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1152\" footnote-id=\"1152\">(1) <page number=\"198\" /> كلمة: «تصلّيها» أثبتناها من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1153\" footnote-id=\"1153\">(2)  رواه الطبرسي في مكارم الأخلاق: 23/50، الفصل الثالث في السواك، من كتاب طبّ الأئمّة عليهم السّلام، و في وصيّة النّبي صلّى الله عليه و آله لأمير المؤمنين عليه السّلام: «يا علي...». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1154\" footnote-id=\"1154\">(3)  البرجم: هي العقدة التي في ظهور الأصابع، يجتمع فيها الوسخ. النهاية في غريب الحديث 113:1 «برجم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1155\" footnote-id=\"1155\">(4)  روى نحوه موجزا ابن الأشعث في الجعفريات: 15 - و بالإسناد إليه الراوندي في النوادر: 40 - بالإسناد عن موسى بن جعفر، عن آبائه، عن علي عليهم السّلام قال: «قال رسول الله صلّى الله عليه و آله: أتاني جبرائيل عليه السّلام فقال: يا محمّد، كيف ننزل عليكم و أنتم لا تستاكون و لا تستنجون بالماء و لا تغسلون براجمكم»، و عنه في دعائم الإسلام 119:1. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D8CF4411-347C-4B5E-ABF3-62800BDCE2A8",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

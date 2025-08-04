@@ -1,0 +1,121 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 136,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170258,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1513\"><format class=\"hadith\" who=\"17\" Id=\"182\" RevayatIndex=\"703\"><page number=\"136\"/> الأسماء الآتي للعاصين على <format class=\"E\" Number=\"37\">سليمان بن داود عليهما السّلام</format>:</format></p>"
+        },
+        {
+          "paragraphId": 714170259,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1514\"><format class=\"hadith\" who=\"17\" Id=\"182\" RevayatIndex=\"703\">امّ شهاب، و هي التي مع الصبي على بطن امّه، فتشرب دمه و تأكل لحمه و نسله حتّى يموت.</format></p>"
+        },
+        {
+          "paragraphId": 714170260,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1515\"><format class=\"hadith\" who=\"17\" Id=\"182\" RevayatIndex=\"703\">و امّ سواد، و هي التي تأتي قبر الميّت فتشقّ بطنه إذا دفن و تلعب بمصارينه.</format></p>"
+        },
+        {
+          "paragraphId": 714170261,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1516\"><format class=\"hadith\" who=\"17\" Id=\"182\" RevayatIndex=\"703\">و امّ ملدم، و هي الحمّى.</format></p>"
+        },
+        {
+          "paragraphId": 714170262,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1517\"><format class=\"hadith\" who=\"17\" Id=\"182\" RevayatIndex=\"703\">و امّ الصبيان، و هي التي تتراءى<lfootnote noteId=\"541\">1</lfootnote> للصبيان، الغيبة بعد الغيبة و بعد ما يكسر.</format></p>"
+        },
+        {
+          "paragraphId": 714170263,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1518\"><format class=\"hadith\" who=\"17\" Id=\"182\" RevayatIndex=\"703\">و السعلاة، و هي الغول.</format></p>"
+        },
+        {
+          "paragraphId": 714170264,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1519\"><format class=\"hadith\" who=\"17\" Id=\"182\" RevayatIndex=\"703\">و النجاة منهنّ - بإذن الله تعالى - آية الكرسي.</format></p>"
+        },
+        {
+          "paragraphId": 714170265,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1520\"><format class=\"hadith\" who=\"17\" Id=\"182\" RevayatIndex=\"703\">و هربن من <format class=\"E\" Number=\"37\">سليمان بن داود</format> و كنّ في الهواء، فأرسل الشياطين، فأنزل بهنّ‌، فسألهنّ‌: لم هربتنّ؟ فقلن: ليس علينا.</format></p>"
+        },
+        {
+          "paragraphId": 714170266,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1521\"><format class=\"hadith\" who=\"17\" Id=\"182\" RevayatIndex=\"703\">فقال لهنّ‌: فبأيّ شيء أملككنّ و تسمعن لي‌؟ فقلن: بآية الكرسي.</format></p>"
+        },
+        {
+          "paragraphId": 714170267,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1522\"><format class=\"hadith\" who=\"17\" Id=\"182\" RevayatIndex=\"703\">و هي تنفع من الحمّى و من السرق و من الهوامّ كلّها بإذن الله، و لا حول و لا قوّة إلّا بالله<lfootnote noteId=\"542\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170268,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1523\">[185] </p>"
+        },
+        {
+          "paragraphId": 714170269,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1524\"><format class=\"hadith\" who=\"6\" Id=\"183\" RevayatIndex=\"704\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال<lfootnote noteId=\"543\">3</lfootnote>: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن ابن أبي عمير، عن حفص، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«مروا القابلة و امّ الصبي أو بعض من يليه أن<lfootnote noteId=\"544\">4</lfootnote> تقيم الصلاة في اذنه اليمنى، فلا يصيبه <page number=\"137\"/> امّ الصبيان<lfootnote noteId=\"545\">1</lfootnote> و لا تابعة<lfootnote noteId=\"546\">2</lfootnote> أبدا»<lfootnote noteId=\"547\">3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171338,
+          "text": "<footnote id=\"541\"><page number=\"136\"/><mnote>(1)</mnote> كذا استظهرناه من النسخة. </footnote>"
+        },
+        {
+          "footnoteId": 714171339,
+          "text": "<footnote id=\"542\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و في سنده و متنه أشياء من الغرابة، و لكن لا يضرّنا ذلك؛ لأنّ الكلام منقول عن ابن عبّاس الذي لا نعلم هل رواه عن المعصوم عليه السّلام أم لا؟ </footnote>"
+        },
+        {
+          "footnoteId": 714171340,
+          "text": "<footnote id=\"543\"><mnote>(3)</mnote> قوله: «حدثنا ابن همّام قال» أثبتناه من الأسانيد الاخرى. </footnote>"
+        },
+        {
+          "footnoteId": 714171341,
+          "text": "<footnote id=\"544\"><mnote>(4)</mnote> كلمة: «أن» أثبتناها من المصدر.</footnote>"
+        }
+      ],
+      "pageValue": "136",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1513\" paragraph-id=\"1513\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo136\">136</span> الأسماء الآتي للعاصين على <span class=\"E\">سليمان بن داود عليهما السّلام</span>:</span>\n  </p>\n  <p id=\"p1514\" paragraph-id=\"1514\" class=\" G\">\n    <span class=\"hadith\">امّ شهاب، و هي التي مع الصبي على بطن امّه، فتشرب دمه و تأكل لحمه و نسله حتّى يموت.</span>\n  </p>\n  <p id=\"p1515\" paragraph-id=\"1515\" class=\" G\">\n    <span class=\"hadith\">و امّ سواد، و هي التي تأتي قبر الميّت فتشقّ بطنه إذا دفن و تلعب بمصارينه.</span>\n  </p>\n  <p id=\"p1516\" paragraph-id=\"1516\" class=\" G\">\n    <span class=\"hadith\">و امّ ملدم، و هي الحمّى.</span>\n  </p>\n  <p id=\"p1517\" paragraph-id=\"1517\" class=\" G\">\n    <span class=\"hadith\">و امّ الصبيان، و هي التي تتراءى<span><sup><a class=\"NewFn\" href=\"#footnote541\" title=\"(1)  كذا استظهرناه من النسخة. \">1</a></sup></span> للصبيان، الغيبة بعد الغيبة و بعد ما يكسر.</span>\n  </p>\n  <p id=\"p1518\" paragraph-id=\"1518\" class=\" G\">\n    <span class=\"hadith\">و السعلاة، و هي الغول.</span>\n  </p>\n  <p id=\"p1519\" paragraph-id=\"1519\" class=\" G\">\n    <span class=\"hadith\">و النجاة منهنّ - بإذن الله تعالى - آية الكرسي.</span>\n  </p>\n  <p id=\"p1520\" paragraph-id=\"1520\" class=\" G\">\n    <span class=\"hadith\">و هربن من <span class=\"E\">سليمان بن داود</span> و كنّ في الهواء، فأرسل الشياطين، فأنزل بهنّ‌، فسألهنّ‌: لم هربتنّ؟ فقلن: ليس علينا.</span>\n  </p>\n  <p id=\"p1521\" paragraph-id=\"1521\" class=\" G\">\n    <span class=\"hadith\">فقال لهنّ‌: فبأيّ شيء أملككنّ و تسمعن لي‌؟ فقلن: بآية الكرسي.</span>\n  </p>\n  <p id=\"p1522\" paragraph-id=\"1522\" class=\" G\">\n    <span class=\"hadith\">و هي تنفع من الحمّى و من السرق و من الهوامّ كلّها بإذن الله، و لا حول و لا قوّة إلّا بالله<span><sup><a class=\"NewFn\" href=\"#footnote542\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا، و في سنده و متنه أشياء من الغرابة، و لكن لا يضرّنا ذلك؛ لأنّ الكلام منقول عن ابن عبّاس الذي لا نعلم هل رواه عن المعصوم عليه السّلام أم لا؟ \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1523\" paragraph-id=\"1523\" class=\" G\">[185] </p>\n  <p id=\"p1524\" paragraph-id=\"1524\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال<span><sup><a class=\"NewFn\" href=\"#footnote543\" title=\"(3)  قوله: «حدثنا ابن همّام قال» أثبتناه من الأسانيد الاخرى. \">3</a></sup></span>: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن ابن أبي عمير، عن حفص، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«مروا القابلة و امّ الصبي أو بعض من يليه أن<span><sup><a class=\"NewFn\" href=\"#footnote544\" title=\"(4)  كلمة: «أن» أثبتناها من المصدر.\">4</a></sup></span> تقيم الصلاة في اذنه اليمنى، فلا يصيبه </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote541\" footnote-id=\"541\">(1) <page number=\"136\" /> كذا استظهرناه من النسخة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote542\" footnote-id=\"542\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا، و في سنده و متنه أشياء من الغرابة، و لكن لا يضرّنا ذلك؛ لأنّ الكلام منقول عن ابن عبّاس الذي لا نعلم هل رواه عن المعصوم عليه السّلام أم لا؟ </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote543\" footnote-id=\"543\">(3)  قوله: «حدثنا ابن همّام قال» أثبتناه من الأسانيد الاخرى. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote544\" footnote-id=\"544\">(4)  كلمة: «أن» أثبتناها من المصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "13EF0FFF-64D3-4A0E-A3B3-367DAD2AE6B4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

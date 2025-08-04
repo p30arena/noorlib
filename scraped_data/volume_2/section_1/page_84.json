@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 84,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170057,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1312\"><page number=\"84\"/> المبرسم الحديث يأخذ رمّانا حامضا فيعصره و يداف من الدواء قدر عدسة بماء الرمّان الحامض بما يسقى، يشفيه الله تعالى.</p>"
+        },
+        {
+          "paragraphId": 714170058,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1313\">و كلّما عتق كان أجود له لكلّ داء يؤخذ منه، كلّما عتق كان أنفع، فيؤخذ أقلّ إلّا للداء الشديد<lfootnote noteId=\"325\">1</lfootnote>».</p>"
+        },
+        {
+          "paragraphId": 714170059,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1314\">كفانا الله و إيّاكم شرّه، و كان يسمّيه دواء <format class=\"maasoom\" maasoomNo=\"14\">محمّد صلّى الله عليه و آله</format> فتمسّكوا به. </p>"
+        },
+        {
+          "paragraphId": 714170060,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1315\"><heading level=\"2\">[باب] في الغيرة </heading></p>"
+        },
+        {
+          "paragraphId": 714170061,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1316\">[112] </p>"
+        },
+        {
+          "paragraphId": 714170062,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1317\"><format class=\"hadith\" who=\"6\" Id=\"112\" RevayatIndex=\"633\"><format class=\"sanadHadith\">علي بن زرياب، عن محمّد بن أورمة، عن يوسف بن حمّاد، رفعه إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«للمرأة إذا غارت، تقرأ على سويقها الذي تشربه سبع مرّات: <format class=\"ayah\" surah=\"26\" ayah=\"4\" toAyah=\"\">إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ اَلسَّمٰاءِ آيَةً فَظَلَّتْ أَعْنٰاقُهُمْ لَهٰا خٰاضِعِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"26\" ayah=\"4\" toAyah=\"\"/></format>، <format class=\"ayah\" surah=\"26\" ayah=\"205\" toAyah=\"207\">أَ فَرَأَيْتَ إِنْ مَتَّعْنٰاهُمْ سِنِينَ * <format class=\"AyahSeprator\"/>ثُمَّ جٰاءَهُمْ مٰا كٰانُوا يُوعَدُونَ * <format class=\"AyahSeprator\"/>مٰا أَغْنىٰ عَنْهُمْ مٰا كٰانُوا يُمَتَّعُونَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"16\"/><format class=\"ayahAddress\" surah=\"26\" ayah=\"205\" toAyah=\"207\"/></format><lfootnote noteId=\"326\">2</lfootnote>»<lfootnote noteId=\"327\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170063,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1318\"><page number=\"85\"/><heading level=\"2\">[باب] دواء يعرف بالنهش </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171109,
+          "text": "<footnote id=\"325\"><page number=\"84\"/><mnote>(1)</mnote> رواه أبو عتاب عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 124 و 128، ضمن حديثين بتفاوت كثير، بعنوان: «دواء الشافية» فقال: حدّثني إبراهيم بن النضر من ولد ميثم التمّار... و محمّد بن جعفر بن علي البرسي، قال: حدّثنا محمّد بن يحيى الأرمني - و كان بابا للمفضّل بن عمر، و كان المفضّل بابا لأبي عبد الله الصادق عليه السّلام - قال محمّد بن يحيى الأرمني: حدّثني محمّد بن سنان السناني الزاهري أبو عبد الله، قال المفضّل بن عمر:<br/>حدّثني الصادق جعفر بن محمّد عليه السّلام، قال: هذا الدواء دواء محمّد صلّى الله عليه و آله.<br/>و أحمد بن محمّد أبو عبد الله، قال: حدّثنا حمّاد بن عيسى، عن حريز، عن أبي عبد الله عليه السّلام:<br/>في دواء محمّد صلّى الله عليه و آله. </footnote>"
+        },
+        {
+          "footnoteId": 714171110,
+          "text": "<footnote id=\"326\"><mnote>(2)</mnote> الآيات من سورة الشعراء 4:26 و 205-207. </footnote>"
+        },
+        {
+          "footnoteId": 714171111,
+          "text": "<footnote id=\"327\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "84",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1312\" paragraph-id=\"1312\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo84\">84</span> المبرسم الحديث يأخذ رمّانا حامضا فيعصره و يداف من الدواء قدر عدسة بماء الرمّان الحامض بما يسقى، يشفيه الله تعالى.</p>\n  <p id=\"p1313\" paragraph-id=\"1313\" class=\" G\">و كلّما عتق كان أجود له لكلّ داء يؤخذ منه، كلّما عتق كان أنفع، فيؤخذ أقلّ إلّا للداء الشديد<span><sup><a class=\"NewFn\" href=\"#footnote325\" title=\"(1)  رواه أبو عتاب عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 124 و 128، ضمن حديثين بتفاوت كثير، بعنوان: «دواء الشافية» فقال: حدّثني إبراهيم بن النضر من ولد ميثم التمّار... و محمّد بن جعفر بن علي البرسي، قال: حدّثنا محمّد بن يحيى الأرمني - و كان بابا للمفضّل بن عمر، و كان المفضّل بابا لأبي عبد الله الصادق عليه السّلام - قال محمّد بن يحيى الأرمني: حدّثني محمّد بن سنان السناني الزاهري أبو عبد الله، قال المفضّل بن عمر:حدّثني الصادق جعفر بن محمّد عليه السّلام، قال: هذا الدواء دواء محمّد صلّى الله عليه و آله.و أحمد بن محمّد أبو عبد الله، قال: حدّثنا حمّاد بن عيسى، عن حريز، عن أبي عبد الله عليه السّلام:في دواء محمّد صلّى الله عليه و آله. \">1</a></sup></span>».</p>\n  <p id=\"p1314\" paragraph-id=\"1314\" class=\" G\">كفانا الله و إيّاكم شرّه، و كان يسمّيه دواء <span class=\"maasoom\">محمّد صلّى الله عليه و آله</span> فتمسّكوا به. </p>\n  <p id=\"p1315\" paragraph-id=\"1315\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الغيرة </strong>\n  </p>\n  <p id=\"p1316\" paragraph-id=\"1316\" class=\" G\">[112] </p>\n  <p id=\"p1317\" paragraph-id=\"1317\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">علي بن زرياب، عن محمّد بن أورمة، عن يوسف بن حمّاد، رفعه إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«للمرأة إذا غارت، تقرأ على سويقها الذي تشربه سبع مرّات: <span style=\"0\" class=\"ayah\" surah=\"26\" ayah=\"4\">إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ اَلسَّمٰاءِ آيَةً فَظَلَّتْ أَعْنٰاقُهُمْ لَهٰا خٰاضِعِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/26/4\"></a></span></span>، <span style=\"0\" class=\"ayah\" surah=\"26\" ayah=\"205\">أَ فَرَأَيْتَ إِنْ مَتَّعْنٰاهُمْ سِنِينَ * <span class=\"AyahSeprator\"></span>ثُمَّ جٰاءَهُمْ مٰا كٰانُوا يُوعَدُونَ * <span class=\"AyahSeprator\"></span>مٰا أَغْنىٰ عَنْهُمْ مٰا كٰانُوا يُمَتَّعُونَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/26/205\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote326\" title=\"(2)  الآيات من سورة الشعراء 4:26 و 205-207. \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote327\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1318\" paragraph-id=\"1318\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote325\" footnote-id=\"325\">(1) <page number=\"84\" /> رواه أبو عتاب عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 124 و 128، ضمن حديثين بتفاوت كثير، بعنوان: «دواء الشافية» فقال: حدّثني إبراهيم بن النضر من ولد ميثم التمّار... و محمّد بن جعفر بن علي البرسي، قال: حدّثنا محمّد بن يحيى الأرمني - و كان بابا للمفضّل بن عمر، و كان المفضّل بابا لأبي عبد الله الصادق عليه السّلام - قال محمّد بن يحيى الأرمني: حدّثني محمّد بن سنان السناني الزاهري أبو عبد الله، قال المفضّل بن عمر:<br />حدّثني الصادق جعفر بن محمّد عليه السّلام، قال: هذا الدواء دواء محمّد صلّى الله عليه و آله.<br />و أحمد بن محمّد أبو عبد الله، قال: حدّثنا حمّاد بن عيسى، عن حريز، عن أبي عبد الله عليه السّلام:<br />في دواء محمّد صلّى الله عليه و آله. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote326\" footnote-id=\"326\">(2)  الآيات من سورة الشعراء 4:26 و 205-207. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote327\" footnote-id=\"327\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "DF442114-5B83-422B-AE9C-716DA691899A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

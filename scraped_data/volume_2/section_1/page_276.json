@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 276,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170780,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1958\"><img src=\"BK126314G002S1P243\" alt=\"\" imgtype=\"Scan\"/><page number=\"244\"/><img src=\"BK126314G002S1P244\" alt=\"\" imgtype=\"Scan\"/><page number=\"245\"/><img src=\"BK126314G002S1P245\" alt=\"\" imgtype=\"Scan\"/><page number=\"246\"/><img src=\"BK126314G002S1P246\" alt=\"\" imgtype=\"Scan\"/><page number=\"247\"/><img src=\"BK126314G002S1P247\" alt=\"\" imgtype=\"Scan\"/><page number=\"248\"/><img src=\"BK126314G002S1P248\" alt=\"\" imgtype=\"Scan\"/><page number=\"249\"/><img src=\"BK126314G002S1P249\" alt=\"\" imgtype=\"Scan\"/><page number=\"250\"/><img src=\"BK126314G002S1P250\" alt=\"\" imgtype=\"Scan\"/><page number=\"251\"/><img src=\"BK126314G002S1P251\" alt=\"\" imgtype=\"Scan\"/><page number=\"252\"/><img src=\"BK126314G002S1P252\" alt=\"\" imgtype=\"Scan\"/><page number=\"253\"/><img src=\"BK126314G002S1P253\" alt=\"\" imgtype=\"Scan\"/><page number=\"254\"/><img src=\"BK126314G002S1P254\" alt=\"\" imgtype=\"Scan\"/><page number=\"255\"/><img src=\"BK126314G002S1P255\" alt=\"\" imgtype=\"Scan\"/><page number=\"256\"/><img src=\"BK126314G002S1P256\" alt=\"\" imgtype=\"Scan\"/><page number=\"257\"/><img src=\"BK126314G002S1P257\" alt=\"\" imgtype=\"Scan\"/><page number=\"258\"/><img src=\"BK126314G002S1P258\" alt=\"\" imgtype=\"Scan\"/><page number=\"259\"/><img src=\"BK126314G002S1P259\" alt=\"\" imgtype=\"Scan\"/><page number=\"260\"/><img src=\"BK126314G002S1P260\" alt=\"\" imgtype=\"Scan\"/><page number=\"261\"/><img src=\"BK126314G002S1P261\" alt=\"\" imgtype=\"Scan\"/><page number=\"262\"/><img src=\"BK126314G002S1P262\" alt=\"\" imgtype=\"Scan\"/><page number=\"263\"/><img src=\"BK126314G002S1P263\" alt=\"\" imgtype=\"Scan\"/><page number=\"264\"/><img src=\"BK126314G002S1P264\" alt=\"\" imgtype=\"Scan\"/><page number=\"265\"/><img src=\"BK126314G002S1P265\" alt=\"\" imgtype=\"Scan\"/><page number=\"266\"/><img src=\"BK126314G002S1P266\" alt=\"\" imgtype=\"Scan\"/><page number=\"267\"/><img src=\"BK126314G002S1P267\" alt=\"\" imgtype=\"Scan\"/><page number=\"268\"/><img src=\"BK126314G002S1P268\" alt=\"\" imgtype=\"Scan\"/><page number=\"269\"/><img src=\"BK126314G002S1P269\" alt=\"\" imgtype=\"Scan\"/><page number=\"270\"/><img src=\"BK126314G002S1P270\" alt=\"\" imgtype=\"Scan\"/><page number=\"271\"/><img src=\"BK126314G002S1P271\" alt=\"\" imgtype=\"Scan\"/><page number=\"272\"/><img src=\"BK126314G002S1P272\" alt=\"\" imgtype=\"Scan\"/><page number=\"273\"/><img src=\"BK126314G002S1P273\" alt=\"\" imgtype=\"Scan\"/><page number=\"274\"/><img src=\"BK126314G002S1P274\" alt=\"\" imgtype=\"Scan\"/><page number=\"275\"/><img src=\"BK126314G002S1P275\" alt=\"\" imgtype=\"Scan\"/><page number=\"276\"/><img src=\"BK126314G002S1P276\" alt=\"\" imgtype=\"Scan\"/><page number=\"277\"/><img src=\"BK126314G002S1P277\" alt=\"\" imgtype=\"Scan\"/><page number=\"278\"/><img src=\"BK126314G002S1P278\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"8\"/><page number=\"279\"/><heading level=\"3\"><format class=\"BeginIntroduction\" type=\"12\"/> فهرس العلل و الامراض</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "276",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1958\" paragraph-id=\"1958\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo276\">276</span>\n    <img src=\"/file/book/page/EZkGvGt9JBQsA7QkUATTXNxC6BHZ3x2P2P2VY-5KQ6l_R1DU7-ywiYZ9BpgzAwml\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "E99CE3AF-1642-40B2-9AA4-EE0136959956",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

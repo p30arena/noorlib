@@ -1,0 +1,79 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 212,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170605,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1860\"><page number=\"212\"/>[293] </p>"
+        },
+        {
+          "paragraphId": 714170606,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1861\"><format class=\"hadith\" who=\"16\" Id=\"289\" RevayatIndex=\"810\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن عيسى، عن سليمان بن سماعة<lfootnote noteId=\"864\">1</lfootnote>، عن داود الحذّاء، عن عبد الملك بن بحر<lfootnote noteId=\"865\">2</lfootnote> صاحب اللؤلؤ، قال:<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format></format> من أراد لبس نعل فوقعت له صفراء إلى البياض لم يعدم مالا و ولدا، و من وقعت له سوداء لم يعدم غمّا و همّا<lfootnote noteId=\"866\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170607,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1862\"><heading level=\"2\">[باب] فيما جاء في النعل السوداء </heading></p>"
+        },
+        {
+          "paragraphId": 714170608,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1863\">[294] </p>"
+        },
+        {
+          "paragraphId": 714170609,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1864\"><format class=\"hadith\" who=\"6\" Id=\"290\" RevayatIndex=\"811\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن موسى بن عمر، عن <page number=\"213\"/> عبد الله بن جبلة، عن حنّان بن سدير، قال:</format> دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> و عليّ نعل سوداء فقال: «ما لك و لبس السواد؟ أ ما علمت أنّ فيها ثلاث خصال‌؟» قلت: و ما هي جعلت فداك<lfootnote noteId=\"867\">1</lfootnote>؟ قال: «تضعف البصر و ترخي الذكر و تورث الهمّ‌، و هي<lfootnote noteId=\"868\">2</lfootnote> مع ذلك من لباس<lfootnote noteId=\"869\">3</lfootnote> الجبّارين، عليك بلبس النعل الصفراء فإنّ فيها ثلاث خصال».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171215,
+          "text": "<footnote id=\"863\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 4/124، في خلع النعال و الخفاف إذا جلس، بعد الحديث السابق، من كتاب طبّ الأئمّة عليهم السّلام عنه عليه السّلام، و ممّا يؤيّده معنى ما رواه العياشي في التفسير 59/47:1، عن الفضل بن شاذان، عن بعض أصحابنا رفعه إلى أبي عبد الله عليه السّلام أنّه قال: «من لبس نعلا صفراء لم يزل مسرورا حتّى يبليها، كما قال الله:<br/><format class=\"ayah\" surah=\"2\" ayah=\"69\" toAyah=\"\">صَفْرٰاءُ فٰاقِعٌ لَوْنُهٰا تَسُرُّ اَلنّٰاظِرِينَ‌<format class=\"ayahWord\" fromWord=\"14\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"69\" toAyah=\"\"/></format>».<br/>و قال العيّاشي بعده: من لبس نعلا صفراء لم يبلها حتّى يستفيد علما أو مالا.<br/>و ما رواه الكليني في الكافي 5/466:6، باب ألوان النعال، عدّة من أصحابنا، عن <page number=\"212\"/>أحمد بن أبي عبد الله، عن محمّد بن علي، عن أبي البختري، عن أبي عبد الله عليه السّلام، قال:<br/>«من لبس نعلا صفراء كان في سرور حتّى يبليها»، و قال في الحديث 6: عنه، عن بعض أصحابنا، بلغ به جابر الجعفي، عن أبي جعفر عليه السّلام قال: «من لبس نعلا صفراء لم يزل ينظر في سرور ما دامت عليه؛ لأنّ الله عزّ و جلّ يقول: <format class=\"ayah\" surah=\"2\" ayah=\"69\" toAyah=\"\">صَفْرٰاءُ فٰاقِعٌ لَوْنُهٰا تَسُرُّ اَلنّٰاظِرِينَ‌<format class=\"ayahWord\" fromWord=\"14\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"69\" toAyah=\"\"/></format>».<br/>و نقل العامّة مثله في عدّة من كتبهم مرسلا و مسندا عن أمير المؤمنين عليه السّلام: «من لبس نعلا صفرة قلّ همّه؛ لقوله تعالى: <format class=\"ayah\" surah=\"2\" ayah=\"69\" toAyah=\"\">تَسُرُّ اَلنّٰاظِرِينَ‌<format class=\"ayahWord\" fromWord=\"17\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"69\" toAyah=\"\"/></format>» فلاحظ تفسير الثعلبي 217:1، تخريج الأحاديث و الآثار للزيلعي 65:1، تفسير النسفي 50:1، تفسير القرطبي 451:1، الكشّاف 287:1. و نقل بعضهم عن ابن عباس قال: من لبس نعلا صفراء لم يزل في سرور ما دام لابسها، و ذلك قول الله: <format class=\"ayah\" surah=\"2\" ayah=\"69\" toAyah=\"\">صَفْرٰاءُ فٰاقِعٌ لَوْنُهٰا تَسُرُّ اَلنّٰاظِرِينَ‌<format class=\"ayahWord\" fromWord=\"14\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"69\" toAyah=\"\"/></format>، فلاحظ:<br/>تفسير ابن أبي حاتم 705/138:1، المعجم الكبير 10612/263:10، تفسير السمعاني 92:1، تفسير ابن كثير 114:1، الدر المنثور 78:1. </footnote>"
+        },
+        {
+          "footnoteId": 714171216,
+          "text": "<footnote id=\"864\"><mnote>(1)</mnote> في النسخة: «سليمان عن سماعة» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171217,
+          "text": "<footnote id=\"865\"><mnote>(2)</mnote> في النسخة: «عبد الملك بن يحيى» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171218,
+          "text": "<footnote id=\"866\"><mnote>(3)</mnote> رواه الكليني في الكافي 7/466:6، باب ألوان النعال، عن محمّد بن يحيى، عن محمّد بن أحمد، عن محمّد بن عيسى.</footnote>"
+        }
+      ],
+      "pageValue": "212",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1860\" paragraph-id=\"1860\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo212\">212</span>[293] </p>\n  <p id=\"p1861\" paragraph-id=\"1861\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن عيسى، عن سليمان بن سماعة<span><sup><a class=\"NewFn\" href=\"#footnote864\" title=\"(1)  في النسخة: «سليمان عن سماعة» و ما أثبتناه من المصدر. \">1</a></sup></span>، عن داود الحذّاء، عن عبد الملك بن بحر<span><sup><a class=\"NewFn\" href=\"#footnote865\" title=\"(2)  في النسخة: «عبد الملك بن يحيى» و ما أثبتناه من المصدر. \">2</a></sup></span> صاحب اللؤلؤ، قال:<span class=\"Y\"><span class=\"maasoom\"></span></span></span> من أراد لبس نعل فوقعت له صفراء إلى البياض لم يعدم مالا و ولدا، و من وقعت له سوداء لم يعدم غمّا و همّا<span><sup><a class=\"NewFn\" href=\"#footnote866\" title=\"(3)  رواه الكليني في الكافي 7/466:6، باب ألوان النعال، عن محمّد بن يحيى، عن محمّد بن أحمد، عن محمّد بن عيسى.\">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1862\" paragraph-id=\"1862\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] فيما جاء في النعل السوداء </strong>\n  </p>\n  <p id=\"p1863\" paragraph-id=\"1863\" class=\" G\">[294] </p>\n  <p id=\"p1864\" paragraph-id=\"1864\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن موسى بن عمر، عن </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote863\" footnote-id=\"863\"><page number=\"212\" />أحمد بن أبي عبد الله، عن محمّد بن علي، عن أبي البختري، عن أبي عبد الله عليه السّلام، قال:<br />«من لبس نعلا صفراء كان في سرور حتّى يبليها»، و قال في الحديث 6: عنه، عن بعض أصحابنا، بلغ به جابر الجعفي، عن أبي جعفر عليه السّلام قال: «من لبس نعلا صفراء لم يزل ينظر في سرور ما دامت عليه؛ لأنّ الله عزّ و جلّ يقول: <format class=\"ayah\" surah=\"2\" ayah=\"69\" toAyah=\"\">صَفْرٰاءُ فٰاقِعٌ لَوْنُهٰا تَسُرُّ اَلنّٰاظِرِينَ‌<format class=\"ayahWord\" fromWord=\"14\" toWord=\"18\" /><format class=\"ayahAddress\" surah=\"2\" ayah=\"69\" toAyah=\"\" /></format>».<br />و نقل العامّة مثله في عدّة من كتبهم مرسلا و مسندا عن أمير المؤمنين عليه السّلام: «من لبس نعلا صفرة قلّ همّه؛ لقوله تعالى: <format class=\"ayah\" surah=\"2\" ayah=\"69\" toAyah=\"\">تَسُرُّ اَلنّٰاظِرِينَ‌<format class=\"ayahWord\" fromWord=\"17\" toWord=\"18\" /><format class=\"ayahAddress\" surah=\"2\" ayah=\"69\" toAyah=\"\" /></format>» فلاحظ تفسير الثعلبي 217:1، تخريج الأحاديث و الآثار للزيلعي 65:1، تفسير النسفي 50:1، تفسير القرطبي 451:1، الكشّاف 287:1. و نقل بعضهم عن ابن عباس قال: من لبس نعلا صفراء لم يزل في سرور ما دام لابسها، و ذلك قول الله: <format class=\"ayah\" surah=\"2\" ayah=\"69\" toAyah=\"\">صَفْرٰاءُ فٰاقِعٌ لَوْنُهٰا تَسُرُّ اَلنّٰاظِرِينَ‌<format class=\"ayahWord\" fromWord=\"14\" toWord=\"18\" /><format class=\"ayahAddress\" surah=\"2\" ayah=\"69\" toAyah=\"\" /></format>، فلاحظ:<br />تفسير ابن أبي حاتم 705/138:1، المعجم الكبير 10612/263:10، تفسير السمعاني 92:1، تفسير ابن كثير 114:1، الدر المنثور 78:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote864\" footnote-id=\"864\">(1)  في النسخة: «سليمان عن سماعة» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote865\" footnote-id=\"865\">(2)  في النسخة: «عبد الملك بن يحيى» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote866\" footnote-id=\"866\">(3)  رواه الكليني في الكافي 7/466:6، باب ألوان النعال، عن محمّد بن يحيى، عن محمّد بن أحمد، عن محمّد بن عيسى.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0B10C048-9611-491C-8C9B-219E943C634C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

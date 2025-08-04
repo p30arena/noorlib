@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 157,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167234,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2831\"><format class=\"hadith\" who=\"6\" Id=\"239\" RevayatIndex=\"239\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن <page number=\"157\"/> عيسى، عن عمر بن عبد العزيز<lfootnote noteId=\"966\">1</lfootnote>، عن عيسى بن سليمان<lfootnote noteId=\"967\">2</lfootnote>، قال:</format> دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> فرأيت به من الرمد شيئا فاحشا فخرجت<lfootnote noteId=\"968\">3</lfootnote>، ثمّ دخلت إليه من غد فإذا لا قلبة بعينه.</format></p>"
+        },
+        {
+          "paragraphId": 714167235,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2832\"><format class=\"hadith\" who=\"6\" Id=\"239\" RevayatIndex=\"239\">فقلت: جعلت فداك خرجت من عندك بالأمس، و بك من الرمد ما غمّني، و دخلت عليك اليوم فلم أر شيئا، أعالجته بشيء؟</format></p>"
+        },
+        {
+          "paragraphId": 714167236,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2833\"><format class=\"hadith\" who=\"6\" Id=\"239\" RevayatIndex=\"239\">قال: «عوّذتها بعوذة عندي».</format></p>"
+        },
+        {
+          "paragraphId": 714167237,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2834\"><format class=\"hadith\" who=\"6\" Id=\"239\" RevayatIndex=\"239\">قال: ثمّ أخبرني بها فكتبت: «أعوذ بعزّة الله، و أعوذ بقدرة الله، و أعوذ بعظمة الله، و أعوذ بجلال الله، و أعوذ بجمع الله، و أعوذ <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">برسول الله صلّى الله عليه و آله</format></format> على ما أجد و أخاف على عيني من وجع، اللّهمّ ربّ الطّيّبين»<lfootnote noteId=\"969\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167238,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2835\"><heading level=\"3\">دعاء العين:</heading></p>"
+        },
+        {
+          "paragraphId": 714167239,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2836\">[242] </p>"
+        },
+        {
+          "paragraphId": 714167240,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2837\"><format class=\"hadith\" who=\"6\" Id=\"240\" RevayatIndex=\"240\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن <page number=\"158\"/> عيسى، عن الحسين بن سعيد، عن محمّد بن أبي عمير، عن محمّد الجعفي، عن أبيه، قال:</format> كنت كثيرا ما أشتكي<lfootnote noteId=\"970\">1</lfootnote> عيني فشكوت ذلك إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> فقال:</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168921,
+          "text": "<footnote id=\"966\"><page number=\"157\"/><mnote>(1)</mnote> و هو البصري المعروف ب‍: «زحل». رجال النجاشي: 754/284. </footnote>"
+        },
+        {
+          "footnoteId": 714168922,
+          "text": "<footnote id=\"967\"><mnote>(2)</mnote> في النسخة و مكارم الأخلاق: «عن سليمان بن عيسى»، و الصحيح ما أثبتناه في المتن عن طبّ الأئمّة عليهم السّلام؛ و ذلك لأنّ عمر بن عبد العزيز روى في الكافي 4/466:5، عن عيسى بن سليمان النحّاس، و لم نجد روايته عن المسمّى ب‍: «سليمان بن عيسى» بل لم نجد في أصحاب أبي عبد الله عليه السّلام من سمّي بهذا الاسم. </footnote>"
+        },
+        {
+          "footnoteId": 714168923,
+          "text": "<footnote id=\"968\"><mnote>(3)</mnote> في طبّ الأئمة عليهم السّلام: «فاغتممت له» بدل «فاحشا فخرجت». </footnote>"
+        },
+        {
+          "footnoteId": 714168924,
+          "text": "<footnote id=\"969\"><mnote>(4)</mnote> روى ابنا بسطام نحوه بتفاوت في طبّ الأئمّة عليهم السّلام: 84، فقالا: عوذة في الرمد:<br/>محمّد بن عبد الله الزعفراني، قال: حدّثنا عمر بن عبد العزيز، و الطبرسي بزيادة بعض الفقرات في الدعاء في مكارم الأخلاق: 2/405، لوجع العين، عن سليمان بن عيسى قال: دخلت على أبي عبد الله عليه السّلام.</footnote>"
+        }
+      ],
+      "pageValue": "157",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2831\" paragraph-id=\"2831\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo157\">157</span> عيسى، عن عمر بن عبد العزيز<span><sup><a class=\"NewFn\" href=\"#footnote966\" title=\"(1)  و هو البصري المعروف ب‍: «زحل». رجال النجاشي: 754/284. \">1</a></sup></span>، عن عيسى بن سليمان<span><sup><a class=\"NewFn\" href=\"#footnote967\" title=\"(2)  في النسخة و مكارم الأخلاق: «عن سليمان بن عيسى»، و الصحيح ما أثبتناه في المتن عن طبّ الأئمّة عليهم السّلام؛ و ذلك لأنّ عمر بن عبد العزيز روى في الكافي 4/466:5، عن عيسى بن سليمان النحّاس، و لم نجد روايته عن المسمّى ب‍: «سليمان بن عيسى» بل لم نجد في أصحاب أبي عبد الله عليه السّلام من سمّي بهذا الاسم. \">2</a></sup></span>، قال:</span> دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> فرأيت به من الرمد شيئا فاحشا فخرجت<span><sup><a class=\"NewFn\" href=\"#footnote968\" title=\"(3)  في طبّ الأئمة عليهم السّلام: «فاغتممت له» بدل «فاحشا فخرجت». \">3</a></sup></span>، ثمّ دخلت إليه من غد فإذا لا قلبة بعينه.</span>\n  </p>\n  <p id=\"p2832\" paragraph-id=\"2832\" class=\" G\">\n    <span class=\"hadith\">فقلت: جعلت فداك خرجت من عندك بالأمس، و بك من الرمد ما غمّني، و دخلت عليك اليوم فلم أر شيئا، أعالجته بشيء؟</span>\n  </p>\n  <p id=\"p2833\" paragraph-id=\"2833\" class=\" G\">\n    <span class=\"hadith\">قال: «عوّذتها بعوذة عندي».</span>\n  </p>\n  <p id=\"p2834\" paragraph-id=\"2834\" class=\" G\">\n    <span class=\"hadith\">قال: ثمّ أخبرني بها فكتبت: «أعوذ بعزّة الله، و أعوذ بقدرة الله، و أعوذ بعظمة الله، و أعوذ بجلال الله، و أعوذ بجمع الله، و أعوذ <span class=\"BD\"><span class=\"maasoom\">برسول الله صلّى الله عليه و آله</span></span> على ما أجد و أخاف على عيني من وجع، اللّهمّ ربّ الطّيّبين»<span><sup><a class=\"NewFn\" href=\"#footnote969\" title=\"(4)  روى ابنا بسطام نحوه بتفاوت في طبّ الأئمّة عليهم السّلام: 84، فقالا: عوذة في الرمد:محمّد بن عبد الله الزعفراني، قال: حدّثنا عمر بن عبد العزيز، و الطبرسي بزيادة بعض الفقرات في الدعاء في مكارم الأخلاق: 2/405، لوجع العين، عن سليمان بن عيسى قال: دخلت على أبي عبد الله عليه السّلام.\">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2835\" paragraph-id=\"2835\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">دعاء العين:</strong>\n  </p>\n  <p id=\"p2836\" paragraph-id=\"2836\" class=\" G\">[242] </p>\n  <p id=\"p2837\" paragraph-id=\"2837\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote966\" footnote-id=\"966\">(1) <page number=\"157\" /> و هو البصري المعروف ب‍: «زحل». رجال النجاشي: 754/284. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote967\" footnote-id=\"967\">(2)  في النسخة و مكارم الأخلاق: «عن سليمان بن عيسى»، و الصحيح ما أثبتناه في المتن عن طبّ الأئمّة عليهم السّلام؛ و ذلك لأنّ عمر بن عبد العزيز روى في الكافي 4/466:5، عن عيسى بن سليمان النحّاس، و لم نجد روايته عن المسمّى ب‍: «سليمان بن عيسى» بل لم نجد في أصحاب أبي عبد الله عليه السّلام من سمّي بهذا الاسم. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote968\" footnote-id=\"968\">(3)  في طبّ الأئمة عليهم السّلام: «فاغتممت له» بدل «فاحشا فخرجت». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote969\" footnote-id=\"969\">(4)  روى ابنا بسطام نحوه بتفاوت في طبّ الأئمّة عليهم السّلام: 84، فقالا: عوذة في الرمد:<br />محمّد بن عبد الله الزعفراني، قال: حدّثنا عمر بن عبد العزيز، و الطبرسي بزيادة بعض الفقرات في الدعاء في مكارم الأخلاق: 2/405، لوجع العين، عن سليمان بن عيسى قال: دخلت على أبي عبد الله عليه السّلام.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "ED78C7BB-EAC7-4185-8703-F77A7FC9AD56",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

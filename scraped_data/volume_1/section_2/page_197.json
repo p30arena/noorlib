@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 197,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167145,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3044\"><page number=\"197\"/>[312] </p>"
+        },
+        {
+          "paragraphId": 714167146,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3045\"><format class=\"hadith\" who=\"1\" Id=\"310\" RevayatIndex=\"310\"><format class=\"sanadHadith\">و قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين عليه السّلام</format></format> في وصيّته: </format>«السواك مرضاة الله تعالى و سنّة <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">النبيّ صلّى الله عليه و آله</format></format> و مطيّبة للفم»<lfootnote noteId=\"1146\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167147,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3046\">[313] </p>"
+        },
+        {
+          "paragraphId": 714167301,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3047\"><format class=\"hadith\" who=\"6\" Id=\"311\" RevayatIndex=\"311\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«السواك بالخلاف<lfootnote noteId=\"1147\">2</lfootnote> يشفي من الجذام<lfootnote noteId=\"1148\">3</lfootnote>»<lfootnote noteId=\"1149\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167302,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3048\">[314] </p>"
+        },
+        {
+          "paragraphId": 714167303,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3049\"><format class=\"hadith\" who=\"8\" Id=\"312\" RevayatIndex=\"312\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format> أنّه قال: </format>«السواك على المقعدة<lfootnote noteId=\"1150\">5</lfootnote> يورث البخر»<lfootnote noteId=\"1151\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167304,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3050\"><page number=\"198\"/>[315] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169189,
+          "text": "<footnote id=\"1145\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 22/50، الفصل الثالث في السواك، فقال: و من <page number=\"197\"/>كتاب طبّ الأئمّة، عنه عليه السّلام، و البرقي في نحوه في المحاسن 958/563:2، عن محمّد بن علي، عن ابن فضّال، عن حمّاد بن عيسى، عن أبي عبد الله عليه السّلام قال: «السواك يذهب بالدمعة و يجلو البصر»، و الكليني في الكافي 7/496:6، مثل المحاسن، عن محمّد بن يحيى، عن أحمد بن محمّد، عن ابن فضّال. </footnote>"
+        },
+        {
+          "footnoteId": 714169190,
+          "text": "<footnote id=\"1146\"><mnote>(1)</mnote> رواه القاسم بن يحيى بن الراشد في كتاب آداب أمير المؤمنين عليه السّلام: 3/70 - و عنه في الخصال: 611، و تحف العقول: 101 - و فيه: «السواك مرضاة للربّ و مطيبّة للفم و هو من السنّة»، و البرقي في المحاسن 29/562:2، باب الخلال و السواك، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن أبي بصير، عن أبي عبد الله عليه السّلام عن آبائه عليهم السّلام قال:<br/>قال أمير المؤمنين عليه السّلام:... و فيه: «مطهرة للفم»، و الطبرسي في مكارم الأخلاق: 51، عن أمير المؤمنين عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169191,
+          "text": "<footnote id=\"1147\"><mnote>(2)</mnote> شجر الخلاف: الصفصاف بلغة أهل الشام. مجمع البحرين 55:5 «خلف». و يقال له بالفارسيّة: «بيد» بحر الجواهر: 157. </footnote>"
+        },
+        {
+          "footnoteId": 714169192,
+          "text": "<footnote id=\"1148\"><mnote>(3)</mnote> في النسخة: «ما الجذام» و ما أثبتناه لضرورة السياق. </footnote>"
+        },
+        {
+          "footnoteId": 714169193,
+          "text": "<footnote id=\"1149\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169194,
+          "text": "<footnote id=\"1150\"><mnote>(5)</mnote> أي: حال التخلّي. </footnote>"
+        },
+        {
+          "footnoteId": 714169195,
+          "text": "<footnote id=\"1151\"><mnote>(6)</mnote> رواه الطبرسي في مكارم الأخلاق: 29/51، الفصل الثالث في السواك، عن أبي عبد الله عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "197",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3044\" paragraph-id=\"3044\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo197\">197</span>[312] </p>\n  <p id=\"p3045\" paragraph-id=\"3045\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين عليه السّلام</span></span> في وصيّته: </span>«السواك مرضاة الله تعالى و سنّة <span class=\"BD\"><span class=\"maasoom\">النبيّ صلّى الله عليه و آله</span></span> و مطيّبة للفم»<span><sup><a class=\"NewFn\" href=\"#footnote1146\" title=\"(1)  رواه القاسم بن يحيى بن الراشد في كتاب آداب أمير المؤمنين عليه السّلام: 3/70 - و عنه في الخصال: 611، و تحف العقول: 101 - و فيه: «السواك مرضاة للربّ و مطيبّة للفم و هو من السنّة»، و البرقي في المحاسن 29/562:2، باب الخلال و السواك، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن أبي بصير، عن أبي عبد الله عليه السّلام عن آبائه عليهم السّلام قال:قال أمير المؤمنين عليه السّلام:... و فيه: «مطهرة للفم»، و الطبرسي في مكارم الأخلاق: 51، عن أمير المؤمنين عليه السّلام. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3046\" paragraph-id=\"3046\" class=\" G\">[313] </p>\n  <p id=\"p3047\" paragraph-id=\"3047\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«السواك بالخلاف<span><sup><a class=\"NewFn\" href=\"#footnote1147\" title=\"(2)  شجر الخلاف: الصفصاف بلغة أهل الشام. مجمع البحرين 55:5 «خلف». و يقال له بالفارسيّة: «بيد» بحر الجواهر: 157. \">2</a></sup></span> يشفي من الجذام<span><sup><a class=\"NewFn\" href=\"#footnote1148\" title=\"(3)  في النسخة: «ما الجذام» و ما أثبتناه لضرورة السياق. \">3</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1149\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3048\" paragraph-id=\"3048\" class=\" G\">[314] </p>\n  <p id=\"p3049\" paragraph-id=\"3049\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span> أنّه قال: </span>«السواك على المقعدة<span><sup><a class=\"NewFn\" href=\"#footnote1150\" title=\"(5)  أي: حال التخلّي. \">5</a></sup></span> يورث البخر»<span><sup><a class=\"NewFn\" href=\"#footnote1151\" title=\"(6)  رواه الطبرسي في مكارم الأخلاق: 29/51، الفصل الثالث في السواك، عن أبي عبد الله عليه السّلام. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3050\" paragraph-id=\"3050\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1145\" footnote-id=\"1145\"><page number=\"197\" />كتاب طبّ الأئمّة، عنه عليه السّلام، و البرقي في نحوه في المحاسن 958/563:2، عن محمّد بن علي، عن ابن فضّال، عن حمّاد بن عيسى، عن أبي عبد الله عليه السّلام قال: «السواك يذهب بالدمعة و يجلو البصر»، و الكليني في الكافي 7/496:6، مثل المحاسن، عن محمّد بن يحيى، عن أحمد بن محمّد، عن ابن فضّال. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1146\" footnote-id=\"1146\">(1)  رواه القاسم بن يحيى بن الراشد في كتاب آداب أمير المؤمنين عليه السّلام: 3/70 - و عنه في الخصال: 611، و تحف العقول: 101 - و فيه: «السواك مرضاة للربّ و مطيبّة للفم و هو من السنّة»، و البرقي في المحاسن 29/562:2، باب الخلال و السواك، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن أبي بصير، عن أبي عبد الله عليه السّلام عن آبائه عليهم السّلام قال:<br />قال أمير المؤمنين عليه السّلام:... و فيه: «مطهرة للفم»، و الطبرسي في مكارم الأخلاق: 51، عن أمير المؤمنين عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1147\" footnote-id=\"1147\">(2)  شجر الخلاف: الصفصاف بلغة أهل الشام. مجمع البحرين 55:5 «خلف». و يقال له بالفارسيّة: «بيد» بحر الجواهر: 157. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1148\" footnote-id=\"1148\">(3)  في النسخة: «ما الجذام» و ما أثبتناه لضرورة السياق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1149\" footnote-id=\"1149\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1150\" footnote-id=\"1150\">(5)  أي: حال التخلّي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1151\" footnote-id=\"1151\">(6)  رواه الطبرسي في مكارم الأخلاق: 29/51، الفصل الثالث في السواك، عن أبي عبد الله عليه السّلام. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "741E2881-0B3F-4E2D-950D-BAC2CE83342C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

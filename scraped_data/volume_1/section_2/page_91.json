@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 91,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166501,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2533\"><page number=\"91\"/>[138] </p>"
+        },
+        {
+          "paragraphId": 714166502,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2534\"><format class=\"hadith\" who=\"14,6\" Id=\"136\" RevayatIndex=\"136\"><format class=\"sanadHadith\">روى إبراهيم بن إسحاق، عن السيّاري، قال: قال <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>:</format></format></p>"
+        },
+        {
+          "paragraphId": 714166503,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2535\"><format class=\"hadith\" who=\"14,6\" Id=\"136\" RevayatIndex=\"136\"><format class=\"sanadHadith\"/>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: إذا كان بأحدكم أوجاع فعليكم بالفراش، يعني: غشيان النار»<lfootnote noteId=\"679\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166504,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2536\">[139] </p>"
+        },
+        {
+          "paragraphId": 714166505,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2537\"><format class=\"hadith\" who=\"5\" Id=\"137\" RevayatIndex=\"137\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، قال: روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format>: </format>أنّه كان إذا حمّ بلّ له ثوبان فطرح عليه أحدهما فإذا جفّ طرح عليه الآخر<lfootnote noteId=\"680\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166506,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2538\">[140] </p>"
+        },
+        {
+          "paragraphId": 714166507,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2539\"><format class=\"hadith\" who=\"8\" Id=\"138\" RevayatIndex=\"138\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format>: </format>أنّه كان إذا وعك<lfootnote noteId=\"681\">3</lfootnote> قال لمن عنده: «انظر وجهي كيف»؟ فإن قالوا: أصفر، قال: «مرّة، هات ماء باردا»، فيؤتاه<lfootnote noteId=\"682\">4</lfootnote> بماء بارد، و إن قالوا: أحمر، قال: «دم، عليّ بالحجّام».</format></p>"
+        },
+        {
+          "paragraphId": 714166508,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2540\"><format class=\"hadith\" who=\"8\" Id=\"138\" RevayatIndex=\"138\"><page number=\"92\"/> و يقول: «دواء المرّة شرب الماء البارد، و دواء البلغم شرب الماء الحارّ»<lfootnote noteId=\"683\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168709,
+          "text": "<footnote id=\"678\"><mnote>(7)</mnote> رواه الكليني في الكافي 3/118:3، باب في كم يعاد المريض و قدر ما يجلس عنده و تمام العيادة، عن محمّد بن يحيى، عن موسى بن الحسن، عن الفضل بن عامر أبي العبّاس، عن <page number=\"91\"/>موسى بن القاسم، و الطبرسي في مكارم الأخلاق: 23/361، في عيادة المريض، فقال:<br/>عن مولى لجعفر بن محمّد عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168710,
+          "text": "<footnote id=\"679\"><mnote>(1)</mnote> روى ابنا بسطام نحوه في طبّ الأئمة عليهم السّلام: 94، فقالا: أوجاع الجسد: محمّد بن جعفر البرسي، قال: حدّثنا محمّد بن يحيى الأرمني، قال: حدّثنا محمّد بن سنان الزاهري، عن المفضّل بن عمر الجعفي، عن محمّد بن إسماعيل بن أبي رئاب، عن جابر بن يزيد الجعفي، عن الباقر عليه السّلام، و فيه: «غشيان النساء». </footnote>"
+        },
+        {
+          "footnoteId": 714168711,
+          "text": "<footnote id=\"680\"><mnote>(2)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 50، عن أبي غسان عبد الله بن خالد بن نجيح، قال: حدّثنا حمّاد بن عيسى، عن الحسين بن المختار، عن محمّد بن مسلم، عن أبي جعفر عليه السّلام.<br/>و نقله من العامّة ابن أبي شيبة الكوفي في المصنّف 459:5، و ابن عبد البرّ في الاستذكار 419:8، و التمهيد 228:22، كلّهم عن ابن عباس. </footnote>"
+        },
+        {
+          "footnoteId": 714168712,
+          "text": "<footnote id=\"681\"><mnote>(3)</mnote> في النسخة: «أوعك» و ما أثبتناه هو الصواب. </footnote>"
+        },
+        {
+          "footnoteId": 714168713,
+          "text": "<footnote id=\"682\"><mnote>(4)</mnote> كذا في النسخة.</footnote>"
+        }
+      ],
+      "pageValue": "91",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2533\" paragraph-id=\"2533\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo91\">91</span>[138] </p>\n  <p id=\"p2534\" paragraph-id=\"2534\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى إبراهيم بن إسحاق، عن السيّاري، قال: قال <span class=\"HQ\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>:</span>\n    </span>\n  </p>\n  <p id=\"p2535\" paragraph-id=\"2535\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\"></span>«قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: إذا كان بأحدكم أوجاع فعليكم بالفراش، يعني: غشيان النار»<span><sup><a class=\"NewFn\" href=\"#footnote679\" title=\"(1)  روى ابنا بسطام نحوه في طبّ الأئمة عليهم السّلام: 94، فقالا: أوجاع الجسد: محمّد بن جعفر البرسي، قال: حدّثنا محمّد بن يحيى الأرمني، قال: حدّثنا محمّد بن سنان الزاهري، عن المفضّل بن عمر الجعفي، عن محمّد بن إسماعيل بن أبي رئاب، عن جابر بن يزيد الجعفي، عن الباقر عليه السّلام، و فيه: «غشيان النساء». \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2536\" paragraph-id=\"2536\" class=\" G\">[139] </p>\n  <p id=\"p2537\" paragraph-id=\"2537\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، قال: روي عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span>: </span>أنّه كان إذا حمّ بلّ له ثوبان فطرح عليه أحدهما فإذا جفّ طرح عليه الآخر<span><sup><a class=\"NewFn\" href=\"#footnote680\" title=\"(2)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 50، عن أبي غسان عبد الله بن خالد بن نجيح، قال: حدّثنا حمّاد بن عيسى، عن الحسين بن المختار، عن محمّد بن مسلم، عن أبي جعفر عليه السّلام.و نقله من العامّة ابن أبي شيبة الكوفي في المصنّف 459:5، و ابن عبد البرّ في الاستذكار 419:8، و التمهيد 228:22، كلّهم عن ابن عباس. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2538\" paragraph-id=\"2538\" class=\" G\">[140] </p>\n  <p id=\"p2539\" paragraph-id=\"2539\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span>: </span>أنّه كان إذا وعك<span><sup><a class=\"NewFn\" href=\"#footnote681\" title=\"(3)  في النسخة: «أوعك» و ما أثبتناه هو الصواب. \">3</a></sup></span> قال لمن عنده: «انظر وجهي كيف»؟ فإن قالوا: أصفر، قال: «مرّة، هات ماء باردا»، فيؤتاه<span><sup><a class=\"NewFn\" href=\"#footnote682\" title=\"(4)  كذا في النسخة.\">4</a></sup></span> بماء بارد، و إن قالوا: أحمر، قال: «دم، عليّ بالحجّام».</span>\n  </p>\n  <p id=\"p2540\" paragraph-id=\"2540\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote678\" footnote-id=\"678\"><page number=\"91\" />موسى بن القاسم، و الطبرسي في مكارم الأخلاق: 23/361، في عيادة المريض، فقال:<br />عن مولى لجعفر بن محمّد عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote679\" footnote-id=\"679\">(1)  روى ابنا بسطام نحوه في طبّ الأئمة عليهم السّلام: 94، فقالا: أوجاع الجسد: محمّد بن جعفر البرسي، قال: حدّثنا محمّد بن يحيى الأرمني، قال: حدّثنا محمّد بن سنان الزاهري، عن المفضّل بن عمر الجعفي، عن محمّد بن إسماعيل بن أبي رئاب، عن جابر بن يزيد الجعفي، عن الباقر عليه السّلام، و فيه: «غشيان النساء». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote680\" footnote-id=\"680\">(2)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 50، عن أبي غسان عبد الله بن خالد بن نجيح، قال: حدّثنا حمّاد بن عيسى، عن الحسين بن المختار، عن محمّد بن مسلم، عن أبي جعفر عليه السّلام.<br />و نقله من العامّة ابن أبي شيبة الكوفي في المصنّف 459:5، و ابن عبد البرّ في الاستذكار 419:8، و التمهيد 228:22، كلّهم عن ابن عباس. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote681\" footnote-id=\"681\">(3)  في النسخة: «أوعك» و ما أثبتناه هو الصواب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote682\" footnote-id=\"682\">(4)  كذا في النسخة.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "543528A5-2D78-423C-A406-28C8D7B5316B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

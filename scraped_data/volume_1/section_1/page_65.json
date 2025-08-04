@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 65,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166277,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2023\">و قد أثنى عليه جميع علماء الطائفة من الرجاليين و غيرهم، فعدّه تلميذه المفيد <page number=\"65\"/> في كتاب (لمح البرهان) من فقهاء عصره و رواته و فضلائه<lfootnote noteId=\"188\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166278,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2024\">قال عنه النجاشي: «هارون بن موسى بن أحمد بن سعيد بن سعيد أبو محمّد التلّعكبري: من بني شيبان. كان وجها في أصحابنا ثقة معتمدا لا يطعن عليه<lfootnote noteId=\"189\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166279,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2025\">و قال الطوسي: «هارون بن موسى التلعكبري: يكنّى أبا محمّد، جليل القدر، عظيم المنزلة، واسع الرواية، عديم النظير، ثقة، روى جميع الاصول و المصنّفات، مات سنة خمس و ثمانين و ثلاثمائة، أخبرنا عنه جماعة من أصحابنا»<lfootnote noteId=\"190\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166280,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2026\">و عبّر ابن طاوس في غير موضع من كتبه ب‍: «الشيخ الصدوق» فقال عنه في كشف المحجّة: «الفصل السابع و العشرون، و ممّا ينبّهك يا ولدي على ما ذكرت بالعقل من طريق النقل عن سلفك الطاهرين أئمّة الفضل، ما رويته من كتاب أبي محمّد عبد الله بن حمّاد الأنصاري، من أصحاب مولانا الكاظم عليه السّلام، و نقلته من أصل قرئ على الصدوق الذي ذكر جدّك أبو جعفر الطوسي أنّه لم يكن له نظير في زمانه، و هو هارون بن موسى التلعكبري تغمّده الله جلّ جلاله برضوانه، تأريخه سنة ستّ و سبعين و ثلاثمائة، و هو أستاذ المفيد محمّد بن محمّد بن النعمان، ضاعف الله جلّ جلاله لهما تحف الرضوان...»<lfootnote noteId=\"191\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166281,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2027\">أمّا العامّة فضعّفه بعضهم من دافع العصبيّة العمياء التي صارت سببا لتقليب الحقيقة على مثل هذا الشيخ الجليل<lfootnote noteId=\"192\">5</lfootnote>. </p>"
+        },
+        {
+          "paragraphId": 714166282,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2028\"><page number=\"66\"/> و من علماء أهل بيته و عشيرته أبوه و أخوه و ابنه أبو الحسين محمّد بن هارون و ابنه الأخر أبو جعفر كما مرّ عن النجاشي.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168242,
+          "text": "<footnote id=\"188\"><page number=\"65\"/><mnote>(1)</mnote> انظر: إقبال الأعمال 34:1. </footnote>"
+        },
+        {
+          "footnoteId": 714168243,
+          "text": "<footnote id=\"189\"><mnote>(2)</mnote> رجال النجاشي: 1184/439. </footnote>"
+        },
+        {
+          "footnoteId": 714168244,
+          "text": "<footnote id=\"190\"><mnote>(3)</mnote> رجال الطوسي: 6386/449. </footnote>"
+        },
+        {
+          "footnoteId": 714168245,
+          "text": "<footnote id=\"191\"><mnote>(4)</mnote> كشف المحجّة: 61، و انظر: فلاح السائل: 121، 49، 44، 43. </footnote>"
+        },
+        {
+          "footnoteId": 714168246,
+          "text": "<footnote id=\"192\"><mnote>(5)</mnote> ذيل تاريخ بغداد لابن النجّار 31:17، ميزان الاعتدال 287:4.</footnote>"
+        }
+      ],
+      "pageValue": "65",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2023\" paragraph-id=\"2023\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo65\">65</span> في كتاب (لمح البرهان) من فقهاء عصره و رواته و فضلائه<span><sup><a class=\"NewFn\" href=\"#footnote188\" title=\"(1)  انظر: إقبال الأعمال 34:1. \">1</a></sup></span>.</p>\n  <p id=\"p2024\" paragraph-id=\"2024\" class=\" G\">قال عنه النجاشي: «هارون بن موسى بن أحمد بن سعيد بن سعيد أبو محمّد التلّعكبري: من بني شيبان. كان وجها في أصحابنا ثقة معتمدا لا يطعن عليه<span><sup><a class=\"NewFn\" href=\"#footnote189\" title=\"(2)  رجال النجاشي: 1184/439. \">2</a></sup></span>.</p>\n  <p id=\"p2025\" paragraph-id=\"2025\" class=\" G\">و قال الطوسي: «هارون بن موسى التلعكبري: يكنّى أبا محمّد، جليل القدر، عظيم المنزلة، واسع الرواية، عديم النظير، ثقة، روى جميع الاصول و المصنّفات، مات سنة خمس و ثمانين و ثلاثمائة، أخبرنا عنه جماعة من أصحابنا»<span><sup><a class=\"NewFn\" href=\"#footnote190\" title=\"(3)  رجال الطوسي: 6386/449. \">3</a></sup></span>.</p>\n  <p id=\"p2026\" paragraph-id=\"2026\" class=\" G\">و عبّر ابن طاوس في غير موضع من كتبه ب‍: «الشيخ الصدوق» فقال عنه في كشف المحجّة: «الفصل السابع و العشرون، و ممّا ينبّهك يا ولدي على ما ذكرت بالعقل من طريق النقل عن سلفك الطاهرين أئمّة الفضل، ما رويته من كتاب أبي محمّد عبد الله بن حمّاد الأنصاري، من أصحاب مولانا الكاظم عليه السّلام، و نقلته من أصل قرئ على الصدوق الذي ذكر جدّك أبو جعفر الطوسي أنّه لم يكن له نظير في زمانه، و هو هارون بن موسى التلعكبري تغمّده الله جلّ جلاله برضوانه، تأريخه سنة ستّ و سبعين و ثلاثمائة، و هو أستاذ المفيد محمّد بن محمّد بن النعمان، ضاعف الله جلّ جلاله لهما تحف الرضوان...»<span><sup><a class=\"NewFn\" href=\"#footnote191\" title=\"(4)  كشف المحجّة: 61، و انظر: فلاح السائل: 121، 49، 44، 43. \">4</a></sup></span>.</p>\n  <p id=\"p2027\" paragraph-id=\"2027\" class=\" G\">أمّا العامّة فضعّفه بعضهم من دافع العصبيّة العمياء التي صارت سببا لتقليب الحقيقة على مثل هذا الشيخ الجليل<span><sup><a class=\"NewFn\" href=\"#footnote192\" title=\"(5)  ذيل تاريخ بغداد لابن النجّار 31:17، ميزان الاعتدال 287:4.\">5</a></sup></span>. </p>\n  <p id=\"p2028\" paragraph-id=\"2028\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote188\" footnote-id=\"188\">(1) <page number=\"65\" /> انظر: إقبال الأعمال 34:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote189\" footnote-id=\"189\">(2)  رجال النجاشي: 1184/439. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote190\" footnote-id=\"190\">(3)  رجال الطوسي: 6386/449. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote191\" footnote-id=\"191\">(4)  كشف المحجّة: 61، و انظر: فلاح السائل: 121، 49، 44، 43. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote192\" footnote-id=\"192\">(5)  ذيل تاريخ بغداد لابن النجّار 31:17، ميزان الاعتدال 287:4.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0B85BBE2-F7E3-4F18-8212-4180D26F320C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

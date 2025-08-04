@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 1,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714165999,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1745\"><page number=\"1\"/><heading level=\"1\">الجزء الأوّل</heading></p>"
+        },
+        {
+          "paragraphId": 714166000,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1746\"><format class=\"BeginIntroduction\" type=\"12\"/> بسم الله الرّحمن الرّحيم</p>"
+        },
+        {
+          "paragraphId": 714166001,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1747\">طبّ الأئمّة الصّادقين</p>"
+        },
+        {
+          "paragraphId": 714166002,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1748\"><page number=\"2\"/><img src=\"BK126314G001S1P2\" alt=\"\" imgtype=\"Scan\"/><page number=\"3\"/><img src=\"BK126314G001S1P3\" alt=\"\" imgtype=\"Scan\"/><page number=\"4\"/><img src=\"BK126314G001S1P4\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"12\"/><page number=\"5\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"1\"/>مقدمة المجمع</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "1",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1745\" paragraph-id=\"1745\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo1\">1</span>\n    <strong style=\"0\" class=\"h-1 01\">الجزء الأوّل</strong>\n  </p>\n  <p id=\"p1746\" paragraph-id=\"1746\" class=\" G\">\n    <span class=\"BeginIntroduction\"></span> بسم الله الرّحمن الرّحيم</p>\n  <p id=\"p1747\" paragraph-id=\"1747\" class=\" G\">طبّ الأئمّة الصّادقين</p>\n  <p id=\"p1748\" paragraph-id=\"1748\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "254BA4DA-5BF7-4398-84FF-FDAD89D5455F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

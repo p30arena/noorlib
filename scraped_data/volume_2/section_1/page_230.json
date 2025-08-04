@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 230,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170688,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1943\"><format class=\"hadith\" who=\"8,7\" Id=\"319\" RevayatIndex=\"840\"><page number=\"230\"/> فقلت لعلي بن جعفر: لم ذاك‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714170689,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1944\"><format class=\"hadith\" who=\"8,7\" Id=\"319\" RevayatIndex=\"840\">فقال علي: ذكرت ذلك<lfootnote noteId=\"944\">1</lfootnote> لبعض المتطببّين فذكر أنّه جيّد للجماع و للدماغ<lfootnote noteId=\"945\">2</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170690,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1945\"><heading level=\"2\">[باب] دهن الخلوق و دهن الشيرج<lfootnote noteId=\"946\">3</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714170691,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1946\">[325] </p>"
+        },
+        {
+          "paragraphId": 714170692,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1947\"><format class=\"hadith\" who=\"6\" Id=\"320\" RevayatIndex=\"841\"><format class=\"sanadHadith\">محمّد بن عيسى، عن رجل، عن ابن الفيض، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format> يقول: </format>«إنّه ليعجبني الخلوق»<lfootnote noteId=\"947\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170693,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1948\">[326] </p>"
+        },
+        {
+          "paragraphId": 714170694,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1949\"><format class=\"hadith\" who=\"14,6\" Id=\"321\" RevayatIndex=\"842\"><format class=\"sanadHadith\">الحسن بن موسى الخشّاب<lfootnote noteId=\"948\">5</lfootnote>، عن غياث بن كلوب، عن إسحاق بن عمّار، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«كان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> إذا اشتكى رأسه استعط بدهن الجلجلان و هو السمسم<lfootnote noteId=\"949\">6</lfootnote>»<lfootnote noteId=\"950\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170695,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1950\"><page number=\"231\"/>[327] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171651,
+          "text": "<footnote id=\"944\"><page number=\"230\"/><mnote>(1)</mnote> كلمة: «ذلك» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171652,
+          "text": "<footnote id=\"945\"><mnote>(2)</mnote> رواه الكليني في الكافي 2/524:6، باب دهن الزنبق، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى... جيّد للجماع. </footnote>"
+        },
+        {
+          "footnoteId": 714171653,
+          "text": "<footnote id=\"946\"><mnote>(3)</mnote> هو دهن السمسم، و قد مرّ في باب حزاز الرأس من الجزء الأوّل ما يتعلّق به. </footnote>"
+        },
+        {
+          "footnoteId": 714171654,
+          "text": "<footnote id=\"947\"><mnote>(4)</mnote> مرّ بعينه في الحديث 319، و انظر هامش الحديث 318 و مصادره. </footnote>"
+        },
+        {
+          "footnoteId": 714171655,
+          "text": "<footnote id=\"948\"><mnote>(5)</mnote> في النسخة: «الحسن عن الخشاب» و الصحيح ما أثبتناه كما في الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171656,
+          "text": "<footnote id=\"949\"><mnote>(6)</mnote> في النسخة: «بدهن الخلوق فهو السمسم» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171657,
+          "text": "<footnote id=\"950\"><mnote>(7)</mnote> رواه الكليني في الكافي 1/524:6، باب دهن الحلّ‌، عن محمّد بن يحيى، عن غير واحد، عن الخشّاب، عن غياث بن كلوب، عن إسحاق بن عمّار، عن أبي عبد الله عليه السّلام أنّ رسول الله صلّى الله عليه و آله...، و نحوه الحميري في قرب الإسناد: 383/111، عن الحسن بن ظريف، عن الحسين بن علوان، عن جعفر، عن أبيه قال: «كان رسول الله صلّى الله عليه و آله يستعط بدهن الجلجلان إذا وجع رأسه»، و الكليني في الحديث 2 من الباب، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن بعض أصحابه، عن ابن أخت الأوزاعي، عن <page number=\"231\"/>مسعدة بن اليسع بن قيس الباهلي، عن أبي عبد الله عليه السّلام: «أنّ النبيّ صلّى الله عليه و آله كان يحبّ أن يستعط بدهن السمسم». </footnote>"
+        }
+      ],
+      "pageValue": "230",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1943\" paragraph-id=\"1943\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo230\">230</span> فقلت لعلي بن جعفر: لم ذاك‌؟</span>\n  </p>\n  <p id=\"p1944\" paragraph-id=\"1944\" class=\" G\">\n    <span class=\"hadith\">فقال علي: ذكرت ذلك<span><sup><a class=\"NewFn\" href=\"#footnote944\" title=\"(1)  كلمة: «ذلك» أثبتناها من المصدر. \">1</a></sup></span> لبعض المتطببّين فذكر أنّه جيّد للجماع و للدماغ<span><sup><a class=\"NewFn\" href=\"#footnote945\" title=\"(2)  رواه الكليني في الكافي 2/524:6، باب دهن الزنبق، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى... جيّد للجماع. \">2</a></sup></span>. </span>\n  </p>\n  <p id=\"p1945\" paragraph-id=\"1945\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] دهن الخلوق و دهن الشيرج<span><sup><a class=\"NewFn\" href=\"#footnote946\" title=\"(3)  هو دهن السمسم، و قد مرّ في باب حزاز الرأس من الجزء الأوّل ما يتعلّق به. \">3</a></sup></span></strong>\n  </p>\n  <p id=\"p1946\" paragraph-id=\"1946\" class=\" G\">[325] </p>\n  <p id=\"p1947\" paragraph-id=\"1947\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن عيسى، عن رجل، عن ابن الفيض، قال: سمعت <span class=\"Y\"><span class=\"maasoom\">أبا عبد الله عليه السّلام</span></span> يقول: </span>«إنّه ليعجبني الخلوق»<span><sup><a class=\"NewFn\" href=\"#footnote947\" title=\"(4)  مرّ بعينه في الحديث 319، و انظر هامش الحديث 318 و مصادره. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1948\" paragraph-id=\"1948\" class=\" G\">[326] </p>\n  <p id=\"p1949\" paragraph-id=\"1949\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">الحسن بن موسى الخشّاب<span><sup><a class=\"NewFn\" href=\"#footnote948\" title=\"(5)  في النسخة: «الحسن عن الخشاب» و الصحيح ما أثبتناه كما في الكافي. \">5</a></sup></span>، عن غياث بن كلوب، عن إسحاق بن عمّار، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«كان <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span> إذا اشتكى رأسه استعط بدهن الجلجلان و هو السمسم<span><sup><a class=\"NewFn\" href=\"#footnote949\" title=\"(6)  في النسخة: «بدهن الخلوق فهو السمسم» و ما أثبتناه من المصدر. \">6</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote950\" title=\"(7)  رواه الكليني في الكافي 1/524:6، باب دهن الحلّ‌، عن محمّد بن يحيى، عن غير واحد، عن الخشّاب، عن غياث بن كلوب، عن إسحاق بن عمّار، عن أبي عبد الله عليه السّلام أنّ رسول الله صلّى الله عليه و آله...، و نحوه الحميري في قرب الإسناد: 383/111، عن الحسن بن ظريف، عن الحسين بن علوان، عن جعفر، عن أبيه قال: «كان رسول الله صلّى الله عليه و آله يستعط بدهن الجلجلان إذا وجع رأسه»، و الكليني في الحديث 2 من الباب، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن بعض أصحابه، عن ابن أخت الأوزاعي، عن \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p1950\" paragraph-id=\"1950\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote944\" footnote-id=\"944\">(1) <page number=\"230\" /> كلمة: «ذلك» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote945\" footnote-id=\"945\">(2)  رواه الكليني في الكافي 2/524:6، باب دهن الزنبق، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى... جيّد للجماع. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote946\" footnote-id=\"946\">(3)  هو دهن السمسم، و قد مرّ في باب حزاز الرأس من الجزء الأوّل ما يتعلّق به. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote947\" footnote-id=\"947\">(4)  مرّ بعينه في الحديث 319، و انظر هامش الحديث 318 و مصادره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote948\" footnote-id=\"948\">(5)  في النسخة: «الحسن عن الخشاب» و الصحيح ما أثبتناه كما في الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote949\" footnote-id=\"949\">(6)  في النسخة: «بدهن الخلوق فهو السمسم» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote950\" footnote-id=\"950\">(7)  رواه الكليني في الكافي 1/524:6، باب دهن الحلّ‌، عن محمّد بن يحيى، عن غير واحد، عن الخشّاب، عن غياث بن كلوب، عن إسحاق بن عمّار، عن أبي عبد الله عليه السّلام أنّ رسول الله صلّى الله عليه و آله...، و نحوه الحميري في قرب الإسناد: 383/111، عن الحسن بن ظريف، عن الحسين بن علوان، عن جعفر، عن أبيه قال: «كان رسول الله صلّى الله عليه و آله يستعط بدهن الجلجلان إذا وجع رأسه»، و الكليني في الحديث 2 من الباب، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن بعض أصحابه، عن ابن أخت الأوزاعي، عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "BABB9521-E006-40A2-B6DF-A38D863009D2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

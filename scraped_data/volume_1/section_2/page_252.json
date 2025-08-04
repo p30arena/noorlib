@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 252,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167572,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3318\"><page number=\"252\"/><heading level=\"3\">دواء له أيضا</heading></p>"
+        },
+        {
+          "paragraphId": 714167573,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3319\">[408] تأخذ جزأين ورق<lfootnote noteId=\"1394\">1</lfootnote> الهليلج الأصفر و جزأين من سنا<lfootnote noteId=\"1395\">2</lfootnote> و جزأين من صعتر و جزء من شيح أرمني، يدقّ و يعجن بماء الكراث و يتّخذ أقراصا، كلّ قرص وزن درهمين، يأخذ صاحبه قرصة بالغداة على الريق و قرصة عند النوم، مجرّب<lfootnote noteId=\"1396\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714167574,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3320\">[409] </p>"
+        },
+        {
+          "paragraphId": 714167575,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3321\"><format class=\"hadith\" who=\"6\" Id=\"405\" RevayatIndex=\"405\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أيّوب بن نوح، عن ابن عامر<lfootnote noteId=\"1397\">4</lfootnote>، عن ربيع بن محمّد المسلي<lfootnote noteId=\"1398\">5</lfootnote>، عن أحمد بن رزين، عن سفيان السمط<lfootnote noteId=\"1399\">6</lfootnote>، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«عليكم بخلّ الخمر<lfootnote noteId=\"1400\">7</lfootnote>؛ فإنّه لا يبقي في جوفك دابّة إلّا قتلها»<lfootnote noteId=\"1401\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167576,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3322\"><page number=\"253\"/><heading level=\"3\">و أيضا رقية للبطن من الدوّاب</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169348,
+          "text": "<footnote id=\"1393\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا.<br/>و ممّا يتعلّق بصدر الحديث ما رواه الكليني في الكافي 4/36:3 - و عنه الطوسي في تهذيب الأحكام 22/12:1، و الاستبصار 2/256/82:1، فقال: عن المفيد، عن أبي القاسم جعفر بن محمّد، عن محمّد بن يعقوب الكليني - عن عدّة من أصحابنا، عن أحمد بن محمّد، عن محمّد بن إسماعيل، عن ظريف، عن ثعلبة بن ميمون، عن عبد الله بن يزيد، عن أبي عبد الله عليه السّلام قال: «ليس في حبّ القرع و الديدان الصغار <page number=\"252\"/>وضوء إنّما هو بمنزلة القمّل»، و مثله الصدوق في من لا يحضره الفقيه 138/62:1، عن الصادق عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169349,
+          "text": "<footnote id=\"1394\"><mnote>(1)</mnote> أي: جزأين من ورق. </footnote>"
+        },
+        {
+          "footnoteId": 714169350,
+          "text": "<footnote id=\"1395\"><mnote>(2)</mnote> كذا استظهرنا من العبارة، أي: سنامكي. </footnote>"
+        },
+        {
+          "footnoteId": 714169351,
+          "text": "<footnote id=\"1396\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169352,
+          "text": "<footnote id=\"1397\"><mnote>(4)</mnote> و هو: العباس بن عامر القصباني، كما في رجال النجاشي: 744/281. </footnote>"
+        },
+        {
+          "footnoteId": 714169353,
+          "text": "<footnote id=\"1398\"><mnote>(5)</mnote> في النسخة: «عن ابن عامر المسلي» و ما أثبتناه من الكافي، و هو: ربيع بن محمّد بن عمر بن حسان الأصم المسلي المذحجي الكوفي، و انظر: رجال النجاشي: 433/164، الفهرست للطوسي: 290/193. </footnote>"
+        },
+        {
+          "footnoteId": 714169354,
+          "text": "<footnote id=\"1399\"><mnote>(6)</mnote> في النسخة: «سفيان بن الشمط» و هو تصحيف كما تقدّم في الحديث 211 و 329. </footnote>"
+        },
+        {
+          "footnoteId": 714169355,
+          "text": "<footnote id=\"1400\"><mnote>(7)</mnote> في المحاسن و الكافي زيادة: «فاغتمس فيه».<br/>و الاغتماس: الارتماس، و كأنّه هنا كناية عن كثرة الشرب أو المعنى: غمس اللقمة فيه عند الائتدام به. بحار الأنوار 303:63. </footnote>"
+        },
+        {
+          "footnoteId": 714169356,
+          "text": "<footnote id=\"1401\"><mnote>(8)</mnote> رواه البرقي في المحاسن 15/487:2، باب الخلّ‌، عن علي بن الحكم، عن <page number=\"253\"/>المسلمي، عن أحمد بن رزين، عن سفيان السمط، قال: قال أبو عبد الله عليه السّلام: «عليك بخلّ الخمر»، و الكليني في الكافي 11/330:6، باب الخلّ‌، عن أحمد بن محمّد، عن علي بن الحكم، عن ربيع المسلي، و الطبرسي في مكارم الأخلاق: 6/190، في الخلّ عنه عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "252",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3318\" paragraph-id=\"3318\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo252\">252</span>\n    <strong style=\"0\" class=\"h-3 03\">دواء له أيضا</strong>\n  </p>\n  <p id=\"p3319\" paragraph-id=\"3319\" class=\" G\">[408] تأخذ جزأين ورق<span><sup><a class=\"NewFn\" href=\"#footnote1394\" title=\"(1)  أي: جزأين من ورق. \">1</a></sup></span> الهليلج الأصفر و جزأين من سنا<span><sup><a class=\"NewFn\" href=\"#footnote1395\" title=\"(2)  كذا استظهرنا من العبارة، أي: سنامكي. \">2</a></sup></span> و جزأين من صعتر و جزء من شيح أرمني، يدقّ و يعجن بماء الكراث و يتّخذ أقراصا، كلّ قرص وزن درهمين، يأخذ صاحبه قرصة بالغداة على الريق و قرصة عند النوم، مجرّب<span><sup><a class=\"NewFn\" href=\"#footnote1396\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">3</a></sup></span>.</p>\n  <p id=\"p3320\" paragraph-id=\"3320\" class=\" G\">[409] </p>\n  <p id=\"p3321\" paragraph-id=\"3321\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أيّوب بن نوح، عن ابن عامر<span><sup><a class=\"NewFn\" href=\"#footnote1397\" title=\"(4)  و هو: العباس بن عامر القصباني، كما في رجال النجاشي: 744/281. \">4</a></sup></span>، عن ربيع بن محمّد المسلي<span><sup><a class=\"NewFn\" href=\"#footnote1398\" title=\"(5)  في النسخة: «عن ابن عامر المسلي» و ما أثبتناه من الكافي، و هو: ربيع بن محمّد بن عمر بن حسان الأصم المسلي المذحجي الكوفي، و انظر: رجال النجاشي: 433/164، الفهرست للطوسي: 290/193. \">5</a></sup></span>، عن أحمد بن رزين، عن سفيان السمط<span><sup><a class=\"NewFn\" href=\"#footnote1399\" title=\"(6)  في النسخة: «سفيان بن الشمط» و هو تصحيف كما تقدّم في الحديث 211 و 329. \">6</a></sup></span>، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«عليكم بخلّ الخمر<span><sup><a class=\"NewFn\" href=\"#footnote1400\" title=\"(7)  في المحاسن و الكافي زيادة: «فاغتمس فيه».و الاغتماس: الارتماس، و كأنّه هنا كناية عن كثرة الشرب أو المعنى: غمس اللقمة فيه عند الائتدام به. بحار الأنوار 303:63. \">7</a></sup></span>؛ فإنّه لا يبقي في جوفك دابّة إلّا قتلها»<span><sup><a class=\"NewFn\" href=\"#footnote1401\" title=\"(8)  رواه البرقي في المحاسن 15/487:2، باب الخلّ‌، عن علي بن الحكم، عن \">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p3322\" paragraph-id=\"3322\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1393\" footnote-id=\"1393\"><page number=\"252\" />وضوء إنّما هو بمنزلة القمّل»، و مثله الصدوق في من لا يحضره الفقيه 138/62:1، عن الصادق عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1394\" footnote-id=\"1394\">(1)  أي: جزأين من ورق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1395\" footnote-id=\"1395\">(2)  كذا استظهرنا من العبارة، أي: سنامكي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1396\" footnote-id=\"1396\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1397\" footnote-id=\"1397\">(4)  و هو: العباس بن عامر القصباني، كما في رجال النجاشي: 744/281. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1398\" footnote-id=\"1398\">(5)  في النسخة: «عن ابن عامر المسلي» و ما أثبتناه من الكافي، و هو: ربيع بن محمّد بن عمر بن حسان الأصم المسلي المذحجي الكوفي، و انظر: رجال النجاشي: 433/164، الفهرست للطوسي: 290/193. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1399\" footnote-id=\"1399\">(6)  في النسخة: «سفيان بن الشمط» و هو تصحيف كما تقدّم في الحديث 211 و 329. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1400\" footnote-id=\"1400\">(7)  في المحاسن و الكافي زيادة: «فاغتمس فيه».<br />و الاغتماس: الارتماس، و كأنّه هنا كناية عن كثرة الشرب أو المعنى: غمس اللقمة فيه عند الائتدام به. بحار الأنوار 303:63. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1401\" footnote-id=\"1401\">(8)  رواه البرقي في المحاسن 15/487:2، باب الخلّ‌، عن علي بن الحكم، عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "03624FB8-7832-4779-AC43-35891926ADB0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

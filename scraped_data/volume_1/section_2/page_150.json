@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 150,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167188,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2785\"><format class=\"hadith\" who=\"6\" Id=\"225\" RevayatIndex=\"225\"><format class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن<lfootnote noteId=\"927\">5</lfootnote>، عن خلف بن حمّاد، عن رجل، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«الكحل ينبت الشعر<lfootnote noteId=\"928\">6</lfootnote>، و يحدّ البصر، <page number=\"150\"/> و يعين على طول السجود»<lfootnote noteId=\"929\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167189,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2786\">[228] </p>"
+        },
+        {
+          "paragraphId": 714167190,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2787\"><format class=\"hadith\" who=\"16\" Id=\"226\" RevayatIndex=\"226\"><format class=\"sanadHadith\">و روى بعضهم، قال: </format>«ينتفع بالكحل بالإثمد بعد ثلاثين سنة»<lfootnote noteId=\"930\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167191,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2788\"><heading level=\"2\">[باب] في البياض في العين و كلّ ريح و وجع يكون في الرأس </heading></p>"
+        },
+        {
+          "paragraphId": 714167192,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2789\">[229]</p>"
+        },
+        {
+          "paragraphId": 714167193,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2790\"><format class=\"hadith\" who=\"16\" Id=\"227\" RevayatIndex=\"227\"> تأخذ فلفلا أبيضا و دار الفلفل مكد درهمين، و نوشادر صافي جيّد وزن درهم، فاسحقه، و انخله، و اكتحل به في كلّ عين ثلاث مراود، و اصبر عليها ساعة فإنّه يمصّ‌، و يسيّل الماء، ثمّ يسكن الوجع إن شاء الله تعالى، ثمّ اغسل عينيك بالماء، ثمّ أتبعه بالإثمد، إن أحببت ذلك<lfootnote noteId=\"931\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167194,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2791\"><format class=\"a\">و أيضا:</format></p>"
+        },
+        {
+          "paragraphId": 714167195,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2792\">[230]</p>"
+        },
+        {
+          "paragraphId": 714167196,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2793\"><format class=\"hadith\" who=\"16\" Id=\"228\" RevayatIndex=\"228\"> يؤخذ توتيا هندي جزءا و إقليميا الذهب جزءا و إثمد جيّد جزءا <page number=\"151\"/> فيجمع<lfootnote noteId=\"932\">1</lfootnote> مع الهليلج جزءا و ملح أندراني جزءا، يسحق كلّ واحد على حدة<lfootnote noteId=\"933\">2</lfootnote>بماء السماء، ثمّ يجمع بعد السحق و يكتحل به، جيّد مجرّب إن شاء الله تعالى<lfootnote noteId=\"934\">3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168884,
+          "text": "<footnote id=\"929\"><page number=\"150\"/><mnote>(1)</mnote> رواه الكليني في الكافي 6/494:6، باب الكحل، [عن عدّة من أصحابنا] عنه [أي:<br/>عن البرقي]، عن أبيه، عن خلف بن حماد، عمّن ذكره، عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 1/46، الفصل الثاني في التكحّل و التدهّن، من كتاب من لا يحضره الفقيه عن الباقر عليه السّلام قال: «و يعين على طول السهر». و لم نجده في من لا يحضره الفقيه المطبوع. </footnote>"
+        },
+        {
+          "footnoteId": 714168885,
+          "text": "<footnote id=\"930\"><mnote>(2)</mnote> رواه الطبرسي في مكارم الأخلاق: 4/46، الفصل الثاني في التكحل و التدهن، عن طبّ الأئمّة عليهم السّلام، عن الرضا عليه السّلام قال: «من أصابه... و ينفع...» فقد ذكره ضمن الحديث الرابع، و قد رواه هنا مستقلّا. </footnote>"
+        },
+        {
+          "footnoteId": 714168886,
+          "text": "<footnote id=\"931\"><mnote>(3)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 1/87، في بياض العين و وجع الضرس، أبو عتاب و الحسين ابنا بسطام، قالا: حدّثنا محمّد بن خلف، عن عمر بن ثوية، عن أبيه، عن الصادق عليه السّلام أنّ رجلا شكا إليه بياضا في عينه و وجعا في ضرسه و رياحا في مفاصله، فأمره أن يأخذ فلفلا.</footnote>"
+        }
+      ],
+      "pageValue": "150",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2785\" paragraph-id=\"2785\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo150\">150</span> و يعين على طول السجود»<span><sup><a class=\"NewFn\" href=\"#footnote929\" title=\"(1)  رواه الكليني في الكافي 6/494:6، باب الكحل، [عن عدّة من أصحابنا] عنه [أي:عن البرقي]، عن أبيه، عن خلف بن حماد، عمّن ذكره، عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 1/46، الفصل الثاني في التكحّل و التدهّن، من كتاب من لا يحضره الفقيه عن الباقر عليه السّلام قال: «و يعين على طول السهر». و لم نجده في من لا يحضره الفقيه المطبوع. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2786\" paragraph-id=\"2786\" class=\" G\">[228] </p>\n  <p id=\"p2787\" paragraph-id=\"2787\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى بعضهم، قال: </span>«ينتفع بالكحل بالإثمد بعد ثلاثين سنة»<span><sup><a class=\"NewFn\" href=\"#footnote930\" title=\"(2)  رواه الطبرسي في مكارم الأخلاق: 4/46، الفصل الثاني في التكحل و التدهن، عن طبّ الأئمّة عليهم السّلام، عن الرضا عليه السّلام قال: «من أصابه... و ينفع...» فقد ذكره ضمن الحديث الرابع، و قد رواه هنا مستقلّا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2788\" paragraph-id=\"2788\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في البياض في العين و كلّ ريح و وجع يكون في الرأس </strong>\n  </p>\n  <p id=\"p2789\" paragraph-id=\"2789\" class=\" G\">[229]</p>\n  <p id=\"p2790\" paragraph-id=\"2790\" class=\" G\">\n    <span class=\"hadith\"> تأخذ فلفلا أبيضا و دار الفلفل مكد درهمين، و نوشادر صافي جيّد وزن درهم، فاسحقه، و انخله، و اكتحل به في كلّ عين ثلاث مراود، و اصبر عليها ساعة فإنّه يمصّ‌، و يسيّل الماء، ثمّ يسكن الوجع إن شاء الله تعالى، ثمّ اغسل عينيك بالماء، ثمّ أتبعه بالإثمد، إن أحببت ذلك<span><sup><a class=\"NewFn\" href=\"#footnote931\" title=\"(3)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 1/87، في بياض العين و وجع الضرس، أبو عتاب و الحسين ابنا بسطام، قالا: حدّثنا محمّد بن خلف، عن عمر بن ثوية، عن أبيه، عن الصادق عليه السّلام أنّ رجلا شكا إليه بياضا في عينه و وجعا في ضرسه و رياحا في مفاصله، فأمره أن يأخذ فلفلا.\">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2791\" paragraph-id=\"2791\" class=\" G\">\n    <span class=\"a\">و أيضا:</span>\n  </p>\n  <p id=\"p2792\" paragraph-id=\"2792\" class=\" G\">[230]</p>\n  <p id=\"p2793\" paragraph-id=\"2793\" class=\" G\">\n    <span class=\"hadith\"> يؤخذ توتيا هندي جزءا و إقليميا الذهب جزءا و إثمد جيّد جزءا </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote929\" footnote-id=\"929\">(1) <page number=\"150\" /> رواه الكليني في الكافي 6/494:6، باب الكحل، [عن عدّة من أصحابنا] عنه [أي:<br />عن البرقي]، عن أبيه، عن خلف بن حماد، عمّن ذكره، عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 1/46، الفصل الثاني في التكحّل و التدهّن، من كتاب من لا يحضره الفقيه عن الباقر عليه السّلام قال: «و يعين على طول السهر». و لم نجده في من لا يحضره الفقيه المطبوع. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote930\" footnote-id=\"930\">(2)  رواه الطبرسي في مكارم الأخلاق: 4/46، الفصل الثاني في التكحل و التدهن، عن طبّ الأئمّة عليهم السّلام، عن الرضا عليه السّلام قال: «من أصابه... و ينفع...» فقد ذكره ضمن الحديث الرابع، و قد رواه هنا مستقلّا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote931\" footnote-id=\"931\">(3)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 1/87، في بياض العين و وجع الضرس، أبو عتاب و الحسين ابنا بسطام، قالا: حدّثنا محمّد بن خلف، عن عمر بن ثوية، عن أبيه، عن الصادق عليه السّلام أنّ رجلا شكا إليه بياضا في عينه و وجعا في ضرسه و رياحا في مفاصله، فأمره أن يأخذ فلفلا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "46465DD9-13D6-4F7E-95FF-21C32C64F9BC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

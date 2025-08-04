@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 12,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166409,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2155\"><format class=\"hadith\" who=\"13,5\" Id=\"5\" RevayatIndex=\"5\"><format class=\"ayah\" surah=\"23\" ayah=\"14\" toAyah=\"\">فَتَبٰارَكَ اَللّٰهُ أَحْسَنُ اَلْخٰالِقِينَ‌<format class=\"ayahWord\" fromWord=\"18\" toWord=\"21\"/><format class=\"ayahAddress\" surah=\"23\" ayah=\"14\" toAyah=\"\"/></format><lfootnote noteId=\"276\">8</lfootnote>، ثمّ توضع في بطن المرأة فتردّد تسعة أيّام في كلّ عرق و مفصل منها. و للرحم ثلاثة أقفال: قفل في أعلاها ممّا يلي السرّة من <page number=\"12\"/>الجانب الأيمن، و القفل الآخر في وسطها، و القفل الآخر أسفل الرحم<lfootnote noteId=\"277\">1</lfootnote>، فيوضع بعد تسعة أيّام في القفل الأعلى فيمكث فيه ثلاثة أشهر، فعند ذلك يصيب المرأة التهوّع و خبث النفس<lfootnote noteId=\"278\">2</lfootnote>، ثمّ ينزل إلى القفل الأوسط فيمكث فيه ثلاثة أشهر، و سرّة الصبي فيها مجمع العروق و عروق<lfootnote noteId=\"279\">3</lfootnote> المرأة كلّها منها، يدخل طعامه و شرابه من تلك العروق، ثمّ ينزل إلى القفل الأسفل فيمكث فيه ثلاثة أشهر، و سرّة الصبي كذلك<lfootnote noteId=\"280\">4</lfootnote> فذلك تسعة أشهر، ثمّ تطلق المرأة<lfootnote noteId=\"281\">5</lfootnote>، و كلّما طلقت انقطع عرق من سرّة الصبي<lfootnote noteId=\"282\">6</lfootnote> فيصيبها ذلك الوجع و يده في سرّته حتّى يقع إلى الأرض و يده مبسوطة<lfootnote noteId=\"283\">7</lfootnote> فيكون رزقه حينئذ من فيه<lfootnote noteId=\"284\">8</lfootnote>»<lfootnote noteId=\"285\">9</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166410,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2156\">[6] </p>"
+        },
+        {
+          "paragraphId": 714166411,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2157\"><format class=\"hadith\" who=\"16\" Id=\"6\" RevayatIndex=\"6\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن النضر بن سويد، عن يحيى بن عمران الحلبي، عن ابن مسكان، عن بدر بن <page number=\"13\"/> الوليد<lfootnote noteId=\"286\">1</lfootnote>، عن أبي الربيع الشامي، قال:</format> سألته عليه السّلام عن قوله تعالى: <format class=\"ayah\" surah=\"36\" ayah=\"36\" toAyah=\"\">سُبْحٰانَ اَلَّذِي خَلَقَ اَلْأَزْوٰاجَ كُلَّهٰا مِمّٰا تُنْبِتُ اَلْأَرْضُ وَ مِنْ أَنْفُسِهِمْ وَ مِمّٰا لاٰ يَعْلَمُونَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"15\"/><format class=\"ayahAddress\" surah=\"36\" ayah=\"36\" toAyah=\"\"/></format>، فقال: «إنّ النطفة تقع من السماء إلى الأرض على النبات و الثمر و الشجر، فيأكل الناس منها، و البهائم، فتجري فيهم»<lfootnote noteId=\"287\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168331,
+          "text": "<footnote id=\"277\"><page number=\"12\"/><mnote>(1)</mnote> في الكافي: «أسفل من الرحم». </footnote>"
+        },
+        {
+          "footnoteId": 714168332,
+          "text": "<footnote id=\"278\"><mnote>(2)</mnote> التهوّع: إذا جاءه القيء و من غير تكلّف. كتاب العين 170:2 «هوع». </footnote>"
+        },
+        {
+          "footnoteId": 714168333,
+          "text": "<footnote id=\"279\"><mnote>(3)</mnote> في النسخة: «مجمع عروق» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168334,
+          "text": "<footnote id=\"280\"><mnote>(4)</mnote> قوله: «و سرّة الصبي كذلك» لم ترد في الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168335,
+          "text": "<footnote id=\"281\"><mnote>(5)</mnote> طلقت المرأة إذا ضربها الطّلق عند الولادة و أخذها المخاض و وجع الولادة. كتاب العين 101:5 «طلق». </footnote>"
+        },
+        {
+          "footnoteId": 714168336,
+          "text": "<footnote id=\"282\"><mnote>(6)</mnote> كلمة: «الصبي» أثبتناها من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168337,
+          "text": "<footnote id=\"283\"><mnote>(7)</mnote> كلمة: «مبسوطة» أثبتناها من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168338,
+          "text": "<footnote id=\"284\"><mnote>(8)</mnote> استدلّ الطباطبائي بهذه الرواية، في بحث إلحاق الولد بالزوج على أنّ أقصى الوضع تسعة أشهر، رياض المسائل 485:10. انظر: جواهر الكلام 226:31. </footnote>"
+        },
+        {
+          "footnoteId": 714168339,
+          "text": "<footnote id=\"285\"><mnote>(9)</mnote> رواه الكليني في الكافي 5/15:6، باب بدء خلق الإنسان و تقلّبه في بطن امّه، فقال:<br/>محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد.</footnote>"
+        }
+      ],
+      "pageValue": "12",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2155\" paragraph-id=\"2155\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo12\">12</span>الجانب الأيمن، و القفل الآخر في وسطها، و القفل الآخر أسفل الرحم<span><sup><a class=\"NewFn\" href=\"#footnote277\" title=\"(1)  في الكافي: «أسفل من الرحم». \">1</a></sup></span>، فيوضع بعد تسعة أيّام في القفل الأعلى فيمكث فيه ثلاثة أشهر، فعند ذلك يصيب المرأة التهوّع و خبث النفس<span><sup><a class=\"NewFn\" href=\"#footnote278\" title=\"(2)  التهوّع: إذا جاءه القيء و من غير تكلّف. كتاب العين 170:2 «هوع». \">2</a></sup></span>، ثمّ ينزل إلى القفل الأوسط فيمكث فيه ثلاثة أشهر، و سرّة الصبي فيها مجمع العروق و عروق<span><sup><a class=\"NewFn\" href=\"#footnote279\" title=\"(3)  في النسخة: «مجمع عروق» و ما أثبتناه من الكافي. \">3</a></sup></span> المرأة كلّها منها، يدخل طعامه و شرابه من تلك العروق، ثمّ ينزل إلى القفل الأسفل فيمكث فيه ثلاثة أشهر، و سرّة الصبي كذلك<span><sup><a class=\"NewFn\" href=\"#footnote280\" title=\"(4)  قوله: «و سرّة الصبي كذلك» لم ترد في الكافي. \">4</a></sup></span> فذلك تسعة أشهر، ثمّ تطلق المرأة<span><sup><a class=\"NewFn\" href=\"#footnote281\" title=\"(5)  طلقت المرأة إذا ضربها الطّلق عند الولادة و أخذها المخاض و وجع الولادة. كتاب العين 101:5 «طلق». \">5</a></sup></span>، و كلّما طلقت انقطع عرق من سرّة الصبي<span><sup><a class=\"NewFn\" href=\"#footnote282\" title=\"(6)  كلمة: «الصبي» أثبتناها من الكافي. \">6</a></sup></span> فيصيبها ذلك الوجع و يده في سرّته حتّى يقع إلى الأرض و يده مبسوطة<span><sup><a class=\"NewFn\" href=\"#footnote283\" title=\"(7)  كلمة: «مبسوطة» أثبتناها من الكافي. \">7</a></sup></span> فيكون رزقه حينئذ من فيه<span><sup><a class=\"NewFn\" href=\"#footnote284\" title=\"(8)  استدلّ الطباطبائي بهذه الرواية، في بحث إلحاق الولد بالزوج على أنّ أقصى الوضع تسعة أشهر، رياض المسائل 485:10. انظر: جواهر الكلام 226:31. \">8</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote285\" title=\"(9)  رواه الكليني في الكافي 5/15:6، باب بدء خلق الإنسان و تقلّبه في بطن امّه، فقال:محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد.\">9</a></sup></span>.</span>\n  </p>\n  <p id=\"p2156\" paragraph-id=\"2156\" class=\" G\">[6] </p>\n  <p id=\"p2157\" paragraph-id=\"2157\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن النضر بن سويد، عن يحيى بن عمران الحلبي، عن ابن مسكان، عن بدر بن </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote277\" footnote-id=\"277\">(1) <page number=\"12\" /> في الكافي: «أسفل من الرحم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote278\" footnote-id=\"278\">(2)  التهوّع: إذا جاءه القيء و من غير تكلّف. كتاب العين 170:2 «هوع». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote279\" footnote-id=\"279\">(3)  في النسخة: «مجمع عروق» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote280\" footnote-id=\"280\">(4)  قوله: «و سرّة الصبي كذلك» لم ترد في الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote281\" footnote-id=\"281\">(5)  طلقت المرأة إذا ضربها الطّلق عند الولادة و أخذها المخاض و وجع الولادة. كتاب العين 101:5 «طلق». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote282\" footnote-id=\"282\">(6)  كلمة: «الصبي» أثبتناها من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote283\" footnote-id=\"283\">(7)  كلمة: «مبسوطة» أثبتناها من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote284\" footnote-id=\"284\">(8)  استدلّ الطباطبائي بهذه الرواية، في بحث إلحاق الولد بالزوج على أنّ أقصى الوضع تسعة أشهر، رياض المسائل 485:10. انظر: جواهر الكلام 226:31. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote285\" footnote-id=\"285\">(9)  رواه الكليني في الكافي 5/15:6، باب بدء خلق الإنسان و تقلّبه في بطن امّه، فقال:<br />محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D19DCCBC-4011-405F-A9D9-EB0C705CA434",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

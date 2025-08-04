@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 124,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166946,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2692\"><format class=\"hadith\" who=\"8\" Id=\"189\" RevayatIndex=\"189\"><page number=\"124\"/> فقال: «عليك بهذه البقلة التي تلتفّ‌، فدقّها وضعها على رأسك، و مرهم فليضعوها على رؤوس صبيانهم فإنّها نافعة بإذن الله تعالى، ففعلت فسكن عنّي الوجع، و البقلة اللبلاب<lfootnote noteId=\"835\">1</lfootnote>»<lfootnote noteId=\"836\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166947,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2693\">[192] </p>"
+        },
+        {
+          "paragraphId": 714166948,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2694\"><format class=\"hadith\" who=\"8\" Id=\"190\" RevayatIndex=\"190\"><format class=\"sanadHadith\">روى مهران الكرخي<lfootnote noteId=\"837\">3</lfootnote>، قال: شكوت إلى الخراساني عليه السّلام<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\"/></format> صداعا كان تجده أهلي.</format></format></p>"
+        },
+        {
+          "paragraphId": 714166949,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2695\"><format class=\"hadith\" who=\"8\" Id=\"190\" RevayatIndex=\"190\"><format class=\"sanadHadith\">فقال عليه السّلام: </format>«مرها فلتخضّب بالحنّاء»<lfootnote noteId=\"838\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166950,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2696\">[193] </p>"
+        },
+        {
+          "paragraphId": 714166951,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2697\"><format class=\"hadith\" who=\"6\" Id=\"191\" RevayatIndex=\"191\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن علي بن الحكم، عن هشام بن سالم، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«[ما]<lfootnote noteId=\"839\">5</lfootnote> من وجع <page number=\"125\"/> و لا صداع و لا عرق يضرب<lfootnote noteId=\"840\">1</lfootnote> إلّا بذنب، و ما يعفو الله تعالى عنه أكثر»<lfootnote noteId=\"841\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168531,
+          "text": "<footnote id=\"835\"><page number=\"124\"/><mnote>(1)</mnote> اللبلاب، بالفتح: كلّ نبت ذي خيوط تتعلّق بما يقاربها، و غلب على النبت الذي يسمى:<br/>حبل المساكين. الطراز الأوّل 61:3. حشيشة يتداوى بها «اللبلب». كتاب العين 319:8 «لبب». </footnote>"
+        },
+        {
+          "footnoteId": 714168532,
+          "text": "<footnote id=\"836\"><mnote>(2)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/374، للصداع و غيره، عن عمرو بن إبراهيم قال: شكوت إلى الرضا عليه السّلام... </footnote>"
+        },
+        {
+          "footnoteId": 714168533,
+          "text": "<footnote id=\"837\"><mnote>(3)</mnote> لعلّ الصحيح محمّد بن مهران الكرخي و هو من مشايخ الأشعري. </footnote>"
+        },
+        {
+          "footnoteId": 714168534,
+          "text": "<footnote id=\"838\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و روى الطبرسي نحوه في مكارم الأخلاق: 2/374، للصداع بعد الحديث المتقدّم فقال: و عنه عليه السّلام في الصداع قال: «فليختضب بالحنّاء»، و يؤيّده ما في ص 82، فقال: قال رسول الله صلّى الله عليه و آله: «الحنّاء خضاب الإسلام يزيّن المؤمن و يذهب بالصداع و يحدّ البصر و يزيد في الجماع، و الحسنة بعشرة و الدرهم بسبعمائة»، و نقل في طبّ النّبي صلّى الله عليه و آله: 30، و بعض مصادر العامّة عنه صلّى الله عليه و آله: «الحنّاء خضاب الإسلام يزيد في المؤمن عمله و يذهب بالصداع و يحدّ البصر و يزيد في الوقاع و هو سيّد الرياحين في الدنيا و الآخرة». </footnote>"
+        },
+        {
+          "footnoteId": 714168535,
+          "text": "<footnote id=\"839\"><mnote>(5)</mnote> ما بين المعقوفتين أثبتناه للضرورة.</footnote>"
+        }
+      ],
+      "pageValue": "124",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2692\" paragraph-id=\"2692\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo124\">124</span> فقال: «عليك بهذه البقلة التي تلتفّ‌، فدقّها وضعها على رأسك، و مرهم فليضعوها على رؤوس صبيانهم فإنّها نافعة بإذن الله تعالى، ففعلت فسكن عنّي الوجع، و البقلة اللبلاب<span><sup><a class=\"NewFn\" href=\"#footnote835\" title=\"(1)  اللبلاب، بالفتح: كلّ نبت ذي خيوط تتعلّق بما يقاربها، و غلب على النبت الذي يسمى:حبل المساكين. الطراز الأوّل 61:3. حشيشة يتداوى بها «اللبلب». كتاب العين 319:8 «لبب». \">1</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote836\" title=\"(2)  رواه الطبرسي في مكارم الأخلاق: 1/374، للصداع و غيره، عن عمرو بن إبراهيم قال: شكوت إلى الرضا عليه السّلام... \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2693\" paragraph-id=\"2693\" class=\" G\">[192] </p>\n  <p id=\"p2694\" paragraph-id=\"2694\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى مهران الكرخي<span><sup><a class=\"NewFn\" href=\"#footnote837\" title=\"(3)  لعلّ الصحيح محمّد بن مهران الكرخي و هو من مشايخ الأشعري. \">3</a></sup></span>، قال: شكوت إلى الخراساني عليه السّلام<span class=\"Y\"><span class=\"maasoom\"></span></span> صداعا كان تجده أهلي.</span>\n    </span>\n  </p>\n  <p id=\"p2695\" paragraph-id=\"2695\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فقال عليه السّلام: </span>«مرها فلتخضّب بالحنّاء»<span><sup><a class=\"NewFn\" href=\"#footnote838\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى الطبرسي نحوه في مكارم الأخلاق: 2/374، للصداع بعد الحديث المتقدّم فقال: و عنه عليه السّلام في الصداع قال: «فليختضب بالحنّاء»، و يؤيّده ما في ص 82، فقال: قال رسول الله صلّى الله عليه و آله: «الحنّاء خضاب الإسلام يزيّن المؤمن و يذهب بالصداع و يحدّ البصر و يزيد في الجماع، و الحسنة بعشرة و الدرهم بسبعمائة»، و نقل في طبّ النّبي صلّى الله عليه و آله: 30، و بعض مصادر العامّة عنه صلّى الله عليه و آله: «الحنّاء خضاب الإسلام يزيد في المؤمن عمله و يذهب بالصداع و يحدّ البصر و يزيد في الوقاع و هو سيّد الرياحين في الدنيا و الآخرة». \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2696\" paragraph-id=\"2696\" class=\" G\">[193] </p>\n  <p id=\"p2697\" paragraph-id=\"2697\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن علي بن الحكم، عن هشام بن سالم، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«[ما]<span><sup><a class=\"NewFn\" href=\"#footnote839\" title=\"(5)  ما بين المعقوفتين أثبتناه للضرورة.\">5</a></sup></span> من وجع </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote835\" footnote-id=\"835\">(1) <page number=\"124\" /> اللبلاب، بالفتح: كلّ نبت ذي خيوط تتعلّق بما يقاربها، و غلب على النبت الذي يسمى:<br />حبل المساكين. الطراز الأوّل 61:3. حشيشة يتداوى بها «اللبلب». كتاب العين 319:8 «لبب». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote836\" footnote-id=\"836\">(2)  رواه الطبرسي في مكارم الأخلاق: 1/374، للصداع و غيره، عن عمرو بن إبراهيم قال: شكوت إلى الرضا عليه السّلام... </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote837\" footnote-id=\"837\">(3)  لعلّ الصحيح محمّد بن مهران الكرخي و هو من مشايخ الأشعري. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote838\" footnote-id=\"838\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى الطبرسي نحوه في مكارم الأخلاق: 2/374، للصداع بعد الحديث المتقدّم فقال: و عنه عليه السّلام في الصداع قال: «فليختضب بالحنّاء»، و يؤيّده ما في ص 82، فقال: قال رسول الله صلّى الله عليه و آله: «الحنّاء خضاب الإسلام يزيّن المؤمن و يذهب بالصداع و يحدّ البصر و يزيد في الجماع، و الحسنة بعشرة و الدرهم بسبعمائة»، و نقل في طبّ النّبي صلّى الله عليه و آله: 30، و بعض مصادر العامّة عنه صلّى الله عليه و آله: «الحنّاء خضاب الإسلام يزيد في المؤمن عمله و يذهب بالصداع و يحدّ البصر و يزيد في الوقاع و هو سيّد الرياحين في الدنيا و الآخرة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote839\" footnote-id=\"839\">(5)  ما بين المعقوفتين أثبتناه للضرورة.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "59AADC27-FA77-4D58-9F99-C544DCB1A2C5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

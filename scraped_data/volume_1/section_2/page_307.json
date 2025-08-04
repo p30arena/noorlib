@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 307,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167888,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3634\"><page number=\"307\"/>[506] </p>"
+        },
+        {
+          "paragraphId": 714167889,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3635\"><format class=\"hadith\" who=\"6\" Id=\"497\" RevayatIndex=\"497\"><format class=\"sanadHadith\">و روى بعض أصحابنا قال:</format> كان قد ظهر بي<lfootnote noteId=\"1691\">1</lfootnote> شيء من البياض فأمرني<lfootnote noteId=\"1692\">2</lfootnote><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format> أن أكتب ياسين<lfootnote noteId=\"1693\">3</lfootnote> بالعسل في جام و اغسله و اشربه، ففعلت فذهب عنّي<lfootnote noteId=\"1694\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167890,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3636\">[507] </p>"
+        },
+        {
+          "paragraphId": 714167891,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3637\"><format class=\"hadith\" who=\"7\" Id=\"498\" RevayatIndex=\"498\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن الأوّل عليه السّلام</format></format> أنّه قال</format>: «مرق لحم البقر مع السويق الجافّ‌<lfootnote noteId=\"1695\">5</lfootnote> يذهب بالبرص»<lfootnote noteId=\"1696\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167892,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3638\">[508] </p>"
+        },
+        {
+          "paragraphId": 714167893,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3639\"><format class=\"hadith\" who=\"6\" Id=\"499\" RevayatIndex=\"499\"><format class=\"sanadHadith\">يوسف بن السخت البصري، عن عبد الله بن خداش البصري المهري<lfootnote noteId=\"1697\">7</lfootnote>، قال:</format> شكا مسمع أبو سيّار كردين إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> وضحا ظهر في <page number=\"308\"/> وجهه في موضع السجود و قد ابيضّ‌، و بكى.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169645,
+          "text": "<footnote id=\"1690\"><mnote>(7)</mnote> رواه الطبرسي في مكارم الأخلاق: 2/384، للبرص و الجذام، شكا رجل إلى أبي عبد الله عليه السّلام البرص...، و فيه: طين قبر الحسين عليه السّلام، و ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 104، فقالا:<br/>الداء الخبيث، الحسن بن الخليل، قال: حدّثنا أحمد بن زيد، عن شاذان بن الخليل، عن ذريع، قال: جاء رجل إلى أبي عبد الله عليه السّلام.<br/>و قال المجلسي في بيان رواية طبّ الأئمّة عليهم السّلام: لعلّ المراد بالداء الخبيث الجذام أو <page number=\"307\"/>البرص، و طين الحير طين حائر الحسين عليه السّلام. بحار الأنوار 212:59. </footnote>"
+        },
+        {
+          "footnoteId": 714169646,
+          "text": "<footnote id=\"1691\"><mnote>(1)</mnote> كلمة: «بي» أثبتناها من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169647,
+          "text": "<footnote id=\"1692\"><mnote>(2)</mnote> في النسخة: «و أمرني» و ما أثبتناه من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169648,
+          "text": "<footnote id=\"1693\"><mnote>(3)</mnote> أي سورة يس. </footnote>"
+        },
+        {
+          "footnoteId": 714169649,
+          "text": "<footnote id=\"1694\"><mnote>(4)</mnote> رواه الطبرسي في مكارم الأخلاق: 3/384، للبرص و الجذام بعد الحديث المتقدّم فقال:<br/>و روى بعض أصحابنا. </footnote>"
+        },
+        {
+          "footnoteId": 714169650,
+          "text": "<footnote id=\"1695\"><mnote>(5)</mnote> كلمة: «الجاف» أثبتناها من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169651,
+          "text": "<footnote id=\"1696\"><mnote>(6)</mnote> رواه الطبرسي في مكارم الأخلاق: 4/384، بعد الحديثين المتقدّمين فقال: و روي عن الكاظم عليه السّلام، و روى الكليني نحوه في الكافي 7/311:6، باب لحم البقر و شحومها، عن عدّة من أصحابنا، عن سهل بن زياد، عن محمّد بن إسماعيل بن بزيع، عن يحيى بن مساور، عن أبي إبراهيم عليه السّلام، و سيأتي في هذا الباب روايتان تذكران السويق و لحم البقر كدواء للبرص. </footnote>"
+        },
+        {
+          "footnoteId": 714169652,
+          "text": "<footnote id=\"1697\"><mnote>(7)</mnote> في النسخة: «خراش البصري الهندي» و هو تصحيف، و هو أبو خداش عبد الله بن خداش البصري المهري. عدّه البرقي من أصحاب الكاظم عليهما السّلام و عدّه الطوسي من أصحاب الصادق عليه السّلام و اخرى من أصحاب الكاظم عليه السّلام و ثالثة من أصحاب الجواد عليه السّلام، رجال البرقي 57/50، و رجال الطوسي: 37/231 و 22/340 و 1/379.<page number=\"308\"/>و قال الكشي: محمّد بن مسعود، قال أبو محمّد بن خالد: أبو خداش المهري - و مهرة محلّة بالبصرة - و هو ثقة. اختيار معرفة الرجال: 840/745:2. </footnote>"
+        }
+      ],
+      "pageValue": "307",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3634\" paragraph-id=\"3634\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo307\">307</span>[506] </p>\n  <p id=\"p3635\" paragraph-id=\"3635\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى بعض أصحابنا قال:</span> كان قد ظهر بي<span><sup><a class=\"NewFn\" href=\"#footnote1691\" title=\"(1)  كلمة: «بي» أثبتناها من مكارم الأخلاق. \">1</a></sup></span> شيء من البياض فأمرني<span><sup><a class=\"NewFn\" href=\"#footnote1692\" title=\"(2)  في النسخة: «و أمرني» و ما أثبتناه من مكارم الأخلاق. \">2</a></sup></span><span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span> أن أكتب ياسين<span><sup><a class=\"NewFn\" href=\"#footnote1693\" title=\"(3)  أي سورة يس. \">3</a></sup></span> بالعسل في جام و اغسله و اشربه، ففعلت فذهب عنّي<span><sup><a class=\"NewFn\" href=\"#footnote1694\" title=\"(4)  رواه الطبرسي في مكارم الأخلاق: 3/384، للبرص و الجذام بعد الحديث المتقدّم فقال:و روى بعض أصحابنا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3636\" paragraph-id=\"3636\" class=\" G\">[507] </p>\n  <p id=\"p3637\" paragraph-id=\"3637\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن الأوّل عليه السّلام</span></span> أنّه قال</span>: «مرق لحم البقر مع السويق الجافّ‌<span><sup><a class=\"NewFn\" href=\"#footnote1695\" title=\"(5)  كلمة: «الجاف» أثبتناها من مكارم الأخلاق. \">5</a></sup></span> يذهب بالبرص»<span><sup><a class=\"NewFn\" href=\"#footnote1696\" title=\"(6)  رواه الطبرسي في مكارم الأخلاق: 4/384، بعد الحديثين المتقدّمين فقال: و روي عن الكاظم عليه السّلام، و روى الكليني نحوه في الكافي 7/311:6، باب لحم البقر و شحومها، عن عدّة من أصحابنا، عن سهل بن زياد، عن محمّد بن إسماعيل بن بزيع، عن يحيى بن مساور، عن أبي إبراهيم عليه السّلام، و سيأتي في هذا الباب روايتان تذكران السويق و لحم البقر كدواء للبرص. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3638\" paragraph-id=\"3638\" class=\" G\">[508] </p>\n  <p id=\"p3639\" paragraph-id=\"3639\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">يوسف بن السخت البصري، عن عبد الله بن خداش البصري المهري<span><sup><a class=\"NewFn\" href=\"#footnote1697\" title=\"(7)  في النسخة: «خراش البصري الهندي» و هو تصحيف، و هو أبو خداش عبد الله بن خداش البصري المهري. عدّه البرقي من أصحاب الكاظم عليهما السّلام و عدّه الطوسي من أصحاب الصادق عليه السّلام و اخرى من أصحاب الكاظم عليه السّلام و ثالثة من أصحاب الجواد عليه السّلام، رجال البرقي 57/50، و رجال الطوسي: 37/231 و 22/340 و 1/379.\">7</a></sup></span>، قال:</span> شكا مسمع أبو سيّار كردين إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> وضحا ظهر في </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1690\" footnote-id=\"1690\"><page number=\"307\" />البرص، و طين الحير طين حائر الحسين عليه السّلام. بحار الأنوار 212:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1691\" footnote-id=\"1691\">(1)  كلمة: «بي» أثبتناها من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1692\" footnote-id=\"1692\">(2)  في النسخة: «و أمرني» و ما أثبتناه من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1693\" footnote-id=\"1693\">(3)  أي سورة يس. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1694\" footnote-id=\"1694\">(4)  رواه الطبرسي في مكارم الأخلاق: 3/384، للبرص و الجذام بعد الحديث المتقدّم فقال:<br />و روى بعض أصحابنا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1695\" footnote-id=\"1695\">(5)  كلمة: «الجاف» أثبتناها من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1696\" footnote-id=\"1696\">(6)  رواه الطبرسي في مكارم الأخلاق: 4/384، بعد الحديثين المتقدّمين فقال: و روي عن الكاظم عليه السّلام، و روى الكليني نحوه في الكافي 7/311:6، باب لحم البقر و شحومها، عن عدّة من أصحابنا، عن سهل بن زياد، عن محمّد بن إسماعيل بن بزيع، عن يحيى بن مساور، عن أبي إبراهيم عليه السّلام، و سيأتي في هذا الباب روايتان تذكران السويق و لحم البقر كدواء للبرص. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1697\" footnote-id=\"1697\">(7)  في النسخة: «خراش البصري الهندي» و هو تصحيف، و هو أبو خداش عبد الله بن خداش البصري المهري. عدّه البرقي من أصحاب الكاظم عليهما السّلام و عدّه الطوسي من أصحاب الصادق عليه السّلام و اخرى من أصحاب الكاظم عليه السّلام و ثالثة من أصحاب الجواد عليه السّلام، رجال البرقي 57/50، و رجال الطوسي: 37/231 و 22/340 و 1/379.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A9BEF5DA-FEE8-4C22-B80B-9859625E7F68",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

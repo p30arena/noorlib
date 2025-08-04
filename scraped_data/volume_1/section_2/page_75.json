@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 75,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166837,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2442\"><page number=\"75\"/><heading level=\"3\">عوذة الربع:</heading></p>"
+        },
+        {
+          "paragraphId": 714166838,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2443\">[114] </p>"
+        },
+        {
+          "paragraphId": 714166839,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2444\"><format class=\"hadith\" who=\"8\" Id=\"113\" RevayatIndex=\"113\"><format class=\"sanadHadith\">روى محمّد بن عيسى، عن الوشّاء، قال:</format> دخل عليّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام </format></format>فقال: «ما لي أراك مصفرّا؟».</format></p>"
+        },
+        {
+          "paragraphId": 714166840,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2445\"><format class=\"hadith\" who=\"8\" Id=\"113\" RevayatIndex=\"113\">فقال: هذه الحمّى<lfootnote noteId=\"592\">1</lfootnote> الربع قد ألحّت عليّ‌.</format></p>"
+        },
+        {
+          "paragraphId": 714166841,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2446\"><format class=\"hadith\" who=\"8\" Id=\"113\" RevayatIndex=\"113\">فدعا بدواة فكتب: «بسم الله الرّحمن الرّحيم أبجد هوّز حطّي عن فلان بن فلانة - أو فلانة بنت فلانة - بإذن الله تعالى، ثمّ ختم في أسفل الكتاب سبع مرّات خاتم سليمان عليه السّلام، ثمّ طواه و قال: يا مغيث<lfootnote noteId=\"593\">2</lfootnote>، آتني بسلك<lfootnote noteId=\"594\">3</lfootnote> لم يصبه الماء و لا البزاق».</format></p>"
+        },
+        {
+          "paragraphId": 714166842,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2447\"><format class=\"hadith\" who=\"8\" Id=\"113\" RevayatIndex=\"113\">فأتاه به فعقد عليه، ثمّ أدناه من فيه فعقد من جانب أربع عقد يقرأ على كلّ عقدة فاتحة الكتاب و المعوّذتين و <format class=\"ayah\" surah=\"112\" ayah=\"1\" toAyah=\"\">قُلْ هُوَ اَللّٰهُ أَحَدٌ<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"112\" ayah=\"1\" toAyah=\"\"/></format> و آية الكرسي و على الجانب الآخر ثلاث عقد يقرأ عليها مثل ذلك و ناوله إيّاه و قال: «اربطه<lfootnote noteId=\"595\">4</lfootnote> على عضدك الأيمن و اقرأ آية الكرسي و اختم و لا تجامع»<lfootnote noteId=\"596\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166843,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2448\">[115] </p>"
+        },
+        {
+          "paragraphId": 714166844,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2449\"><format class=\"hadith\" who=\"6\" Id=\"114\" RevayatIndex=\"114\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن <page number=\"76\"/> عيسى، عن موسى بن القاسم، عن عثمان بن عيسى، عن إسماعيل بن جابر، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«يكتب للحمّى الربع: بسم الله جبرئيل في اليد اليمنى في راحته، و في الرجل اليمنى فوق الكعب: بسم الله في الجنّة <format class=\"ayah\" surah=\"76\" ayah=\"13\" toAyah=\"\">لاٰ يَرَوْنَ فِيهٰا شَمْساً وَ لاٰ زَمْهَرِيراً<format class=\"ayahWord\" fromWord=\"5\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"76\" ayah=\"13\" toAyah=\"\"/></format>، و في اليد اليسرى: بسم الله ميكائيل عبد الله، و في الرجل اليسرى دون الكعب: بسم الله إسرافيل عبد الله، و بين الكتفين: بسم الله عبد الله محمّد رسول الله صلّى الله عليه و آله أجمعين، و تصوّر بحذاء ظهرك في الجدار هذا الأوّل<lfootnote noteId=\"597\">1</lfootnote>»<lfootnote noteId=\"598\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168622,
+          "text": "<footnote id=\"591\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و انظر ما شابه هذه الوصفة في بعض الأدوية فيما <page number=\"75\"/>وصف للدغة العقرب في طبّ الأئمّة عليهم السّلام: 89، و لبرد المعدة و خفقان الفؤاد في 90. </footnote>"
+        },
+        {
+          "footnoteId": 714168623,
+          "text": "<footnote id=\"592\"><mnote>(1)</mnote> كلمة: «الحمى» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168624,
+          "text": "<footnote id=\"593\"><mnote>(2)</mnote> كذا في النسخة، و في مكارم الأخلاق: «يا معتب». </footnote>"
+        },
+        {
+          "footnoteId": 714168625,
+          "text": "<footnote id=\"594\"><mnote>(3)</mnote> السّلكة: الخيط الذي يخاط به الثوب. لسان العرب 443:10 «سلك». </footnote>"
+        },
+        {
+          "footnoteId": 714168626,
+          "text": "<footnote id=\"595\"><mnote>(4)</mnote> في النسخة: «اربطك» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168627,
+          "text": "<footnote id=\"596\"><mnote>(5)</mnote> رواه المفيد في الاختصاص: 18، عن الحسن بن علي الوشّاء، و الطبرسي بتفاوت يسير في مكارم الأخلاق: 7/401، الفصل الرابع: في الرقى و التمائم لسائر الأمراض، للربع:<br/>عن الوشّاء، دخل رجل على الرضا عليه السّلام فقال له: «مالي أراك...؟».</footnote>"
+        }
+      ],
+      "pageValue": "75",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2442\" paragraph-id=\"2442\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo75\">75</span>\n    <strong style=\"0\" class=\"h-3 03\">عوذة الربع:</strong>\n  </p>\n  <p id=\"p2443\" paragraph-id=\"2443\" class=\" G\">[114] </p>\n  <p id=\"p2444\" paragraph-id=\"2444\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن عيسى، عن الوشّاء، قال:</span> دخل عليّ <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام </span></span>فقال: «ما لي أراك مصفرّا؟».</span>\n  </p>\n  <p id=\"p2445\" paragraph-id=\"2445\" class=\" G\">\n    <span class=\"hadith\">فقال: هذه الحمّى<span><sup><a class=\"NewFn\" href=\"#footnote592\" title=\"(1)  كلمة: «الحمى» أثبتناها من المصدر. \">1</a></sup></span> الربع قد ألحّت عليّ‌.</span>\n  </p>\n  <p id=\"p2446\" paragraph-id=\"2446\" class=\" G\">\n    <span class=\"hadith\">فدعا بدواة فكتب: «بسم الله الرّحمن الرّحيم أبجد هوّز حطّي عن فلان بن فلانة - أو فلانة بنت فلانة - بإذن الله تعالى، ثمّ ختم في أسفل الكتاب سبع مرّات خاتم سليمان عليه السّلام، ثمّ طواه و قال: يا مغيث<span><sup><a class=\"NewFn\" href=\"#footnote593\" title=\"(2)  كذا في النسخة، و في مكارم الأخلاق: «يا معتب». \">2</a></sup></span>، آتني بسلك<span><sup><a class=\"NewFn\" href=\"#footnote594\" title=\"(3)  السّلكة: الخيط الذي يخاط به الثوب. لسان العرب 443:10 «سلك». \">3</a></sup></span> لم يصبه الماء و لا البزاق».</span>\n  </p>\n  <p id=\"p2447\" paragraph-id=\"2447\" class=\" G\">\n    <span class=\"hadith\">فأتاه به فعقد عليه، ثمّ أدناه من فيه فعقد من جانب أربع عقد يقرأ على كلّ عقدة فاتحة الكتاب و المعوّذتين و <span style=\"0\" class=\"ayah\" surah=\"112\" ayah=\"1\">قُلْ هُوَ اَللّٰهُ أَحَدٌ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/112/1\"></a></span></span> و آية الكرسي و على الجانب الآخر ثلاث عقد يقرأ عليها مثل ذلك و ناوله إيّاه و قال: «اربطه<span><sup><a class=\"NewFn\" href=\"#footnote595\" title=\"(4)  في النسخة: «اربطك» و ما أثبتناه من المصدر. \">4</a></sup></span> على عضدك الأيمن و اقرأ آية الكرسي و اختم و لا تجامع»<span><sup><a class=\"NewFn\" href=\"#footnote596\" title=\"(5)  رواه المفيد في الاختصاص: 18، عن الحسن بن علي الوشّاء، و الطبرسي بتفاوت يسير في مكارم الأخلاق: 7/401، الفصل الرابع: في الرقى و التمائم لسائر الأمراض، للربع:عن الوشّاء، دخل رجل على الرضا عليه السّلام فقال له: «مالي أراك...؟».\">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2448\" paragraph-id=\"2448\" class=\" G\">[115] </p>\n  <p id=\"p2449\" paragraph-id=\"2449\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote591\" footnote-id=\"591\"><page number=\"75\" />وصف للدغة العقرب في طبّ الأئمّة عليهم السّلام: 89، و لبرد المعدة و خفقان الفؤاد في 90. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote592\" footnote-id=\"592\">(1)  كلمة: «الحمى» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote593\" footnote-id=\"593\">(2)  كذا في النسخة، و في مكارم الأخلاق: «يا معتب». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote594\" footnote-id=\"594\">(3)  السّلكة: الخيط الذي يخاط به الثوب. لسان العرب 443:10 «سلك». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote595\" footnote-id=\"595\">(4)  في النسخة: «اربطك» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote596\" footnote-id=\"596\">(5)  رواه المفيد في الاختصاص: 18، عن الحسن بن علي الوشّاء، و الطبرسي بتفاوت يسير في مكارم الأخلاق: 7/401، الفصل الرابع: في الرقى و التمائم لسائر الأمراض، للربع:<br />عن الوشّاء، دخل رجل على الرضا عليه السّلام فقال له: «مالي أراك...؟».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "9712EC87-9CF0-4CDA-8D72-09D6F7251137",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

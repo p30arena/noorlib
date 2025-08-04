@@ -1,0 +1,79 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 171,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167010,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2909\"><format class=\"hadith\" who=\"6\" Id=\"262\" RevayatIndex=\"262\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن يعقوب بن يزيد، عن زياد القندي<lfootnote noteId=\"1027\">5</lfootnote>، <page number=\"171\"/> قال:</format> دخلت المدينة و معي أخي سيف، فأصاب الناس رعاف شديد، و كان الرجل يرعف يومين و يموت، فرجعت إلى<lfootnote noteId=\"1028\">1</lfootnote> المنزل، فإذا سيف في الرعاف و يرعف رعافا شديدا، فدخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، فأخبرته فقال<lfootnote noteId=\"1029\">2</lfootnote>: «أطعموا سيفا<lfootnote noteId=\"1030\">3</lfootnote> التفّاح». فأطعمته، فبرئ<lfootnote noteId=\"1031\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167011,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2910\">[265] </p>"
+        },
+        {
+          "paragraphId": 714167012,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2911\"><format class=\"hadith\" who=\"6\" Id=\"263\" RevayatIndex=\"263\"><format class=\"sanadHadith\">و قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«يستفّ‌<lfootnote noteId=\"1032\">5</lfootnote> سويق الحنطة<lfootnote noteId=\"1033\">6</lfootnote> - يعني: يستفّ على الريق - <page number=\"172\"/> ثلاث راحات، و يدّهن بدهن البنفسج، و لا تقرننّ الماء ما أمكنك<lfootnote noteId=\"1034\">1</lfootnote>، ففعل ذلك سيف فانقطع الرعاف»<lfootnote noteId=\"1035\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168982,
+          "text": "<footnote id=\"1027\"><mnote>(5)</mnote> في النسخة: «يعقوب بن يزيد، عن العبيدي»، و في بعض المصادر: «العبدي». و احتمل<page number=\"171\"/>بعضهم التعدّد. و ما أثبتناه من مصادر الرجال و الحديث. و الرجل هو أبو الفضل زياد بن مروان القندي. قيل: هو أبو عبد الله الأنباري القندي البغدادي من مصنّفي الشيعة مولى بني هاشم روى عن أبي عبد الله و أبي الحسن عليهما السّلام و وقف في الرضا عليه السّلام. و كان من عمد الواقفة، له كتاب، و أمّا أخوه سيف فلم أجد له ذكرا في الرجال، انظر:<br/>رجال البرقي: 49، رجال النجاشي: 450/171، رجال الكشي 886/766:2، رجال الطوسي: 40/208 و 106/211 و 3/337. </footnote>"
+        },
+        {
+          "footnoteId": 714168983,
+          "text": "<footnote id=\"1028\"><mnote>(1)</mnote> كلمة: «إلى» أثبتناها من المحاسن. </footnote>"
+        },
+        {
+          "footnoteId": 714168984,
+          "text": "<footnote id=\"1029\"><mnote>(2)</mnote> كلمة: «فقال» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168985,
+          "text": "<footnote id=\"1030\"><mnote>(3)</mnote> في النسخة: «السيف» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168986,
+          "text": "<footnote id=\"1031\"><mnote>(4)</mnote> رواه البرقي بتفاوت يسير في المحاسن 8/552:2، باب التفّاح، عن أبي يوسف، عن القندي، و الكليني أيضا في الكافي 4/356:6، باب التفّاح، عن عدّة من أصحابنا، عن سهل بن زياد، عن يعقوب بن يزيد، و الطبرسي في مكارم الأخلاق: 6/173، باب التفّاح، عن زياد القندي، و الكفعمي في حواشي المصباح. و روى الكليني في الكافي 6/356:6، أن سويق التفاح ينفع في قطع الرعاف، و كذا في مكارم الأخلاق: 193. </footnote>"
+        },
+        {
+          "footnoteId": 714168987,
+          "text": "<footnote id=\"1032\"><mnote>(5)</mnote> سففت السويق أسفّه سفّا إذا اقتمحته، و الاقتماح لكلّ شيء يابس: سفّ‌، و استففته بمعنى: إذا أخذته غير ملتوت، و كذلك السويق. و كلّ دواء يؤخذ غير معجون فهو السّفوف كرسول. مجمع البحرين 71:5 «سفف». </footnote>"
+        },
+        {
+          "footnoteId": 714168988,
+          "text": "<footnote id=\"1033\"><mnote>(6)</mnote> في النسخة: «الحنظلة».</footnote>"
+        }
+      ],
+      "pageValue": "171",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2909\" paragraph-id=\"2909\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo171\">171</span> قال:</span> دخلت المدينة و معي أخي سيف، فأصاب الناس رعاف شديد، و كان الرجل يرعف يومين و يموت، فرجعت إلى<span><sup><a class=\"NewFn\" href=\"#footnote1028\" title=\"(1)  كلمة: «إلى» أثبتناها من المحاسن. \">1</a></sup></span> المنزل، فإذا سيف في الرعاف و يرعف رعافا شديدا، فدخلت على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، فأخبرته فقال<span><sup><a class=\"NewFn\" href=\"#footnote1029\" title=\"(2)  كلمة: «فقال» أثبتناها من المصدر. \">2</a></sup></span>: «أطعموا سيفا<span><sup><a class=\"NewFn\" href=\"#footnote1030\" title=\"(3)  في النسخة: «السيف» و ما أثبتناه من المصدر. \">3</a></sup></span> التفّاح». فأطعمته، فبرئ<span><sup><a class=\"NewFn\" href=\"#footnote1031\" title=\"(4)  رواه البرقي بتفاوت يسير في المحاسن 8/552:2، باب التفّاح، عن أبي يوسف، عن القندي، و الكليني أيضا في الكافي 4/356:6، باب التفّاح، عن عدّة من أصحابنا، عن سهل بن زياد، عن يعقوب بن يزيد، و الطبرسي في مكارم الأخلاق: 6/173، باب التفّاح، عن زياد القندي، و الكفعمي في حواشي المصباح. و روى الكليني في الكافي 6/356:6، أن سويق التفاح ينفع في قطع الرعاف، و كذا في مكارم الأخلاق: 193. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2910\" paragraph-id=\"2910\" class=\" G\">[265] </p>\n  <p id=\"p2911\" paragraph-id=\"2911\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«يستفّ‌<span><sup><a class=\"NewFn\" href=\"#footnote1032\" title=\"(5)  سففت السويق أسفّه سفّا إذا اقتمحته، و الاقتماح لكلّ شيء يابس: سفّ‌، و استففته بمعنى: إذا أخذته غير ملتوت، و كذلك السويق. و كلّ دواء يؤخذ غير معجون فهو السّفوف كرسول. مجمع البحرين 71:5 «سفف». \">5</a></sup></span> سويق الحنطة<span><sup><a class=\"NewFn\" href=\"#footnote1033\" title=\"(6)  في النسخة: «الحنظلة».\">6</a></sup></span> - يعني: يستفّ على الريق - </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1027\" footnote-id=\"1027\"><page number=\"171\" />بعضهم التعدّد. و ما أثبتناه من مصادر الرجال و الحديث. و الرجل هو أبو الفضل زياد بن مروان القندي. قيل: هو أبو عبد الله الأنباري القندي البغدادي من مصنّفي الشيعة مولى بني هاشم روى عن أبي عبد الله و أبي الحسن عليهما السّلام و وقف في الرضا عليه السّلام. و كان من عمد الواقفة، له كتاب، و أمّا أخوه سيف فلم أجد له ذكرا في الرجال، انظر:<br />رجال البرقي: 49، رجال النجاشي: 450/171، رجال الكشي 886/766:2، رجال الطوسي: 40/208 و 106/211 و 3/337. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1028\" footnote-id=\"1028\">(1)  كلمة: «إلى» أثبتناها من المحاسن. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1029\" footnote-id=\"1029\">(2)  كلمة: «فقال» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1030\" footnote-id=\"1030\">(3)  في النسخة: «السيف» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1031\" footnote-id=\"1031\">(4)  رواه البرقي بتفاوت يسير في المحاسن 8/552:2، باب التفّاح، عن أبي يوسف، عن القندي، و الكليني أيضا في الكافي 4/356:6، باب التفّاح، عن عدّة من أصحابنا، عن سهل بن زياد، عن يعقوب بن يزيد، و الطبرسي في مكارم الأخلاق: 6/173، باب التفّاح، عن زياد القندي، و الكفعمي في حواشي المصباح. و روى الكليني في الكافي 6/356:6، أن سويق التفاح ينفع في قطع الرعاف، و كذا في مكارم الأخلاق: 193. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1032\" footnote-id=\"1032\">(5)  سففت السويق أسفّه سفّا إذا اقتمحته، و الاقتماح لكلّ شيء يابس: سفّ‌، و استففته بمعنى: إذا أخذته غير ملتوت، و كذلك السويق. و كلّ دواء يؤخذ غير معجون فهو السّفوف كرسول. مجمع البحرين 71:5 «سفف». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1033\" footnote-id=\"1033\">(6)  في النسخة: «الحنظلة».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "48D07312-894B-4D2B-A705-7A003992D6D9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

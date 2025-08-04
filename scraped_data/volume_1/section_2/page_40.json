@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 40,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166656,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2261\"><page number=\"40\"/><heading level=\"2\">[باب] في عيادة المريض </heading></p>"
+        },
+        {
+          "paragraphId": 714166657,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2262\">[47] </p>"
+        },
+        {
+          "paragraphId": 714166658,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2263\"><format class=\"hadith\" who=\"6\" Id=\"47\" RevayatIndex=\"47\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«ينبغي للمريض منكم أن يؤذن إخوانه بمرضه، فيعودونه فيؤجر فيهم، و يؤجرون فيه».</format></p>"
+        },
+        {
+          "paragraphId": 714166659,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2264\"><format class=\"hadith\" who=\"6\" Id=\"47\" RevayatIndex=\"47\">فقيل له: نعم هم يؤجرون فيه لممشاهم إليه<lfootnote noteId=\"423\">1</lfootnote> فكيف يؤجر فيهم‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714166660,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2265\"><format class=\"hadith\" who=\"6\" Id=\"47\" RevayatIndex=\"47\">قال: «باكتسابه لهم الحسنات فيؤجر فيهم، فيكتب له بذلك عشر حسنات<lfootnote noteId=\"424\">2</lfootnote>و يرفع له به عشر درجات و يحطّ عنه عشر سيّئات»<lfootnote noteId=\"425\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166661,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2266\">[48] </p>"
+        },
+        {
+          "paragraphId": 714166662,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2267\"><format class=\"hadith\" who=\"\" Id=\"48\" RevayatIndex=\"48\"><format class=\"sanadHadith\">قال: </format>«و ينبغي لأولياء الميّت منكم أن يؤذنوا إخوان الميّت بموته<lfootnote noteId=\"426\">4</lfootnote>، <page number=\"41\"/> فيشهدون جنازته<lfootnote noteId=\"427\">1</lfootnote>، و يصلّون عليه، و يستغفرون له، فيكتب لهم الأجر، و يكتب لميّته الاستغفار، و يكتسب هو الأجر فيهم بما اكتسب لميّته<lfootnote noteId=\"428\">2</lfootnote> من الاستغفار»<lfootnote noteId=\"429\">3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168476,
+          "text": "<footnote id=\"422\"><mnote>(3)</mnote> رواه عدّة عن أمير المؤمنين عليه السّلام فمنهم: نصر بن مزاحم في وقعة صفّين: 528، ضمن خطبة، عن عمر بن سعد بن أبي الصيد الأسدي، عن عبد الرحمن بن جندب، قال: لمّا أقبل علي من صفّين «فإنّ المرض لا أجر فيه...»، و العيّاشي في تفسيره 99/103:2، ضمن الخطبة، عن عبد الرحمن بن حرب قال: لمّا أقبل الناس مع أمير المؤمنين عليه السّلام، <page number=\"40\"/>و الطوسي في الأمالي: 2/602، فقال: أخبرنا جماعة، عن أبي المفضّل، قال: حدّثنا أبو أحمد عبيد الله بن الحسين بن إبراهيم العلوي النصيبي، قال: حدّثنا أبي، قال:<br/>حدّثنا عبد العظيم بن عبد الله الحسني بالريّ‌، قال: حدّثنا أبو جعفر محمّد بن علي بن موسى الرضا، عن أبيه، عن آبائه، عن علي بن الحسين، عن الحسين بن علي، عن أمير المؤمنين عليهم السّلام، و روى نحوه الرضي في نهج البلاغة: 476 /الحكمة 42 من حكمه عليه السّلام، و الراوندي في الدعوات: 614/223، و الطبرسي في مكارم الأخلاق:<br/>6/359، في الصبر على العلّة، عن أمير المؤمنين عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168477,
+          "text": "<footnote id=\"423\"><mnote>(1)</mnote> في النسخة كلمة غير مقروءة و قوله: «لممشاهم إليه» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168478,
+          "text": "<footnote id=\"424\"><mnote>(2)</mnote> في النسخة: «بذلك حسنة» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168479,
+          "text": "<footnote id=\"425\"><mnote>(3)</mnote> رواه الكليني في الكافي 1/117:3، باب المريض يؤذن به الناس، عن علي بن إبراهيم، عن أبيه، عن ابن محبوب، عن أبي ولّاد الحنّاط، عن عبد الله بن سنان قال: سمعت أبا عبد الله عليه السّلام يقول:...، و ابن إدريس في آخر السرائر 596:3، فيما استطرفه من كتاب المشيخة للحسن بن محبوب، عن أبي ولّاد و عبد الله بن سنان قالا: سمعنا أبا عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 3/360، في عيادة المريض. </footnote>"
+        },
+        {
+          "footnoteId": 714168480,
+          "text": "<footnote id=\"426\"><mnote>(4)</mnote> كلمة: «بموته» أثبتناها من المصدر.</footnote>"
+        }
+      ],
+      "pageValue": "40",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2261\" paragraph-id=\"2261\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo40\">40</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في عيادة المريض </strong>\n  </p>\n  <p id=\"p2262\" paragraph-id=\"2262\" class=\" G\">[47] </p>\n  <p id=\"p2263\" paragraph-id=\"2263\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«ينبغي للمريض منكم أن يؤذن إخوانه بمرضه، فيعودونه فيؤجر فيهم، و يؤجرون فيه».</span>\n  </p>\n  <p id=\"p2264\" paragraph-id=\"2264\" class=\" G\">\n    <span class=\"hadith\">فقيل له: نعم هم يؤجرون فيه لممشاهم إليه<span><sup><a class=\"NewFn\" href=\"#footnote423\" title=\"(1)  في النسخة كلمة غير مقروءة و قوله: «لممشاهم إليه» أثبتناه من المصدر. \">1</a></sup></span> فكيف يؤجر فيهم‌؟</span>\n  </p>\n  <p id=\"p2265\" paragraph-id=\"2265\" class=\" G\">\n    <span class=\"hadith\">قال: «باكتسابه لهم الحسنات فيؤجر فيهم، فيكتب له بذلك عشر حسنات<span><sup><a class=\"NewFn\" href=\"#footnote424\" title=\"(2)  في النسخة: «بذلك حسنة» و ما أثبتناه من المصدر. \">2</a></sup></span>و يرفع له به عشر درجات و يحطّ عنه عشر سيّئات»<span><sup><a class=\"NewFn\" href=\"#footnote425\" title=\"(3)  رواه الكليني في الكافي 1/117:3، باب المريض يؤذن به الناس، عن علي بن إبراهيم، عن أبيه، عن ابن محبوب، عن أبي ولّاد الحنّاط، عن عبد الله بن سنان قال: سمعت أبا عبد الله عليه السّلام يقول:...، و ابن إدريس في آخر السرائر 596:3، فيما استطرفه من كتاب المشيخة للحسن بن محبوب، عن أبي ولّاد و عبد الله بن سنان قالا: سمعنا أبا عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 3/360، في عيادة المريض. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2266\" paragraph-id=\"2266\" class=\" G\">[48] </p>\n  <p id=\"p2267\" paragraph-id=\"2267\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قال: </span>«و ينبغي لأولياء الميّت منكم أن يؤذنوا إخوان الميّت بموته<span><sup><a class=\"NewFn\" href=\"#footnote426\" title=\"(4)  كلمة: «بموته» أثبتناها من المصدر.\">4</a></sup></span>، </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote422\" footnote-id=\"422\"><page number=\"40\" />و الطوسي في الأمالي: 2/602، فقال: أخبرنا جماعة، عن أبي المفضّل، قال: حدّثنا أبو أحمد عبيد الله بن الحسين بن إبراهيم العلوي النصيبي، قال: حدّثنا أبي، قال:<br />حدّثنا عبد العظيم بن عبد الله الحسني بالريّ‌، قال: حدّثنا أبو جعفر محمّد بن علي بن موسى الرضا، عن أبيه، عن آبائه، عن علي بن الحسين، عن الحسين بن علي، عن أمير المؤمنين عليهم السّلام، و روى نحوه الرضي في نهج البلاغة: 476 /الحكمة 42 من حكمه عليه السّلام، و الراوندي في الدعوات: 614/223، و الطبرسي في مكارم الأخلاق:<br />6/359، في الصبر على العلّة، عن أمير المؤمنين عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote423\" footnote-id=\"423\">(1)  في النسخة كلمة غير مقروءة و قوله: «لممشاهم إليه» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote424\" footnote-id=\"424\">(2)  في النسخة: «بذلك حسنة» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote425\" footnote-id=\"425\">(3)  رواه الكليني في الكافي 1/117:3، باب المريض يؤذن به الناس، عن علي بن إبراهيم، عن أبيه، عن ابن محبوب، عن أبي ولّاد الحنّاط، عن عبد الله بن سنان قال: سمعت أبا عبد الله عليه السّلام يقول:...، و ابن إدريس في آخر السرائر 596:3، فيما استطرفه من كتاب المشيخة للحسن بن محبوب، عن أبي ولّاد و عبد الله بن سنان قالا: سمعنا أبا عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 3/360، في عيادة المريض. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote426\" footnote-id=\"426\">(4)  كلمة: «بموته» أثبتناها من المصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "2C7D84CE-140F-49C9-BF48-6394C92CF72A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 129,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170230,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1485\"><format class=\"hadith\" who=\"6\" Id=\"170\" RevayatIndex=\"691\"><page number=\"129\"/> قال الرجل: ففعلت ذلك فولد لي سبع ذكور رأس على رأس. و قد فعل ذلك غير واحد فرزقوا أولادا ذكورة<lfootnote noteId=\"514\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170231,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1486\">[173] </p>"
+        },
+        {
+          "paragraphId": 714170232,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1487\"><format class=\"hadith\" who=\"5\" Id=\"171\" RevayatIndex=\"692\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر الباقر عليه السّلام</format></format>، أنّه قال: </format>«شكا نبيّ من الأنبياء عليهم السّلام إلى الله تعالى قلّة النسل، فأوحى الله تعالى أن: كل البيض و السمك، فإنّي جعلت النسل فيهما»<lfootnote noteId=\"515\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170233,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1488\">[174] </p>"
+        },
+        {
+          "paragraphId": 714170234,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1489\"><format class=\"hadith\" who=\"6\" Id=\"172\" RevayatIndex=\"693\"><format class=\"sanadHadith\">حدثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد،</format></format></p>"
+        },
+        {
+          "paragraphId": 714170235,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1490\"><format class=\"hadith\" who=\"6\" Id=\"172\" RevayatIndex=\"693\"><format class=\"sanadHadith\">و الحميري، عن يعقوب بن يزيد جميعا، عن زياد القندي<lfootnote noteId=\"516\">3</lfootnote>، عن ابن سنان، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«شكا نبيّ من الأنبياء عليهم السّلام إلى الله - تعالى - قلّة النسل، فأمره أن يأكل البيض»<lfootnote noteId=\"517\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170236,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1491\">[175] </p>"
+        },
+        {
+          "paragraphId": 714170237,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1492\"><format class=\"hadith\" who=\"6\" Id=\"173\" RevayatIndex=\"694\"><format class=\"sanadHadith\">روي عن محمّد بن إبراهيم الجعفي، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>: </format>«من عدم <page number=\"130\"/> الولد فليأكل البيض و ليكثر منه»<lfootnote noteId=\"518\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171311,
+          "text": "<footnote id=\"514\"><page number=\"129\"/><mnote>(1)</mnote> رواه الطبرسي في مكارم الأخلاق: 8/225، في طلب الولد، من كتاب نوادر الحكمة عن أبي عبد الله عليه السّلام، و عنه الكفعمي في المصباح: 164. </footnote>"
+        },
+        {
+          "footnoteId": 714171312,
+          "text": "<footnote id=\"515\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و انظر نحوه في الأحاديث الماضية و الآتية. </footnote>"
+        },
+        {
+          "footnoteId": 714171313,
+          "text": "<footnote id=\"516\"><mnote>(3)</mnote> في النسخة: «زياد العبدي» و ما أثبتناه من المحاسن. </footnote>"
+        },
+        {
+          "footnoteId": 714171314,
+          "text": "<footnote id=\"517\"><mnote>(4)</mnote> رواه البرقي في المحاسن 2/481:2، باب البيض، عن أبي القاسم الكوفي و يعقوب بن يزيد، عن القندي، عن عبد الله بن سنان، و روى في الحديث 3 عن محمّد بن علي اليقطيني، عن عبيد الله بن عبد الله الدهقان، عن عبد الله بن سنان، عن أبي عبد الله عليه السّلام قال: «إنّ نبيا من الأنبياء شكا إلى الله قلّة النسل فقال له: كل اللحم بالبيض»، و الكليني في الكافي 3/325:6، باب بيض الدجاج، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن محمّد بن عيسى، عن عبيد الله بن عبد الله الدهقان، عن درست، عن عبد الله بن سنان عن أبي عبد الله عليه السّلام.</footnote>"
+        }
+      ],
+      "pageValue": "129",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1485\" paragraph-id=\"1485\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo129\">129</span> قال الرجل: ففعلت ذلك فولد لي سبع ذكور رأس على رأس. و قد فعل ذلك غير واحد فرزقوا أولادا ذكورة<span><sup><a class=\"NewFn\" href=\"#footnote514\" title=\"(1)  رواه الطبرسي في مكارم الأخلاق: 8/225، في طلب الولد، من كتاب نوادر الحكمة عن أبي عبد الله عليه السّلام، و عنه الكفعمي في المصباح: 164. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1486\" paragraph-id=\"1486\" class=\" G\">[173] </p>\n  <p id=\"p1487\" paragraph-id=\"1487\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر الباقر عليه السّلام</span></span>، أنّه قال: </span>«شكا نبيّ من الأنبياء عليهم السّلام إلى الله تعالى قلّة النسل، فأوحى الله تعالى أن: كل البيض و السمك، فإنّي جعلت النسل فيهما»<span><sup><a class=\"NewFn\" href=\"#footnote515\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا، و انظر نحوه في الأحاديث الماضية و الآتية. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1488\" paragraph-id=\"1488\" class=\" G\">[174] </p>\n  <p id=\"p1489\" paragraph-id=\"1489\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد،</span>\n    </span>\n  </p>\n  <p id=\"p1490\" paragraph-id=\"1490\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و الحميري، عن يعقوب بن يزيد جميعا، عن زياد القندي<span><sup><a class=\"NewFn\" href=\"#footnote516\" title=\"(3)  في النسخة: «زياد العبدي» و ما أثبتناه من المحاسن. \">3</a></sup></span>، عن ابن سنان، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«شكا نبيّ من الأنبياء عليهم السّلام إلى الله - تعالى - قلّة النسل، فأمره أن يأكل البيض»<span><sup><a class=\"NewFn\" href=\"#footnote517\" title=\"(4)  رواه البرقي في المحاسن 2/481:2، باب البيض، عن أبي القاسم الكوفي و يعقوب بن يزيد، عن القندي، عن عبد الله بن سنان، و روى في الحديث 3 عن محمّد بن علي اليقطيني، عن عبيد الله بن عبد الله الدهقان، عن عبد الله بن سنان، عن أبي عبد الله عليه السّلام قال: «إنّ نبيا من الأنبياء شكا إلى الله قلّة النسل فقال له: كل اللحم بالبيض»، و الكليني في الكافي 3/325:6، باب بيض الدجاج، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن محمّد بن عيسى، عن عبيد الله بن عبد الله الدهقان، عن درست، عن عبد الله بن سنان عن أبي عبد الله عليه السّلام.\">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1491\" paragraph-id=\"1491\" class=\" G\">[175] </p>\n  <p id=\"p1492\" paragraph-id=\"1492\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن محمّد بن إبراهيم الجعفي، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>: </span>«من عدم </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote514\" footnote-id=\"514\">(1) <page number=\"129\" /> رواه الطبرسي في مكارم الأخلاق: 8/225، في طلب الولد، من كتاب نوادر الحكمة عن أبي عبد الله عليه السّلام، و عنه الكفعمي في المصباح: 164. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote515\" footnote-id=\"515\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا، و انظر نحوه في الأحاديث الماضية و الآتية. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote516\" footnote-id=\"516\">(3)  في النسخة: «زياد العبدي» و ما أثبتناه من المحاسن. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote517\" footnote-id=\"517\">(4)  رواه البرقي في المحاسن 2/481:2، باب البيض، عن أبي القاسم الكوفي و يعقوب بن يزيد، عن القندي، عن عبد الله بن سنان، و روى في الحديث 3 عن محمّد بن علي اليقطيني، عن عبيد الله بن عبد الله الدهقان، عن عبد الله بن سنان، عن أبي عبد الله عليه السّلام قال: «إنّ نبيا من الأنبياء شكا إلى الله قلّة النسل فقال له: كل اللحم بالبيض»، و الكليني في الكافي 3/325:6، باب بيض الدجاج، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن محمّد بن عيسى، عن عبيد الله بن عبد الله الدهقان، عن درست، عن عبد الله بن سنان عن أبي عبد الله عليه السّلام.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "11175C26-733D-4B8F-9FF8-57F7B85AA298",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

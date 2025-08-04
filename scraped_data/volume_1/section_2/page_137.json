@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 137,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166990,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2736\"><format class=\"hadith\" who=\"6\" Id=\"205\" RevayatIndex=\"205\"><format class=\"sanadHadith\">روى يعقوب بن يزيد، عن رجل يكنّى «أبا عبد الله» من أصحابنا<lfootnote noteId=\"877\">1</lfootnote>، <page number=\"137\"/> عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«الحجامة في وسط الرأس تنفع<lfootnote noteId=\"878\">1</lfootnote> من الوسواس و النعاس و وجع الأضراس»<lfootnote noteId=\"879\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166991,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2737\">[208] </p>"
+        },
+        {
+          "paragraphId": 714166992,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2738\"><format class=\"hadith\" who=\"5\" Id=\"206\" RevayatIndex=\"206\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن فضالة بن أيوب، عن عبد الله بن بكير، عن زرارة، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبا جعفر عليه السّلام</format></format> يقول: </format>«في حجامة الرأس شفاء من كلّ داء إلّا السام»<lfootnote noteId=\"880\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166993,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2739\">[209] </p>"
+        },
+        {
+          "paragraphId": 714166994,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2740\"><format class=\"hadith\" who=\"6\" Id=\"207\" RevayatIndex=\"207\"><format class=\"sanadHadith\">روى علي بن أسباط، عن عبد العزيز الصائغ، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام </format></format><lfootnote noteId=\"881\">4</lfootnote>قال: </format>«إنّ محجمة وسط الرأس شبر من طرف الأنف إلى<lfootnote noteId=\"882\">5</lfootnote> حيث بلغ طرف الشبر، و فتر من الحاجبين<lfootnote noteId=\"883\">6</lfootnote> إلى وسط الرأس شفاء من كلّ داء إلّا السام، <page number=\"138\"/>و السام الموت»<lfootnote noteId=\"884\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168574,
+          "text": "<footnote id=\"878\"><page number=\"137\"/><mnote>(1)</mnote> كلمة: «تنفع» أثبتناها من الكافي، و قد سقطت هذه الكلمة في الحديث 71 من الجزء الثاني أيضا. </footnote>"
+        },
+        {
+          "footnoteId": 714168834,
+          "text": "<footnote id=\"879\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا، و وردت بعض ألفاظه في الأحاديث المذكورة في هامش عنوان الباب. </footnote>"
+        },
+        {
+          "footnoteId": 714168835,
+          "text": "<footnote id=\"880\"><mnote>(3)</mnote> انظر: طبّ الأئمة عليهم السّلام في هامش عنوان الباب. </footnote>"
+        },
+        {
+          "footnoteId": 714168836,
+          "text": "<footnote id=\"881\"><mnote>(4)</mnote> الظاهر أنّ سنده معلّق على سند الرواية الماضية التي وردت في الحديث 71 من الجزء الثاني، و في سندها عبد العزيز الصائغ، عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168837,
+          "text": "<footnote id=\"882\"><mnote>(5)</mnote> كلمة: «إلى» أثبتناها من الحديث 73 من الجزء الثاني. </footnote>"
+        },
+        {
+          "footnoteId": 714168838,
+          "text": "<footnote id=\"883\"><mnote>(6)</mnote> في الحديث 73 من الجزء الثاني: «إنّ الحجامة وسط الرأس شبر من طرف الأنف إلى حيث بلغ، و فتر من الحاجبين». و الفتر أيضا - بكسر الفاء و سكون التاء -: ما بين طرف الإبهام و طرف السبّابة إذا فتحها. قال المجلسي: قوله عليه السّلام: «و شبر من الحاجبين»، أي:<br/>من منتهى الحاجبين من يمين الرأس و شماله حتّى انتهى الشبران إلى النقرة خلف الرأس، أو من بين الحاجبين إلى حيث انتهت من مقدم الرأس، كما رواه الصدوق<page number=\"138\"/>بإسناده عن أبي خديجة، مرآة العقول 22:26. </footnote>"
+        }
+      ],
+      "pageValue": "137",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2736\" paragraph-id=\"2736\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo137\">137</span> عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«الحجامة في وسط الرأس تنفع<span><sup><a class=\"NewFn\" href=\"#footnote878\" title=\"(1)  كلمة: «تنفع» أثبتناها من الكافي، و قد سقطت هذه الكلمة في الحديث 71 من الجزء الثاني أيضا. \">1</a></sup></span> من الوسواس و النعاس و وجع الأضراس»<span><sup><a class=\"NewFn\" href=\"#footnote879\" title=\"(2)  لم نعثر عليه في المصادر المتوفرة لدينا، و وردت بعض ألفاظه في الأحاديث المذكورة في هامش عنوان الباب. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2737\" paragraph-id=\"2737\" class=\" G\">[208] </p>\n  <p id=\"p2738\" paragraph-id=\"2738\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن فضالة بن أيوب، عن عبد الله بن بكير، عن زرارة، قال: سمعت <span class=\"Y\"><span class=\"maasoom\">أبا جعفر عليه السّلام</span></span> يقول: </span>«في حجامة الرأس شفاء من كلّ داء إلّا السام»<span><sup><a class=\"NewFn\" href=\"#footnote880\" title=\"(3)  انظر: طبّ الأئمة عليهم السّلام في هامش عنوان الباب. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2739\" paragraph-id=\"2739\" class=\" G\">[209] </p>\n  <p id=\"p2740\" paragraph-id=\"2740\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى علي بن أسباط، عن عبد العزيز الصائغ، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام </span></span><span><sup><a class=\"NewFn\" href=\"#footnote881\" title=\"(4)  الظاهر أنّ سنده معلّق على سند الرواية الماضية التي وردت في الحديث 71 من الجزء الثاني، و في سندها عبد العزيز الصائغ، عن أبي عبد الله عليه السّلام. \">4</a></sup></span>قال: </span>«إنّ محجمة وسط الرأس شبر من طرف الأنف إلى<span><sup><a class=\"NewFn\" href=\"#footnote882\" title=\"(5)  كلمة: «إلى» أثبتناها من الحديث 73 من الجزء الثاني. \">5</a></sup></span> حيث بلغ طرف الشبر، و فتر من الحاجبين<span><sup><a class=\"NewFn\" href=\"#footnote883\" title=\"(6)  في الحديث 73 من الجزء الثاني: «إنّ الحجامة وسط الرأس شبر من طرف الأنف إلى حيث بلغ، و فتر من الحاجبين». و الفتر أيضا - بكسر الفاء و سكون التاء -: ما بين طرف الإبهام و طرف السبّابة إذا فتحها. قال المجلسي: قوله عليه السّلام: «و شبر من الحاجبين»، أي:من منتهى الحاجبين من يمين الرأس و شماله حتّى انتهى الشبران إلى النقرة خلف الرأس، أو من بين الحاجبين إلى حيث انتهت من مقدم الرأس، كما رواه الصدوق\">6</a></sup></span> إلى وسط الرأس شفاء من كلّ داء إلّا السام، </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote878\" footnote-id=\"878\">(1) <page number=\"137\" /> كلمة: «تنفع» أثبتناها من الكافي، و قد سقطت هذه الكلمة في الحديث 71 من الجزء الثاني أيضا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote879\" footnote-id=\"879\">(2)  لم نعثر عليه في المصادر المتوفرة لدينا، و وردت بعض ألفاظه في الأحاديث المذكورة في هامش عنوان الباب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote880\" footnote-id=\"880\">(3)  انظر: طبّ الأئمة عليهم السّلام في هامش عنوان الباب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote881\" footnote-id=\"881\">(4)  الظاهر أنّ سنده معلّق على سند الرواية الماضية التي وردت في الحديث 71 من الجزء الثاني، و في سندها عبد العزيز الصائغ، عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote882\" footnote-id=\"882\">(5)  كلمة: «إلى» أثبتناها من الحديث 73 من الجزء الثاني. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote883\" footnote-id=\"883\">(6)  في الحديث 73 من الجزء الثاني: «إنّ الحجامة وسط الرأس شبر من طرف الأنف إلى حيث بلغ، و فتر من الحاجبين». و الفتر أيضا - بكسر الفاء و سكون التاء -: ما بين طرف الإبهام و طرف السبّابة إذا فتحها. قال المجلسي: قوله عليه السّلام: «و شبر من الحاجبين»، أي:<br />من منتهى الحاجبين من يمين الرأس و شماله حتّى انتهى الشبران إلى النقرة خلف الرأس، أو من بين الحاجبين إلى حيث انتهت من مقدم الرأس، كما رواه الصدوق</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "AEB5285A-FBA2-4412-912F-278FFA0C7DE4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

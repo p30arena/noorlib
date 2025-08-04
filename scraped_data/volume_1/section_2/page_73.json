@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 73,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166827,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2432\"><page number=\"73\"/><heading level=\"2\">[باب] في حمّى الربع<lfootnote noteId=\"580\">1</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714166828,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2433\">[111] </p>"
+        },
+        {
+          "paragraphId": 714166829,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2434\"><format class=\"hadith\" who=\"6\" Id=\"111\" RevayatIndex=\"111\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، عن كامل بن محمّد، عن محمّد<lfootnote noteId=\"581\">2</lfootnote> بن إبراهيم، عن أبيه قال:</format> دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> و أنا ساهم الوجه<lfootnote noteId=\"582\">3</lfootnote>، فقال: «ما لي أراك ساهم الوجه‌؟» فقلت: إنّ بي حمّى الربع.</format></p>"
+        },
+        {
+          "paragraphId": 714166830,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2435\"><format class=\"hadith\" who=\"6\" Id=\"111\" RevayatIndex=\"111\">فقال: «ما يمنعك من المبارك‌؟ اسحق السكّر ثمّ خضّه<lfootnote noteId=\"583\">4</lfootnote> بالماء و اشربه على الريق و عند المنام».</format></p>"
+        },
+        {
+          "paragraphId": 714166831,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2436\"><format class=\"hadith\" who=\"6\" Id=\"111\" RevayatIndex=\"111\">قال<lfootnote noteId=\"584\">5</lfootnote>: ففعلت فما عادت إليّ الحمّى<lfootnote noteId=\"585\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166832,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2437\">[112] </p>"
+        },
+        {
+          "paragraphId": 714166833,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2438\"><format class=\"hadith\" who=\"7\" Id=\"112\" RevayatIndex=\"112\"><format class=\"sanadHadith\">ذكر أبو زكريّا الحضرمي:</format> أنّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبا الحسن عليه السّلام</format></format> كتب له هذا الكتاب، و كان يحمّ حمّى الربع فأمره أن يكتب على يده اليمنى: «بسم الله جبرئيل»، و على يده اليسرى: «بسم الله ميكائيل»، و على رجله اليمنى: «بسم الله إسرافيل»، و على <page number=\"74\"/>رجله اليسرى: «بسم الله <format class=\"ayah\" surah=\"76\" ayah=\"13\" toAyah=\"\">لاٰ يَرَوْنَ فِيهٰا شَمْساً وَ لاٰ زَمْهَرِيراً<format class=\"ayahWord\" fromWord=\"5\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"76\" ayah=\"13\" toAyah=\"\"/></format><lfootnote noteId=\"586\">1</lfootnote>»، و بين كتفيه:</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168611,
+          "text": "<footnote id=\"580\"><page number=\"73\"/><mnote>(1)</mnote> حمّى الربع: أن تأخذ يوما و تترك يومين، ثمّ تجيء في اليوم الرابع. مجمع البحرين 331:4 «ربع». </footnote>"
+        },
+        {
+          "footnoteId": 714168612,
+          "text": "<footnote id=\"581\"><mnote>(2)</mnote> قوله: «عن محمّد» أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168613,
+          "text": "<footnote id=\"582\"><mnote>(3)</mnote> ساهم الوجه: أي: متغيّره لعارض يقال: سهم لونه يسهم إذا تغيّر عن حاله لعارض. مجمع البحرين 96:6 «سهم». </footnote>"
+        },
+        {
+          "footnoteId": 714168614,
+          "text": "<footnote id=\"583\"><mnote>(4)</mnote> في الكافي: «امخضه». </footnote>"
+        },
+        {
+          "footnoteId": 714168615,
+          "text": "<footnote id=\"584\"><mnote>(5)</mnote> كلمة: «قال» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168616,
+          "text": "<footnote id=\"585\"><mnote>(6)</mnote> و رواه عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 51، فقال: حدّثنا كامل، عن محمّد بن إبراهيم الجعفي، قال: حدّثنا أبي، و الكليني في الكافي 384/265:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم. </footnote>"
+        }
+      ],
+      "pageValue": "73",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2432\" paragraph-id=\"2432\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo73\">73</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في حمّى الربع<span><sup><a class=\"NewFn\" href=\"#footnote580\" title=\"(1)  حمّى الربع: أن تأخذ يوما و تترك يومين، ثمّ تجيء في اليوم الرابع. مجمع البحرين 331:4 «ربع». \">1</a></sup></span></strong>\n  </p>\n  <p id=\"p2433\" paragraph-id=\"2433\" class=\" G\">[111] </p>\n  <p id=\"p2434\" paragraph-id=\"2434\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، عن كامل بن محمّد، عن محمّد<span><sup><a class=\"NewFn\" href=\"#footnote581\" title=\"(2)  قوله: «عن محمّد» أثبتناه من الكافي. \">2</a></sup></span> بن إبراهيم، عن أبيه قال:</span> دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> و أنا ساهم الوجه<span><sup><a class=\"NewFn\" href=\"#footnote582\" title=\"(3)  ساهم الوجه: أي: متغيّره لعارض يقال: سهم لونه يسهم إذا تغيّر عن حاله لعارض. مجمع البحرين 96:6 «سهم». \">3</a></sup></span>، فقال: «ما لي أراك ساهم الوجه‌؟» فقلت: إنّ بي حمّى الربع.</span>\n  </p>\n  <p id=\"p2435\" paragraph-id=\"2435\" class=\" G\">\n    <span class=\"hadith\">فقال: «ما يمنعك من المبارك‌؟ اسحق السكّر ثمّ خضّه<span><sup><a class=\"NewFn\" href=\"#footnote583\" title=\"(4)  في الكافي: «امخضه». \">4</a></sup></span> بالماء و اشربه على الريق و عند المنام».</span>\n  </p>\n  <p id=\"p2436\" paragraph-id=\"2436\" class=\" G\">\n    <span class=\"hadith\">قال<span><sup><a class=\"NewFn\" href=\"#footnote584\" title=\"(5)  كلمة: «قال» أثبتناها من المصدر. \">5</a></sup></span>: ففعلت فما عادت إليّ الحمّى<span><sup><a class=\"NewFn\" href=\"#footnote585\" title=\"(6)  و رواه عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 51، فقال: حدّثنا كامل، عن محمّد بن إبراهيم الجعفي، قال: حدّثنا أبي، و الكليني في الكافي 384/265:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2437\" paragraph-id=\"2437\" class=\" G\">[112] </p>\n  <p id=\"p2438\" paragraph-id=\"2438\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">ذكر أبو زكريّا الحضرمي:</span> أنّ <span class=\"Y\"><span class=\"maasoom\">أبا الحسن عليه السّلام</span></span> كتب له هذا الكتاب، و كان يحمّ حمّى الربع فأمره أن يكتب على يده اليمنى: «بسم الله جبرئيل»، و على يده اليسرى: «بسم الله ميكائيل»، و على رجله اليمنى: «بسم الله إسرافيل»، و على </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote580\" footnote-id=\"580\">(1) <page number=\"73\" /> حمّى الربع: أن تأخذ يوما و تترك يومين، ثمّ تجيء في اليوم الرابع. مجمع البحرين 331:4 «ربع». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote581\" footnote-id=\"581\">(2)  قوله: «عن محمّد» أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote582\" footnote-id=\"582\">(3)  ساهم الوجه: أي: متغيّره لعارض يقال: سهم لونه يسهم إذا تغيّر عن حاله لعارض. مجمع البحرين 96:6 «سهم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote583\" footnote-id=\"583\">(4)  في الكافي: «امخضه». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote584\" footnote-id=\"584\">(5)  كلمة: «قال» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote585\" footnote-id=\"585\">(6)  و رواه عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 51، فقال: حدّثنا كامل، عن محمّد بن إبراهيم الجعفي، قال: حدّثنا أبي، و الكليني في الكافي 384/265:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F19C4DD1-4DA4-4B53-990F-11263F22CF16",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

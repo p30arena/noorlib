@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 303,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167869,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3615\"><page number=\"303\"/>[498] </p>"
+        },
+        {
+          "paragraphId": 714167870,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3616\"><format class=\"hadith\" who=\"5\" Id=\"489\" RevayatIndex=\"489\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format></format> أنّه شكا إليه بعضهم فقال: إنّ ابنة لي يأخذها خدر<lfootnote noteId=\"1664\">1</lfootnote> في عضدها أحيانا حتى تسقط، فقال: «إن طرأ<lfootnote noteId=\"1665\">2</lfootnote> ابنتك فغذّها أيّام الحيض بالشبت<lfootnote noteId=\"1666\">3</lfootnote> المطبوخ و العسل ثلاثة أيّام»<lfootnote noteId=\"1667\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167871,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3617\">[499]</p>"
+        },
+        {
+          "paragraphId": 714167872,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3618\"><format class=\"hadith\" who=\"16\" Id=\"490\" RevayatIndex=\"490\"> و تقرأ على الفالج و الجذام و الإبردة<lfootnote noteId=\"1668\">5</lfootnote> و الريح و كلّ وجع: امّ القرآن و قل هو الله أحد<lfootnote noteId=\"1669\">6</lfootnote> و المعوّذتين، ثمّ تكتب أسفل ذلك: أعوذ بوجه الله العظيم و عزّته الّتي لا ترام و قدرته الّتي لا يمتنع منها شيء من شرّ هذا الوجع و من شرّ ما فيه و ممّا أجد منه، فاكتب هذا في كتف أو لوح ثمّ تغسله بماء السماء و تشربه على الريق و عند منامك، يشفي<lfootnote noteId=\"1670\">7</lfootnote> إن شاء الله<lfootnote noteId=\"1671\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167873,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3619\"><page number=\"304\"/>[500] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169619,
+          "text": "<footnote id=\"1664\"><page number=\"303\"/><mnote>(1)</mnote> الخدر: إمذلال [استرخاء و فترة] يغشى اليد و الرجل و الجسد، و الفعل خدرت. كتاب العين 229:4 «خدر». </footnote>"
+        },
+        {
+          "footnoteId": 714169620,
+          "text": "<footnote id=\"1665\"><mnote>(2)</mnote> و قد تقرأ بصيغة اخرى. </footnote>"
+        },
+        {
+          "footnoteId": 714169621,
+          "text": "<footnote id=\"1666\"><mnote>(3)</mnote> بقلة معروفة يقال لها بالفارسية: شويد. بحر الجواهر: 226. </footnote>"
+        },
+        {
+          "footnoteId": 714169622,
+          "text": "<footnote id=\"1667\"><mnote>(4)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/383، للفالج و غيره، شكا إلى أبي جعفر عليه السّلام رجل، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 110، ما يشابهه فقالا: للفزع في النوم، أبو عبيدة بن محمّد بن عبيد، قال: حدّثني أبي محمّد بن عبيد، عن النضر بن سويد، عن ميسّر، عن أبي عبد الله الصادق عليه السّلام، فقال عليه السّلام: «مرها بالفصد و خذلها ماء الشبت المطبوخ بالعسل و تسقى ثلاثة أيّام فإنّ الله تعالى يعافيها» قال: ففعلت ذلك فعوفيت بإذن الله عزّ و جلّ‌. </footnote>"
+        },
+        {
+          "footnoteId": 714169623,
+          "text": "<footnote id=\"1668\"><mnote>(5)</mnote> في النسخة: «و الإبرة» و ما أثبتناه من المصدر. قال الهروي: إبردة بكسر الهمزة و الراء:<br/>علّة معروفة من غلبة البرد و الرطوبة تعتري الجماع، و همزتها زائدة. بحر الجواهر: 17. و انظر: مجمع البحرين 14:3، الطراز الأوّل 225:5 «برد». </footnote>"
+        },
+        {
+          "footnoteId": 714169624,
+          "text": "<footnote id=\"1669\"><mnote>(6)</mnote> سورة الإخلاص 1:112. </footnote>"
+        },
+        {
+          "footnoteId": 714169625,
+          "text": "<footnote id=\"1670\"><mnote>(7)</mnote> في النسخة «منامه يشفى» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169626,
+          "text": "<footnote id=\"1671\"><mnote>(8)</mnote> رواه بتفاوت يسير ابنا بسطام في طبّ الأئمة عليهم السّلام: 38 و 65 و 100 و تقدّمت هذه<page number=\"304\"/>العوذة مع مصادرها في الحديث 414. </footnote>"
+        }
+      ],
+      "pageValue": "303",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3615\" paragraph-id=\"3615\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo303\">303</span>[498] </p>\n  <p id=\"p3616\" paragraph-id=\"3616\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span></span> أنّه شكا إليه بعضهم فقال: إنّ ابنة لي يأخذها خدر<span><sup><a class=\"NewFn\" href=\"#footnote1664\" title=\"(1)  الخدر: إمذلال [استرخاء و فترة] يغشى اليد و الرجل و الجسد، و الفعل خدرت. كتاب العين 229:4 «خدر». \">1</a></sup></span> في عضدها أحيانا حتى تسقط، فقال: «إن طرأ<span><sup><a class=\"NewFn\" href=\"#footnote1665\" title=\"(2)  و قد تقرأ بصيغة اخرى. \">2</a></sup></span> ابنتك فغذّها أيّام الحيض بالشبت<span><sup><a class=\"NewFn\" href=\"#footnote1666\" title=\"(3)  بقلة معروفة يقال لها بالفارسية: شويد. بحر الجواهر: 226. \">3</a></sup></span> المطبوخ و العسل ثلاثة أيّام»<span><sup><a class=\"NewFn\" href=\"#footnote1667\" title=\"(4)  رواه الطبرسي في مكارم الأخلاق: 1/383، للفالج و غيره، شكا إلى أبي جعفر عليه السّلام رجل، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 110، ما يشابهه فقالا: للفزع في النوم، أبو عبيدة بن محمّد بن عبيد، قال: حدّثني أبي محمّد بن عبيد، عن النضر بن سويد، عن ميسّر، عن أبي عبد الله الصادق عليه السّلام، فقال عليه السّلام: «مرها بالفصد و خذلها ماء الشبت المطبوخ بالعسل و تسقى ثلاثة أيّام فإنّ الله تعالى يعافيها» قال: ففعلت ذلك فعوفيت بإذن الله عزّ و جلّ‌. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3617\" paragraph-id=\"3617\" class=\" G\">[499]</p>\n  <p id=\"p3618\" paragraph-id=\"3618\" class=\" G\">\n    <span class=\"hadith\"> و تقرأ على الفالج و الجذام و الإبردة<span><sup><a class=\"NewFn\" href=\"#footnote1668\" title=\"(5)  في النسخة: «و الإبرة» و ما أثبتناه من المصدر. قال الهروي: إبردة بكسر الهمزة و الراء:علّة معروفة من غلبة البرد و الرطوبة تعتري الجماع، و همزتها زائدة. بحر الجواهر: 17. و انظر: مجمع البحرين 14:3، الطراز الأوّل 225:5 «برد». \">5</a></sup></span> و الريح و كلّ وجع: امّ القرآن و قل هو الله أحد<span><sup><a class=\"NewFn\" href=\"#footnote1669\" title=\"(6)  سورة الإخلاص 1:112. \">6</a></sup></span> و المعوّذتين، ثمّ تكتب أسفل ذلك: أعوذ بوجه الله العظيم و عزّته الّتي لا ترام و قدرته الّتي لا يمتنع منها شيء من شرّ هذا الوجع و من شرّ ما فيه و ممّا أجد منه، فاكتب هذا في كتف أو لوح ثمّ تغسله بماء السماء و تشربه على الريق و عند منامك، يشفي<span><sup><a class=\"NewFn\" href=\"#footnote1670\" title=\"(7)  في النسخة «منامه يشفى» و ما أثبتناه من المصدر. \">7</a></sup></span> إن شاء الله<span><sup><a class=\"NewFn\" href=\"#footnote1671\" title=\"(8)  رواه بتفاوت يسير ابنا بسطام في طبّ الأئمة عليهم السّلام: 38 و 65 و 100 و تقدّمت هذه\">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p3619\" paragraph-id=\"3619\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1664\" footnote-id=\"1664\">(1) <page number=\"303\" /> الخدر: إمذلال [استرخاء و فترة] يغشى اليد و الرجل و الجسد، و الفعل خدرت. كتاب العين 229:4 «خدر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1665\" footnote-id=\"1665\">(2)  و قد تقرأ بصيغة اخرى. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1666\" footnote-id=\"1666\">(3)  بقلة معروفة يقال لها بالفارسية: شويد. بحر الجواهر: 226. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1667\" footnote-id=\"1667\">(4)  رواه الطبرسي في مكارم الأخلاق: 1/383، للفالج و غيره، شكا إلى أبي جعفر عليه السّلام رجل، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 110، ما يشابهه فقالا: للفزع في النوم، أبو عبيدة بن محمّد بن عبيد، قال: حدّثني أبي محمّد بن عبيد، عن النضر بن سويد، عن ميسّر، عن أبي عبد الله الصادق عليه السّلام، فقال عليه السّلام: «مرها بالفصد و خذلها ماء الشبت المطبوخ بالعسل و تسقى ثلاثة أيّام فإنّ الله تعالى يعافيها» قال: ففعلت ذلك فعوفيت بإذن الله عزّ و جلّ‌. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1668\" footnote-id=\"1668\">(5)  في النسخة: «و الإبرة» و ما أثبتناه من المصدر. قال الهروي: إبردة بكسر الهمزة و الراء:<br />علّة معروفة من غلبة البرد و الرطوبة تعتري الجماع، و همزتها زائدة. بحر الجواهر: 17. و انظر: مجمع البحرين 14:3، الطراز الأوّل 225:5 «برد». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1669\" footnote-id=\"1669\">(6)  سورة الإخلاص 1:112. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1670\" footnote-id=\"1670\">(7)  في النسخة «منامه يشفى» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1671\" footnote-id=\"1671\">(8)  رواه بتفاوت يسير ابنا بسطام في طبّ الأئمة عليهم السّلام: 38 و 65 و 100 و تقدّمت هذه</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "1F0E56C0-D4A5-4D7F-BAA8-5B86F6238659",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

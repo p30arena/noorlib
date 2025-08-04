@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 77,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166850,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2455\"><page number=\"77\"/>[118] </p>"
+        },
+        {
+          "paragraphId": 714166851,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2456\"><format class=\"hadith\" who=\"8|10\" Id=\"116\" RevayatIndex=\"116\"><format class=\"sanadHadith\">و روى محمّد بن موسى<lfootnote noteId=\"602\">1</lfootnote>، عن محمّد بن عيسى قال:</format> مرض أخي موسى، و كان يحمّ حمّى الربع، فكتبت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8|10\">أبي الحسن عليه السّلام</format></format> أسأله الدواء له، فكتب إليّ‌: <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"11|10\"/></format>«يأخذ موسى حبّة السوداء فيدقّها، و يعجنها بعسل، و يأخذ في كلّ يوم على الريق وزن ثلاثة دراهم» قال: فأخذه ثلاثة أيّام فبرأ<lfootnote noteId=\"603\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166852,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2457\">[119] </p>"
+        },
+        {
+          "paragraphId": 714166853,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2458\"><format class=\"hadith\" who=\"10\" Id=\"117\" RevayatIndex=\"117\"><format class=\"sanadHadith\">و روى يوسف بن محمّد، عن موسى بن محمّد الأهوازي، عن محمّد بن عبد الوهّاب بن مبارك، عن علي بن جعفر الكاتب البرمكي، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"10\">أبي الحسن علي بن محمّد عليه السّلام</format></format> قال:</format> سألته عن حمّى الربع فقال: «يطعم في يومها الفالوذج المعمول بالعسل<lfootnote noteId=\"604\">3</lfootnote> و يكثر زعفرانه و لا يأكل في يومها غيره»<lfootnote noteId=\"605\">4</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714166854,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2459\"><heading level=\"2\">[باب] في الحمّى المثلّثة<lfootnote noteId=\"606\">5</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714166855,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2460\">[120] </p>"
+        },
+        {
+          "paragraphId": 714166856,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2461\"><format class=\"hadith\" who=\"8|7|10\" Id=\"118\" RevayatIndex=\"118\"><format class=\"sanadHadith\">روى بعض أصحابنا، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8|7|10\">أبي الحسن عليه السّلام</format></format> للحمّى المثلّثة: </format>«يؤخذ <page number=\"78\"/> عسل و شونيز فيعجن و يلعق منه في كلّ [يوم] ثلاث<lfootnote noteId=\"607\">1</lfootnote> لعقات على الريق و عند النوم»<lfootnote noteId=\"608\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168633,
+          "text": "<footnote id=\"602\"><page number=\"77\"/><mnote>(1)</mnote> هو محمّد بن موسى بن عيسى السمّان الهمداني من مشايخ الأشعري. </footnote>"
+        },
+        {
+          "footnoteId": 714168634,
+          "text": "<footnote id=\"603\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168635,
+          "text": "<footnote id=\"604\"><mnote>(3)</mnote> في كتاب الماء 1013:3: الفالوذ: نوع من الحلوى يتّخذ إمّا من السكّر و إمّا من العسل و إمّا من النشا و هو فارسى معرّب.<br/>الفالوذج: حلواء تطبخ من النشاء، معرّب «پالوده»، و يقال: الفالوذ بإسقاط الجيم، و الفالوذق بالقاف، و سمع الحسن عليه السّلام رجلا يعيبها فقال: لباب البرّ بلعاب النحل بخالص السمن ما عاب هذا مسلم. الطراز الأوّل 188:4 «فلذج». </footnote>"
+        },
+        {
+          "footnoteId": 714168636,
+          "text": "<footnote id=\"605\"><mnote>(4)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 51، عن الحسن بن شاذان، قال: حدّثنا أبو جعفر عن أبي الحسن الثالث عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168637,
+          "text": "<footnote id=\"606\"><mnote>(5)</mnote> الحمّى الثلث: أن تعرض يوما و تقلع يوما و تأتي في الثالث، و تسمّى: المثلّثة و هي الحمّى الغبّ‌. الطراز الأوّل 354:3 «ثلث».</footnote>"
+        }
+      ],
+      "pageValue": "77",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2455\" paragraph-id=\"2455\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo77\">77</span>[118] </p>\n  <p id=\"p2456\" paragraph-id=\"2456\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى محمّد بن موسى<span><sup><a class=\"NewFn\" href=\"#footnote602\" title=\"(1)  هو محمّد بن موسى بن عيسى السمّان الهمداني من مشايخ الأشعري. \">1</a></sup></span>، عن محمّد بن عيسى قال:</span> مرض أخي موسى، و كان يحمّ حمّى الربع، فكتبت إلى <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> أسأله الدواء له، فكتب إليّ‌: <span class=\"BD\"><span class=\"maasoom\"></span></span>«يأخذ موسى حبّة السوداء فيدقّها، و يعجنها بعسل، و يأخذ في كلّ يوم على الريق وزن ثلاثة دراهم» قال: فأخذه ثلاثة أيّام فبرأ<span><sup><a class=\"NewFn\" href=\"#footnote603\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2457\" paragraph-id=\"2457\" class=\" G\">[119] </p>\n  <p id=\"p2458\" paragraph-id=\"2458\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى يوسف بن محمّد، عن موسى بن محمّد الأهوازي، عن محمّد بن عبد الوهّاب بن مبارك، عن علي بن جعفر الكاتب البرمكي، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن علي بن محمّد عليه السّلام</span></span> قال:</span> سألته عن حمّى الربع فقال: «يطعم في يومها الفالوذج المعمول بالعسل<span><sup><a class=\"NewFn\" href=\"#footnote604\" title=\"(3)  في كتاب الماء 1013:3: الفالوذ: نوع من الحلوى يتّخذ إمّا من السكّر و إمّا من العسل و إمّا من النشا و هو فارسى معرّب.الفالوذج: حلواء تطبخ من النشاء، معرّب «پالوده»، و يقال: الفالوذ بإسقاط الجيم، و الفالوذق بالقاف، و سمع الحسن عليه السّلام رجلا يعيبها فقال: لباب البرّ بلعاب النحل بخالص السمن ما عاب هذا مسلم. الطراز الأوّل 188:4 «فلذج». \">3</a></sup></span> و يكثر زعفرانه و لا يأكل في يومها غيره»<span><sup><a class=\"NewFn\" href=\"#footnote605\" title=\"(4)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 51، عن الحسن بن شاذان، قال: حدّثنا أبو جعفر عن أبي الحسن الثالث عليه السّلام. \">4</a></sup></span>. </span>\n  </p>\n  <p id=\"p2459\" paragraph-id=\"2459\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الحمّى المثلّثة<span><sup><a class=\"NewFn\" href=\"#footnote606\" title=\"(5)  الحمّى الثلث: أن تعرض يوما و تقلع يوما و تأتي في الثالث، و تسمّى: المثلّثة و هي الحمّى الغبّ‌. الطراز الأوّل 354:3 «ثلث».\">5</a></sup></span></strong>\n  </p>\n  <p id=\"p2460\" paragraph-id=\"2460\" class=\" G\">[120] </p>\n  <p id=\"p2461\" paragraph-id=\"2461\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى بعض أصحابنا، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> للحمّى المثلّثة: </span>«يؤخذ </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote602\" footnote-id=\"602\">(1) <page number=\"77\" /> هو محمّد بن موسى بن عيسى السمّان الهمداني من مشايخ الأشعري. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote603\" footnote-id=\"603\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote604\" footnote-id=\"604\">(3)  في كتاب الماء 1013:3: الفالوذ: نوع من الحلوى يتّخذ إمّا من السكّر و إمّا من العسل و إمّا من النشا و هو فارسى معرّب.<br />الفالوذج: حلواء تطبخ من النشاء، معرّب «پالوده»، و يقال: الفالوذ بإسقاط الجيم، و الفالوذق بالقاف، و سمع الحسن عليه السّلام رجلا يعيبها فقال: لباب البرّ بلعاب النحل بخالص السمن ما عاب هذا مسلم. الطراز الأوّل 188:4 «فلذج». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote605\" footnote-id=\"605\">(4)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 51، عن الحسن بن شاذان، قال: حدّثنا أبو جعفر عن أبي الحسن الثالث عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote606\" footnote-id=\"606\">(5)  الحمّى الثلث: أن تعرض يوما و تقلع يوما و تأتي في الثالث، و تسمّى: المثلّثة و هي الحمّى الغبّ‌. الطراز الأوّل 354:3 «ثلث».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "CEB25F0E-8A36-48A0-BDC3-C1CBFEF301A0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

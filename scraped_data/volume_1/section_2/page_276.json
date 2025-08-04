@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 276,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167694,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3440\"><page number=\"276\"/>[449] </p>"
+        },
+        {
+          "paragraphId": 714167695,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3441\"><format class=\"hadith\" who=\"6\" Id=\"444\" RevayatIndex=\"444\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«الأزرق و البستق<lfootnote noteId=\"1521\">1</lfootnote> يوسّعان المعاء و يقطعان البواسير»<lfootnote noteId=\"1522\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167696,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3442\">[450] </p>"
+        },
+        {
+          "paragraphId": 714167697,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3443\"><format class=\"hadith\" who=\"6\" Id=\"445\" RevayatIndex=\"445\"><format class=\"sanadHadith\">و كتب إليه القاسم بن أبي القاسم:</format> جعلت فداك<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format> إنّي أجد في أسفلي البواسير و أجد حرارة في رأسي فإن أكلت الحارّ أضرّ بصري<lfootnote noteId=\"1523\">3</lfootnote> و ضعفت أضراسي و إن أكلت البارد أضرّني<lfootnote noteId=\"1524\">4</lfootnote> الأرواح التي فيه، فإن رأيت أن تصف لي دواء لعلّ الله أن يجعل فيه الشفاء.</format></p>"
+        },
+        {
+          "paragraphId": 714167698,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3444\"><format class=\"hadith\" who=\"6\" Id=\"445\" RevayatIndex=\"445\">فكتب إليه: «أفعل إن شاء الله تعالى، ادخل الحمّام و لا تكثر»<lfootnote noteId=\"1525\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167699,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3445\">[451] </p>"
+        },
+        {
+          "paragraphId": 714167700,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3446\"><format class=\"hadith\" who=\"8\" Id=\"446\" RevayatIndex=\"446\"><format class=\"sanadHadith\">أخبرنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن معمّر بن خلّاد قال:</format> كان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبو الحسن الرضا عليه السّلام</format></format> كثيرا ما يأمرني باتّخاذ هذا الدواء، حشيش المقلّ‌<lfootnote noteId=\"1526\">6</lfootnote> و هو للأرواح و البواسير و الرياح، و ذكر أنّه عمل له منه بمائة درهم. </format></p>"
+        },
+        {
+          "paragraphId": 714167701,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3447\"><format class=\"hadith\" who=\"8\" Id=\"446\" RevayatIndex=\"446\"><page number=\"277\"/> و أمّا حفظي عن أبي القاسم: فإنّه أمر أن يعمل منه بأربع مائة درهم.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169476,
+          "text": "<footnote id=\"1521\"><page number=\"276\"/><mnote>(1)</mnote> في النسخة «الأزرق البستق» و أثبتنا الواو لضرورة السياق، و لعلّه إشارة إلى ما في الرواية السابقة ممّا يسمّيه أهل العراق: مقل أزرق، و لعلّه مصحّف: «الأرز و البسر» و يدلّ عليه ما رواه البرقي في المحاسن 9/503:2، أبواب الحبوب باب الأرز، عن أبيه، عن يونس بن عبد الرحمن، عن هشام بن الحكم، عن زرارة، قال: فدخلت على أبي عبد الله عليه السّلام فقال: «و إنّا لنغبط أهل العراق بأكلهم الأرز و البسر، بإنّهما يوسعان الأمعاء و يقطعان البواسير»، و الكليني عن المحاسن في الكافي 2/341:6، باب الأرز. </footnote>"
+        },
+        {
+          "footnoteId": 714169477,
+          "text": "<footnote id=\"1522\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169478,
+          "text": "<footnote id=\"1523\"><mnote>(3)</mnote> يمكن أن يقرأ في النسخة: «أضرّني». </footnote>"
+        },
+        {
+          "footnoteId": 714169479,
+          "text": "<footnote id=\"1524\"><mnote>(4)</mnote> كذا استظهرناه و قد تقرأ: «أضرّ سفلي». </footnote>"
+        },
+        {
+          "footnoteId": 714169480,
+          "text": "<footnote id=\"1525\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169481,
+          "text": "<footnote id=\"1526\"><mnote>(6)</mnote> لعلّه إشارة إلى ما يسمّيه أهل العراق: مقل أزرق كما في الحديث السابق.</footnote>"
+        }
+      ],
+      "pageValue": "276",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3440\" paragraph-id=\"3440\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo276\">276</span>[449] </p>\n  <p id=\"p3441\" paragraph-id=\"3441\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«الأزرق و البستق<span><sup><a class=\"NewFn\" href=\"#footnote1521\" title=\"(1)  في النسخة «الأزرق البستق» و أثبتنا الواو لضرورة السياق، و لعلّه إشارة إلى ما في الرواية السابقة ممّا يسمّيه أهل العراق: مقل أزرق، و لعلّه مصحّف: «الأرز و البسر» و يدلّ عليه ما رواه البرقي في المحاسن 9/503:2، أبواب الحبوب باب الأرز، عن أبيه، عن يونس بن عبد الرحمن، عن هشام بن الحكم، عن زرارة، قال: فدخلت على أبي عبد الله عليه السّلام فقال: «و إنّا لنغبط أهل العراق بأكلهم الأرز و البسر، بإنّهما يوسعان الأمعاء و يقطعان البواسير»، و الكليني عن المحاسن في الكافي 2/341:6، باب الأرز. \">1</a></sup></span> يوسّعان المعاء و يقطعان البواسير»<span><sup><a class=\"NewFn\" href=\"#footnote1522\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3442\" paragraph-id=\"3442\" class=\" G\">[450] </p>\n  <p id=\"p3443\" paragraph-id=\"3443\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و كتب إليه القاسم بن أبي القاسم:</span> جعلت فداك<span class=\"Y\"><span class=\"maasoom\"></span></span> إنّي أجد في أسفلي البواسير و أجد حرارة في رأسي فإن أكلت الحارّ أضرّ بصري<span><sup><a class=\"NewFn\" href=\"#footnote1523\" title=\"(3)  يمكن أن يقرأ في النسخة: «أضرّني». \">3</a></sup></span> و ضعفت أضراسي و إن أكلت البارد أضرّني<span><sup><a class=\"NewFn\" href=\"#footnote1524\" title=\"(4)  كذا استظهرناه و قد تقرأ: «أضرّ سفلي». \">4</a></sup></span> الأرواح التي فيه، فإن رأيت أن تصف لي دواء لعلّ الله أن يجعل فيه الشفاء.</span>\n  </p>\n  <p id=\"p3444\" paragraph-id=\"3444\" class=\" G\">\n    <span class=\"hadith\">فكتب إليه: «أفعل إن شاء الله تعالى، ادخل الحمّام و لا تكثر»<span><sup><a class=\"NewFn\" href=\"#footnote1525\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p3445\" paragraph-id=\"3445\" class=\" G\">[451] </p>\n  <p id=\"p3446\" paragraph-id=\"3446\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أخبرنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن معمّر بن خلّاد قال:</span> كان <span class=\"Y\"><span class=\"maasoom\">أبو الحسن الرضا عليه السّلام</span></span> كثيرا ما يأمرني باتّخاذ هذا الدواء، حشيش المقلّ‌<span><sup><a class=\"NewFn\" href=\"#footnote1526\" title=\"(6)  لعلّه إشارة إلى ما يسمّيه أهل العراق: مقل أزرق كما في الحديث السابق.\">6</a></sup></span> و هو للأرواح و البواسير و الرياح، و ذكر أنّه عمل له منه بمائة درهم. </span>\n  </p>\n  <p id=\"p3447\" paragraph-id=\"3447\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1521\" footnote-id=\"1521\">(1) <page number=\"276\" /> في النسخة «الأزرق البستق» و أثبتنا الواو لضرورة السياق، و لعلّه إشارة إلى ما في الرواية السابقة ممّا يسمّيه أهل العراق: مقل أزرق، و لعلّه مصحّف: «الأرز و البسر» و يدلّ عليه ما رواه البرقي في المحاسن 9/503:2، أبواب الحبوب باب الأرز، عن أبيه، عن يونس بن عبد الرحمن، عن هشام بن الحكم، عن زرارة، قال: فدخلت على أبي عبد الله عليه السّلام فقال: «و إنّا لنغبط أهل العراق بأكلهم الأرز و البسر، بإنّهما يوسعان الأمعاء و يقطعان البواسير»، و الكليني عن المحاسن في الكافي 2/341:6، باب الأرز. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1522\" footnote-id=\"1522\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1523\" footnote-id=\"1523\">(3)  يمكن أن يقرأ في النسخة: «أضرّني». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1524\" footnote-id=\"1524\">(4)  كذا استظهرناه و قد تقرأ: «أضرّ سفلي». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1525\" footnote-id=\"1525\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1526\" footnote-id=\"1526\">(6)  لعلّه إشارة إلى ما يسمّيه أهل العراق: مقل أزرق كما في الحديث السابق.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "977E34A1-0644-4789-952B-7C8B347A601D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

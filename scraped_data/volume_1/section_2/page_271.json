@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 271,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167667,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3413\"><format class=\"hadith\" who=\"8|7|10\" Id=\"433\" RevayatIndex=\"433\"><format class=\"sanadHadith\">فقال: </format>«الزم أكل اللوز الحلو، و اغتسل بالماء البارد، و كل البيض و السمك <page number=\"271\"/> الطري المشويّ و الهندباء، و افتصد القيفال<lfootnote noteId=\"1486\">1</lfootnote>» ففعل ما أمره فوهب الله تعالى له العافية<lfootnote noteId=\"1487\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167668,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3414\">[439] </p>"
+        },
+        {
+          "paragraphId": 714167669,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3415\"><format class=\"hadith\" who=\"8|7|10\" Id=\"434\" RevayatIndex=\"434\"><format class=\"sanadHadith\">و روى صالح بن الحسن العمري، قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8|7|10\">أبي الحسن عليه السّلام </format></format>ريحا يعرض لي في وركي و ساقي و قدمي و لا يمكنني أن أخطو و لا أركع و لا أسجد.</format></p>"
+        },
+        {
+          "paragraphId": 714167670,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3416\"><format class=\"hadith\" who=\"8|7|10\" Id=\"434\" RevayatIndex=\"434\">فقال: «اذهب<lfootnote noteId=\"1488\">3</lfootnote> و احتجم على ساقيك و امرخهما<lfootnote noteId=\"1489\">4</lfootnote> بدهن المشمش<lfootnote noteId=\"1490\">5</lfootnote> على ماء بارد». ففعلت فذهب عنّي ما أجده<lfootnote noteId=\"1491\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167671,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3417\">[440] </p>"
+        },
+        {
+          "paragraphId": 714167672,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3418\"><format class=\"hadith\" who=\"6\" Id=\"435\" RevayatIndex=\"435\"><format class=\"sanadHadith\">روى ابن القلاء<lfootnote noteId=\"1492\">7</lfootnote>، قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> يبوسة كنت أجدها في ساقي و قدمي. </format></p>"
+        },
+        {
+          "paragraphId": 714167673,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3419\"><format class=\"hadith\" who=\"6\" Id=\"435\" RevayatIndex=\"435\"><page number=\"272\"/> فقال: «عليك بالسفرجل و البنفسج، و امرخ ساقيك و قدميك دهن المشمش و الزم الحمّام»<lfootnote noteId=\"1493\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169441,
+          "text": "<footnote id=\"1486\"><page number=\"271\"/><mnote>(1)</mnote> قال الهروي: قيفال بالكسر: العرق في الرأس و الوجه. بحر الجواهر: 316.<br/>و قال المجلسي: القيفال هو الوريد الذي يظهر عند المرفق على الجانب الوحشي. بحار الأنوار 345:59.<br/>و في طبّ الإمام الرضا عليه السّلام: 58: و أكثر العروق ألما إذا فصد حبل الذراع و القيفال؛ لاتّصالهما بالعضل و صلابة الجلد. عنه في بحار الأنوار 319:59.<br/>قال المجلسي: فصد القيفال ينفع من علل الرأس و الرقبة إذا كثر الدم أو فسد، و فصد الودجين لوجع الطحال و الربو و وجع الجنبين. بحار الأنوار 113:59. </footnote>"
+        },
+        {
+          "footnoteId": 714169442,
+          "text": "<footnote id=\"1487\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169443,
+          "text": "<footnote id=\"1488\"><mnote>(3)</mnote> كذا استظهرنا من النسخة. </footnote>"
+        },
+        {
+          "footnoteId": 714169444,
+          "text": "<footnote id=\"1489\"><mnote>(4)</mnote> قال الخليل: المرخ: مرخك إنسانا بالدهن، و رجل مرخ: كثير الإدّهان. كتاب العين 260:4 «مرخ». </footnote>"
+        },
+        {
+          "footnoteId": 714169445,
+          "text": "<footnote id=\"1490\"><mnote>(5)</mnote> في النسخة: «المشمس» و كذا المورد التالي و قد تقدّم ذكر دهن المشمش في الحديث 383. </footnote>"
+        },
+        {
+          "footnoteId": 714169446,
+          "text": "<footnote id=\"1491\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169447,
+          "text": "<footnote id=\"1492\"><mnote>(7)</mnote> و يمكن أن يقرأ: «ابن العلا» إلّا أنّه لا يروي عن الإمام الصادق عليه السّلام إلا بالواسطة.</footnote>"
+        }
+      ],
+      "pageValue": "271",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3413\" paragraph-id=\"3413\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo271\">271</span> الطري المشويّ و الهندباء، و افتصد القيفال<span><sup><a class=\"NewFn\" href=\"#footnote1486\" title=\"(1)  قال الهروي: قيفال بالكسر: العرق في الرأس و الوجه. بحر الجواهر: 316.و قال المجلسي: القيفال هو الوريد الذي يظهر عند المرفق على الجانب الوحشي. بحار الأنوار 345:59.و في طبّ الإمام الرضا عليه السّلام: 58: و أكثر العروق ألما إذا فصد حبل الذراع و القيفال؛ لاتّصالهما بالعضل و صلابة الجلد. عنه في بحار الأنوار 319:59.قال المجلسي: فصد القيفال ينفع من علل الرأس و الرقبة إذا كثر الدم أو فسد، و فصد الودجين لوجع الطحال و الربو و وجع الجنبين. بحار الأنوار 113:59. \">1</a></sup></span>» ففعل ما أمره فوهب الله تعالى له العافية<span><sup><a class=\"NewFn\" href=\"#footnote1487\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3414\" paragraph-id=\"3414\" class=\" G\">[439] </p>\n  <p id=\"p3415\" paragraph-id=\"3415\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى صالح بن الحسن العمري، قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام </span></span>ريحا يعرض لي في وركي و ساقي و قدمي و لا يمكنني أن أخطو و لا أركع و لا أسجد.</span>\n  </p>\n  <p id=\"p3416\" paragraph-id=\"3416\" class=\" G\">\n    <span class=\"hadith\">فقال: «اذهب<span><sup><a class=\"NewFn\" href=\"#footnote1488\" title=\"(3)  كذا استظهرنا من النسخة. \">3</a></sup></span> و احتجم على ساقيك و امرخهما<span><sup><a class=\"NewFn\" href=\"#footnote1489\" title=\"(4)  قال الخليل: المرخ: مرخك إنسانا بالدهن، و رجل مرخ: كثير الإدّهان. كتاب العين 260:4 «مرخ». \">4</a></sup></span> بدهن المشمش<span><sup><a class=\"NewFn\" href=\"#footnote1490\" title=\"(5)  في النسخة: «المشمس» و كذا المورد التالي و قد تقدّم ذكر دهن المشمش في الحديث 383. \">5</a></sup></span> على ماء بارد». ففعلت فذهب عنّي ما أجده<span><sup><a class=\"NewFn\" href=\"#footnote1491\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3417\" paragraph-id=\"3417\" class=\" G\">[440] </p>\n  <p id=\"p3418\" paragraph-id=\"3418\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى ابن القلاء<span><sup><a class=\"NewFn\" href=\"#footnote1492\" title=\"(7)  و يمكن أن يقرأ: «ابن العلا» إلّا أنّه لا يروي عن الإمام الصادق عليه السّلام إلا بالواسطة.\">7</a></sup></span>، قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> يبوسة كنت أجدها في ساقي و قدمي. </span>\n  </p>\n  <p id=\"p3419\" paragraph-id=\"3419\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1486\" footnote-id=\"1486\">(1) <page number=\"271\" /> قال الهروي: قيفال بالكسر: العرق في الرأس و الوجه. بحر الجواهر: 316.<br />و قال المجلسي: القيفال هو الوريد الذي يظهر عند المرفق على الجانب الوحشي. بحار الأنوار 345:59.<br />و في طبّ الإمام الرضا عليه السّلام: 58: و أكثر العروق ألما إذا فصد حبل الذراع و القيفال؛ لاتّصالهما بالعضل و صلابة الجلد. عنه في بحار الأنوار 319:59.<br />قال المجلسي: فصد القيفال ينفع من علل الرأس و الرقبة إذا كثر الدم أو فسد، و فصد الودجين لوجع الطحال و الربو و وجع الجنبين. بحار الأنوار 113:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1487\" footnote-id=\"1487\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1488\" footnote-id=\"1488\">(3)  كذا استظهرنا من النسخة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1489\" footnote-id=\"1489\">(4)  قال الخليل: المرخ: مرخك إنسانا بالدهن، و رجل مرخ: كثير الإدّهان. كتاب العين 260:4 «مرخ». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1490\" footnote-id=\"1490\">(5)  في النسخة: «المشمس» و كذا المورد التالي و قد تقدّم ذكر دهن المشمش في الحديث 383. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1491\" footnote-id=\"1491\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1492\" footnote-id=\"1492\">(7)  و يمكن أن يقرأ: «ابن العلا» إلّا أنّه لا يروي عن الإمام الصادق عليه السّلام إلا بالواسطة.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "81FC5887-EE77-4375-93B7-2C58BE4ACD92",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

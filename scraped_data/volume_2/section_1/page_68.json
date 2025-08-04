@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 68,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169997,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1252\"><page number=\"68\"/>[101] </p>"
+        },
+        {
+          "paragraphId": 714169998,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1253\"><format class=\"hadith\" who=\"7|8\" Id=\"101\" RevayatIndex=\"622\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن علي بن الحكم، عن رجل من بني هاشم، قال:</format> دخلت على جماعة من بني هاشم، فسلّمت عليهم و هم في بيت مظلم، فقال لي بعضهم: سلّم على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8\">أبي الحسن عليه السّلام</format></format> فإنّه في الصدر. فسلّمت عليه، ثمّ جلست بين يديه، و قلت له: قد كنت أحبّ أن ألقاك منذ حين لأسألك عن أشياء.</format></p>"
+        },
+        {
+          "paragraphId": 714169999,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1254\"><format class=\"hadith\" who=\"7|8\" Id=\"101\" RevayatIndex=\"622\">فقال: «سل ما بدا لك». فقلت: ما تقول في الحمّام‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714170000,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1255\"><format class=\"hadith\" who=\"7|8\" Id=\"101\" RevayatIndex=\"622\">قال: «لا تدخله إلّا بمئزر، و غضّ بصرك، و لا تغتسل من غسالة الحمّام؛ فإنّه يغتسل فيه من الزنا، و يغتسل فيه ولد الزنا<lfootnote noteId=\"252\">1</lfootnote>، و الناصب لنا <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\">أهل البيت</format></format>، و هو شرّ الثلاثة»<lfootnote noteId=\"253\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170001,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1256\">[102] </p>"
+        },
+        {
+          "paragraphId": 714170002,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1257\"><format class=\"hadith\" who=\"6\" Id=\"102\" RevayatIndex=\"623\"><format class=\"sanadHadith\">محمّد بن عيسى و السيّاري كلاهما بإسناد واحد، عن أصحابنا، قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format><lfootnote noteId=\"254\">3</lfootnote>: </format>«من أطلى بنورة فأخذ منها بإصبعه فشمّه و جعل على طرف أنفه<lfootnote noteId=\"255\">4</lfootnote><page number=\"69\"/>لم تحرقه النورة، و يقول: رحم الله سليمان بن داود كما<lfootnote noteId=\"256\">1</lfootnote> أمرنا بالنورة<lfootnote noteId=\"257\">2</lfootnote>»<lfootnote noteId=\"258\">3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171035,
+          "text": "<footnote id=\"251\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 5/57، الفصل الثالث في التدلّك بالخزف و الزيت و الدقيق، و غير ذلك، عن الرضا عليه السّلام قال: «... و لا بأس أن يتدلّك بالدقيق الملتوت بالزيت، و ليس فيما ينفع البدن إسراف، إنّما الإسراف فيما أتلف المال و أضرّ بالبدن». و قال الصدوق في من لا يحضره الفقيه 71:1: و لا بأس أن يتدلّك الرجل في الحمّام بالسويق و الدقيق و النخالة، فليس فيما ينفع البدن إسراف، إنّما الإسراف فيما أتلف المال و أضرّ بالبدن، و كذا نحوه في 121، و قال: و لا بأس بأن يتدلك بالدقيق الملتوت بالزيت. <page number=\"68\"/>و روي في حسن الدلك بالنخالة أو بالدقيق روايات. انظر: المحاسن 28/312:2، الكافي 10/54:4 و ج 12/499:6-16، تهذيب الأحكام 541/188:1 و 1160/376، الاستبصار 535/155:1، مكارم الأخلاق: 57 و 58. </footnote>"
+        },
+        {
+          "footnoteId": 714171036,
+          "text": "<footnote id=\"252\"><mnote>(1)</mnote> في النسخة: «من ولد الزنا» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171037,
+          "text": "<footnote id=\"253\"><mnote>(2)</mnote> رواه الكليني في الكافي 10/498:6، باب الحمّام، عن أحمد بن محمّد، عن علي بن الحكم، و روى الطوسي نحوه في تهذيب الأحكام 1/373:1، باب دخول الحمّام و آدابه و سننه، عن محمّد بن علي بن محبوب، عن عدّة من أصحابنا، عن محمّد بن عبد الحميد، عن حمزة بن أحمد، عن أبي الحسن الأول عليه السّلام قال: سألته أو سأله غيري عن الحمّام، قال:<br/>«ادخله بمئزر». </footnote>"
+        },
+        {
+          "footnoteId": 714171038,
+          "text": "<footnote id=\"254\"><mnote>(3)</mnote> قوله: «أبو عبد الله عليه السّلام» أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171039,
+          "text": "<footnote id=\"255\"><mnote>(4)</mnote> قال المجلسي الأوّل في قوله عليه السّلام: «و يجعله على طرف أنفه»: لإزالة شعره أو تعبّدا. روضة المتّقين 307:1. </footnote>"
+        }
+      ],
+      "pageValue": "68",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1252\" paragraph-id=\"1252\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo68\">68</span>[101] </p>\n  <p id=\"p1253\" paragraph-id=\"1253\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن علي بن الحكم، عن رجل من بني هاشم، قال:</span> دخلت على جماعة من بني هاشم، فسلّمت عليهم و هم في بيت مظلم، فقال لي بعضهم: سلّم على <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> فإنّه في الصدر. فسلّمت عليه، ثمّ جلست بين يديه، و قلت له: قد كنت أحبّ أن ألقاك منذ حين لأسألك عن أشياء.</span>\n  </p>\n  <p id=\"p1254\" paragraph-id=\"1254\" class=\" G\">\n    <span class=\"hadith\">فقال: «سل ما بدا لك». فقلت: ما تقول في الحمّام‌؟</span>\n  </p>\n  <p id=\"p1255\" paragraph-id=\"1255\" class=\" G\">\n    <span class=\"hadith\">قال: «لا تدخله إلّا بمئزر، و غضّ بصرك، و لا تغتسل من غسالة الحمّام؛ فإنّه يغتسل فيه من الزنا، و يغتسل فيه ولد الزنا<span><sup><a class=\"NewFn\" href=\"#footnote252\" title=\"(1)  في النسخة: «من ولد الزنا» و ما أثبتناه من الكافي. \">1</a></sup></span>، و الناصب لنا <span class=\"BD\"><span class=\"maasoom\">أهل البيت</span></span>، و هو شرّ الثلاثة»<span><sup><a class=\"NewFn\" href=\"#footnote253\" title=\"(2)  رواه الكليني في الكافي 10/498:6، باب الحمّام، عن أحمد بن محمّد، عن علي بن الحكم، و روى الطوسي نحوه في تهذيب الأحكام 1/373:1، باب دخول الحمّام و آدابه و سننه، عن محمّد بن علي بن محبوب، عن عدّة من أصحابنا، عن محمّد بن عبد الحميد، عن حمزة بن أحمد، عن أبي الحسن الأول عليه السّلام قال: سألته أو سأله غيري عن الحمّام، قال:«ادخله بمئزر». \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1256\" paragraph-id=\"1256\" class=\" G\">[102] </p>\n  <p id=\"p1257\" paragraph-id=\"1257\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن عيسى و السيّاري كلاهما بإسناد واحد، عن أصحابنا، قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span><span><sup><a class=\"NewFn\" href=\"#footnote254\" title=\"(3)  قوله: «أبو عبد الله عليه السّلام» أثبتناه من الكافي. \">3</a></sup></span>: </span>«من أطلى بنورة فأخذ منها بإصبعه فشمّه و جعل على طرف أنفه<span><sup><a class=\"NewFn\" href=\"#footnote255\" title=\"(4)  قال المجلسي الأوّل في قوله عليه السّلام: «و يجعله على طرف أنفه»: لإزالة شعره أو تعبّدا. روضة المتّقين 307:1. \">4</a></sup></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote251\" footnote-id=\"251\"><page number=\"68\" />و روي في حسن الدلك بالنخالة أو بالدقيق روايات. انظر: المحاسن 28/312:2، الكافي 10/54:4 و ج 12/499:6-16، تهذيب الأحكام 541/188:1 و 1160/376، الاستبصار 535/155:1، مكارم الأخلاق: 57 و 58. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote252\" footnote-id=\"252\">(1)  في النسخة: «من ولد الزنا» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote253\" footnote-id=\"253\">(2)  رواه الكليني في الكافي 10/498:6، باب الحمّام، عن أحمد بن محمّد، عن علي بن الحكم، و روى الطوسي نحوه في تهذيب الأحكام 1/373:1، باب دخول الحمّام و آدابه و سننه، عن محمّد بن علي بن محبوب، عن عدّة من أصحابنا، عن محمّد بن عبد الحميد، عن حمزة بن أحمد، عن أبي الحسن الأول عليه السّلام قال: سألته أو سأله غيري عن الحمّام، قال:<br />«ادخله بمئزر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote254\" footnote-id=\"254\">(3)  قوله: «أبو عبد الله عليه السّلام» أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote255\" footnote-id=\"255\">(4)  قال المجلسي الأوّل في قوله عليه السّلام: «و يجعله على طرف أنفه»: لإزالة شعره أو تعبّدا. روضة المتّقين 307:1. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5D1DFD6C-7041-4A40-9DF0-FD89F399060B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

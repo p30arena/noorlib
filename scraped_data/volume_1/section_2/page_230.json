@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 230,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167469,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3215\"><format class=\"hadith\" who=\"6\" Id=\"371\" RevayatIndex=\"371\"><format class=\"sanadHadith\">روى علي بن إبراهيم، عن محسن الوشّاء قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي <page number=\"230\"/> عبد الله عليه السّلام</format></format> وجع الكبد و الربو<lfootnote noteId=\"1290\">1</lfootnote>، فدعا بالفاصد ففصدني من قدمي.</format></p>"
+        },
+        {
+          "paragraphId": 714167470,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3216\"><format class=\"hadith\" who=\"6\" Id=\"371\" RevayatIndex=\"371\">و قال: «اشربوا الكاشم<lfootnote noteId=\"1291\">2</lfootnote> فإنّه لوجع الخاصرة»<lfootnote noteId=\"1292\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167471,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3217\">[374] </p>"
+        },
+        {
+          "paragraphId": 714167472,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3218\"><format class=\"hadith\" who=\"8\" Id=\"372\" RevayatIndex=\"372\"><format class=\"sanadHadith\">روى الحسن بن الحسين الزيّات، قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام </format></format>نفخة كانت تصيبني في بطني، شبعانا كنت أم جائعا.</format></p>"
+        },
+        {
+          "paragraphId": 714167473,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3219\"><format class=\"hadith\" who=\"8\" Id=\"372\" RevayatIndex=\"372\">فقال: «خذ جزءا من حبّ الحشيش».</format></p>"
+        },
+        {
+          "paragraphId": 714167474,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3220\"><format class=\"hadith\" who=\"8\" Id=\"372\" RevayatIndex=\"372\">قلت: و ما حبّ الحشيش‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714167475,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3221\"><format class=\"hadith\" who=\"8\" Id=\"372\" RevayatIndex=\"372\">قال عليه السّلام: «تسمّيه أهل العراق: نانخواه، فنقّه<lfootnote noteId=\"1293\">4</lfootnote> و دقّه دقّا ناعما، و خذ الجوز فشمّه النار و دقّه معه و اخلط به». </format></p>"
+        },
+        {
+          "paragraphId": 714167476,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3222\"><format class=\"hadith\" who=\"8\" Id=\"372\" RevayatIndex=\"372\"><page number=\"231\"/> قلت: كم مقدار الجوز؟</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169033,
+          "text": "<footnote id=\"1290\"><page number=\"230\"/><mnote>(1)</mnote> قال الهروي: الربو بالفتح، قال الشيخ نجيب الدين: هو علّة حادثة في الرئة خاصّة بها لا يجد صاحبه السكون معها و بدّا من نفس متواتر، و يقال له: البهر أيضا. قلت: قد فرّق بين الربو و البهر و قد ذكر. بحر الجواهر: 183. </footnote>"
+        },
+        {
+          "footnoteId": 714169034,
+          "text": "<footnote id=\"1291\"><mnote>(2)</mnote> تقدّم في الحديث 338 في علاج السعال.<br/>و هنا بقي شيء و هو أنّ التعبير بالسفّ هناك و بالشرب هنا في رواية المتن و رواية طبّ الأئمّة عليهم السّلام يقتضي أنّه مائع، فلعلّ مائع منه ما هو ملتوت بغيره كما هو مقتضى رواية الكافي، فالسفّ و الاستفاف: أكل الدواء غير ملتوت.<br/>الكاشم: دواء يستفّ مع السكر. مجمع البحرين 154:6 «كشم». </footnote>"
+        },
+        {
+          "footnoteId": 714169035,
+          "text": "<footnote id=\"1292\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 39/76، الفصل الرابع في الحجامة، عن محسن الوشّاء قال: شكوت إلى أبي عبد الله عليه السّلام، و سيأتي ذيل الرواية مرّة أخرى في الحديث 421 من هذا الجزء، و رواه ابنا بسطام مرّتين بتفاوت يسير في طبّ الأئمّة عليهم السّلام: 2/29، باب عوذة لوجع الخاصرة و دواؤه، و 1/60، باب وجع الخاصرة، عن محمّد بن جعفر البرسي، قال: حدّثنا محمّد بن يحيى الأرمني، عن محمّد بن سنان، عن أبي عبد الله عليه السّلام، قال: «إنّ رسول الله صلّى الله عليه و آله قال: اشربوا الكاشم فإنّه جيّد لوجع الخاصرة». </footnote>"
+        },
+        {
+          "footnoteId": 714169036,
+          "text": "<footnote id=\"1293\"><mnote>(4)</mnote> يمكن أن يقرأ في النسخة: «نقّيه».</footnote>"
+        }
+      ],
+      "pageValue": "230",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3215\" paragraph-id=\"3215\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"Y\">\n        <span class=\"maasoom\">\n          <span class=\"GPA0 bookPage PageNo230\">230</span> عبد الله عليه السّلام</span>\n      </span> وجع الكبد و الربو<span><sup><a class=\"NewFn\" href=\"#footnote1290\" title=\"(1)  قال الهروي: الربو بالفتح، قال الشيخ نجيب الدين: هو علّة حادثة في الرئة خاصّة بها لا يجد صاحبه السكون معها و بدّا من نفس متواتر، و يقال له: البهر أيضا. قلت: قد فرّق بين الربو و البهر و قد ذكر. بحر الجواهر: 183. \">1</a></sup></span>، فدعا بالفاصد ففصدني من قدمي.</span>\n  </p>\n  <p id=\"p3216\" paragraph-id=\"3216\" class=\" G\">\n    <span class=\"hadith\">و قال: «اشربوا الكاشم<span><sup><a class=\"NewFn\" href=\"#footnote1291\" title=\"(2)  تقدّم في الحديث 338 في علاج السعال.و هنا بقي شيء و هو أنّ التعبير بالسفّ هناك و بالشرب هنا في رواية المتن و رواية طبّ الأئمّة عليهم السّلام يقتضي أنّه مائع، فلعلّ مائع منه ما هو ملتوت بغيره كما هو مقتضى رواية الكافي، فالسفّ و الاستفاف: أكل الدواء غير ملتوت.الكاشم: دواء يستفّ مع السكر. مجمع البحرين 154:6 «كشم». \">2</a></sup></span> فإنّه لوجع الخاصرة»<span><sup><a class=\"NewFn\" href=\"#footnote1292\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 39/76، الفصل الرابع في الحجامة، عن محسن الوشّاء قال: شكوت إلى أبي عبد الله عليه السّلام، و سيأتي ذيل الرواية مرّة أخرى في الحديث 421 من هذا الجزء، و رواه ابنا بسطام مرّتين بتفاوت يسير في طبّ الأئمّة عليهم السّلام: 2/29، باب عوذة لوجع الخاصرة و دواؤه، و 1/60، باب وجع الخاصرة، عن محمّد بن جعفر البرسي، قال: حدّثنا محمّد بن يحيى الأرمني، عن محمّد بن سنان، عن أبي عبد الله عليه السّلام، قال: «إنّ رسول الله صلّى الله عليه و آله قال: اشربوا الكاشم فإنّه جيّد لوجع الخاصرة». \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p3217\" paragraph-id=\"3217\" class=\" G\">[374] </p>\n  <p id=\"p3218\" paragraph-id=\"3218\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الحسن بن الحسين الزيّات، قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام </span></span>نفخة كانت تصيبني في بطني، شبعانا كنت أم جائعا.</span>\n  </p>\n  <p id=\"p3219\" paragraph-id=\"3219\" class=\" G\">\n    <span class=\"hadith\">فقال: «خذ جزءا من حبّ الحشيش».</span>\n  </p>\n  <p id=\"p3220\" paragraph-id=\"3220\" class=\" G\">\n    <span class=\"hadith\">قلت: و ما حبّ الحشيش‌؟</span>\n  </p>\n  <p id=\"p3221\" paragraph-id=\"3221\" class=\" G\">\n    <span class=\"hadith\">قال عليه السّلام: «تسمّيه أهل العراق: نانخواه، فنقّه<span><sup><a class=\"NewFn\" href=\"#footnote1293\" title=\"(4)  يمكن أن يقرأ في النسخة: «نقّيه».\">4</a></sup></span> و دقّه دقّا ناعما، و خذ الجوز فشمّه النار و دقّه معه و اخلط به». </span>\n  </p>\n  <p id=\"p3222\" paragraph-id=\"3222\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1290\" footnote-id=\"1290\">(1) <page number=\"230\" /> قال الهروي: الربو بالفتح، قال الشيخ نجيب الدين: هو علّة حادثة في الرئة خاصّة بها لا يجد صاحبه السكون معها و بدّا من نفس متواتر، و يقال له: البهر أيضا. قلت: قد فرّق بين الربو و البهر و قد ذكر. بحر الجواهر: 183. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1291\" footnote-id=\"1291\">(2)  تقدّم في الحديث 338 في علاج السعال.<br />و هنا بقي شيء و هو أنّ التعبير بالسفّ هناك و بالشرب هنا في رواية المتن و رواية طبّ الأئمّة عليهم السّلام يقتضي أنّه مائع، فلعلّ مائع منه ما هو ملتوت بغيره كما هو مقتضى رواية الكافي، فالسفّ و الاستفاف: أكل الدواء غير ملتوت.<br />الكاشم: دواء يستفّ مع السكر. مجمع البحرين 154:6 «كشم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1292\" footnote-id=\"1292\">(3)  رواه الطبرسي في مكارم الأخلاق: 39/76، الفصل الرابع في الحجامة، عن محسن الوشّاء قال: شكوت إلى أبي عبد الله عليه السّلام، و سيأتي ذيل الرواية مرّة أخرى في الحديث 421 من هذا الجزء، و رواه ابنا بسطام مرّتين بتفاوت يسير في طبّ الأئمّة عليهم السّلام: 2/29، باب عوذة لوجع الخاصرة و دواؤه، و 1/60، باب وجع الخاصرة، عن محمّد بن جعفر البرسي، قال: حدّثنا محمّد بن يحيى الأرمني، عن محمّد بن سنان، عن أبي عبد الله عليه السّلام، قال: «إنّ رسول الله صلّى الله عليه و آله قال: اشربوا الكاشم فإنّه جيّد لوجع الخاصرة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1293\" footnote-id=\"1293\">(4)  يمكن أن يقرأ في النسخة: «نقّيه».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "3D86421C-E184-40B5-A990-451A03B28C9A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

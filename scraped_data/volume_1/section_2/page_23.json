@@ -1,0 +1,83 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 23,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166438,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2184\"><format class=\"hadith\" who=\"14,7\" Id=\"16\" RevayatIndex=\"16\"><format class=\"sanadHadith\">و روى عبد الله بن أحمد بن عامر بن سليمان الطائي<lfootnote noteId=\"351\">3</lfootnote>، عن علي بن محمّد، قال: حدّثنا سليمان بن إبراهيم، حدّثنا <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"7\">موسى بن جعفر</format></format>، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"6\">أبيه</format></format>، عن <page number=\"23\"/><format class=\"G\"><format class=\"maasoom\" maasoomNo=\"5\">جدّه عليهم السّلام</format></format>، قال: «قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: </format>أبناء الستّين أبناء الموت من امّتي»<lfootnote noteId=\"352\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166439,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2185\">[17] </p>"
+        },
+        {
+          "paragraphId": 714166440,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2186\"><format class=\"hadith\" who=\"7\" Id=\"17\" RevayatIndex=\"17\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، قال: حدّثنا السيّاري، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن الماضي عليه السّلام</format></format></format> أنّه قيل له: أليس قد آمنتم وليّكم من الجذام و الجنون و البرص‌؟<lfootnote noteId=\"353\">2</lfootnote> قال عليه السّلام: «بلى، و لكن إذا خالف أمرنا<format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\"/></format> لم يأمن عقوبة الخلاف ممّن آمنه»<lfootnote noteId=\"354\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166441,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2187\">[18] </p>"
+        },
+        {
+          "paragraphId": 714166442,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2188\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\"><format class=\"sanadHadith\">عن محمّد بن أبي الصهبان<lfootnote noteId=\"355\">4</lfootnote>، عن أبي محمّد الأنصاري - قال: و كان خيّرا - قال: حدّثني أبو اليقظان عمّار الأسدي، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: لو أنّ مؤمنا أقسم على الله ألّا يميته ما أماته أبدا، و لكن إذا كان ذلك<lfootnote noteId=\"356\">5</lfootnote><page number=\"24\"/> و حضر أجله<lfootnote noteId=\"357\">1</lfootnote> بعث الله عزّ و جلّ ريحا يقال لها<lfootnote noteId=\"358\">2</lfootnote>: المسخية<lfootnote noteId=\"359\">3</lfootnote>، فتسخي نفسه عن الدنيا حتّى يختار ما عند الله تعالى»<lfootnote noteId=\"360\">4</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168406,
+          "text": "<footnote id=\"352\"><page number=\"23\"/><mnote>(1)</mnote> لم نعثر على نصّه في المصادر المتوفّرة لدينا، و ورد نظيره في بعض المصادر: «لله ملك ينادي في كلّ ليلة، يا أبناء الستّين، عدّوا أنفسكم في الموتى». انظر: إرشاد القلوب للديلمي 40:1، محاسبة النفس للكفعمي: 146. </footnote>"
+        },
+        {
+          "footnoteId": 714168407,
+          "text": "<footnote id=\"353\"><mnote>(2)</mnote> قوله: «و البرص» أثبتناه من تحف العقول. </footnote>"
+        },
+        {
+          "footnoteId": 714168408,
+          "text": "<footnote id=\"354\"><mnote>(3)</mnote> روى الحرّاني في تحف العقول: 483، عن أبي الحسن الهادي عليه السّلام فقال: و قال عليه السّلام يوما:<br/>«إنّ أكل البطّيخ يورث الجذام»، فقيل له: أليس...؟ </footnote>"
+        },
+        {
+          "footnoteId": 714168409,
+          "text": "<footnote id=\"355\"><mnote>(4)</mnote> في النسخة: «الصهبا»، و في الكافي: «محمّد بن عبد الجبّار» و هو محمّد بن عبد الجبّار القمي (كان حيّا قبل 260 ه‍) الذي ذكره البرقي في أصحاب أبي الحسن الثالث عليه السّلام و مرّة في أصحاب أبي محمّد الحسن بن علي عليهما السّلام، و وثّقه الطوسي و ذكره مرّة في أصحاب أبي جعفر الثاني عليه السّلام، و مرّة في أصحاب أبي الحسن الثالث علي بن محمّد عليهما السّلام، و مرّة ثالثة في أصحاب أبي محمّد الحسن بن علي بن محمّد بن علي الرضا عليهم السّلام، و رابعة في من لم يرو عن أحد من الأئمة عليهم السّلام. انظر: رجال البرقي: 59/61، رجال الكشي: 570/603، رجال الطوسي: 5612/378 و 5765/391 و 5889/401 و 6366/448، الفهرست للطوسي أيضا: 631/415. </footnote>"
+        },
+        {
+          "footnoteId": 714168410,
+          "text": "<footnote id=\"356\"><mnote>(5)</mnote> كلمة: «ذلك» أثبتناها من المصدر.</footnote>"
+        }
+      ],
+      "pageValue": "23",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2184\" paragraph-id=\"2184\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo23\">23</span>\n        <span class=\"G\">\n          <span class=\"maasoom\">جدّه عليهم السّلام</span>\n        </span>، قال: «قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: </span>أبناء الستّين أبناء الموت من امّتي»<span><sup><a class=\"NewFn\" href=\"#footnote352\" title=\"(1)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و ورد نظيره في بعض المصادر: «لله ملك ينادي في كلّ ليلة، يا أبناء الستّين، عدّوا أنفسكم في الموتى». انظر: إرشاد القلوب للديلمي 40:1، محاسبة النفس للكفعمي: 146. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2185\" paragraph-id=\"2185\" class=\" G\">[17] </p>\n  <p id=\"p2186\" paragraph-id=\"2186\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، قال: حدّثنا السيّاري، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن الماضي عليه السّلام</span></span></span> أنّه قيل له: أليس قد آمنتم وليّكم من الجذام و الجنون و البرص‌؟<span><sup><a class=\"NewFn\" href=\"#footnote353\" title=\"(2)  قوله: «و البرص» أثبتناه من تحف العقول. \">2</a></sup></span> قال عليه السّلام: «بلى، و لكن إذا خالف أمرنا<span class=\"BD\"><span class=\"maasoom\"></span></span> لم يأمن عقوبة الخلاف ممّن آمنه»<span><sup><a class=\"NewFn\" href=\"#footnote354\" title=\"(3)  روى الحرّاني في تحف العقول: 483، عن أبي الحسن الهادي عليه السّلام فقال: و قال عليه السّلام يوما:«إنّ أكل البطّيخ يورث الجذام»، فقيل له: أليس...؟ \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2187\" paragraph-id=\"2187\" class=\" G\">[18] </p>\n  <p id=\"p2188\" paragraph-id=\"2188\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">عن محمّد بن أبي الصهبان<span><sup><a class=\"NewFn\" href=\"#footnote355\" title=\"(4)  في النسخة: «الصهبا»، و في الكافي: «محمّد بن عبد الجبّار» و هو محمّد بن عبد الجبّار القمي (كان حيّا قبل 260 ه‍) الذي ذكره البرقي في أصحاب أبي الحسن الثالث عليه السّلام و مرّة في أصحاب أبي محمّد الحسن بن علي عليهما السّلام، و وثّقه الطوسي و ذكره مرّة في أصحاب أبي جعفر الثاني عليه السّلام، و مرّة في أصحاب أبي الحسن الثالث علي بن محمّد عليهما السّلام، و مرّة ثالثة في أصحاب أبي محمّد الحسن بن علي بن محمّد بن علي الرضا عليهم السّلام، و رابعة في من لم يرو عن أحد من الأئمة عليهم السّلام. انظر: رجال البرقي: 59/61، رجال الكشي: 570/603، رجال الطوسي: 5612/378 و 5765/391 و 5889/401 و 6366/448، الفهرست للطوسي أيضا: 631/415. \">4</a></sup></span>، عن أبي محمّد الأنصاري - قال: و كان خيّرا - قال: حدّثني أبو اليقظان عمّار الأسدي، عن <span class=\"HQ\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: لو أنّ مؤمنا أقسم على الله ألّا يميته ما أماته أبدا، و لكن إذا كان ذلك<span><sup><a class=\"NewFn\" href=\"#footnote356\" title=\"(5)  كلمة: «ذلك» أثبتناها من المصدر.\">5</a></sup></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote352\" footnote-id=\"352\">(1) <page number=\"23\" /> لم نعثر على نصّه في المصادر المتوفّرة لدينا، و ورد نظيره في بعض المصادر: «لله ملك ينادي في كلّ ليلة، يا أبناء الستّين، عدّوا أنفسكم في الموتى». انظر: إرشاد القلوب للديلمي 40:1، محاسبة النفس للكفعمي: 146. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote353\" footnote-id=\"353\">(2)  قوله: «و البرص» أثبتناه من تحف العقول. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote354\" footnote-id=\"354\">(3)  روى الحرّاني في تحف العقول: 483، عن أبي الحسن الهادي عليه السّلام فقال: و قال عليه السّلام يوما:<br />«إنّ أكل البطّيخ يورث الجذام»، فقيل له: أليس...؟ </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote355\" footnote-id=\"355\">(4)  في النسخة: «الصهبا»، و في الكافي: «محمّد بن عبد الجبّار» و هو محمّد بن عبد الجبّار القمي (كان حيّا قبل 260 ه‍) الذي ذكره البرقي في أصحاب أبي الحسن الثالث عليه السّلام و مرّة في أصحاب أبي محمّد الحسن بن علي عليهما السّلام، و وثّقه الطوسي و ذكره مرّة في أصحاب أبي جعفر الثاني عليه السّلام، و مرّة في أصحاب أبي الحسن الثالث علي بن محمّد عليهما السّلام، و مرّة ثالثة في أصحاب أبي محمّد الحسن بن علي بن محمّد بن علي الرضا عليهم السّلام، و رابعة في من لم يرو عن أحد من الأئمة عليهم السّلام. انظر: رجال البرقي: 59/61، رجال الكشي: 570/603، رجال الطوسي: 5612/378 و 5765/391 و 5889/401 و 6366/448، الفهرست للطوسي أيضا: 631/415. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote356\" footnote-id=\"356\">(5)  كلمة: «ذلك» أثبتناها من المصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "51D628D3-093A-4A75-9461-A5BE4CC73647",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

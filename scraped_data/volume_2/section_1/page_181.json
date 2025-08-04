@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 181,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170449,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1704\"><page number=\"181\"/><heading level=\"2\">[باب] في الدواجن<lfootnote noteId=\"735\">1</lfootnote> و الحمام </heading></p>"
+        },
+        {
+          "paragraphId": 714170450,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1705\">[249] </p>"
+        },
+        {
+          "paragraphId": 714170451,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1706\"><format class=\"hadith\" who=\"14,6\" Id=\"246\" RevayatIndex=\"767\"><format class=\"sanadHadith\">أخبرنا أبو العبّاس بن عقدة، قال حدّثنا جعفر بن محمّد بن مروان، قال: حدّثنا أبو طاهر، عن محمّد بن جعفر بن محمّد<lfootnote noteId=\"736\">2</lfootnote>، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أبيه</format></format>، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"\">آبائه عليهم السّلام</format></format>، قال: «قال صلّى الله عليه و آله<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\"/></format>: </format>اتّخذوا الدواجن في بيوتكم؛ يتشاغل بها الشياطين عن صبيانكم»<lfootnote noteId=\"737\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170452,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1707\">[250] </p>"
+        },
+        {
+          "paragraphId": 714170453,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1708\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\"><format class=\"sanadHadith\">و روى المزني قال:</format> شكا رجل إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format> ما يلقى عياله من أهل الأرض و عبثهم<lfootnote noteId=\"738\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170454,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1709\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">فقال له <format class=\"maasoom\" maasoomNo=\"5\">أبو جعفر عليه السّلام</format>: «و أين أنت عن اتّخاذ الحمام‌؟»</format></p>"
+        },
+        {
+          "paragraphId": 714170455,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1710\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\"><page number=\"182\"/> فقال: جعلت فداك، إنّ عيثهم<lfootnote noteId=\"739\">1</lfootnote> شديد.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171531,
+          "text": "<footnote id=\"734\"><mnote>(5)</mnote> رواه الطبرسي في مكارم الأخلاق: 3/386، للعين، بعد الحديث السابق، فقال: <page number=\"181\"/>و قال عليه السّلام، و الكفعمي في المصباح: 220، عن الصادق عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171532,
+          "text": "<footnote id=\"735\"><mnote>(1)</mnote> جمع الداجن: هي الشاة التي يعلفها الناس في منازلهم، و كذلك الناقة، و الحمام البيوتي. مجمع البحرين 245:6 «دجن». </footnote>"
+        },
+        {
+          "footnoteId": 714171533,
+          "text": "<footnote id=\"736\"><mnote>(2)</mnote> في النسخة: «عن محمّد بن جعفر بن جعفر بن محمّد» و هو من سهو الناسخ. </footnote>"
+        },
+        {
+          "footnoteId": 714171534,
+          "text": "<footnote id=\"737\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 13/129، فيما يتعلق بالمسكن، من كتاب طبّ الأئمّة عليهم السّلام قال رسول الله صلّى الله عليه و آله.<br/>و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 112، فقال: عوذة لمن رماه الجنّ‌، حدّثنا المظفّر بن محمّد بن عبد الرحمن، قال: حدّثنا عبد الرحمن بن أبي نجران، عن سليمان بن جعفر، عن إبراهيم بن أبي يحيى المدني، قال: قال رسول الله صلّى الله عليه و آله: «من رمي أو رمته الجنّ فليأخذ الحجر الذي رمي به، فليرم من حيث رمي، و ليقل: حسبي الله و كفى، و سمع الله لمن دعا، ليس وراء الله منتهى». و قال صلّى الله عليه و آله: «أكثروا من الدواجن في بيوتكم؛ يتشاغل بها الشياطين عن صبيانكم». </footnote>"
+        },
+        {
+          "footnoteId": 714171535,
+          "text": "<footnote id=\"738\"><mnote>(4)</mnote> في النسخة: «و عينهم» و هو من سهو الناسخ و ما ضبطناه هو الأنسب.</footnote>"
+        }
+      ],
+      "pageValue": "181",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1704\" paragraph-id=\"1704\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo181\">181</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الدواجن<span><sup><a class=\"NewFn\" href=\"#footnote735\" title=\"(1)  جمع الداجن: هي الشاة التي يعلفها الناس في منازلهم، و كذلك الناقة، و الحمام البيوتي. مجمع البحرين 245:6 «دجن». \">1</a></sup></span> و الحمام </strong>\n  </p>\n  <p id=\"p1705\" paragraph-id=\"1705\" class=\" G\">[249] </p>\n  <p id=\"p1706\" paragraph-id=\"1706\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أخبرنا أبو العبّاس بن عقدة، قال حدّثنا جعفر بن محمّد بن مروان، قال: حدّثنا أبو طاهر، عن محمّد بن جعفر بن محمّد<span><sup><a class=\"NewFn\" href=\"#footnote736\" title=\"(2)  في النسخة: «عن محمّد بن جعفر بن جعفر بن محمّد» و هو من سهو الناسخ. \">2</a></sup></span>، عن <span class=\"HQ\"><span class=\"maasoom\">أبيه</span></span>، عن <span class=\"G\"><span class=\"maasoom\">آبائه عليهم السّلام</span></span>، قال: «قال صلّى الله عليه و آله<span class=\"Y\"><span class=\"maasoom\"></span></span>: </span>اتّخذوا الدواجن في بيوتكم؛ يتشاغل بها الشياطين عن صبيانكم»<span><sup><a class=\"NewFn\" href=\"#footnote737\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 13/129، فيما يتعلق بالمسكن، من كتاب طبّ الأئمّة عليهم السّلام قال رسول الله صلّى الله عليه و آله.و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 112، فقال: عوذة لمن رماه الجنّ‌، حدّثنا المظفّر بن محمّد بن عبد الرحمن، قال: حدّثنا عبد الرحمن بن أبي نجران، عن سليمان بن جعفر، عن إبراهيم بن أبي يحيى المدني، قال: قال رسول الله صلّى الله عليه و آله: «من رمي أو رمته الجنّ فليأخذ الحجر الذي رمي به، فليرم من حيث رمي، و ليقل: حسبي الله و كفى، و سمع الله لمن دعا، ليس وراء الله منتهى». و قال صلّى الله عليه و آله: «أكثروا من الدواجن في بيوتكم؛ يتشاغل بها الشياطين عن صبيانكم». \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1707\" paragraph-id=\"1707\" class=\" G\">[250] </p>\n  <p id=\"p1708\" paragraph-id=\"1708\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى المزني قال:</span> شكا رجل إلى <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span> ما يلقى عياله من أهل الأرض و عبثهم<span><sup><a class=\"NewFn\" href=\"#footnote738\" title=\"(4)  في النسخة: «و عينهم» و هو من سهو الناسخ و ما ضبطناه هو الأنسب.\">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1709\" paragraph-id=\"1709\" class=\" G\">\n    <span class=\"hadith\">فقال له <span class=\"maasoom\">أبو جعفر عليه السّلام</span>: «و أين أنت عن اتّخاذ الحمام‌؟»</span>\n  </p>\n  <p id=\"p1710\" paragraph-id=\"1710\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote734\" footnote-id=\"734\"><page number=\"181\" />و قال عليه السّلام، و الكفعمي في المصباح: 220، عن الصادق عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote735\" footnote-id=\"735\">(1)  جمع الداجن: هي الشاة التي يعلفها الناس في منازلهم، و كذلك الناقة، و الحمام البيوتي. مجمع البحرين 245:6 «دجن». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote736\" footnote-id=\"736\">(2)  في النسخة: «عن محمّد بن جعفر بن جعفر بن محمّد» و هو من سهو الناسخ. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote737\" footnote-id=\"737\">(3)  رواه الطبرسي في مكارم الأخلاق: 13/129، فيما يتعلق بالمسكن، من كتاب طبّ الأئمّة عليهم السّلام قال رسول الله صلّى الله عليه و آله.<br />و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 112، فقال: عوذة لمن رماه الجنّ‌، حدّثنا المظفّر بن محمّد بن عبد الرحمن، قال: حدّثنا عبد الرحمن بن أبي نجران، عن سليمان بن جعفر، عن إبراهيم بن أبي يحيى المدني، قال: قال رسول الله صلّى الله عليه و آله: «من رمي أو رمته الجنّ فليأخذ الحجر الذي رمي به، فليرم من حيث رمي، و ليقل: حسبي الله و كفى، و سمع الله لمن دعا، ليس وراء الله منتهى». و قال صلّى الله عليه و آله: «أكثروا من الدواجن في بيوتكم؛ يتشاغل بها الشياطين عن صبيانكم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote738\" footnote-id=\"738\">(4)  في النسخة: «و عينهم» و هو من سهو الناسخ و ما ضبطناه هو الأنسب.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0292D2D9-0982-45ED-A964-5109BC8B9AA2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

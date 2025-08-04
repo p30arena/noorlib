@@ -1,0 +1,93 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 185,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170475,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1730\"><page number=\"185\"/>[254] </p>"
+        },
+        {
+          "paragraphId": 714170476,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1731\"><format class=\"hadith\" who=\"6\" Id=\"251\" RevayatIndex=\"772\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«ليس من بيت نبيّ إلّا و فيه حمام؛ لأنّ سفهاء الجنّ يعبثون بصبيان البيت، فإذا كان فيه حمام عبثوا بالحمام و تركوا الناس»<lfootnote noteId=\"754\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170477,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1732\">[255] </p>"
+        },
+        {
+          "paragraphId": 714170478,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1733\"><format class=\"hadith\" who=\"5\" Id=\"252\" RevayatIndex=\"773\"><format class=\"sanadHadith\">و روى الحسن بن سهل، قال: حدّثني الحسن بن علي بن فضّال، عن إبراهيم الجلّاب، عن عمرو<lfootnote noteId=\"755\">2</lfootnote> عن أبي المقدام، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format> قال: </format>«إنّ الله تعالى خلق الحمام من فضل الطينة التي خلق منها <format class=\"E\" Number=\"18\">آدم عليه السّلام</format>، فلذلك شيعتنا يحبّونها»<lfootnote noteId=\"756\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170479,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1734\">[256] </p>"
+        },
+        {
+          "paragraphId": 714170480,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1735\"><format class=\"hadith\" who=\"5\" Id=\"253\" RevayatIndex=\"774\"><format class=\"sanadHadith\">روى علي بن عبد الله العربجاني<lfootnote noteId=\"757\">4</lfootnote>، عن بعض أصحابنا، عن موسى بن عمران، عن عبد الله بن سنان<lfootnote noteId=\"758\">5</lfootnote>، عن أبي حمزة الثمالي، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي <page number=\"186\"/> جعفر عليه السّلام</format></format>: </format>«من أحبّنا <format class=\"maasoom\" maasoomNo=\"40\">أهل البيت</format> أحبّ الحمام»<lfootnote noteId=\"759\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171550,
+          "text": "<footnote id=\"753\"><mnote>(4)</mnote> رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 96/119 - و عنه في الخصال: 617، و تحف العقول: 107 - و البرقي في المحاسن 18/643:2، باب <page number=\"185\"/>الغنم، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن محمّد بن مسلم، عن أبي عبد الله عليه السّلام قال: قال أمير المؤمنين عليه السّلام، و قريب منه في المحاسن 3/640:2-6 و 11/641 و ح 13-15، و 17/643، باب الغنم، و الكافي 4/544:6-6 و 9، باب الغنم، و من لا يحضره الفقيه 4226/349:3، و مكارم الأخلاق: 129. </footnote>"
+        },
+        {
+          "footnoteId": 714171551,
+          "text": "<footnote id=\"754\"><mnote>(1)</mnote> رواه الطبرسي في مكارم الأخلاق: 25/131، فيما يتعلّق بالمسكن، بعد الحديث السابق، عن أبي عبد الله عليه السّلام، و قريب منه في قرب الإسناد: 314/93، و المحاسن 14/609:2، باب البنيان، و الكافي 5/529:6 و 5/546 و 6 و 8 و 11، و من لا يحضره الفقيه 4228/350:3 و 4229، و مكارم الأخلاق: 128. </footnote>"
+        },
+        {
+          "footnoteId": 714171552,
+          "text": "<footnote id=\"755\"><mnote>(2)</mnote> في النسخة: «عن حمزة» و لعلّه تصحيف؛ إذ أن عمرو بن أبي المقدام يروي عن أبيه، و لم نعثر على راو باسم حمزة يروي عن أبي المقدام. </footnote>"
+        },
+        {
+          "footnoteId": 714171553,
+          "text": "<footnote id=\"756\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714171554,
+          "text": "<footnote id=\"757\"><mnote>(4)</mnote> كذا في النسخة، و يمكن قراءة الكلمة بنحو آخر. </footnote>"
+        },
+        {
+          "footnoteId": 714171555,
+          "text": "<footnote id=\"758\"><mnote>(5)</mnote> في النسخة: «عبد السّلام بن سلمان» و لعلّه «عبد الملك بن أبي سليمان» لروايته عن أبي<page number=\"186\"/>حمزة الثمالي، و الأقرب ما أثبتناه؛ لكثرة روايته عنه. </footnote>"
+        }
+      ],
+      "pageValue": "185",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1730\" paragraph-id=\"1730\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo185\">185</span>[254] </p>\n  <p id=\"p1731\" paragraph-id=\"1731\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«ليس من بيت نبيّ إلّا و فيه حمام؛ لأنّ سفهاء الجنّ يعبثون بصبيان البيت، فإذا كان فيه حمام عبثوا بالحمام و تركوا الناس»<span><sup><a class=\"NewFn\" href=\"#footnote754\" title=\"(1)  رواه الطبرسي في مكارم الأخلاق: 25/131، فيما يتعلّق بالمسكن، بعد الحديث السابق، عن أبي عبد الله عليه السّلام، و قريب منه في قرب الإسناد: 314/93، و المحاسن 14/609:2، باب البنيان، و الكافي 5/529:6 و 5/546 و 6 و 8 و 11، و من لا يحضره الفقيه 4228/350:3 و 4229، و مكارم الأخلاق: 128. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1732\" paragraph-id=\"1732\" class=\" G\">[255] </p>\n  <p id=\"p1733\" paragraph-id=\"1733\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى الحسن بن سهل، قال: حدّثني الحسن بن علي بن فضّال، عن إبراهيم الجلّاب، عن عمرو<span><sup><a class=\"NewFn\" href=\"#footnote755\" title=\"(2)  في النسخة: «عن حمزة» و لعلّه تصحيف؛ إذ أن عمرو بن أبي المقدام يروي عن أبيه، و لم نعثر على راو باسم حمزة يروي عن أبي المقدام. \">2</a></sup></span> عن أبي المقدام، عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span> قال: </span>«إنّ الله تعالى خلق الحمام من فضل الطينة التي خلق منها <span class=\"E\">آدم عليه السّلام</span>، فلذلك شيعتنا يحبّونها»<span><sup><a class=\"NewFn\" href=\"#footnote756\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1734\" paragraph-id=\"1734\" class=\" G\">[256] </p>\n  <p id=\"p1735\" paragraph-id=\"1735\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى علي بن عبد الله العربجاني<span><sup><a class=\"NewFn\" href=\"#footnote757\" title=\"(4)  كذا في النسخة، و يمكن قراءة الكلمة بنحو آخر. \">4</a></sup></span>، عن بعض أصحابنا، عن موسى بن عمران، عن عبد الله بن سنان<span><sup><a class=\"NewFn\" href=\"#footnote758\" title=\"(5)  في النسخة: «عبد السّلام بن سلمان» و لعلّه «عبد الملك بن أبي سليمان» لروايته عن أبي\">5</a></sup></span>، عن أبي حمزة الثمالي، عن <span class=\"Y\"><span class=\"maasoom\">أبي </span></span></span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote753\" footnote-id=\"753\"><page number=\"185\" />الغنم، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن محمّد بن مسلم، عن أبي عبد الله عليه السّلام قال: قال أمير المؤمنين عليه السّلام، و قريب منه في المحاسن 3/640:2-6 و 11/641 و ح 13-15، و 17/643، باب الغنم، و الكافي 4/544:6-6 و 9، باب الغنم، و من لا يحضره الفقيه 4226/349:3، و مكارم الأخلاق: 129. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote754\" footnote-id=\"754\">(1)  رواه الطبرسي في مكارم الأخلاق: 25/131، فيما يتعلّق بالمسكن، بعد الحديث السابق، عن أبي عبد الله عليه السّلام، و قريب منه في قرب الإسناد: 314/93، و المحاسن 14/609:2، باب البنيان، و الكافي 5/529:6 و 5/546 و 6 و 8 و 11، و من لا يحضره الفقيه 4228/350:3 و 4229، و مكارم الأخلاق: 128. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote755\" footnote-id=\"755\">(2)  في النسخة: «عن حمزة» و لعلّه تصحيف؛ إذ أن عمرو بن أبي المقدام يروي عن أبيه، و لم نعثر على راو باسم حمزة يروي عن أبي المقدام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote756\" footnote-id=\"756\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote757\" footnote-id=\"757\">(4)  كذا في النسخة، و يمكن قراءة الكلمة بنحو آخر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote758\" footnote-id=\"758\">(5)  في النسخة: «عبد السّلام بن سلمان» و لعلّه «عبد الملك بن أبي سليمان» لروايته عن أبي</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "87181F90-5D1F-4507-85C7-FC687229B133",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

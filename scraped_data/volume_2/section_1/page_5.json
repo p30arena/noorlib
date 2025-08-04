@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 5,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169703,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"958\"><page number=\"2\"/><img src=\"BK126314G002S1P2\" alt=\"\" imgtype=\"Scan\"/><page number=\"3\"/><img src=\"BK126314G002S1P3\" alt=\"\" imgtype=\"Scan\"/><page number=\"4\"/><img src=\"BK126314G002S1P4\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"12\"/><page number=\"5\"/><format class=\"q\"><format class=\"a\">بسم الله الرّحمن الرّحيم و به أستعين</format></format></p>"
+        },
+        {
+          "paragraphId": 714169704,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"959\"><heading level=\"2\">[بقيّة باب في الجذام و دوائه]<lfootnote noteId=\"1\">1</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714169705,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"960\">[1] </p>"
+        },
+        {
+          "paragraphId": 714169706,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"961\"><format class=\"hadith\" who=\"6\" Id=\"1\" RevayatIndex=\"522\"><format class=\"sanadHadith\">حدّثنا أحمد بن أبي عبد الله، عن الحسن بن علي بن أبي عثمان<lfootnote noteId=\"2\">2</lfootnote> يرفعه إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله جعفر بن محمّد الصادق عليه السّلام</format></format> قال: </format>«إنّ الله تعالى رفع عن اليهود الجذام بأكلهم السلق و قلعهم العروق»<lfootnote noteId=\"3\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169707,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"962\">[2] </p>"
+        },
+        {
+          "paragraphId": 714169708,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"963\"><format class=\"hadith\" who=\"1\" Id=\"2\" RevayatIndex=\"523\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين علي بن أبي طالب - صلوات الله عليه </format></format>- أنّه قال في وصيّته: </format>«و لا يدلك الرجل رجله بالخزف فإنّه يورث الجذام»<lfootnote noteId=\"4\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169709,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"964\"><page number=\"6\"/>[3] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170785,
+          "text": "<footnote id=\"1\"><page number=\"5\"/><mnote>(1)</mnote> ما بين المعقوفتين أثبتناه للتوضيح. </footnote>"
+        },
+        {
+          "footnoteId": 714170786,
+          "text": "<footnote id=\"2\"><mnote>(2)</mnote> في النسخة: «عن الحسين...» و هو تصحيف، و الصحيح ما أثبتناه، و هو من أصحاب الإمام الجواد و الهادي عليهما السّلام و هو الملقّب بالسجّادة كما في مصادر الرجال. انظر: اختيار معرفة الرجال 1082/841:2، رجال النجاشي: 141/61، الفهرست للطوسي: 165/124. </footnote>"
+        },
+        {
+          "footnoteId": 714170787,
+          "text": "<footnote id=\"3\"><mnote>(3)</mnote> رواه البرقي في المحاسن 1/519:2، باب السلق - و عنه الكليني في الكافي 1/369:6، باب السلق، فقال: عدّة من أصحابنا، عن أحمد بن أبي عبد الله - عن الحسن بن علي بن أبي عثمان سجّادة رفعه إلى أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 3/181، باب السلق، عن الصادق عليه السّلام، و انظر الحديث 180 من الجزء الأوّل.<br/>و من العامّة من نقله بالمضمون، فلاحظ: سنن سعيد بن منصور 1683/386:1، تفسير الصنعاني 220:2، تفسير الطبري 3:4، تفسير ابن أبي حاتم 1407:5. </footnote>"
+        },
+        {
+          "footnoteId": 714170788,
+          "text": "<footnote id=\"4\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و سيأتي نحوه في الحديث 94 و 109. انظر <page number=\"6\"/>مصادرهما و البيان فيهما. </footnote>"
+        }
+      ],
+      "pageValue": "5",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p958\" paragraph-id=\"958\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo5\">5</span>\n    <span class=\"q\">\n      <span class=\"a\">بسم الله الرّحمن الرّحيم و به أستعين</span>\n    </span>\n  </p>\n  <p id=\"p959\" paragraph-id=\"959\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[بقيّة باب في الجذام و دوائه]<span><sup><a class=\"NewFn\" href=\"#footnote1\" title=\"(1)  ما بين المعقوفتين أثبتناه للتوضيح. \">1</a></sup></span></strong>\n  </p>\n  <p id=\"p960\" paragraph-id=\"960\" class=\" G\">[1] </p>\n  <p id=\"p961\" paragraph-id=\"961\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا أحمد بن أبي عبد الله، عن الحسن بن علي بن أبي عثمان<span><sup><a class=\"NewFn\" href=\"#footnote2\" title=\"(2)  في النسخة: «عن الحسين...» و هو تصحيف، و الصحيح ما أثبتناه، و هو من أصحاب الإمام الجواد و الهادي عليهما السّلام و هو الملقّب بالسجّادة كما في مصادر الرجال. انظر: اختيار معرفة الرجال 1082/841:2، رجال النجاشي: 141/61، الفهرست للطوسي: 165/124. \">2</a></sup></span> يرفعه إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله جعفر بن محمّد الصادق عليه السّلام</span></span> قال: </span>«إنّ الله تعالى رفع عن اليهود الجذام بأكلهم السلق و قلعهم العروق»<span><sup><a class=\"NewFn\" href=\"#footnote3\" title=\"(3)  رواه البرقي في المحاسن 1/519:2، باب السلق - و عنه الكليني في الكافي 1/369:6، باب السلق، فقال: عدّة من أصحابنا، عن أحمد بن أبي عبد الله - عن الحسن بن علي بن أبي عثمان سجّادة رفعه إلى أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 3/181، باب السلق، عن الصادق عليه السّلام، و انظر الحديث 180 من الجزء الأوّل.و من العامّة من نقله بالمضمون، فلاحظ: سنن سعيد بن منصور 1683/386:1، تفسير الصنعاني 220:2، تفسير الطبري 3:4، تفسير ابن أبي حاتم 1407:5. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p962\" paragraph-id=\"962\" class=\" G\">[2] </p>\n  <p id=\"p963\" paragraph-id=\"963\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين علي بن أبي طالب - صلوات الله عليه </span></span>- أنّه قال في وصيّته: </span>«و لا يدلك الرجل رجله بالخزف فإنّه يورث الجذام»<span><sup><a class=\"NewFn\" href=\"#footnote4\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و سيأتي نحوه في الحديث 94 و 109. انظر \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p964\" paragraph-id=\"964\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1\" footnote-id=\"1\">(1) <page number=\"5\" /> ما بين المعقوفتين أثبتناه للتوضيح. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote2\" footnote-id=\"2\">(2)  في النسخة: «عن الحسين...» و هو تصحيف، و الصحيح ما أثبتناه، و هو من أصحاب الإمام الجواد و الهادي عليهما السّلام و هو الملقّب بالسجّادة كما في مصادر الرجال. انظر: اختيار معرفة الرجال 1082/841:2، رجال النجاشي: 141/61، الفهرست للطوسي: 165/124. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote3\" footnote-id=\"3\">(3)  رواه البرقي في المحاسن 1/519:2، باب السلق - و عنه الكليني في الكافي 1/369:6، باب السلق، فقال: عدّة من أصحابنا، عن أحمد بن أبي عبد الله - عن الحسن بن علي بن أبي عثمان سجّادة رفعه إلى أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 3/181، باب السلق، عن الصادق عليه السّلام، و انظر الحديث 180 من الجزء الأوّل.<br />و من العامّة من نقله بالمضمون، فلاحظ: سنن سعيد بن منصور 1683/386:1، تفسير الصنعاني 220:2، تفسير الطبري 3:4، تفسير ابن أبي حاتم 1407:5. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote4\" footnote-id=\"4\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و سيأتي نحوه في الحديث 94 و 109. انظر </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C3649536-7D62-4732-AE07-B50516F93419",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

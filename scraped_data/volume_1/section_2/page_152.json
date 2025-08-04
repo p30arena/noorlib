@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 152,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167202,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2799\"><format class=\"hadith\" who=\"6\" Id=\"230\" RevayatIndex=\"230\"><format class=\"sanadHadith\">محمّد بن أحمد الخزّاز، و أحمد بن محمّد بن عيسى، عن الحسن بن محبوب، عن رجل دخل على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> و عينه وجعة، فقال له: </format>«أين أنت عن هذه الأجزاء الثلاثة: الصبر و المرّ و الكافور؟<lfootnote noteId=\"936\">5</lfootnote> ففعل الرجل ذلك، <page number=\"152\"/> فذهب عنه»<lfootnote noteId=\"937\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167203,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2800\">[233] </p>"
+        },
+        {
+          "paragraphId": 714167204,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2801\"><format class=\"hadith\" who=\"6,5\" Id=\"231\" RevayatIndex=\"231\"><format class=\"sanadHadith\">روى السيّاري من كتاب أبي محمّد عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6,5\">الصادقين عليهم السّلام</format></format>،</format></format></p>"
+        },
+        {
+          "paragraphId": 714167205,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2802\"><format class=\"hadith\" who=\"6,5\" Id=\"231\" RevayatIndex=\"231\"><format class=\"sanadHadith\">و حدّثني به غير واحد من أصحابنا: </format>«يؤخذ هليلجة صفراء و سبع حبّات فلفل، يسحقها و يكتحل بها في المرزم<lfootnote noteId=\"938\">2</lfootnote>»<lfootnote noteId=\"939\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167206,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2803\"><heading level=\"2\">[باب] في البياض في العين </heading></p>"
+        },
+        {
+          "paragraphId": 714167207,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2804\">[234] </p>"
+        },
+        {
+          "paragraphId": 714167208,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2805\"><format class=\"hadith\" who=\"17\" Id=\"232\" RevayatIndex=\"232\"><format class=\"sanadHadith\">روى ابن الخصيب الأصبهاني<lfootnote noteId=\"940\">4</lfootnote>، قال:</format> كانت عيني اليمنى<lfootnote noteId=\"941\">5</lfootnote> قد <page number=\"153\"/> ابيضّت و لم أكن أبصر بها شيئا، فرأيت <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين صلوات الله عليه</format></format> في المنام فقلت له: يا سيّدي، عيني قد صارت إلى ما ترى.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168891,
+          "text": "<footnote id=\"936\"><mnote>(5)</mnote> الصبر، بكسر الباء، عصارة شجرة مرّ، ورقها كقرب السكاكين، طوال غلاظ، في خضرتها غبرة و كمدة مقشعرّة المنظر، يخرج من وسطها ساق عليه نور أصفر تمه الريح كريهة. لسان العرب 442:3 «صبر»، و في حديث الدنيا «حلوها صبر» الصبر بكسر الباء في المشهور: الدواء المرّ و سكون الباء للتخفيف لغة نادرة، و لعلّ منه الحديث<page number=\"152\"/>«يكتحل المحرم إن شاء بصبر». مجمع البحرين 360:3 «صبر».<br/>المرّ: ضد الحلو، و صمغ شجر مشوّك كالصبر يكثر في المغرب، سمّي به لمرارته. كتاب الماء 1187:3 «مرر». </footnote>"
+        },
+        {
+          "footnoteId": 714168892,
+          "text": "<footnote id=\"937\"><mnote>(1)</mnote> روى الكليني نحوه في الكافي 580/383:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن ابن محبوب، عن رجل، قال: دخل رجل على أبي عبد الله عليه السّلام و هو يشتكي عينيه، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 83، عن الإمام الصادق عليه السّلام، و في الكافي ح 581 عنه، عن أحمد، عن ابن محبوب، عن جميل بن صالح، قال: قلت لأبي عبد الله عليه السّلام: إنّ لنا فتاة كانت ترى الكوكب مثل الجرّة، قال: «نعم، و تراه مثل الحبّ‌» قلت: إنّ بصرها ضعف، فقال: «اكحلها بالصبر و المرّ و الكافور أجزاء سواء» فكحلناها به فنفعها. </footnote>"
+        },
+        {
+          "footnoteId": 714168893,
+          "text": "<footnote id=\"938\"><mnote>(2)</mnote> المرزم من الغيث أو السحاب: الذي لا ينقطع رعده. لسان العرب 238:12 «رزم». أقول:<br/>كأنّه أراد به أن يكتحل في فصل الشتاء. و المرزم: كوكب أحمر أسفل من زحل الجوزاء يدعى مرزم الجوزاء. غريب الحديث للحربي 53:1. أقول: كأنّه أراد به أن يكتحل في الشهر الذي يكون فيه القمر في الجوزاء. </footnote>"
+        },
+        {
+          "footnoteId": 714168894,
+          "text": "<footnote id=\"939\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و مرّ في الأحاديث السابقة ما يشابهه في بعض فقراته. </footnote>"
+        },
+        {
+          "footnoteId": 714168895,
+          "text": "<footnote id=\"940\"><mnote>(4)</mnote> لم نعثر على أثر له، و في مكارم الأخلاق: «عن أبي الحصين» بدل «روى ابن الخطيب الإصبهاني». </footnote>"
+        },
+        {
+          "footnoteId": 714168896,
+          "text": "<footnote id=\"941\"><mnote>(5)</mnote> في النسخة: «اليمين» و ما أثبتناه هو الصواب.</footnote>"
+        }
+      ],
+      "pageValue": "152",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2799\" paragraph-id=\"2799\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo152\">152</span> فذهب عنه»<span><sup><a class=\"NewFn\" href=\"#footnote937\" title=\"(1)  روى الكليني نحوه في الكافي 580/383:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن ابن محبوب، عن رجل، قال: دخل رجل على أبي عبد الله عليه السّلام و هو يشتكي عينيه، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 83، عن الإمام الصادق عليه السّلام، و في الكافي ح 581 عنه، عن أحمد، عن ابن محبوب، عن جميل بن صالح، قال: قلت لأبي عبد الله عليه السّلام: إنّ لنا فتاة كانت ترى الكوكب مثل الجرّة، قال: «نعم، و تراه مثل الحبّ‌» قلت: إنّ بصرها ضعف، فقال: «اكحلها بالصبر و المرّ و الكافور أجزاء سواء» فكحلناها به فنفعها. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2800\" paragraph-id=\"2800\" class=\" G\">[233] </p>\n  <p id=\"p2801\" paragraph-id=\"2801\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى السيّاري من كتاب أبي محمّد عن <span class=\"Y\"><span class=\"maasoom\">الصادقين عليهم السّلام</span></span>،</span>\n    </span>\n  </p>\n  <p id=\"p2802\" paragraph-id=\"2802\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و حدّثني به غير واحد من أصحابنا: </span>«يؤخذ هليلجة صفراء و سبع حبّات فلفل، يسحقها و يكتحل بها في المرزم<span><sup><a class=\"NewFn\" href=\"#footnote938\" title=\"(2)  المرزم من الغيث أو السحاب: الذي لا ينقطع رعده. لسان العرب 238:12 «رزم». أقول:كأنّه أراد به أن يكتحل في فصل الشتاء. و المرزم: كوكب أحمر أسفل من زحل الجوزاء يدعى مرزم الجوزاء. غريب الحديث للحربي 53:1. أقول: كأنّه أراد به أن يكتحل في الشهر الذي يكون فيه القمر في الجوزاء. \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote939\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا، و مرّ في الأحاديث السابقة ما يشابهه في بعض فقراته. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2803\" paragraph-id=\"2803\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في البياض في العين </strong>\n  </p>\n  <p id=\"p2804\" paragraph-id=\"2804\" class=\" G\">[234] </p>\n  <p id=\"p2805\" paragraph-id=\"2805\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى ابن الخصيب الأصبهاني<span><sup><a class=\"NewFn\" href=\"#footnote940\" title=\"(4)  لم نعثر على أثر له، و في مكارم الأخلاق: «عن أبي الحصين» بدل «روى ابن الخطيب الإصبهاني». \">4</a></sup></span>، قال:</span> كانت عيني اليمنى<span><sup><a class=\"NewFn\" href=\"#footnote941\" title=\"(5)  في النسخة: «اليمين» و ما أثبتناه هو الصواب.\">5</a></sup></span> قد </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote936\" footnote-id=\"936\"><page number=\"152\" />«يكتحل المحرم إن شاء بصبر». مجمع البحرين 360:3 «صبر».<br />المرّ: ضد الحلو، و صمغ شجر مشوّك كالصبر يكثر في المغرب، سمّي به لمرارته. كتاب الماء 1187:3 «مرر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote937\" footnote-id=\"937\">(1)  روى الكليني نحوه في الكافي 580/383:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن ابن محبوب، عن رجل، قال: دخل رجل على أبي عبد الله عليه السّلام و هو يشتكي عينيه، و ابنا بسطام في طبّ الأئمّة عليهم السّلام: 83، عن الإمام الصادق عليه السّلام، و في الكافي ح 581 عنه، عن أحمد، عن ابن محبوب، عن جميل بن صالح، قال: قلت لأبي عبد الله عليه السّلام: إنّ لنا فتاة كانت ترى الكوكب مثل الجرّة، قال: «نعم، و تراه مثل الحبّ‌» قلت: إنّ بصرها ضعف، فقال: «اكحلها بالصبر و المرّ و الكافور أجزاء سواء» فكحلناها به فنفعها. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote938\" footnote-id=\"938\">(2)  المرزم من الغيث أو السحاب: الذي لا ينقطع رعده. لسان العرب 238:12 «رزم». أقول:<br />كأنّه أراد به أن يكتحل في فصل الشتاء. و المرزم: كوكب أحمر أسفل من زحل الجوزاء يدعى مرزم الجوزاء. غريب الحديث للحربي 53:1. أقول: كأنّه أراد به أن يكتحل في الشهر الذي يكون فيه القمر في الجوزاء. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote939\" footnote-id=\"939\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا، و مرّ في الأحاديث السابقة ما يشابهه في بعض فقراته. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote940\" footnote-id=\"940\">(4)  لم نعثر على أثر له، و في مكارم الأخلاق: «عن أبي الحصين» بدل «روى ابن الخطيب الإصبهاني». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote941\" footnote-id=\"941\">(5)  في النسخة: «اليمين» و ما أثبتناه هو الصواب.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "72072118-44AA-4BF3-AAC1-F72AB535B3B7",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

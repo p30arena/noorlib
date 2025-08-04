@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 212,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167376,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3122\"><format class=\"hadith\" who=\"6\" Id=\"338\" RevayatIndex=\"338\"><format class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن بن فضّال، عن محمّد بن الحسين، عن أحمد بن محمّد بن أبي نصر، عن يحيى بن مساور، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format> يقول: </format>«يؤخذ<lfootnote noteId=\"1207\">6</lfootnote> للسعال ثلاث أواق<lfootnote noteId=\"1208\">7</lfootnote> لبن ضأن و تغليه حتّى يذهب ثلثه أو نصفه، و تجعل فيه سكّرا من مقنّد<lfootnote noteId=\"1209\">8</lfootnote>، و تجعل فيه شيئا من الكتيرا، <page number=\"212\"/> ثمّ اشربه على الريق»<lfootnote noteId=\"1210\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167377,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3123\">[341] </p>"
+        },
+        {
+          "paragraphId": 714167378,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3124\"><format class=\"hadith\" who=\"16\" Id=\"339\" RevayatIndex=\"339\"><format class=\"sanadHadith\">و روي: </format>«تأخذ عاقر قرحا<lfootnote noteId=\"1211\">2</lfootnote> عذبة يمانية وزن درهم، و وزن دانق سماق، و وزن دانق و نصف ورد أحمر، و وزن درهمين سكّر طبرزد، يدقّ و ينخل بحريرة صفيقة<lfootnote noteId=\"1212\">3</lfootnote> و يستفّ منها شيئا يسيرا»<lfootnote noteId=\"1213\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167379,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3125\">[342] </p>"
+        },
+        {
+          "paragraphId": 714167380,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3126\"><format class=\"hadith\" who=\"8|7|10\" Id=\"340\" RevayatIndex=\"340\"><format class=\"sanadHadith\">و روى محمّد بن موسى، عن جعفر بن محمّد الدينوري، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8|7|10\">أبي الحسن عليه السّلام</format></format> للسعال، قال: </format>«كل الفانيد<lfootnote noteId=\"1214\">5</lfootnote> إذا آويت إلى فراشك و بالغداة، و انقع السكّر الأحمر و اشربه فإنّه جيّد لوجع الجوف»<lfootnote noteId=\"1215\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167381,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3127\"><heading level=\"2\">[باب] القيء </heading></p>"
+        },
+        {
+          "paragraphId": 714167382,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3128\">[343] </p>"
+        },
+        {
+          "paragraphId": 714167383,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3129\"><format class=\"hadith\" who=\"6\" Id=\"341\" RevayatIndex=\"341\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن <page number=\"213\"/> عيسى، عن عبد الرحمن بن حمّاد و عن محمّد بن إسحاق<lfootnote noteId=\"1216\">1</lfootnote>، عن أبيه، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«القيء من الدواء الأكبر»<lfootnote noteId=\"1217\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169253,
+          "text": "<footnote id=\"1209\"><mnote>(8)</mnote> القند و القندة و القنديد كلّه: عصارة قصب السكّر إذا جمد، و منه يتّخذ الفانيذ. و سويق<page number=\"212\"/>مقنود و مقنّد: معمول بالقنديد. لسان العرب 368:3 «قند». </footnote>"
+        },
+        {
+          "footnoteId": 714169254,
+          "text": "<footnote id=\"1210\"><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169255,
+          "text": "<footnote id=\"1211\"><mnote>(2)</mnote> تقدّم توضيح معناه في حديث 306. </footnote>"
+        },
+        {
+          "footnoteId": 714169256,
+          "text": "<footnote id=\"1212\"><mnote>(3)</mnote> ثوب صفيق أو سفيق: متين بيّن الصفاقة، و قد صفق صفاقة: كثف نسجه، و أصفقه الحائك... جيّد النسج. لسان العرب 204:10 «صفق». </footnote>"
+        },
+        {
+          "footnoteId": 714169257,
+          "text": "<footnote id=\"1213\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169258,
+          "text": "<footnote id=\"1214\"><mnote>(5)</mnote> الفانيد، الفانيذ: ضرب من الحلواء معروف فارسيّ معرّب. لسان العرب 503:3 «فنذ». پانيد أو بانيد و أفضله الشحري، نسبة إلى الشحر يوضع فيها شيء من القند و يطلق أيضا على ماء قصب السكّر المصفّى لثلاث مرّات بعد الطبخ، و أفضله ما يصنع من السكّر الأبيض، طبعه حارّ و يابس و في الثانية، مليّن للبطن، دافع للسعال، و محسّن للصدر، و يقال له: كعب الغدارا. كتاب الماء 1016:3. </footnote>"
+        },
+        {
+          "footnoteId": 714169259,
+          "text": "<footnote id=\"1215\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا.</footnote>"
+        }
+      ],
+      "pageValue": "212",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3122\" paragraph-id=\"3122\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo212\">212</span> ثمّ اشربه على الريق»<span><sup><a class=\"NewFn\" href=\"#footnote1210\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p3123\" paragraph-id=\"3123\" class=\" G\">[341] </p>\n  <p id=\"p3124\" paragraph-id=\"3124\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي: </span>«تأخذ عاقر قرحا<span><sup><a class=\"NewFn\" href=\"#footnote1211\" title=\"(2)  تقدّم توضيح معناه في حديث 306. \">2</a></sup></span> عذبة يمانية وزن درهم، و وزن دانق سماق، و وزن دانق و نصف ورد أحمر، و وزن درهمين سكّر طبرزد، يدقّ و ينخل بحريرة صفيقة<span><sup><a class=\"NewFn\" href=\"#footnote1212\" title=\"(3)  ثوب صفيق أو سفيق: متين بيّن الصفاقة، و قد صفق صفاقة: كثف نسجه، و أصفقه الحائك... جيّد النسج. لسان العرب 204:10 «صفق». \">3</a></sup></span> و يستفّ منها شيئا يسيرا»<span><sup><a class=\"NewFn\" href=\"#footnote1213\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3125\" paragraph-id=\"3125\" class=\" G\">[342] </p>\n  <p id=\"p3126\" paragraph-id=\"3126\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى محمّد بن موسى، عن جعفر بن محمّد الدينوري، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> للسعال، قال: </span>«كل الفانيد<span><sup><a class=\"NewFn\" href=\"#footnote1214\" title=\"(5)  الفانيد، الفانيذ: ضرب من الحلواء معروف فارسيّ معرّب. لسان العرب 503:3 «فنذ». پانيد أو بانيد و أفضله الشحري، نسبة إلى الشحر يوضع فيها شيء من القند و يطلق أيضا على ماء قصب السكّر المصفّى لثلاث مرّات بعد الطبخ، و أفضله ما يصنع من السكّر الأبيض، طبعه حارّ و يابس و في الثانية، مليّن للبطن، دافع للسعال، و محسّن للصدر، و يقال له: كعب الغدارا. كتاب الماء 1016:3. \">5</a></sup></span> إذا آويت إلى فراشك و بالغداة، و انقع السكّر الأحمر و اشربه فإنّه جيّد لوجع الجوف»<span><sup><a class=\"NewFn\" href=\"#footnote1215\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا.\">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3127\" paragraph-id=\"3127\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] القيء </strong>\n  </p>\n  <p id=\"p3128\" paragraph-id=\"3128\" class=\" G\">[343] </p>\n  <p id=\"p3129\" paragraph-id=\"3129\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1209\" footnote-id=\"1209\"><page number=\"212\" />مقنود و مقنّد: معمول بالقنديد. لسان العرب 368:3 «قند». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1210\" footnote-id=\"1210\">(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1211\" footnote-id=\"1211\">(2)  تقدّم توضيح معناه في حديث 306. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1212\" footnote-id=\"1212\">(3)  ثوب صفيق أو سفيق: متين بيّن الصفاقة، و قد صفق صفاقة: كثف نسجه، و أصفقه الحائك... جيّد النسج. لسان العرب 204:10 «صفق». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1213\" footnote-id=\"1213\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1214\" footnote-id=\"1214\">(5)  الفانيد، الفانيذ: ضرب من الحلواء معروف فارسيّ معرّب. لسان العرب 503:3 «فنذ». پانيد أو بانيد و أفضله الشحري، نسبة إلى الشحر يوضع فيها شيء من القند و يطلق أيضا على ماء قصب السكّر المصفّى لثلاث مرّات بعد الطبخ، و أفضله ما يصنع من السكّر الأبيض، طبعه حارّ و يابس و في الثانية، مليّن للبطن، دافع للسعال، و محسّن للصدر، و يقال له: كعب الغدارا. كتاب الماء 1016:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1215\" footnote-id=\"1215\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "910D5B7D-A990-4704-96BB-4C47DC6CDE8D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 6,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169709,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"964\"><page number=\"6\"/>[3] </p>"
+        },
+        {
+          "paragraphId": 714169710,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"965\"><format class=\"hadith\" who=\"7|8\" Id=\"3\" RevayatIndex=\"524\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن عثمان، عن بعض من حدّثه<lfootnote noteId=\"5\">1</lfootnote> من الحصينيين<lfootnote noteId=\"6\">2</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8\">أبي الحسن عليه السّلام</format></format>: </format>«عليكم باللفت فإنّه ليس من أحد من الناس إلّا و به عرق من الجذام فأذيبوه بالسلجم»<lfootnote noteId=\"7\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169711,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"966\"><heading level=\"2\">[باب] فيما يذيب الجسد </heading></p>"
+        },
+        {
+          "paragraphId": 714169712,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"967\">[4] </p>"
+        },
+        {
+          "paragraphId": 714169713,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"968\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"525\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد،</format></format></p>"
+        },
+        {
+          "paragraphId": 714169714,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"969\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"525\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن يعقوب بن يزيد، عن زياد القندي، عن ابن سنان، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«أكل السمك يذيب الجسد<lfootnote noteId=\"8\">4</lfootnote>»<lfootnote noteId=\"9\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169715,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"970\"><page number=\"7\"/>[5] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170788,
+          "text": "<footnote id=\"4\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و سيأتي نحوه في الحديث 94 و 109. انظر <page number=\"6\"/>مصادرهما و البيان فيهما. </footnote>"
+        },
+        {
+          "footnoteId": 714170789,
+          "text": "<footnote id=\"5\"><mnote>(1)</mnote> في النسخة: «عن بعض ما حدّثه» و الصواب ما أثبتناه. </footnote>"
+        },
+        {
+          "footnoteId": 714170790,
+          "text": "<footnote id=\"6\"><mnote>(2)</mnote> في النسخة: «الحصينين». انظر: الكافي 5/369:6، و هامش الحديث 180 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714170791,
+          "text": "<footnote id=\"7\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و روى نحوه في المحاسن، و قد تقدّمت الإشارة إليه في الحديث 530 من الجزء الأوّل، فقد أشبعنا التحقيق بذكر الروايات هناك. </footnote>"
+        },
+        {
+          "footnoteId": 714170792,
+          "text": "<footnote id=\"8\"><mnote>(4)</mnote> قال المجلسي في شرح رواية اخرى فيها: «يذيب البدن»: ذاب الشيء نقيض جمد، و المراد أنّه يضعف و يهزل البدن. ملاذ الأخيار 150:1. </footnote>"
+        },
+        {
+          "footnoteId": 714170793,
+          "text": "<footnote id=\"9\"><mnote>(5)</mnote> روى البرقي نحوه في المحاسن 4/476:2، باب السمك و الحيتان، عن أبي القاسم و يعقوب بن يزيد، عن القندي، عن ابن سنان و أبي البختري، عن أبي عبد الله عليه السّلام قال:<br/>«السمك الطري يذيب الجسد»، عنه، عن علي بن حسان، عن موسى بن بكر القصير، عن أبي الحسن عليه السّلام، مثله، و الكليني في الكافي 7/323:6، باب السمك، عن سهل بن زياد، عن علي بن حسان، و الطبرسي في مكارم الأخلاق: 2/16 في السمك، عنه عليه السّلام، = <page number=\"7\"/>و روي ما في معناه مع ما يشابهه في بعض الألفاظ أنّ أكل السمك أو الحيتان أو السمك الطري أو إدمان الأكل يذيب البدن أو الجسد أو اللحم أو شحم العين أو...<br/>و نقل العامّة أيضا عن أمير المؤمنين عليه السّلام أنّه عليه السّلام قال: «و السمك يذيب الجسد». لا حظ:<br/>كنز العمّال 28472/86:10. </footnote>"
+        }
+      ],
+      "pageValue": "6",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p964\" paragraph-id=\"964\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo6\">6</span>[3] </p>\n  <p id=\"p965\" paragraph-id=\"965\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن عثمان، عن بعض من حدّثه<span><sup><a class=\"NewFn\" href=\"#footnote5\" title=\"(1)  في النسخة: «عن بعض ما حدّثه» و الصواب ما أثبتناه. \">1</a></sup></span> من الحصينيين<span><sup><a class=\"NewFn\" href=\"#footnote6\" title=\"(2)  في النسخة: «الحصينين». انظر: الكافي 5/369:6، و هامش الحديث 180 من الجزء الأوّل. \">2</a></sup></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span>: </span>«عليكم باللفت فإنّه ليس من أحد من الناس إلّا و به عرق من الجذام فأذيبوه بالسلجم»<span><sup><a class=\"NewFn\" href=\"#footnote7\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى نحوه في المحاسن، و قد تقدّمت الإشارة إليه في الحديث 530 من الجزء الأوّل، فقد أشبعنا التحقيق بذكر الروايات هناك. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p966\" paragraph-id=\"966\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] فيما يذيب الجسد </strong>\n  </p>\n  <p id=\"p967\" paragraph-id=\"967\" class=\" G\">[4] </p>\n  <p id=\"p968\" paragraph-id=\"968\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد،</span>\n    </span>\n  </p>\n  <p id=\"p969\" paragraph-id=\"969\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن يعقوب بن يزيد، عن زياد القندي، عن ابن سنان، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«أكل السمك يذيب الجسد<span><sup><a class=\"NewFn\" href=\"#footnote8\" title=\"(4)  قال المجلسي في شرح رواية اخرى فيها: «يذيب البدن»: ذاب الشيء نقيض جمد، و المراد أنّه يضعف و يهزل البدن. ملاذ الأخيار 150:1. \">4</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote9\" title=\"(5)  روى البرقي نحوه في المحاسن 4/476:2، باب السمك و الحيتان، عن أبي القاسم و يعقوب بن يزيد، عن القندي، عن ابن سنان و أبي البختري، عن أبي عبد الله عليه السّلام قال:«السمك الطري يذيب الجسد»، عنه، عن علي بن حسان، عن موسى بن بكر القصير، عن أبي الحسن عليه السّلام، مثله، و الكليني في الكافي 7/323:6، باب السمك، عن سهل بن زياد، عن علي بن حسان، و الطبرسي في مكارم الأخلاق: 2/16 في السمك، عنه عليه السّلام، = \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p970\" paragraph-id=\"970\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote4\" footnote-id=\"4\"><page number=\"6\" />مصادرهما و البيان فيهما. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote5\" footnote-id=\"5\">(1)  في النسخة: «عن بعض ما حدّثه» و الصواب ما أثبتناه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote6\" footnote-id=\"6\">(2)  في النسخة: «الحصينين». انظر: الكافي 5/369:6، و هامش الحديث 180 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote7\" footnote-id=\"7\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى نحوه في المحاسن، و قد تقدّمت الإشارة إليه في الحديث 530 من الجزء الأوّل، فقد أشبعنا التحقيق بذكر الروايات هناك. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote8\" footnote-id=\"8\">(4)  قال المجلسي في شرح رواية اخرى فيها: «يذيب البدن»: ذاب الشيء نقيض جمد، و المراد أنّه يضعف و يهزل البدن. ملاذ الأخيار 150:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote9\" footnote-id=\"9\">(5)  روى البرقي نحوه في المحاسن 4/476:2، باب السمك و الحيتان، عن أبي القاسم و يعقوب بن يزيد، عن القندي، عن ابن سنان و أبي البختري، عن أبي عبد الله عليه السّلام قال:<br />«السمك الطري يذيب الجسد»، عنه، عن علي بن حسان، عن موسى بن بكر القصير، عن أبي الحسن عليه السّلام، مثله، و الكليني في الكافي 7/323:6، باب السمك، عن سهل بن زياد، عن علي بن حسان، و الطبرسي في مكارم الأخلاق: 2/16 في السمك، عنه عليه السّلام، = </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "47949F17-1CE4-44AB-BE91-664C9F37B78B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

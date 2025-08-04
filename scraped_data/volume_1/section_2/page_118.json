@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 118,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166634,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2666\"><page number=\"118\"/>[181] </p>"
+        },
+        {
+          "paragraphId": 714166635,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2667\"><format class=\"hadith\" who=\"6\" Id=\"179\" RevayatIndex=\"179\"><format class=\"sanadHadith\">و عنه، قال: حدّثنا الحميري، عن محمّد بن عيسى، عن أحمد بن محمّد بن أبي نصر، عن حمّاد بن عيسى، عن محمّد بن سوقة، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«الكباب يذهب بالحمّى»<lfootnote noteId=\"814\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166636,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2668\">[182] </p>"
+        },
+        {
+          "paragraphId": 714166637,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2669\"><format class=\"hadith\" who=\"6\" Id=\"180\" RevayatIndex=\"180\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن عمر بن إسحاق، عن يزيد، يرفع الحديث إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام </format></format>قال<lfootnote noteId=\"815\">2</lfootnote>: </format>«إنّ الروح و الداء يعتلجان<lfootnote noteId=\"816\">3</lfootnote> في الجسد، فإن كان في الأجل تأخير غلبت الروح الداء فسكن الداء فإذا سكن اشتهى المريض، فأطعموه شهوته فإنّ فيه الشفاء بإذن الله تعالى<lfootnote noteId=\"817\">4</lfootnote>»<lfootnote noteId=\"818\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166638,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2670\"><heading level=\"2\">[باب] في الرأس و أعراضه و الصداع </heading></p>"
+        },
+        {
+          "paragraphId": 714166639,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2671\">[183] </p>"
+        },
+        {
+          "paragraphId": 714166926,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2672\"><format class=\"hadith\" who=\"6\" Id=\"181\" RevayatIndex=\"181\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، <page number=\"119\"/> عن أبيه، عن عبد الله بن المغيرة<lfootnote noteId=\"819\">1</lfootnote>، عن إسماعيل بن مسلم السكوني، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>: </format>«من اشتكى الواهية و كان به صداع أو غيره فليضع يده على ذلك الموضع، و ليقل: اسكن سكّنتك بالّذي سكن له ما في اللّيل و النّهار، و هو السّميع العليم»<lfootnote noteId=\"820\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168509,
+          "text": "<footnote id=\"813\"><mnote>(6)</mnote> رواه الكليني في الكافي 5/369:6، باب السلق، فقال: [عن محمّد بن يحيى] عنه [أي: <page number=\"118\"/>عن عبد الله بن جعفر] عن محمّد بن عيسى، عن بعض الحصينيين، عن أبي الحسن عليه السّلام، و رواه الطبرسي في مكارم الأخلاق: 4/181، باب السلق، عن الإمام الرضا عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168510,
+          "text": "<footnote id=\"814\"><mnote>(1)</mnote> رواه البرقي في المحاسن 3/468:2، باب الكباب، عن أحمد بن أبي نصر، عن حمّاد بن عثمان، عن محمّد بن سوقة، و الكليني في الكافي 4/319:6، باب الشواء و الكباب و الرؤوس، عن علي بن إبراهيم، عن أبيه، عن أحمد بن محمّد بن أبي نصر، عن عبد الله بن محمّد الشامي، عن حسين بن حنظلة، عن أحدهما عليهما السّلام قال: «أكل الكباب». </footnote>"
+        },
+        {
+          "footnoteId": 714168511,
+          "text": "<footnote id=\"815\"><mnote>(2)</mnote> كلمة: «قال» أثبتناها للضرورة. </footnote>"
+        },
+        {
+          "footnoteId": 714168512,
+          "text": "<footnote id=\"816\"><mnote>(3)</mnote> في النسخة: «إنّ الدواء و الروح يعلجان» و ما أثبتناه من الحديث 144 المتقدّم. </footnote>"
+        },
+        {
+          "footnoteId": 714168513,
+          "text": "<footnote id=\"817\"><mnote>(4)</mnote> قوله: «بإذن الله تعالى» أثبتناه من الحديث 144 المتقدّم. </footnote>"
+        },
+        {
+          "footnoteId": 714168514,
+          "text": "<footnote id=\"818\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا، و تقدّم نحوه في الحديث 144.</footnote>"
+        }
+      ],
+      "pageValue": "118",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2666\" paragraph-id=\"2666\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo118\">118</span>[181] </p>\n  <p id=\"p2667\" paragraph-id=\"2667\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، قال: حدّثنا الحميري، عن محمّد بن عيسى، عن أحمد بن محمّد بن أبي نصر، عن حمّاد بن عيسى، عن محمّد بن سوقة، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«الكباب يذهب بالحمّى»<span><sup><a class=\"NewFn\" href=\"#footnote814\" title=\"(1)  رواه البرقي في المحاسن 3/468:2، باب الكباب، عن أحمد بن أبي نصر، عن حمّاد بن عثمان، عن محمّد بن سوقة، و الكليني في الكافي 4/319:6، باب الشواء و الكباب و الرؤوس، عن علي بن إبراهيم، عن أبيه، عن أحمد بن محمّد بن أبي نصر، عن عبد الله بن محمّد الشامي، عن حسين بن حنظلة، عن أحدهما عليهما السّلام قال: «أكل الكباب». \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2668\" paragraph-id=\"2668\" class=\" G\">[182] </p>\n  <p id=\"p2669\" paragraph-id=\"2669\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن عمر بن إسحاق، عن يزيد، يرفع الحديث إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام </span></span>قال<span><sup><a class=\"NewFn\" href=\"#footnote815\" title=\"(2)  كلمة: «قال» أثبتناها للضرورة. \">2</a></sup></span>: </span>«إنّ الروح و الداء يعتلجان<span><sup><a class=\"NewFn\" href=\"#footnote816\" title=\"(3)  في النسخة: «إنّ الدواء و الروح يعلجان» و ما أثبتناه من الحديث 144 المتقدّم. \">3</a></sup></span> في الجسد، فإن كان في الأجل تأخير غلبت الروح الداء فسكن الداء فإذا سكن اشتهى المريض، فأطعموه شهوته فإنّ فيه الشفاء بإذن الله تعالى<span><sup><a class=\"NewFn\" href=\"#footnote817\" title=\"(4)  قوله: «بإذن الله تعالى» أثبتناه من الحديث 144 المتقدّم. \">4</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote818\" title=\"(5)  لم نعثر عليه في المصادر المتوفرة لدينا، و تقدّم نحوه في الحديث 144.\">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2670\" paragraph-id=\"2670\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الرأس و أعراضه و الصداع </strong>\n  </p>\n  <p id=\"p2671\" paragraph-id=\"2671\" class=\" G\">[183] </p>\n  <p id=\"p2672\" paragraph-id=\"2672\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote813\" footnote-id=\"813\"><page number=\"118\" />عن عبد الله بن جعفر] عن محمّد بن عيسى، عن بعض الحصينيين، عن أبي الحسن عليه السّلام، و رواه الطبرسي في مكارم الأخلاق: 4/181، باب السلق، عن الإمام الرضا عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote814\" footnote-id=\"814\">(1)  رواه البرقي في المحاسن 3/468:2، باب الكباب، عن أحمد بن أبي نصر، عن حمّاد بن عثمان، عن محمّد بن سوقة، و الكليني في الكافي 4/319:6، باب الشواء و الكباب و الرؤوس، عن علي بن إبراهيم، عن أبيه، عن أحمد بن محمّد بن أبي نصر، عن عبد الله بن محمّد الشامي، عن حسين بن حنظلة، عن أحدهما عليهما السّلام قال: «أكل الكباب». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote815\" footnote-id=\"815\">(2)  كلمة: «قال» أثبتناها للضرورة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote816\" footnote-id=\"816\">(3)  في النسخة: «إنّ الدواء و الروح يعلجان» و ما أثبتناه من الحديث 144 المتقدّم. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote817\" footnote-id=\"817\">(4)  قوله: «بإذن الله تعالى» أثبتناه من الحديث 144 المتقدّم. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote818\" footnote-id=\"818\">(5)  لم نعثر عليه في المصادر المتوفرة لدينا، و تقدّم نحوه في الحديث 144.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "1972118D-C0FF-4B89-B348-48F57912F11A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

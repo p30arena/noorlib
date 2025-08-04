@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 278,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167712,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3458\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\"><page number=\"278\"/> قال: فما عملته إلّا مرّة حتى برأت.</format></p>"
+        },
+        {
+          "paragraphId": 714167713,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3459\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\">قال: فقدمت عليه من قابل، فقال: «يا عبد الله، برأت‌؟»</format></p>"
+        },
+        {
+          "paragraphId": 714167714,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3460\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\">قلت: نعم.</format></p>"
+        },
+        {
+          "paragraphId": 714167715,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3461\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\">قال: «أما إنّ إسحاق بن سعيد به بواسير ذكور، خذ بلادر و اجعلها ثلاثة أجزاء، و تحفر بئرا و تأخذ آجرّة و تخرج فيها ثقبا صغيرا و تجعل في البئر نارا و تجعل فيه ثلث البلادر على النار و تجعل الآجرّة فوقها و يقعد عليها فإذا ارتفع البخار و أصابه حرارتها فليعدّها<lfootnote noteId=\"1532\">1</lfootnote> فلربما كانت خمسة أو ستّة<lfootnote noteId=\"1533\">2</lfootnote> ثآليل، فإن ذابت<lfootnote noteId=\"1534\">3</lfootnote> فليقلعها و يرم بها و إلّا فليلق الثلث<lfootnote noteId=\"1535\">4</lfootnote> على النار فإنّه يقلعها باصولها، ثمّ يأخذ الشمع الذي و صفته فيطليه فإنّما هو طلاة واحدة حتّى يبرأ».</format></p>"
+        },
+        {
+          "paragraphId": 714167716,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3462\"><format class=\"hadith\" who=\"6\" Id=\"447\" RevayatIndex=\"447\">قال: فرجعت إليه فوصفت له ذلك فاستعمله فبرأ<lfootnote noteId=\"1536\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167717,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3463\">[453] </p>"
+        },
+        {
+          "paragraphId": 714167718,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3464\"><format class=\"hadith\" who=\"6\" Id=\"448\" RevayatIndex=\"448\"><format class=\"sanadHadith\">حدّثنا أبو سليمان أحمد بن هوذة الباهلي، قال: حدّثنا إبراهيم بن إسحاق النهاوندي، قال: حدّثنا عبد الله بن حمّاد، عن حمران بن أعين، قال: </format></format></p>"
+        },
+        {
+          "paragraphId": 714167719,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3465\"><format class=\"hadith\" who=\"6\" Id=\"448\" RevayatIndex=\"448\"><page number=\"279\"/> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> ما أصابني من رياح البواسير، فقال: «فأين أنت عن ماء الباقلّى بالملح و الزيت‌؟ و إذا أخذته فلا تشربنّ عليه الماء البارد ما قدرت عليه».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169487,
+          "text": "<footnote id=\"1532\"><page number=\"278\"/><mnote>(1)</mnote> في النسخة: «فليمدّها» و ما أثبتناه من طبّ الأئمة عليهم السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169488,
+          "text": "<footnote id=\"1533\"><mnote>(2)</mnote> كذا في النسخة، و في طبّ الأئمة عليهم السّلام و بحار الأنوار: «سبعة». </footnote>"
+        },
+        {
+          "footnoteId": 714169489,
+          "text": "<footnote id=\"1534\"><mnote>(3)</mnote> في النسخة: «رابته» و في طبّ الأئمة المطبوع: «و اتته» و ما أثبتناه من بعض نسخ طبّ الأئمة عليهم السّلام. انظر: بحار الأنوار: 200:59. </footnote>"
+        },
+        {
+          "footnoteId": 714169490,
+          "text": "<footnote id=\"1535\"><mnote>(4)</mnote> أي: الثلث الثاني. </footnote>"
+        },
+        {
+          "footnoteId": 714169491,
+          "text": "<footnote id=\"1536\"><mnote>(5)</mnote> ما في صدر الرواية من أنّ الطبّ في أربعة فقد مرّ تفصيله فيما تقدّم في باب السعوط في هامش الحديث 280، و أمّا ذيلها فمرّ في هذا الباب بعض الروايات المتعلّقة به، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 81، فقالا: في تغيير اللون: أحمد بن إسحاق، قال: حدّثنا عبد الله بن عبد الرحمن بن أبي نجران، عن أبي محمّد الثمالي، عن إسحاق الجريري، قال: قال الباقر عليه السّلام: «يا جريري، أرى لونك قد امتقع، أبك بواسير؟».</footnote>"
+        }
+      ],
+      "pageValue": "278",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3458\" paragraph-id=\"3458\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo278\">278</span> قال: فما عملته إلّا مرّة حتى برأت.</span>\n  </p>\n  <p id=\"p3459\" paragraph-id=\"3459\" class=\" G\">\n    <span class=\"hadith\">قال: فقدمت عليه من قابل، فقال: «يا عبد الله، برأت‌؟»</span>\n  </p>\n  <p id=\"p3460\" paragraph-id=\"3460\" class=\" G\">\n    <span class=\"hadith\">قلت: نعم.</span>\n  </p>\n  <p id=\"p3461\" paragraph-id=\"3461\" class=\" G\">\n    <span class=\"hadith\">قال: «أما إنّ إسحاق بن سعيد به بواسير ذكور، خذ بلادر و اجعلها ثلاثة أجزاء، و تحفر بئرا و تأخذ آجرّة و تخرج فيها ثقبا صغيرا و تجعل في البئر نارا و تجعل فيه ثلث البلادر على النار و تجعل الآجرّة فوقها و يقعد عليها فإذا ارتفع البخار و أصابه حرارتها فليعدّها<span><sup><a class=\"NewFn\" href=\"#footnote1532\" title=\"(1)  في النسخة: «فليمدّها» و ما أثبتناه من طبّ الأئمة عليهم السّلام. \">1</a></sup></span> فلربما كانت خمسة أو ستّة<span><sup><a class=\"NewFn\" href=\"#footnote1533\" title=\"(2)  كذا في النسخة، و في طبّ الأئمة عليهم السّلام و بحار الأنوار: «سبعة». \">2</a></sup></span> ثآليل، فإن ذابت<span><sup><a class=\"NewFn\" href=\"#footnote1534\" title=\"(3)  في النسخة: «رابته» و في طبّ الأئمة المطبوع: «و اتته» و ما أثبتناه من بعض نسخ طبّ الأئمة عليهم السّلام. انظر: بحار الأنوار: 200:59. \">3</a></sup></span> فليقلعها و يرم بها و إلّا فليلق الثلث<span><sup><a class=\"NewFn\" href=\"#footnote1535\" title=\"(4)  أي: الثلث الثاني. \">4</a></sup></span> على النار فإنّه يقلعها باصولها، ثمّ يأخذ الشمع الذي و صفته فيطليه فإنّما هو طلاة واحدة حتّى يبرأ».</span>\n  </p>\n  <p id=\"p3462\" paragraph-id=\"3462\" class=\" G\">\n    <span class=\"hadith\">قال: فرجعت إليه فوصفت له ذلك فاستعمله فبرأ<span><sup><a class=\"NewFn\" href=\"#footnote1536\" title=\"(5)  ما في صدر الرواية من أنّ الطبّ في أربعة فقد مرّ تفصيله فيما تقدّم في باب السعوط في هامش الحديث 280، و أمّا ذيلها فمرّ في هذا الباب بعض الروايات المتعلّقة به، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 81، فقالا: في تغيير اللون: أحمد بن إسحاق، قال: حدّثنا عبد الله بن عبد الرحمن بن أبي نجران، عن أبي محمّد الثمالي، عن إسحاق الجريري، قال: قال الباقر عليه السّلام: «يا جريري، أرى لونك قد امتقع، أبك بواسير؟».\">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p3463\" paragraph-id=\"3463\" class=\" G\">[453] </p>\n  <p id=\"p3464\" paragraph-id=\"3464\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا أبو سليمان أحمد بن هوذة الباهلي، قال: حدّثنا إبراهيم بن إسحاق النهاوندي، قال: حدّثنا عبد الله بن حمّاد، عن حمران بن أعين، قال: </span>\n    </span>\n  </p>\n  <p id=\"p3465\" paragraph-id=\"3465\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1532\" footnote-id=\"1532\">(1) <page number=\"278\" /> في النسخة: «فليمدّها» و ما أثبتناه من طبّ الأئمة عليهم السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1533\" footnote-id=\"1533\">(2)  كذا في النسخة، و في طبّ الأئمة عليهم السّلام و بحار الأنوار: «سبعة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1534\" footnote-id=\"1534\">(3)  في النسخة: «رابته» و في طبّ الأئمة المطبوع: «و اتته» و ما أثبتناه من بعض نسخ طبّ الأئمة عليهم السّلام. انظر: بحار الأنوار: 200:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1535\" footnote-id=\"1535\">(4)  أي: الثلث الثاني. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1536\" footnote-id=\"1536\">(5)  ما في صدر الرواية من أنّ الطبّ في أربعة فقد مرّ تفصيله فيما تقدّم في باب السعوط في هامش الحديث 280، و أمّا ذيلها فمرّ في هذا الباب بعض الروايات المتعلّقة به، و روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 81، فقالا: في تغيير اللون: أحمد بن إسحاق، قال: حدّثنا عبد الله بن عبد الرحمن بن أبي نجران، عن أبي محمّد الثمالي، عن إسحاق الجريري، قال: قال الباقر عليه السّلام: «يا جريري، أرى لونك قد امتقع، أبك بواسير؟».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "96D750D1-2E27-48BF-AB72-7E6B53DCE5F0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

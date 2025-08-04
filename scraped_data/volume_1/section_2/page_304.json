@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 304,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167873,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3619\"><page number=\"304\"/>[500] </p>"
+        },
+        {
+          "paragraphId": 714167874,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3620\"><format class=\"hadith\" who=\"8\" Id=\"491\" RevayatIndex=\"491\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format>، أنّه قال: </format>«البطّيخ على الريق<lfootnote noteId=\"1672\">1</lfootnote> يورث الفالج»<lfootnote noteId=\"1673\">2</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714167875,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3621\"><heading level=\"2\">[باب] الريح الباردة و الخامّ‌<lfootnote noteId=\"1674\">3</lfootnote> و الإبردة<lfootnote noteId=\"1675\">4</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714167876,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3622\">[501] </p>"
+        },
+        {
+          "paragraphId": 714167877,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3623\"><format class=\"hadith\" who=\"7|8\" Id=\"492\" RevayatIndex=\"492\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن بكر بن صالح، عن الجعفري، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8\">أبا الحسن عليه السّلام</format></format> يقول:</format></format></p>"
+        },
+        {
+          "paragraphId": 714167878,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3624\"><format class=\"hadith\" who=\"7|8\" Id=\"492\" RevayatIndex=\"492\"><page number=\"305\"/>«من به الريح الباردة<lfootnote noteId=\"1676\">1</lfootnote> و الخامّ و الإبردة في المفاصل يأخذ كفّا من حلبة و كفّا<lfootnote noteId=\"1677\">2</lfootnote>من تمر يابس و تغمره بالماء و تطبخها<lfootnote noteId=\"1678\">3</lfootnote> في قدر نظيفة، ثمّ تصفّى<lfootnote noteId=\"1679\">4</lfootnote> و تبرّد، ثمّ يشربه صاحبه يوما و يغبّ‌<lfootnote noteId=\"1680\">5</lfootnote> يوما يشرب منه تمام أيّامه قدر قدح<lfootnote noteId=\"1681\">6</lfootnote>»<lfootnote noteId=\"1682\">7</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169626,
+          "text": "<footnote id=\"1671\"><mnote>(8)</mnote> رواه بتفاوت يسير ابنا بسطام في طبّ الأئمة عليهم السّلام: 38 و 65 و 100 و تقدّمت هذه<page number=\"304\"/>العوذة مع مصادرها في الحديث 414. </footnote>"
+        },
+        {
+          "footnoteId": 714169627,
+          "text": "<footnote id=\"1672\"><mnote>(1)</mnote> قوله: «على الريق» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169628,
+          "text": "<footnote id=\"1673\"><mnote>(2)</mnote> رواه البرقي في المحاسن 921/556:2، باب البطّيخ، عن ياسر الخادم، عن أبي الحسن الرضا عليه السّلام، و الكليني في الكافي 1/361:6، باب البطّيخ، عن علي بن إبراهيم، عن ياسر الخادم، و الصدوق في الخصال: 443، و الفتّال في روضة الواعظين 311:2، كلاهما عن الصادق عليه السّلام، و الطبرسي في مكارم الأخلاق: 4/185، في البطيخ، عن الصادق عليه السّلام و 2/384، للفالج، بعد الحديث المتقدّم عن الرضا عليه السّلام، و نحوه ابن شهر آشوب في مناقب آل أبي طالب عليهم السّلام 529:3. </footnote>"
+        },
+        {
+          "footnoteId": 714169629,
+          "text": "<footnote id=\"1674\"><mnote>(3)</mnote> «الخامّ‌» معجمة، و هو نوع من البلغم، قال الهروي: الخام: بلغم غير طبيعي، اختلفت أجزاؤه في الرقّة و الغلظة، و يطلق على كلّ شيء ما يرسب في القارورة رقيق الأجزاء غير منتن. بحر الجواهر: 149.<br/>و في الكافي: «الحام»، فقال المازندراني: «الحامّ بشدّ الميم: الحارّ» كالريح الحارّة من الحمّة و هي الحرارة. شرح الكافي 249:12.<br/>و قال المجلسي: و الحام لم نعرف له معنى و كأنّه بالخاء المعجمة، أي: البلغم الخامّ الذي لم ينضج، أو المراد الريح اللازمة من حام الطير على الشيء، أي: دوّم. بحار الأنوار 187:59، و انظر: مرآة العقول 86:26. </footnote>"
+        },
+        {
+          "footnoteId": 714169630,
+          "text": "<footnote id=\"1675\"><mnote>(4)</mnote> في النسخة: «الإبرة» و كذا المورد الآتي و ما أثبتناه من المصدر. </footnote>"
+        }
+      ],
+      "pageValue": "304",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3619\" paragraph-id=\"3619\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo304\">304</span>[500] </p>\n  <p id=\"p3620\" paragraph-id=\"3620\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span>، أنّه قال: </span>«البطّيخ على الريق<span><sup><a class=\"NewFn\" href=\"#footnote1672\" title=\"(1)  قوله: «على الريق» أثبتناه من المصدر. \">1</a></sup></span> يورث الفالج»<span><sup><a class=\"NewFn\" href=\"#footnote1673\" title=\"(2)  رواه البرقي في المحاسن 921/556:2، باب البطّيخ، عن ياسر الخادم، عن أبي الحسن الرضا عليه السّلام، و الكليني في الكافي 1/361:6، باب البطّيخ، عن علي بن إبراهيم، عن ياسر الخادم، و الصدوق في الخصال: 443، و الفتّال في روضة الواعظين 311:2، كلاهما عن الصادق عليه السّلام، و الطبرسي في مكارم الأخلاق: 4/185، في البطيخ، عن الصادق عليه السّلام و 2/384، للفالج، بعد الحديث المتقدّم عن الرضا عليه السّلام، و نحوه ابن شهر آشوب في مناقب آل أبي طالب عليهم السّلام 529:3. \">2</a></sup></span>. </span>\n  </p>\n  <p id=\"p3621\" paragraph-id=\"3621\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الريح الباردة و الخامّ‌<span><sup><a class=\"NewFn\" href=\"#footnote1674\" title=\"(3)  «الخامّ‌» معجمة، و هو نوع من البلغم، قال الهروي: الخام: بلغم غير طبيعي، اختلفت أجزاؤه في الرقّة و الغلظة، و يطلق على كلّ شيء ما يرسب في القارورة رقيق الأجزاء غير منتن. بحر الجواهر: 149.و في الكافي: «الحام»، فقال المازندراني: «الحامّ بشدّ الميم: الحارّ» كالريح الحارّة من الحمّة و هي الحرارة. شرح الكافي 249:12.و قال المجلسي: و الحام لم نعرف له معنى و كأنّه بالخاء المعجمة، أي: البلغم الخامّ الذي لم ينضج، أو المراد الريح اللازمة من حام الطير على الشيء، أي: دوّم. بحار الأنوار 187:59، و انظر: مرآة العقول 86:26. \">3</a></sup></span> و الإبردة<span><sup><a class=\"NewFn\" href=\"#footnote1675\" title=\"(4)  في النسخة: «الإبرة» و كذا المورد الآتي و ما أثبتناه من المصدر. \">4</a></sup></span></strong>\n  </p>\n  <p id=\"p3622\" paragraph-id=\"3622\" class=\" G\">[501] </p>\n  <p id=\"p3623\" paragraph-id=\"3623\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن بكر بن صالح، عن الجعفري، قال: سمعت <span class=\"Y\"><span class=\"maasoom\">أبا الحسن عليه السّلام</span></span> يقول:</span>\n    </span>\n  </p>\n  <p id=\"p3624\" paragraph-id=\"3624\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1671\" footnote-id=\"1671\"><page number=\"304\" />العوذة مع مصادرها في الحديث 414. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1672\" footnote-id=\"1672\">(1)  قوله: «على الريق» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1673\" footnote-id=\"1673\">(2)  رواه البرقي في المحاسن 921/556:2، باب البطّيخ، عن ياسر الخادم، عن أبي الحسن الرضا عليه السّلام، و الكليني في الكافي 1/361:6، باب البطّيخ، عن علي بن إبراهيم، عن ياسر الخادم، و الصدوق في الخصال: 443، و الفتّال في روضة الواعظين 311:2، كلاهما عن الصادق عليه السّلام، و الطبرسي في مكارم الأخلاق: 4/185، في البطيخ، عن الصادق عليه السّلام و 2/384، للفالج، بعد الحديث المتقدّم عن الرضا عليه السّلام، و نحوه ابن شهر آشوب في مناقب آل أبي طالب عليهم السّلام 529:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1674\" footnote-id=\"1674\">(3)  «الخامّ‌» معجمة، و هو نوع من البلغم، قال الهروي: الخام: بلغم غير طبيعي، اختلفت أجزاؤه في الرقّة و الغلظة، و يطلق على كلّ شيء ما يرسب في القارورة رقيق الأجزاء غير منتن. بحر الجواهر: 149.<br />و في الكافي: «الحام»، فقال المازندراني: «الحامّ بشدّ الميم: الحارّ» كالريح الحارّة من الحمّة و هي الحرارة. شرح الكافي 249:12.<br />و قال المجلسي: و الحام لم نعرف له معنى و كأنّه بالخاء المعجمة، أي: البلغم الخامّ الذي لم ينضج، أو المراد الريح اللازمة من حام الطير على الشيء، أي: دوّم. بحار الأنوار 187:59، و انظر: مرآة العقول 86:26. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1675\" footnote-id=\"1675\">(4)  في النسخة: «الإبرة» و كذا المورد الآتي و ما أثبتناه من المصدر. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E25DD7DB-E577-4EBE-AA0D-52A239D5E387",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

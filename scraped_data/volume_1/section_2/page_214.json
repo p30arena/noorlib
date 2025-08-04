@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 214,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167389,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3135\"><page number=\"214\"/><heading level=\"2\">[باب] الفواق<lfootnote noteId=\"1222\">1</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714167390,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3136\">[346] </p>"
+        },
+        {
+          "paragraphId": 714167391,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3137\"><format class=\"hadith\" who=\"9\" Id=\"344\" RevayatIndex=\"344\"><format class=\"sanadHadith\">روى إسحاق بن إبراهيم بن هاشم، عن إسماعيل،</format> أنّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"9\">أبا جعفر عليه السّلام </format></format>أصابه فواق فأمر بثعلب<lfootnote noteId=\"1223\">2</lfootnote> فطلب له فأتي به فوضع بين يديه فنظر إليه و قال: «إنّه ليسكّن الفواق» ثمّ التفت إليّ فقال: «ما أردت به إلّا من بالمدينة و شيعتي، و إنّ الثعلب لا يضرّ و لا ينفع»<lfootnote noteId=\"1224\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167392,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3138\">[347] </p>"
+        },
+        {
+          "paragraphId": 714167393,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3139\"><format class=\"hadith\" who=\"16\" Id=\"345\" RevayatIndex=\"345\"><format class=\"sanadHadith\">و روي: </format>«أنّ شرب الماء يقطعه»<lfootnote noteId=\"1225\">4</lfootnote>. و قد جرّب فوجد نافعا<lfootnote noteId=\"1226\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167394,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3140\"><heading level=\"2\">[باب] في يبوسة الحلق و قلّة الماء فيه </heading></p>"
+        },
+        {
+          "paragraphId": 714167395,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3141\">[348] </p>"
+        },
+        {
+          "paragraphId": 714167396,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3142\"><format class=\"hadith\" who=\"6\" Id=\"346\" RevayatIndex=\"346\"><format class=\"sanadHadith\">روى عامر بن أحمد<lfootnote noteId=\"1227\">6</lfootnote> قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> يبوسة <page number=\"215\"/> الحلق و قلّة الماء فيه.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169266,
+          "text": "<footnote id=\"1222\"><page number=\"214\"/><mnote>(1)</mnote> الفواق: ترجيع الشهقة الغالبة، تقول للذي يصيبه البهر: يفوق فواقا، و فؤوقا. كتاب العين 224:5 «فوق». و في خطبة لأمير المؤمنين عليه السّلام: «في حشرجة السباق، و تتابع الفواق، و تردّد الأنين». الأمالي للطوسي: 685. </footnote>"
+        },
+        {
+          "footnoteId": 714169267,
+          "text": "<footnote id=\"1223\"><mnote>(2)</mnote> كذا في النسخة و لعلّه هو خصى الثعلب الذي ورد عنه في كتب الطبّ‌: نبات له أصلان كأنّهما بيضتان صغيرتان، لونهما إلى الصفرة في الخارج و إلى البياض في الداخل، و لهما طعم يميل إلى حلاوة، و رائحة قريبة من رائحة المني. كتاب الماء 215:1.<br/>أو هو عنب الثعلب الذي قالوا عنه: نبات معروف، منه بستاني، و هو صنفان: ذكر و هو الكاكنج، و انثى و يطلق عليه عنب الذئب أيضا. كتاب الماء 216:1.<br/>و لعلّه مصحّف الشبت: بقل معروف ينفع من الفواق الامتلائي الكائن من طفو الطعام، و من المغص. كتاب الماء 697:2. و لعلّه مصحّف كلمة أخرى. </footnote>"
+        },
+        {
+          "footnoteId": 714169268,
+          "text": "<footnote id=\"1224\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169269,
+          "text": "<footnote id=\"1225\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169270,
+          "text": "<footnote id=\"1226\"><mnote>(5)</mnote> وجه ذكر التجربة في مثل هذه الروايات هو التأييد أو أنّه من الراوي دون المعصوم عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169271,
+          "text": "<footnote id=\"1227\"><mnote>(6)</mnote> كذا استظهرنا من النسخة.</footnote>"
+        }
+      ],
+      "pageValue": "214",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3135\" paragraph-id=\"3135\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo214\">214</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] الفواق<span><sup><a class=\"NewFn\" href=\"#footnote1222\" title=\"(1)  الفواق: ترجيع الشهقة الغالبة، تقول للذي يصيبه البهر: يفوق فواقا، و فؤوقا. كتاب العين 224:5 «فوق». و في خطبة لأمير المؤمنين عليه السّلام: «في حشرجة السباق، و تتابع الفواق، و تردّد الأنين». الأمالي للطوسي: 685. \">1</a></sup></span></strong>\n  </p>\n  <p id=\"p3136\" paragraph-id=\"3136\" class=\" G\">[346] </p>\n  <p id=\"p3137\" paragraph-id=\"3137\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى إسحاق بن إبراهيم بن هاشم، عن إسماعيل،</span> أنّ <span class=\"Y\"><span class=\"maasoom\">أبا جعفر عليه السّلام </span></span>أصابه فواق فأمر بثعلب<span><sup><a class=\"NewFn\" href=\"#footnote1223\" title=\"(2)  كذا في النسخة و لعلّه هو خصى الثعلب الذي ورد عنه في كتب الطبّ‌: نبات له أصلان كأنّهما بيضتان صغيرتان، لونهما إلى الصفرة في الخارج و إلى البياض في الداخل، و لهما طعم يميل إلى حلاوة، و رائحة قريبة من رائحة المني. كتاب الماء 215:1.أو هو عنب الثعلب الذي قالوا عنه: نبات معروف، منه بستاني، و هو صنفان: ذكر و هو الكاكنج، و انثى و يطلق عليه عنب الذئب أيضا. كتاب الماء 216:1.و لعلّه مصحّف الشبت: بقل معروف ينفع من الفواق الامتلائي الكائن من طفو الطعام، و من المغص. كتاب الماء 697:2. و لعلّه مصحّف كلمة أخرى. \">2</a></sup></span> فطلب له فأتي به فوضع بين يديه فنظر إليه و قال: «إنّه ليسكّن الفواق» ثمّ التفت إليّ فقال: «ما أردت به إلّا من بالمدينة و شيعتي، و إنّ الثعلب لا يضرّ و لا ينفع»<span><sup><a class=\"NewFn\" href=\"#footnote1224\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p3138\" paragraph-id=\"3138\" class=\" G\">[347] </p>\n  <p id=\"p3139\" paragraph-id=\"3139\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي: </span>«أنّ شرب الماء يقطعه»<span><sup><a class=\"NewFn\" href=\"#footnote1225\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>. و قد جرّب فوجد نافعا<span><sup><a class=\"NewFn\" href=\"#footnote1226\" title=\"(5)  وجه ذكر التجربة في مثل هذه الروايات هو التأييد أو أنّه من الراوي دون المعصوم عليه السّلام. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p3140\" paragraph-id=\"3140\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في يبوسة الحلق و قلّة الماء فيه </strong>\n  </p>\n  <p id=\"p3141\" paragraph-id=\"3141\" class=\" G\">[348] </p>\n  <p id=\"p3142\" paragraph-id=\"3142\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى عامر بن أحمد<span><sup><a class=\"NewFn\" href=\"#footnote1227\" title=\"(6)  كذا استظهرنا من النسخة.\">6</a></sup></span> قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> يبوسة </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1222\" footnote-id=\"1222\">(1) <page number=\"214\" /> الفواق: ترجيع الشهقة الغالبة، تقول للذي يصيبه البهر: يفوق فواقا، و فؤوقا. كتاب العين 224:5 «فوق». و في خطبة لأمير المؤمنين عليه السّلام: «في حشرجة السباق، و تتابع الفواق، و تردّد الأنين». الأمالي للطوسي: 685. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1223\" footnote-id=\"1223\">(2)  كذا في النسخة و لعلّه هو خصى الثعلب الذي ورد عنه في كتب الطبّ‌: نبات له أصلان كأنّهما بيضتان صغيرتان، لونهما إلى الصفرة في الخارج و إلى البياض في الداخل، و لهما طعم يميل إلى حلاوة، و رائحة قريبة من رائحة المني. كتاب الماء 215:1.<br />أو هو عنب الثعلب الذي قالوا عنه: نبات معروف، منه بستاني، و هو صنفان: ذكر و هو الكاكنج، و انثى و يطلق عليه عنب الذئب أيضا. كتاب الماء 216:1.<br />و لعلّه مصحّف الشبت: بقل معروف ينفع من الفواق الامتلائي الكائن من طفو الطعام، و من المغص. كتاب الماء 697:2. و لعلّه مصحّف كلمة أخرى. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1224\" footnote-id=\"1224\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1225\" footnote-id=\"1225\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1226\" footnote-id=\"1226\">(5)  وجه ذكر التجربة في مثل هذه الروايات هو التأييد أو أنّه من الراوي دون المعصوم عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1227\" footnote-id=\"1227\">(6)  كذا استظهرنا من النسخة.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "83F67B31-89DE-4B76-99DA-747F02BA45E0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

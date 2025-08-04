@@ -1,0 +1,83 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 110,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166594,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2626\"><page number=\"110\"/><heading level=\"2\">[باب] فيما يستشفى به من الصدقة </heading></p>"
+        },
+        {
+          "paragraphId": 714166595,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2627\">[167] </p>"
+        },
+        {
+          "paragraphId": 714166596,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2628\"><format class=\"hadith\" who=\"6\" Id=\"165\" RevayatIndex=\"165\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن الحكم، و الحسن بن محمّد بن الحسن جميعا، عن عبد الرحمن بن أبي هاشم، عن أبي سعيد مولى الحسن بن علي، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">جعفر بن محمّد عليهم السّلام</format></format>، قال: </format>«داووا مرضاكم بالصدقة، و حصّنوا أموالكم بالزكاة، فأنا ضامن لكلّ ما يتوى<lfootnote noteId=\"768\">1</lfootnote> في برّ أو بحر بعد أداء حقّ الله فيه<lfootnote noteId=\"769\">2</lfootnote>»<lfootnote noteId=\"770\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166597,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2629\">[168] </p>"
+        },
+        {
+          "paragraphId": 714166598,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2630\"><format class=\"hadith\" who=\"6\" Id=\"166\" RevayatIndex=\"166\"><format class=\"sanadHadith\">روى داود بن زربي<lfootnote noteId=\"771\">4</lfootnote>، قال:</format> وعكت بالمدينة وعكا شديدا فبلغ ذلك <page number=\"111\"/><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format> فكتب إليّ‌<lfootnote noteId=\"772\">1</lfootnote>: «قد بلغني علّتك، فاشتر صاعا من برّ<lfootnote noteId=\"773\">2</lfootnote> ثمّ استلق على قفاك، و انثره على صدرك<lfootnote noteId=\"774\">3</lfootnote> كيف ما انتثر<lfootnote noteId=\"775\">4</lfootnote>، و أنت تقول<lfootnote noteId=\"776\">5</lfootnote>: اللّهمّ إنّي أسألك باسمك الّذي إذا سألك به المضطرّ فكشفت عليه ما به من ضرّ<lfootnote noteId=\"777\">6</lfootnote>، و مكّنت له في الأرض، و جعلته خليفتك على خلقك<lfootnote noteId=\"778\">7</lfootnote> أن تصلّي على <format class=\"maasoom\" maasoomNo=\"14\">محمّد</format> و <format class=\"maasoom\" maasoomNo=\"40\">آل محمّد</format>، و<lfootnote noteId=\"779\">8</lfootnote> أن تعافيني<lfootnote noteId=\"780\">9</lfootnote> من <page number=\"112\"/>علّتي. و استو جالسا، و اجمع البرّ من حولك، و قل مثل ذلك، و اقسمه مدّا مدّا لكلّ مسكين، و قل مثل ذلك».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168798,
+          "text": "<footnote id=\"767\"><mnote>(5)</mnote> رواه الطبرسي في مكارم الأخلاق: 3/389، في الدعاء: عن سلمان الفارسي رضي الله عنه، <page number=\"110\"/>عن النّبي صلّى الله عليه و آله، و روى الآبي نحوه في نثر الدرّ 156:1، و الحلواني في نزهة الناظر: 35/17، و الشهيد في الدرّة الباهرة في 4/15 و غيرها من المصادر، عن رسول الله صلّى الله عليه و آله، و روى العيّاشي نحوه في تفسيره 74/220:1، عن عمّار بن موسى، عن أبي عبد الله عليه السّلام.<br/>و نقله العامّة كما في المتن في كتبهم بالإسناد إلى سلمان أو ثوبان، و السند المذكور في المتن أيضا عامي، رواها بعضهم بنفس السند فلاحظ: سنن الترمذي 2225/303:3، الدعاء للطبراني: 30/30، المعجم الكبير 251:6، مسند الشهاب 832/36:2. </footnote>"
+        },
+        {
+          "footnoteId": 714168799,
+          "text": "<footnote id=\"768\"><mnote>(1)</mnote> في النسخة: «لكلّ مال منها». و توى المال يتوى: هلك. الصحاح 2290:6 «توى». </footnote>"
+        },
+        {
+          "footnoteId": 714168800,
+          "text": "<footnote id=\"769\"><mnote>(2)</mnote> روي في مكارم الأخلاق بزيادة: «من التلف» بين معقوفتين. </footnote>"
+        },
+        {
+          "footnoteId": 714168801,
+          "text": "<footnote id=\"770\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 6/388، في الصدقة، و روي ما يشابهه في مصادر كثيرة. انظر: الاصول الستّة عشر: 101/244، و 102، المحاسن 20/294:1، باب المحبوبات، ثواب الأعمال: 46، الجعفريات: 53، دعائم الإسلام 240:1، جامع الأحاديث: 10، الاختصاص: 335، النوادر للراوندي: 30، عوالي اللئالي 17/353:1. و روي صدر الرواية في مصادر عديدة. </footnote>"
+        },
+        {
+          "footnoteId": 714168802,
+          "text": "<footnote id=\"771\"><mnote>(4)</mnote> في النسخة: «رزين» و الصحيح ما أثبتناه. انظر: معجم رجال الحديث 105:8. </footnote>"
+        }
+      ],
+      "pageValue": "110",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2626\" paragraph-id=\"2626\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo110\">110</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] فيما يستشفى به من الصدقة </strong>\n  </p>\n  <p id=\"p2627\" paragraph-id=\"2627\" class=\" G\">[167] </p>\n  <p id=\"p2628\" paragraph-id=\"2628\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن الحكم، و الحسن بن محمّد بن الحسن جميعا، عن عبد الرحمن بن أبي هاشم، عن أبي سعيد مولى الحسن بن علي، عن <span class=\"Y\"><span class=\"maasoom\">جعفر بن محمّد عليهم السّلام</span></span>، قال: </span>«داووا مرضاكم بالصدقة، و حصّنوا أموالكم بالزكاة، فأنا ضامن لكلّ ما يتوى<span><sup><a class=\"NewFn\" href=\"#footnote768\" title=\"(1)  في النسخة: «لكلّ مال منها». و توى المال يتوى: هلك. الصحاح 2290:6 «توى». \">1</a></sup></span> في برّ أو بحر بعد أداء حقّ الله فيه<span><sup><a class=\"NewFn\" href=\"#footnote769\" title=\"(2)  روي في مكارم الأخلاق بزيادة: «من التلف» بين معقوفتين. \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote770\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 6/388، في الصدقة، و روي ما يشابهه في مصادر كثيرة. انظر: الاصول الستّة عشر: 101/244، و 102، المحاسن 20/294:1، باب المحبوبات، ثواب الأعمال: 46، الجعفريات: 53، دعائم الإسلام 240:1، جامع الأحاديث: 10، الاختصاص: 335، النوادر للراوندي: 30، عوالي اللئالي 17/353:1. و روي صدر الرواية في مصادر عديدة. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2629\" paragraph-id=\"2629\" class=\" G\">[168] </p>\n  <p id=\"p2630\" paragraph-id=\"2630\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى داود بن زربي<span><sup><a class=\"NewFn\" href=\"#footnote771\" title=\"(4)  في النسخة: «رزين» و الصحيح ما أثبتناه. انظر: معجم رجال الحديث 105:8. \">4</a></sup></span>، قال:</span> وعكت بالمدينة وعكا شديدا فبلغ ذلك </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote767\" footnote-id=\"767\"><page number=\"110\" />عن النّبي صلّى الله عليه و آله، و روى الآبي نحوه في نثر الدرّ 156:1، و الحلواني في نزهة الناظر: 35/17، و الشهيد في الدرّة الباهرة في 4/15 و غيرها من المصادر، عن رسول الله صلّى الله عليه و آله، و روى العيّاشي نحوه في تفسيره 74/220:1، عن عمّار بن موسى، عن أبي عبد الله عليه السّلام.<br />و نقله العامّة كما في المتن في كتبهم بالإسناد إلى سلمان أو ثوبان، و السند المذكور في المتن أيضا عامي، رواها بعضهم بنفس السند فلاحظ: سنن الترمذي 2225/303:3، الدعاء للطبراني: 30/30، المعجم الكبير 251:6، مسند الشهاب 832/36:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote768\" footnote-id=\"768\">(1)  في النسخة: «لكلّ مال منها». و توى المال يتوى: هلك. الصحاح 2290:6 «توى». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote769\" footnote-id=\"769\">(2)  روي في مكارم الأخلاق بزيادة: «من التلف» بين معقوفتين. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote770\" footnote-id=\"770\">(3)  رواه الطبرسي في مكارم الأخلاق: 6/388، في الصدقة، و روي ما يشابهه في مصادر كثيرة. انظر: الاصول الستّة عشر: 101/244، و 102، المحاسن 20/294:1، باب المحبوبات، ثواب الأعمال: 46، الجعفريات: 53، دعائم الإسلام 240:1، جامع الأحاديث: 10، الاختصاص: 335، النوادر للراوندي: 30، عوالي اللئالي 17/353:1. و روي صدر الرواية في مصادر عديدة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote771\" footnote-id=\"771\">(4)  في النسخة: «رزين» و الصحيح ما أثبتناه. انظر: معجم رجال الحديث 105:8. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "07FBF5FA-53D5-434E-ACF6-9CBF12D1FC7E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

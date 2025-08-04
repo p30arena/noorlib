@@ -1,0 +1,115 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 68,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166801,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2406\"><page number=\"68\"/>[102] </p>"
+        },
+        {
+          "paragraphId": 714166802,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2407\"><format class=\"hadith\" who=\"1,14,6\" Id=\"102\" RevayatIndex=\"102\"><format class=\"sanadHadith\">و روى بعض أصحابنا، رفعه إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«كان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> يأكل رطبا - يقال له: رطب الشنوة - و أصحابه إذ أقبل <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">علي عليه السّلام</format></format>، و هو أرمد فسلّم ثمّ جلس يأكل معهم.</format></p>"
+        },
+        {
+          "paragraphId": 714166803,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2408\"><format class=\"hadith\" who=\"1,14,6\" Id=\"102\" RevayatIndex=\"102\">فقال <format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format>: تأكل الحلو و أنت أرمد؟ قال: فتنحّى <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">علي عليه السّلام</format></format> و جلس و هو ينظر إليهم يأكلون<lfootnote noteId=\"554\">1</lfootnote>، فرمى إليه تمرة فأكلها، ثمّ رمى اخرى فأكلها حتّى رمى إليه سبعا، ثمّ قال: حسبك، إنّه لا يضرّ من التمر ما كان وترا»<lfootnote noteId=\"555\">2</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714166804,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2409\"><heading level=\"2\">[باب] في نكس<lfootnote noteId=\"556\">3</lfootnote> المريض </heading></p>"
+        },
+        {
+          "paragraphId": 714166805,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2410\">[103] </p>"
+        },
+        {
+          "paragraphId": 714166806,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2411\"><format class=\"hadith\" who=\"5,6\" Id=\"103\" RevayatIndex=\"103\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن أبي يحيى الواسطي، عن بعض أصحابنا، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>:</format></format></p>"
+        },
+        {
+          "paragraphId": 714166807,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2412\"><format class=\"hadith\" who=\"5,6\" Id=\"103\" RevayatIndex=\"103\"><format class=\"sanadHadith\"/>«إنّ المشي للمريض ينكس، قال: و كان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي عليه السّلام</format></format> إذا اعتلّ‌<lfootnote noteId=\"557\">4</lfootnote> جعل في ثوب، فحمل لحاجته - يعني الوضوء -، و ذاك أنّه كان يقول: إنّ المشي للمريض نكس<lfootnote noteId=\"558\">5</lfootnote>»<lfootnote noteId=\"559\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166808,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2413\">[104] </p>"
+        },
+        {
+          "paragraphId": 714166809,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2414\"><format class=\"hadith\" who=\"6\" Id=\"104\" RevayatIndex=\"104\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن علي بن الحسن بن فضّال، عن أحمد بن صبيح الفارسي مولى بني أسد<lfootnote noteId=\"560\">7</lfootnote>، عن سليمان بن عطاء، عن خالد بيّاع القلانس، <page number=\"69\"/> عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال لرجل ناقد<lfootnote noteId=\"561\">1</lfootnote>: </format>«يا فلان، إيّاك و المشي فإنّ لحمك هو لحمك بالذي كان<lfootnote noteId=\"562\">2</lfootnote>، و لا عظمك و عصبك و لا عروقك، فدعها حتّى تقرّ قرارها، إيّاك و المشي»<lfootnote noteId=\"563\">3</lfootnote>. </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168585,
+          "text": "<footnote id=\"554\"><page number=\"68\"/><mnote>(1)</mnote> في النسخة: «يأكل» و الصواب ما أثبتناه. </footnote>"
+        },
+        {
+          "footnoteId": 714168586,
+          "text": "<footnote id=\"555\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168587,
+          "text": "<footnote id=\"556\"><mnote>(3)</mnote> النّكس: العود في المرض. كتاب العين 314:5 «نكس». </footnote>"
+        },
+        {
+          "footnoteId": 714168588,
+          "text": "<footnote id=\"557\"><mnote>(4)</mnote> في النسخة: «اغتسل» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168589,
+          "text": "<footnote id=\"558\"><mnote>(5)</mnote> من قوله: «و ذاك أنّه كان...» إلى هنا أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168590,
+          "text": "<footnote id=\"559\"><mnote>(6)</mnote> رواه الكليني في الكافي 444/291:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن أبي يحيى الواسطي. </footnote>"
+        },
+        {
+          "footnoteId": 714168591,
+          "text": "<footnote id=\"560\"><mnote>(7)</mnote> في النسخة: «أحمد بن صلح» و لم نعثر عليه في مصدر، و الصحيح ما أثبتناه، و هو:<page number=\"69\"/>أحمد بن صبيح أبو عبد الله الأسدي الكوفي. انظر: رجال النجاشي: 184/78، فهرست الطوسي: 68/56. </footnote>"
+        }
+      ],
+      "pageValue": "68",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2406\" paragraph-id=\"2406\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo68\">68</span>[102] </p>\n  <p id=\"p2407\" paragraph-id=\"2407\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى بعض أصحابنا، رفعه إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«كان <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span> يأكل رطبا - يقال له: رطب الشنوة - و أصحابه إذ أقبل <span class=\"Y\"><span class=\"maasoom\">علي عليه السّلام</span></span>، و هو أرمد فسلّم ثمّ جلس يأكل معهم.</span>\n  </p>\n  <p id=\"p2408\" paragraph-id=\"2408\" class=\" G\">\n    <span class=\"hadith\">فقال <span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span>: تأكل الحلو و أنت أرمد؟ قال: فتنحّى <span class=\"BD\"><span class=\"maasoom\">علي عليه السّلام</span></span> و جلس و هو ينظر إليهم يأكلون<span><sup><a class=\"NewFn\" href=\"#footnote554\" title=\"(1)  في النسخة: «يأكل» و الصواب ما أثبتناه. \">1</a></sup></span>، فرمى إليه تمرة فأكلها، ثمّ رمى اخرى فأكلها حتّى رمى إليه سبعا، ثمّ قال: حسبك، إنّه لا يضرّ من التمر ما كان وترا»<span><sup><a class=\"NewFn\" href=\"#footnote555\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>. </span>\n  </p>\n  <p id=\"p2409\" paragraph-id=\"2409\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في نكس<span><sup><a class=\"NewFn\" href=\"#footnote556\" title=\"(3)  النّكس: العود في المرض. كتاب العين 314:5 «نكس». \">3</a></sup></span> المريض </strong>\n  </p>\n  <p id=\"p2410\" paragraph-id=\"2410\" class=\" G\">[103] </p>\n  <p id=\"p2411\" paragraph-id=\"2411\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن أبي يحيى الواسطي، عن بعض أصحابنا، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>:</span>\n    </span>\n  </p>\n  <p id=\"p2412\" paragraph-id=\"2412\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\"></span>«إنّ المشي للمريض ينكس، قال: و كان <span class=\"Y\"><span class=\"maasoom\">أبي عليه السّلام</span></span> إذا اعتلّ‌<span><sup><a class=\"NewFn\" href=\"#footnote557\" title=\"(4)  في النسخة: «اغتسل» و ما أثبتناه من المصدر. \">4</a></sup></span> جعل في ثوب، فحمل لحاجته - يعني الوضوء -، و ذاك أنّه كان يقول: إنّ المشي للمريض نكس<span><sup><a class=\"NewFn\" href=\"#footnote558\" title=\"(5)  من قوله: «و ذاك أنّه كان...» إلى هنا أثبتناه من المصدر. \">5</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote559\" title=\"(6)  رواه الكليني في الكافي 444/291:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن أبي يحيى الواسطي. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2413\" paragraph-id=\"2413\" class=\" G\">[104] </p>\n  <p id=\"p2414\" paragraph-id=\"2414\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن علي بن الحسن بن فضّال، عن أحمد بن صبيح الفارسي مولى بني أسد<span><sup><a class=\"NewFn\" href=\"#footnote560\" title=\"(7)  في النسخة: «أحمد بن صلح» و لم نعثر عليه في مصدر، و الصحيح ما أثبتناه، و هو:\">7</a></sup></span>، عن سليمان بن عطاء، عن خالد بيّاع القلانس، </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote554\" footnote-id=\"554\">(1) <page number=\"68\" /> في النسخة: «يأكل» و الصواب ما أثبتناه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote555\" footnote-id=\"555\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote556\" footnote-id=\"556\">(3)  النّكس: العود في المرض. كتاب العين 314:5 «نكس». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote557\" footnote-id=\"557\">(4)  في النسخة: «اغتسل» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote558\" footnote-id=\"558\">(5)  من قوله: «و ذاك أنّه كان...» إلى هنا أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote559\" footnote-id=\"559\">(6)  رواه الكليني في الكافي 444/291:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن أبي يحيى الواسطي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote560\" footnote-id=\"560\">(7)  في النسخة: «أحمد بن صلح» و لم نعثر عليه في مصدر، و الصحيح ما أثبتناه، و هو:</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D498A8CD-2798-480C-BEE4-E183AF55F702",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

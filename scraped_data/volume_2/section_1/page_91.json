@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 91,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170087,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1342\">[121] يؤخذ هذا الجوارش قبل الطعام فيشهّي الطعام، و يؤخذ بعد الطعام فيمرئ الطعام، و يقطع الأبرقة و البلغم، و يزيد في الباه و يقوّي الظهر، <page number=\"91\"/> و يطرد الرياح من المعدة، يؤخذ من النانخواه جزء و من الحبّة السوداء جزء و من الصعتر البرّي نصف جزء، تدقّ هذه الأدوية دقّا ناعما و تعجن بعسل و تجعل بنادق كأمثال الجوز، يؤخذ منه قبل الطعام و بعده. </p>"
+        },
+        {
+          "paragraphId": 714170088,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1343\"><heading level=\"3\">جوارش [أيضا] </heading></p>"
+        },
+        {
+          "paragraphId": 714170089,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1344\">[122] </p>"
+        },
+        {
+          "paragraphId": 714170090,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1345\"><format class=\"hadith\" who=\"6\" Id=\"121\" RevayatIndex=\"642\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«يؤخذ عسل و صعتر، يدقّ الصعتر و ينخل و يخلط بالعسل، فإنّه يهضم الطعام و يجعل للمعدة خملا»<lfootnote noteId=\"354\">1</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170091,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1346\"><heading level=\"2\">[باب] الإطريفل الأصغر<lfootnote noteId=\"355\">2</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714170092,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1347\">[123] </p>"
+        },
+        {
+          "paragraphId": 714170093,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1348\"><format class=\"hadith\" who=\"13,32,6\" Id=\"122\" RevayatIndex=\"643\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«إنّ <format class=\"E\" Number=\"32\">موسى بن عمران صلوات الله عليه</format> شكا إلى الله تعالى البلغم<lfootnote noteId=\"356\">3</lfootnote>، فأوحى الله تعالى إليه: خذ الهليلج و البليلج <page number=\"92\"/> و الآملج، أجزاء سواء، فلتّه بسمن بقر، و اعجنه بعسل<lfootnote noteId=\"357\">1</lfootnote>».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170711,
+          "text": "<footnote id=\"354\"><page number=\"91\"/><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و تقدّم نحوه في الحديث 382 من الجزء الأوّل بالإسناد عن أبي عبد الله عليه السّلام قال: «الصعتر يجعل للمعدة خملا كخمل القطيفة».<br/>و ورد في الرسالة الذهبية: 41: «و من أراد أن يذيب البلغم من بدنه و ينقصه فليأكل كلّ يوم بكرة بشيء من الجوارش الحريف، و يكثر دخول الحمّام، و مضاجعة النساء، و الجلوس في الشمس». </footnote>"
+        },
+        {
+          "footnoteId": 714170712,
+          "text": "<footnote id=\"355\"><mnote>(2)</mnote> الإطريفل: لفظة يونانية، معناها الإهليلجات، قال ابن سهل الطبري: الطريفل الأصغر يدبغ المعدة، و ينشّف الرطوبة، و ينقّي اللون، و ينفع من البواسير، و يحبس البطن، هليلج أسود و بليلج و آملج أجزاء سواء، يدقّ و ينخل بحريرة ويلتّ بسمن البقر و يعجن بعسل. فردوس الحكمة: 214. </footnote>"
+        },
+        {
+          "footnoteId": 714170713,
+          "text": "<footnote id=\"356\"><mnote>(3)</mnote> في الكافي: «شكا إلى ربّه تعالى البلّة و الرطوبة».</footnote>"
+        }
+      ],
+      "pageValue": "91",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1342\" paragraph-id=\"1342\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo91\">91</span> و يطرد الرياح من المعدة، يؤخذ من النانخواه جزء و من الحبّة السوداء جزء و من الصعتر البرّي نصف جزء، تدقّ هذه الأدوية دقّا ناعما و تعجن بعسل و تجعل بنادق كأمثال الجوز، يؤخذ منه قبل الطعام و بعده. </p>\n  <p id=\"p1343\" paragraph-id=\"1343\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">جوارش [أيضا] </strong>\n  </p>\n  <p id=\"p1344\" paragraph-id=\"1344\" class=\" G\">[122] </p>\n  <p id=\"p1345\" paragraph-id=\"1345\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«يؤخذ عسل و صعتر، يدقّ الصعتر و ينخل و يخلط بالعسل، فإنّه يهضم الطعام و يجعل للمعدة خملا»<span><sup><a class=\"NewFn\" href=\"#footnote354\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا، و تقدّم نحوه في الحديث 382 من الجزء الأوّل بالإسناد عن أبي عبد الله عليه السّلام قال: «الصعتر يجعل للمعدة خملا كخمل القطيفة».و ورد في الرسالة الذهبية: 41: «و من أراد أن يذيب البلغم من بدنه و ينقصه فليأكل كلّ يوم بكرة بشيء من الجوارش الحريف، و يكثر دخول الحمّام، و مضاجعة النساء، و الجلوس في الشمس». \">1</a></sup></span>. </span>\n  </p>\n  <p id=\"p1346\" paragraph-id=\"1346\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الإطريفل الأصغر<span><sup><a class=\"NewFn\" href=\"#footnote355\" title=\"(2)  الإطريفل: لفظة يونانية، معناها الإهليلجات، قال ابن سهل الطبري: الطريفل الأصغر يدبغ المعدة، و ينشّف الرطوبة، و ينقّي اللون، و ينفع من البواسير، و يحبس البطن، هليلج أسود و بليلج و آملج أجزاء سواء، يدقّ و ينخل بحريرة ويلتّ بسمن البقر و يعجن بعسل. فردوس الحكمة: 214. \">2</a></sup></span></strong>\n  </p>\n  <p id=\"p1347\" paragraph-id=\"1347\" class=\" G\">[123] </p>\n  <p id=\"p1348\" paragraph-id=\"1348\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«إنّ <span class=\"E\">موسى بن عمران صلوات الله عليه</span> شكا إلى الله تعالى البلغم<span><sup><a class=\"NewFn\" href=\"#footnote356\" title=\"(3)  في الكافي: «شكا إلى ربّه تعالى البلّة و الرطوبة».\">3</a></sup></span>، فأوحى الله تعالى إليه: خذ الهليلج و البليلج </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote354\" footnote-id=\"354\">(1) <page number=\"91\" /> لم نعثر عليه في المصادر المتوفّرة لدينا، و تقدّم نحوه في الحديث 382 من الجزء الأوّل بالإسناد عن أبي عبد الله عليه السّلام قال: «الصعتر يجعل للمعدة خملا كخمل القطيفة».<br />و ورد في الرسالة الذهبية: 41: «و من أراد أن يذيب البلغم من بدنه و ينقصه فليأكل كلّ يوم بكرة بشيء من الجوارش الحريف، و يكثر دخول الحمّام، و مضاجعة النساء، و الجلوس في الشمس». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote355\" footnote-id=\"355\">(2)  الإطريفل: لفظة يونانية، معناها الإهليلجات، قال ابن سهل الطبري: الطريفل الأصغر يدبغ المعدة، و ينشّف الرطوبة، و ينقّي اللون، و ينفع من البواسير، و يحبس البطن، هليلج أسود و بليلج و آملج أجزاء سواء، يدقّ و ينخل بحريرة ويلتّ بسمن البقر و يعجن بعسل. فردوس الحكمة: 214. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote356\" footnote-id=\"356\">(3)  في الكافي: «شكا إلى ربّه تعالى البلّة و الرطوبة».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D57593AC-E2B2-4732-8F5F-AD020EA604FD",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

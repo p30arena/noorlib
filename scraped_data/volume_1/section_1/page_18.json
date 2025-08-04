@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 18,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166074,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1820\"><page number=\"18\"/> 17 - كتاب طبّ أهل البيت عليهم السّلام، لأبي عبد الله الحسين بن محمّد [أحمد] بن عامر [عمران] بن أبي بكر الأشعري القمّي<lfootnote noteId=\"27\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166075,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1821\">18 - مداواة الجسد لحياة الأبد، لأبي الحسين الطبري<lfootnote noteId=\"28\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166076,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1822\">19 - كتاب الطبّ‌، لأبي الحسن علي بن الحسين بن موسى بن بابويه القمي والد الشيخ الصدوق (329 ه‍) صاحب الكتب الكثيرة منها: الإمامة و التبصرة<lfootnote noteId=\"29\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166077,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1823\">20 و 21 - كتاب الطبّ و كتاب الأدوية، لأحمد بن محمّد بن الحسين بن الحسن بن دؤل القمي (350 ه‍)<lfootnote noteId=\"30\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166078,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1824\">22 - كتاب الطبّ‌، لمحمّد بن أحمد بن محمّد البجلي (266 ه‍)<lfootnote noteId=\"31\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166079,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1825\">23 - كتاب مداواة الجسد، لأبي القاسم جعفر بن محمّد بن جعفر بن موسى ابن قولويه (367 ه‍) صاحب كتاب كامل الزيارات<lfootnote noteId=\"32\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166080,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1826\">24 - كتاب نوادر الطبّ‌، لمحمّد بن علي بن الحسين بن بابويه القمي <page number=\"19\"/> المشهور بالشيخ الصدوق (384 ه‍) صاحب الكتب الكثيرة المشهورة<lfootnote noteId=\"33\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714167982,
+          "text": "<footnote id=\"27\"><page number=\"18\"/><mnote>(1)</mnote> لسان الميزان 1107/265:2: الحسين بن أحمد بن عامر الأشعري، ذكره علي بن الحكم في شيوخ الشيعة، و قال: كان من شيوخ أبي جعفر الكليني صاحب كتاب الكافي، و صنّف الحسين كتاب طبّ أهل البيت، و هو من خير الكتب المصنّفة في هذا الفنّ‌. </footnote>"
+        },
+        {
+          "footnoteId": 714167983,
+          "text": "<footnote id=\"28\"><mnote>(2)</mnote> الفهرست: 831/522. </footnote>"
+        },
+        {
+          "footnoteId": 714167984,
+          "text": "<footnote id=\"29\"><mnote>(3)</mnote> رجال النجاشي: 684/261، فهرست الطوسي: 393/273، و انظر: رجال الطوسي: 6191/432. </footnote>"
+        },
+        {
+          "footnoteId": 714167985,
+          "text": "<footnote id=\"30\"><mnote>(4)</mnote> رجال النجاشي: 223/89. </footnote>"
+        },
+        {
+          "footnoteId": 714167986,
+          "text": "<footnote id=\"31\"><mnote>(5)</mnote> رجال النجاشي: 920/342، و انظر: رجال الطوسي: 6302/441. </footnote>"
+        },
+        {
+          "footnoteId": 714167987,
+          "text": "<footnote id=\"32\"><mnote>(6)</mnote> رجال النجاشي: 318/124، فهرست الطوسي: 141/109.</footnote>"
+        }
+      ],
+      "pageValue": "18",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1820\" paragraph-id=\"1820\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo18\">18</span> 17 - كتاب طبّ أهل البيت عليهم السّلام، لأبي عبد الله الحسين بن محمّد [أحمد] بن عامر [عمران] بن أبي بكر الأشعري القمّي<span><sup><a class=\"NewFn\" href=\"#footnote27\" title=\"(1)  لسان الميزان 1107/265:2: الحسين بن أحمد بن عامر الأشعري، ذكره علي بن الحكم في شيوخ الشيعة، و قال: كان من شيوخ أبي جعفر الكليني صاحب كتاب الكافي، و صنّف الحسين كتاب طبّ أهل البيت، و هو من خير الكتب المصنّفة في هذا الفنّ‌. \">1</a></sup></span>.</p>\n  <p id=\"p1821\" paragraph-id=\"1821\" class=\" G\">18 - مداواة الجسد لحياة الأبد، لأبي الحسين الطبري<span><sup><a class=\"NewFn\" href=\"#footnote28\" title=\"(2)  الفهرست: 831/522. \">2</a></sup></span>.</p>\n  <p id=\"p1822\" paragraph-id=\"1822\" class=\" G\">19 - كتاب الطبّ‌، لأبي الحسن علي بن الحسين بن موسى بن بابويه القمي والد الشيخ الصدوق (329 ه‍) صاحب الكتب الكثيرة منها: الإمامة و التبصرة<span><sup><a class=\"NewFn\" href=\"#footnote29\" title=\"(3)  رجال النجاشي: 684/261، فهرست الطوسي: 393/273، و انظر: رجال الطوسي: 6191/432. \">3</a></sup></span>.</p>\n  <p id=\"p1823\" paragraph-id=\"1823\" class=\" G\">20 و 21 - كتاب الطبّ و كتاب الأدوية، لأحمد بن محمّد بن الحسين بن الحسن بن دؤل القمي (350 ه‍)<span><sup><a class=\"NewFn\" href=\"#footnote30\" title=\"(4)  رجال النجاشي: 223/89. \">4</a></sup></span>.</p>\n  <p id=\"p1824\" paragraph-id=\"1824\" class=\" G\">22 - كتاب الطبّ‌، لمحمّد بن أحمد بن محمّد البجلي (266 ه‍)<span><sup><a class=\"NewFn\" href=\"#footnote31\" title=\"(5)  رجال النجاشي: 920/342، و انظر: رجال الطوسي: 6302/441. \">5</a></sup></span>.</p>\n  <p id=\"p1825\" paragraph-id=\"1825\" class=\" G\">23 - كتاب مداواة الجسد، لأبي القاسم جعفر بن محمّد بن جعفر بن موسى ابن قولويه (367 ه‍) صاحب كتاب كامل الزيارات<span><sup><a class=\"NewFn\" href=\"#footnote32\" title=\"(6)  رجال النجاشي: 318/124، فهرست الطوسي: 141/109.\">6</a></sup></span>.</p>\n  <p id=\"p1826\" paragraph-id=\"1826\" class=\" G\">24 - كتاب نوادر الطبّ‌، لمحمّد بن علي بن الحسين بن بابويه القمي </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote27\" footnote-id=\"27\">(1) <page number=\"18\" /> لسان الميزان 1107/265:2: الحسين بن أحمد بن عامر الأشعري، ذكره علي بن الحكم في شيوخ الشيعة، و قال: كان من شيوخ أبي جعفر الكليني صاحب كتاب الكافي، و صنّف الحسين كتاب طبّ أهل البيت، و هو من خير الكتب المصنّفة في هذا الفنّ‌. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote28\" footnote-id=\"28\">(2)  الفهرست: 831/522. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote29\" footnote-id=\"29\">(3)  رجال النجاشي: 684/261، فهرست الطوسي: 393/273، و انظر: رجال الطوسي: 6191/432. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote30\" footnote-id=\"30\">(4)  رجال النجاشي: 223/89. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote31\" footnote-id=\"31\">(5)  رجال النجاشي: 920/342، و انظر: رجال الطوسي: 6302/441. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote32\" footnote-id=\"32\">(6)  رجال النجاشي: 318/124، فهرست الطوسي: 141/109.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C602199F-3ED1-4AE0-9D89-6501DA32258C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

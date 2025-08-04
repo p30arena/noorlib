@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 172,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170410,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1665\"><page number=\"172\"/>[239] </p>"
+        },
+        {
+          "paragraphId": 714170411,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1666\"><format class=\"hadith\" who=\"14,6\" Id=\"236\" RevayatIndex=\"757\"><format class=\"sanadHadith\">روي عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">جعفر</format></format>، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"5\">أبيه عليهما السّلام</format></format> قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> و شافته<lfootnote noteId=\"699\">1</lfootnote>امرأة فقالت: إنّ لي زوجا و به غلظة، و إنّي صنعت<lfootnote noteId=\"700\">2</lfootnote> به شيئا لأعطفه عليّ‌.</format></p>"
+        },
+        {
+          "paragraphId": 714170412,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1667\"><format class=\"hadith\" who=\"14,6\" Id=\"236\" RevayatIndex=\"757\">فقال: أفّ لك، كدرت البحار، و كدرت الطين<lfootnote noteId=\"701\">3</lfootnote>، و لعنتك الملائكة الأخيار، ملائكة السماء و الأرض».</format></p>"
+        },
+        {
+          "paragraphId": 714170413,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1668\"><format class=\"hadith\" who=\"14,6\" Id=\"236\" RevayatIndex=\"757\">فصامت نهارها، و قامت ليلها، و حلقت رأسها، و لبست المسوح<lfootnote noteId=\"702\">4</lfootnote>. فبلغ ذلك <format class=\"maasoom\" maasoomNo=\"14\">النبيّ صلّى الله عليه و آله</format> فقال: «إنّ ذلك لا يقبل منها<lfootnote noteId=\"703\">5</lfootnote>»<lfootnote noteId=\"704\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170414,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1669\"><page number=\"173\"/>[240] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171495,
+          "text": "<footnote id=\"698\"><mnote>(8)</mnote> روى الحميري نحوه في قرب الإسناد: 554/152، فقال: [السندي بن محمّد البزّاز، <page number=\"172\"/>قال: حدّثني] أبو البختري، عن جعفر، عن أبيه: أنّ علي بن أبي طالب عليه السّلام قال: «من تعلّم شيئا من السحر - قليلا أو كثيرا - فقد كفر، و كان آخر عهده بربّه، وحدّه أن يقتل، إلّا أن يتوب»، و الطوسي في تهذيب الأحكام 586/147:10، عنه [أي: عن محمّد بن الحسن الصفّار]، عن الحسن بن موسى الخشّاب، عن غياث بن كلوب بن فيهس البجلي، عن إسحاق بن عمّار، عن جعفر، عن أبيه عليهما السّلام أنّ عليا عليه السّلام كان يقول:<br/>«من تعلّم من السحر شيئا كان آخر عهده بربّه، و حدّه القتل إلّا أن يتوب». </footnote>"
+        },
+        {
+          "footnoteId": 714171496,
+          "text": "<footnote id=\"699\"><mnote>(1)</mnote> و تشوفت إلى الشيء: أي تطلعت، و رأيت نساء يتشوفن من السطوح، أي ينظرن و يتطاولن. لسان العرب 185:9 «شوف». </footnote>"
+        },
+        {
+          "footnoteId": 714171497,
+          "text": "<footnote id=\"700\"><mnote>(2)</mnote> في النسخة: «صبغته» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171498,
+          "text": "<footnote id=\"701\"><mnote>(3)</mnote> في النسخة: «كدرت البخار» و في مكارم الأخلاق: «كدرت التجارة و كدرت العين»، و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171499,
+          "text": "<footnote id=\"702\"><mnote>(4)</mnote> المسوح جمع المسح: الكساء من الشعر. لسان العرب 596:2 «مسح». </footnote>"
+        },
+        {
+          "footnoteId": 714171500,
+          "text": "<footnote id=\"703\"><mnote>(5)</mnote> في النوادر للراوندي زيادة: «حتّى ترضي الزوج». </footnote>"
+        },
+        {
+          "footnoteId": 714171501,
+          "text": "<footnote id=\"704\"><mnote>(6)</mnote> رواه ابن الأشعث في الجعفريات: 99 - و بالإسناد إليه الراوندي في النوادر: 24 - فقال في باب التغليظ في السحر: حدّثني موسى [بن إسماعيل بن موسى بن جعفر عليهما السّلام] قال:<br/>حدّثنا أبي، عن أبيه، عن جدّه جعفر بن محمّد، عن أبيه، عن جدّه علي بن الحسين، عن أبيه، عن علي عليهم السّلام، نحوه، و الصدوق في من لا يحضره الفقيه 4544/445:3، فقال: <page number=\"173\"/>باب عقوبة المرأة على أن تسحر زوجها، روى إسماعيل بن [أبي زياد] مسلم [السكوني] عن جعفر بن محمّد، عن أبيه، عن آبائه عليهم السّلام، و الطبرسي في مكارم الأخلاق: 6/414، في السحر، عن الصادق عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "172",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1665\" paragraph-id=\"1665\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo172\">172</span>[239] </p>\n  <p id=\"p1666\" paragraph-id=\"1666\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"HQ\"><span class=\"maasoom\">جعفر</span></span>، عن <span class=\"G\"><span class=\"maasoom\">أبيه عليهما السّلام</span></span> قال: </span>«قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span> و شافته<span><sup><a class=\"NewFn\" href=\"#footnote699\" title=\"(1)  و تشوفت إلى الشيء: أي تطلعت، و رأيت نساء يتشوفن من السطوح، أي ينظرن و يتطاولن. لسان العرب 185:9 «شوف». \">1</a></sup></span>امرأة فقالت: إنّ لي زوجا و به غلظة، و إنّي صنعت<span><sup><a class=\"NewFn\" href=\"#footnote700\" title=\"(2)  في النسخة: «صبغته» و ما أثبتناه من المصدر. \">2</a></sup></span> به شيئا لأعطفه عليّ‌.</span>\n  </p>\n  <p id=\"p1667\" paragraph-id=\"1667\" class=\" G\">\n    <span class=\"hadith\">فقال: أفّ لك، كدرت البحار، و كدرت الطين<span><sup><a class=\"NewFn\" href=\"#footnote701\" title=\"(3)  في النسخة: «كدرت البخار» و في مكارم الأخلاق: «كدرت التجارة و كدرت العين»، و ما أثبتناه من المصدر. \">3</a></sup></span>، و لعنتك الملائكة الأخيار، ملائكة السماء و الأرض».</span>\n  </p>\n  <p id=\"p1668\" paragraph-id=\"1668\" class=\" G\">\n    <span class=\"hadith\">فصامت نهارها، و قامت ليلها، و حلقت رأسها، و لبست المسوح<span><sup><a class=\"NewFn\" href=\"#footnote702\" title=\"(4)  المسوح جمع المسح: الكساء من الشعر. لسان العرب 596:2 «مسح». \">4</a></sup></span>. فبلغ ذلك <span class=\"maasoom\">النبيّ صلّى الله عليه و آله</span> فقال: «إنّ ذلك لا يقبل منها<span><sup><a class=\"NewFn\" href=\"#footnote703\" title=\"(5)  في النوادر للراوندي زيادة: «حتّى ترضي الزوج». \">5</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote704\" title=\"(6)  رواه ابن الأشعث في الجعفريات: 99 - و بالإسناد إليه الراوندي في النوادر: 24 - فقال في باب التغليظ في السحر: حدّثني موسى [بن إسماعيل بن موسى بن جعفر عليهما السّلام] قال:حدّثنا أبي، عن أبيه، عن جدّه جعفر بن محمّد، عن أبيه، عن جدّه علي بن الحسين، عن أبيه، عن علي عليهم السّلام، نحوه، و الصدوق في من لا يحضره الفقيه 4544/445:3، فقال: \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1669\" paragraph-id=\"1669\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote698\" footnote-id=\"698\"><page number=\"172\" />قال: حدّثني] أبو البختري، عن جعفر، عن أبيه: أنّ علي بن أبي طالب عليه السّلام قال: «من تعلّم شيئا من السحر - قليلا أو كثيرا - فقد كفر، و كان آخر عهده بربّه، وحدّه أن يقتل، إلّا أن يتوب»، و الطوسي في تهذيب الأحكام 586/147:10، عنه [أي: عن محمّد بن الحسن الصفّار]، عن الحسن بن موسى الخشّاب، عن غياث بن كلوب بن فيهس البجلي، عن إسحاق بن عمّار، عن جعفر، عن أبيه عليهما السّلام أنّ عليا عليه السّلام كان يقول:<br />«من تعلّم من السحر شيئا كان آخر عهده بربّه، و حدّه القتل إلّا أن يتوب». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote699\" footnote-id=\"699\">(1)  و تشوفت إلى الشيء: أي تطلعت، و رأيت نساء يتشوفن من السطوح، أي ينظرن و يتطاولن. لسان العرب 185:9 «شوف». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote700\" footnote-id=\"700\">(2)  في النسخة: «صبغته» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote701\" footnote-id=\"701\">(3)  في النسخة: «كدرت البخار» و في مكارم الأخلاق: «كدرت التجارة و كدرت العين»، و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote702\" footnote-id=\"702\">(4)  المسوح جمع المسح: الكساء من الشعر. لسان العرب 596:2 «مسح». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote703\" footnote-id=\"703\">(5)  في النوادر للراوندي زيادة: «حتّى ترضي الزوج». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote704\" footnote-id=\"704\">(6)  رواه ابن الأشعث في الجعفريات: 99 - و بالإسناد إليه الراوندي في النوادر: 24 - فقال في باب التغليظ في السحر: حدّثني موسى [بن إسماعيل بن موسى بن جعفر عليهما السّلام] قال:<br />حدّثنا أبي، عن أبيه، عن جدّه جعفر بن محمّد، عن أبيه، عن جدّه علي بن الحسين، عن أبيه، عن علي عليهم السّلام، نحوه، و الصدوق في من لا يحضره الفقيه 4544/445:3، فقال: </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "77F88DCF-3BA2-406E-9F27-A42A45A2BD58",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

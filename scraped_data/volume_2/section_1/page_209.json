@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 209,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170587,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1842\"><page number=\"209\"/>[286] </p>"
+        },
+        {
+          "paragraphId": 714170588,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1843\"><format class=\"hadith\" who=\"3,2,6\" Id=\"283\" RevayatIndex=\"804\"><format class=\"sanadHadith\">و قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«إنّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"2\">الحسن</format></format> و <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"3\">الحسين صلوات الله عليهما</format></format> كانا يتختّمان في يسارهما»<lfootnote noteId=\"854\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170589,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1844\">[287]</p>"
+        },
+        {
+          "paragraphId": 714170590,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1845\"><format class=\"hadith\" who=\"1\" Id=\"284\" RevayatIndex=\"805\"><format class=\"sanadHadith\"/> و كان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين عليه السّلام</format></format> يتختّم في يمينه، نقش خاتمه على فصّ حديد صيني مبارك، ينقش على بركة الله تعالى، في أوّل جمعة من شهر رمضان على فصّ حديد صيني سطرين على هذا المثال يخطّ به:</format></p>"
+        },
+        {
+          "paragraphId": 714170591,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1846\"><format class=\"hadith\" who=\"1\" Id=\"284\" RevayatIndex=\"805\">كعسلهوره</format></p>"
+        },
+        {
+          "paragraphId": 714170592,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1847\"><format class=\"hadith\" who=\"1\" Id=\"284\" RevayatIndex=\"805\">لا آلاء إلّا آلاؤك يا الله<lfootnote noteId=\"855\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170593,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1848\">[288] يكتب للحمّى و الصداع و يختم بطين و يعلّق على صدغ...<lfootnote noteId=\"856\">3</lfootnote> ما <page number=\"210\"/> داعوا في فزع، أو يعلّق عليه الخاتم<lfootnote noteId=\"857\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171205,
+          "text": "<footnote id=\"853\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و لكن روى الصدوق ما يؤيّده معنى في ثواب الأعمال: 1/180، باب ثواب من كتب على خاتمه «ما شاء الله لا قوة إلّا بالله أستغفر الله»، أبي رحمه الله، قال: حدّثني أحمد بن إدريس، قال: حدّثني محمّد بن أحمد، قال: حدّثني عمرو بن علي، عن عمّه محمّد بن عمر، يرفعه إلى أبي عبد الله عليه السّلام، قال: «من كتب على خاتمه: ما شاء الله لا قوّة إلّا بالله أستغفر الله أمن من الفقر المدقع»، و السبزواري مثله في<page number=\"209\"/>جامع الأخبار: 25/376، عن محمّد بن محمّد بن عمير. </footnote>"
+        },
+        {
+          "footnoteId": 714171206,
+          "text": "<footnote id=\"854\"><mnote>(1)</mnote> رواه الكليني بتفاوت يسير في الكافي 469:6-13/470-14، باب الخواتيم، عن الحسين بن محمّد، عن معلّى بن محمّد، عن الوشّاء، عن مثنّى الحنّاط، عن حاتم بن إسماعيل، عن أبي عبد الله عليه السّلام.<br/>و عن عدّة من أصحابنا، عن أحمد بن محمّد بن خالد، عن أحمد بن محمّد بن أبي نصر، عن أبان، عن يحيى بن أبي العلاء، عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 4/93، في كيفية التختّم، فقال: عن محمّد بن علي، عن أبيه، عن أخيه عليهم السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171207,
+          "text": "<footnote id=\"855\"><mnote>(2)</mnote> رواه في مكارم الأخلاق: 1/93، في نقش فصّ يصلح لكلّ علّة، من طبّ الأئمّة عليهم السّلام ينقش على بركة... صيني على هذا المثال: «كعسلهون، لا أهلا إلّا الأوّل بالله لا آلاء إلّا آلاؤك يا الله» سطرين. و قال ابن طاوس في الأمان من أخطار الأسفار: 50: و من ذلك أنّنا ذكرنا الفصّ الصيني، و لم نذكر نقشته و لا الوقت الذي ينقش فيه، و نحن نذكر النقشة، ففيها بعض المراد إلى أن يتهيّأ ذكر الوقت الذي ينقش فيه، و هذه صورة النقشة:<br/>«صعليل همال كهيعص مال». </footnote>"
+        },
+        {
+          "footnoteId": 714171208,
+          "text": "<footnote id=\"856\"><mnote>(3)</mnote> النسخة مخرومة بمقدار كلمة.</footnote>"
+        }
+      ],
+      "pageValue": "209",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1842\" paragraph-id=\"1842\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo209\">209</span>[286] </p>\n  <p id=\"p1843\" paragraph-id=\"1843\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«إنّ <span class=\"Y\"><span class=\"maasoom\">الحسن</span></span> و <span class=\"Y\"><span class=\"maasoom\">الحسين صلوات الله عليهما</span></span> كانا يتختّمان في يسارهما»<span><sup><a class=\"NewFn\" href=\"#footnote854\" title=\"(1)  رواه الكليني بتفاوت يسير في الكافي 469:6-13/470-14، باب الخواتيم، عن الحسين بن محمّد، عن معلّى بن محمّد، عن الوشّاء، عن مثنّى الحنّاط، عن حاتم بن إسماعيل، عن أبي عبد الله عليه السّلام.و عن عدّة من أصحابنا، عن أحمد بن محمّد بن خالد، عن أحمد بن محمّد بن أبي نصر، عن أبان، عن يحيى بن أبي العلاء، عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 4/93، في كيفية التختّم، فقال: عن محمّد بن علي، عن أبيه، عن أخيه عليهم السّلام. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1844\" paragraph-id=\"1844\" class=\" G\">[287]</p>\n  <p id=\"p1845\" paragraph-id=\"1845\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\"></span> و كان <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين عليه السّلام</span></span> يتختّم في يمينه، نقش خاتمه على فصّ حديد صيني مبارك، ينقش على بركة الله تعالى، في أوّل جمعة من شهر رمضان على فصّ حديد صيني سطرين على هذا المثال يخطّ به:</span>\n  </p>\n  <p id=\"p1846\" paragraph-id=\"1846\" class=\" G\">\n    <span class=\"hadith\">كعسلهوره</span>\n  </p>\n  <p id=\"p1847\" paragraph-id=\"1847\" class=\" G\">\n    <span class=\"hadith\">لا آلاء إلّا آلاؤك يا الله<span><sup><a class=\"NewFn\" href=\"#footnote855\" title=\"(2)  رواه في مكارم الأخلاق: 1/93، في نقش فصّ يصلح لكلّ علّة، من طبّ الأئمّة عليهم السّلام ينقش على بركة... صيني على هذا المثال: «كعسلهون، لا أهلا إلّا الأوّل بالله لا آلاء إلّا آلاؤك يا الله» سطرين. و قال ابن طاوس في الأمان من أخطار الأسفار: 50: و من ذلك أنّنا ذكرنا الفصّ الصيني، و لم نذكر نقشته و لا الوقت الذي ينقش فيه، و نحن نذكر النقشة، ففيها بعض المراد إلى أن يتهيّأ ذكر الوقت الذي ينقش فيه، و هذه صورة النقشة:«صعليل همال كهيعص مال». \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1848\" paragraph-id=\"1848\" class=\" G\">[288] يكتب للحمّى و الصداع و يختم بطين و يعلّق على صدغ...<span><sup><a class=\"NewFn\" href=\"#footnote856\" title=\"(3)  النسخة مخرومة بمقدار كلمة.\">3</a></sup></span> ما </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote853\" footnote-id=\"853\"><page number=\"209\" />جامع الأخبار: 25/376، عن محمّد بن محمّد بن عمير. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote854\" footnote-id=\"854\">(1)  رواه الكليني بتفاوت يسير في الكافي 469:6-13/470-14، باب الخواتيم، عن الحسين بن محمّد، عن معلّى بن محمّد، عن الوشّاء، عن مثنّى الحنّاط، عن حاتم بن إسماعيل، عن أبي عبد الله عليه السّلام.<br />و عن عدّة من أصحابنا، عن أحمد بن محمّد بن خالد، عن أحمد بن محمّد بن أبي نصر، عن أبان، عن يحيى بن أبي العلاء، عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 4/93، في كيفية التختّم، فقال: عن محمّد بن علي، عن أبيه، عن أخيه عليهم السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote855\" footnote-id=\"855\">(2)  رواه في مكارم الأخلاق: 1/93، في نقش فصّ يصلح لكلّ علّة، من طبّ الأئمّة عليهم السّلام ينقش على بركة... صيني على هذا المثال: «كعسلهون، لا أهلا إلّا الأوّل بالله لا آلاء إلّا آلاؤك يا الله» سطرين. و قال ابن طاوس في الأمان من أخطار الأسفار: 50: و من ذلك أنّنا ذكرنا الفصّ الصيني، و لم نذكر نقشته و لا الوقت الذي ينقش فيه، و نحن نذكر النقشة، ففيها بعض المراد إلى أن يتهيّأ ذكر الوقت الذي ينقش فيه، و هذه صورة النقشة:<br />«صعليل همال كهيعص مال». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote856\" footnote-id=\"856\">(3)  النسخة مخرومة بمقدار كلمة.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "DACA6F65-5B73-4282-BB7F-8A067F5F8808",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,85 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 45,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169884,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1139\"><format class=\"hadith\" who=\"6\" Id=\"61\" RevayatIndex=\"582\"><format class=\"sanadHadith\">روى سهل بن زياد الآدمي<lfootnote noteId=\"171\">5</lfootnote>، عن محمّد بن بكر، عن زكريّا <page number=\"45\"/> المؤمن<lfootnote noteId=\"172\">1</lfootnote>، عن بعض رجاله، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«إنّ الدم يجتمع في موضع الحجامة<lfootnote noteId=\"173\">2</lfootnote> في يوم الخميس، فإنّ عشيّة الجمعة يبتدر الدم من القيامة و لا يرجع إلى وكره إلى غداة الخميس». ثمّ التفت إلى غلامه زبيخ «اشدّ قصب الملازم و اجعل مصّك مجّا و اجعل شرطك زحفا»<lfootnote noteId=\"174\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169885,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1140\">[62] </p>"
+        },
+        {
+          "paragraphId": 714169886,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1141\"><format class=\"hadith\" who=\"6\" Id=\"62\" RevayatIndex=\"583\"><format class=\"sanadHadith\">روى سهل بن زياد الآدمي، عن محمّد بن بكر، عن زكريّا المؤمن<lfootnote noteId=\"175\">4</lfootnote>، عن بعض رجاله، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«إنّ الدم يجتمع موضع الحجامة في يوم الخميس، فإذا زالت<lfootnote noteId=\"176\">5</lfootnote> الشمس تفرّق، فخذ حظّك من الحجامة قبل الزوال»<lfootnote noteId=\"177\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169887,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1142\"><page number=\"46\"/><heading level=\"2\">[باب] الحجامة يوم الجمعة<lfootnote noteId=\"178\">1</lfootnote></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170955,
+          "text": "<footnote id=\"171\"><mnote>(5)</mnote> في النسخة: «سهل بن أبي زياد الآدمي» و هو تصحيف. و سهل بن زياد الآدمي هذا كثير الرواية و من المشهورين، و هو الذي قال عنه بعض: الأمر في سهل سهل، و روى الكليني بنفس هذا الإسناد هكذا: سهل بن زياد، عن محمّد بن بكر، عن زكريّا المؤمن،<page number=\"45\"/>عمّن حدثه، عن أبي عبد الله عليه السّلام. الكافي 11/480:6. </footnote>"
+        },
+        {
+          "footnoteId": 714170956,
+          "text": "<footnote id=\"172\"><mnote>(1)</mnote> في النسخة: «زكريّا المؤذّن» و هو تصحيف، و زكريّا هذا - كما رأينا في سند الكافي - هو زكريّا بن محمّد أبو عبد الله المؤمن، الذي عدّه البرقي في أصحاب أبي عبد الله عليه السّلام و قال عنه النجاشي: روى عن أبي عبد الله و أبي الحسن موسى عليهما السّلام و لقي الرضا عليه السّلام في المسجد الحرام، و حكي عنه ما يدلّ على أنّه كان واقفيا. رجال البرقي: 42، و رجال النجاشي: 453/172، و انظر: فهرست الطوسي: 306/206، رجال الطوسي أيضا: 5296/358. </footnote>"
+        },
+        {
+          "footnoteId": 714170957,
+          "text": "<footnote id=\"173\"><mnote>(2)</mnote> في النسخة: «في يوم الحجامة». و ما أثبتناه من مكارم الأخلاق و الحديث الآتي. </footnote>"
+        },
+        {
+          "footnoteId": 714170958,
+          "text": "<footnote id=\"174\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و يحتمل أن تكون هذه الرواية من سهو الناسخ و خلط بين الرواية الماضية و الرواية الآتية فأخذ سند الرواية الآتية و صدرها و ذيل الماضية، و الله العالم. </footnote>"
+        },
+        {
+          "footnoteId": 714170959,
+          "text": "<footnote id=\"175\"><mnote>(4)</mnote> في النسخة: «زكريّا المؤذّن» و هو تصحيف كما مرّ في الحديث السابق. </footnote>"
+        },
+        {
+          "footnoteId": 714170960,
+          "text": "<footnote id=\"176\"><mnote>(5)</mnote> في النسخة: «إذا رأيت». </footnote>"
+        },
+        {
+          "footnoteId": 714170961,
+          "text": "<footnote id=\"177\"><mnote>(6)</mnote> رواه الطبرسي في مكارم الأخلاق: 23/75، الفصل الرابع في الحجامة، عن الصادق عليه السّلام قال: «إن الدم يجتمع». </footnote>"
+        }
+      ],
+      "pageValue": "45",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1139\" paragraph-id=\"1139\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo45\">45</span> المؤمن<span><sup><a class=\"NewFn\" href=\"#footnote172\" title=\"(1)  في النسخة: «زكريّا المؤذّن» و هو تصحيف، و زكريّا هذا - كما رأينا في سند الكافي - هو زكريّا بن محمّد أبو عبد الله المؤمن، الذي عدّه البرقي في أصحاب أبي عبد الله عليه السّلام و قال عنه النجاشي: روى عن أبي عبد الله و أبي الحسن موسى عليهما السّلام و لقي الرضا عليه السّلام في المسجد الحرام، و حكي عنه ما يدلّ على أنّه كان واقفيا. رجال البرقي: 42، و رجال النجاشي: 453/172، و انظر: فهرست الطوسي: 306/206، رجال الطوسي أيضا: 5296/358. \">1</a></sup></span>، عن بعض رجاله، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«إنّ الدم يجتمع في موضع الحجامة<span><sup><a class=\"NewFn\" href=\"#footnote173\" title=\"(2)  في النسخة: «في يوم الحجامة». و ما أثبتناه من مكارم الأخلاق و الحديث الآتي. \">2</a></sup></span> في يوم الخميس، فإنّ عشيّة الجمعة يبتدر الدم من القيامة و لا يرجع إلى وكره إلى غداة الخميس». ثمّ التفت إلى غلامه زبيخ «اشدّ قصب الملازم و اجعل مصّك مجّا و اجعل شرطك زحفا»<span><sup><a class=\"NewFn\" href=\"#footnote174\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا، و يحتمل أن تكون هذه الرواية من سهو الناسخ و خلط بين الرواية الماضية و الرواية الآتية فأخذ سند الرواية الآتية و صدرها و ذيل الماضية، و الله العالم. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1140\" paragraph-id=\"1140\" class=\" G\">[62] </p>\n  <p id=\"p1141\" paragraph-id=\"1141\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى سهل بن زياد الآدمي، عن محمّد بن بكر، عن زكريّا المؤمن<span><sup><a class=\"NewFn\" href=\"#footnote175\" title=\"(4)  في النسخة: «زكريّا المؤذّن» و هو تصحيف كما مرّ في الحديث السابق. \">4</a></sup></span>، عن بعض رجاله، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«إنّ الدم يجتمع موضع الحجامة في يوم الخميس، فإذا زالت<span><sup><a class=\"NewFn\" href=\"#footnote176\" title=\"(5)  في النسخة: «إذا رأيت». \">5</a></sup></span> الشمس تفرّق، فخذ حظّك من الحجامة قبل الزوال»<span><sup><a class=\"NewFn\" href=\"#footnote177\" title=\"(6)  رواه الطبرسي في مكارم الأخلاق: 23/75، الفصل الرابع في الحجامة، عن الصادق عليه السّلام قال: «إن الدم يجتمع». \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1142\" paragraph-id=\"1142\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote171\" footnote-id=\"171\"><page number=\"45\" />عمّن حدثه، عن أبي عبد الله عليه السّلام. الكافي 11/480:6. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote172\" footnote-id=\"172\">(1)  في النسخة: «زكريّا المؤذّن» و هو تصحيف، و زكريّا هذا - كما رأينا في سند الكافي - هو زكريّا بن محمّد أبو عبد الله المؤمن، الذي عدّه البرقي في أصحاب أبي عبد الله عليه السّلام و قال عنه النجاشي: روى عن أبي عبد الله و أبي الحسن موسى عليهما السّلام و لقي الرضا عليه السّلام في المسجد الحرام، و حكي عنه ما يدلّ على أنّه كان واقفيا. رجال البرقي: 42، و رجال النجاشي: 453/172، و انظر: فهرست الطوسي: 306/206، رجال الطوسي أيضا: 5296/358. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote173\" footnote-id=\"173\">(2)  في النسخة: «في يوم الحجامة». و ما أثبتناه من مكارم الأخلاق و الحديث الآتي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote174\" footnote-id=\"174\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا، و يحتمل أن تكون هذه الرواية من سهو الناسخ و خلط بين الرواية الماضية و الرواية الآتية فأخذ سند الرواية الآتية و صدرها و ذيل الماضية، و الله العالم. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote175\" footnote-id=\"175\">(4)  في النسخة: «زكريّا المؤذّن» و هو تصحيف كما مرّ في الحديث السابق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote176\" footnote-id=\"176\">(5)  في النسخة: «إذا رأيت». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote177\" footnote-id=\"177\">(6)  رواه الطبرسي في مكارم الأخلاق: 23/75، الفصل الرابع في الحجامة، عن الصادق عليه السّلام قال: «إن الدم يجتمع». </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "77952114-062E-4BFF-B596-0CEB51488B6D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

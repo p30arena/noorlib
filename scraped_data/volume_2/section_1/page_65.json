@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 65,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169982,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1237\"><page number=\"65\"/><heading level=\"2\">[باب] فيما جاء في إطلاء البدن كلّه </heading></p>"
+        },
+        {
+          "paragraphId": 714169983,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1238\">[95] </p>"
+        },
+        {
+          "paragraphId": 714169984,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1239\"><format class=\"hadith\" who=\"7|8\" Id=\"95\" RevayatIndex=\"616\"><format class=\"sanadHadith\">محمّد بن عيسى و السيّاري كلاهما، عن موسى بن داود المقري، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8\">أبي الحسن عليه السّلام</format></format> قال: سمعته يقول: </format>«إذا أطليت فاطل البدن كلّه، فإنّه أذهب للدرن و العرق و أصحّ للبدن، و هو أمان من الأدواء الثلاث، من البرص و الجذام و الاكلة، و لا تطل بعضا و تدع بعضا، فإنّه يمنع و لا يذهب بالدرن و يورث الوضح<lfootnote noteId=\"241\">1</lfootnote>»<lfootnote noteId=\"242\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169985,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1240\">[96] </p>"
+        },
+        {
+          "paragraphId": 714169986,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1241\"><format class=\"hadith\" who=\"16\" Id=\"96\" RevayatIndex=\"617\"><format class=\"sanadHadith\">و قال: </format>«إذا أطليت و أخذت النورة في الحلق فتسحّح<lfootnote noteId=\"243\">3</lfootnote> و بلّها بماء»<lfootnote noteId=\"244\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169987,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1242\">[97] </p>"
+        },
+        {
+          "paragraphId": 714169988,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1243\"><format class=\"hadith\" who=\"16\" Id=\"97\" RevayatIndex=\"618\"><format class=\"sanadHadith\">و قال: </format>«لا بأس أن يطلي الرجل العانة وحدها، فإذا طلى شيئا من جسده فلا يدع شيئا من جسده إلّا طلى»<lfootnote noteId=\"245\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169989,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1244\"><page number=\"66\"/><heading level=\"2\">[باب] في طلي الإبط<lfootnote noteId=\"246\">1</lfootnote></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171024,
+          "text": "<footnote id=\"240\"><mnote>(5)</mnote> رواه الكليني في الكافي 19/500:6، باب الحمّام، عن محمّد بن يحيى، عن علي بن <page number=\"65\"/>الحسن التيمي، و الطبرسي في مكارم الأخلاق: 1/57، الفصل الثالث في التدلّك بالخزف و الزيت و الدقيق و غير ذلك، فقال: من كتاب من لا يحضره الفقيه، عن علي عليه السّلام قال: «لا يستلقينّ أحدكم»، و قال الصادق عليه السّلام: «لا تتّك في الحمّام»، و رواه بتفاوت في من لا يحضره الفقيه: 243/116، و روى الطبرسي صدره في 13/53، الفصل الأوّل في كيفية دخول الحمام، فقال: و قال الصادق عليه السّلام: «لا يستلقينّ أحد في الحمّام». </footnote>"
+        },
+        {
+          "footnoteId": 714171025,
+          "text": "<footnote id=\"241\"><mnote>(1)</mnote> الوضح بالتحريك: البرص. مجمع البحرين 424:2 «وضح». </footnote>"
+        },
+        {
+          "footnoteId": 714171026,
+          "text": "<footnote id=\"242\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714171027,
+          "text": "<footnote id=\"243\"><mnote>(3)</mnote> سححت الماء: صببته. الصحاح 373:1 «سحح». </footnote>"
+        },
+        {
+          "footnoteId": 714171028,
+          "text": "<footnote id=\"244\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714171029,
+          "text": "<footnote id=\"245\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "65",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1237\" paragraph-id=\"1237\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo65\">65</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] فيما جاء في إطلاء البدن كلّه </strong>\n  </p>\n  <p id=\"p1238\" paragraph-id=\"1238\" class=\" G\">[95] </p>\n  <p id=\"p1239\" paragraph-id=\"1239\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن عيسى و السيّاري كلاهما، عن موسى بن داود المقري، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> قال: سمعته يقول: </span>«إذا أطليت فاطل البدن كلّه، فإنّه أذهب للدرن و العرق و أصحّ للبدن، و هو أمان من الأدواء الثلاث، من البرص و الجذام و الاكلة، و لا تطل بعضا و تدع بعضا، فإنّه يمنع و لا يذهب بالدرن و يورث الوضح<span><sup><a class=\"NewFn\" href=\"#footnote241\" title=\"(1)  الوضح بالتحريك: البرص. مجمع البحرين 424:2 «وضح». \">1</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote242\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1240\" paragraph-id=\"1240\" class=\" G\">[96] </p>\n  <p id=\"p1241\" paragraph-id=\"1241\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال: </span>«إذا أطليت و أخذت النورة في الحلق فتسحّح<span><sup><a class=\"NewFn\" href=\"#footnote243\" title=\"(3)  سححت الماء: صببته. الصحاح 373:1 «سحح». \">3</a></sup></span> و بلّها بماء»<span><sup><a class=\"NewFn\" href=\"#footnote244\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1242\" paragraph-id=\"1242\" class=\" G\">[97] </p>\n  <p id=\"p1243\" paragraph-id=\"1243\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال: </span>«لا بأس أن يطلي الرجل العانة وحدها، فإذا طلى شيئا من جسده فلا يدع شيئا من جسده إلّا طلى»<span><sup><a class=\"NewFn\" href=\"#footnote245\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1244\" paragraph-id=\"1244\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote240\" footnote-id=\"240\"><page number=\"65\" />الحسن التيمي، و الطبرسي في مكارم الأخلاق: 1/57، الفصل الثالث في التدلّك بالخزف و الزيت و الدقيق و غير ذلك، فقال: من كتاب من لا يحضره الفقيه، عن علي عليه السّلام قال: «لا يستلقينّ أحدكم»، و قال الصادق عليه السّلام: «لا تتّك في الحمّام»، و رواه بتفاوت في من لا يحضره الفقيه: 243/116، و روى الطبرسي صدره في 13/53، الفصل الأوّل في كيفية دخول الحمام، فقال: و قال الصادق عليه السّلام: «لا يستلقينّ أحد في الحمّام». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote241\" footnote-id=\"241\">(1)  الوضح بالتحريك: البرص. مجمع البحرين 424:2 «وضح». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote242\" footnote-id=\"242\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote243\" footnote-id=\"243\">(3)  سححت الماء: صببته. الصحاح 373:1 «سحح». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote244\" footnote-id=\"244\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote245\" footnote-id=\"245\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "7987B9F1-7B66-4892-A4DA-6E910EDF8703",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

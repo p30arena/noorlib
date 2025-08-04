@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 11,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169738,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"993\"><page number=\"11\"/><heading level=\"2\">[باب] في الجرب و الحكّة </heading></p>"
+        },
+        {
+          "paragraphId": 714169739,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"994\">[10] </p>"
+        },
+        {
+          "paragraphId": 714169740,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"995\"><format class=\"hadith\" who=\"6\" Id=\"10\" RevayatIndex=\"531\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه شكا إليه رجل الجرب<lfootnote noteId=\"32\">1</lfootnote>.</format></format></p>"
+        },
+        {
+          "paragraphId": 714169741,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"996\"><format class=\"hadith\" who=\"6\" Id=\"10\" RevayatIndex=\"531\"><format class=\"sanadHadith\">فقال: </format>«احتجم ثلاث مرّات في الرجلين جميعا فيما بين العرقوب و الكعب<lfootnote noteId=\"33\">2</lfootnote>». ففعل الرجل ذلك فذهب عنه<lfootnote noteId=\"34\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169742,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"997\">[11]</p>"
+        },
+        {
+          "paragraphId": 714169743,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"998\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"532\"><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format> و شكا إليه رجل الحكّة فقال: «احتجم ثلاث مرّات في الرجلين جميعا<lfootnote noteId=\"35\">4</lfootnote>»<lfootnote noteId=\"36\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169744,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"999\">[12]</p>"
+        },
+        {
+          "paragraphId": 714169745,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1000\"><format class=\"hadith\" who=\"7|8|10\" Id=\"12\" RevayatIndex=\"533\"> قال: و شكا بعضهم إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8|10\">أبي الحسن عليه السّلام</format></format> كثرة ما يصيبه من الجرب. </format></p>"
+        },
+        {
+          "paragraphId": 714169746,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1001\"><format class=\"hadith\" who=\"7|8|10\" Id=\"12\" RevayatIndex=\"533\"><page number=\"12\"/> فقال: «إنّ الجرب من بخار الكبد، فاذهب فافتصد من يدك<lfootnote noteId=\"37\">1</lfootnote> اليمنى، و الزم أخذ وزن درهمين دهن اللوز الحلو على ماء الحسك<lfootnote noteId=\"38\">2</lfootnote>، و اتّق الحيتان و الخلّ‌» ففعل فبرأ<lfootnote noteId=\"39\">3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170816,
+          "text": "<footnote id=\"32\"><page number=\"11\"/><mnote>(1)</mnote> في مكارم الأخلاق: «الحكّة». </footnote>"
+        },
+        {
+          "footnoteId": 714170817,
+          "text": "<footnote id=\"33\"><mnote>(2)</mnote> قال الهروي: العرقوب: عصب غليظ مؤتّر فوق عقب الإنسان، جمعه عراقيب. بحر الجواهر: 266، و قال أيضا في 322: كعب بالفتح: كلّ مفصل للعظام، و العظم الناشز فوق القدم.<br/>قال المجلسي: المراد بالكعب هنا: الذي بين الساق و القدم أو النابتين عن يمين القدم و شماله، لا الذي في ظهر القدم. بحار الأنوار 128:59. </footnote>"
+        },
+        {
+          "footnoteId": 714170818,
+          "text": "<footnote id=\"34\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 42/77، الفصل الرابع في الحجامة فقال: روي عن الصادق عليه السّلام أنّه شكا إليه رجل الحكّة، و نحوه في الحديث 46 من الفصل الرابع فقال:<br/>و روي أنّ رجلا شكا... </footnote>"
+        },
+        {
+          "footnoteId": 714170819,
+          "text": "<footnote id=\"35\"><mnote>(4)</mnote> في النسخة زيادة: «ثلاث مرّات». </footnote>"
+        },
+        {
+          "footnoteId": 714170820,
+          "text": "<footnote id=\"36\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و روى الطبرسي نحوه في مكارم الأخلاق: 43/77، الفصل الرابع في الحجامة، بعد الحديث المتقدّم، فقال: و شكا إليه آخر، فقال: «احتجم في أحد عقبيك أو من الرجلين جميعا ثلاث مرّات تبرأ إن شاء الله».<br/>قال المجلسي: قوله عليه السّلام: «في واحد عقبيك»: لعلّ المعنى: احتجم على التناؤب: مرّة في هذا و مرّة في الاخرى، و المراد بالعقب الكعب بالمعنى الثاني مجازا. بحار الأنوار 128:59.</footnote>"
+        }
+      ],
+      "pageValue": "11",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p993\" paragraph-id=\"993\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo11\">11</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الجرب و الحكّة </strong>\n  </p>\n  <p id=\"p994\" paragraph-id=\"994\" class=\" G\">[10] </p>\n  <p id=\"p995\" paragraph-id=\"995\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه شكا إليه رجل الجرب<span><sup><a class=\"NewFn\" href=\"#footnote32\" title=\"(1)  في مكارم الأخلاق: «الحكّة». \">1</a></sup></span>.</span>\n    </span>\n  </p>\n  <p id=\"p996\" paragraph-id=\"996\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فقال: </span>«احتجم ثلاث مرّات في الرجلين جميعا فيما بين العرقوب و الكعب<span><sup><a class=\"NewFn\" href=\"#footnote33\" title=\"(2)  قال الهروي: العرقوب: عصب غليظ مؤتّر فوق عقب الإنسان، جمعه عراقيب. بحر الجواهر: 266، و قال أيضا في 322: كعب بالفتح: كلّ مفصل للعظام، و العظم الناشز فوق القدم.قال المجلسي: المراد بالكعب هنا: الذي بين الساق و القدم أو النابتين عن يمين القدم و شماله، لا الذي في ظهر القدم. بحار الأنوار 128:59. \">2</a></sup></span>». ففعل الرجل ذلك فذهب عنه<span><sup><a class=\"NewFn\" href=\"#footnote34\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 42/77، الفصل الرابع في الحجامة فقال: روي عن الصادق عليه السّلام أنّه شكا إليه رجل الحكّة، و نحوه في الحديث 46 من الفصل الرابع فقال:و روي أنّ رجلا شكا... \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p997\" paragraph-id=\"997\" class=\" G\">[11]</p>\n  <p id=\"p998\" paragraph-id=\"998\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span> و شكا إليه رجل الحكّة فقال: «احتجم ثلاث مرّات في الرجلين جميعا<span><sup><a class=\"NewFn\" href=\"#footnote35\" title=\"(4)  في النسخة زيادة: «ثلاث مرّات». \">4</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote36\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى الطبرسي نحوه في مكارم الأخلاق: 43/77، الفصل الرابع في الحجامة، بعد الحديث المتقدّم، فقال: و شكا إليه آخر، فقال: «احتجم في أحد عقبيك أو من الرجلين جميعا ثلاث مرّات تبرأ إن شاء الله».قال المجلسي: قوله عليه السّلام: «في واحد عقبيك»: لعلّ المعنى: احتجم على التناؤب: مرّة في هذا و مرّة في الاخرى، و المراد بالعقب الكعب بالمعنى الثاني مجازا. بحار الأنوار 128:59.\">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p999\" paragraph-id=\"999\" class=\" G\">[12]</p>\n  <p id=\"p1000\" paragraph-id=\"1000\" class=\" G\">\n    <span class=\"hadith\"> قال: و شكا بعضهم إلى <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> كثرة ما يصيبه من الجرب. </span>\n  </p>\n  <p id=\"p1001\" paragraph-id=\"1001\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote32\" footnote-id=\"32\">(1) <page number=\"11\" /> في مكارم الأخلاق: «الحكّة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote33\" footnote-id=\"33\">(2)  قال الهروي: العرقوب: عصب غليظ مؤتّر فوق عقب الإنسان، جمعه عراقيب. بحر الجواهر: 266، و قال أيضا في 322: كعب بالفتح: كلّ مفصل للعظام، و العظم الناشز فوق القدم.<br />قال المجلسي: المراد بالكعب هنا: الذي بين الساق و القدم أو النابتين عن يمين القدم و شماله، لا الذي في ظهر القدم. بحار الأنوار 128:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote34\" footnote-id=\"34\">(3)  رواه الطبرسي في مكارم الأخلاق: 42/77، الفصل الرابع في الحجامة فقال: روي عن الصادق عليه السّلام أنّه شكا إليه رجل الحكّة، و نحوه في الحديث 46 من الفصل الرابع فقال:<br />و روي أنّ رجلا شكا... </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote35\" footnote-id=\"35\">(4)  في النسخة زيادة: «ثلاث مرّات». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote36\" footnote-id=\"36\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى الطبرسي نحوه في مكارم الأخلاق: 43/77، الفصل الرابع في الحجامة، بعد الحديث المتقدّم، فقال: و شكا إليه آخر، فقال: «احتجم في أحد عقبيك أو من الرجلين جميعا ثلاث مرّات تبرأ إن شاء الله».<br />قال المجلسي: قوله عليه السّلام: «في واحد عقبيك»: لعلّ المعنى: احتجم على التناؤب: مرّة في هذا و مرّة في الاخرى، و المراد بالعقب الكعب بالمعنى الثاني مجازا. بحار الأنوار 128:59.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "20990C38-E672-4321-9AC8-AC99F3D02097",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

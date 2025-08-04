@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 82,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166872,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2477\"><page number=\"82\"/><heading level=\"3\">و أيضا عوذة للحمّى:</heading></p>"
+        },
+        {
+          "paragraphId": 714166873,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2478\">[126] </p>"
+        },
+        {
+          "paragraphId": 714166874,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2479\"><format class=\"hadith\" who=\"6\" Id=\"124\" RevayatIndex=\"124\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن عبد الله بن عامر عن شريف بن سابق،</format></format></p>"
+        },
+        {
+          "paragraphId": 714166875,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2480\"><format class=\"hadith\" who=\"6\" Id=\"124\" RevayatIndex=\"124\"><format class=\"sanadHadith\">و السيّاري، عن أبي زكريّا يحيى بن أبي بكر، عن عبد الله بن أبي القاسم، عن شريف بن سابق،</format></format></p>"
+        },
+        {
+          "paragraphId": 714166876,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2481\"><format class=\"hadith\" who=\"6\" Id=\"124\" RevayatIndex=\"124\"><format class=\"sanadHadith\">و أحمد بن محمّد بن عيسى، عن شريف بن سابق التفليسي،</format></format></p>"
+        },
+        {
+          "paragraphId": 714166877,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2482\"><format class=\"hadith\" who=\"6\" Id=\"124\" RevayatIndex=\"124\"><format class=\"sanadHadith\">عن الفضل بن أبي قرّة، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«تضع يدك على رأس المريض و تقول:</format></p>"
+        },
+        {
+          "paragraphId": 714166878,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2483\"><format class=\"hadith\" who=\"6\" Id=\"124\" RevayatIndex=\"124\">بسم الله و بالله و من الله و إلى الله، و ما شاء الله، لا قوّة إلّا بالله، <format class=\"E\" Number=\"24\">إبراهيم خليل الله</format>، <format class=\"E\" Number=\"32\">موسى كليم الله</format>، نوح نجيّ الله<lfootnote noteId=\"633\">1</lfootnote>، <format class=\"E\" Number=\"44\">عيسى روح الله</format>، <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">محمّد رسول الله صلّى الله عليه و آله </format></format>[و أعوذ بالله من]<lfootnote noteId=\"634\">2</lfootnote> الرّيح و الأرواح و الأوجاع، بسم الله و بالله و عزائم من الله <page number=\"83\"/> لفلان بن فلانة لا يقربه إلّا كلّ مسلم، و أعيذه بكلمات الله التّامّات الّتي سأل بها آدم أن يتوب عليه فتاب عليه<lfootnote noteId=\"635\">1</lfootnote> إنّه هو التّوّاب الرّحيم إلّا انزجرت، أيّتها الأرواح و الأوجاع و الرياح بإذن الله عزّ و جلّ لا إله إلّا الله ألا له الخلق و الأمر تبارك الله ربّ العالمين. ثمّ تقرأ آية الكرسي و امّ الكتاب و المعوّذتين و <format class=\"ayah\" surah=\"112\" ayah=\"1\" toAyah=\"\">قُلْ هُوَ اَللّٰهُ أَحَدٌ<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"112\" ayah=\"1\" toAyah=\"\"/></format><lfootnote noteId=\"636\">2</lfootnote> و عشر آيات من أوّل<lfootnote noteId=\"637\">3</lfootnote><format class=\"ayah\" surah=\"36\" ayah=\"1\" toAyah=\"\">يس<format class=\"ayahWord\" fromWord=\"1\" toWord=\"1\"/><format class=\"ayahAddress\" surah=\"36\" ayah=\"1\" toAyah=\"\"/></format> ثمّ تقول: اللّهمّ اشفه بشفائك و داوه بدوائك و عافه من بلائك<lfootnote noteId=\"638\">4</lfootnote> و تسأل الله تعالى بحقّ <format class=\"maasoom\" maasoomNo=\"14\">محمّد</format> و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\">آله</format></format> صلوات الله عليه و عليهم أجمعين»<lfootnote noteId=\"639\">5</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168663,
+          "text": "<footnote id=\"632\"><mnote>(5)</mnote> رواه البرقي في المحاسن 3/572:2، باب زمزم، عن أبيه، عن محمّد بن سنان، عن <page number=\"82\"/>إسماعيل بن جابر، قال: سمعت أبا عبد الله عليه السّلام يقول:... و فيه زيادة: «كائنا ما كان». قال: و عرضت أنا هذا الحديث عن المبارك، و روى نحوه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 52، فقالا: باب ماء زمزم: عن الجارود بن أحمد، قال: حدّثنا محمّد بن جعفر الجعفري، عن محمّد بن سنان، و الكليني في الكافي 4/386:6، باب فضل ماء زمزم و ماء الميزاب، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان.<br/>و الروايات في فضل ماء زمزم و أنّه شفاء متظافرة. انظر: فقه الإمام الرضا عليه السّلام: 345 و 346، المحاسن 19/573:2، من لا يحضره الفقيه 2164/208:2، مكارم الأخلاق: 155. </footnote>"
+        },
+        {
+          "footnoteId": 714168664,
+          "text": "<footnote id=\"633\"><mnote>(1)</mnote> في النسخة: «موسى نجي الله» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168665,
+          "text": "<footnote id=\"634\"><mnote>(2)</mnote> قوله: «و أعوذ بالله من» أثبتناه من مكارم الأخلاق.</footnote>"
+        }
+      ],
+      "pageValue": "82",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2477\" paragraph-id=\"2477\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo82\">82</span>\n    <strong style=\"0\" class=\"h-3 03\">و أيضا عوذة للحمّى:</strong>\n  </p>\n  <p id=\"p2478\" paragraph-id=\"2478\" class=\" G\">[126] </p>\n  <p id=\"p2479\" paragraph-id=\"2479\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن عبد الله بن عامر عن شريف بن سابق،</span>\n    </span>\n  </p>\n  <p id=\"p2480\" paragraph-id=\"2480\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و السيّاري، عن أبي زكريّا يحيى بن أبي بكر، عن عبد الله بن أبي القاسم، عن شريف بن سابق،</span>\n    </span>\n  </p>\n  <p id=\"p2481\" paragraph-id=\"2481\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و أحمد بن محمّد بن عيسى، عن شريف بن سابق التفليسي،</span>\n    </span>\n  </p>\n  <p id=\"p2482\" paragraph-id=\"2482\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">عن الفضل بن أبي قرّة، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«تضع يدك على رأس المريض و تقول:</span>\n  </p>\n  <p id=\"p2483\" paragraph-id=\"2483\" class=\" G\">\n    <span class=\"hadith\">بسم الله و بالله و من الله و إلى الله، و ما شاء الله، لا قوّة إلّا بالله، <span class=\"E\">إبراهيم خليل الله</span>، <span class=\"E\">موسى كليم الله</span>، نوح نجيّ الله<span><sup><a class=\"NewFn\" href=\"#footnote633\" title=\"(1)  في النسخة: «موسى نجي الله» و ما أثبتناه من المصدر. \">1</a></sup></span>، <span class=\"E\">عيسى روح الله</span>، <span class=\"BD\"><span class=\"maasoom\">محمّد رسول الله صلّى الله عليه و آله </span></span>[و أعوذ بالله من]<span><sup><a class=\"NewFn\" href=\"#footnote634\" title=\"(2)  قوله: «و أعوذ بالله من» أثبتناه من مكارم الأخلاق.\">2</a></sup></span> الرّيح و الأرواح و الأوجاع، بسم الله و بالله و عزائم من الله </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote632\" footnote-id=\"632\"><page number=\"82\" />إسماعيل بن جابر، قال: سمعت أبا عبد الله عليه السّلام يقول:... و فيه زيادة: «كائنا ما كان». قال: و عرضت أنا هذا الحديث عن المبارك، و روى نحوه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 52، فقالا: باب ماء زمزم: عن الجارود بن أحمد، قال: حدّثنا محمّد بن جعفر الجعفري، عن محمّد بن سنان، و الكليني في الكافي 4/386:6، باب فضل ماء زمزم و ماء الميزاب، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان.<br />و الروايات في فضل ماء زمزم و أنّه شفاء متظافرة. انظر: فقه الإمام الرضا عليه السّلام: 345 و 346، المحاسن 19/573:2، من لا يحضره الفقيه 2164/208:2، مكارم الأخلاق: 155. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote633\" footnote-id=\"633\">(1)  في النسخة: «موسى نجي الله» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote634\" footnote-id=\"634\">(2)  قوله: «و أعوذ بالله من» أثبتناه من مكارم الأخلاق.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "312DA1A1-6021-48F9-B522-9DF05191D838",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

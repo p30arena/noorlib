@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 211,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167372,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3118\"><format class=\"hadith\" who=\"6\" Id=\"336\" RevayatIndex=\"336\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسين بن سعيد، عن محمّد بن أبي عمير، عن ابن أذينة، قال:</format> شكى رجل إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> السعال و أنا حاضر، فقال: «خذ في راحتك شيئا من <page number=\"211\"/>كاشم<lfootnote noteId=\"1202\">1</lfootnote> و سكّر، فاستفّه<lfootnote noteId=\"1203\">2</lfootnote> يوما أو يومين». قال ابن أذينة: فقلت للرجل بعد ذلك: أفعلت ذلك‌؟ فقال: ما فعلته إلّا مّرة واحدة حتى ذهب عنّي<lfootnote noteId=\"1204\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167373,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3119\">[339] </p>"
+        },
+        {
+          "paragraphId": 714167374,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3120\"><format class=\"hadith\" who=\"6\" Id=\"337\" RevayatIndex=\"337\"><format class=\"sanadHadith\">و في حديث آخر: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«جزء من كاشم فرضّه<lfootnote noteId=\"1205\">4</lfootnote> و اجعل فيه ثلاثة أجزاء سكّرا و استفّه»<lfootnote noteId=\"1206\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167375,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3121\">[340] </p>"
+        },
+        {
+          "paragraphId": 714167376,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3122\"><format class=\"hadith\" who=\"6\" Id=\"338\" RevayatIndex=\"338\"><format class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن بن فضّال، عن محمّد بن الحسين، عن أحمد بن محمّد بن أبي نصر، عن يحيى بن مساور، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format> يقول: </format>«يؤخذ<lfootnote noteId=\"1207\">6</lfootnote> للسعال ثلاث أواق<lfootnote noteId=\"1208\">7</lfootnote> لبن ضأن و تغليه حتّى يذهب ثلثه أو نصفه، و تجعل فيه سكّرا من مقنّد<lfootnote noteId=\"1209\">8</lfootnote>، و تجعل فيه شيئا من الكتيرا، <page number=\"212\"/> ثمّ اشربه على الريق»<lfootnote noteId=\"1210\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169246,
+          "text": "<footnote id=\"1202\"><page number=\"211\"/><mnote>(1)</mnote> الكاشم: الأنجدان (الأنجذان) الرومي، و هو معرّب (انكدان و انگدان و نكوان) و قيل:<br/>الأنجذان: فارسي و يسمّى بالعراق الكاشم، و منه رومي، و يسمّى في الديلم: «زيره كوهي»، و قيل: إنّه هو: «گل‌پر». تذكرة أولي الألباب للأنطاكي 58:1، تحفة المؤمنين: 78 و 160 و 213، المادّة الطبية 613:2. و كما أنّه جيّد للسعال كذلك نافع لوجع الخاصرة أيضا كما سيأتي في حديث 422 من هذا الجزء. </footnote>"
+        },
+        {
+          "footnoteId": 714169247,
+          "text": "<footnote id=\"1203\"><mnote>(2)</mnote> سففت الدواء من باب تعب، و استففته بمعنى: إذا أخذته غير ملتوت، و كذلك السويق. و كلّ دواء يؤخذ غير معجون فهو السّفوف كرسول. مجمع البحرين 71:5 «سفف». الكاشم: دواء يستفّ مع السكّر. مجمع البحرين 154:6 «كشم». </footnote>"
+        },
+        {
+          "footnoteId": 714169248,
+          "text": "<footnote id=\"1204\"><mnote>(3)</mnote> رواه الكليني في الكافي 227/192:8، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير. </footnote>"
+        },
+        {
+          "footnoteId": 714169249,
+          "text": "<footnote id=\"1205\"><mnote>(4)</mnote> و الرضّ‌: الدقّ الجريش. مجمع البحرين 206:4 «رضض». </footnote>"
+        },
+        {
+          "footnoteId": 714169250,
+          "text": "<footnote id=\"1206\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169251,
+          "text": "<footnote id=\"1207\"><mnote>(6)</mnote> كذا في النسخة. </footnote>"
+        },
+        {
+          "footnoteId": 714169252,
+          "text": "<footnote id=\"1208\"><mnote>(7)</mnote> جمع الأوقية كما أنّ الأواقي جمعه. </footnote>"
+        },
+        {
+          "footnoteId": 714169253,
+          "text": "<footnote id=\"1209\"><mnote>(8)</mnote> القند و القندة و القنديد كلّه: عصارة قصب السكّر إذا جمد، و منه يتّخذ الفانيذ. و سويق<page number=\"212\"/>مقنود و مقنّد: معمول بالقنديد. لسان العرب 368:3 «قند». </footnote>"
+        }
+      ],
+      "pageValue": "211",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3118\" paragraph-id=\"3118\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo211\">211</span>كاشم<span><sup><a class=\"NewFn\" href=\"#footnote1202\" title=\"(1)  الكاشم: الأنجدان (الأنجذان) الرومي، و هو معرّب (انكدان و انگدان و نكوان) و قيل:الأنجذان: فارسي و يسمّى بالعراق الكاشم، و منه رومي، و يسمّى في الديلم: «زيره كوهي»، و قيل: إنّه هو: «گل‌پر». تذكرة أولي الألباب للأنطاكي 58:1، تحفة المؤمنين: 78 و 160 و 213، المادّة الطبية 613:2. و كما أنّه جيّد للسعال كذلك نافع لوجع الخاصرة أيضا كما سيأتي في حديث 422 من هذا الجزء. \">1</a></sup></span> و سكّر، فاستفّه<span><sup><a class=\"NewFn\" href=\"#footnote1203\" title=\"(2)  سففت الدواء من باب تعب، و استففته بمعنى: إذا أخذته غير ملتوت، و كذلك السويق. و كلّ دواء يؤخذ غير معجون فهو السّفوف كرسول. مجمع البحرين 71:5 «سفف». الكاشم: دواء يستفّ مع السكّر. مجمع البحرين 154:6 «كشم». \">2</a></sup></span> يوما أو يومين». قال ابن أذينة: فقلت للرجل بعد ذلك: أفعلت ذلك‌؟ فقال: ما فعلته إلّا مّرة واحدة حتى ذهب عنّي<span><sup><a class=\"NewFn\" href=\"#footnote1204\" title=\"(3)  رواه الكليني في الكافي 227/192:8، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p3119\" paragraph-id=\"3119\" class=\" G\">[339] </p>\n  <p id=\"p3120\" paragraph-id=\"3120\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و في حديث آخر: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«جزء من كاشم فرضّه<span><sup><a class=\"NewFn\" href=\"#footnote1205\" title=\"(4)  و الرضّ‌: الدقّ الجريش. مجمع البحرين 206:4 «رضض». \">4</a></sup></span> و اجعل فيه ثلاثة أجزاء سكّرا و استفّه»<span><sup><a class=\"NewFn\" href=\"#footnote1206\" title=\"(5)  لم نعثر عليه في المصادر المتوفرة لدينا. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p3121\" paragraph-id=\"3121\" class=\" G\">[340] </p>\n  <p id=\"p3122\" paragraph-id=\"3122\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن بن فضّال، عن محمّد بن الحسين، عن أحمد بن محمّد بن أبي نصر، عن يحيى بن مساور، قال: سمعت <span class=\"Y\"><span class=\"maasoom\">أبا عبد الله عليه السّلام</span></span> يقول: </span>«يؤخذ<span><sup><a class=\"NewFn\" href=\"#footnote1207\" title=\"(6)  كذا في النسخة. \">6</a></sup></span> للسعال ثلاث أواق<span><sup><a class=\"NewFn\" href=\"#footnote1208\" title=\"(7)  جمع الأوقية كما أنّ الأواقي جمعه. \">7</a></sup></span> لبن ضأن و تغليه حتّى يذهب ثلثه أو نصفه، و تجعل فيه سكّرا من مقنّد<span><sup><a class=\"NewFn\" href=\"#footnote1209\" title=\"(8)  القند و القندة و القنديد كلّه: عصارة قصب السكّر إذا جمد، و منه يتّخذ الفانيذ. و سويق\">8</a></sup></span>، و تجعل فيه شيئا من الكتيرا، </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1202\" footnote-id=\"1202\">(1) <page number=\"211\" /> الكاشم: الأنجدان (الأنجذان) الرومي، و هو معرّب (انكدان و انگدان و نكوان) و قيل:<br />الأنجذان: فارسي و يسمّى بالعراق الكاشم، و منه رومي، و يسمّى في الديلم: «زيره كوهي»، و قيل: إنّه هو: «گل‌پر». تذكرة أولي الألباب للأنطاكي 58:1، تحفة المؤمنين: 78 و 160 و 213، المادّة الطبية 613:2. و كما أنّه جيّد للسعال كذلك نافع لوجع الخاصرة أيضا كما سيأتي في حديث 422 من هذا الجزء. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1203\" footnote-id=\"1203\">(2)  سففت الدواء من باب تعب، و استففته بمعنى: إذا أخذته غير ملتوت، و كذلك السويق. و كلّ دواء يؤخذ غير معجون فهو السّفوف كرسول. مجمع البحرين 71:5 «سفف». الكاشم: دواء يستفّ مع السكّر. مجمع البحرين 154:6 «كشم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1204\" footnote-id=\"1204\">(3)  رواه الكليني في الكافي 227/192:8، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1205\" footnote-id=\"1205\">(4)  و الرضّ‌: الدقّ الجريش. مجمع البحرين 206:4 «رضض». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1206\" footnote-id=\"1206\">(5)  لم نعثر عليه في المصادر المتوفرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1207\" footnote-id=\"1207\">(6)  كذا في النسخة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1208\" footnote-id=\"1208\">(7)  جمع الأوقية كما أنّ الأواقي جمعه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1209\" footnote-id=\"1209\">(8)  القند و القندة و القنديد كلّه: عصارة قصب السكّر إذا جمد، و منه يتّخذ الفانيذ. و سويق</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "AB68618D-1622-4CAB-A479-1C50468C4958",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 311,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167909,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3655\"><page number=\"311\"/>[515] </p>"
+        },
+        {
+          "paragraphId": 714167910,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3656\"><format class=\"hadith\" who=\"6\" Id=\"506\" RevayatIndex=\"506\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسن بن علي<lfootnote noteId=\"1710\">1</lfootnote>، عن بعض أصحابنا قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> الوضح<lfootnote noteId=\"1711\">2</lfootnote>، فقال لي<lfootnote noteId=\"1712\">3</lfootnote>: «إذا أويت إلى فراشك فكل سكّرتين<lfootnote noteId=\"1713\">4</lfootnote>».</format></p>"
+        },
+        {
+          "paragraphId": 714167911,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3657\"><format class=\"hadith\" who=\"6\" Id=\"506\" RevayatIndex=\"506\">ففعلت ذلك<lfootnote noteId=\"1714\">5</lfootnote> فبرئت، فخبّرت بعض المتطبّبين و كان أفره<lfootnote noteId=\"1715\">6</lfootnote> أهل بلادنا فقال: من أين عرف <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format> هذا؟ و هذا من مخزون علمنا، أما إنّه صاحب كتب، ينبغي أن يكون أصابه في بعض الكتب<lfootnote noteId=\"1716\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167912,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3658\">[516] </p>"
+        },
+        {
+          "paragraphId": 714167913,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3659\"><format class=\"hadith\" who=\"6\" Id=\"507\" RevayatIndex=\"507\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«من اطلى بالحنّاء أمن من <page number=\"312\"/> الوضح»<lfootnote noteId=\"1717\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169664,
+          "text": "<footnote id=\"1709\"><mnote>(2)</mnote> رواه الصدوق في عيون أخبار الرضا عليه السّلام 18/88:2، و علل الشرائع: 1/281، باب العلّة التي من أجلها يكره استعمال الماء الذي تسخّنه الشمس، أبي رحمه الله، قال: حدّثنا سعد بن عبد الله، قال: حدّثنا محمّد بن عيسى، عن درست، عن إبراهيم بن عبد الحميد، عن أبي الحسن عليه السّلام، قال: «دخل رسول الله صلّى الله عليه و آله...»، ثمّ في عيون أخبار الرضا عليه السّلام: قال مصنّف هذا الكتاب رحمه الله: أبو الحسن صاحب هذا الحديث يجوز أن يكون الرضا و يجوز أن يكون موسى بن جعفر عليهما السّلام؛ لأنّ إبراهيم بن عبد الحميد قد لقيهما جميعا، و هذا الحديث من المراسيل، و رواه الطوسي في تهذيب الأحكام 6/366:1، باب الأغسال و كيفية الغسل من <page number=\"311\"/>الجنابة، و الاستبصار 2/30:1، باب استعمال الماء الذي تسخّنه الشمس، عن محمّد بن علي بن محبوب، عن محمّد بن عيسى العبيدي، عن درست، و روى ابن عباس عن رسول الله صلّى الله عليه و آله: «خمس تورث البرص» و عدّ منها التوضّؤ و الاغتسال بالماء الذي تسخنه الشمس. انظره في الخصال: 9/270، و روضة الواعظين: 308، و عنه الطبرسي في مكارم الأخلاق: 62. </footnote>"
+        },
+        {
+          "footnoteId": 714169665,
+          "text": "<footnote id=\"1710\"><mnote>(1)</mnote> و هو الحسن بن علي بن النعمان مولى بني هاشم، كما في رجال النجاشي: 81/40. </footnote>"
+        },
+        {
+          "footnoteId": 714169666,
+          "text": "<footnote id=\"1711\"><mnote>(2)</mnote> كذا في النسخة، و في الكافي و غيره ممن نقله عنه: «الوجع» بدل «الوضح». </footnote>"
+        },
+        {
+          "footnoteId": 714169667,
+          "text": "<footnote id=\"1712\"><mnote>(3)</mnote> في النسخة: «إليّ‌»، و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169668,
+          "text": "<footnote id=\"1713\"><mnote>(4)</mnote> قال المجلسي: قوله عليه السّلام: «فكل سكّرتين» يدلّ على أنّه كان لمعموله في ذلك الزمان مقدار صغير معلوم. مرآة العقول 260:26. </footnote>"
+        },
+        {
+          "footnoteId": 714169669,
+          "text": "<footnote id=\"1714\"><mnote>(5)</mnote> كلمة: «ذلك» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169670,
+          "text": "<footnote id=\"1715\"><mnote>(6)</mnote> و الفاره: الحاذق بالشيء. لسان العرب 522:13 «فره». </footnote>"
+        },
+        {
+          "footnoteId": 714169671,
+          "text": "<footnote id=\"1716\"><mnote>(7)</mnote> رواه الكليني في الكافي 5/333:6، باب السكّر، و ج 385/265:8 [عن محمّد بن يحيى] عن أحمد بن محمّد، و الطبرسي في مكارم الأخلاق: 3/168، باب في السكّر، و شكا واحد إليه الوجع فقال:...، إلى قوله: ففعلت فبرأت.</footnote>"
+        }
+      ],
+      "pageValue": "311",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3655\" paragraph-id=\"3655\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo311\">311</span>[515] </p>\n  <p id=\"p3656\" paragraph-id=\"3656\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسن بن علي<span><sup><a class=\"NewFn\" href=\"#footnote1710\" title=\"(1)  و هو الحسن بن علي بن النعمان مولى بني هاشم، كما في رجال النجاشي: 81/40. \">1</a></sup></span>، عن بعض أصحابنا قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> الوضح<span><sup><a class=\"NewFn\" href=\"#footnote1711\" title=\"(2)  كذا في النسخة، و في الكافي و غيره ممن نقله عنه: «الوجع» بدل «الوضح». \">2</a></sup></span>، فقال لي<span><sup><a class=\"NewFn\" href=\"#footnote1712\" title=\"(3)  في النسخة: «إليّ‌»، و ما أثبتناه من المصدر. \">3</a></sup></span>: «إذا أويت إلى فراشك فكل سكّرتين<span><sup><a class=\"NewFn\" href=\"#footnote1713\" title=\"(4)  قال المجلسي: قوله عليه السّلام: «فكل سكّرتين» يدلّ على أنّه كان لمعموله في ذلك الزمان مقدار صغير معلوم. مرآة العقول 260:26. \">4</a></sup></span>».</span>\n  </p>\n  <p id=\"p3657\" paragraph-id=\"3657\" class=\" G\">\n    <span class=\"hadith\">ففعلت ذلك<span><sup><a class=\"NewFn\" href=\"#footnote1714\" title=\"(5)  كلمة: «ذلك» أثبتناها من المصدر. \">5</a></sup></span> فبرئت، فخبّرت بعض المتطبّبين و كان أفره<span><sup><a class=\"NewFn\" href=\"#footnote1715\" title=\"(6)  و الفاره: الحاذق بالشيء. لسان العرب 522:13 «فره». \">6</a></sup></span> أهل بلادنا فقال: من أين عرف <span class=\"BD\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span> هذا؟ و هذا من مخزون علمنا، أما إنّه صاحب كتب، ينبغي أن يكون أصابه في بعض الكتب<span><sup><a class=\"NewFn\" href=\"#footnote1716\" title=\"(7)  رواه الكليني في الكافي 5/333:6، باب السكّر، و ج 385/265:8 [عن محمّد بن يحيى] عن أحمد بن محمّد، و الطبرسي في مكارم الأخلاق: 3/168، باب في السكّر، و شكا واحد إليه الوجع فقال:...، إلى قوله: ففعلت فبرأت.\">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p3658\" paragraph-id=\"3658\" class=\" G\">[516] </p>\n  <p id=\"p3659\" paragraph-id=\"3659\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«من اطلى بالحنّاء أمن من </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1709\" footnote-id=\"1709\"><page number=\"311\" />الجنابة، و الاستبصار 2/30:1، باب استعمال الماء الذي تسخّنه الشمس، عن محمّد بن علي بن محبوب، عن محمّد بن عيسى العبيدي، عن درست، و روى ابن عباس عن رسول الله صلّى الله عليه و آله: «خمس تورث البرص» و عدّ منها التوضّؤ و الاغتسال بالماء الذي تسخنه الشمس. انظره في الخصال: 9/270، و روضة الواعظين: 308، و عنه الطبرسي في مكارم الأخلاق: 62. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1710\" footnote-id=\"1710\">(1)  و هو الحسن بن علي بن النعمان مولى بني هاشم، كما في رجال النجاشي: 81/40. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1711\" footnote-id=\"1711\">(2)  كذا في النسخة، و في الكافي و غيره ممن نقله عنه: «الوجع» بدل «الوضح». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1712\" footnote-id=\"1712\">(3)  في النسخة: «إليّ‌»، و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1713\" footnote-id=\"1713\">(4)  قال المجلسي: قوله عليه السّلام: «فكل سكّرتين» يدلّ على أنّه كان لمعموله في ذلك الزمان مقدار صغير معلوم. مرآة العقول 260:26. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1714\" footnote-id=\"1714\">(5)  كلمة: «ذلك» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1715\" footnote-id=\"1715\">(6)  و الفاره: الحاذق بالشيء. لسان العرب 522:13 «فره». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1716\" footnote-id=\"1716\">(7)  رواه الكليني في الكافي 5/333:6، باب السكّر، و ج 385/265:8 [عن محمّد بن يحيى] عن أحمد بن محمّد، و الطبرسي في مكارم الأخلاق: 3/168، باب في السكّر، و شكا واحد إليه الوجع فقال:...، إلى قوله: ففعلت فبرأت.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "1634C3A3-EF3E-4CE6-AC8D-4DC0E906709F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

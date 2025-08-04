@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 183,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167074,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2973\"><format class=\"hadith\" who=\"7\" Id=\"284\" RevayatIndex=\"284\"><format class=\"sanadHadith\">روى بعض أصحابنا، عن أحمد بن محمّد، عن بكر بن صالح، عن الجعفري، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">موسى بن جعفر عليهما السّلام</format></format> يقول: </format>«دواء الضرس: تأخذ حنظلة<lfootnote noteId=\"1072\">2</lfootnote><page number=\"183\"/>و تقشّرها، ثمّ تستخرج دهنها<lfootnote noteId=\"1073\">1</lfootnote>، فإن كان الضرس مأكولا منحفرا<lfootnote noteId=\"1074\">2</lfootnote>، قطّر فيه قطرات، و اجعل منه في قطنة شيئا، و اجعله في جوف الضرس، و ينام صاحبه مستلقيا، يأخذه ثلاث ليال<lfootnote noteId=\"1075\">3</lfootnote> عند النوم، و إن كان الضرس غير مأكول و كانت ريح، قطّر في الاذن التي تلي الضرس ثلاث ليال، في كلّ ليلة قطرتين أو ثلاث قطرات، برأ بإذن الله<lfootnote noteId=\"1076\">4</lfootnote>»<lfootnote noteId=\"1077\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167075,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2974\">[287] </p>"
+        },
+        {
+          "paragraphId": 714167076,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2975\"><format class=\"hadith\" who=\"6\" Id=\"285\" RevayatIndex=\"285\"><format class=\"sanadHadith\">و قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">الصادق عليه السّلام</format></format> في رقية الضرس: </format>«تأخذ خوصة<lfootnote noteId=\"1078\">6</lfootnote> أو سكّينا فتمسح به على الجانب الذي تشتكي، فإنّه يسكن بإذن الله، و تقول سبع مرّات<lfootnote noteId=\"1079\">7</lfootnote>:</format></p>"
+        },
+        {
+          "paragraphId": 714167077,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2976\"><format class=\"hadith\" who=\"6\" Id=\"285\" RevayatIndex=\"285\">بسم الله الرّحمن الرّحيم، بسم الله و بالله، محمّد رسول الله، إبراهيم خليل الله، اسكن بالّذي سكن له اللّيل و النّهار<lfootnote noteId=\"1080\">8</lfootnote> بإذنه و هو على كلّ شيء قدير»<lfootnote noteId=\"1081\">9</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167078,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2977\"><page number=\"184\"/><heading level=\"3\">رقية للضرس أيضا:</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169117,
+          "text": "<footnote id=\"1073\"><page number=\"183\"/><mnote>(1)</mnote> قال المجلسي: دهنها معروف، يخرج بوضعها في الشمس، و نحو ذلك. بحار الأنوار 164:59. </footnote>"
+        },
+        {
+          "footnoteId": 714169118,
+          "text": "<footnote id=\"1074\"><mnote>(2)</mnote> قال الحرّ العاملي و المجلسي: صار فيها حفيرة. الفصول المهمّة 134:3، بحار الأنوار 164:59. </footnote>"
+        },
+        {
+          "footnoteId": 714169119,
+          "text": "<footnote id=\"1075\"><mnote>(3)</mnote> في النسخة: «يأخذ ليال» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714169120,
+          "text": "<footnote id=\"1076\"><mnote>(4)</mnote> قوله: «بإذن الله» أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714169121,
+          "text": "<footnote id=\"1077\"><mnote>(5)</mnote> رواه الكليني في الكافي 232/194:8، عن عدّة من أصحابنا، عن سهل بن زياد، عن بكر بن صالح، عن سليمان بن جعفر الجعفري، و ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 24، و روي عن أبي الحسن الماضي عليه السّلام قال: «ضربت عليّ أسناني فجعلت عليها السعد» و قال: «خلّ الخمر يشدّ اللثّة» و قال: «تأخذ حنظلة... و اجعل منه في قطنة و اجعلها في اذنك التي تلي الضرس ثلاث ليال، فإنّه يحسم ذلك إن شاء الله تعالى». </footnote>"
+        },
+        {
+          "footnoteId": 714169122,
+          "text": "<footnote id=\"1078\"><mnote>(6)</mnote> الخوص ورق النخل، و الواحد خوصة. كتاب العين 285:4 «خوص». </footnote>"
+        },
+        {
+          "footnoteId": 714169123,
+          "text": "<footnote id=\"1079\"><mnote>(7)</mnote> قوله: «سبع مرات» أثبتناه من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169124,
+          "text": "<footnote id=\"1080\"><mnote>(8)</mnote> في مكارم الأخلاق: «سكن له ما في الليل و النهار». </footnote>"
+        },
+        {
+          "footnoteId": 714169125,
+          "text": "<footnote id=\"1081\"><mnote>(9)</mnote> رواه الطبرسي في مكارم الأخلاق: 2/406، وجع الضرس بعد حديث السكوني المتقدّم، <page number=\"184\"/>فقال: مثله: قال الصادق عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "183",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2973\" paragraph-id=\"2973\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo183\">183</span>و تقشّرها، ثمّ تستخرج دهنها<span><sup><a class=\"NewFn\" href=\"#footnote1073\" title=\"(1)  قال المجلسي: دهنها معروف، يخرج بوضعها في الشمس، و نحو ذلك. بحار الأنوار 164:59. \">1</a></sup></span>، فإن كان الضرس مأكولا منحفرا<span><sup><a class=\"NewFn\" href=\"#footnote1074\" title=\"(2)  قال الحرّ العاملي و المجلسي: صار فيها حفيرة. الفصول المهمّة 134:3، بحار الأنوار 164:59. \">2</a></sup></span>، قطّر فيه قطرات، و اجعل منه في قطنة شيئا، و اجعله في جوف الضرس، و ينام صاحبه مستلقيا، يأخذه ثلاث ليال<span><sup><a class=\"NewFn\" href=\"#footnote1075\" title=\"(3)  في النسخة: «يأخذ ليال» و ما أثبتناه من الكافي. \">3</a></sup></span> عند النوم، و إن كان الضرس غير مأكول و كانت ريح، قطّر في الاذن التي تلي الضرس ثلاث ليال، في كلّ ليلة قطرتين أو ثلاث قطرات، برأ بإذن الله<span><sup><a class=\"NewFn\" href=\"#footnote1076\" title=\"(4)  قوله: «بإذن الله» أثبتناه من الكافي. \">4</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1077\" title=\"(5)  رواه الكليني في الكافي 232/194:8، عن عدّة من أصحابنا، عن سهل بن زياد، عن بكر بن صالح، عن سليمان بن جعفر الجعفري، و ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 24، و روي عن أبي الحسن الماضي عليه السّلام قال: «ضربت عليّ أسناني فجعلت عليها السعد» و قال: «خلّ الخمر يشدّ اللثّة» و قال: «تأخذ حنظلة... و اجعل منه في قطنة و اجعلها في اذنك التي تلي الضرس ثلاث ليال، فإنّه يحسم ذلك إن شاء الله تعالى». \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2974\" paragraph-id=\"2974\" class=\" G\">[287] </p>\n  <p id=\"p2975\" paragraph-id=\"2975\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال <span class=\"Y\"><span class=\"maasoom\">الصادق عليه السّلام</span></span> في رقية الضرس: </span>«تأخذ خوصة<span><sup><a class=\"NewFn\" href=\"#footnote1078\" title=\"(6)  الخوص ورق النخل، و الواحد خوصة. كتاب العين 285:4 «خوص». \">6</a></sup></span> أو سكّينا فتمسح به على الجانب الذي تشتكي، فإنّه يسكن بإذن الله، و تقول سبع مرّات<span><sup><a class=\"NewFn\" href=\"#footnote1079\" title=\"(7)  قوله: «سبع مرات» أثبتناه من مكارم الأخلاق. \">7</a></sup></span>:</span>\n  </p>\n  <p id=\"p2976\" paragraph-id=\"2976\" class=\" G\">\n    <span class=\"hadith\">بسم الله الرّحمن الرّحيم، بسم الله و بالله، محمّد رسول الله، إبراهيم خليل الله، اسكن بالّذي سكن له اللّيل و النّهار<span><sup><a class=\"NewFn\" href=\"#footnote1080\" title=\"(8)  في مكارم الأخلاق: «سكن له ما في الليل و النهار». \">8</a></sup></span> بإذنه و هو على كلّ شيء قدير»<span><sup><a class=\"NewFn\" href=\"#footnote1081\" title=\"(9)  رواه الطبرسي في مكارم الأخلاق: 2/406، وجع الضرس بعد حديث السكوني المتقدّم، \">9</a></sup></span>.</span>\n  </p>\n  <p id=\"p2977\" paragraph-id=\"2977\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1073\" footnote-id=\"1073\">(1) <page number=\"183\" /> قال المجلسي: دهنها معروف، يخرج بوضعها في الشمس، و نحو ذلك. بحار الأنوار 164:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1074\" footnote-id=\"1074\">(2)  قال الحرّ العاملي و المجلسي: صار فيها حفيرة. الفصول المهمّة 134:3، بحار الأنوار 164:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1075\" footnote-id=\"1075\">(3)  في النسخة: «يأخذ ليال» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1076\" footnote-id=\"1076\">(4)  قوله: «بإذن الله» أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1077\" footnote-id=\"1077\">(5)  رواه الكليني في الكافي 232/194:8، عن عدّة من أصحابنا، عن سهل بن زياد، عن بكر بن صالح، عن سليمان بن جعفر الجعفري، و ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 24، و روي عن أبي الحسن الماضي عليه السّلام قال: «ضربت عليّ أسناني فجعلت عليها السعد» و قال: «خلّ الخمر يشدّ اللثّة» و قال: «تأخذ حنظلة... و اجعل منه في قطنة و اجعلها في اذنك التي تلي الضرس ثلاث ليال، فإنّه يحسم ذلك إن شاء الله تعالى». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1078\" footnote-id=\"1078\">(6)  الخوص ورق النخل، و الواحد خوصة. كتاب العين 285:4 «خوص». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1079\" footnote-id=\"1079\">(7)  قوله: «سبع مرات» أثبتناه من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1080\" footnote-id=\"1080\">(8)  في مكارم الأخلاق: «سكن له ما في الليل و النهار». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1081\" footnote-id=\"1081\">(9)  رواه الطبرسي في مكارم الأخلاق: 2/406، وجع الضرس بعد حديث السكوني المتقدّم، </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "62CBAD74-5BDD-4228-B4FF-F44E3F718400",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

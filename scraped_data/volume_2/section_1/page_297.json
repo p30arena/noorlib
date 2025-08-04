@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 297,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170781,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1959\"><img src=\"BK126314G002S1P279\" alt=\"\" imgtype=\"Scan\"/><page number=\"280\"/><img src=\"BK126314G002S1P280\" alt=\"\" imgtype=\"Scan\"/><page number=\"281\"/><img src=\"BK126314G002S1P281\" alt=\"\" imgtype=\"Scan\"/><page number=\"282\"/><img src=\"BK126314G002S1P282\" alt=\"\" imgtype=\"Scan\"/><page number=\"283\"/><img src=\"BK126314G002S1P283\" alt=\"\" imgtype=\"Scan\"/><page number=\"284\"/><img src=\"BK126314G002S1P284\" alt=\"\" imgtype=\"Scan\"/><page number=\"285\"/><img src=\"BK126314G002S1P285\" alt=\"\" imgtype=\"Scan\"/><page number=\"286\"/><img src=\"BK126314G002S1P286\" alt=\"\" imgtype=\"Scan\"/><page number=\"287\"/><img src=\"BK126314G002S1P287\" alt=\"\" imgtype=\"Scan\"/><page number=\"288\"/><img src=\"BK126314G002S1P288\" alt=\"\" imgtype=\"Scan\"/><page number=\"289\"/><img src=\"BK126314G002S1P289\" alt=\"\" imgtype=\"Scan\"/><page number=\"290\"/><img src=\"BK126314G002S1P290\" alt=\"\" imgtype=\"Scan\"/><page number=\"291\"/><img src=\"BK126314G002S1P291\" alt=\"\" imgtype=\"Scan\"/><page number=\"292\"/><img src=\"BK126314G002S1P292\" alt=\"\" imgtype=\"Scan\"/><page number=\"293\"/><img src=\"BK126314G002S1P293\" alt=\"\" imgtype=\"Scan\"/><page number=\"294\"/><img src=\"BK126314G002S1P294\" alt=\"\" imgtype=\"Scan\"/><page number=\"295\"/><img src=\"BK126314G002S1P295\" alt=\"\" imgtype=\"Scan\"/><page number=\"296\"/><img src=\"BK126314G002S1P296\" alt=\"\" imgtype=\"Scan\"/><page number=\"297\"/><img src=\"BK126314G002S1P297\" alt=\"\" imgtype=\"Scan\"/><page number=\"298\"/><img src=\"BK126314G002S1P298\" alt=\"\" imgtype=\"Scan\"/><page number=\"299\"/><img src=\"BK126314G002S1P299\" alt=\"\" imgtype=\"Scan\"/><page number=\"300\"/><page number=\"301\"/><heading level=\"3\">فهرس الادوية...</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "297",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1959\" paragraph-id=\"1959\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo297\">297</span>\n    <img src=\"/file/book/page/EZkGvGt9JBQsA7QkUATTXM5Iri8yWvuwq2K_HJ5lOwgETTpfYQxpmqz0_KX18PAI\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "D6C2B212-55EE-4C51-B1A3-E0BCB97508D1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

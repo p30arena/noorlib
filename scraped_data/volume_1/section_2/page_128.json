@@ -1,0 +1,79 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 128,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166966,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2712\"><format class=\"hadith\" who=\"6\" Id=\"196\" RevayatIndex=\"196\"><page number=\"128\"/> فقال: «إذا فرغت من الفريضة تضع سبّابتك اليمنى بين عينيك، و قل سبع مرّات و أنت تمرّها على حاجبك الأيمن: يا حنّان، اشفني، ثمّ مرّها على يسارك و قل: يا منّان، اشفني، ثمّ تضع راحتك اليمنى على هامتك، ثمّ قل: يا من<lfootnote noteId=\"852\">1</lfootnote> سكن له ما في السّموات و الأرض، صلّ على <format class=\"maasoom\" maasoomNo=\"14\">محمّد</format> و <format class=\"maasoom\" maasoomNo=\"40\">آل محمّد</format> و سكّن ما بي»<lfootnote noteId=\"853\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166967,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2713\">[199] </p>"
+        },
+        {
+          "paragraphId": 714166968,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2714\"><format class=\"hadith\" who=\"5\" Id=\"197\" RevayatIndex=\"197\"><format class=\"sanadHadith\">روى البرقي، عن علي بن المهدي، عن ابن أبي حمزة، عن أبي بصير، قال:</format> ركبت مع <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format> إلى مكّة فأخذني شقيقة فشكوت ذلك إليه، فكتب لي تعويذا في قرطاس فسكن، ثمّ قرأته فإذا فيه: «اللّهمّ إنّك لست بإله استحدثناه، و لا بربّ يبيد ذكره، و لا كان معك من إله أدعوه و أرغب إليه و أعوذ به و ألجأ إليه و أستكفيه و أدعك، و لا أعانك على خلقي أحد، تعاليت يا إلهي عن ذلك علوّا كبيرا، أنت الله ربّي لا أشرك بك شيئا، و لا أتّخذ من دونك وليّا، اللّهمّ فأعذ فلان بن فلانة من جميع أعراضه و أو جاعه و أسقامه»<lfootnote noteId=\"854\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166969,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2715\">[200] </p>"
+        },
+        {
+          "paragraphId": 714166970,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2716\"><format class=\"hadith\" who=\"8\" Id=\"198\" RevayatIndex=\"198\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن الحسين بن سعيد؛ يرفعه إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبي الحسن الرضا عليه السّلام</format></format> في الشقيقة: </format>«<format class=\"ayah\" surah=\"1\" ayah=\"1\" toAyah=\"\">بِسْمِ اَللّٰهِ اَلرَّحْمٰنِ اَلرَّحِيمِ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"1\" ayah=\"1\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"3\" ayah=\"8\" toAyah=\"\">رَبَّنٰا لاٰ تُزِغْ قُلُوبَنٰا - <format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"8\" toAyah=\"\"/></format>إلي - <format class=\"ayah\" surah=\"3\" ayah=\"8\" toAyah=\"9\">اَلْوَهّٰابُ * <format class=\"AyahSeprator\"/>رَبَّنٰا إِنَّكَ جٰامِعُ اَلنّٰاسِ لِيَوْمٍ لاٰ رَيْبَ فِيهِ إِنَّ اَللّٰهَ لاٰ يُخْلِفُ اَلْمِيعٰادَ<format class=\"ayahWord\" fromWord=\"16\" toWord=\"29\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"8\" toAyah=\"9\"/></format><lfootnote noteId=\"855\">4</lfootnote> و تكتب: اللّهمّ إنّك لست بإله <page number=\"129\"/> استحدثناه، حتّى تأتي إلى آخره»<lfootnote noteId=\"856\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168548,
+          "text": "<footnote id=\"852\"><page number=\"128\"/><mnote>(1)</mnote> كلمة: «من» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168549,
+          "text": "<footnote id=\"853\"><mnote>(2)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 74، فقالا: في الصداع: محمّد بن إسماعيل، قال:<br/>حدّثنا محمّد بن خالد، عن أبي يعقوب الزيّات، عن معاوية عن عمّار الدهني، و الطبرسي في مكارم الأخلاق: 6/374، للصداع، و الراوندي في الدعوات: 534/194 كلاهما عن معاوية بن عمّار. </footnote>"
+        },
+        {
+          "footnoteId": 714168550,
+          "text": "<footnote id=\"854\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا، و انظر الحديث 186 من هذا الجزء. </footnote>"
+        },
+        {
+          "footnoteId": 714168551,
+          "text": "<footnote id=\"855\"><mnote>(4)</mnote> سورة آل عمران 8:3-9.</footnote>"
+        }
+      ],
+      "pageValue": "128",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2712\" paragraph-id=\"2712\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo128\">128</span> فقال: «إذا فرغت من الفريضة تضع سبّابتك اليمنى بين عينيك، و قل سبع مرّات و أنت تمرّها على حاجبك الأيمن: يا حنّان، اشفني، ثمّ مرّها على يسارك و قل: يا منّان، اشفني، ثمّ تضع راحتك اليمنى على هامتك، ثمّ قل: يا من<span><sup><a class=\"NewFn\" href=\"#footnote852\" title=\"(1)  كلمة: «من» أثبتناها من المصدر. \">1</a></sup></span> سكن له ما في السّموات و الأرض، صلّ على <span class=\"maasoom\">محمّد</span> و <span class=\"maasoom\">آل محمّد</span> و سكّن ما بي»<span><sup><a class=\"NewFn\" href=\"#footnote853\" title=\"(2)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 74، فقالا: في الصداع: محمّد بن إسماعيل، قال:حدّثنا محمّد بن خالد، عن أبي يعقوب الزيّات، عن معاوية عن عمّار الدهني، و الطبرسي في مكارم الأخلاق: 6/374، للصداع، و الراوندي في الدعوات: 534/194 كلاهما عن معاوية بن عمّار. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2713\" paragraph-id=\"2713\" class=\" G\">[199] </p>\n  <p id=\"p2714\" paragraph-id=\"2714\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى البرقي، عن علي بن المهدي، عن ابن أبي حمزة، عن أبي بصير، قال:</span> ركبت مع <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span> إلى مكّة فأخذني شقيقة فشكوت ذلك إليه، فكتب لي تعويذا في قرطاس فسكن، ثمّ قرأته فإذا فيه: «اللّهمّ إنّك لست بإله استحدثناه، و لا بربّ يبيد ذكره، و لا كان معك من إله أدعوه و أرغب إليه و أعوذ به و ألجأ إليه و أستكفيه و أدعك، و لا أعانك على خلقي أحد، تعاليت يا إلهي عن ذلك علوّا كبيرا، أنت الله ربّي لا أشرك بك شيئا، و لا أتّخذ من دونك وليّا، اللّهمّ فأعذ فلان بن فلانة من جميع أعراضه و أو جاعه و أسقامه»<span><sup><a class=\"NewFn\" href=\"#footnote854\" title=\"(3)  لم نعثر عليه في المصادر المتوفرة لدينا، و انظر الحديث 186 من هذا الجزء. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2715\" paragraph-id=\"2715\" class=\" G\">[200] </p>\n  <p id=\"p2716\" paragraph-id=\"2716\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن الحسين بن سعيد؛ يرفعه إلى <span class=\"Y\"><span class=\"maasoom\">أبي الحسن الرضا عليه السّلام</span></span> في الشقيقة: </span>«<span style=\"0\" class=\"ayah\" surah=\"1\" ayah=\"1\">بِسْمِ اَللّٰهِ اَلرَّحْمٰنِ اَلرَّحِيمِ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/1/1\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"3\" ayah=\"8\">رَبَّنٰا لاٰ تُزِغْ قُلُوبَنٰا - <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/3/8\"></a></span></span>إلي - <span style=\"0\" class=\"ayah\" surah=\"3\" ayah=\"8\">اَلْوَهّٰابُ * <span class=\"AyahSeprator\"></span>رَبَّنٰا إِنَّكَ جٰامِعُ اَلنّٰاسِ لِيَوْمٍ لاٰ رَيْبَ فِيهِ إِنَّ اَللّٰهَ لاٰ يُخْلِفُ اَلْمِيعٰادَ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/3/8\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote855\" title=\"(4)  سورة آل عمران 8:3-9.\">4</a></sup></span> و تكتب: اللّهمّ إنّك لست بإله </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote852\" footnote-id=\"852\">(1) <page number=\"128\" /> كلمة: «من» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote853\" footnote-id=\"853\">(2)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 74، فقالا: في الصداع: محمّد بن إسماعيل، قال:<br />حدّثنا محمّد بن خالد، عن أبي يعقوب الزيّات، عن معاوية عن عمّار الدهني، و الطبرسي في مكارم الأخلاق: 6/374، للصداع، و الراوندي في الدعوات: 534/194 كلاهما عن معاوية بن عمّار. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote854\" footnote-id=\"854\">(3)  لم نعثر عليه في المصادر المتوفرة لدينا، و انظر الحديث 186 من هذا الجزء. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote855\" footnote-id=\"855\">(4)  سورة آل عمران 8:3-9.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A0C6C1C5-0C74-41C6-835E-E9A58C667B09",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 26,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169804,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1059\"><format class=\"hadith\" who=\"8\" Id=\"34\" RevayatIndex=\"555\"><format class=\"sanadHadith\">روى يعقوب العطّار، عن محمّد بن يوسف، عن أبي الحارث، عن محمّد بن سليمان و الفضل بن سليمان، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبي الحسن الرضا عليه السّلام</format></format> قال: </format>«من قلّم <page number=\"26\"/> أظفاره يوم الأربعاء فبدأ بالخنصر الأيمن ثمّ بدأ بالأيسر كان له<lfootnote noteId=\"89\">1</lfootnote> أمان من الرمد»<lfootnote noteId=\"90\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169805,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1060\"><heading level=\"2\">[باب] علامة الدم </heading></p>"
+        },
+        {
+          "paragraphId": 714169806,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1061\">[35] </p>"
+        },
+        {
+          "paragraphId": 714169807,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1062\"><format class=\"hadith\" who=\"6\" Id=\"35\" RevayatIndex=\"556\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان، عن بعض أصحابنا، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>: </format>«إنّ للدم ثلاث علامات: البثر<lfootnote noteId=\"91\">3</lfootnote> في الجسد، و الحكّة، و دبيب الدوابّ‌<lfootnote noteId=\"92\">4</lfootnote>».</format></p>"
+        },
+        {
+          "paragraphId": 714169808,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1063\"><format class=\"hadith\" who=\"\" Id=\"35\" RevayatIndex=\"\">(1)<format class=\"RevayatIndex\" index=\"556\"/> و في موضع آخر: «النعاس»</format><lfootnote noteId=\"93\">5</lfootnote>. </p>"
+        },
+        {
+          "paragraphId": 714169809,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1064\"><page number=\"27\"/>[36] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170873,
+          "text": "<footnote id=\"89\"><page number=\"26\"/><mnote>(1)</mnote> كلمة: «له» أثبتناها من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714170874,
+          "text": "<footnote id=\"90\"><mnote>(2)</mnote> تقدّم بنفس السند و بتفاوت يسير في المتن في الحديث 253 من الجزء الأوّل.<br/>و روى الطبرسي في مكارم الأخلاق: 14/65، الفصل الأوّل في تقليم الأظفار، من طبّ الأئمّة عنه عليهم السّلام قال:...، إلّا أنّ فيه سقط، و في بعض نسخ مكارم الأخلاق ورد بتمامه كما في بحار الأنوار 123:73. </footnote>"
+        },
+        {
+          "footnoteId": 714170875,
+          "text": "<footnote id=\"91\"><mnote>(3)</mnote> قال الهروي: تبثّر جلده: تنفّط، جمعه البثور و هي أورام صغار. بحر الجواهر: 67.<br/>و قال المجلسي: البثور و الحكّة غالبهما بمدخلية كثرة الدم و إن كانتا من غيره من الأخلاط أيضا. بحار الأنوار 101:59. </footnote>"
+        },
+        {
+          "footnoteId": 714170876,
+          "text": "<footnote id=\"92\"><mnote>(4)</mnote> قال المجلسي: كأن المراد بدبيب الدواب ما يتخيّله الإنسان من دبيب نملة أو دابّة في جلده، و تسمّيه الأطباء التنمّل. بحار الأنوار 101:59. </footnote>"
+        },
+        {
+          "footnoteId": 714170877,
+          "text": "<footnote id=\"93\"><mnote>(5)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/73، الفصل الرابع في الحجامة، من طبّ الأئمّة عليهم السّلام قال الصادق عليه السّلام: «إنّ للدم ثلاث» و في حديث آخر: «و النعاس».<br/>و ابنا بسطام نحوه باختلاف يسير في طبّ الأئمّة عليهم السّلام: 55، في علامات هيجان الدم، عبد الله بن عبيدة، قال: حدّثني محمّد بن عيسى، عن ميسر، عن ابن سنان، عن الصادق عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "26",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1059\" paragraph-id=\"1059\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo26\">26</span> أظفاره يوم الأربعاء فبدأ بالخنصر الأيمن ثمّ بدأ بالأيسر كان له<span><sup><a class=\"NewFn\" href=\"#footnote89\" title=\"(1)  كلمة: «له» أثبتناها من مكارم الأخلاق. \">1</a></sup></span> أمان من الرمد»<span><sup><a class=\"NewFn\" href=\"#footnote90\" title=\"(2)  تقدّم بنفس السند و بتفاوت يسير في المتن في الحديث 253 من الجزء الأوّل.و روى الطبرسي في مكارم الأخلاق: 14/65، الفصل الأوّل في تقليم الأظفار، من طبّ الأئمّة عنه عليهم السّلام قال:...، إلّا أنّ فيه سقط، و في بعض نسخ مكارم الأخلاق ورد بتمامه كما في بحار الأنوار 123:73. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1060\" paragraph-id=\"1060\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] علامة الدم </strong>\n  </p>\n  <p id=\"p1061\" paragraph-id=\"1061\" class=\" G\">[35] </p>\n  <p id=\"p1062\" paragraph-id=\"1062\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان، عن بعض أصحابنا، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>: </span>«إنّ للدم ثلاث علامات: البثر<span><sup><a class=\"NewFn\" href=\"#footnote91\" title=\"(3)  قال الهروي: تبثّر جلده: تنفّط، جمعه البثور و هي أورام صغار. بحر الجواهر: 67.و قال المجلسي: البثور و الحكّة غالبهما بمدخلية كثرة الدم و إن كانتا من غيره من الأخلاط أيضا. بحار الأنوار 101:59. \">3</a></sup></span> في الجسد، و الحكّة، و دبيب الدوابّ‌<span><sup><a class=\"NewFn\" href=\"#footnote92\" title=\"(4)  قال المجلسي: كأن المراد بدبيب الدواب ما يتخيّله الإنسان من دبيب نملة أو دابّة في جلده، و تسمّيه الأطباء التنمّل. بحار الأنوار 101:59. \">4</a></sup></span>».</span>\n  </p>\n  <p id=\"p1063\" paragraph-id=\"1063\" class=\" G\">\n    <span class=\"hadith\">(1)<span class=\"RevayatIndex\"></span> و في موضع آخر: «النعاس»</span>\n    <span>\n      <sup>\n        <a class=\"NewFn\" href=\"#footnote93\" title=\"(5)  رواه الطبرسي في مكارم الأخلاق: 1/73، الفصل الرابع في الحجامة، من طبّ الأئمّة عليهم السّلام قال الصادق عليه السّلام: «إنّ للدم ثلاث» و في حديث آخر: «و النعاس».و ابنا بسطام نحوه باختلاف يسير في طبّ الأئمّة عليهم السّلام: 55، في علامات هيجان الدم، عبد الله بن عبيدة، قال: حدّثني محمّد بن عيسى، عن ميسر، عن ابن سنان، عن الصادق عليه السّلام. \">5</a>\n      </sup>\n    </span>. </p>\n  <p id=\"p1064\" paragraph-id=\"1064\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote89\" footnote-id=\"89\">(1) <page number=\"26\" /> كلمة: «له» أثبتناها من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote90\" footnote-id=\"90\">(2)  تقدّم بنفس السند و بتفاوت يسير في المتن في الحديث 253 من الجزء الأوّل.<br />و روى الطبرسي في مكارم الأخلاق: 14/65، الفصل الأوّل في تقليم الأظفار، من طبّ الأئمّة عنه عليهم السّلام قال:...، إلّا أنّ فيه سقط، و في بعض نسخ مكارم الأخلاق ورد بتمامه كما في بحار الأنوار 123:73. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote91\" footnote-id=\"91\">(3)  قال الهروي: تبثّر جلده: تنفّط، جمعه البثور و هي أورام صغار. بحر الجواهر: 67.<br />و قال المجلسي: البثور و الحكّة غالبهما بمدخلية كثرة الدم و إن كانتا من غيره من الأخلاط أيضا. بحار الأنوار 101:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote92\" footnote-id=\"92\">(4)  قال المجلسي: كأن المراد بدبيب الدواب ما يتخيّله الإنسان من دبيب نملة أو دابّة في جلده، و تسمّيه الأطباء التنمّل. بحار الأنوار 101:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote93\" footnote-id=\"93\">(5)  رواه الطبرسي في مكارم الأخلاق: 1/73، الفصل الرابع في الحجامة، من طبّ الأئمّة عليهم السّلام قال الصادق عليه السّلام: «إنّ للدم ثلاث» و في حديث آخر: «و النعاس».<br />و ابنا بسطام نحوه باختلاف يسير في طبّ الأئمّة عليهم السّلام: 55، في علامات هيجان الدم، عبد الله بن عبيدة، قال: حدّثني محمّد بن عيسى، عن ميسر، عن ابن سنان، عن الصادق عليه السّلام. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5C331A6E-00E2-4894-A677-36BAD7398F2E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

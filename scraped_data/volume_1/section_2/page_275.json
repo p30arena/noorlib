@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 275,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167689,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3435\"><format class=\"hadith\" who=\"8\" Id=\"441\" RevayatIndex=\"441\"><format class=\"sanadHadith\">و روي عنه عليه السّلام أيضا</format>: <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\"/></format>«تأخذ هليلج أسود و بليلج و أملج أجزاء سواء فتدقّه و تنخله بحريرة<lfootnote noteId=\"1510\">8</lfootnote> و تأخذ مثله لوزا<lfootnote noteId=\"1511\">9</lfootnote> أزرق - و أهل العراق <page number=\"275\"/> يسمّونه: مقل أزرق - فتنقع اللوز<lfootnote noteId=\"1512\">1</lfootnote> في ماء الكرّاث حتى يلتات فيه ثلاثين<lfootnote noteId=\"1513\">2</lfootnote>ليلة، و تطرح عليها هذه الأدوية الهليلج و البليلج و الأملج فيعجن به عجنا شديدا حتّى يختلط، ثمّ تجعل حبّا مثل العدس و تدهن يدك بدهن البنفسج أو خيريّ أو شيرج لئلّا يلتزق، ثمّ تجفّفه<lfootnote noteId=\"1514\">3</lfootnote> في الظلّ‌، فإن كان صيفا أخذت<lfootnote noteId=\"1515\">4</lfootnote> منه مثقالا عند منامك و في الشتاء مثقالين، و اكتحل و ادّهن قبل ذلك، و لا تحتمي إلّا من السمك و الخلّ و البقل»<lfootnote noteId=\"1516\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167690,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3436\">[447] </p>"
+        },
+        {
+          "paragraphId": 714167691,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3437\"><format class=\"hadith\" who=\"8\" Id=\"442\" RevayatIndex=\"442\"><format class=\"sanadHadith\">و أيضا:</format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\"/></format> شمع و دهن و عسل لبنى<lfootnote noteId=\"1517\">6</lfootnote>، تدخّن بحبة<lfootnote noteId=\"1518\">7</lfootnote> دخّن به<lfootnote noteId=\"1519\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167692,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3438\">[448] </p>"
+        },
+        {
+          "paragraphId": 714167693,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3439\"><format class=\"hadith\" who=\"1\" Id=\"443\" RevayatIndex=\"443\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين صلوات الله عليه</format></format>: </format>«البلادر يقطع البواسير»<lfootnote noteId=\"1520\">9</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167694,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3440\"><page number=\"276\"/>[449] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169467,
+          "text": "<footnote id=\"1512\"><page number=\"275\"/><mnote>(1)</mnote> كلمة: «اللوز» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169468,
+          "text": "<footnote id=\"1513\"><mnote>(2)</mnote> في النسخة: «و ثلاثين» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169469,
+          "text": "<footnote id=\"1514\"><mnote>(3)</mnote> في النسخة: «تجمعه» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169470,
+          "text": "<footnote id=\"1515\"><mnote>(4)</mnote> في النسخة: «جذب» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169471,
+          "text": "<footnote id=\"1516\"><mnote>(5)</mnote> رواه ابنا بسطام بتفاوت يسير في الألفاظ في طبّ الأئمّة عليهم السّلام: 101، فقال: في البواسير، أبو الفوارس بن غالب بن محمّد بن فارس قال: حدّثنا أحمد بن حمّاد البصري من ولد نصر بن سيّار، قال: حدّثني معمّر بن خلّاد، قال: كان أبو الحسن الرضا عليه السّلام كثيرا ما يأمرني باتّخاذ هذا الدواء و يقول: «إنّ فيه منافع كثيرة» و لقد جرّبته في الأرياح و البواسير فلا و الله ما خالف «تأخذ هليلج أسود». </footnote>"
+        },
+        {
+          "footnoteId": 714169472,
+          "text": "<footnote id=\"1517\"><mnote>(6)</mnote> اللّبنى: شجرة لها لبن كالعسل، يقال له: عسل لبنى. انظر: كتاب العين 327:8 «لبن»، بحار الأنوار 195:59. </footnote>"
+        },
+        {
+          "footnoteId": 714169473,
+          "text": "<footnote id=\"1518\"><mnote>(7)</mnote> كذا استظهرنا من النسخة و قد تقرأ بصيغة اخرى. </footnote>"
+        },
+        {
+          "footnoteId": 714169474,
+          "text": "<footnote id=\"1519\"><mnote>(8)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و سيأتي نحوه في الحديث 452 من هذا الجزء في علاج البواسير ببعض هذه المفردات. </footnote>"
+        },
+        {
+          "footnoteId": 714169475,
+          "text": "<footnote id=\"1520\"><mnote>(9)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و تقدّم في الحديث 444 ما يرتبط بذلك. </footnote>"
+        }
+      ],
+      "pageValue": "275",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3435\" paragraph-id=\"3435\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo275\">275</span> يسمّونه: مقل أزرق - فتنقع اللوز<span><sup><a class=\"NewFn\" href=\"#footnote1512\" title=\"(1)  كلمة: «اللوز» أثبتناها من المصدر. \">1</a></sup></span> في ماء الكرّاث حتى يلتات فيه ثلاثين<span><sup><a class=\"NewFn\" href=\"#footnote1513\" title=\"(2)  في النسخة: «و ثلاثين» و ما أثبتناه من المصدر. \">2</a></sup></span>ليلة، و تطرح عليها هذه الأدوية الهليلج و البليلج و الأملج فيعجن به عجنا شديدا حتّى يختلط، ثمّ تجعل حبّا مثل العدس و تدهن يدك بدهن البنفسج أو خيريّ أو شيرج لئلّا يلتزق، ثمّ تجفّفه<span><sup><a class=\"NewFn\" href=\"#footnote1514\" title=\"(3)  في النسخة: «تجمعه» و ما أثبتناه من المصدر. \">3</a></sup></span> في الظلّ‌، فإن كان صيفا أخذت<span><sup><a class=\"NewFn\" href=\"#footnote1515\" title=\"(4)  في النسخة: «جذب» و ما أثبتناه من المصدر. \">4</a></sup></span> منه مثقالا عند منامك و في الشتاء مثقالين، و اكتحل و ادّهن قبل ذلك، و لا تحتمي إلّا من السمك و الخلّ و البقل»<span><sup><a class=\"NewFn\" href=\"#footnote1516\" title=\"(5)  رواه ابنا بسطام بتفاوت يسير في الألفاظ في طبّ الأئمّة عليهم السّلام: 101، فقال: في البواسير، أبو الفوارس بن غالب بن محمّد بن فارس قال: حدّثنا أحمد بن حمّاد البصري من ولد نصر بن سيّار، قال: حدّثني معمّر بن خلّاد، قال: كان أبو الحسن الرضا عليه السّلام كثيرا ما يأمرني باتّخاذ هذا الدواء و يقول: «إنّ فيه منافع كثيرة» و لقد جرّبته في الأرياح و البواسير فلا و الله ما خالف «تأخذ هليلج أسود». \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p3436\" paragraph-id=\"3436\" class=\" G\">[447] </p>\n  <p id=\"p3437\" paragraph-id=\"3437\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و أيضا:</span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span> شمع و دهن و عسل لبنى<span><sup><a class=\"NewFn\" href=\"#footnote1517\" title=\"(6)  اللّبنى: شجرة لها لبن كالعسل، يقال له: عسل لبنى. انظر: كتاب العين 327:8 «لبن»، بحار الأنوار 195:59. \">6</a></sup></span>، تدخّن بحبة<span><sup><a class=\"NewFn\" href=\"#footnote1518\" title=\"(7)  كذا استظهرنا من النسخة و قد تقرأ بصيغة اخرى. \">7</a></sup></span> دخّن به<span><sup><a class=\"NewFn\" href=\"#footnote1519\" title=\"(8)  لم نعثر عليه في المصادر المتوفّرة لدينا، و سيأتي نحوه في الحديث 452 من هذا الجزء في علاج البواسير ببعض هذه المفردات. \">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p3438\" paragraph-id=\"3438\" class=\" G\">[448] </p>\n  <p id=\"p3439\" paragraph-id=\"3439\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين صلوات الله عليه</span></span>: </span>«البلادر يقطع البواسير»<span><sup><a class=\"NewFn\" href=\"#footnote1520\" title=\"(9)  لم نعثر عليه في المصادر المتوفّرة لدينا، و تقدّم في الحديث 444 ما يرتبط بذلك. \">9</a></sup></span>.</span>\n  </p>\n  <p id=\"p3440\" paragraph-id=\"3440\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1512\" footnote-id=\"1512\">(1) <page number=\"275\" /> كلمة: «اللوز» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1513\" footnote-id=\"1513\">(2)  في النسخة: «و ثلاثين» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1514\" footnote-id=\"1514\">(3)  في النسخة: «تجمعه» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1515\" footnote-id=\"1515\">(4)  في النسخة: «جذب» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1516\" footnote-id=\"1516\">(5)  رواه ابنا بسطام بتفاوت يسير في الألفاظ في طبّ الأئمّة عليهم السّلام: 101، فقال: في البواسير، أبو الفوارس بن غالب بن محمّد بن فارس قال: حدّثنا أحمد بن حمّاد البصري من ولد نصر بن سيّار، قال: حدّثني معمّر بن خلّاد، قال: كان أبو الحسن الرضا عليه السّلام كثيرا ما يأمرني باتّخاذ هذا الدواء و يقول: «إنّ فيه منافع كثيرة» و لقد جرّبته في الأرياح و البواسير فلا و الله ما خالف «تأخذ هليلج أسود». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1517\" footnote-id=\"1517\">(6)  اللّبنى: شجرة لها لبن كالعسل، يقال له: عسل لبنى. انظر: كتاب العين 327:8 «لبن»، بحار الأنوار 195:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1518\" footnote-id=\"1518\">(7)  كذا استظهرنا من النسخة و قد تقرأ بصيغة اخرى. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1519\" footnote-id=\"1519\">(8)  لم نعثر عليه في المصادر المتوفّرة لدينا، و سيأتي نحوه في الحديث 452 من هذا الجزء في علاج البواسير ببعض هذه المفردات. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1520\" footnote-id=\"1520\">(9)  لم نعثر عليه في المصادر المتوفّرة لدينا، و تقدّم في الحديث 444 ما يرتبط بذلك. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "85A9E2C2-13E9-4C94-B5A5-1AF570E04520",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

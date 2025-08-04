@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 51,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166713,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2318\"><page number=\"51\"/>[69] </p>"
+        },
+        {
+          "paragraphId": 714166714,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2319\"><format class=\"hadith\" who=\"6\" Id=\"69\" RevayatIndex=\"69\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن موسى بن محمّد بن عيسى، و غيره كثير من أصحابنا بأسانيدهم عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>: </format>«إذا اشتدّ على الرجل النزع وضع على مصلّاه الذي يصلّي عليه<lfootnote noteId=\"471\">1</lfootnote>؛ فإنّه يخفّ عليه ذلك»<lfootnote noteId=\"472\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166715,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2320\"><heading level=\"2\">[باب] في آداب الطبيب </heading></p>"
+        },
+        {
+          "paragraphId": 714166716,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2321\">[70] </p>"
+        },
+        {
+          "paragraphId": 714166717,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2322\"><format class=\"hadith\" who=\"6\" Id=\"70\" RevayatIndex=\"70\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«أيّام الصحّة محسوبة و أيّام العلّة محسوبة، لا يزيد هذه و لا ينقص هذه، و إنّ الله عزّ و جلّ ليحجب بين الداء و الدواء<lfootnote noteId=\"473\">3</lfootnote>حتّى تنقضي المدّة ثمّ يخلّي بينه و بينه فيكون برؤه بذلك الدواء أو يشاء فيخلّي قبل انقضاء المدّة بمعروف أو صدقة<lfootnote noteId=\"474\">4</lfootnote> أو برّ فإنّه <format class=\"ayah\" surah=\"13\" ayah=\"39\" toAyah=\"\">يَمْحُوا اَللّٰهُ مٰا يَشٰاءُ وَ يُثْبِتُ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"6\"/><format class=\"ayahAddress\" surah=\"13\" ayah=\"39\" toAyah=\"\"/></format><lfootnote noteId=\"475\">5</lfootnote><page number=\"52\"/> و <format class=\"ayah\" surah=\"85\" ayah=\"13\" toAyah=\"\">هُوَ يُبْدِئُ وَ يُعِيدُ<format class=\"ayahWord\" fromWord=\"2\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"85\" ayah=\"13\" toAyah=\"\"/></format><lfootnote noteId=\"476\">1</lfootnote>»<lfootnote noteId=\"477\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168024,
+          "text": "<footnote id=\"470\"><mnote>(6)</mnote> رواه ابنا البسطام في طبّ الأئمّة عليهم السّلام: 79، عن محمّد بن جعفر المصيصي، قال: حدّثنا القدّاح، عن جعفر بن محمّد، عن أبيه عليهما السّلام، و الكليني في الكافي 7/124:3، باب تلقين الميّت - و عنه في تهذيب الأحكام 8/288:1، باب تلقين المحتضرين و توجيههم عند الوفاة، فقال: و بهذا الإسناد عن محمّد بن يعقوب، عن - عدّة من أصحابنا، عن سهل بن <page number=\"51\"/>زياد، عن جعفر بن محمّد الأشعري، عن عبد الله بن ميمون القدّاح، عن أبي عبد الله عليه السّلام، و الراوندي في الدعوات: 693/245 عن الصادق عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168025,
+          "text": "<footnote id=\"471\"><mnote>(1)</mnote> في الكافي: «يصلّي فيه أو عليه» قال المجلسي: و قوله عليه السّلام: «فيه أو عليه» أي: المكان الذي يصلّي فيه أو الثوب الذي يصلّي عليه، و الحمل على ترديد الراوي بعيد. مرآة العقول 282:13. </footnote>"
+        },
+        {
+          "footnoteId": 714168026,
+          "text": "<footnote id=\"472\"><mnote>(2)</mnote> روى الكليني نحوه في الكافي 2/125:3، باب إذا عسر على الميّت الموت و اشتدّ عليه النزع، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد، عن النضر بن سويد، عن عبد الله بن سنان، عن أبي عبد الله عليه السّلام، رواه الطوسي في تهذيب الأحكام 1/427:1 و 2، باب تلقين المحتضرين، عن الحسين بن سعيد، و الكليني أيضا في 3/126، عن علي بن ابراهيم، عن أبيه، عن حماد، عن حريز، عن زرارة قال: «إذا اشتدّ» و الراوندي في الدعوات: 710/252 عن النبي صلّى الله عليه و آله. </footnote>"
+        },
+        {
+          "footnoteId": 714168027,
+          "text": "<footnote id=\"473\"><mnote>(3)</mnote> في النسخة: «من الداء الدواء» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168028,
+          "text": "<footnote id=\"474\"><mnote>(4)</mnote> قوله: «بمعروف أو صدقة» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168029,
+          "text": "<footnote id=\"475\"><mnote>(5)</mnote> سورة الرعد 39:13.</footnote>"
+        }
+      ],
+      "pageValue": "51",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2318\" paragraph-id=\"2318\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo51\">51</span>[69] </p>\n  <p id=\"p2319\" paragraph-id=\"2319\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن موسى بن محمّد بن عيسى، و غيره كثير من أصحابنا بأسانيدهم عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>: </span>«إذا اشتدّ على الرجل النزع وضع على مصلّاه الذي يصلّي عليه<span><sup><a class=\"NewFn\" href=\"#footnote471\" title=\"(1)  في الكافي: «يصلّي فيه أو عليه» قال المجلسي: و قوله عليه السّلام: «فيه أو عليه» أي: المكان الذي يصلّي فيه أو الثوب الذي يصلّي عليه، و الحمل على ترديد الراوي بعيد. مرآة العقول 282:13. \">1</a></sup></span>؛ فإنّه يخفّ عليه ذلك»<span><sup><a class=\"NewFn\" href=\"#footnote472\" title=\"(2)  روى الكليني نحوه في الكافي 2/125:3، باب إذا عسر على الميّت الموت و اشتدّ عليه النزع، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد، عن النضر بن سويد، عن عبد الله بن سنان، عن أبي عبد الله عليه السّلام، رواه الطوسي في تهذيب الأحكام 1/427:1 و 2، باب تلقين المحتضرين، عن الحسين بن سعيد، و الكليني أيضا في 3/126، عن علي بن ابراهيم، عن أبيه، عن حماد، عن حريز، عن زرارة قال: «إذا اشتدّ» و الراوندي في الدعوات: 710/252 عن النبي صلّى الله عليه و آله. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2320\" paragraph-id=\"2320\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في آداب الطبيب </strong>\n  </p>\n  <p id=\"p2321\" paragraph-id=\"2321\" class=\" G\">[70] </p>\n  <p id=\"p2322\" paragraph-id=\"2322\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«أيّام الصحّة محسوبة و أيّام العلّة محسوبة، لا يزيد هذه و لا ينقص هذه، و إنّ الله عزّ و جلّ ليحجب بين الداء و الدواء<span><sup><a class=\"NewFn\" href=\"#footnote473\" title=\"(3)  في النسخة: «من الداء الدواء» و ما أثبتناه من المصدر. \">3</a></sup></span>حتّى تنقضي المدّة ثمّ يخلّي بينه و بينه فيكون برؤه بذلك الدواء أو يشاء فيخلّي قبل انقضاء المدّة بمعروف أو صدقة<span><sup><a class=\"NewFn\" href=\"#footnote474\" title=\"(4)  قوله: «بمعروف أو صدقة» أثبتناه من المصدر. \">4</a></sup></span> أو برّ فإنّه <span style=\"0\" class=\"ayah\" surah=\"13\" ayah=\"39\">يَمْحُوا اَللّٰهُ مٰا يَشٰاءُ وَ يُثْبِتُ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/13/39\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote475\" title=\"(5)  سورة الرعد 39:13.\">5</a></sup></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote470\" footnote-id=\"470\"><page number=\"51\" />زياد، عن جعفر بن محمّد الأشعري، عن عبد الله بن ميمون القدّاح، عن أبي عبد الله عليه السّلام، و الراوندي في الدعوات: 693/245 عن الصادق عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote471\" footnote-id=\"471\">(1)  في الكافي: «يصلّي فيه أو عليه» قال المجلسي: و قوله عليه السّلام: «فيه أو عليه» أي: المكان الذي يصلّي فيه أو الثوب الذي يصلّي عليه، و الحمل على ترديد الراوي بعيد. مرآة العقول 282:13. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote472\" footnote-id=\"472\">(2)  روى الكليني نحوه في الكافي 2/125:3، باب إذا عسر على الميّت الموت و اشتدّ عليه النزع، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد، عن النضر بن سويد، عن عبد الله بن سنان، عن أبي عبد الله عليه السّلام، رواه الطوسي في تهذيب الأحكام 1/427:1 و 2، باب تلقين المحتضرين، عن الحسين بن سعيد، و الكليني أيضا في 3/126، عن علي بن ابراهيم، عن أبيه، عن حماد، عن حريز، عن زرارة قال: «إذا اشتدّ» و الراوندي في الدعوات: 710/252 عن النبي صلّى الله عليه و آله. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote473\" footnote-id=\"473\">(3)  في النسخة: «من الداء الدواء» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote474\" footnote-id=\"474\">(4)  قوله: «بمعروف أو صدقة» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote475\" footnote-id=\"475\">(5)  سورة الرعد 39:13.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D0846ADD-F3F6-418D-B14B-3D5E1E36051C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

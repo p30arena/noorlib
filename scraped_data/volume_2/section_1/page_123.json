@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 123,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170210,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1465\"><page number=\"123\"/><heading level=\"2\">[باب في طلب الولد و زيادة النسل]<lfootnote noteId=\"483\">1</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714170211,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1466\">[167] </p>"
+        },
+        {
+          "paragraphId": 714170212,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1467\"><format class=\"hadith\" who=\"5\" Id=\"165\" RevayatIndex=\"686\"><format class=\"sanadHadith\">روى السيّاري، عن عبد الرحمن بن أبي نجران، عن سليمان الجعفري، عن شيخ من بني عذرة<lfootnote noteId=\"484\">2</lfootnote>، عن زرارة، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format>: </format>أنّه وفد إلى<lfootnote noteId=\"485\">3</lfootnote> هشام بن عبد الملك فأبطأ عليه الإذن<lfootnote noteId=\"486\">4</lfootnote> حتّى اغتمّ‌، و كان له حاجب كثير الدنيا و لا يولد له، فدنا منه <format class=\"maasoom\" maasoomNo=\"5\">أبو جعفر عليه السّلام</format>، فقال له: «هل لك أن توصلني إلى هشام، و أعلّمك دعاء يولد لك‌؟» قال: نعم، فأوصله إلى هشام، و قضى حوائجه.</format></p>"
+        },
+        {
+          "paragraphId": 714170213,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1468\"><format class=\"hadith\" who=\"5\" Id=\"165\" RevayatIndex=\"686\">فلمّا فرغ، قال له الحاجب: جعلت فداك، الدعاء الذي قلت لي‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714170214,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1469\"><format class=\"hadith\" who=\"5\" Id=\"165\" RevayatIndex=\"686\">قال: «نعم، تقول كلّ يوم إذا أصبحت و أمسيت: <format class=\"semicolon\">سبحان الله</format> سبعين مرّة، و تستغفره عشر مرّات، و تسبّحه تسع مرّات<lfootnote noteId=\"487\">5</lfootnote>، و تختم العاشرة بالاستغفار، يقول الله عزّ و جلّ‌<lfootnote noteId=\"488\">6</lfootnote>: <format class=\"ayah\" surah=\"71\" ayah=\"10\" toAyah=\"12\">اِسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كٰانَ غَفّٰاراً * <format class=\"AyahSeprator\"/>يُرْسِلِ اَلسَّمٰاءَ عَلَيْكُمْ مِدْرٰاراً * <format class=\"AyahSeprator\"/>وَ يُمْدِدْكُمْ بِأَمْوٰالٍ وَ بَنِينَ وَ يَجْعَلْ لَكُمْ جَنّٰاتٍ وَ يَجْعَلْ لَكُمْ أَنْهٰاراً<format class=\"ayahWord\" fromWord=\"2\" toWord=\"23\"/><format class=\"ayahAddress\" surah=\"71\" ayah=\"10\" toAyah=\"12\"/></format><lfootnote noteId=\"489\">7</lfootnote>». فقالها الحاجب، فرزق ذرّية كثيرة، و كان بعد ذلك يصل <format class=\"maasoom\" maasoomNo=\"5\">أبا جعفر</format> و <format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليهما السّلام</format>.</format></p>"
+        },
+        {
+          "paragraphId": 714170215,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1470\"><format class=\"hadith\" who=\"5\" Id=\"165\" RevayatIndex=\"686\">قال سليمان: فقلتها - و قد تزوّجت ابنة عمّ لي<lfootnote noteId=\"490\">8</lfootnote> فأبطأ عليّ الولد منها - <page number=\"124\"/> و علّمتها أهلي فرزقت ولدا<lfootnote noteId=\"491\">1</lfootnote>، و زعمت المرأة أنّها متى تشاء أن تحمل حملت إذا قالتها، و علّمتها غيرها من الهاشميين ممّن لم يولد لهم، فولد لهم ولد كثير و الحمد لله<lfootnote noteId=\"492\">2</lfootnote><lfootnote noteId=\"493\"> 3</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171190,
+          "text": "<footnote id=\"483\"><page number=\"123\"/><mnote>(1)</mnote> ما بين المعقوفتين أثبتناه من متن الحديث. </footnote>"
+        },
+        {
+          "footnoteId": 714171191,
+          "text": "<footnote id=\"484\"><mnote>(2)</mnote> في الكافي: «عن سليمان بن جعفر، عن شيخ مدني». </footnote>"
+        },
+        {
+          "footnoteId": 714171192,
+          "text": "<footnote id=\"485\"><mnote>(3)</mnote> النسخة مخرومة، و قوله: «أنه وفد إلى» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171193,
+          "text": "<footnote id=\"486\"><mnote>(4)</mnote> قوله: «عليه الإذن» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171194,
+          "text": "<footnote id=\"487\"><mnote>(5)</mnote> في النسخة: «سبع مرّات» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171195,
+          "text": "<footnote id=\"488\"><mnote>(6)</mnote> في الكافي: «ثمّ تقول قول الله عز و جلّ‌». </footnote>"
+        },
+        {
+          "footnoteId": 714171196,
+          "text": "<footnote id=\"489\"><mnote>(7)</mnote> سورة نوح 10:71-12. </footnote>"
+        },
+        {
+          "footnoteId": 714171197,
+          "text": "<footnote id=\"490\"><mnote>(8)</mnote> قال المجلسي في شرح هذا الحديث و مشابهه الذي قبله: الآية تدلّ على مدخلية مطلق<page number=\"124\"/>الاستغفار في حصول البنين، و أمّا خصوص العدد فله علّة اخرى، إلّا أن يقال: الأمر مطلقا أو خصوص هذا الأمر - بقرينة المقام - يدلّ على التكرار، و أقلّ ما يحصل به التكرار عرفا هذا العدد، و هو تكلّف بعيد. مرآة العقول 16:21، و انظر: الوافي 1306:23. </footnote>"
+        }
+      ],
+      "pageValue": "123",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1465\" paragraph-id=\"1465\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo123\">123</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب في طلب الولد و زيادة النسل]<span><sup><a class=\"NewFn\" href=\"#footnote483\" title=\"(1)  ما بين المعقوفتين أثبتناه من متن الحديث. \">1</a></sup></span></strong>\n  </p>\n  <p id=\"p1466\" paragraph-id=\"1466\" class=\" G\">[167] </p>\n  <p id=\"p1467\" paragraph-id=\"1467\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى السيّاري، عن عبد الرحمن بن أبي نجران، عن سليمان الجعفري، عن شيخ من بني عذرة<span><sup><a class=\"NewFn\" href=\"#footnote484\" title=\"(2)  في الكافي: «عن سليمان بن جعفر، عن شيخ مدني». \">2</a></sup></span>، عن زرارة، عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span>: </span>أنّه وفد إلى<span><sup><a class=\"NewFn\" href=\"#footnote485\" title=\"(3)  النسخة مخرومة، و قوله: «أنه وفد إلى» أثبتناه من المصدر. \">3</a></sup></span> هشام بن عبد الملك فأبطأ عليه الإذن<span><sup><a class=\"NewFn\" href=\"#footnote486\" title=\"(4)  قوله: «عليه الإذن» أثبتناه من المصدر. \">4</a></sup></span> حتّى اغتمّ‌، و كان له حاجب كثير الدنيا و لا يولد له، فدنا منه <span class=\"maasoom\">أبو جعفر عليه السّلام</span>، فقال له: «هل لك أن توصلني إلى هشام، و أعلّمك دعاء يولد لك‌؟» قال: نعم، فأوصله إلى هشام، و قضى حوائجه.</span>\n  </p>\n  <p id=\"p1468\" paragraph-id=\"1468\" class=\" G\">\n    <span class=\"hadith\">فلمّا فرغ، قال له الحاجب: جعلت فداك، الدعاء الذي قلت لي‌؟</span>\n  </p>\n  <p id=\"p1469\" paragraph-id=\"1469\" class=\" G\">\n    <span class=\"hadith\">قال: «نعم، تقول كلّ يوم إذا أصبحت و أمسيت: <span class=\"semicolon\">سبحان الله</span> سبعين مرّة، و تستغفره عشر مرّات، و تسبّحه تسع مرّات<span><sup><a class=\"NewFn\" href=\"#footnote487\" title=\"(5)  في النسخة: «سبع مرّات» و ما أثبتناه من المصدر. \">5</a></sup></span>، و تختم العاشرة بالاستغفار، يقول الله عزّ و جلّ‌<span><sup><a class=\"NewFn\" href=\"#footnote488\" title=\"(6)  في الكافي: «ثمّ تقول قول الله عز و جلّ‌». \">6</a></sup></span>: <span style=\"0\" class=\"ayah\" surah=\"71\" ayah=\"10\">اِسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كٰانَ غَفّٰاراً * <span class=\"AyahSeprator\"></span>يُرْسِلِ اَلسَّمٰاءَ عَلَيْكُمْ مِدْرٰاراً * <span class=\"AyahSeprator\"></span>وَ يُمْدِدْكُمْ بِأَمْوٰالٍ وَ بَنِينَ وَ يَجْعَلْ لَكُمْ جَنّٰاتٍ وَ يَجْعَلْ لَكُمْ أَنْهٰاراً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/71/10\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote489\" title=\"(7)  سورة نوح 10:71-12. \">7</a></sup></span>». فقالها الحاجب، فرزق ذرّية كثيرة، و كان بعد ذلك يصل <span class=\"maasoom\">أبا جعفر</span> و <span class=\"maasoom\">أبا عبد الله عليهما السّلام</span>.</span>\n  </p>\n  <p id=\"p1470\" paragraph-id=\"1470\" class=\" G\">\n    <span class=\"hadith\">قال سليمان: فقلتها - و قد تزوّجت ابنة عمّ لي<span><sup><a class=\"NewFn\" href=\"#footnote490\" title=\"(8)  قال المجلسي في شرح هذا الحديث و مشابهه الذي قبله: الآية تدلّ على مدخلية مطلق\">8</a></sup></span> فأبطأ عليّ الولد منها - </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote483\" footnote-id=\"483\">(1) <page number=\"123\" /> ما بين المعقوفتين أثبتناه من متن الحديث. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote484\" footnote-id=\"484\">(2)  في الكافي: «عن سليمان بن جعفر، عن شيخ مدني». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote485\" footnote-id=\"485\">(3)  النسخة مخرومة، و قوله: «أنه وفد إلى» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote486\" footnote-id=\"486\">(4)  قوله: «عليه الإذن» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote487\" footnote-id=\"487\">(5)  في النسخة: «سبع مرّات» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote488\" footnote-id=\"488\">(6)  في الكافي: «ثمّ تقول قول الله عز و جلّ‌». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote489\" footnote-id=\"489\">(7)  سورة نوح 10:71-12. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote490\" footnote-id=\"490\">(8)  قال المجلسي في شرح هذا الحديث و مشابهه الذي قبله: الآية تدلّ على مدخلية مطلق</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "557D503E-8ED1-430B-A3CF-A48AB47DDDBD",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

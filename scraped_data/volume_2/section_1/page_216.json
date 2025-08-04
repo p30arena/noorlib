@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 216,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170624,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1879\"><format class=\"hadith\" who=\"6\" Id=\"295\" RevayatIndex=\"816\"><format class=\"sanadHadith\">روى أحمد بن محمّد<lfootnote noteId=\"882\">6</lfootnote>، عن الحسين بن سعيد، عن عبد الله بن <page number=\"216\"/> عبد الرحمن، عن شعيب، عن أبي بصير، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«لبس الخفّ‌<lfootnote noteId=\"883\">1</lfootnote> يزيد في قوّة البصر»<lfootnote noteId=\"884\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170625,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1880\">[300] </p>"
+        },
+        {
+          "paragraphId": 714170626,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1881\"><format class=\"hadith\" who=\"6\" Id=\"296\" RevayatIndex=\"817\"><format class=\"sanadHadith\">و <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">عنه عليه السّلام</format></format> قال: إنّه قال: </format>«من السنّة لبس الخفّ الأسود و النعل الصفراء»<lfootnote noteId=\"885\">3</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170627,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1882\"><heading level=\"2\">[باب] ما جاء في عقر الخفّ‌<lfootnote noteId=\"886\">4</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714170628,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1883\">[301] </p>"
+        },
+        {
+          "paragraphId": 714170629,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1884\"><format class=\"hadith\" who=\"11\" Id=\"297\" RevayatIndex=\"818\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"11\">أبي الحسن العسكري عليه السّلام</format></format></format> فيمن أصابه عقر الخفّ و النعل، قال: «تأخذ طينا من حائط بلبن، ثمّ تحكّه بريقك على صخرة أو حجر، ثمّ تضعه على العقر، فإنّه يذهب إن شاء الله<lfootnote noteId=\"887\">5</lfootnote>»<lfootnote noteId=\"888\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170630,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1885\"><page number=\"217\"/><heading level=\"2\">[باب] في حفظ السّفرة عن الهوامّ‌ </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171235,
+          "text": "<footnote id=\"883\"><page number=\"216\"/><mnote>(1)</mnote> الخفّ‌: ما لبس في القدم، لاحظ: المخصّص 1 ق 114:4، السفر الرابع. و الرواية تدلّ على استحباب لبس الخفّ كما ذكره الأصحاب. انظر: مرآة العقول 351:22. </footnote>"
+        },
+        {
+          "footnoteId": 714171236,
+          "text": "<footnote id=\"884\"><mnote>(2)</mnote> رواه الكليني في الكافي 1/466:6، باب الخفّ‌، عدّة من أصحابنا، عن سهل بن زياد، عن محمّد بن عيسى، عن سلمة بن أبي حبّة، عن أبي عبد الله عليه السّلام، و الصدوق في ثواب الأعمال: 25، باب ثواب لبس الخفّ‌، حدّثني محمّد بن الحسن رحمه الله، قال: حدّثني أحمد بن إدريس، عن محمّد بن الحسين، عن عبد الله بن جبلة، عن أبي الجارود، عن أبي جعفر عليه السّلام، و رواه الطبرسي في مكارم الأخلاق: 3/121، الفصل الثامن في لبس الخفّ و النعل، عن أبي جعفر عليه السّلام، و 7/125، خلع النعال و الخفاف إذا جلس، من كتاب طبّ الأئمّة عليهم السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171237,
+          "text": "<footnote id=\"885\"><mnote>(3)</mnote> و رواه الطبرسي في مكارم الأخلاق: 6/125، في خلع النعال و الخفاف إذا جلس، قبل الحديث السابق، عن طبّ الأئمّة عليهم السّلام عنه عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171238,
+          "text": "<footnote id=\"886\"><mnote>(4)</mnote> عقره: أي جرحه، فهو عقير. مجمع البحرين 411:3 «عقر». </footnote>"
+        },
+        {
+          "footnoteId": 714171239,
+          "text": "<footnote id=\"887\"><mnote>(5)</mnote> قوله: «إن شاء الله» أثبتناه من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714171240,
+          "text": "<footnote id=\"888\"><mnote>(6)</mnote> و رواه الطبرسي في مكارم الأخلاق: 8/125، في النعال و الخفاف إذا جلس، بعد <page number=\"217\"/>الحديث السابق، بعد الروايتين السابقتين، فقال: عن أبي الحسن العسكري عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "216",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1879\" paragraph-id=\"1879\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo216\">216</span> عبد الرحمن، عن شعيب، عن أبي بصير، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«لبس الخفّ‌<span><sup><a class=\"NewFn\" href=\"#footnote883\" title=\"(1)  الخفّ‌: ما لبس في القدم، لاحظ: المخصّص 1 ق 114:4، السفر الرابع. و الرواية تدلّ على استحباب لبس الخفّ كما ذكره الأصحاب. انظر: مرآة العقول 351:22. \">1</a></sup></span> يزيد في قوّة البصر»<span><sup><a class=\"NewFn\" href=\"#footnote884\" title=\"(2)  رواه الكليني في الكافي 1/466:6، باب الخفّ‌، عدّة من أصحابنا، عن سهل بن زياد، عن محمّد بن عيسى، عن سلمة بن أبي حبّة، عن أبي عبد الله عليه السّلام، و الصدوق في ثواب الأعمال: 25، باب ثواب لبس الخفّ‌، حدّثني محمّد بن الحسن رحمه الله، قال: حدّثني أحمد بن إدريس، عن محمّد بن الحسين، عن عبد الله بن جبلة، عن أبي الجارود، عن أبي جعفر عليه السّلام، و رواه الطبرسي في مكارم الأخلاق: 3/121، الفصل الثامن في لبس الخفّ و النعل، عن أبي جعفر عليه السّلام، و 7/125، خلع النعال و الخفاف إذا جلس، من كتاب طبّ الأئمّة عليهم السّلام. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1880\" paragraph-id=\"1880\" class=\" G\">[300] </p>\n  <p id=\"p1881\" paragraph-id=\"1881\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و <span class=\"Y\"><span class=\"maasoom\">عنه عليه السّلام</span></span> قال: إنّه قال: </span>«من السنّة لبس الخفّ الأسود و النعل الصفراء»<span><sup><a class=\"NewFn\" href=\"#footnote885\" title=\"(3)  و رواه الطبرسي في مكارم الأخلاق: 6/125، في خلع النعال و الخفاف إذا جلس، قبل الحديث السابق، عن طبّ الأئمّة عليهم السّلام عنه عليه السّلام. \">3</a></sup></span>. </span>\n  </p>\n  <p id=\"p1882\" paragraph-id=\"1882\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] ما جاء في عقر الخفّ‌<span><sup><a class=\"NewFn\" href=\"#footnote886\" title=\"(4)  عقره: أي جرحه، فهو عقير. مجمع البحرين 411:3 «عقر». \">4</a></sup></span></strong>\n  </p>\n  <p id=\"p1883\" paragraph-id=\"1883\" class=\" G\">[301] </p>\n  <p id=\"p1884\" paragraph-id=\"1884\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن العسكري عليه السّلام</span></span></span> فيمن أصابه عقر الخفّ و النعل، قال: «تأخذ طينا من حائط بلبن، ثمّ تحكّه بريقك على صخرة أو حجر، ثمّ تضعه على العقر، فإنّه يذهب إن شاء الله<span><sup><a class=\"NewFn\" href=\"#footnote887\" title=\"(5)  قوله: «إن شاء الله» أثبتناه من مكارم الأخلاق. \">5</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote888\" title=\"(6)  و رواه الطبرسي في مكارم الأخلاق: 8/125، في النعال و الخفاف إذا جلس، بعد \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1885\" paragraph-id=\"1885\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote883\" footnote-id=\"883\">(1) <page number=\"216\" /> الخفّ‌: ما لبس في القدم، لاحظ: المخصّص 1 ق 114:4، السفر الرابع. و الرواية تدلّ على استحباب لبس الخفّ كما ذكره الأصحاب. انظر: مرآة العقول 351:22. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote884\" footnote-id=\"884\">(2)  رواه الكليني في الكافي 1/466:6، باب الخفّ‌، عدّة من أصحابنا، عن سهل بن زياد، عن محمّد بن عيسى، عن سلمة بن أبي حبّة، عن أبي عبد الله عليه السّلام، و الصدوق في ثواب الأعمال: 25، باب ثواب لبس الخفّ‌، حدّثني محمّد بن الحسن رحمه الله، قال: حدّثني أحمد بن إدريس، عن محمّد بن الحسين، عن عبد الله بن جبلة، عن أبي الجارود، عن أبي جعفر عليه السّلام، و رواه الطبرسي في مكارم الأخلاق: 3/121، الفصل الثامن في لبس الخفّ و النعل، عن أبي جعفر عليه السّلام، و 7/125، خلع النعال و الخفاف إذا جلس، من كتاب طبّ الأئمّة عليهم السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote885\" footnote-id=\"885\">(3)  و رواه الطبرسي في مكارم الأخلاق: 6/125، في خلع النعال و الخفاف إذا جلس، قبل الحديث السابق، عن طبّ الأئمّة عليهم السّلام عنه عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote886\" footnote-id=\"886\">(4)  عقره: أي جرحه، فهو عقير. مجمع البحرين 411:3 «عقر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote887\" footnote-id=\"887\">(5)  قوله: «إن شاء الله» أثبتناه من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote888\" footnote-id=\"888\">(6)  و رواه الطبرسي في مكارم الأخلاق: 8/125، في النعال و الخفاف إذا جلس، بعد </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "33F58482-D12B-42AF-84F2-0F7E227C7AE7",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,143 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 182,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170455,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1710\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\"><page number=\"182\"/> فقال: جعلت فداك، إنّ عيثهم<lfootnote noteId=\"739\">1</lfootnote> شديد.</format></p>"
+        },
+        {
+          "paragraphId": 714170456,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1711\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">فقال: «و ما عيثها<lfootnote noteId=\"740\">2</lfootnote> عندكم‌؟»</format></p>"
+        },
+        {
+          "paragraphId": 714170457,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1712\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">فقال له الرجل: إذا كان للرجل عندنا حمام لم تقبل شهادته.</format></p>"
+        },
+        {
+          "paragraphId": 714170458,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1713\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">فقال له <format class=\"maasoom\" maasoomNo=\"5\">أبو جعفر عليه السّلام</format>: «فأيّ رجل عندكم <format class=\"E\" Number=\"26\">إسماعيل بن إبراهيم</format><lfootnote noteId=\"741\">3</lfootnote>؟»</format></p>"
+        },
+        {
+          "paragraphId": 714170459,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1714\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">قال: كان نبيّ الله و صفوته.</format></p>"
+        },
+        {
+          "paragraphId": 714170460,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1715\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">فقال: «إنّ الحمام الذي في الحرم بقيّة من حمامه».</format></p>"
+        },
+        {
+          "paragraphId": 714170461,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1716\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">قال: فأتّخذها؟</format></p>"
+        },
+        {
+          "paragraphId": 714170462,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1717\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">قال: «نعم، فإنّ فيها فداء من<lfootnote noteId=\"742\">4</lfootnote> أهل الأرض، و إنّهم يعبثون بها».</format></p>"
+        },
+        {
+          "paragraphId": 714170463,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1718\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">فقال الرجل: و ما بلغ من عبثهم بها؟</format></p>"
+        },
+        {
+          "paragraphId": 714170464,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1719\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">فقال له <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبو جعفر عليه السّلام</format></format>: «أما رأيت أنّ الفرخ يدفّ؟»</format></p>"
+        },
+        {
+          "paragraphId": 714170465,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1720\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">قال: بلى.</format></p>"
+        },
+        {
+          "paragraphId": 714170466,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1721\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">قال: «أما رأيت البيضة تفسد؟»</format></p>"
+        },
+        {
+          "paragraphId": 714170467,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1722\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">قال: بلى.</format></p>"
+        },
+        {
+          "paragraphId": 714170468,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1723\"><format class=\"hadith\" who=\"5\" Id=\"247\" RevayatIndex=\"768\">قال عليه السّلام: «هذا من عبثهم»<lfootnote noteId=\"743\">5</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170469,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"1724\"><page number=\"183\"/>[251] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171536,
+          "text": "<footnote id=\"739\"><page number=\"182\"/><mnote>(1)</mnote> عاث يعيث عيثا، و العيث هو الإسراع في الفساد. كتاب العين 231:2 «عيث». </footnote>"
+        },
+        {
+          "footnoteId": 714171537,
+          "text": "<footnote id=\"740\"><mnote>(2)</mnote> في النسخة: «عبثها»، و ما أثبتناه لضرورة السياق و من العبارة السابقة. </footnote>"
+        },
+        {
+          "footnoteId": 714171538,
+          "text": "<footnote id=\"741\"><mnote>(3)</mnote> في النسخة: «فأيّ رجل عندكم‌؟ قال: إسماعيل بن بلبل» و العبارة مضطربة، و ما أثبتناه من حديث قريب منه في الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171539,
+          "text": "<footnote id=\"742\"><mnote>(4)</mnote> كذا استظهرنا من عبارة النسخة. </footnote>"
+        },
+        {
+          "footnoteId": 714171540,
+          "text": "<footnote id=\"743\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. و روى الكلينى في الكافي 18/548:6، باب<page number=\"183\"/>الحمام، عنه [أي: عن علي بن إبراهيم المذكور في سند الحديث السابق]، عن أبيه، عن بعض أصحابنا قال: ذكر الحمام عند أبي عبد الله عليه السّلام فقال له رجل: إنّه بلغني أنّ عمر رأى حماما يطير و رجل تحته يعدو، فقال عمر: شيطان يعدو تحته شيطان، فقال أبو عبد الله عليه السّلام: «ما كان إسماعيل عندكم‌؟ فقيل: صدّيق، فقال: إنّ بقيّة حمام الحرم من حمام إسماعيل». </footnote>"
+        }
+      ],
+      "pageValue": "182",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1710\" paragraph-id=\"1710\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo182\">182</span> فقال: جعلت فداك، إنّ عيثهم<span><sup><a class=\"NewFn\" href=\"#footnote739\" title=\"(1)  عاث يعيث عيثا، و العيث هو الإسراع في الفساد. كتاب العين 231:2 «عيث». \">1</a></sup></span> شديد.</span>\n  </p>\n  <p id=\"p1711\" paragraph-id=\"1711\" class=\" G\">\n    <span class=\"hadith\">فقال: «و ما عيثها<span><sup><a class=\"NewFn\" href=\"#footnote740\" title=\"(2)  في النسخة: «عبثها»، و ما أثبتناه لضرورة السياق و من العبارة السابقة. \">2</a></sup></span> عندكم‌؟»</span>\n  </p>\n  <p id=\"p1712\" paragraph-id=\"1712\" class=\" G\">\n    <span class=\"hadith\">فقال له الرجل: إذا كان للرجل عندنا حمام لم تقبل شهادته.</span>\n  </p>\n  <p id=\"p1713\" paragraph-id=\"1713\" class=\" G\">\n    <span class=\"hadith\">فقال له <span class=\"maasoom\">أبو جعفر عليه السّلام</span>: «فأيّ رجل عندكم <span class=\"E\">إسماعيل بن إبراهيم</span><span><sup><a class=\"NewFn\" href=\"#footnote741\" title=\"(3)  في النسخة: «فأيّ رجل عندكم‌؟ قال: إسماعيل بن بلبل» و العبارة مضطربة، و ما أثبتناه من حديث قريب منه في الكافي. \">3</a></sup></span>؟»</span>\n  </p>\n  <p id=\"p1714\" paragraph-id=\"1714\" class=\" G\">\n    <span class=\"hadith\">قال: كان نبيّ الله و صفوته.</span>\n  </p>\n  <p id=\"p1715\" paragraph-id=\"1715\" class=\" G\">\n    <span class=\"hadith\">فقال: «إنّ الحمام الذي في الحرم بقيّة من حمامه».</span>\n  </p>\n  <p id=\"p1716\" paragraph-id=\"1716\" class=\" G\">\n    <span class=\"hadith\">قال: فأتّخذها؟</span>\n  </p>\n  <p id=\"p1717\" paragraph-id=\"1717\" class=\" G\">\n    <span class=\"hadith\">قال: «نعم، فإنّ فيها فداء من<span><sup><a class=\"NewFn\" href=\"#footnote742\" title=\"(4)  كذا استظهرنا من عبارة النسخة. \">4</a></sup></span> أهل الأرض، و إنّهم يعبثون بها».</span>\n  </p>\n  <p id=\"p1718\" paragraph-id=\"1718\" class=\" G\">\n    <span class=\"hadith\">فقال الرجل: و ما بلغ من عبثهم بها؟</span>\n  </p>\n  <p id=\"p1719\" paragraph-id=\"1719\" class=\" G\">\n    <span class=\"hadith\">فقال له <span class=\"Y\"><span class=\"maasoom\">أبو جعفر عليه السّلام</span></span>: «أما رأيت أنّ الفرخ يدفّ؟»</span>\n  </p>\n  <p id=\"p1720\" paragraph-id=\"1720\" class=\" G\">\n    <span class=\"hadith\">قال: بلى.</span>\n  </p>\n  <p id=\"p1721\" paragraph-id=\"1721\" class=\" G\">\n    <span class=\"hadith\">قال: «أما رأيت البيضة تفسد؟»</span>\n  </p>\n  <p id=\"p1722\" paragraph-id=\"1722\" class=\" G\">\n    <span class=\"hadith\">قال: بلى.</span>\n  </p>\n  <p id=\"p1723\" paragraph-id=\"1723\" class=\" G\">\n    <span class=\"hadith\">قال عليه السّلام: «هذا من عبثهم»<span><sup><a class=\"NewFn\" href=\"#footnote743\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. و روى الكلينى في الكافي 18/548:6، باب\">5</a></sup></span>. </span>\n  </p>\n  <p id=\"p1724\" paragraph-id=\"1724\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote739\" footnote-id=\"739\">(1) <page number=\"182\" /> عاث يعيث عيثا، و العيث هو الإسراع في الفساد. كتاب العين 231:2 «عيث». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote740\" footnote-id=\"740\">(2)  في النسخة: «عبثها»، و ما أثبتناه لضرورة السياق و من العبارة السابقة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote741\" footnote-id=\"741\">(3)  في النسخة: «فأيّ رجل عندكم‌؟ قال: إسماعيل بن بلبل» و العبارة مضطربة، و ما أثبتناه من حديث قريب منه في الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote742\" footnote-id=\"742\">(4)  كذا استظهرنا من عبارة النسخة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote743\" footnote-id=\"743\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. و روى الكلينى في الكافي 18/548:6، باب</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A0296BCD-9FA9-40A2-AB32-A3DD2DF8E44C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

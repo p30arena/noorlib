@@ -1,0 +1,93 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 155,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167221,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2818\"><format class=\"hadith\" who=\"6\" Id=\"235\" RevayatIndex=\"235\"><page number=\"155\"/>أخلاطه: توتيا هندي و كحل إصفهاني مكد أربعة مثاقيل، يغسل الكحل بالماء حتّى يصفو، ثمّ يدقّ بالماء الصافي أبلغ ما يكون، ثمّ يعزل و يؤخذ سدس مثقال كافور، يدقّ على حدة و ينخل بحريرة، و ثلاث مثاقيل شير أملج، يخلط الشير أملج و التوتيا و الكافور و الكحل، و يسحق حتّى يختلط، ثمّ يجعله في قارورة و يجعل<lfootnote noteId=\"956\">1</lfootnote> معه مثل الحمّصة ملح أندراني و لا يدقّه فإنّه يذوب فيه، و اكتحل في كلّ يوم غدوة و عشية، في كلّ عين ثلاثة أميال و استشفى الله تعالى»<lfootnote noteId=\"957\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167222,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2819\"><heading level=\"2\">[باب] ما يذيب شحمة العين </heading></p>"
+        },
+        {
+          "paragraphId": 714167223,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2820\">[238] </p>"
+        },
+        {
+          "paragraphId": 714167224,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2821\"><format class=\"hadith\" who=\"5\" Id=\"236\" RevayatIndex=\"236\"><format class=\"sanadHadith\">روى...<lfootnote noteId=\"958\">3</lfootnote> عن الحسن بن علي بن فضّال، عن علي بن عقبة، و ذبيان بن حكيم الأزدي<lfootnote noteId=\"959\">4</lfootnote>، عن موسى بن أكيل النميري قال:</format> مرّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبو جعفر عليه السّلام</format></format> برجل قد خرج من الحمّام، و قد قعد إلى رجل يكحل عينه، فقال عليه السّلام: «أما لو علم ما يصيبه من ذهاب بصره ما اكتحل و قد خرج من الحمّام بماء أو كحل‌؟! أو ما كان من شيء؟! فإنّه يذهب بشحمة العين و نظير<lfootnote noteId=\"960\">5</lfootnote> نور الناظر، و ربّما سال منه الحدق».</format></p>"
+        },
+        {
+          "paragraphId": 714167225,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2822\"><format class=\"hadith\" who=\"5\" Id=\"236\" RevayatIndex=\"236\">قال: قعدت إلى المكان الذي رأيت فيه الرجل فإذا قد اختلست عيناه، و ليس يبصر شيئا<lfootnote noteId=\"961\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167226,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2823\"><page number=\"156\"/>[239] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168911,
+          "text": "<footnote id=\"956\"><page number=\"155\"/><mnote>(1)</mnote> يمكن أن تقرأ: «يسحق». </footnote>"
+        },
+        {
+          "footnoteId": 714168912,
+          "text": "<footnote id=\"957\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168913,
+          "text": "<footnote id=\"958\"><mnote>(3)</mnote> كلمة غير مقروءة تشبه: «عراك» أو «عراس». </footnote>"
+        },
+        {
+          "footnoteId": 714168914,
+          "text": "<footnote id=\"959\"><mnote>(4)</mnote> في النسخة: «و دينار بن دعيم الأزدي» و هو تصحيف، و ما أثبتناه من بعض الأسانيد. انظر:<br/>الكافي 1/283:6 و ح 3 باب كراهة استخدام الضيف، تهذيب الأحكام 549/227:6. </footnote>"
+        },
+        {
+          "footnoteId": 714168915,
+          "text": "<footnote id=\"960\"><mnote>(5)</mnote> كذا في النسخة و قد تقرأ: «و تطير». </footnote>"
+        },
+        {
+          "footnoteId": 714168916,
+          "text": "<footnote id=\"961\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "155",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2818\" paragraph-id=\"2818\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo155\">155</span>أخلاطه: توتيا هندي و كحل إصفهاني مكد أربعة مثاقيل، يغسل الكحل بالماء حتّى يصفو، ثمّ يدقّ بالماء الصافي أبلغ ما يكون، ثمّ يعزل و يؤخذ سدس مثقال كافور، يدقّ على حدة و ينخل بحريرة، و ثلاث مثاقيل شير أملج، يخلط الشير أملج و التوتيا و الكافور و الكحل، و يسحق حتّى يختلط، ثمّ يجعله في قارورة و يجعل<span><sup><a class=\"NewFn\" href=\"#footnote956\" title=\"(1)  يمكن أن تقرأ: «يسحق». \">1</a></sup></span> معه مثل الحمّصة ملح أندراني و لا يدقّه فإنّه يذوب فيه، و اكتحل في كلّ يوم غدوة و عشية، في كلّ عين ثلاثة أميال و استشفى الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote957\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2819\" paragraph-id=\"2819\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] ما يذيب شحمة العين </strong>\n  </p>\n  <p id=\"p2820\" paragraph-id=\"2820\" class=\" G\">[238] </p>\n  <p id=\"p2821\" paragraph-id=\"2821\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى...<span><sup><a class=\"NewFn\" href=\"#footnote958\" title=\"(3)  كلمة غير مقروءة تشبه: «عراك» أو «عراس». \">3</a></sup></span> عن الحسن بن علي بن فضّال، عن علي بن عقبة، و ذبيان بن حكيم الأزدي<span><sup><a class=\"NewFn\" href=\"#footnote959\" title=\"(4)  في النسخة: «و دينار بن دعيم الأزدي» و هو تصحيف، و ما أثبتناه من بعض الأسانيد. انظر:الكافي 1/283:6 و ح 3 باب كراهة استخدام الضيف، تهذيب الأحكام 549/227:6. \">4</a></sup></span>، عن موسى بن أكيل النميري قال:</span> مرّ <span class=\"Y\"><span class=\"maasoom\">أبو جعفر عليه السّلام</span></span> برجل قد خرج من الحمّام، و قد قعد إلى رجل يكحل عينه، فقال عليه السّلام: «أما لو علم ما يصيبه من ذهاب بصره ما اكتحل و قد خرج من الحمّام بماء أو كحل‌؟! أو ما كان من شيء؟! فإنّه يذهب بشحمة العين و نظير<span><sup><a class=\"NewFn\" href=\"#footnote960\" title=\"(5)  كذا في النسخة و قد تقرأ: «و تطير». \">5</a></sup></span> نور الناظر، و ربّما سال منه الحدق».</span>\n  </p>\n  <p id=\"p2822\" paragraph-id=\"2822\" class=\" G\">\n    <span class=\"hadith\">قال: قعدت إلى المكان الذي رأيت فيه الرجل فإذا قد اختلست عيناه، و ليس يبصر شيئا<span><sup><a class=\"NewFn\" href=\"#footnote961\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2823\" paragraph-id=\"2823\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote956\" footnote-id=\"956\">(1) <page number=\"155\" /> يمكن أن تقرأ: «يسحق». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote957\" footnote-id=\"957\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote958\" footnote-id=\"958\">(3)  كلمة غير مقروءة تشبه: «عراك» أو «عراس». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote959\" footnote-id=\"959\">(4)  في النسخة: «و دينار بن دعيم الأزدي» و هو تصحيف، و ما أثبتناه من بعض الأسانيد. انظر:<br />الكافي 1/283:6 و ح 3 باب كراهة استخدام الضيف، تهذيب الأحكام 549/227:6. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote960\" footnote-id=\"960\">(5)  كذا في النسخة و قد تقرأ: «و تطير». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote961\" footnote-id=\"961\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "6830F25C-A872-40A1-A8C0-232566E0943A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

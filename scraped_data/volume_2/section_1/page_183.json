@@ -1,0 +1,85 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 183,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170469,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1724\"><page number=\"183\"/>[251] </p>"
+        },
+        {
+          "paragraphId": 714170470,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1725\"><format class=\"hadith\" who=\"7\" Id=\"248\" RevayatIndex=\"769\"><format class=\"sanadHadith\">روى الجعفري<lfootnote noteId=\"744\">1</lfootnote> قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبا الحسن عليه السّلام</format></format> يقول: </format>«لا ينبغي أن يخلو بيت أحدكم من ثلاثة - و هم عمّار<lfootnote noteId=\"745\">2</lfootnote> البيت - الهرّ و الحمام و الديك، و إن كان مع الديك أنيسة فلا بأس بذلك لمن لا يقذّرها<lfootnote noteId=\"746\">3</lfootnote>»<lfootnote noteId=\"747\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170471,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1726\">[252] </p>"
+        },
+        {
+          "paragraphId": 714170472,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1727\"><format class=\"hadith\" who=\"7\" Id=\"249\" RevayatIndex=\"770\"><format class=\"sanadHadith\">قال:</format> و رأيت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبا الحسن عليه السّلام</format></format> و في بيته زوج حمام، أمّا الذكر فأخضر، و أمّا الانثى فسوداء، و رأيته عليه السّلام يفتّ‌<lfootnote noteId=\"748\">5</lfootnote> لهما الخبز و يقول: «يتحرّكان في الليل فيؤنساني، و ما من انتفاضة ينتفضانها من الليل إلّا اتّقى<lfootnote noteId=\"749\">6</lfootnote> من دخل البيت من <page number=\"184\"/> عزمة<lfootnote noteId=\"750\">1</lfootnote> أهل الأرض»<lfootnote noteId=\"751\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171540,
+          "text": "<footnote id=\"743\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. و روى الكلينى في الكافي 18/548:6، باب<page number=\"183\"/>الحمام، عنه [أي: عن علي بن إبراهيم المذكور في سند الحديث السابق]، عن أبيه، عن بعض أصحابنا قال: ذكر الحمام عند أبي عبد الله عليه السّلام فقال له رجل: إنّه بلغني أنّ عمر رأى حماما يطير و رجل تحته يعدو، فقال عمر: شيطان يعدو تحته شيطان، فقال أبو عبد الله عليه السّلام: «ما كان إسماعيل عندكم‌؟ فقيل: صدّيق، فقال: إنّ بقيّة حمام الحرم من حمام إسماعيل». </footnote>"
+        },
+        {
+          "footnoteId": 714171541,
+          "text": "<footnote id=\"744\"><mnote>(1)</mnote> هو يعقوب بن جعفر بن إبراهيم الجعفري الراوي عن الإمام الكاظم عليه السّلام، و روى عنه الحسن بن راشد عدّة روايات. انظر: الكافي 1/125:1 و 2 و 4/478. </footnote>"
+        },
+        {
+          "footnoteId": 714171542,
+          "text": "<footnote id=\"745\"><mnote>(2)</mnote> في النسخة: «عيارة» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171543,
+          "text": "<footnote id=\"746\"><mnote>(3)</mnote> في النسخة: «لا تعددها» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171544,
+          "text": "<footnote id=\"747\"><mnote>(4)</mnote> رواه الطبرسي في مكارم الأخلاق: 15/130، فيما يتعلّق بالمسكن، من طبّ الأئمّة عليهم السّلام... و قال أبو الحسن عليه السّلام:...، و الصفواني نحوه في كتاب التعريف كما عنه في مستدرك الوسائل 284:8، باب 25 من أبواب أحكام الدواب ح 3، عن أبي الحسن عليه السّلام أنّه قال:<br/>«لا تخلو البيت من ثلاثة - و هي عمّارة البيت -: الهرّة و الحمام و الديك و إن كان مع الديك أنيسة فلا بأس، إلّا أن يكره قدرها [قذرها]». </footnote>"
+        },
+        {
+          "footnoteId": 714171545,
+          "text": "<footnote id=\"748\"><mnote>(5)</mnote> فتّ الرجل الخبز فتّا: كسره بالأصابع. مجمع البحرين 212:2 «فتت». </footnote>"
+        },
+        {
+          "footnoteId": 714171546,
+          "text": "<footnote id=\"749\"><mnote>(6)</mnote> في النسخة: «إلّا أحيي» و ما أثبتناه من المصدر.</footnote>"
+        }
+      ],
+      "pageValue": "183",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1724\" paragraph-id=\"1724\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo183\">183</span>[251] </p>\n  <p id=\"p1725\" paragraph-id=\"1725\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الجعفري<span><sup><a class=\"NewFn\" href=\"#footnote744\" title=\"(1)  هو يعقوب بن جعفر بن إبراهيم الجعفري الراوي عن الإمام الكاظم عليه السّلام، و روى عنه الحسن بن راشد عدّة روايات. انظر: الكافي 1/125:1 و 2 و 4/478. \">1</a></sup></span> قال: سمعت <span class=\"Y\"><span class=\"maasoom\">أبا الحسن عليه السّلام</span></span> يقول: </span>«لا ينبغي أن يخلو بيت أحدكم من ثلاثة - و هم عمّار<span><sup><a class=\"NewFn\" href=\"#footnote745\" title=\"(2)  في النسخة: «عيارة» و ما أثبتناه من المصدر. \">2</a></sup></span> البيت - الهرّ و الحمام و الديك، و إن كان مع الديك أنيسة فلا بأس بذلك لمن لا يقذّرها<span><sup><a class=\"NewFn\" href=\"#footnote746\" title=\"(3)  في النسخة: «لا تعددها» و ما أثبتناه من المصدر. \">3</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote747\" title=\"(4)  رواه الطبرسي في مكارم الأخلاق: 15/130، فيما يتعلّق بالمسكن، من طبّ الأئمّة عليهم السّلام... و قال أبو الحسن عليه السّلام:...، و الصفواني نحوه في كتاب التعريف كما عنه في مستدرك الوسائل 284:8، باب 25 من أبواب أحكام الدواب ح 3، عن أبي الحسن عليه السّلام أنّه قال:«لا تخلو البيت من ثلاثة - و هي عمّارة البيت -: الهرّة و الحمام و الديك و إن كان مع الديك أنيسة فلا بأس، إلّا أن يكره قدرها [قذرها]». \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1726\" paragraph-id=\"1726\" class=\" G\">[252] </p>\n  <p id=\"p1727\" paragraph-id=\"1727\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قال:</span> و رأيت <span class=\"Y\"><span class=\"maasoom\">أبا الحسن عليه السّلام</span></span> و في بيته زوج حمام، أمّا الذكر فأخضر، و أمّا الانثى فسوداء، و رأيته عليه السّلام يفتّ‌<span><sup><a class=\"NewFn\" href=\"#footnote748\" title=\"(5)  فتّ الرجل الخبز فتّا: كسره بالأصابع. مجمع البحرين 212:2 «فتت». \">5</a></sup></span> لهما الخبز و يقول: «يتحرّكان في الليل فيؤنساني، و ما من انتفاضة ينتفضانها من الليل إلّا اتّقى<span><sup><a class=\"NewFn\" href=\"#footnote749\" title=\"(6)  في النسخة: «إلّا أحيي» و ما أثبتناه من المصدر.\">6</a></sup></span> من دخل البيت من </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote743\" footnote-id=\"743\"><page number=\"183\" />الحمام، عنه [أي: عن علي بن إبراهيم المذكور في سند الحديث السابق]، عن أبيه، عن بعض أصحابنا قال: ذكر الحمام عند أبي عبد الله عليه السّلام فقال له رجل: إنّه بلغني أنّ عمر رأى حماما يطير و رجل تحته يعدو، فقال عمر: شيطان يعدو تحته شيطان، فقال أبو عبد الله عليه السّلام: «ما كان إسماعيل عندكم‌؟ فقيل: صدّيق، فقال: إنّ بقيّة حمام الحرم من حمام إسماعيل». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote744\" footnote-id=\"744\">(1)  هو يعقوب بن جعفر بن إبراهيم الجعفري الراوي عن الإمام الكاظم عليه السّلام، و روى عنه الحسن بن راشد عدّة روايات. انظر: الكافي 1/125:1 و 2 و 4/478. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote745\" footnote-id=\"745\">(2)  في النسخة: «عيارة» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote746\" footnote-id=\"746\">(3)  في النسخة: «لا تعددها» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote747\" footnote-id=\"747\">(4)  رواه الطبرسي في مكارم الأخلاق: 15/130، فيما يتعلّق بالمسكن، من طبّ الأئمّة عليهم السّلام... و قال أبو الحسن عليه السّلام:...، و الصفواني نحوه في كتاب التعريف كما عنه في مستدرك الوسائل 284:8، باب 25 من أبواب أحكام الدواب ح 3، عن أبي الحسن عليه السّلام أنّه قال:<br />«لا تخلو البيت من ثلاثة - و هي عمّارة البيت -: الهرّة و الحمام و الديك و إن كان مع الديك أنيسة فلا بأس، إلّا أن يكره قدرها [قذرها]». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote748\" footnote-id=\"748\">(5)  فتّ الرجل الخبز فتّا: كسره بالأصابع. مجمع البحرين 212:2 «فتت». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote749\" footnote-id=\"749\">(6)  في النسخة: «إلّا أحيي» و ما أثبتناه من المصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C2204856-ECE1-4C8A-A7E0-601BAA7EA849",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

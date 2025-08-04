@@ -1,0 +1,85 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 86,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170069,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1324\"><format class=\"hadith\" who=\"11,8\" Id=\"114\" RevayatIndex=\"635\"><format class=\"sanadHadith\"/>«لكلّ حمّى نافض، و كلّ وجع، و كلّ الحرارات، و كلّ الحميات - و هو أقراص - <page number=\"86\"/> يؤخذ عصارة غافت خمسة أساتير، و ترنجبين ستّة أساتير، و طباشير و أفسنتين مكد أربعة دراهم، و بذر<lfootnote noteId=\"334\">1</lfootnote> كرفس و باذروج<lfootnote noteId=\"335\">2</lfootnote> مكد خمسة دراهم، و عصارة السوس و أنيسون و أسارون و شحم الحنظل من كلّ واحد ثلاثة دراهم، و ورد يابس و سنبل مكد وزن استارين، و لوز مرّ<lfootnote noteId=\"336\">3</lfootnote> و ريوند جيني<lfootnote noteId=\"337\">4</lfootnote> مكد وزن درهمين، و زعفران درهم و نصف، يدقّ و ينخل و يعجن بماء الترنجبين و يتّخذ أقراصا، كلّ قرص وزن درهمين، تؤخذ مع وزن ثلاثة دراهم سكّر طبرزد بماء بارد، و هو مجرّب سماوي، شفاء رأس كلّ داء للحمّى، عجيب نافع بإذن الله تعالى»<lfootnote noteId=\"338\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170070,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1325\"><heading level=\"2\">[باب] دواء للقروح و البهق و المثلّثة و كلّ الحرارة </heading></p>"
+        },
+        {
+          "paragraphId": 714170071,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1326\">[115]</p>"
+        },
+        {
+          "paragraphId": 714170072,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1327\"><format class=\"hadith\" who=\"16\" Id=\"115\" RevayatIndex=\"636\"> يأخذ هليلج أسود جيّد جزءا، و هليلج أصفر جيّد مثله، يدقّ كلّ واحد على حدة، و ينخل بخرقة صفيقة<lfootnote noteId=\"339\">6</lfootnote>، ثمّ يخلطهما جميعا بوزن سواء بعد النخل، و يؤخذ من الزبيب المليس<lfootnote noteId=\"340\">7</lfootnote> المنزوع العجم مثل وزنيهما جميعا، ثمّ يؤخذ سكر طبرزد مثل وزن الجميع، و يجعل كلّه في هاون و يدقّ حتّى يختلط اختلاطا <page number=\"87\"/> جيّدا، ثمّ يصيّر مثل العفص<lfootnote noteId=\"341\">1</lfootnote> و يؤكل منه على الريق واحدة و عند النوم واحدة، نافع بإذن الله تعالى<lfootnote noteId=\"342\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171118,
+          "text": "<footnote id=\"334\"><page number=\"86\"/><mnote>(1)</mnote> في النسخة: «بذر» و ما أثبتناه من الحديث 123 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714171119,
+          "text": "<footnote id=\"335\"><mnote>(2)</mnote> في النسخة: «باد آورد» و ما أثبتناه فمن الحديث 123 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714171120,
+          "text": "<footnote id=\"336\"><mnote>(3)</mnote> في النسخة: «وزراوند» و ما أثبتناه فمن الحديث 123 من الجزء الأوّل. </footnote>"
+        },
+        {
+          "footnoteId": 714171121,
+          "text": "<footnote id=\"337\"><mnote>(4)</mnote> في الحديث 123: «وراوند صيني». </footnote>"
+        },
+        {
+          "footnoteId": 714171122,
+          "text": "<footnote id=\"338\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و قدّ تقدّم في الحديث 123 من الجزء الأوّل، و قد بيّنا معاني مفرداته هناك. فانظرها. </footnote>"
+        },
+        {
+          "footnoteId": 714171123,
+          "text": "<footnote id=\"339\"><mnote>(6)</mnote> ثوب صفيق: جيد و كثيف النسج. لسان العرب 204:10 «صفق». </footnote>"
+        },
+        {
+          "footnoteId": 714171124,
+          "text": "<footnote id=\"340\"><mnote>(7)</mnote> إمليس: حلو طيّب لا عجم له. لسان العرب 222:6 «ملس».</footnote>"
+        }
+      ],
+      "pageValue": "86",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1324\" paragraph-id=\"1324\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo86\">86</span> يؤخذ عصارة غافت خمسة أساتير، و ترنجبين ستّة أساتير، و طباشير و أفسنتين مكد أربعة دراهم، و بذر<span><sup><a class=\"NewFn\" href=\"#footnote334\" title=\"(1)  في النسخة: «بذر» و ما أثبتناه من الحديث 123 من الجزء الأوّل. \">1</a></sup></span> كرفس و باذروج<span><sup><a class=\"NewFn\" href=\"#footnote335\" title=\"(2)  في النسخة: «باد آورد» و ما أثبتناه فمن الحديث 123 من الجزء الأوّل. \">2</a></sup></span> مكد خمسة دراهم، و عصارة السوس و أنيسون و أسارون و شحم الحنظل من كلّ واحد ثلاثة دراهم، و ورد يابس و سنبل مكد وزن استارين، و لوز مرّ<span><sup><a class=\"NewFn\" href=\"#footnote336\" title=\"(3)  في النسخة: «وزراوند» و ما أثبتناه فمن الحديث 123 من الجزء الأوّل. \">3</a></sup></span> و ريوند جيني<span><sup><a class=\"NewFn\" href=\"#footnote337\" title=\"(4)  في الحديث 123: «وراوند صيني». \">4</a></sup></span> مكد وزن درهمين، و زعفران درهم و نصف، يدقّ و ينخل و يعجن بماء الترنجبين و يتّخذ أقراصا، كلّ قرص وزن درهمين، تؤخذ مع وزن ثلاثة دراهم سكّر طبرزد بماء بارد، و هو مجرّب سماوي، شفاء رأس كلّ داء للحمّى، عجيب نافع بإذن الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote338\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، و قدّ تقدّم في الحديث 123 من الجزء الأوّل، و قد بيّنا معاني مفرداته هناك. فانظرها. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1325\" paragraph-id=\"1325\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] دواء للقروح و البهق و المثلّثة و كلّ الحرارة </strong>\n  </p>\n  <p id=\"p1326\" paragraph-id=\"1326\" class=\" G\">[115]</p>\n  <p id=\"p1327\" paragraph-id=\"1327\" class=\" G\">\n    <span class=\"hadith\"> يأخذ هليلج أسود جيّد جزءا، و هليلج أصفر جيّد مثله، يدقّ كلّ واحد على حدة، و ينخل بخرقة صفيقة<span><sup><a class=\"NewFn\" href=\"#footnote339\" title=\"(6)  ثوب صفيق: جيد و كثيف النسج. لسان العرب 204:10 «صفق». \">6</a></sup></span>، ثمّ يخلطهما جميعا بوزن سواء بعد النخل، و يؤخذ من الزبيب المليس<span><sup><a class=\"NewFn\" href=\"#footnote340\" title=\"(7)  إمليس: حلو طيّب لا عجم له. لسان العرب 222:6 «ملس».\">7</a></sup></span> المنزوع العجم مثل وزنيهما جميعا، ثمّ يؤخذ سكر طبرزد مثل وزن الجميع، و يجعل كلّه في هاون و يدقّ حتّى يختلط اختلاطا </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote334\" footnote-id=\"334\">(1) <page number=\"86\" /> في النسخة: «بذر» و ما أثبتناه من الحديث 123 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote335\" footnote-id=\"335\">(2)  في النسخة: «باد آورد» و ما أثبتناه فمن الحديث 123 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote336\" footnote-id=\"336\">(3)  في النسخة: «وزراوند» و ما أثبتناه فمن الحديث 123 من الجزء الأوّل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote337\" footnote-id=\"337\">(4)  في الحديث 123: «وراوند صيني». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote338\" footnote-id=\"338\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، و قدّ تقدّم في الحديث 123 من الجزء الأوّل، و قد بيّنا معاني مفرداته هناك. فانظرها. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote339\" footnote-id=\"339\">(6)  ثوب صفيق: جيد و كثيف النسج. لسان العرب 204:10 «صفق». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote340\" footnote-id=\"340\">(7)  إمليس: حلو طيّب لا عجم له. لسان العرب 222:6 «ملس».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4444B86F-70EF-4AA7-9D56-DF124DEBACA5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

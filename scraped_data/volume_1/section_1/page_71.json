@@ -1,0 +1,83 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 71,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166314,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2060\"><page number=\"71\"/><heading level=\"4\">5 - كتاب السكوني:</heading></p>"
+        },
+        {
+          "paragraphId": 714166315,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2061\">إسماعيل بن مسلم أبي زياد الشعيري السكوني، له كتاب، رواه عنه الحسين بن يزيد النوفلي و عبد الله بن المغيرة البجلي. روى عنه الكليني و الطوسي و غيرهما روايات كثيرة بسند مشهور، و هو: «علي بن إبراهيم، عن أبيه، عن النوفلي، عن السكوني...».</p>"
+        },
+        {
+          "paragraphId": 714166316,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2062\">و بما أنّ متن أحاديث كتابه تشترك مع متن أحاديث كتاب الجعفريات فقد فصّلت البحث عنه و عن كتابه في مقدّمة كتاب النوادر<lfootnote noteId=\"202\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166317,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2063\">و أمّا مصنّف كتابنا هذا فقد روى أحاديث عن كتاب السكوني<lfootnote noteId=\"203\">2</lfootnote>، منها ما رواه بقوله: «و عنه<lfootnote noteId=\"204\">3</lfootnote>، عن الحميري، عن محمّد [بن] جزك، و أحمد بن عبد الله...<lfootnote noteId=\"205\">4</lfootnote> النوفلي، عن السكوني، عن أبي عبد الله عليه السّلام عن آبائه صلوات الله عليهم قال: قال رسول الله صلّى الله عليه و آله:...»<lfootnote noteId=\"206\">5</lfootnote>. </p>"
+        },
+        {
+          "paragraphId": 714166318,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2064\"><page number=\"72\"/> و متن الرواية لم يرد إلّا في كتاب الجعفريات و النوادر<lfootnote noteId=\"207\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168256,
+          "text": "<footnote id=\"202\"><page number=\"71\"/><mnote>(1)</mnote> البحث عن السكوني مهمّ جدّا؛ إذ رواياته في كتب الشيعة أكثر من ألف و خمسمائة رواية، و كثير منها صارت معركة الآراء عند الفقهاء.<br/>و البحث عنه من ثلاثة جهات: 1 - في شخصيته و مذهبه، 2 - في توثيقه، 3 - في قبول رواياته.<br/>و نتيجة البحث الذي ذكرتها في مقدّمة النوادر أنّه شيعي ثقة إلّا أنّه استعمل التقيّة شديدا، و كثير من رواياته توافق العامّة، و لذا رواياته مرجوحة عند التعارض. </footnote>"
+        },
+        {
+          "footnoteId": 714168257,
+          "text": "<footnote id=\"203\"><mnote>(2)</mnote> انظر: ح 54 و ح 92 و 183 و 285 و 296 و 320 و 396 و 405 من الجزء الأوّل، و ح 31 و 32 و 79 و 227 من الجزء الثاني. </footnote>"
+        },
+        {
+          "footnoteId": 714168258,
+          "text": "<footnote id=\"204\"><mnote>(3)</mnote> أي: عن ابن همّام. </footnote>"
+        },
+        {
+          "footnoteId": 714168259,
+          "text": "<footnote id=\"205\"><mnote>(4)</mnote> النسخة مخرومة. </footnote>"
+        },
+        {
+          "footnoteId": 714168260,
+          "text": "<footnote id=\"206\"><mnote>(5)</mnote> انظر: ح 150 من الجزء الثاني.</footnote>"
+        }
+      ],
+      "pageValue": "71",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2060\" paragraph-id=\"2060\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo71\">71</span>\n    <strong style=\"0\" class=\"h-4 04\">5 - كتاب السكوني:</strong>\n  </p>\n  <p id=\"p2061\" paragraph-id=\"2061\" class=\" G\">إسماعيل بن مسلم أبي زياد الشعيري السكوني، له كتاب، رواه عنه الحسين بن يزيد النوفلي و عبد الله بن المغيرة البجلي. روى عنه الكليني و الطوسي و غيرهما روايات كثيرة بسند مشهور، و هو: «علي بن إبراهيم، عن أبيه، عن النوفلي، عن السكوني...».</p>\n  <p id=\"p2062\" paragraph-id=\"2062\" class=\" G\">و بما أنّ متن أحاديث كتابه تشترك مع متن أحاديث كتاب الجعفريات فقد فصّلت البحث عنه و عن كتابه في مقدّمة كتاب النوادر<span><sup><a class=\"NewFn\" href=\"#footnote202\" title=\"(1)  البحث عن السكوني مهمّ جدّا؛ إذ رواياته في كتب الشيعة أكثر من ألف و خمسمائة رواية، و كثير منها صارت معركة الآراء عند الفقهاء.و البحث عنه من ثلاثة جهات: 1 - في شخصيته و مذهبه، 2 - في توثيقه، 3 - في قبول رواياته.و نتيجة البحث الذي ذكرتها في مقدّمة النوادر أنّه شيعي ثقة إلّا أنّه استعمل التقيّة شديدا، و كثير من رواياته توافق العامّة، و لذا رواياته مرجوحة عند التعارض. \">1</a></sup></span>.</p>\n  <p id=\"p2063\" paragraph-id=\"2063\" class=\" G\">و أمّا مصنّف كتابنا هذا فقد روى أحاديث عن كتاب السكوني<span><sup><a class=\"NewFn\" href=\"#footnote203\" title=\"(2)  انظر: ح 54 و ح 92 و 183 و 285 و 296 و 320 و 396 و 405 من الجزء الأوّل، و ح 31 و 32 و 79 و 227 من الجزء الثاني. \">2</a></sup></span>، منها ما رواه بقوله: «و عنه<span><sup><a class=\"NewFn\" href=\"#footnote204\" title=\"(3)  أي: عن ابن همّام. \">3</a></sup></span>، عن الحميري، عن محمّد [بن] جزك، و أحمد بن عبد الله...<span><sup><a class=\"NewFn\" href=\"#footnote205\" title=\"(4)  النسخة مخرومة. \">4</a></sup></span> النوفلي، عن السكوني، عن أبي عبد الله عليه السّلام عن آبائه صلوات الله عليهم قال: قال رسول الله صلّى الله عليه و آله:...»<span><sup><a class=\"NewFn\" href=\"#footnote206\" title=\"(5)  انظر: ح 150 من الجزء الثاني.\">5</a></sup></span>. </p>\n  <p id=\"p2064\" paragraph-id=\"2064\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote202\" footnote-id=\"202\">(1) <page number=\"71\" /> البحث عن السكوني مهمّ جدّا؛ إذ رواياته في كتب الشيعة أكثر من ألف و خمسمائة رواية، و كثير منها صارت معركة الآراء عند الفقهاء.<br />و البحث عنه من ثلاثة جهات: 1 - في شخصيته و مذهبه، 2 - في توثيقه، 3 - في قبول رواياته.<br />و نتيجة البحث الذي ذكرتها في مقدّمة النوادر أنّه شيعي ثقة إلّا أنّه استعمل التقيّة شديدا، و كثير من رواياته توافق العامّة، و لذا رواياته مرجوحة عند التعارض. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote203\" footnote-id=\"203\">(2)  انظر: ح 54 و ح 92 و 183 و 285 و 296 و 320 و 396 و 405 من الجزء الأوّل، و ح 31 و 32 و 79 و 227 من الجزء الثاني. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote204\" footnote-id=\"204\">(3)  أي: عن ابن همّام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote205\" footnote-id=\"205\">(4)  النسخة مخرومة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote206\" footnote-id=\"206\">(5)  انظر: ح 150 من الجزء الثاني.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "46B091B7-B125-48F6-A4CD-90DA97FF5021",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

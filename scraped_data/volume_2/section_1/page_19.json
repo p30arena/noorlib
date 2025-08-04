@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 19,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169774,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1029\"><format class=\"hadith\" who=\"1\" Id=\"23\" RevayatIndex=\"544\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين صلوات الله عليه</format></format> أنّه قال: </format>«مضغ اللبان<lfootnote noteId=\"61\">4</lfootnote><page number=\"19\"/> يشدّ الأضراس، و ينقّي<lfootnote noteId=\"62\">1</lfootnote> البلغم، و يقطع ريح الفم»<lfootnote noteId=\"63\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169775,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1030\"><heading level=\"2\">[باب] في الورم و دوائه </heading></p>"
+        },
+        {
+          "paragraphId": 714169776,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1031\">[24] </p>"
+        },
+        {
+          "paragraphId": 714169777,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1032\"><format class=\"hadith\" who=\"9\" Id=\"24\" RevayatIndex=\"545\"><format class=\"sanadHadith\">روى القاسم بن أحمد بن العبّاس، قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"9\">أبي جعفر الثاني عليه السّلام </format></format>كثرة ما يصيبني من الورم في وجهي و فخذي و قدمي ثمّ يسكن.</format></p>"
+        },
+        {
+          "paragraphId": 714169778,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1033\"><format class=\"hadith\" who=\"9\" Id=\"24\" RevayatIndex=\"545\">فقال: «إذا أصابك ذلك فمر أن يغلى لك الكبريت وضعه تحتك و تدثّر بثياب<lfootnote noteId=\"64\">3</lfootnote> حتّى يدور ذلك البخار من ذلك في جسدك، و اتّق البرد و الحجامة و الزم الحمّام و ليّن طبيعتك».</format></p>"
+        },
+        {
+          "paragraphId": 714169779,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1034\"><format class=\"hadith\" who=\"9\" Id=\"24\" RevayatIndex=\"545\">قلت: بما ذا أليّنها؟ قال: «بالنقوع<lfootnote noteId=\"65\">4</lfootnote>»<lfootnote noteId=\"66\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169780,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1035\"><page number=\"20\"/><heading level=\"2\">[باب] في عرق النساء<lfootnote noteId=\"67\">1</lfootnote></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170845,
+          "text": "<footnote id=\"61\"><mnote>(4)</mnote> اللبان هو الكندر، و الأوّل أشهر بل هو عربي و الثاني فارسي، و هو صمغ معروف. انظر:<br/>بحر الجواهر: 327، مرآة العقول 41:21.<page number=\"19\"/>و هو - على ما في الروايات - من تراث الأنبياء و يستعمل أكلا و مضغا و بخورا. و أهمّ فوائده المذكورة في الروايات هي: الزيادة في الحفظ، و إذهاب البلغم و النسيان، و قطع ريح الفم، و زيادة العقل، و جلاء البصر، و شدّ الظهر، و غيرها. </footnote>"
+        },
+        {
+          "footnoteId": 714170846,
+          "text": "<footnote id=\"62\"><mnote>(1)</mnote> في المصادر: «ينفي». </footnote>"
+        },
+        {
+          "footnoteId": 714170847,
+          "text": "<footnote id=\"63\"><mnote>(2)</mnote> رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 15/77 - و عنه في الخصال: 612، و تحف العقول: 101، و في الخصال: «يذهب بريح الفم» - و الطبرسي في مكارم الأخلاق: 3/194، في مضغ اللبان: عن أمير المؤمنين عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714170848,
+          "text": "<footnote id=\"64\"><mnote>(3)</mnote> قال الطريحي: قوله تعالى: <format class=\"ayah\" surah=\"74\" ayah=\"1\" toAyah=\"\">يٰا أَيُّهَا اَلْمُدَّثِّرُ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"74\" ayah=\"1\" toAyah=\"\"/></format>[سورة المدثر 1:74]، أي: المتدثّر بثيابه، و هو اللابس الدّثار. مجمع البحرين 299:3 «دثر». </footnote>"
+        },
+        {
+          "footnoteId": 714170849,
+          "text": "<footnote id=\"65\"><mnote>(4)</mnote> النقوع: شيء ينقع فيه زبيب و أشياء ثمّ يصفّى ماؤه و يشرب، و اسم ذلك نقوع. كتاب العين 171:1، و قال الطريحي: النقوع بالفتح: ما ينقع في الماء من الليل لدواء أو نبيذ. مجمع البحرين 398:4 «نقع». </footnote>"
+        },
+        {
+          "footnoteId": 714170850,
+          "text": "<footnote id=\"66\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "19",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1029\" paragraph-id=\"1029\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo19\">19</span> يشدّ الأضراس، و ينقّي<span><sup><a class=\"NewFn\" href=\"#footnote62\" title=\"(1)  في المصادر: «ينفي». \">1</a></sup></span> البلغم، و يقطع ريح الفم»<span><sup><a class=\"NewFn\" href=\"#footnote63\" title=\"(2)  رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 15/77 - و عنه في الخصال: 612، و تحف العقول: 101، و في الخصال: «يذهب بريح الفم» - و الطبرسي في مكارم الأخلاق: 3/194، في مضغ اللبان: عن أمير المؤمنين عليه السّلام. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1030\" paragraph-id=\"1030\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الورم و دوائه </strong>\n  </p>\n  <p id=\"p1031\" paragraph-id=\"1031\" class=\" G\">[24] </p>\n  <p id=\"p1032\" paragraph-id=\"1032\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى القاسم بن أحمد بن العبّاس، قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي جعفر الثاني عليه السّلام </span></span>كثرة ما يصيبني من الورم في وجهي و فخذي و قدمي ثمّ يسكن.</span>\n  </p>\n  <p id=\"p1033\" paragraph-id=\"1033\" class=\" G\">\n    <span class=\"hadith\">فقال: «إذا أصابك ذلك فمر أن يغلى لك الكبريت وضعه تحتك و تدثّر بثياب<span><sup><a class=\"NewFn\" href=\"#footnote64\" title=\"(3)  قال الطريحي: قوله تعالى: يٰا أَيُّهَا اَلْمُدَّثِّرُ [سورة المدثر 1:74]، أي: المتدثّر بثيابه، و هو اللابس الدّثار. مجمع البحرين 299:3 «دثر». \">3</a></sup></span> حتّى يدور ذلك البخار من ذلك في جسدك، و اتّق البرد و الحجامة و الزم الحمّام و ليّن طبيعتك».</span>\n  </p>\n  <p id=\"p1034\" paragraph-id=\"1034\" class=\" G\">\n    <span class=\"hadith\">قلت: بما ذا أليّنها؟ قال: «بالنقوع<span><sup><a class=\"NewFn\" href=\"#footnote65\" title=\"(4)  النقوع: شيء ينقع فيه زبيب و أشياء ثمّ يصفّى ماؤه و يشرب، و اسم ذلك نقوع. كتاب العين 171:1، و قال الطريحي: النقوع بالفتح: ما ينقع في الماء من الليل لدواء أو نبيذ. مجمع البحرين 398:4 «نقع». \">4</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote66\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1035\" paragraph-id=\"1035\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote61\" footnote-id=\"61\"><page number=\"19\" />و هو - على ما في الروايات - من تراث الأنبياء و يستعمل أكلا و مضغا و بخورا. و أهمّ فوائده المذكورة في الروايات هي: الزيادة في الحفظ، و إذهاب البلغم و النسيان، و قطع ريح الفم، و زيادة العقل، و جلاء البصر، و شدّ الظهر، و غيرها. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote62\" footnote-id=\"62\">(1)  في المصادر: «ينفي». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote63\" footnote-id=\"63\">(2)  رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 15/77 - و عنه في الخصال: 612، و تحف العقول: 101، و في الخصال: «يذهب بريح الفم» - و الطبرسي في مكارم الأخلاق: 3/194، في مضغ اللبان: عن أمير المؤمنين عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote64\" footnote-id=\"64\">(3)  قال الطريحي: قوله تعالى: <format class=\"ayah\" surah=\"74\" ayah=\"1\" toAyah=\"\">يٰا أَيُّهَا اَلْمُدَّثِّرُ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\" /><format class=\"ayahAddress\" surah=\"74\" ayah=\"1\" toAyah=\"\" /></format>[سورة المدثر 1:74]، أي: المتدثّر بثيابه، و هو اللابس الدّثار. مجمع البحرين 299:3 «دثر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote65\" footnote-id=\"65\">(4)  النقوع: شيء ينقع فيه زبيب و أشياء ثمّ يصفّى ماؤه و يشرب، و اسم ذلك نقوع. كتاب العين 171:1، و قال الطريحي: النقوع بالفتح: ما ينقع في الماء من الليل لدواء أو نبيذ. مجمع البحرين 398:4 «نقع». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote66\" footnote-id=\"66\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "29DEDE1F-4153-4BC9-A830-A7BD9235E9FC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 69,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170002,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1257\"><format class=\"hadith\" who=\"6\" Id=\"102\" RevayatIndex=\"623\"><format class=\"sanadHadith\">محمّد بن عيسى و السيّاري كلاهما بإسناد واحد، عن أصحابنا، قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format><lfootnote noteId=\"254\">3</lfootnote>: </format>«من أطلى بنورة فأخذ منها بإصبعه فشمّه و جعل على طرف أنفه<lfootnote noteId=\"255\">4</lfootnote><page number=\"69\"/>لم تحرقه النورة، و يقول: رحم الله سليمان بن داود كما<lfootnote noteId=\"256\">1</lfootnote> أمرنا بالنورة<lfootnote noteId=\"257\">2</lfootnote>»<lfootnote noteId=\"258\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170003,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1258\">[103] </p>"
+        },
+        {
+          "paragraphId": 714170004,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1259\"><format class=\"hadith\" who=\"6\" Id=\"103\" RevayatIndex=\"624\"><format class=\"sanadHadith\">و روي عنه عليه السّلام أنّه قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«أإن كنت صاحب بلغم فلا تدخل الحمّام<lfootnote noteId=\"259\">4</lfootnote> إلّا على الريق، و إن أردت أن يزيد على لحمك فادخله على الشبع، و إن أردت أن ينقص لحمك فادخله على الريق»<lfootnote noteId=\"260\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170005,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1260\">[104] </p>"
+        },
+        {
+          "paragraphId": 714170006,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1261\"><format class=\"hadith\" who=\"6\" Id=\"104\" RevayatIndex=\"625\"><format class=\"sanadHadith\">و قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«لا تغسل رأسك بالطين<lfootnote noteId=\"261\">6</lfootnote> فإنّه يذهب بالغيرة<lfootnote noteId=\"262\">7</lfootnote>»<lfootnote noteId=\"263\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170007,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1262\"><page number=\"70\"/>[105] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171040,
+          "text": "<footnote id=\"256\"><page number=\"69\"/><mnote>(1)</mnote> كلمة: «كما» أثبتناها من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171041,
+          "text": "<footnote id=\"257\"><mnote>(2)</mnote> في المصادر كلّها قوله عليه السّلام: «لم تحرقه النورة» متأخّر عن الدعاء لسليمان بن داود عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171042,
+          "text": "<footnote id=\"258\"><mnote>(3)</mnote> رواه الكليني في الكافي 13/506:6، باب النورة، عن علي بن محمّد بن بندار، عن السيّاري رفعه إلى أبي عبد الله عليه السّلام، و الصدوق بتفاوت يسير في من لا يحضره الفقيه 256/119:1، باب غسل يوم الجمعة و دخول الحمّام و آدابه و ما جاء في التنظيف و الزينة - و عنه الطبرسي في مكارم الأخلاق: 1/61، الفصل السادس في الإطلاء بالنورة، - عن الصادق عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171043,
+          "text": "<footnote id=\"259\"><mnote>(4)</mnote> كلمة: «الحمام» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171044,
+          "text": "<footnote id=\"260\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و روى نحوه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 2/66، في البلغم و علاجه، فقالا: و يروى عن الصادق عليه السّلام، و يؤيّده ما روي في الرسالة الذهبية: 17، و في فقه الإمام الرضا عليه السّلام: 258، و من لا يحضره الفقيه 286:3. </footnote>"
+        },
+        {
+          "footnoteId": 714171045,
+          "text": "<footnote id=\"261\"><mnote>(6)</mnote> قال الصدوق: روي أنّ ذلك طين مصر. من لا يحضره الفقيه 243/116:1.<br/>و قد صرّح بذلك في بعض الروايات كما سيأتي بعد قليل.<br/>و قال المجلسي الأوّل في قوله: «و روي أنّ ذلك»: أي غسل الرأس بالطين و الدلك بالخزف كراهتهما مختصّان «بطين مصر و خزف الشام» أو ذهاب الغيرة و إيراث البرص مخصوصان بهما، و يمكن أن يكون التخصيص للتأكيد، يعني أنّهما فيهما أشدّ و إن كان الظاهر التخصيص بهما. روضة المتّقين 297:1. </footnote>"
+        },
+        {
+          "footnoteId": 714171046,
+          "text": "<footnote id=\"262\"><mnote>(7)</mnote> في النسخة: «يذهب العين» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714171047,
+          "text": "<footnote id=\"263\"><mnote>(8)</mnote> رواه الكليني في الكافي 501:6، ضمن ح 24، باب الحمّام، عن علي بن محمّد بن بندار، <page number=\"70\"/>عن إبراهيم بن إسحاق، عن يوسف بن السخت رفعه، قال: قال أبو عبد الله عليه السّلام قال:<br/>«و لا تغسل رأسك بالطين؛ فإنّه يذهب بالغيرة»، و في الحديث 25، باب الحمّام، عن علي بن إبراهيم، عن أبيه، عن علي بن أسباط، عن أبي الحسن الرضا عليه السّلام قال: قال رسول الله صلّى الله عليه و آله: «لا تغسلوا رؤوسكم بطين مصر، فإنّه يذهب بالغيرة و يورث الدياثة». </footnote>"
+        }
+      ],
+      "pageValue": "69",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1257\" paragraph-id=\"1257\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo69\">69</span>لم تحرقه النورة، و يقول: رحم الله سليمان بن داود كما<span><sup><a class=\"NewFn\" href=\"#footnote256\" title=\"(1)  كلمة: «كما» أثبتناها من الكافي. \">1</a></sup></span> أمرنا بالنورة<span><sup><a class=\"NewFn\" href=\"#footnote257\" title=\"(2)  في المصادر كلّها قوله عليه السّلام: «لم تحرقه النورة» متأخّر عن الدعاء لسليمان بن داود عليه السّلام. \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote258\" title=\"(3)  رواه الكليني في الكافي 13/506:6، باب النورة، عن علي بن محمّد بن بندار، عن السيّاري رفعه إلى أبي عبد الله عليه السّلام، و الصدوق بتفاوت يسير في من لا يحضره الفقيه 256/119:1، باب غسل يوم الجمعة و دخول الحمّام و آدابه و ما جاء في التنظيف و الزينة - و عنه الطبرسي في مكارم الأخلاق: 1/61، الفصل السادس في الإطلاء بالنورة، - عن الصادق عليه السّلام. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1258\" paragraph-id=\"1258\" class=\" G\">[103] </p>\n  <p id=\"p1259\" paragraph-id=\"1259\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عنه عليه السّلام أنّه قال: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«أإن كنت صاحب بلغم فلا تدخل الحمّام<span><sup><a class=\"NewFn\" href=\"#footnote259\" title=\"(4)  كلمة: «الحمام» أثبتناها من المصدر. \">4</a></sup></span> إلّا على الريق، و إن أردت أن يزيد على لحمك فادخله على الشبع، و إن أردت أن ينقص لحمك فادخله على الريق»<span><sup><a class=\"NewFn\" href=\"#footnote260\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى نحوه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 2/66، في البلغم و علاجه، فقالا: و يروى عن الصادق عليه السّلام، و يؤيّده ما روي في الرسالة الذهبية: 17، و في فقه الإمام الرضا عليه السّلام: 258، و من لا يحضره الفقيه 286:3. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1260\" paragraph-id=\"1260\" class=\" G\">[104] </p>\n  <p id=\"p1261\" paragraph-id=\"1261\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«لا تغسل رأسك بالطين<span><sup><a class=\"NewFn\" href=\"#footnote261\" title=\"(6)  قال الصدوق: روي أنّ ذلك طين مصر. من لا يحضره الفقيه 243/116:1.و قد صرّح بذلك في بعض الروايات كما سيأتي بعد قليل.و قال المجلسي الأوّل في قوله: «و روي أنّ ذلك»: أي غسل الرأس بالطين و الدلك بالخزف كراهتهما مختصّان «بطين مصر و خزف الشام» أو ذهاب الغيرة و إيراث البرص مخصوصان بهما، و يمكن أن يكون التخصيص للتأكيد، يعني أنّهما فيهما أشدّ و إن كان الظاهر التخصيص بهما. روضة المتّقين 297:1. \">6</a></sup></span> فإنّه يذهب بالغيرة<span><sup><a class=\"NewFn\" href=\"#footnote262\" title=\"(7)  في النسخة: «يذهب العين» و ما أثبتناه من الكافي. \">7</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote263\" title=\"(8)  رواه الكليني في الكافي 501:6، ضمن ح 24، باب الحمّام، عن علي بن محمّد بن بندار، \">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p1262\" paragraph-id=\"1262\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote256\" footnote-id=\"256\">(1) <page number=\"69\" /> كلمة: «كما» أثبتناها من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote257\" footnote-id=\"257\">(2)  في المصادر كلّها قوله عليه السّلام: «لم تحرقه النورة» متأخّر عن الدعاء لسليمان بن داود عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote258\" footnote-id=\"258\">(3)  رواه الكليني في الكافي 13/506:6، باب النورة، عن علي بن محمّد بن بندار، عن السيّاري رفعه إلى أبي عبد الله عليه السّلام، و الصدوق بتفاوت يسير في من لا يحضره الفقيه 256/119:1، باب غسل يوم الجمعة و دخول الحمّام و آدابه و ما جاء في التنظيف و الزينة - و عنه الطبرسي في مكارم الأخلاق: 1/61، الفصل السادس في الإطلاء بالنورة، - عن الصادق عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote259\" footnote-id=\"259\">(4)  كلمة: «الحمام» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote260\" footnote-id=\"260\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، و روى نحوه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 2/66، في البلغم و علاجه، فقالا: و يروى عن الصادق عليه السّلام، و يؤيّده ما روي في الرسالة الذهبية: 17، و في فقه الإمام الرضا عليه السّلام: 258، و من لا يحضره الفقيه 286:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote261\" footnote-id=\"261\">(6)  قال الصدوق: روي أنّ ذلك طين مصر. من لا يحضره الفقيه 243/116:1.<br />و قد صرّح بذلك في بعض الروايات كما سيأتي بعد قليل.<br />و قال المجلسي الأوّل في قوله: «و روي أنّ ذلك»: أي غسل الرأس بالطين و الدلك بالخزف كراهتهما مختصّان «بطين مصر و خزف الشام» أو ذهاب الغيرة و إيراث البرص مخصوصان بهما، و يمكن أن يكون التخصيص للتأكيد، يعني أنّهما فيهما أشدّ و إن كان الظاهر التخصيص بهما. روضة المتّقين 297:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote262\" footnote-id=\"262\">(7)  في النسخة: «يذهب العين» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote263\" footnote-id=\"263\">(8)  رواه الكليني في الكافي 501:6، ضمن ح 24، باب الحمّام، عن علي بن محمّد بن بندار، </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "23847E4E-BE64-4A3E-B29B-A16875E585C5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

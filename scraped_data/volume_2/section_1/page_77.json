@@ -1,0 +1,85 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 77,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170029,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1284\"><format class=\"hadith\" who=\"\" Id=\"111\" RevayatIndex=\"632\"><page number=\"77\"/> - <format class=\"sanadHadith\">في نسخة الحسن بن المنذر</format>: «و لا تنخله»، <format class=\"sanadHadith\">و في نسخة أخرى: </format>«و تنخله» -</format></p>"
+        },
+        {
+          "paragraphId": 714170030,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1285\"><format class=\"hadith\" who=\"\" Id=\"111\" RevayatIndex=\"632\">«ثمّ تأخذ وزن خمسة دراهم دار فلفل و مرزنجوش» - <format class=\"sanadHadith\">و في نسخة أخرى</format>:</format></p>"
+        },
+        {
+          "paragraphId": 714170031,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1286\"><format class=\"hadith\" who=\"\" Id=\"111\" RevayatIndex=\"632\">«دار فلفل أو مرزنجوش» - «فتدقّه ثمّ تريقه فيه<lfootnote noteId=\"292\">1</lfootnote> و تصيّره مثل خبيصة على النار في إناء بلا غبار و لا ريح، و تجعل في الإناء شيئا من سمن البقر، و تدهن به الإناء، ثمّ تدفنه في الشعير أو في الرماد أربعين يوما، و كلّما عتق كان أجود له، يأخذ منه مقدار حمّصة صاحبه<lfootnote noteId=\"293\">2</lfootnote>».</format></p>"
+        },
+        {
+          "paragraphId": 714170032,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1287\"><format class=\"hadith\" who=\"\" Id=\"111\" RevayatIndex=\"632\">- <format class=\"sanadHadith\">في نسخة الحسن بن المنذر: </format>«عند الساعة التي يمسّه الأذى»، <format class=\"sanadHadith\">و في نسخة أخرى: </format>«في الوقت الذي يحتاج إليه يؤخذ على قدر الداء» -</format></p>"
+        },
+        {
+          "paragraphId": 714170033,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1288\">«و هذا الدواء أيضا للمرأة التي تأخذها الغيرة و يستطار عقلها حتّى تهيم، يؤخذ من هذا الدواء - إذا عتق - على قدر الغيرة أو العلّة، إذا كانت العلّة شديدة<lfootnote noteId=\"294\">3</lfootnote> بقدر حمّصة، ثمّ تأخذ سذابا رطبا فتدقّه و تستخرج ماءه، ثمّ يغلى و يفتّر، ثمّ يداف فيه الدواء، ثمّ يسعطه، و لا تفزع ممّا ترى بها أنّها ترعف و بقيت خمسة أيّام مغمى عليها».</p>"
+        },
+        {
+          "paragraphId": 714170034,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1289\">قال: و أخبرني أبو الحسن، قال: رأيت امرأة من مزينة<lfootnote noteId=\"295\">4</lfootnote>، قد أتت عليها سنون فآيست من الولد، فاستأذنها زوجها في التزويج فأذنت فتزوّج، فبلغها ذلك، فقالت له: تزوّجت‌؟ قال: نعم. فانطلقت هائمة في الجبال، فبلغ ذلك أبي فأرسل في طلبها، فما قدروا عليها إلّا أخذها بالكلاليب، فجئنا بها، فدعا <page number=\"78\"/>بحواضن، و قال: ائتوني بسذاب، فأتوه به، فقال: دقّوه و اعصروه و اغلوه على النار، ثمّ قال: فتّروه<lfootnote noteId=\"296\">1</lfootnote>، فلمّا انفتر داف قدر حمّصة أو أصغر ثمّ سعطها.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171076,
+          "text": "<footnote id=\"292\"><page number=\"77\"/><mnote>(1)</mnote> في هامش النسخة: في نسخة بدل «ترمي فيه». </footnote>"
+        },
+        {
+          "footnoteId": 714171077,
+          "text": "<footnote id=\"293\"><mnote>(2)</mnote> أي: صاحب المرض. </footnote>"
+        },
+        {
+          "footnoteId": 714171078,
+          "text": "<footnote id=\"294\"><mnote>(3)</mnote> تكررت في النسخة لفظة: «شديدة». </footnote>"
+        },
+        {
+          "footnoteId": 714171079,
+          "text": "<footnote id=\"295\"><mnote>(4)</mnote> و هي قبيلة من قبائل العرب. لسان العرب 407:13 «مزن». </footnote>"
+        }
+      ],
+      "pageValue": "77",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1284\" paragraph-id=\"1284\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo77\">77</span> - <span class=\"sanadHadith\">في نسخة الحسن بن المنذر</span>: «و لا تنخله»، <span class=\"sanadHadith\">و في نسخة أخرى: </span>«و تنخله» -</span>\n  </p>\n  <p id=\"p1285\" paragraph-id=\"1285\" class=\" G\">\n    <span class=\"hadith\">«ثمّ تأخذ وزن خمسة دراهم دار فلفل و مرزنجوش» - <span class=\"sanadHadith\">و في نسخة أخرى</span>:</span>\n  </p>\n  <p id=\"p1286\" paragraph-id=\"1286\" class=\" G\">\n    <span class=\"hadith\">«دار فلفل أو مرزنجوش» - «فتدقّه ثمّ تريقه فيه<span><sup><a class=\"NewFn\" href=\"#footnote292\" title=\"(1)  في هامش النسخة: في نسخة بدل «ترمي فيه». \">1</a></sup></span> و تصيّره مثل خبيصة على النار في إناء بلا غبار و لا ريح، و تجعل في الإناء شيئا من سمن البقر، و تدهن به الإناء، ثمّ تدفنه في الشعير أو في الرماد أربعين يوما، و كلّما عتق كان أجود له، يأخذ منه مقدار حمّصة صاحبه<span><sup><a class=\"NewFn\" href=\"#footnote293\" title=\"(2)  أي: صاحب المرض. \">2</a></sup></span>».</span>\n  </p>\n  <p id=\"p1287\" paragraph-id=\"1287\" class=\" G\">\n    <span class=\"hadith\">- <span class=\"sanadHadith\">في نسخة الحسن بن المنذر: </span>«عند الساعة التي يمسّه الأذى»، <span class=\"sanadHadith\">و في نسخة أخرى: </span>«في الوقت الذي يحتاج إليه يؤخذ على قدر الداء» -</span>\n  </p>\n  <p id=\"p1288\" paragraph-id=\"1288\" class=\" G\">«و هذا الدواء أيضا للمرأة التي تأخذها الغيرة و يستطار عقلها حتّى تهيم، يؤخذ من هذا الدواء - إذا عتق - على قدر الغيرة أو العلّة، إذا كانت العلّة شديدة<span><sup><a class=\"NewFn\" href=\"#footnote294\" title=\"(3)  تكررت في النسخة لفظة: «شديدة». \">3</a></sup></span> بقدر حمّصة، ثمّ تأخذ سذابا رطبا فتدقّه و تستخرج ماءه، ثمّ يغلى و يفتّر، ثمّ يداف فيه الدواء، ثمّ يسعطه، و لا تفزع ممّا ترى بها أنّها ترعف و بقيت خمسة أيّام مغمى عليها».</p>\n  <p id=\"p1289\" paragraph-id=\"1289\" class=\" G\">قال: و أخبرني أبو الحسن، قال: رأيت امرأة من مزينة<span><sup><a class=\"NewFn\" href=\"#footnote295\" title=\"(4)  و هي قبيلة من قبائل العرب. لسان العرب 407:13 «مزن». \">4</a></sup></span>، قد أتت عليها سنون فآيست من الولد، فاستأذنها زوجها في التزويج فأذنت فتزوّج، فبلغها ذلك، فقالت له: تزوّجت‌؟ قال: نعم. فانطلقت هائمة في الجبال، فبلغ ذلك أبي فأرسل في طلبها، فما قدروا عليها إلّا أخذها بالكلاليب، فجئنا بها، فدعا </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote292\" footnote-id=\"292\">(1) <page number=\"77\" /> في هامش النسخة: في نسخة بدل «ترمي فيه». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote293\" footnote-id=\"293\">(2)  أي: صاحب المرض. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote294\" footnote-id=\"294\">(3)  تكررت في النسخة لفظة: «شديدة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote295\" footnote-id=\"295\">(4)  و هي قبيلة من قبائل العرب. لسان العرب 407:13 «مزن». </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E6F0BA96-0ADA-4921-8F04-39772787769E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

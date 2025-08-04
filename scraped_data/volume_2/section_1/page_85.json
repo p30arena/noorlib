@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 85,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170063,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1318\"><page number=\"85\"/><heading level=\"2\">[باب] دواء يعرف بالنهش </heading></p>"
+        },
+        {
+          "paragraphId": 714170064,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1319\">[113] </p>"
+        },
+        {
+          "paragraphId": 714170065,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1320\"><format class=\"hadith\" who=\"32,16\" Id=\"113\" RevayatIndex=\"634\"><format class=\"sanadHadith\">و ممّا وجدته في كتاب أبي جعفر بن البندار<lfootnote noteId=\"328\">1</lfootnote>، و حذفت إسناده، روي أنّ هذا الدواء نزل به جبرئيل على <format class=\"E\" Number=\"32\">موسى بن عمران صلوات الله و سلامه عليهما</format>: </format>«يؤخذ جزء حرف<lfootnote noteId=\"329\">2</lfootnote>، و جزء ورق الأنجدان<lfootnote noteId=\"330\">3</lfootnote>، يغلى و يصيّر معه جزء أبهل<lfootnote noteId=\"331\">4</lfootnote> و جزء...<lfootnote noteId=\"332\">5</lfootnote>، و يستفّ منه بالغداة وزن درهمين، و يؤخذ بعد الطعام و إذا أردت أن تنام»<lfootnote noteId=\"333\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170066,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1321\"><heading level=\"2\">[باب] دواء جامع لكلّ وجع </heading></p>"
+        },
+        {
+          "paragraphId": 714170067,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1322\">[114] </p>"
+        },
+        {
+          "paragraphId": 714170068,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1323\"><format class=\"hadith\" who=\"11,8\" Id=\"114\" RevayatIndex=\"635\"><format class=\"sanadHadith\">و هو خمسة عشر خلطا، وجد في خزانة الخراساني<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\"/></format> و <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"11\">العسكري عليهما السّلام</format></format>:</format></format></p>"
+        },
+        {
+          "paragraphId": 714170069,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1324\"><format class=\"hadith\" who=\"11,8\" Id=\"114\" RevayatIndex=\"635\"><format class=\"sanadHadith\"/>«لكلّ حمّى نافض، و كلّ وجع، و كلّ الحرارات، و كلّ الحميات - و هو أقراص - <page number=\"86\"/> يؤخذ عصارة غافت خمسة أساتير، و ترنجبين ستّة أساتير، و طباشير و أفسنتين مكد أربعة دراهم، و بذر<lfootnote noteId=\"334\">1</lfootnote> كرفس و باذروج<lfootnote noteId=\"335\">2</lfootnote> مكد خمسة دراهم، و عصارة السوس و أنيسون و أسارون و شحم الحنظل من كلّ واحد ثلاثة دراهم، و ورد يابس و سنبل مكد وزن استارين، و لوز مرّ<lfootnote noteId=\"336\">3</lfootnote> و ريوند جيني<lfootnote noteId=\"337\">4</lfootnote> مكد وزن درهمين، و زعفران درهم و نصف، يدقّ و ينخل و يعجن بماء الترنجبين و يتّخذ أقراصا، كلّ قرص وزن درهمين، تؤخذ مع وزن ثلاثة دراهم سكّر طبرزد بماء بارد، و هو مجرّب سماوي، شفاء رأس كلّ داء للحمّى، عجيب نافع بإذن الله تعالى»<lfootnote noteId=\"338\">5</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171112,
+          "text": "<footnote id=\"328\"><page number=\"85\"/><mnote>(1)</mnote> هو أبو جعفر أحمد بن بندار خال محمّد بن همّام الإسكافي، الذي روى عنه عن منصور بن العبّاس. انظر: كامل الزيارات: 5/185، التمحيص: 15، كمال الدين:<br/>3/334، 2/252، كفاية الأثر: 152، عيون أخبار الرضا عليه السّلام 27/47:1، الأمالي للمفيد: 7/354، و غيرها من المصادر. </footnote>"
+        },
+        {
+          "footnoteId": 714171113,
+          "text": "<footnote id=\"329\"><mnote>(2)</mnote> قال الهروي: حرف بالضمّ‌: هو حبّ الرشاد فارسية تخم سپندان. بحر الجواهر: 135. </footnote>"
+        },
+        {
+          "footnoteId": 714171114,
+          "text": "<footnote id=\"330\"><mnote>(3)</mnote> في النسخة: «الأنجبران». و الأنجدان: ورق شجر الحلتيت، منه طيب و منه منتن. الصحاح 247:1 «حلت». </footnote>"
+        },
+        {
+          "footnoteId": 714171115,
+          "text": "<footnote id=\"331\"><mnote>(4)</mnote> الأبهل: حمل شجرة و هي العرعر، و قيل: الأبهل ثمر العرعر، قال ابن سيدة: و ليس بعربيّ محض. الأزهري: الأبهل شجرة يقال لها: الأيرس، و ليس الأبهل بعربية محضة. لسان العرب 73:11 «بهل». </footnote>"
+        },
+        {
+          "footnoteId": 714171116,
+          "text": "<footnote id=\"332\"><mnote>(5)</mnote> النسخة مخرومة بمقدار كلمتين. </footnote>"
+        },
+        {
+          "footnoteId": 714171117,
+          "text": "<footnote id=\"333\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا.</footnote>"
+        }
+      ],
+      "pageValue": "85",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1318\" paragraph-id=\"1318\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo85\">85</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] دواء يعرف بالنهش </strong>\n  </p>\n  <p id=\"p1319\" paragraph-id=\"1319\" class=\" G\">[113] </p>\n  <p id=\"p1320\" paragraph-id=\"1320\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و ممّا وجدته في كتاب أبي جعفر بن البندار<span><sup><a class=\"NewFn\" href=\"#footnote328\" title=\"(1)  هو أبو جعفر أحمد بن بندار خال محمّد بن همّام الإسكافي، الذي روى عنه عن منصور بن العبّاس. انظر: كامل الزيارات: 5/185، التمحيص: 15، كمال الدين:3/334، 2/252، كفاية الأثر: 152، عيون أخبار الرضا عليه السّلام 27/47:1، الأمالي للمفيد: 7/354، و غيرها من المصادر. \">1</a></sup></span>، و حذفت إسناده، روي أنّ هذا الدواء نزل به جبرئيل على <span class=\"E\">موسى بن عمران صلوات الله و سلامه عليهما</span>: </span>«يؤخذ جزء حرف<span><sup><a class=\"NewFn\" href=\"#footnote329\" title=\"(2)  قال الهروي: حرف بالضمّ‌: هو حبّ الرشاد فارسية تخم سپندان. بحر الجواهر: 135. \">2</a></sup></span>، و جزء ورق الأنجدان<span><sup><a class=\"NewFn\" href=\"#footnote330\" title=\"(3)  في النسخة: «الأنجبران». و الأنجدان: ورق شجر الحلتيت، منه طيب و منه منتن. الصحاح 247:1 «حلت». \">3</a></sup></span>، يغلى و يصيّر معه جزء أبهل<span><sup><a class=\"NewFn\" href=\"#footnote331\" title=\"(4)  الأبهل: حمل شجرة و هي العرعر، و قيل: الأبهل ثمر العرعر، قال ابن سيدة: و ليس بعربيّ محض. الأزهري: الأبهل شجرة يقال لها: الأيرس، و ليس الأبهل بعربية محضة. لسان العرب 73:11 «بهل». \">4</a></sup></span> و جزء...<span><sup><a class=\"NewFn\" href=\"#footnote332\" title=\"(5)  النسخة مخرومة بمقدار كلمتين. \">5</a></sup></span>، و يستفّ منه بالغداة وزن درهمين، و يؤخذ بعد الطعام و إذا أردت أن تنام»<span><sup><a class=\"NewFn\" href=\"#footnote333\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا.\">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1321\" paragraph-id=\"1321\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] دواء جامع لكلّ وجع </strong>\n  </p>\n  <p id=\"p1322\" paragraph-id=\"1322\" class=\" G\">[114] </p>\n  <p id=\"p1323\" paragraph-id=\"1323\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و هو خمسة عشر خلطا، وجد في خزانة الخراساني<span class=\"Y\"><span class=\"maasoom\"></span></span> و <span class=\"Y\"><span class=\"maasoom\">العسكري عليهما السّلام</span></span>:</span>\n    </span>\n  </p>\n  <p id=\"p1324\" paragraph-id=\"1324\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\"></span>«لكلّ حمّى نافض، و كلّ وجع، و كلّ الحرارات، و كلّ الحميات - و هو أقراص - </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote328\" footnote-id=\"328\">(1) <page number=\"85\" /> هو أبو جعفر أحمد بن بندار خال محمّد بن همّام الإسكافي، الذي روى عنه عن منصور بن العبّاس. انظر: كامل الزيارات: 5/185، التمحيص: 15، كمال الدين:<br />3/334، 2/252، كفاية الأثر: 152، عيون أخبار الرضا عليه السّلام 27/47:1، الأمالي للمفيد: 7/354، و غيرها من المصادر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote329\" footnote-id=\"329\">(2)  قال الهروي: حرف بالضمّ‌: هو حبّ الرشاد فارسية تخم سپندان. بحر الجواهر: 135. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote330\" footnote-id=\"330\">(3)  في النسخة: «الأنجبران». و الأنجدان: ورق شجر الحلتيت، منه طيب و منه منتن. الصحاح 247:1 «حلت». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote331\" footnote-id=\"331\">(4)  الأبهل: حمل شجرة و هي العرعر، و قيل: الأبهل ثمر العرعر، قال ابن سيدة: و ليس بعربيّ محض. الأزهري: الأبهل شجرة يقال لها: الأيرس، و ليس الأبهل بعربية محضة. لسان العرب 73:11 «بهل». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote332\" footnote-id=\"332\">(5)  النسخة مخرومة بمقدار كلمتين. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote333\" footnote-id=\"333\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4BB8AC24-C3FB-499C-B872-FB68E5BE3401",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

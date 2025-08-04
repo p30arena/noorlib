@@ -1,0 +1,93 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 217,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170630,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1885\"><page number=\"217\"/><heading level=\"2\">[باب] في حفظ السّفرة عن الهوامّ‌ </heading></p>"
+        },
+        {
+          "paragraphId": 714170631,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1886\">[302] </p>"
+        },
+        {
+          "paragraphId": 714170632,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1887\"><format class=\"hadith\" who=\"7\" Id=\"298\" RevayatIndex=\"819\"><format class=\"sanadHadith\">روى نصر الخادم، قال:</format> رأى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبو الحسن عليه السّلام</format></format> سفرة، و عليها حلق صفر<lfootnote noteId=\"889\">1</lfootnote>، فقال: «انزعوا هذه عنها و اجعلوا مكانها حديدا؛ فإنّه لا يقرب شيئا ممّا فيها شيء من الهوّام<lfootnote noteId=\"890\">2</lfootnote>»<lfootnote noteId=\"891\">3</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170633,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1888\"><heading level=\"2\">[باب في الورد]<lfootnote noteId=\"892\">4</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714170634,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1889\">[303] </p>"
+        },
+        {
+          "paragraphId": 714170635,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1890\"><format class=\"hadith\" who=\"14\" Id=\"299\" RevayatIndex=\"820\"><format class=\"sanadHadith\">روى الحسن بن منذر يرفعه قال:</format> لمّا اسري <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">بالنبي صلّى الله عليه و آله</format></format> إلى السماء حزنت الأرض لفقده فبكت و أنبتت الكبر<lfootnote noteId=\"893\">5</lfootnote>، فلمّا رجع إلى الأرض فرحت <page number=\"218\"/>فأنبتت الورد، فمن أراد أن يشمّ رائحة <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> فليشمّ الورد<lfootnote noteId=\"894\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171240,
+          "text": "<footnote id=\"888\"><mnote>(6)</mnote> و رواه الطبرسي في مكارم الأخلاق: 8/125، في النعال و الخفاف إذا جلس، بعد <page number=\"217\"/>الحديث السابق، بعد الروايتين السابقتين، فقال: عن أبي الحسن العسكري عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171241,
+          "text": "<footnote id=\"889\"><mnote>(1)</mnote> في النسخة: «خلق حفر» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171242,
+          "text": "<footnote id=\"890\"><mnote>(2)</mnote> قال المجلسي الأوّل: و الحلق محرّكة أو كعنب جمع حلقة. روضة المتّقين 230:4.<br/>أقول: و السفرة بالضم: طعام يصنع للمسافر، و الجمع سفر كغرفة و غرف، و سمّي الجلدة التي يوضع فيها الطعام سفرة مجازا. المصباح المنير: 279 «سفر». و الصفر: ضرب من النحاس. لسان العرب 461:4 «صفر». </footnote>"
+        },
+        {
+          "footnoteId": 714171243,
+          "text": "<footnote id=\"891\"><mnote>(3)</mnote> رواه الصدوق في من لا يحضره الفقيه 2451/281:2، باب اتّخاذ السفرة في السفر، روي عن نصر الخادم، قال: نظر العبد الصالح أبو الحسن موسى بن جعفر عليه السّلام، و الفضل الطبرسي في الآداب الدينية: 228/81، الفصل الثالث عشر في ذكر ما يتعلّق بالسفر من الآداب و الأدعية، يستحبّ التنوّق في اتّخاذ السفرة في السفر، و نظر موسى بن جعفر عليهما السّلام، و الطبرسي مكارم الأخلاق: 18/267، الفصل الثامن في نوادر السفر، عن نصر الخادم. </footnote>"
+        },
+        {
+          "footnoteId": 714171244,
+          "text": "<footnote id=\"892\"><mnote>(4)</mnote> ما بين المعقوفتين أثبتناه من متن الحديث. </footnote>"
+        },
+        {
+          "footnoteId": 714171245,
+          "text": "<footnote id=\"893\"><mnote>(5)</mnote> الكبر، بالتحريك: الأصف فارسي معرّب، و هو نبات معمّر له شوك، ينبت طبيعيا و يزرع أيضا، و العامّة تقول: كبّار كرمّان. كتاب الماء 226:1، لسان العرب 130:5 «كبر». </footnote>"
+        }
+      ],
+      "pageValue": "217",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1885\" paragraph-id=\"1885\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo217\">217</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في حفظ السّفرة عن الهوامّ‌ </strong>\n  </p>\n  <p id=\"p1886\" paragraph-id=\"1886\" class=\" G\">[302] </p>\n  <p id=\"p1887\" paragraph-id=\"1887\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى نصر الخادم، قال:</span> رأى <span class=\"Y\"><span class=\"maasoom\">أبو الحسن عليه السّلام</span></span> سفرة، و عليها حلق صفر<span><sup><a class=\"NewFn\" href=\"#footnote889\" title=\"(1)  في النسخة: «خلق حفر» و ما أثبتناه من المصدر. \">1</a></sup></span>، فقال: «انزعوا هذه عنها و اجعلوا مكانها حديدا؛ فإنّه لا يقرب شيئا ممّا فيها شيء من الهوّام<span><sup><a class=\"NewFn\" href=\"#footnote890\" title=\"(2)  قال المجلسي الأوّل: و الحلق محرّكة أو كعنب جمع حلقة. روضة المتّقين 230:4.أقول: و السفرة بالضم: طعام يصنع للمسافر، و الجمع سفر كغرفة و غرف، و سمّي الجلدة التي يوضع فيها الطعام سفرة مجازا. المصباح المنير: 279 «سفر». و الصفر: ضرب من النحاس. لسان العرب 461:4 «صفر». \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote891\" title=\"(3)  رواه الصدوق في من لا يحضره الفقيه 2451/281:2، باب اتّخاذ السفرة في السفر، روي عن نصر الخادم، قال: نظر العبد الصالح أبو الحسن موسى بن جعفر عليه السّلام، و الفضل الطبرسي في الآداب الدينية: 228/81، الفصل الثالث عشر في ذكر ما يتعلّق بالسفر من الآداب و الأدعية، يستحبّ التنوّق في اتّخاذ السفرة في السفر، و نظر موسى بن جعفر عليهما السّلام، و الطبرسي مكارم الأخلاق: 18/267، الفصل الثامن في نوادر السفر، عن نصر الخادم. \">3</a></sup></span>. </span>\n  </p>\n  <p id=\"p1888\" paragraph-id=\"1888\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب في الورد]<span><sup><a class=\"NewFn\" href=\"#footnote892\" title=\"(4)  ما بين المعقوفتين أثبتناه من متن الحديث. \">4</a></sup></span></strong>\n  </p>\n  <p id=\"p1889\" paragraph-id=\"1889\" class=\" G\">[303] </p>\n  <p id=\"p1890\" paragraph-id=\"1890\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الحسن بن منذر يرفعه قال:</span> لمّا اسري <span class=\"Y\"><span class=\"maasoom\">بالنبي صلّى الله عليه و آله</span></span> إلى السماء حزنت الأرض لفقده فبكت و أنبتت الكبر<span><sup><a class=\"NewFn\" href=\"#footnote893\" title=\"(5)  الكبر، بالتحريك: الأصف فارسي معرّب، و هو نبات معمّر له شوك، ينبت طبيعيا و يزرع أيضا، و العامّة تقول: كبّار كرمّان. كتاب الماء 226:1، لسان العرب 130:5 «كبر». \">5</a></sup></span>، فلمّا رجع إلى الأرض فرحت </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote888\" footnote-id=\"888\"><page number=\"217\" />الحديث السابق، بعد الروايتين السابقتين، فقال: عن أبي الحسن العسكري عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote889\" footnote-id=\"889\">(1)  في النسخة: «خلق حفر» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote890\" footnote-id=\"890\">(2)  قال المجلسي الأوّل: و الحلق محرّكة أو كعنب جمع حلقة. روضة المتّقين 230:4.<br />أقول: و السفرة بالضم: طعام يصنع للمسافر، و الجمع سفر كغرفة و غرف، و سمّي الجلدة التي يوضع فيها الطعام سفرة مجازا. المصباح المنير: 279 «سفر». و الصفر: ضرب من النحاس. لسان العرب 461:4 «صفر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote891\" footnote-id=\"891\">(3)  رواه الصدوق في من لا يحضره الفقيه 2451/281:2، باب اتّخاذ السفرة في السفر، روي عن نصر الخادم، قال: نظر العبد الصالح أبو الحسن موسى بن جعفر عليه السّلام، و الفضل الطبرسي في الآداب الدينية: 228/81، الفصل الثالث عشر في ذكر ما يتعلّق بالسفر من الآداب و الأدعية، يستحبّ التنوّق في اتّخاذ السفرة في السفر، و نظر موسى بن جعفر عليهما السّلام، و الطبرسي مكارم الأخلاق: 18/267، الفصل الثامن في نوادر السفر، عن نصر الخادم. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote892\" footnote-id=\"892\">(4)  ما بين المعقوفتين أثبتناه من متن الحديث. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote893\" footnote-id=\"893\">(5)  الكبر، بالتحريك: الأصف فارسي معرّب، و هو نبات معمّر له شوك، ينبت طبيعيا و يزرع أيضا، و العامّة تقول: كبّار كرمّان. كتاب الماء 226:1، لسان العرب 130:5 «كبر». </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "69CE7684-ECC2-4E08-BCD0-8EAABB10B6F3",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

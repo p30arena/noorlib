@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 42,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166665,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2270\"><format class=\"hadith\" who=\"13,6\" Id=\"49\" RevayatIndex=\"49\">فيقول المؤمن: أنت ربّي، و أنا عبدك، و أنت الحيّ القيّوم لا يصيبك ألم و لا نصب! <page number=\"42\"/> فيقول الله تعالى: من عاد مؤمنا فيّ فقد عادني، ثمّ يقول: أتعرف فلان بن فلان‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714166666,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2271\"><format class=\"hadith\" who=\"13,6\" Id=\"49\" RevayatIndex=\"49\">فيقول: نعم يا ربّ‌.</format></p>"
+        },
+        {
+          "paragraphId": 714166667,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2272\"><format class=\"hadith\" who=\"13,6\" Id=\"49\" RevayatIndex=\"49\">فيقول: ما منعك أن تعوده حيث مرض، أما لو عدته لعدتني، ثمّ لوجدتني عنده، ثمّ لو سألتني حاجة لقضيتها لك، و لم أردّك عنها»<lfootnote noteId=\"431\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166668,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2273\">[50] </p>"
+        },
+        {
+          "paragraphId": 714166669,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2274\"><format class=\"hadith\" who=\"8|7\" Id=\"50\" RevayatIndex=\"50\"><format class=\"sanadHadith\">حدثنا ابن همّام، قال: حدثنا الحميري، عن محمّد بن عيسى، عن يونس بن عبد الرحمن، و أحمد بن محمّد بن عيسى، عن عبد العزيز بن المهتدي<lfootnote noteId=\"432\">2</lfootnote>، و السيّاري، عن إسماعيل بن محمّد جميعا، عن يونس بن عبد الرحمن قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8|7\">أبو الحسن عليه السّلام</format></format>: </format>«إذا مرض أحدكم فليأذن للناس أن يدخلوا عليه، فليس من أحد إلّا و له دعوة مستجابة»<lfootnote noteId=\"433\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166670,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2275\">[51] </p>"
+        },
+        {
+          "paragraphId": 714166671,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2276\"><format class=\"hadith\" who=\"14\" Id=\"51\" RevayatIndex=\"51\"><format class=\"sanadHadith\">و روي</format>: أنّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">النبي صلّى الله عليه و آله</format></format> عاد سلمان رضى الله عنه فلمّا أراد أن يقوم قال: «يا سلمان، كشف الله ضرّك، و غفر ذنوبك، و حفظك في دينك و بدنك<lfootnote noteId=\"434\">4</lfootnote> إلى منتهى أجلك»<lfootnote noteId=\"435\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166672,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2277\"><page number=\"43\"/>[52] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168485,
+          "text": "<footnote id=\"431\"><page number=\"42\"/><mnote>(1)</mnote> رواه الحسين بن سعيد الأهوازي في المؤمن: 156/61، بتفاوت يسير، عن أبي جعفر و أبي عبد الله عليهما السّلام، و الطبرسي في مكارم الأخلاق: 10/360، في عيادة المريض عنه عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168486,
+          "text": "<footnote id=\"432\"><mnote>(2)</mnote> في النسخة: «عبد العزيز بن المهدي» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168487,
+          "text": "<footnote id=\"433\"><mnote>(3)</mnote> رواه عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 16، ضمن حديث فقال: حدّثنا محمّد بن خلف، عن الوشّاء قال: قال لي الرضا عليه السّلام، و الكليني في الكافي 2/117:3، باب المريض يؤذن به الناس، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن عبد العزيز بن المهتدي، عن يونس، و الطبرسي في مكارم الأخلاق: 11/361، في عيادة المريض بعد الحديث المتقدّم، عن أبي الحسن الكاظم عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168488,
+          "text": "<footnote id=\"434\"><mnote>(4)</mnote> كلمة: «و بدنك» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168489,
+          "text": "<footnote id=\"435\"><mnote>(5)</mnote> رواه الطبرسي في مكارم الأخلاق: 12/361، في عيادة المريض، فقال: و روي عن <page number=\"43\"/>النبي صلّى الله عليه و آله، و الطوسي نحوه في الأمالي: 3/632، قال: أخبرني جماعة عن أبي المفضّل، قال: حدّثنا الحسن بن محمّد بن علي بن شاذان بن حباب الأزدي الخلال بالكوفة، قال:<br/>حدّثنا الحسن بن أحمد بن عبد الله المزني الخلّال، قال: حدّثنا إسماعيل بن صبيح اليشكري، عن أبي خالد الواسطي، عن أبي هاشم الرمّاني، عن زاذان، عن سلمان رحمه الله قال: دخل عليّ رسول الله صلّى الله عليه و آله...<br/>و من العامّة نقله الطبراني في المعجم الكبير 240:6، بالإسناد عن أبي هاشم الرمّاني. </footnote>"
+        }
+      ],
+      "pageValue": "42",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2270\" paragraph-id=\"2270\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo42\">42</span> فيقول الله تعالى: من عاد مؤمنا فيّ فقد عادني، ثمّ يقول: أتعرف فلان بن فلان‌؟</span>\n  </p>\n  <p id=\"p2271\" paragraph-id=\"2271\" class=\" G\">\n    <span class=\"hadith\">فيقول: نعم يا ربّ‌.</span>\n  </p>\n  <p id=\"p2272\" paragraph-id=\"2272\" class=\" G\">\n    <span class=\"hadith\">فيقول: ما منعك أن تعوده حيث مرض، أما لو عدته لعدتني، ثمّ لوجدتني عنده، ثمّ لو سألتني حاجة لقضيتها لك، و لم أردّك عنها»<span><sup><a class=\"NewFn\" href=\"#footnote431\" title=\"(1)  رواه الحسين بن سعيد الأهوازي في المؤمن: 156/61، بتفاوت يسير، عن أبي جعفر و أبي عبد الله عليهما السّلام، و الطبرسي في مكارم الأخلاق: 10/360، في عيادة المريض عنه عليه السّلام. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2273\" paragraph-id=\"2273\" class=\" G\">[50] </p>\n  <p id=\"p2274\" paragraph-id=\"2274\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدثنا ابن همّام، قال: حدثنا الحميري، عن محمّد بن عيسى، عن يونس بن عبد الرحمن، و أحمد بن محمّد بن عيسى، عن عبد العزيز بن المهتدي<span><sup><a class=\"NewFn\" href=\"#footnote432\" title=\"(2)  في النسخة: «عبد العزيز بن المهدي» و ما أثبتناه من المصدر. \">2</a></sup></span>، و السيّاري، عن إسماعيل بن محمّد جميعا، عن يونس بن عبد الرحمن قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو الحسن عليه السّلام</span></span>: </span>«إذا مرض أحدكم فليأذن للناس أن يدخلوا عليه، فليس من أحد إلّا و له دعوة مستجابة»<span><sup><a class=\"NewFn\" href=\"#footnote433\" title=\"(3)  رواه عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 16، ضمن حديث فقال: حدّثنا محمّد بن خلف، عن الوشّاء قال: قال لي الرضا عليه السّلام، و الكليني في الكافي 2/117:3، باب المريض يؤذن به الناس، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن عبد العزيز بن المهتدي، عن يونس، و الطبرسي في مكارم الأخلاق: 11/361، في عيادة المريض بعد الحديث المتقدّم، عن أبي الحسن الكاظم عليه السّلام. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2275\" paragraph-id=\"2275\" class=\" G\">[51] </p>\n  <p id=\"p2276\" paragraph-id=\"2276\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي</span>: أنّ <span class=\"Y\"><span class=\"maasoom\">النبي صلّى الله عليه و آله</span></span> عاد سلمان رضى الله عنه فلمّا أراد أن يقوم قال: «يا سلمان، كشف الله ضرّك، و غفر ذنوبك، و حفظك في دينك و بدنك<span><sup><a class=\"NewFn\" href=\"#footnote434\" title=\"(4)  كلمة: «و بدنك» أثبتناها من المصدر. \">4</a></sup></span> إلى منتهى أجلك»<span><sup><a class=\"NewFn\" href=\"#footnote435\" title=\"(5)  رواه الطبرسي في مكارم الأخلاق: 12/361، في عيادة المريض، فقال: و روي عن \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2277\" paragraph-id=\"2277\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote431\" footnote-id=\"431\">(1) <page number=\"42\" /> رواه الحسين بن سعيد الأهوازي في المؤمن: 156/61، بتفاوت يسير، عن أبي جعفر و أبي عبد الله عليهما السّلام، و الطبرسي في مكارم الأخلاق: 10/360، في عيادة المريض عنه عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote432\" footnote-id=\"432\">(2)  في النسخة: «عبد العزيز بن المهدي» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote433\" footnote-id=\"433\">(3)  رواه عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 16، ضمن حديث فقال: حدّثنا محمّد بن خلف، عن الوشّاء قال: قال لي الرضا عليه السّلام، و الكليني في الكافي 2/117:3، باب المريض يؤذن به الناس، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن عبد العزيز بن المهتدي، عن يونس، و الطبرسي في مكارم الأخلاق: 11/361، في عيادة المريض بعد الحديث المتقدّم، عن أبي الحسن الكاظم عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote434\" footnote-id=\"434\">(4)  كلمة: «و بدنك» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote435\" footnote-id=\"435\">(5)  رواه الطبرسي في مكارم الأخلاق: 12/361، في عيادة المريض، فقال: و روي عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "BB2467E8-A5CB-4EE2-9D5D-CAB170727629",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

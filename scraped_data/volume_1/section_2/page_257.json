@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 257,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167599,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3345\"><format class=\"hadith\" who=\"6\" Id=\"411\" RevayatIndex=\"411\"><format class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن بن فضّال، عن سهل المؤذّن، رفعه إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«يكتب للّوي: بسم الله المتعلّمون الّذين <page number=\"257\"/> لا يعلمون و الّذين يعلمون قاعدون فوق علّيّين يأكلون نويا<lfootnote noteId=\"1420\">1</lfootnote> طريّا يسألون صاحبهم من النّوى الطريّ‌<lfootnote noteId=\"1421\">2</lfootnote> كذلك يشفي الله فلانا بن فلانة<lfootnote noteId=\"1422\">3</lfootnote><format class=\"ayah\" surah=\"21\" ayah=\"30\" toAyah=\"\">أَ وَ لَمْ يَرَ اَلَّذِينَ كَفَرُوا أَنَّ اَلسَّمٰاوٰاتِ وَ اَلْأَرْضَ كٰانَتٰا رَتْقاً<format class=\"ayahWord\" fromWord=\"1\" toWord=\"12\"/><format class=\"ayahAddress\" surah=\"21\" ayah=\"30\" toAyah=\"\"/></format><lfootnote noteId=\"1423\">4</lfootnote>، الآية<lfootnote noteId=\"1424\">5</lfootnote>، يرقى سبع مرّات بماء، ثمّ يصبّ عليه الدهن فإذا التزق الدهن دلكته و سقيته صاحب اللوي، يشفى إن شاء الله تعالى»<lfootnote noteId=\"1425\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167600,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3346\">[417] </p>"
+        },
+        {
+          "paragraphId": 714167601,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3347\"><format class=\"hadith\" who=\"6\" Id=\"412\" RevayatIndex=\"412\"><format class=\"sanadHadith\">و عنه عليه السّلام قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«يقرأ عليه: <format class=\"ayah\" surah=\"84\" ayah=\"1\" toAyah=\"4\">إِذَا اَلسَّمٰاءُ اِنْشَقَّتْ * <format class=\"AyahSeprator\"/>وَ أَذِنَتْ لِرَبِّهٰا وَ حُقَّتْ * <format class=\"AyahSeprator\"/>وَ إِذَا اَلْأَرْضُ مُدَّتْ * <format class=\"AyahSeprator\"/>وَ أَلْقَتْ مٰا فِيهٰا وَ تَخَلَّتْ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"84\" ayah=\"1\" toAyah=\"4\"/></format><lfootnote noteId=\"1426\">7</lfootnote> مرّة واحدة<lfootnote noteId=\"1427\">8</lfootnote>و صلّى الله على <format class=\"maasoom\" maasoomNo=\"14\">محمّد</format> و <format class=\"maasoom\" maasoomNo=\"40\">آله</format> و سلّم<lfootnote noteId=\"1428\">9</lfootnote>»<lfootnote noteId=\"1429\">10</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167602,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3348\">[418] </p>"
+        },
+        {
+          "paragraphId": 714167603,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3349\"><format class=\"hadith\" who=\"16\" Id=\"413\" RevayatIndex=\"413\"><format class=\"sanadHadith\">روى علي بن السندي، عن سعيد بن سعد، عنهم عليهم السّلام: </format>«يرقى مآء <page number=\"258\"/> بلا دهن، ثمّ يسقى صاحب اللوي، ثمّ تمرّ يدك على بطنه<lfootnote noteId=\"1430\">1</lfootnote> ثلاث مرّات و تقول:</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169375,
+          "text": "<footnote id=\"1420\"><page number=\"257\"/><mnote>(1)</mnote> كذا في النسخة و في مكارم الأخلاق: «نورا». </footnote>"
+        },
+        {
+          "footnoteId": 714169376,
+          "text": "<footnote id=\"1421\"><mnote>(2)</mnote> كذا في النسخة، و في مكارم الأخلاق: «النور العلوي». </footnote>"
+        },
+        {
+          "footnoteId": 714169377,
+          "text": "<footnote id=\"1422\"><mnote>(3)</mnote> أي: يكتب اسم المريض و اسم امّه. </footnote>"
+        },
+        {
+          "footnoteId": 714169378,
+          "text": "<footnote id=\"1423\"><mnote>(4)</mnote> سورة الأنبياء 30:21. </footnote>"
+        },
+        {
+          "footnoteId": 714169379,
+          "text": "<footnote id=\"1424\"><mnote>(5)</mnote> الآية الكريمة أثبتناها من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169380,
+          "text": "<footnote id=\"1425\"><mnote>(6)</mnote> روى الطبرسي نحوه في مكارم الأخلاق: 2/382، للّوي عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169381,
+          "text": "<footnote id=\"1426\"><mnote>(7)</mnote> سورة الانشقاق 1:84-4. </footnote>"
+        },
+        {
+          "footnoteId": 714169382,
+          "text": "<footnote id=\"1427\"><mnote>(8)</mnote> في مكارم الأخلاق زيادة: <format class=\"ayah\" surah=\"3\" ayah=\"35\" toAyah=\"\">إِذْ قٰالَتِ اِمْرَأَتُ عِمْرٰانَ رَبِّ إِنِّي نَذَرْتُ لَكَ مٰا فِي بَطْنِي مُحَرَّراً فَتَقَبَّلْ مِنِّي إِنَّكَ أَنْتَ اَلسَّمِيعُ اَلْعَلِيمُ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"35\" toAyah=\"\"/></format>[سورة آل عمران 35:3] <format class=\"ayah\" surah=\"17\" ayah=\"82\" toAyah=\"\">وَ نُنَزِّلُ مِنَ اَلْقُرْآنِ مٰا هُوَ شِفٰاءٌ وَ رَحْمَةٌ لِلْمُؤْمِنِينَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"17\" ayah=\"82\" toAyah=\"\"/></format>[سورة الإسراء 82:17]. </footnote>"
+        },
+        {
+          "footnoteId": 714169383,
+          "text": "<footnote id=\"1428\"><mnote>(9)</mnote> هذه الصلوات الشريفة سقطت من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714169384,
+          "text": "<footnote id=\"1429\"><mnote>(10)</mnote> رواه الطبرسي في مكارم الأخلاق: 3/383، بعد الحديث المتقدّم هكذا: و مثله: عن أبي عبد الله عليه السّلام قال: «يقرأ عليه...».</footnote>"
+        }
+      ],
+      "pageValue": "257",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3345\" paragraph-id=\"3345\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo257\">257</span> لا يعلمون و الّذين يعلمون قاعدون فوق علّيّين يأكلون نويا<span><sup><a class=\"NewFn\" href=\"#footnote1420\" title=\"(1)  كذا في النسخة و في مكارم الأخلاق: «نورا». \">1</a></sup></span> طريّا يسألون صاحبهم من النّوى الطريّ‌<span><sup><a class=\"NewFn\" href=\"#footnote1421\" title=\"(2)  كذا في النسخة، و في مكارم الأخلاق: «النور العلوي». \">2</a></sup></span> كذلك يشفي الله فلانا بن فلانة<span><sup><a class=\"NewFn\" href=\"#footnote1422\" title=\"(3)  أي: يكتب اسم المريض و اسم امّه. \">3</a></sup></span><span style=\"0\" class=\"ayah\" surah=\"21\" ayah=\"30\">أَ وَ لَمْ يَرَ اَلَّذِينَ كَفَرُوا أَنَّ اَلسَّمٰاوٰاتِ وَ اَلْأَرْضَ كٰانَتٰا رَتْقاً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/21/30\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote1423\" title=\"(4)  سورة الأنبياء 30:21. \">4</a></sup></span>، الآية<span><sup><a class=\"NewFn\" href=\"#footnote1424\" title=\"(5)  الآية الكريمة أثبتناها من مكارم الأخلاق. \">5</a></sup></span>، يرقى سبع مرّات بماء، ثمّ يصبّ عليه الدهن فإذا التزق الدهن دلكته و سقيته صاحب اللوي، يشفى إن شاء الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote1425\" title=\"(6)  روى الطبرسي نحوه في مكارم الأخلاق: 2/382، للّوي عن أبي عبد الله عليه السّلام. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3346\" paragraph-id=\"3346\" class=\" G\">[417] </p>\n  <p id=\"p3347\" paragraph-id=\"3347\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه عليه السّلام قال: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«يقرأ عليه: <span style=\"0\" class=\"ayah\" surah=\"84\" ayah=\"1\">إِذَا اَلسَّمٰاءُ اِنْشَقَّتْ * <span class=\"AyahSeprator\"></span>وَ أَذِنَتْ لِرَبِّهٰا وَ حُقَّتْ * <span class=\"AyahSeprator\"></span>وَ إِذَا اَلْأَرْضُ مُدَّتْ * <span class=\"AyahSeprator\"></span>وَ أَلْقَتْ مٰا فِيهٰا وَ تَخَلَّتْ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/84/1\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote1426\" title=\"(7)  سورة الانشقاق 1:84-4. \">7</a></sup></span> مرّة واحدة<span><sup><a class=\"NewFn\" href=\"#footnote1427\" title=\"(8)  في مكارم الأخلاق زيادة: إِذْ قٰالَتِ اِمْرَأَتُ عِمْرٰانَ رَبِّ إِنِّي نَذَرْتُ لَكَ مٰا فِي بَطْنِي مُحَرَّراً فَتَقَبَّلْ مِنِّي إِنَّكَ أَنْتَ اَلسَّمِيعُ اَلْعَلِيمُ [سورة آل عمران 35:3] وَ نُنَزِّلُ مِنَ اَلْقُرْآنِ مٰا هُوَ شِفٰاءٌ وَ رَحْمَةٌ لِلْمُؤْمِنِينَ [سورة الإسراء 82:17]. \">8</a></sup></span>و صلّى الله على <span class=\"maasoom\">محمّد</span> و <span class=\"maasoom\">آله</span> و سلّم<span><sup><a class=\"NewFn\" href=\"#footnote1428\" title=\"(9)  هذه الصلوات الشريفة سقطت من مكارم الأخلاق. \">9</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1429\" title=\"(10)  رواه الطبرسي في مكارم الأخلاق: 3/383، بعد الحديث المتقدّم هكذا: و مثله: عن أبي عبد الله عليه السّلام قال: «يقرأ عليه...».\">10</a></sup></span>.</span>\n  </p>\n  <p id=\"p3348\" paragraph-id=\"3348\" class=\" G\">[418] </p>\n  <p id=\"p3349\" paragraph-id=\"3349\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى علي بن السندي، عن سعيد بن سعد، عنهم عليهم السّلام: </span>«يرقى مآء </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1420\" footnote-id=\"1420\">(1) <page number=\"257\" /> كذا في النسخة و في مكارم الأخلاق: «نورا». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1421\" footnote-id=\"1421\">(2)  كذا في النسخة، و في مكارم الأخلاق: «النور العلوي». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1422\" footnote-id=\"1422\">(3)  أي: يكتب اسم المريض و اسم امّه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1423\" footnote-id=\"1423\">(4)  سورة الأنبياء 30:21. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1424\" footnote-id=\"1424\">(5)  الآية الكريمة أثبتناها من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1425\" footnote-id=\"1425\">(6)  روى الطبرسي نحوه في مكارم الأخلاق: 2/382، للّوي عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1426\" footnote-id=\"1426\">(7)  سورة الانشقاق 1:84-4. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1427\" footnote-id=\"1427\">(8)  في مكارم الأخلاق زيادة: <format class=\"ayah\" surah=\"3\" ayah=\"35\" toAyah=\"\">إِذْ قٰالَتِ اِمْرَأَتُ عِمْرٰانَ رَبِّ إِنِّي نَذَرْتُ لَكَ مٰا فِي بَطْنِي مُحَرَّراً فَتَقَبَّلْ مِنِّي إِنَّكَ أَنْتَ اَلسَّمِيعُ اَلْعَلِيمُ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"18\" /><format class=\"ayahAddress\" surah=\"3\" ayah=\"35\" toAyah=\"\" /></format>[سورة آل عمران 35:3] <format class=\"ayah\" surah=\"17\" ayah=\"82\" toAyah=\"\">وَ نُنَزِّلُ مِنَ اَلْقُرْآنِ مٰا هُوَ شِفٰاءٌ وَ رَحْمَةٌ لِلْمُؤْمِنِينَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"10\" /><format class=\"ayahAddress\" surah=\"17\" ayah=\"82\" toAyah=\"\" /></format>[سورة الإسراء 82:17]. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1428\" footnote-id=\"1428\">(9)  هذه الصلوات الشريفة سقطت من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1429\" footnote-id=\"1429\">(10)  رواه الطبرسي في مكارم الأخلاق: 3/383، بعد الحديث المتقدّم هكذا: و مثله: عن أبي عبد الله عليه السّلام قال: «يقرأ عليه...».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A28C8E4C-9DF4-4B33-A434-8FE3B9513095",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

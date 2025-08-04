@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 19,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166080,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1826\">24 - كتاب نوادر الطبّ‌، لمحمّد بن علي بن الحسين بن بابويه القمي <page number=\"19\"/> المشهور بالشيخ الصدوق (384 ه‍) صاحب الكتب الكثيرة المشهورة<lfootnote noteId=\"33\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166081,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1827\">25 - كتاب تدبير الصحّة، لأبي الصلاح الحلبي (447 ه‍) صاحب كتاب تقريب المعارف في الكلام و الكافي في الفقه<lfootnote noteId=\"34\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166082,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1828\">26 - كتاب تحفة العليل، للشيخ أبي الحسين سعيد بن هبة الله بن الحسن الراوندي<lfootnote noteId=\"35\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166083,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1829\">27 - كتاب علم الطبّ عن أهل البيت عليهم السّلام، للسيّد أبي محمّد زيد بن علي ابن الحسين الحسني<lfootnote noteId=\"36\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166084,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1830\">28 - كتاب خواصّ الفواكه مجهول المؤلّف<lfootnote noteId=\"37\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166085,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1831\">29 - كتاب الفصول التسعين في معالجات أمراض أهل الدين بأحاديث آل طاها و ياسين عليهم صلوات المصلّين، للميرزا محمّد شفيع بن صاحب أبواب الجنان الواعظ القزويني المولى رفيع الدين بن محمّد بن فتح الله (1089 ه‍)<lfootnote noteId=\"38\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166086,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1832\">30 - كتاب كشف الأخطار في طبّ الأئمة الأطهار عليهم السّلام، للسيد شمس الدين محمّد الحسيني الأحسائي<lfootnote noteId=\"39\">7</lfootnote>. </p>"
+        },
+        {
+          "paragraphId": 714166087,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1833\"><page number=\"20\"/> 31 - كتاب العافية الوافية في آداب الأطعمة و الأشربة و منافعها السنية، لأحمد بن عبد الرضا البصري، (1090 ه‍) و هو مطبوع.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714167988,
+          "text": "<footnote id=\"33\"><page number=\"19\"/><mnote>(1)</mnote> رجال النجاشي: 1049/389، فهرست الطوسي: 710/442، و انظر: رجال الطوسي: 6262/438 و 6275/439. </footnote>"
+        },
+        {
+          "footnoteId": 714167989,
+          "text": "<footnote id=\"34\"><mnote>(2)</mnote> تاريخ الإسلام للذهبي 144:30. </footnote>"
+        },
+        {
+          "footnoteId": 714167990,
+          "text": "<footnote id=\"35\"><mnote>(3)</mnote> روضات الجنات 8:4، و انظر: الذريعة 456:3. </footnote>"
+        },
+        {
+          "footnoteId": 714167991,
+          "text": "<footnote id=\"36\"><mnote>(4)</mnote> الفهرست لمنتجب الدين: 173/65. </footnote>"
+        },
+        {
+          "footnoteId": 714167992,
+          "text": "<footnote id=\"37\"><mnote>(5)</mnote> له نسخ، أقدمها في مكتبة السيّد المرعشي كتبت سنة 882 ه‍، و هذا أيضا سيطبع محققا مع ما قدّمته من الفوائد و النكات حول الكتاب. </footnote>"
+        },
+        {
+          "footnoteId": 714167993,
+          "text": "<footnote id=\"38\"><mnote>(6)</mnote> الذريعة 949/239:16. </footnote>"
+        },
+        {
+          "footnoteId": 714167994,
+          "text": "<footnote id=\"39\"><mnote>(7)</mnote> الذريعة 418/8:18.</footnote>"
+        }
+      ],
+      "pageValue": "19",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1826\" paragraph-id=\"1826\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo19\">19</span> المشهور بالشيخ الصدوق (384 ه‍) صاحب الكتب الكثيرة المشهورة<span><sup><a class=\"NewFn\" href=\"#footnote33\" title=\"(1)  رجال النجاشي: 1049/389، فهرست الطوسي: 710/442، و انظر: رجال الطوسي: 6262/438 و 6275/439. \">1</a></sup></span>.</p>\n  <p id=\"p1827\" paragraph-id=\"1827\" class=\" G\">25 - كتاب تدبير الصحّة، لأبي الصلاح الحلبي (447 ه‍) صاحب كتاب تقريب المعارف في الكلام و الكافي في الفقه<span><sup><a class=\"NewFn\" href=\"#footnote34\" title=\"(2)  تاريخ الإسلام للذهبي 144:30. \">2</a></sup></span>.</p>\n  <p id=\"p1828\" paragraph-id=\"1828\" class=\" G\">26 - كتاب تحفة العليل، للشيخ أبي الحسين سعيد بن هبة الله بن الحسن الراوندي<span><sup><a class=\"NewFn\" href=\"#footnote35\" title=\"(3)  روضات الجنات 8:4، و انظر: الذريعة 456:3. \">3</a></sup></span>.</p>\n  <p id=\"p1829\" paragraph-id=\"1829\" class=\" G\">27 - كتاب علم الطبّ عن أهل البيت عليهم السّلام، للسيّد أبي محمّد زيد بن علي ابن الحسين الحسني<span><sup><a class=\"NewFn\" href=\"#footnote36\" title=\"(4)  الفهرست لمنتجب الدين: 173/65. \">4</a></sup></span>.</p>\n  <p id=\"p1830\" paragraph-id=\"1830\" class=\" G\">28 - كتاب خواصّ الفواكه مجهول المؤلّف<span><sup><a class=\"NewFn\" href=\"#footnote37\" title=\"(5)  له نسخ، أقدمها في مكتبة السيّد المرعشي كتبت سنة 882 ه‍، و هذا أيضا سيطبع محققا مع ما قدّمته من الفوائد و النكات حول الكتاب. \">5</a></sup></span>.</p>\n  <p id=\"p1831\" paragraph-id=\"1831\" class=\" G\">29 - كتاب الفصول التسعين في معالجات أمراض أهل الدين بأحاديث آل طاها و ياسين عليهم صلوات المصلّين، للميرزا محمّد شفيع بن صاحب أبواب الجنان الواعظ القزويني المولى رفيع الدين بن محمّد بن فتح الله (1089 ه‍)<span><sup><a class=\"NewFn\" href=\"#footnote38\" title=\"(6)  الذريعة 949/239:16. \">6</a></sup></span>.</p>\n  <p id=\"p1832\" paragraph-id=\"1832\" class=\" G\">30 - كتاب كشف الأخطار في طبّ الأئمة الأطهار عليهم السّلام، للسيد شمس الدين محمّد الحسيني الأحسائي<span><sup><a class=\"NewFn\" href=\"#footnote39\" title=\"(7)  الذريعة 418/8:18.\">7</a></sup></span>. </p>\n  <p id=\"p1833\" paragraph-id=\"1833\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote33\" footnote-id=\"33\">(1) <page number=\"19\" /> رجال النجاشي: 1049/389، فهرست الطوسي: 710/442، و انظر: رجال الطوسي: 6262/438 و 6275/439. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote34\" footnote-id=\"34\">(2)  تاريخ الإسلام للذهبي 144:30. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote35\" footnote-id=\"35\">(3)  روضات الجنات 8:4، و انظر: الذريعة 456:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote36\" footnote-id=\"36\">(4)  الفهرست لمنتجب الدين: 173/65. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote37\" footnote-id=\"37\">(5)  له نسخ، أقدمها في مكتبة السيّد المرعشي كتبت سنة 882 ه‍، و هذا أيضا سيطبع محققا مع ما قدّمته من الفوائد و النكات حول الكتاب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote38\" footnote-id=\"38\">(6)  الذريعة 949/239:16. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote39\" footnote-id=\"39\">(7)  الذريعة 418/8:18.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F3BBAE71-7A88-4DD5-8D44-94154784C170",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

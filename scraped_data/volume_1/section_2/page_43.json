@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 43,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166672,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2277\"><page number=\"43\"/>[52] </p>"
+        },
+        {
+          "paragraphId": 714166673,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2278\"><format class=\"hadith\" who=\"6\" Id=\"52\" RevayatIndex=\"52\"><format class=\"sanadHadith\">محمّد بن الحسين، عن الحكم بن مسكين، قال: حدّثتني سعدة و منّة أختا محمّد بن أبي عمير، قالتا:</format> دخلنا على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> فقلنا: تعود المرأة أخاها في الله‌؟<lfootnote noteId=\"436\">1</lfootnote> قال: «نعم و تصافحه من وراء ثوب»<lfootnote noteId=\"437\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166674,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2279\">[53] </p>"
+        },
+        {
+          "paragraphId": 714166675,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2280\"><format class=\"hadith\" who=\"1,6\" Id=\"53\" RevayatIndex=\"53\"><format class=\"sanadHadith\">و قال عليه السّلام: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«مرض <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين صلوات الله عليه</format></format> فعاده ناس فقالوا له: كيف تجدك‌؟ فقال: بشرّ.</format></p>"
+        },
+        {
+          "paragraphId": 714166676,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2281\"><format class=\"hadith\" who=\"1,6\" Id=\"53\" RevayatIndex=\"53\">فقالوا: ما هذا كلام مثلك! فقال: إنّ الله تعالى يقول: <format class=\"ayah\" surah=\"21\" ayah=\"35\" toAyah=\"\">وَ نَبْلُوكُمْ بِالشَّرِّ وَ اَلْخَيْرِ فِتْنَةً‌<format class=\"ayahWord\" fromWord=\"5\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"21\" ayah=\"35\" toAyah=\"\"/></format><lfootnote noteId=\"438\">3</lfootnote> فالخير الصحّة و الغنى، و الشرّ المرض و الفقر»<lfootnote noteId=\"439\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166677,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2282\"><page number=\"44\"/>[54] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168489,
+          "text": "<footnote id=\"435\"><mnote>(5)</mnote> رواه الطبرسي في مكارم الأخلاق: 12/361، في عيادة المريض، فقال: و روي عن <page number=\"43\"/>النبي صلّى الله عليه و آله، و الطوسي نحوه في الأمالي: 3/632، قال: أخبرني جماعة عن أبي المفضّل، قال: حدّثنا الحسن بن محمّد بن علي بن شاذان بن حباب الأزدي الخلال بالكوفة، قال:<br/>حدّثنا الحسن بن أحمد بن عبد الله المزني الخلّال، قال: حدّثنا إسماعيل بن صبيح اليشكري، عن أبي خالد الواسطي، عن أبي هاشم الرمّاني، عن زاذان، عن سلمان رحمه الله قال: دخل عليّ رسول الله صلّى الله عليه و آله...<br/>و من العامّة نقله الطبراني في المعجم الكبير 240:6، بالإسناد عن أبي هاشم الرمّاني. </footnote>"
+        },
+        {
+          "footnoteId": 714168490,
+          "text": "<footnote id=\"436\"><mnote>(1)</mnote> قوله: «في الله» لم يرد في الكافي، و لذا قال الكاشاني في الوافي 847:22 و المجلسي في مرآة العقول 355:20: أراد بالأخ، الأخ في الدين، لا الأخ في النسب. </footnote>"
+        },
+        {
+          "footnoteId": 714168491,
+          "text": "<footnote id=\"437\"><mnote>(2)</mnote> رواه الكليني بتفاوت في الكافي 3/526:5، باب مصافحة النساء، عن علي بن إبراهيم، عن محمّد بن سالم، عن بعض أصحابه، عن الحكم بن مسكين، قال: حدثتني سعيدة و منّة أختا محمّد بن أبي عمير بيّاع السابري، و الطبرسي في مشكاة الأنوار: 203، عن سعيدة و أيمنة أختي محمّد بن أبي عمير. </footnote>"
+        },
+        {
+          "footnoteId": 714168492,
+          "text": "<footnote id=\"438\"><mnote>(3)</mnote> سورة الأنبياء 35:21. </footnote>"
+        },
+        {
+          "footnoteId": 714168493,
+          "text": "<footnote id=\"439\"><mnote>(4)</mnote> رواه ابن الأشعث في الجعفريات: 233، بالإسناد عن موسى بن جعفر عليه السّلام عن آبائه، عن علي بن أبي طالب عليهم السّلام، و الفضل الطبرسي في مجمع البيان 85:7، فقال: و روي عن <page number=\"44\"/>أبي عبد الله عليه السّلام أنّ أمير المؤمنين عليه السّلام مرض، و الراوندي في الدعوات: 469/168، عن الصادق عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "43",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2277\" paragraph-id=\"2277\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo43\">43</span>[52] </p>\n  <p id=\"p2278\" paragraph-id=\"2278\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن الحسين، عن الحكم بن مسكين، قال: حدّثتني سعدة و منّة أختا محمّد بن أبي عمير، قالتا:</span> دخلنا على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> فقلنا: تعود المرأة أخاها في الله‌؟<span><sup><a class=\"NewFn\" href=\"#footnote436\" title=\"(1)  قوله: «في الله» لم يرد في الكافي، و لذا قال الكاشاني في الوافي 847:22 و المجلسي في مرآة العقول 355:20: أراد بالأخ، الأخ في الدين، لا الأخ في النسب. \">1</a></sup></span> قال: «نعم و تصافحه من وراء ثوب»<span><sup><a class=\"NewFn\" href=\"#footnote437\" title=\"(2)  رواه الكليني بتفاوت في الكافي 3/526:5، باب مصافحة النساء، عن علي بن إبراهيم، عن محمّد بن سالم، عن بعض أصحابه، عن الحكم بن مسكين، قال: حدثتني سعيدة و منّة أختا محمّد بن أبي عمير بيّاع السابري، و الطبرسي في مشكاة الأنوار: 203، عن سعيدة و أيمنة أختي محمّد بن أبي عمير. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2279\" paragraph-id=\"2279\" class=\" G\">[53] </p>\n  <p id=\"p2280\" paragraph-id=\"2280\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال عليه السّلام: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«مرض <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين صلوات الله عليه</span></span> فعاده ناس فقالوا له: كيف تجدك‌؟ فقال: بشرّ.</span>\n  </p>\n  <p id=\"p2281\" paragraph-id=\"2281\" class=\" G\">\n    <span class=\"hadith\">فقالوا: ما هذا كلام مثلك! فقال: إنّ الله تعالى يقول: <span style=\"0\" class=\"ayah\" surah=\"21\" ayah=\"35\">وَ نَبْلُوكُمْ بِالشَّرِّ وَ اَلْخَيْرِ فِتْنَةً‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/21/35\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote438\" title=\"(3)  سورة الأنبياء 35:21. \">3</a></sup></span> فالخير الصحّة و الغنى، و الشرّ المرض و الفقر»<span><sup><a class=\"NewFn\" href=\"#footnote439\" title=\"(4)  رواه ابن الأشعث في الجعفريات: 233، بالإسناد عن موسى بن جعفر عليه السّلام عن آبائه، عن علي بن أبي طالب عليهم السّلام، و الفضل الطبرسي في مجمع البيان 85:7، فقال: و روي عن \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2282\" paragraph-id=\"2282\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote435\" footnote-id=\"435\"><page number=\"43\" />النبي صلّى الله عليه و آله، و الطوسي نحوه في الأمالي: 3/632، قال: أخبرني جماعة عن أبي المفضّل، قال: حدّثنا الحسن بن محمّد بن علي بن شاذان بن حباب الأزدي الخلال بالكوفة، قال:<br />حدّثنا الحسن بن أحمد بن عبد الله المزني الخلّال، قال: حدّثنا إسماعيل بن صبيح اليشكري، عن أبي خالد الواسطي، عن أبي هاشم الرمّاني، عن زاذان، عن سلمان رحمه الله قال: دخل عليّ رسول الله صلّى الله عليه و آله...<br />و من العامّة نقله الطبراني في المعجم الكبير 240:6، بالإسناد عن أبي هاشم الرمّاني. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote436\" footnote-id=\"436\">(1)  قوله: «في الله» لم يرد في الكافي، و لذا قال الكاشاني في الوافي 847:22 و المجلسي في مرآة العقول 355:20: أراد بالأخ، الأخ في الدين، لا الأخ في النسب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote437\" footnote-id=\"437\">(2)  رواه الكليني بتفاوت في الكافي 3/526:5، باب مصافحة النساء، عن علي بن إبراهيم، عن محمّد بن سالم، عن بعض أصحابه، عن الحكم بن مسكين، قال: حدثتني سعيدة و منّة أختا محمّد بن أبي عمير بيّاع السابري، و الطبرسي في مشكاة الأنوار: 203، عن سعيدة و أيمنة أختي محمّد بن أبي عمير. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote438\" footnote-id=\"438\">(3)  سورة الأنبياء 35:21. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote439\" footnote-id=\"439\">(4)  رواه ابن الأشعث في الجعفريات: 233، بالإسناد عن موسى بن جعفر عليه السّلام عن آبائه، عن علي بن أبي طالب عليهم السّلام، و الفضل الطبرسي في مجمع البيان 85:7، فقال: و روي عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "ED094187-0810-4E6A-BA5D-74E648CCBD0D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

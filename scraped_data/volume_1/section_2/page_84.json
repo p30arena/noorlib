@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 84,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166881,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2486\"><format class=\"hadith\" who=\"16\" Id=\"125\" RevayatIndex=\"125\"><format class=\"sanadHadith\">أبو عبد الله السيّاري، عن بعض رجاله يرفعه،</format> قال: تكتب هذه في ورقة، و يؤخذ خيط من صوف فيعقد من وسطه سبع عقد، من جانب ثلاث و من<lfootnote noteId=\"640\">6</lfootnote> جانب أربع، تقرأ في كلّ عقدة: <format class=\"ayah\" surah=\"37\" ayah=\"97\" toAyah=\"\">قٰالُوا اِبْنُوا لَهُ بُنْيٰاناً فَأَلْقُوهُ فِي <format class=\"ayahWord\" fromWord=\"1\" toWord=\"6\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"97\" toAyah=\"\"/></format><page number=\"84\"/><format class=\"ayah\" surah=\"37\" ayah=\"97\" toAyah=\"\">اَلْجَحِيمِ <format class=\"ayahWord\" fromWord=\"7\" toWord=\"7\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"97\" toAyah=\"\"/></format><lfootnote noteId=\"641\">1</lfootnote><format class=\"ayah\" surah=\"21\" ayah=\"70\" toAyah=\"71\">وَ أَرٰادُوا بِهِ كَيْداً فَجَعَلْنٰاهُمُ اَلْأَخْسَرِينَ * <format class=\"AyahSeprator\"/>وَ نَجَّيْنٰاهُ وَ لُوطاً إِلَى اَلْأَرْضِ اَلَّتِي بٰارَكْنٰا فِيهٰا لِلْعٰالَمِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"16\"/><format class=\"ayahAddress\" surah=\"21\" ayah=\"70\" toAyah=\"71\"/></format><lfootnote noteId=\"642\">2</lfootnote> و <format class=\"ayah\" surah=\"27\" ayah=\"8\" toAyah=\"\">نُودِيَ أَنْ بُورِكَ مَنْ فِي اَلنّٰارِ وَ مَنْ حَوْلَهٰا وَ سُبْحٰانَ اَللّٰهِ رَبِّ اَلْعٰالَمِينَ‌<format class=\"ayahWord\" fromWord=\"3\" toWord=\"16\"/><format class=\"ayahAddress\" surah=\"27\" ayah=\"8\" toAyah=\"\"/></format><lfootnote noteId=\"643\">3</lfootnote>، و تجعل في آخر الكتاب سبع خواتيم و تكتب: <format class=\"ayah\" surah=\"2\" ayah=\"137\" toAyah=\"\">فَسَيَكْفِيكَهُمُ اَللّٰهُ وَ هُوَ اَلسَّمِيعُ اَلْعَلِيمُ‌<format class=\"ayahWord\" fromWord=\"16\" toWord=\"21\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"137\" toAyah=\"\"/></format><lfootnote noteId=\"644\">4</lfootnote><lfootnote noteId=\"645\"> 5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166882,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2487\"><heading level=\"3\">دواء للحمّى بالسكّر و الماء البارد:</heading></p>"
+        },
+        {
+          "paragraphId": 714166883,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2488\">[128] </p>"
+        },
+        {
+          "paragraphId": 714166884,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2489\"><format class=\"hadith\" who=\"6\" Id=\"126\" RevayatIndex=\"126\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن يعقوب بن يزيد، عن ابن فضّال، عن إبراهيم بن مسلم الجلودي، عن أبي بكر الصنعاني، عن أبي يحيى المرادي، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«يا أبا يحيى، بأيّ شيء تداوون محمومكم»؟</format></p>"
+        },
+        {
+          "paragraphId": 714166885,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2490\"><format class=\"hadith\" who=\"6\" Id=\"126\" RevayatIndex=\"126\">قلت: بالشكاع<lfootnote noteId=\"646\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166886,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2491\"><format class=\"hadith\" who=\"6\" Id=\"126\" RevayatIndex=\"126\">قال: «فأين أنت عن الماء البارد و السكّر؟»<lfootnote noteId=\"647\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166887,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2492\"><page number=\"85\"/>[129] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168672,
+          "text": "<footnote id=\"641\"><page number=\"84\"/><mnote>(1)</mnote> سورة الصافّات 97:37. </footnote>"
+        },
+        {
+          "footnoteId": 714168673,
+          "text": "<footnote id=\"642\"><mnote>(2)</mnote> سورة الأنبياء 70:21-71. </footnote>"
+        },
+        {
+          "footnoteId": 714168674,
+          "text": "<footnote id=\"643\"><mnote>(3)</mnote> سورة النمل 8:27. </footnote>"
+        },
+        {
+          "footnoteId": 714168675,
+          "text": "<footnote id=\"644\"><mnote>(4)</mnote> سورة البقرة 137:2. </footnote>"
+        },
+        {
+          "footnoteId": 714168676,
+          "text": "<footnote id=\"645\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168677,
+          "text": "<footnote id=\"646\"><mnote>(6)</mnote> في النسخة: «و الشكاع» و يحتمل أن تكون: «بالهليلج و الشكاع» كما في الحديث الآتي برقم 131 و ما أثبتناه لضرورة السياق.<br/>الشّكاع: شجرة صغيرة ذات شوك، قال الأزهري: رأيته بالبادية و هو من أحرار البقول، و الشّكاع:، قيل: هو مثل الحلاوى لا يكاد يفرق بينهما، و زهرتها حمراء و منبتها مثل منبت الحلاوى، و لهما جميعا يابستين و رطبتين... قال: و اسمها بالفارسية جرحه. لسان العرب 185:8 «شكع». </footnote>"
+        },
+        {
+          "footnoteId": 714168678,
+          "text": "<footnote id=\"647\"><mnote>(7)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "84",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2486\" paragraph-id=\"2486\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo84\">84</span>\n      <span style=\"0\" class=\"ayah\" surah=\"37\" ayah=\"97\">اَلْجَحِيمِ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/37/97\"></a></span></span>\n      <span>\n        <sup>\n          <a class=\"NewFn\" href=\"#footnote641\" title=\"(1)  سورة الصافّات 97:37. \">1</a>\n        </sup>\n      </span>\n      <span style=\"0\" class=\"ayah\" surah=\"21\" ayah=\"70\">وَ أَرٰادُوا بِهِ كَيْداً فَجَعَلْنٰاهُمُ اَلْأَخْسَرِينَ * <span class=\"AyahSeprator\"></span>وَ نَجَّيْنٰاهُ وَ لُوطاً إِلَى اَلْأَرْضِ اَلَّتِي بٰارَكْنٰا فِيهٰا لِلْعٰالَمِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/21/70\"></a></span></span>\n      <span>\n        <sup>\n          <a class=\"NewFn\" href=\"#footnote642\" title=\"(2)  سورة الأنبياء 70:21-71. \">2</a>\n        </sup>\n      </span> و <span style=\"0\" class=\"ayah\" surah=\"27\" ayah=\"8\">نُودِيَ أَنْ بُورِكَ مَنْ فِي اَلنّٰارِ وَ مَنْ حَوْلَهٰا وَ سُبْحٰانَ اَللّٰهِ رَبِّ اَلْعٰالَمِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/27/8\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote643\" title=\"(3)  سورة النمل 8:27. \">3</a></sup></span>، و تجعل في آخر الكتاب سبع خواتيم و تكتب: <span style=\"0\" class=\"ayah\" surah=\"2\" ayah=\"137\">فَسَيَكْفِيكَهُمُ اَللّٰهُ وَ هُوَ اَلسَّمِيعُ اَلْعَلِيمُ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/2/137\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote644\" title=\"(4)  سورة البقرة 137:2. \">4</a></sup></span><span><sup><a class=\"NewFn\" href=\"#footnote645\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. \"> 5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2487\" paragraph-id=\"2487\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">دواء للحمّى بالسكّر و الماء البارد:</strong>\n  </p>\n  <p id=\"p2488\" paragraph-id=\"2488\" class=\" G\">[128] </p>\n  <p id=\"p2489\" paragraph-id=\"2489\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن يعقوب بن يزيد، عن ابن فضّال، عن إبراهيم بن مسلم الجلودي، عن أبي بكر الصنعاني، عن أبي يحيى المرادي، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«يا أبا يحيى، بأيّ شيء تداوون محمومكم»؟</span>\n  </p>\n  <p id=\"p2490\" paragraph-id=\"2490\" class=\" G\">\n    <span class=\"hadith\">قلت: بالشكاع<span><sup><a class=\"NewFn\" href=\"#footnote646\" title=\"(6)  في النسخة: «و الشكاع» و يحتمل أن تكون: «بالهليلج و الشكاع» كما في الحديث الآتي برقم 131 و ما أثبتناه لضرورة السياق.الشّكاع: شجرة صغيرة ذات شوك، قال الأزهري: رأيته بالبادية و هو من أحرار البقول، و الشّكاع:، قيل: هو مثل الحلاوى لا يكاد يفرق بينهما، و زهرتها حمراء و منبتها مثل منبت الحلاوى، و لهما جميعا يابستين و رطبتين... قال: و اسمها بالفارسية جرحه. لسان العرب 185:8 «شكع». \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2491\" paragraph-id=\"2491\" class=\" G\">\n    <span class=\"hadith\">قال: «فأين أنت عن الماء البارد و السكّر؟»<span><sup><a class=\"NewFn\" href=\"#footnote647\" title=\"(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p2492\" paragraph-id=\"2492\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote641\" footnote-id=\"641\">(1) <page number=\"84\" /> سورة الصافّات 97:37. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote642\" footnote-id=\"642\">(2)  سورة الأنبياء 70:21-71. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote643\" footnote-id=\"643\">(3)  سورة النمل 8:27. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote644\" footnote-id=\"644\">(4)  سورة البقرة 137:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote645\" footnote-id=\"645\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote646\" footnote-id=\"646\">(6)  في النسخة: «و الشكاع» و يحتمل أن تكون: «بالهليلج و الشكاع» كما في الحديث الآتي برقم 131 و ما أثبتناه لضرورة السياق.<br />الشّكاع: شجرة صغيرة ذات شوك، قال الأزهري: رأيته بالبادية و هو من أحرار البقول، و الشّكاع:، قيل: هو مثل الحلاوى لا يكاد يفرق بينهما، و زهرتها حمراء و منبتها مثل منبت الحلاوى، و لهما جميعا يابستين و رطبتين... قال: و اسمها بالفارسية جرحه. لسان العرب 185:8 «شكع». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote647\" footnote-id=\"647\">(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D363E2D8-4DA7-40C6-8AD5-3CEA99B31448",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

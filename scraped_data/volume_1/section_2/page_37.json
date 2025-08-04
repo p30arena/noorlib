@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 37,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166644,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2249\"><page number=\"37\"/>[41] </p>"
+        },
+        {
+          "paragraphId": 714166645,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2250\"><format class=\"hadith\" who=\"6\" Id=\"41\" RevayatIndex=\"41\"><format class=\"sanadHadith\">محمّد بن عيسى، عن الدهقان، عن درست، عن عبد الحميد عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال<lfootnote noteId=\"409\">1</lfootnote>: </format>«إذا صعد ملكا العبد المؤمن المريض إلى السماء قال الربّ تبارك و تعالى لهما: ما ذا كتبتما لعبدي في يومه‌؟ قال: فيقولان: ما لنا نكتب له الشكاية‌؟ قال: يقول الربّ تبارك و تعالى: ما أنصفتما<lfootnote noteId=\"410\">2</lfootnote> عبدي إذ حبسته في حبس من حبسي ثمّ أمنعه من الشكاية، اكتبا لعبدي ما كنتما تكتبان له من الخير في كلّ يوم و لا تكتبا عليه سوءا حتّى أطلقه<lfootnote noteId=\"411\">3</lfootnote> من حبسي»<lfootnote noteId=\"412\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166646,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2251\">[42] </p>"
+        },
+        {
+          "paragraphId": 714166647,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2252\"><format class=\"hadith\" who=\"4\" Id=\"42\" RevayatIndex=\"42\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"4\">علي بن الحسين عليهما السّلام</format></format> أنّه قال: </format>«ما من مؤمن نزل به بليّة فيصبر ثلاثا لا يشكو إلى أحد من عوّاده إلّا إلى ربّه إلّا كشف الله تعالى عنه»<lfootnote noteId=\"413\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166648,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2253\">[43] </p>"
+        },
+        {
+          "paragraphId": 714166649,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2254\"><format class=\"hadith\" who=\"6\" Id=\"43\" RevayatIndex=\"43\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«اتّقوا الله و اصبروا، فإنّه من لم يصبر أهلكه الجزع، و إنّما إهلاكه في الجزع أنّه إذا جزع لم يؤجر»<lfootnote noteId=\"414\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166650,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2255\"><page number=\"38\"/>[44] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168462,
+          "text": "<footnote id=\"408\"><mnote>(4)</mnote> رواه الصدوق في ثواب الأعمال: 193، فقال: ثواب المريض، حدّثني محمّد بن الحسن، قال: حدّثني محمّد بن يحيى، عن محمّد بن أحمد، عن سهل بن زياد، عن جعفر بن محمّد بن بشّار، عن عبد الله بن درست، و فيه: «مغفورا له» في الموردين، و مثله السبزواري في جامع الأخبار: 8/466، و الطبرسي في مكارم الأخلاق: 14/358، في ثواب المريض <page number=\"37\"/>عن أبي إبراهيم عليه السّلام، و الراوندي في الدعوات: 450/163، و الديلمي في إرشاد القلوب 43:1، و أعلام الدين: 398، كلّهم عن النبي صلّى الله عليه و آله. </footnote>"
+        },
+        {
+          "footnoteId": 714168463,
+          "text": "<footnote id=\"409\"><mnote>(1)</mnote> كلمة: «قال» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168464,
+          "text": "<footnote id=\"410\"><mnote>(2)</mnote> في المصدر: «ما أنصفت». </footnote>"
+        },
+        {
+          "footnoteId": 714168465,
+          "text": "<footnote id=\"411\"><mnote>(3)</mnote> في النسخة: «أطلقته» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168466,
+          "text": "<footnote id=\"412\"><mnote>(4)</mnote> رواه الكليني في الكافي 5/114:3، باب ثواب المريض، عن عدّة من أصحابنا، عن سهل بن زياد، عن ابن محبوب، عن عبد الحميد، و روى في الحديث الأوّل من الباب ما يؤيّد معناه. </footnote>"
+        },
+        {
+          "footnoteId": 714168467,
+          "text": "<footnote id=\"413\"><mnote>(5)</mnote> رواه الطبرسي في مشكاة الأنوار: 1601/481، عن علي بن الحسين عليهما السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168468,
+          "text": "<footnote id=\"414\"><mnote>(6)</mnote> رواه ابن همّام في التمحيص: 151/64، عن سيف بن عميرة، قال: قال أبو عبد الله عليه السّلام، و الرضي قريبا منه في نهج البلاغة: 189/502، و خصائص الأئمّة عليهم السّلام: 111، و الآمدي في غرر الحكم و درر الكلم: 550/602، و الواسطي في عيون الحكم و المواعظ: <page number=\"38\"/>7802/444، و الراوندي في الدعوات: 24/288، كلّهم عن أمير المؤمنين عليه السّلام: «من لم ينجحه الصبر أهلكه الجزع».<br/>و في التذكرة الحمدونية: 723/299 عن علي عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "37",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2249\" paragraph-id=\"2249\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo37\">37</span>[41] </p>\n  <p id=\"p2250\" paragraph-id=\"2250\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن عيسى، عن الدهقان، عن درست، عن عبد الحميد عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال<span><sup><a class=\"NewFn\" href=\"#footnote409\" title=\"(1)  كلمة: «قال» أثبتناها من المصدر. \">1</a></sup></span>: </span>«إذا صعد ملكا العبد المؤمن المريض إلى السماء قال الربّ تبارك و تعالى لهما: ما ذا كتبتما لعبدي في يومه‌؟ قال: فيقولان: ما لنا نكتب له الشكاية‌؟ قال: يقول الربّ تبارك و تعالى: ما أنصفتما<span><sup><a class=\"NewFn\" href=\"#footnote410\" title=\"(2)  في المصدر: «ما أنصفت». \">2</a></sup></span> عبدي إذ حبسته في حبس من حبسي ثمّ أمنعه من الشكاية، اكتبا لعبدي ما كنتما تكتبان له من الخير في كلّ يوم و لا تكتبا عليه سوءا حتّى أطلقه<span><sup><a class=\"NewFn\" href=\"#footnote411\" title=\"(3)  في النسخة: «أطلقته» و ما أثبتناه من المصدر. \">3</a></sup></span> من حبسي»<span><sup><a class=\"NewFn\" href=\"#footnote412\" title=\"(4)  رواه الكليني في الكافي 5/114:3، باب ثواب المريض، عن عدّة من أصحابنا، عن سهل بن زياد، عن ابن محبوب، عن عبد الحميد، و روى في الحديث الأوّل من الباب ما يؤيّد معناه. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2251\" paragraph-id=\"2251\" class=\" G\">[42] </p>\n  <p id=\"p2252\" paragraph-id=\"2252\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">علي بن الحسين عليهما السّلام</span></span> أنّه قال: </span>«ما من مؤمن نزل به بليّة فيصبر ثلاثا لا يشكو إلى أحد من عوّاده إلّا إلى ربّه إلّا كشف الله تعالى عنه»<span><sup><a class=\"NewFn\" href=\"#footnote413\" title=\"(5)  رواه الطبرسي في مشكاة الأنوار: 1601/481، عن علي بن الحسين عليهما السّلام. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2253\" paragraph-id=\"2253\" class=\" G\">[43] </p>\n  <p id=\"p2254\" paragraph-id=\"2254\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«اتّقوا الله و اصبروا، فإنّه من لم يصبر أهلكه الجزع، و إنّما إهلاكه في الجزع أنّه إذا جزع لم يؤجر»<span><sup><a class=\"NewFn\" href=\"#footnote414\" title=\"(6)  رواه ابن همّام في التمحيص: 151/64، عن سيف بن عميرة، قال: قال أبو عبد الله عليه السّلام، و الرضي قريبا منه في نهج البلاغة: 189/502، و خصائص الأئمّة عليهم السّلام: 111، و الآمدي في غرر الحكم و درر الكلم: 550/602، و الواسطي في عيون الحكم و المواعظ: \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2255\" paragraph-id=\"2255\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote408\" footnote-id=\"408\"><page number=\"37\" />عن أبي إبراهيم عليه السّلام، و الراوندي في الدعوات: 450/163، و الديلمي في إرشاد القلوب 43:1، و أعلام الدين: 398، كلّهم عن النبي صلّى الله عليه و آله. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote409\" footnote-id=\"409\">(1)  كلمة: «قال» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote410\" footnote-id=\"410\">(2)  في المصدر: «ما أنصفت». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote411\" footnote-id=\"411\">(3)  في النسخة: «أطلقته» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote412\" footnote-id=\"412\">(4)  رواه الكليني في الكافي 5/114:3، باب ثواب المريض، عن عدّة من أصحابنا، عن سهل بن زياد، عن ابن محبوب، عن عبد الحميد، و روى في الحديث الأوّل من الباب ما يؤيّد معناه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote413\" footnote-id=\"413\">(5)  رواه الطبرسي في مشكاة الأنوار: 1601/481، عن علي بن الحسين عليهما السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote414\" footnote-id=\"414\">(6)  رواه ابن همّام في التمحيص: 151/64، عن سيف بن عميرة، قال: قال أبو عبد الله عليه السّلام، و الرضي قريبا منه في نهج البلاغة: 189/502، و خصائص الأئمّة عليهم السّلام: 111، و الآمدي في غرر الحكم و درر الكلم: 550/602، و الواسطي في عيون الحكم و المواعظ: </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "AE609501-F830-45D1-91B2-6A5E725D824A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

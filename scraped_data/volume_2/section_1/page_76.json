@@ -1,0 +1,83 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 76,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170025,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1280\"><format class=\"hadith\" who=\"32,14,5|9\" Id=\"111\" RevayatIndex=\"632\"><page number=\"76\"/> فلمّا اقتصّ الله تعالى على نبيّه <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">محمّد صلّى الله عليه و آله</format></format> ذلك سأله تعليم ذلك الدواء فعلّمه إيّاه، ثمّ خرج من قرن إلى قرن حتّى أخذته من مستحقّه، و قد علّمتكم أمرا عظيما كبيرا فاحتفظوا به و لا تمنعوه أحدا تعلمون أنّه مؤمن.</format></p>"
+        },
+        {
+          "paragraphId": 714170026,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1281\"><format class=\"hadith\" who=\"32,14,5|9\" Id=\"111\" RevayatIndex=\"632\">و هو أيضا نافع للمرأة التي لا تحمل و قد كانت تحمل فخبث عليها رحمها، فتمسك في قطنة و تستدخله، ثمّ تستنظف بالماء إذا أرادها زوجها، ثمّ تمسك معها قطنة فيها مسك أو زنبق قدر ما يحضرها». </format></p>"
+        },
+        {
+          "paragraphId": 714170027,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1282\"><heading level=\"3\">و هذه أخلاطه:</heading></p>"
+        },
+        {
+          "paragraphId": 714170028,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1283\"><format class=\"hadith\" who=\"\" Id=\"111\" RevayatIndex=\"632\">«تأخذ جزءا من ثوم فتقشّره، ثمّ تشدخه<lfootnote noteId=\"287\">1</lfootnote> و لا تنعم دقّه، ثمّ تضعه في طنجير أو قدر برام<lfootnote noteId=\"288\">2</lfootnote> ما يحضرك<lfootnote noteId=\"289\">3</lfootnote>، ثمّ توقد تحته بنار ليّنة، ثمّ تصبّ عليه من سمن البقر قدر ما يغمره، ثمّ تطبخه بنار ليّنة حتّى يشرب الدهن كلّه، ثمّ تسقيه مرّة بعد مرّة حتّى يقف فلا يشرب شيئا، ثمّ تصبّ عليه اللبن هكذا مثل ما صنعته بالسمن، و ليكن اللبن لبن بقرة<lfootnote noteId=\"290\">4</lfootnote> حديثة الولادة كما سقيت السمن حتّى يقف و لا يقبل شيئا و لا يشرب<lfootnote noteId=\"291\">5</lfootnote>، ثمّ تعمد إلى عسل الشهد فتعصره من شهده، ثمّ تغليه على النار على حدة قدر ما لا يبقى فيه من غير الشهد شيء، ثمّ تصبّه عليه كما صنعت بالسمن و اللبن، ثمّ تعمد إلى وزن عشرة دراهم شونيز فتدقّه دقّا شديدا». </format></p>"
+        },
+        {
+          "paragraphId": 714170029,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1284\"><format class=\"hadith\" who=\"\" Id=\"111\" RevayatIndex=\"632\"><page number=\"77\"/> - <format class=\"sanadHadith\">في نسخة الحسن بن المنذر</format>: «و لا تنخله»، <format class=\"sanadHadith\">و في نسخة أخرى: </format>«و تنخله» -</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171071,
+          "text": "<footnote id=\"287\"><page number=\"76\"/><mnote>(1)</mnote> كسر الشيء الأجوف كالرأس و نحوه. كتاب العين 166:4 «شدخ». </footnote>"
+        },
+        {
+          "footnoteId": 714171072,
+          "text": "<footnote id=\"288\"><mnote>(2)</mnote> البرمة: القدر من الحجر. مجمع البحرين 16:6 «برم». </footnote>"
+        },
+        {
+          "footnoteId": 714171073,
+          "text": "<footnote id=\"289\"><mnote>(3)</mnote> في المصدر: «في طنجير أو في قدر على قدر ما يحضرك». </footnote>"
+        },
+        {
+          "footnoteId": 714171074,
+          "text": "<footnote id=\"290\"><mnote>(4)</mnote> في النسخة: «البقر» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171075,
+          "text": "<footnote id=\"291\"><mnote>(5)</mnote> النسخة مخرومة و قوله: «يقبل شيئا و لا يشرب» أثبتناه من المصدر.</footnote>"
+        }
+      ],
+      "pageValue": "76",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1280\" paragraph-id=\"1280\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo76\">76</span> فلمّا اقتصّ الله تعالى على نبيّه <span class=\"Y\"><span class=\"maasoom\">محمّد صلّى الله عليه و آله</span></span> ذلك سأله تعليم ذلك الدواء فعلّمه إيّاه، ثمّ خرج من قرن إلى قرن حتّى أخذته من مستحقّه، و قد علّمتكم أمرا عظيما كبيرا فاحتفظوا به و لا تمنعوه أحدا تعلمون أنّه مؤمن.</span>\n  </p>\n  <p id=\"p1281\" paragraph-id=\"1281\" class=\" G\">\n    <span class=\"hadith\">و هو أيضا نافع للمرأة التي لا تحمل و قد كانت تحمل فخبث عليها رحمها، فتمسك في قطنة و تستدخله، ثمّ تستنظف بالماء إذا أرادها زوجها، ثمّ تمسك معها قطنة فيها مسك أو زنبق قدر ما يحضرها». </span>\n  </p>\n  <p id=\"p1282\" paragraph-id=\"1282\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">و هذه أخلاطه:</strong>\n  </p>\n  <p id=\"p1283\" paragraph-id=\"1283\" class=\" G\">\n    <span class=\"hadith\">«تأخذ جزءا من ثوم فتقشّره، ثمّ تشدخه<span><sup><a class=\"NewFn\" href=\"#footnote287\" title=\"(1)  كسر الشيء الأجوف كالرأس و نحوه. كتاب العين 166:4 «شدخ». \">1</a></sup></span> و لا تنعم دقّه، ثمّ تضعه في طنجير أو قدر برام<span><sup><a class=\"NewFn\" href=\"#footnote288\" title=\"(2)  البرمة: القدر من الحجر. مجمع البحرين 16:6 «برم». \">2</a></sup></span> ما يحضرك<span><sup><a class=\"NewFn\" href=\"#footnote289\" title=\"(3)  في المصدر: «في طنجير أو في قدر على قدر ما يحضرك». \">3</a></sup></span>، ثمّ توقد تحته بنار ليّنة، ثمّ تصبّ عليه من سمن البقر قدر ما يغمره، ثمّ تطبخه بنار ليّنة حتّى يشرب الدهن كلّه، ثمّ تسقيه مرّة بعد مرّة حتّى يقف فلا يشرب شيئا، ثمّ تصبّ عليه اللبن هكذا مثل ما صنعته بالسمن، و ليكن اللبن لبن بقرة<span><sup><a class=\"NewFn\" href=\"#footnote290\" title=\"(4)  في النسخة: «البقر» و ما أثبتناه من المصدر. \">4</a></sup></span> حديثة الولادة كما سقيت السمن حتّى يقف و لا يقبل شيئا و لا يشرب<span><sup><a class=\"NewFn\" href=\"#footnote291\" title=\"(5)  النسخة مخرومة و قوله: «يقبل شيئا و لا يشرب» أثبتناه من المصدر.\">5</a></sup></span>، ثمّ تعمد إلى عسل الشهد فتعصره من شهده، ثمّ تغليه على النار على حدة قدر ما لا يبقى فيه من غير الشهد شيء، ثمّ تصبّه عليه كما صنعت بالسمن و اللبن، ثمّ تعمد إلى وزن عشرة دراهم شونيز فتدقّه دقّا شديدا». </span>\n  </p>\n  <p id=\"p1284\" paragraph-id=\"1284\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote287\" footnote-id=\"287\">(1) <page number=\"76\" /> كسر الشيء الأجوف كالرأس و نحوه. كتاب العين 166:4 «شدخ». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote288\" footnote-id=\"288\">(2)  البرمة: القدر من الحجر. مجمع البحرين 16:6 «برم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote289\" footnote-id=\"289\">(3)  في المصدر: «في طنجير أو في قدر على قدر ما يحضرك». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote290\" footnote-id=\"290\">(4)  في النسخة: «البقر» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote291\" footnote-id=\"291\">(5)  النسخة مخرومة و قوله: «يقبل شيئا و لا يشرب» أثبتناه من المصدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "60EA1B23-61C0-4B47-B39D-9EEBFF96D9BF",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

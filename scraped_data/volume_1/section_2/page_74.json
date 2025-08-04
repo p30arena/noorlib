@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 74,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166833,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2438\"><format class=\"hadith\" who=\"7\" Id=\"112\" RevayatIndex=\"112\"><format class=\"sanadHadith\">ذكر أبو زكريّا الحضرمي:</format> أنّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبا الحسن عليه السّلام</format></format> كتب له هذا الكتاب، و كان يحمّ حمّى الربع فأمره أن يكتب على يده اليمنى: «بسم الله جبرئيل»، و على يده اليسرى: «بسم الله ميكائيل»، و على رجله اليمنى: «بسم الله إسرافيل»، و على <page number=\"74\"/>رجله اليسرى: «بسم الله <format class=\"ayah\" surah=\"76\" ayah=\"13\" toAyah=\"\">لاٰ يَرَوْنَ فِيهٰا شَمْساً وَ لاٰ زَمْهَرِيراً<format class=\"ayahWord\" fromWord=\"5\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"76\" ayah=\"13\" toAyah=\"\"/></format><lfootnote noteId=\"586\">1</lfootnote>»، و بين كتفيه:</format></p>"
+        },
+        {
+          "paragraphId": 714166834,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2439\"><format class=\"hadith\" who=\"7\" Id=\"112\" RevayatIndex=\"112\">«بسم العزيز الجبّار»<lfootnote noteId=\"587\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166835,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2440\"><heading level=\"3\">و للربع أيضا:</heading></p>"
+        },
+        {
+          "paragraphId": 714166836,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2441\">[113]<format class=\"B\"><format class=\"RevayatIndex\" index=\"112\"/> يأخذ أفيون و قاقلّة أبيض<lfootnote noteId=\"588\">3</lfootnote> و دار الفلفل و جندبادستر<lfootnote noteId=\"589\">4</lfootnote> مكد<lfootnote noteId=\"590\">5</lfootnote>مثقال فيدقّه دقّا ناعما، ثمّ يجمعه بالماء، ثمّ يجعله سبع بنادق، و يسقى صاحب الربع قبل يوم حمّاه بيوم بندقة، و يوم الثاني بندقتين، و يوم الثالث أربع بنادق فإنّه يبرأ بإذن الله تعالى</format><lfootnote noteId=\"591\">6</lfootnote>. </p>"
+        },
+        {
+          "paragraphId": 714166837,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2442\"><page number=\"75\"/><heading level=\"3\">عوذة الربع:</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168617,
+          "text": "<footnote id=\"586\"><page number=\"74\"/><mnote>(1)</mnote> سورة الإنسان 13:76. </footnote>"
+        },
+        {
+          "footnoteId": 714168618,
+          "text": "<footnote id=\"587\"><mnote>(2)</mnote> رواه عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 51، فقال: حدّثنا أبو زكريّا يحيى بن أبي بكر، عن الحضرمي، و الطبرسي في مكارم الأخلاق: 2/402، للحمى الربع، ذكر أبو زكريّا الحضرمي، و الراوندي في الدعوات: 566/208، عن يحيى بن بكر الحضرمي. </footnote>"
+        },
+        {
+          "footnoteId": 714168619,
+          "text": "<footnote id=\"588\"><mnote>(3)</mnote> قال الهروي: قاقلة: هي من الحبوب، و هي نوعان صغار و كبار، و يقال لها: الهيل أيضا، حارّة يابسة. بحر الجواهر: 302. </footnote>"
+        },
+        {
+          "footnoteId": 714168620,
+          "text": "<footnote id=\"589\"><mnote>(4)</mnote> جندبادستر أو جندبيدستر أو جندباستر، قال النويري: الجند بيدستر: و هو السّمّور، و يسمّى: كلب الماء، و لا يوجد إلّا ببلاد القفجاق و ما يليها، و هو على هيئة الثعلب، أحمر اللّون. نهاية الإرب 318:10.<br/>و قال المجلسي: ذهب جماعة إلى نجاسة كلب الماء، و ذهب الأكثر إلى الطهارة و لعلّه أقوى، و يتفرّع عليه طهارة الدواء المشهور بجند بيدستر و نجاسته إذ الظاهر أنّه خصية كلب الماء، و الأقوى عندي حرمته و طهارته، و الاجتناب منه أحوط: بحار الأنوار 121:77، و انظر: الأمان من أخطار الأسفار و الأزمان: 179. </footnote>"
+        },
+        {
+          "footnoteId": 714168621,
+          "text": "<footnote id=\"590\"><mnote>(5)</mnote> هذا اصطلاح بمعنى: من كلّ واحد منها. </footnote>"
+        },
+        {
+          "footnoteId": 714168622,
+          "text": "<footnote id=\"591\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و انظر ما شابه هذه الوصفة في بعض الأدوية فيما <page number=\"75\"/>وصف للدغة العقرب في طبّ الأئمّة عليهم السّلام: 89، و لبرد المعدة و خفقان الفؤاد في 90. </footnote>"
+        }
+      ],
+      "pageValue": "74",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2438\" paragraph-id=\"2438\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo74\">74</span>رجله اليسرى: «بسم الله <span style=\"0\" class=\"ayah\" surah=\"76\" ayah=\"13\">لاٰ يَرَوْنَ فِيهٰا شَمْساً وَ لاٰ زَمْهَرِيراً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/76/13\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote586\" title=\"(1)  سورة الإنسان 13:76. \">1</a></sup></span>»، و بين كتفيه:</span>\n  </p>\n  <p id=\"p2439\" paragraph-id=\"2439\" class=\" G\">\n    <span class=\"hadith\">«بسم العزيز الجبّار»<span><sup><a class=\"NewFn\" href=\"#footnote587\" title=\"(2)  رواه عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 51، فقال: حدّثنا أبو زكريّا يحيى بن أبي بكر، عن الحضرمي، و الطبرسي في مكارم الأخلاق: 2/402، للحمى الربع، ذكر أبو زكريّا الحضرمي، و الراوندي في الدعوات: 566/208، عن يحيى بن بكر الحضرمي. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2440\" paragraph-id=\"2440\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">و للربع أيضا:</strong>\n  </p>\n  <p id=\"p2441\" paragraph-id=\"2441\" class=\" G\">[113]<span class=\"B\"><span class=\"RevayatIndex\"></span> يأخذ أفيون و قاقلّة أبيض<span><sup><a class=\"NewFn\" href=\"#footnote588\" title=\"(3)  قال الهروي: قاقلة: هي من الحبوب، و هي نوعان صغار و كبار، و يقال لها: الهيل أيضا، حارّة يابسة. بحر الجواهر: 302. \">3</a></sup></span> و دار الفلفل و جندبادستر<span><sup><a class=\"NewFn\" href=\"#footnote589\" title=\"(4)  جندبادستر أو جندبيدستر أو جندباستر، قال النويري: الجند بيدستر: و هو السّمّور، و يسمّى: كلب الماء، و لا يوجد إلّا ببلاد القفجاق و ما يليها، و هو على هيئة الثعلب، أحمر اللّون. نهاية الإرب 318:10.و قال المجلسي: ذهب جماعة إلى نجاسة كلب الماء، و ذهب الأكثر إلى الطهارة و لعلّه أقوى، و يتفرّع عليه طهارة الدواء المشهور بجند بيدستر و نجاسته إذ الظاهر أنّه خصية كلب الماء، و الأقوى عندي حرمته و طهارته، و الاجتناب منه أحوط: بحار الأنوار 121:77، و انظر: الأمان من أخطار الأسفار و الأزمان: 179. \">4</a></sup></span> مكد<span><sup><a class=\"NewFn\" href=\"#footnote590\" title=\"(5)  هذا اصطلاح بمعنى: من كلّ واحد منها. \">5</a></sup></span>مثقال فيدقّه دقّا ناعما، ثمّ يجمعه بالماء، ثمّ يجعله سبع بنادق، و يسقى صاحب الربع قبل يوم حمّاه بيوم بندقة، و يوم الثاني بندقتين، و يوم الثالث أربع بنادق فإنّه يبرأ بإذن الله تعالى</span><span><sup><a class=\"NewFn\" href=\"#footnote591\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا، و انظر ما شابه هذه الوصفة في بعض الأدوية فيما \">6</a></sup></span>. </p>\n  <p id=\"p2442\" paragraph-id=\"2442\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote586\" footnote-id=\"586\">(1) <page number=\"74\" /> سورة الإنسان 13:76. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote587\" footnote-id=\"587\">(2)  رواه عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 51، فقال: حدّثنا أبو زكريّا يحيى بن أبي بكر، عن الحضرمي، و الطبرسي في مكارم الأخلاق: 2/402، للحمى الربع، ذكر أبو زكريّا الحضرمي، و الراوندي في الدعوات: 566/208، عن يحيى بن بكر الحضرمي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote588\" footnote-id=\"588\">(3)  قال الهروي: قاقلة: هي من الحبوب، و هي نوعان صغار و كبار، و يقال لها: الهيل أيضا، حارّة يابسة. بحر الجواهر: 302. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote589\" footnote-id=\"589\">(4)  جندبادستر أو جندبيدستر أو جندباستر، قال النويري: الجند بيدستر: و هو السّمّور، و يسمّى: كلب الماء، و لا يوجد إلّا ببلاد القفجاق و ما يليها، و هو على هيئة الثعلب، أحمر اللّون. نهاية الإرب 318:10.<br />و قال المجلسي: ذهب جماعة إلى نجاسة كلب الماء، و ذهب الأكثر إلى الطهارة و لعلّه أقوى، و يتفرّع عليه طهارة الدواء المشهور بجند بيدستر و نجاسته إذ الظاهر أنّه خصية كلب الماء، و الأقوى عندي حرمته و طهارته، و الاجتناب منه أحوط: بحار الأنوار 121:77، و انظر: الأمان من أخطار الأسفار و الأزمان: 179. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote590\" footnote-id=\"590\">(5)  هذا اصطلاح بمعنى: من كلّ واحد منها. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote591\" footnote-id=\"591\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا، و انظر ما شابه هذه الوصفة في بعض الأدوية فيما </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "97495930-C7FF-494A-BACD-5EC393869E32",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

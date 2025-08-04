@@ -1,0 +1,85 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 15,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166417,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2163\"><format class=\"hadith\" who=\"5\" Id=\"9\" RevayatIndex=\"9\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن الحسن بن محبوب، عن محمّد بن النعمان البجلي، عن سلّام بن المستنير<lfootnote noteId=\"296\">7</lfootnote> قال:</format> سألت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبا <page number=\"15\"/> جعفر عليه السّلام</format></format> عن<lfootnote noteId=\"297\">1</lfootnote> قوله تعالى: <format class=\"ayah\" surah=\"22\" ayah=\"5\" toAyah=\"\">مُخَلَّقَةٍ وَ غَيْرِ مُخَلَّقَةٍ‌<format class=\"ayahWord\" fromWord=\"23\" toWord=\"26\"/><format class=\"ayahAddress\" surah=\"22\" ayah=\"5\" toAyah=\"\"/></format><lfootnote noteId=\"298\">2</lfootnote> فقال: «المخلّقة الذرّ الذين خلقهم الله تعالى في صلب <format class=\"E\" Number=\"18\">آدم عليه السّلام</format> و أخذ عليهم الميثاق ثمّ أخرجهم من أصلاب الرجال و أرحام النساء، و هم الذين يخرجون إلى الدنيا<lfootnote noteId=\"299\">3</lfootnote> حتّى يسألوا عن الميثاق، أمّا قوله: <format class=\"ayah\" surah=\"22\" ayah=\"5\" toAyah=\"\">وَ غَيْرِ مُخَلَّقَةٍ‌<format class=\"ayahWord\" fromWord=\"24\" toWord=\"26\"/><format class=\"ayahAddress\" surah=\"22\" ayah=\"5\" toAyah=\"\"/></format><lfootnote noteId=\"300\">4</lfootnote> فهو كلّ نسمة لم يخلقهم الله تعالى في صلب <format class=\"E\" Number=\"18\">آدم عليه السّلام</format> حين خلق الذرّ و أخذ عليهم الميثاق<lfootnote noteId=\"301\">5</lfootnote> و هو النطفة من العزل و السقط قبل أن ينفخ فيه روح الحياة<lfootnote noteId=\"302\">6</lfootnote> و البقاء، فهؤلاء الذين قال الله تعالى: <format class=\"ayah\" surah=\"22\" ayah=\"5\" toAyah=\"\">وَ غَيْرِ مُخَلَّقَةٍ‌<format class=\"ayahWord\" fromWord=\"24\" toWord=\"26\"/><format class=\"ayahAddress\" surah=\"22\" ayah=\"5\" toAyah=\"\"/></format>، و هم الذين لا يسألون عن الميثاق، و إنّما هم خلق بدا لله فيهم<lfootnote noteId=\"303\">7</lfootnote>، فهم في الأصلاب و الأرحام<lfootnote noteId=\"304\">8</lfootnote>»<lfootnote noteId=\"305\">9</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166418,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2164\"><page number=\"16\"/>[10] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168350,
+          "text": "<footnote id=\"296\"><mnote>(7)</mnote> في النسخة: «محمّد بن النعمان البجلي، عن صفوان بن يحيي بن محمّد بن سلّار المستنير»<page number=\"15\"/>و ما أثبتناه من الكافي. و من المعلوم أنّ محمّد بن علي بن محمّد بن النعمان أبا جعفر الأحول المشهور ب‍: «مؤمن الطاق» مقدّم على صفوان بن يحيى المتوفّى 210 ه‍ في الطبقة، فلا يروي عنه، بل عكسه موجود في الروايات. انظر: تهذيب الأحكام 360/165:3. فلعلّ الصحيح: «عن محمّد بن النعمان البجلي، و عن صفوان بن يحيى، عن سلّام بن المستنير» و لكن رواية صفوان عن سلّام لم تثبت. </footnote>"
+        },
+        {
+          "footnoteId": 714168351,
+          "text": "<footnote id=\"297\"><mnote>(1)</mnote> في النسخة: «من» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168352,
+          "text": "<footnote id=\"298\"><mnote>(2)</mnote> سورة الحج 5:22. </footnote>"
+        },
+        {
+          "footnoteId": 714168353,
+          "text": "<footnote id=\"299\"><mnote>(3)</mnote> من قوله: «و هم الذين...» إلى هنا أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168354,
+          "text": "<footnote id=\"300\"><mnote>(4)</mnote> قوله: «و غير مخلّقة» أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168355,
+          "text": "<footnote id=\"301\"><mnote>(5)</mnote> كلمة: «الميثاق» أثبتناها من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168356,
+          "text": "<footnote id=\"302\"><mnote>(6)</mnote> في الكافي: «ينفخ فيه الروح و الحياة و البقاء». </footnote>"
+        },
+        {
+          "footnoteId": 714168357,
+          "text": "<footnote id=\"303\"><mnote>(7)</mnote> في النسخة: «هم خلق من الله فيهم» و ما أثبتناه من مختصر البصائر. </footnote>"
+        },
+        {
+          "footnoteId": 714168358,
+          "text": "<footnote id=\"304\"><mnote>(8)</mnote> قال المجلسي: على تأويله عليه السّلام يمكن أن يكون الخلق بمعنى التقدير أي: ما قدّر في الذرّ أن ينفخ فيه الروح و ما لم يقدّر. مرآة العقول 21:21، و انظر: بحار الأنوار 343:57. </footnote>"
+        },
+        {
+          "footnoteId": 714168359,
+          "text": "<footnote id=\"305\"><mnote>(9)</mnote> رواه إلى قوله عليه السّلام «روح الحياة» الكليني بتفاوت في الكافي 1/12:6، باب بدء خلق الإنسان و تقلّبه في بطن امّه، عن محمّد بن يحيى، عن أحمد بن محمّد، و علي بن إبراهيم، <page number=\"16\"/>عن أبيه جميعا، عن الحسن بن محبوب، و الحسن بن سليمان الحلّي بتمامه بتفاوت في مختصر بصائر الدرجات: 45/414، من أحاديث الذرّ، فقال: من كتاب المشيخة للحسن بن محبوب، عن محمّد بن النعمان مؤمن الطاق، عن سلّام، عن أبي جعفر عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "15",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2163\" paragraph-id=\"2163\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"Y\">\n        <span class=\"maasoom\">\n          <span class=\"GPA0 bookPage PageNo15\">15</span> جعفر عليه السّلام</span>\n      </span> عن<span><sup><a class=\"NewFn\" href=\"#footnote297\" title=\"(1)  في النسخة: «من» و ما أثبتناه من الكافي. \">1</a></sup></span> قوله تعالى: <span style=\"0\" class=\"ayah\" surah=\"22\" ayah=\"5\">مُخَلَّقَةٍ وَ غَيْرِ مُخَلَّقَةٍ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/22/5\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote298\" title=\"(2)  سورة الحج 5:22. \">2</a></sup></span> فقال: «المخلّقة الذرّ الذين خلقهم الله تعالى في صلب <span class=\"E\">آدم عليه السّلام</span> و أخذ عليهم الميثاق ثمّ أخرجهم من أصلاب الرجال و أرحام النساء، و هم الذين يخرجون إلى الدنيا<span><sup><a class=\"NewFn\" href=\"#footnote299\" title=\"(3)  من قوله: «و هم الذين...» إلى هنا أثبتناه من الكافي. \">3</a></sup></span> حتّى يسألوا عن الميثاق، أمّا قوله: <span style=\"0\" class=\"ayah\" surah=\"22\" ayah=\"5\">وَ غَيْرِ مُخَلَّقَةٍ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/22/5\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote300\" title=\"(4)  قوله: «و غير مخلّقة» أثبتناه من الكافي. \">4</a></sup></span> فهو كلّ نسمة لم يخلقهم الله تعالى في صلب <span class=\"E\">آدم عليه السّلام</span> حين خلق الذرّ و أخذ عليهم الميثاق<span><sup><a class=\"NewFn\" href=\"#footnote301\" title=\"(5)  كلمة: «الميثاق» أثبتناها من الكافي. \">5</a></sup></span> و هو النطفة من العزل و السقط قبل أن ينفخ فيه روح الحياة<span><sup><a class=\"NewFn\" href=\"#footnote302\" title=\"(6)  في الكافي: «ينفخ فيه الروح و الحياة و البقاء». \">6</a></sup></span> و البقاء، فهؤلاء الذين قال الله تعالى: <span style=\"0\" class=\"ayah\" surah=\"22\" ayah=\"5\">وَ غَيْرِ مُخَلَّقَةٍ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/22/5\"></a></span></span>، و هم الذين لا يسألون عن الميثاق، و إنّما هم خلق بدا لله فيهم<span><sup><a class=\"NewFn\" href=\"#footnote303\" title=\"(7)  في النسخة: «هم خلق من الله فيهم» و ما أثبتناه من مختصر البصائر. \">7</a></sup></span>، فهم في الأصلاب و الأرحام<span><sup><a class=\"NewFn\" href=\"#footnote304\" title=\"(8)  قال المجلسي: على تأويله عليه السّلام يمكن أن يكون الخلق بمعنى التقدير أي: ما قدّر في الذرّ أن ينفخ فيه الروح و ما لم يقدّر. مرآة العقول 21:21، و انظر: بحار الأنوار 343:57. \">8</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote305\" title=\"(9)  رواه إلى قوله عليه السّلام «روح الحياة» الكليني بتفاوت في الكافي 1/12:6، باب بدء خلق الإنسان و تقلّبه في بطن امّه، عن محمّد بن يحيى، عن أحمد بن محمّد، و علي بن إبراهيم، \">9</a></sup></span>.</span>\n  </p>\n  <p id=\"p2164\" paragraph-id=\"2164\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote296\" footnote-id=\"296\"><page number=\"15\" />و ما أثبتناه من الكافي. و من المعلوم أنّ محمّد بن علي بن محمّد بن النعمان أبا جعفر الأحول المشهور ب‍: «مؤمن الطاق» مقدّم على صفوان بن يحيى المتوفّى 210 ه‍ في الطبقة، فلا يروي عنه، بل عكسه موجود في الروايات. انظر: تهذيب الأحكام 360/165:3. فلعلّ الصحيح: «عن محمّد بن النعمان البجلي، و عن صفوان بن يحيى، عن سلّام بن المستنير» و لكن رواية صفوان عن سلّام لم تثبت. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote297\" footnote-id=\"297\">(1)  في النسخة: «من» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote298\" footnote-id=\"298\">(2)  سورة الحج 5:22. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote299\" footnote-id=\"299\">(3)  من قوله: «و هم الذين...» إلى هنا أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote300\" footnote-id=\"300\">(4)  قوله: «و غير مخلّقة» أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote301\" footnote-id=\"301\">(5)  كلمة: «الميثاق» أثبتناها من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote302\" footnote-id=\"302\">(6)  في الكافي: «ينفخ فيه الروح و الحياة و البقاء». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote303\" footnote-id=\"303\">(7)  في النسخة: «هم خلق من الله فيهم» و ما أثبتناه من مختصر البصائر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote304\" footnote-id=\"304\">(8)  قال المجلسي: على تأويله عليه السّلام يمكن أن يكون الخلق بمعنى التقدير أي: ما قدّر في الذرّ أن ينفخ فيه الروح و ما لم يقدّر. مرآة العقول 21:21، و انظر: بحار الأنوار 343:57. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote305\" footnote-id=\"305\">(9)  رواه إلى قوله عليه السّلام «روح الحياة» الكليني بتفاوت في الكافي 1/12:6، باب بدء خلق الإنسان و تقلّبه في بطن امّه، عن محمّد بن يحيى، عن أحمد بن محمّد، و علي بن إبراهيم، </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4DB2E620-F5C0-43B9-A794-AEF69525555C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

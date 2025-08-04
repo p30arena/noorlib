@@ -1,0 +1,67 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 141,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170282,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1537\"><format class=\"hadith\" who=\"6\" Id=\"189\" RevayatIndex=\"710\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى و السيّاري جميعا، عن الحسن بن علي<lfootnote noteId=\"564\">4</lfootnote> و غيره، عن عبد الله بن سنان، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال<lfootnote noteId=\"565\">5</lfootnote>: </format>«إذا عسر على المرأة ولادتها تكتب هذه الآيات، ثمّ تغسلها بماء و تسقى منه<lfootnote noteId=\"566\">6</lfootnote> المرأة، و تنضح على فرجها منه<lfootnote noteId=\"567\">7</lfootnote>: <format class=\"ayah\" surah=\"79\" ayah=\"46\" toAyah=\"\">كَأَنَّهُمْ يَوْمَ يَرَوْنَهٰا لَمْ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"79\" ayah=\"46\" toAyah=\"\"/></format><page number=\"141\"/><format class=\"ayah\" surah=\"79\" ayah=\"46\" toAyah=\"\">يَلْبَثُوا إِلاّٰ عَشِيَّةً أَوْ ضُحٰاهٰا <format class=\"ayahWord\" fromWord=\"5\" toWord=\"9\"/><format class=\"ayahAddress\" surah=\"79\" ayah=\"46\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"46\" ayah=\"35\" toAyah=\"\">كَأَنَّهُمْ يَوْمَ يَرَوْنَ مٰا يُوعَدُونَ لَمْ يَلْبَثُوا إِلاّٰ سٰاعَةً مِنْ نَهٰارٍ بَلاٰغٌ فَهَلْ يُهْلَكُ إِلاَّ اَلْقَوْمُ اَلْفٰاسِقُونَ <format class=\"ayahWord\" fromWord=\"12\" toWord=\"28\"/><format class=\"ayahAddress\" surah=\"46\" ayah=\"35\" toAyah=\"\"/></format><lfootnote noteId=\"568\">1</lfootnote><format class=\"ayah\" surah=\"12\" ayah=\"111\" toAyah=\"\">لَقَدْ كٰانَ فِي قَصَصِهِمْ عِبْرَةٌ لِأُولِي اَلْأَلْبٰابِ مٰا كٰانَ حَدِيثاً يُفْتَرىٰ وَ لٰكِنْ تَصْدِيقَ اَلَّذِي بَيْنَ يَدَيْهِ وَ تَفْصِيلَ كُلِّ شَيْ‌ءٍ وَ هُدىً وَ رَحْمَةً لِقَوْمٍ يُؤْمِنُونَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"27\"/><format class=\"ayahAddress\" surah=\"12\" ayah=\"111\" toAyah=\"\"/></format><lfootnote noteId=\"569\">2</lfootnote>»<lfootnote noteId=\"570\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170283,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1538\">[192] </p>"
+        },
+        {
+          "paragraphId": 714170284,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1539\"><format class=\"hadith\" who=\"16\" Id=\"190\" RevayatIndex=\"711\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن أحمد بن محمّد بن عيسى، و العبيدي جميعا، عن موسى بن القاسم، يرفعه<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format>، قال:</format> كنّا نكتب في قرطاس و لا نربطه <format class=\"ayah\" surah=\"21\" ayah=\"30\" toAyah=\"\">أَ وَ لَمْ يَرَ اَلَّذِينَ كَفَرُوا أَنَّ اَلسَّمٰاوٰاتِ وَ اَلْأَرْضَ كٰانَتٰا رَتْقاً فَفَتَقْنٰاهُمٰا وَ جَعَلْنٰا مِنَ اَلْمٰاءِ كُلَّ شَيْ‌ءٍ حَيٍّ أَ فَلاٰ يُؤْمِنُونَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"23\"/><format class=\"ayahAddress\" surah=\"21\" ayah=\"30\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"36\" ayah=\"37\" toAyah=\"\">وَ آيَةٌ لَهُمُ اَللَّيْلُ نَسْلَخُ مِنْهُ اَلنَّهٰارَ فَإِذٰا هُمْ مُظْلِمُونَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"36\" ayah=\"37\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"36\" ayah=\"51\" toAyah=\"\">وَ نُفِخَ فِي اَلصُّورِ فَإِذٰا هُمْ مِنَ اَلْأَجْدٰاثِ إِلىٰ رَبِّهِمْ يَنْسِلُونَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"36\" ayah=\"51\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"79\" ayah=\"46\" toAyah=\"\">كَأَنَّهُمْ يَوْمَ يَرَوْنَهٰا لَمْ يَلْبَثُوا إِلاّٰ عَشِيَّةً أَوْ ضُحٰاهٰا <format class=\"ayahWord\" fromWord=\"1\" toWord=\"9\"/><format class=\"ayahAddress\" surah=\"79\" ayah=\"46\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"46\" ayah=\"35\" toAyah=\"\">كَأَنَّهُمْ يَوْمَ يَرَوْنَ مٰا يُوعَدُونَ لَمْ يَلْبَثُوا إِلاّٰ سٰاعَةً مِنْ نَهٰارٍ بَلاٰغٌ فَهَلْ يُهْلَكُ إِلاَّ اَلْقَوْمُ <format class=\"ayahWord\" fromWord=\"12\" toWord=\"27\"/><format class=\"ayahAddress\" surah=\"46\" ayah=\"35\" toAyah=\"\"/></format><page number=\"142\"/><format class=\"ayah\" surah=\"46\" ayah=\"35\" toAyah=\"\">اَلْفٰاسِقُونَ‌<format class=\"ayahWord\" fromWord=\"28\" toWord=\"28\"/><format class=\"ayahAddress\" surah=\"46\" ayah=\"35\" toAyah=\"\"/></format><lfootnote noteId=\"571\">1</lfootnote> يعلّق على وسطها، فإذا وضعت يقطع و لا يترك؛ خفّفت ثقلها<lfootnote noteId=\"572\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171364,
+          "text": "<footnote id=\"567\"><mnote>(7)</mnote> في طبّ الأئمّة عليهم السّلام: «تكتب لها هذه الآيات في إناء نظيف بمسك و زعفران، ثمّ يغسل <page number=\"141\"/>بماء البئر و تسقى منه المرأة، و تنضح بطنها و فرجها فإنّها تلد من ساعتها، يكتب». </footnote>"
+        },
+        {
+          "footnoteId": 714171365,
+          "text": "<footnote id=\"568\"><mnote>(1)</mnote> الآية الثانية أثبتناها من طبّ الأئمّة عليهم السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171366,
+          "text": "<footnote id=\"569\"><mnote>(2)</mnote> الآية الأولى من سورة النازعات 46:79، و الثانية من سورة الأحقاف 35:46، و الثالثة من سورة يوسف 111:12. </footnote>"
+        },
+        {
+          "footnoteId": 714171367,
+          "text": "<footnote id=\"570\"><mnote>(3)</mnote> رواه ابنا بسطام بتفاوت في طبّ الأئمّة عليهم السّلام: 95، عوذة لعسر الولادة، عن عبد الوهّاب بن مهدي، قال: حدّثني محمّد بن عيسى، عن ابن همّام، عن محمّد بن سعيد، عن أبي حمزة، عن أبي جعفر عليه السّلام، و روى نحوه ابن إدريس الحلّي في مستطرفات السرائر: 40/160، ممّا استطرفه من كتاب المشيخة، تصنيف الحسن بن محبوب السرّاد صاحب الرضا عليه السّلام، عن صالح بن رزين، عن شهاب، عن أبي عبد الله عليه السّلام، و انظر:<br/>مكارم الأخلاق: 1/380، لعسر الولادة، و 1/394، دعاء لعسر الولادة.<br/>و من أهل الخلاف من روى نحوه عن ابن عبّاس، فلاحظه في: عيون الأخبار 120:4، المصنّف 434:5، تاريخ جرجان: 229، تفسير الثعلبي 28:9، كنز العمّال 64:10. </footnote>"
+        }
+      ],
+      "pageValue": "141",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1537\" paragraph-id=\"1537\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo141\">141</span>\n      <span style=\"0\" class=\"ayah\" surah=\"79\" ayah=\"46\">يَلْبَثُوا إِلاّٰ عَشِيَّةً أَوْ ضُحٰاهٰا <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/79/46\"></a></span></span>\n      <span style=\"0\" class=\"ayah\" surah=\"46\" ayah=\"35\">كَأَنَّهُمْ يَوْمَ يَرَوْنَ مٰا يُوعَدُونَ لَمْ يَلْبَثُوا إِلاّٰ سٰاعَةً مِنْ نَهٰارٍ بَلاٰغٌ فَهَلْ يُهْلَكُ إِلاَّ اَلْقَوْمُ اَلْفٰاسِقُونَ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/46/35\"></a></span></span>\n      <span>\n        <sup>\n          <a class=\"NewFn\" href=\"#footnote568\" title=\"(1)  الآية الثانية أثبتناها من طبّ الأئمّة عليهم السّلام. \">1</a>\n        </sup>\n      </span>\n      <span style=\"0\" class=\"ayah\" surah=\"12\" ayah=\"111\">لَقَدْ كٰانَ فِي قَصَصِهِمْ عِبْرَةٌ لِأُولِي اَلْأَلْبٰابِ مٰا كٰانَ حَدِيثاً يُفْتَرىٰ وَ لٰكِنْ تَصْدِيقَ اَلَّذِي بَيْنَ يَدَيْهِ وَ تَفْصِيلَ كُلِّ شَيْ‌ءٍ وَ هُدىً وَ رَحْمَةً لِقَوْمٍ يُؤْمِنُونَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/12/111\"></a></span></span>\n      <span>\n        <sup>\n          <a class=\"NewFn\" href=\"#footnote569\" title=\"(2)  الآية الأولى من سورة النازعات 46:79، و الثانية من سورة الأحقاف 35:46، و الثالثة من سورة يوسف 111:12. \">2</a>\n        </sup>\n      </span>»<span><sup><a class=\"NewFn\" href=\"#footnote570\" title=\"(3)  رواه ابنا بسطام بتفاوت في طبّ الأئمّة عليهم السّلام: 95، عوذة لعسر الولادة، عن عبد الوهّاب بن مهدي، قال: حدّثني محمّد بن عيسى، عن ابن همّام، عن محمّد بن سعيد، عن أبي حمزة، عن أبي جعفر عليه السّلام، و روى نحوه ابن إدريس الحلّي في مستطرفات السرائر: 40/160، ممّا استطرفه من كتاب المشيخة، تصنيف الحسن بن محبوب السرّاد صاحب الرضا عليه السّلام، عن صالح بن رزين، عن شهاب، عن أبي عبد الله عليه السّلام، و انظر:مكارم الأخلاق: 1/380، لعسر الولادة، و 1/394، دعاء لعسر الولادة.و من أهل الخلاف من روى نحوه عن ابن عبّاس، فلاحظه في: عيون الأخبار 120:4، المصنّف 434:5، تاريخ جرجان: 229، تفسير الثعلبي 28:9، كنز العمّال 64:10. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1538\" paragraph-id=\"1538\" class=\" G\">[192] </p>\n  <p id=\"p1539\" paragraph-id=\"1539\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن أحمد بن محمّد بن عيسى، و العبيدي جميعا، عن موسى بن القاسم، يرفعه<span class=\"Y\"><span class=\"maasoom\"></span></span>، قال:</span> كنّا نكتب في قرطاس و لا نربطه <span style=\"0\" class=\"ayah\" surah=\"21\" ayah=\"30\">أَ وَ لَمْ يَرَ اَلَّذِينَ كَفَرُوا أَنَّ اَلسَّمٰاوٰاتِ وَ اَلْأَرْضَ كٰانَتٰا رَتْقاً فَفَتَقْنٰاهُمٰا وَ جَعَلْنٰا مِنَ اَلْمٰاءِ كُلَّ شَيْ‌ءٍ حَيٍّ أَ فَلاٰ يُؤْمِنُونَ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/21/30\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"36\" ayah=\"37\">وَ آيَةٌ لَهُمُ اَللَّيْلُ نَسْلَخُ مِنْهُ اَلنَّهٰارَ فَإِذٰا هُمْ مُظْلِمُونَ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/36/37\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"36\" ayah=\"51\">وَ نُفِخَ فِي اَلصُّورِ فَإِذٰا هُمْ مِنَ اَلْأَجْدٰاثِ إِلىٰ رَبِّهِمْ يَنْسِلُونَ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/36/51\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"79\" ayah=\"46\">كَأَنَّهُمْ يَوْمَ يَرَوْنَهٰا لَمْ يَلْبَثُوا إِلاّٰ عَشِيَّةً أَوْ ضُحٰاهٰا <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/79/46\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"46\" ayah=\"35\">كَأَنَّهُمْ يَوْمَ يَرَوْنَ مٰا يُوعَدُونَ لَمْ يَلْبَثُوا إِلاّٰ سٰاعَةً مِنْ نَهٰارٍ بَلاٰغٌ فَهَلْ يُهْلَكُ إِلاَّ اَلْقَوْمُ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/46/35\"></a></span></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote567\" footnote-id=\"567\"><page number=\"141\" />بماء البئر و تسقى منه المرأة، و تنضح بطنها و فرجها فإنّها تلد من ساعتها، يكتب». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote568\" footnote-id=\"568\">(1)  الآية الثانية أثبتناها من طبّ الأئمّة عليهم السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote569\" footnote-id=\"569\">(2)  الآية الأولى من سورة النازعات 46:79، و الثانية من سورة الأحقاف 35:46، و الثالثة من سورة يوسف 111:12. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote570\" footnote-id=\"570\">(3)  رواه ابنا بسطام بتفاوت في طبّ الأئمّة عليهم السّلام: 95، عوذة لعسر الولادة، عن عبد الوهّاب بن مهدي، قال: حدّثني محمّد بن عيسى، عن ابن همّام، عن محمّد بن سعيد، عن أبي حمزة، عن أبي جعفر عليه السّلام، و روى نحوه ابن إدريس الحلّي في مستطرفات السرائر: 40/160، ممّا استطرفه من كتاب المشيخة، تصنيف الحسن بن محبوب السرّاد صاحب الرضا عليه السّلام، عن صالح بن رزين، عن شهاب، عن أبي عبد الله عليه السّلام، و انظر:<br />مكارم الأخلاق: 1/380، لعسر الولادة، و 1/394، دعاء لعسر الولادة.<br />و من أهل الخلاف من روى نحوه عن ابن عبّاس، فلاحظه في: عيون الأخبار 120:4، المصنّف 434:5، تاريخ جرجان: 229، تفسير الثعلبي 28:9، كنز العمّال 64:10. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "6622C1AD-22A4-4E93-B46B-ADB718CAA80D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

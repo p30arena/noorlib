@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 301,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167852,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3598\"><page number=\"301\"/><heading level=\"2\">[باب] في دواء الفالج </heading></p>"
+        },
+        {
+          "paragraphId": 714167853,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3599\">[497] </p>"
+        },
+        {
+          "paragraphId": 714167854,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3600\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\"><format class=\"sanadHadith\">روى يوسف بن إبراهيم قال:</format> قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">لموسى عليه السّلام</format></format>: إنّ عندنا ببغداد رجل من مواليك ابتلي بالفالج و قد أعيى المتطبّبون أمره.</format></p>"
+        },
+        {
+          "paragraphId": 714167855,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3601\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">فقال لي: «صف لي ابتداء علّته».</format></p>"
+        },
+        {
+          "paragraphId": 714167856,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3602\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">قلت: ذكر أنّه أكل لحم بقر سكباج<lfootnote noteId=\"1657\">1</lfootnote>، و أكل عند منامه رمّانتين، و جامع من أوّل الليل.</format></p>"
+        },
+        {
+          "paragraphId": 714167857,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3603\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">فقال: «خلط صاحبك على نفسه و أرجو أن يسوق الله إليه العافيه، اذهب فاسقه كلّ يوم ربع رطل دهن الجوز و الحبّة الخضراء<lfootnote noteId=\"1658\">2</lfootnote> أو دهن الخروع<lfootnote noteId=\"1659\">3</lfootnote> من كلّ واحد جزءا سواء».</format></p>"
+        },
+        {
+          "paragraphId": 714167858,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3604\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">فقلت: ربع أيّ رطل‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714167859,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3605\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\">قال: «برطلكم العراقي». </format></p>"
+        },
+        {
+          "paragraphId": 714167860,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3606\"><format class=\"hadith\" who=\"7\" Id=\"488\" RevayatIndex=\"488\"><page number=\"302\"/> قلت: على أيّ ماء أسقيه‌؟</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169612,
+          "text": "<footnote id=\"1657\"><page number=\"301\"/><mnote>(1)</mnote> السكباج بكسر السين: طعام معروف يصنع من خلّ و زعفران و لحم. مجمع البحرين 310:2 «سكبج». و قال الهروي: هو الغذاء الذي فيه لحم و خلّ مع الأبازير الحارّة و البقول المناسبة لكلّ مزاج. بحر الجواهر: 212. </footnote>"
+        },
+        {
+          "footnoteId": 714169613,
+          "text": "<footnote id=\"1658\"><mnote>(2)</mnote> في النسخة: «حبّة الخضراء»، قال الهروي: هي ثمرة شجرة البطم، فارسيها: كسبور. بحر الجواهر: 129.<br/>و السّويداء: حبّة الشّونيز، قال ابن الأعرابي: الصواب الشّينيز. قال: كذلك تقول العرب. و قال بعضهم: عنى به الحبّة الخضراء؛ لأنّ العرب تسمّي الأسود أخضر و الأخضر أسود. لسان العرب 227:3 «سود». </footnote>"
+        },
+        {
+          "footnoteId": 714169614,
+          "text": "<footnote id=\"1659\"><mnote>(3)</mnote> الخروع: و هي شجرة تحمل حبّا كأنّه بيض العصافير يسمّى سمسما هنديا. كتاب العين 117:1 «خرع».</footnote>"
+        }
+      ],
+      "pageValue": "301",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3598\" paragraph-id=\"3598\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo301\">301</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] في دواء الفالج </strong>\n  </p>\n  <p id=\"p3599\" paragraph-id=\"3599\" class=\" G\">[497] </p>\n  <p id=\"p3600\" paragraph-id=\"3600\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى يوسف بن إبراهيم قال:</span> قلت <span class=\"Y\"><span class=\"maasoom\">لموسى عليه السّلام</span></span>: إنّ عندنا ببغداد رجل من مواليك ابتلي بالفالج و قد أعيى المتطبّبون أمره.</span>\n  </p>\n  <p id=\"p3601\" paragraph-id=\"3601\" class=\" G\">\n    <span class=\"hadith\">فقال لي: «صف لي ابتداء علّته».</span>\n  </p>\n  <p id=\"p3602\" paragraph-id=\"3602\" class=\" G\">\n    <span class=\"hadith\">قلت: ذكر أنّه أكل لحم بقر سكباج<span><sup><a class=\"NewFn\" href=\"#footnote1657\" title=\"(1)  السكباج بكسر السين: طعام معروف يصنع من خلّ و زعفران و لحم. مجمع البحرين 310:2 «سكبج». و قال الهروي: هو الغذاء الذي فيه لحم و خلّ مع الأبازير الحارّة و البقول المناسبة لكلّ مزاج. بحر الجواهر: 212. \">1</a></sup></span>، و أكل عند منامه رمّانتين، و جامع من أوّل الليل.</span>\n  </p>\n  <p id=\"p3603\" paragraph-id=\"3603\" class=\" G\">\n    <span class=\"hadith\">فقال: «خلط صاحبك على نفسه و أرجو أن يسوق الله إليه العافيه، اذهب فاسقه كلّ يوم ربع رطل دهن الجوز و الحبّة الخضراء<span><sup><a class=\"NewFn\" href=\"#footnote1658\" title=\"(2)  في النسخة: «حبّة الخضراء»، قال الهروي: هي ثمرة شجرة البطم، فارسيها: كسبور. بحر الجواهر: 129.و السّويداء: حبّة الشّونيز، قال ابن الأعرابي: الصواب الشّينيز. قال: كذلك تقول العرب. و قال بعضهم: عنى به الحبّة الخضراء؛ لأنّ العرب تسمّي الأسود أخضر و الأخضر أسود. لسان العرب 227:3 «سود». \">2</a></sup></span> أو دهن الخروع<span><sup><a class=\"NewFn\" href=\"#footnote1659\" title=\"(3)  الخروع: و هي شجرة تحمل حبّا كأنّه بيض العصافير يسمّى سمسما هنديا. كتاب العين 117:1 «خرع».\">3</a></sup></span> من كلّ واحد جزءا سواء».</span>\n  </p>\n  <p id=\"p3604\" paragraph-id=\"3604\" class=\" G\">\n    <span class=\"hadith\">فقلت: ربع أيّ رطل‌؟</span>\n  </p>\n  <p id=\"p3605\" paragraph-id=\"3605\" class=\" G\">\n    <span class=\"hadith\">قال: «برطلكم العراقي». </span>\n  </p>\n  <p id=\"p3606\" paragraph-id=\"3606\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1657\" footnote-id=\"1657\">(1) <page number=\"301\" /> السكباج بكسر السين: طعام معروف يصنع من خلّ و زعفران و لحم. مجمع البحرين 310:2 «سكبج». و قال الهروي: هو الغذاء الذي فيه لحم و خلّ مع الأبازير الحارّة و البقول المناسبة لكلّ مزاج. بحر الجواهر: 212. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1658\" footnote-id=\"1658\">(2)  في النسخة: «حبّة الخضراء»، قال الهروي: هي ثمرة شجرة البطم، فارسيها: كسبور. بحر الجواهر: 129.<br />و السّويداء: حبّة الشّونيز، قال ابن الأعرابي: الصواب الشّينيز. قال: كذلك تقول العرب. و قال بعضهم: عنى به الحبّة الخضراء؛ لأنّ العرب تسمّي الأسود أخضر و الأخضر أسود. لسان العرب 227:3 «سود». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1659\" footnote-id=\"1659\">(3)  الخروع: و هي شجرة تحمل حبّا كأنّه بيض العصافير يسمّى سمسما هنديا. كتاب العين 117:1 «خرع».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C7DD6AAF-695F-4D45-96F6-534CCA08526F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

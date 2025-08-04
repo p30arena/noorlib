@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 237,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167497,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3243\"><page number=\"237\"/>[382] </p>"
+        },
+        {
+          "paragraphId": 714167498,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3244\"><format class=\"hadith\" who=\"6\" Id=\"379\" RevayatIndex=\"379\"><format class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن<lfootnote noteId=\"1321\">1</lfootnote>، عن أحمد بن الحسن<lfootnote noteId=\"1322\">2</lfootnote>، عن أحمد بن زيد اللؤلؤي، عن ابن بنت إلياس، عمّن رواه، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«الصعتر يجعل للمعدة خملا كخمل القطيفة<lfootnote noteId=\"1323\">3</lfootnote>»<lfootnote noteId=\"1324\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167499,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3245\"><heading level=\"2\">[باب] في الربو و النفس </heading></p>"
+        },
+        {
+          "paragraphId": 714167500,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3246\">[383] </p>"
+        },
+        {
+          "paragraphId": 714167501,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3247\"><format class=\"hadith\" who=\"5\" Id=\"380\" RevayatIndex=\"380\"><format class=\"sanadHadith\">روى يوسف بن محمّد الزيان<lfootnote noteId=\"1325\">5</lfootnote>، قال: دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام </format></format>و قد أخذني الربو و النفس.</format></format></p>"
+        },
+        {
+          "paragraphId": 714167502,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3248\"><format class=\"hadith\" who=\"5\" Id=\"380\" RevayatIndex=\"380\"><format class=\"sanadHadith\">فقال لي: </format>«ما هذا الضعف‌؟» قلت: هو ما ترى.</format></p>"
+        },
+        {
+          "paragraphId": 714167503,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3249\"><format class=\"hadith\" who=\"5\" Id=\"380\" RevayatIndex=\"380\"><page number=\"238\"/>قال: «أين أنت عمّا أصفه لك‌؟» قلت: مرني بما شئت.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169063,
+          "text": "<footnote id=\"1320\"><mnote>(3)</mnote> رواه الكليني في الكافي 3/344:6، باب الباقلّى و اللوبيا، عن عدّة من أصحابنا، عن <page number=\"237\"/>أحمد بن أبي عبد الله، عن بعض أصحابه، عن صالح بن عقبة، قال: سمعت أبا عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 4/183، باب في الباقلّى، عن الإمام الرضا عليه السّلام، و قال: «كلوا...». </footnote>"
+        },
+        {
+          "footnoteId": 714169064,
+          "text": "<footnote id=\"1321\"><mnote>(1)</mnote> و هو ابن فضال. انظر: المحاسن 378:2. </footnote>"
+        },
+        {
+          "footnoteId": 714169065,
+          "text": "<footnote id=\"1322\"><mnote>(2)</mnote> و هو أخو علي بن الحسن بن فضال، الذي روى عن أخيه كثيرا. </footnote>"
+        },
+        {
+          "footnoteId": 714169066,
+          "text": "<footnote id=\"1323\"><mnote>(3)</mnote> الخمل: هدب القطيفة و نحوها مما ينسج و تفضل له فضول. لسان العرب 221:11 «خمل»، و يقال له بالفارسية: «ريشه» و «پرز». </footnote>"
+        },
+        {
+          "footnoteId": 714169067,
+          "text": "<footnote id=\"1324\"><mnote>(4)</mnote> رواه البرقي بتفاوت يسير في المحاسن 1/594:2، باب الصعتر، عن أبي يوسف، عن زياد بن مروان القندي، عن أبي الحسن الأوّل عليه السّلام قال: «كان دواء أمير المؤمنين عليه السّلام الصعتر، و كان يقول: إنّه يصيّر في المعدة خملا كخمل القطيفة» و روي: «أنّ الصعتر يدبغ المعدة»، و روى الكليني في الكافي 1/375:6، باب السعتر، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن زياد القندي، عن أبي الحسن الأوّل عليه السّلام قال: «كان دواء أمير المؤمنين عليه السّلام» مثل المحاسن، و روى البرقي في المحاسن 1/516:2، باب الصعتر، روي «أنّ الصعتر يدبغ المعدة»، و في حديث آخر: «أنّ الصعتر ينبت زئبر المعدة». </footnote>"
+        },
+        {
+          "footnoteId": 714169068,
+          "text": "<footnote id=\"1325\"><mnote>(5)</mnote> كذا في النسخة، و لعلّه هو يوسف بن محمّد بن زياد. </footnote>"
+        }
+      ],
+      "pageValue": "237",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3243\" paragraph-id=\"3243\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo237\">237</span>[382] </p>\n  <p id=\"p3244\" paragraph-id=\"3244\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن<span><sup><a class=\"NewFn\" href=\"#footnote1321\" title=\"(1)  و هو ابن فضال. انظر: المحاسن 378:2. \">1</a></sup></span>، عن أحمد بن الحسن<span><sup><a class=\"NewFn\" href=\"#footnote1322\" title=\"(2)  و هو أخو علي بن الحسن بن فضال، الذي روى عن أخيه كثيرا. \">2</a></sup></span>، عن أحمد بن زيد اللؤلؤي، عن ابن بنت إلياس، عمّن رواه، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«الصعتر يجعل للمعدة خملا كخمل القطيفة<span><sup><a class=\"NewFn\" href=\"#footnote1323\" title=\"(3)  الخمل: هدب القطيفة و نحوها مما ينسج و تفضل له فضول. لسان العرب 221:11 «خمل»، و يقال له بالفارسية: «ريشه» و «پرز». \">3</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1324\" title=\"(4)  رواه البرقي بتفاوت يسير في المحاسن 1/594:2، باب الصعتر، عن أبي يوسف، عن زياد بن مروان القندي، عن أبي الحسن الأوّل عليه السّلام قال: «كان دواء أمير المؤمنين عليه السّلام الصعتر، و كان يقول: إنّه يصيّر في المعدة خملا كخمل القطيفة» و روي: «أنّ الصعتر يدبغ المعدة»، و روى الكليني في الكافي 1/375:6، باب السعتر، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن زياد القندي، عن أبي الحسن الأوّل عليه السّلام قال: «كان دواء أمير المؤمنين عليه السّلام» مثل المحاسن، و روى البرقي في المحاسن 1/516:2، باب الصعتر، روي «أنّ الصعتر يدبغ المعدة»، و في حديث آخر: «أنّ الصعتر ينبت زئبر المعدة». \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3245\" paragraph-id=\"3245\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الربو و النفس </strong>\n  </p>\n  <p id=\"p3246\" paragraph-id=\"3246\" class=\" G\">[383] </p>\n  <p id=\"p3247\" paragraph-id=\"3247\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى يوسف بن محمّد الزيان<span><sup><a class=\"NewFn\" href=\"#footnote1325\" title=\"(5)  كذا في النسخة، و لعلّه هو يوسف بن محمّد بن زياد. \">5</a></sup></span>، قال: دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام </span></span>و قد أخذني الربو و النفس.</span>\n    </span>\n  </p>\n  <p id=\"p3248\" paragraph-id=\"3248\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فقال لي: </span>«ما هذا الضعف‌؟» قلت: هو ما ترى.</span>\n  </p>\n  <p id=\"p3249\" paragraph-id=\"3249\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1320\" footnote-id=\"1320\"><page number=\"237\" />أحمد بن أبي عبد الله، عن بعض أصحابه، عن صالح بن عقبة، قال: سمعت أبا عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 4/183، باب في الباقلّى، عن الإمام الرضا عليه السّلام، و قال: «كلوا...». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1321\" footnote-id=\"1321\">(1)  و هو ابن فضال. انظر: المحاسن 378:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1322\" footnote-id=\"1322\">(2)  و هو أخو علي بن الحسن بن فضال، الذي روى عن أخيه كثيرا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1323\" footnote-id=\"1323\">(3)  الخمل: هدب القطيفة و نحوها مما ينسج و تفضل له فضول. لسان العرب 221:11 «خمل»، و يقال له بالفارسية: «ريشه» و «پرز». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1324\" footnote-id=\"1324\">(4)  رواه البرقي بتفاوت يسير في المحاسن 1/594:2، باب الصعتر، عن أبي يوسف، عن زياد بن مروان القندي، عن أبي الحسن الأوّل عليه السّلام قال: «كان دواء أمير المؤمنين عليه السّلام الصعتر، و كان يقول: إنّه يصيّر في المعدة خملا كخمل القطيفة» و روي: «أنّ الصعتر يدبغ المعدة»، و روى الكليني في الكافي 1/375:6، باب السعتر، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن زياد القندي، عن أبي الحسن الأوّل عليه السّلام قال: «كان دواء أمير المؤمنين عليه السّلام» مثل المحاسن، و روى البرقي في المحاسن 1/516:2، باب الصعتر، روي «أنّ الصعتر يدبغ المعدة»، و في حديث آخر: «أنّ الصعتر ينبت زئبر المعدة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1325\" footnote-id=\"1325\">(5)  كذا في النسخة، و لعلّه هو يوسف بن محمّد بن زياد. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "7D9BBA43-6AA6-46C7-8177-A9FFB664D8B5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

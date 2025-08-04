@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 190,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170495,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1750\"><page number=\"190\"/>[263] </p>"
+        },
+        {
+          "paragraphId": 714170496,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1751\"><format class=\"hadith\" who=\"1\" Id=\"260\" RevayatIndex=\"781\"><format class=\"sanadHadith\">و قال<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\"/></format>: </format>«إذا كسا الله عزّ و جلّ المؤمن<lfootnote noteId=\"776\">1</lfootnote> فليتوضّأ و ليصلّ ركعتين، يقرأ فيهما<lfootnote noteId=\"777\">2</lfootnote> امّ الكتاب، و آية الكرسي، و <format class=\"ayah\" surah=\"112\" ayah=\"1\" toAyah=\"\">قُلْ هُوَ اَللّٰهُ أَحَدٌ<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"112\" ayah=\"1\" toAyah=\"\"/></format>، و إنّا أنزلناه في ليلة القدر، و ليحمد الله الذي ستر عورته و زيّنه في الناس، و ليكثر من قول: لا حول و لا قوّة إلّا بالله فإنّه لا يعصي الله فيه، و له بكلّ سلك منه ملك يقدّس له و يستغفر له و يترحّم عليه<lfootnote noteId=\"778\">3</lfootnote>»<lfootnote noteId=\"779\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170497,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1752\">[264] </p>"
+        },
+        {
+          "paragraphId": 714170498,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1753\"><format class=\"hadith\" who=\"14\" Id=\"261\" RevayatIndex=\"782\"><format class=\"sanadHadith\">و قال صلّى الله عليه و آله<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\"/></format>: </format>«غسل الثياب يذهب بالغمّ و طهور للصلاة<lfootnote noteId=\"780\">5</lfootnote>»<lfootnote noteId=\"781\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170499,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1754\"><page number=\"191\"/>[265] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171573,
+          "text": "<footnote id=\"776\"><page number=\"190\"/><mnote>(1)</mnote> في المصادر: «كسا الله مؤمنا ثوبا جديدا». </footnote>"
+        },
+        {
+          "footnoteId": 714171574,
+          "text": "<footnote id=\"777\"><mnote>(2)</mnote> في النسخة: «فيها» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171575,
+          "text": "<footnote id=\"778\"><mnote>(3)</mnote> في النسخة: «و يكرمه عليه» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171576,
+          "text": "<footnote id=\"779\"><mnote>(4)</mnote> رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 210/172 - و عنه في الخصال: 624، و فيه: «لا حول و لا قوّة إلّا بالله العلي العظيم» - و الكليني في الكافي 5/459:6، باب القول عند لباس الجديد، عن محمّد بن يحيى، عن أحمد بن محمّد، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن محمّد بن مسلم، عن أبي عبد الله عليه السّلام قال: قال أمير المؤمنين عليه السّلام، و ليس فيه: «في ليلة القدر»، و الطبرسي في مكارم الأخلاق:<br/>15/102، في الدعاء عند اللبس، عن الصادق عليه السّلام قال: قال أمير المؤمنين عليه السّلام، و فيه تقديم قل هو الله أحد على آية الكرسي. </footnote>"
+        },
+        {
+          "footnoteId": 714171577,
+          "text": "<footnote id=\"780\"><mnote>(5)</mnote> قوله: «و طهور للصلاة» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171578,
+          "text": "<footnote id=\"781\"><mnote>(6)</mnote> رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 26/83، و عنه في الخصال: 612، و فيه «يذهب الهمّ و الحزن»، و تحف العقول: 102، و فيه: «يذهب بالهمّ‌» و لم يذكر: «و الحزن»، و الكليني في الكافي: 14/444:6، باب اللباس، عن محمّد بن يحيى، عن أحمد بن محمّد، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن أبي بصير، عن أبي عبد الله عليه السّلام، عن أمير المؤمنين عليه السّلام، و فيه: «النظيف من الثياب» بدل «غسل الثياب». </footnote>"
+        }
+      ],
+      "pageValue": "190",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1750\" paragraph-id=\"1750\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo190\">190</span>[263] </p>\n  <p id=\"p1751\" paragraph-id=\"1751\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال<span class=\"Y\"><span class=\"maasoom\"></span></span>: </span>«إذا كسا الله عزّ و جلّ المؤمن<span><sup><a class=\"NewFn\" href=\"#footnote776\" title=\"(1)  في المصادر: «كسا الله مؤمنا ثوبا جديدا». \">1</a></sup></span> فليتوضّأ و ليصلّ ركعتين، يقرأ فيهما<span><sup><a class=\"NewFn\" href=\"#footnote777\" title=\"(2)  في النسخة: «فيها» و ما أثبتناه من المصدر. \">2</a></sup></span> امّ الكتاب، و آية الكرسي، و <span style=\"0\" class=\"ayah\" surah=\"112\" ayah=\"1\">قُلْ هُوَ اَللّٰهُ أَحَدٌ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/112/1\"></a></span></span>، و إنّا أنزلناه في ليلة القدر، و ليحمد الله الذي ستر عورته و زيّنه في الناس، و ليكثر من قول: لا حول و لا قوّة إلّا بالله فإنّه لا يعصي الله فيه، و له بكلّ سلك منه ملك يقدّس له و يستغفر له و يترحّم عليه<span><sup><a class=\"NewFn\" href=\"#footnote778\" title=\"(3)  في النسخة: «و يكرمه عليه» و ما أثبتناه من المصدر. \">3</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote779\" title=\"(4)  رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 210/172 - و عنه في الخصال: 624، و فيه: «لا حول و لا قوّة إلّا بالله العلي العظيم» - و الكليني في الكافي 5/459:6، باب القول عند لباس الجديد، عن محمّد بن يحيى، عن أحمد بن محمّد، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن محمّد بن مسلم، عن أبي عبد الله عليه السّلام قال: قال أمير المؤمنين عليه السّلام، و ليس فيه: «في ليلة القدر»، و الطبرسي في مكارم الأخلاق:15/102، في الدعاء عند اللبس، عن الصادق عليه السّلام قال: قال أمير المؤمنين عليه السّلام، و فيه تقديم قل هو الله أحد على آية الكرسي. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1752\" paragraph-id=\"1752\" class=\" G\">[264] </p>\n  <p id=\"p1753\" paragraph-id=\"1753\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال صلّى الله عليه و آله<span class=\"Y\"><span class=\"maasoom\"></span></span>: </span>«غسل الثياب يذهب بالغمّ و طهور للصلاة<span><sup><a class=\"NewFn\" href=\"#footnote780\" title=\"(5)  قوله: «و طهور للصلاة» أثبتناه من المصدر. \">5</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote781\" title=\"(6)  رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 26/83، و عنه في الخصال: 612، و فيه «يذهب الهمّ و الحزن»، و تحف العقول: 102، و فيه: «يذهب بالهمّ‌» و لم يذكر: «و الحزن»، و الكليني في الكافي: 14/444:6، باب اللباس، عن محمّد بن يحيى، عن أحمد بن محمّد، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن أبي بصير، عن أبي عبد الله عليه السّلام، عن أمير المؤمنين عليه السّلام، و فيه: «النظيف من الثياب» بدل «غسل الثياب». \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1754\" paragraph-id=\"1754\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote776\" footnote-id=\"776\">(1) <page number=\"190\" /> في المصادر: «كسا الله مؤمنا ثوبا جديدا». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote777\" footnote-id=\"777\">(2)  في النسخة: «فيها» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote778\" footnote-id=\"778\">(3)  في النسخة: «و يكرمه عليه» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote779\" footnote-id=\"779\">(4)  رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 210/172 - و عنه في الخصال: 624، و فيه: «لا حول و لا قوّة إلّا بالله العلي العظيم» - و الكليني في الكافي 5/459:6، باب القول عند لباس الجديد، عن محمّد بن يحيى، عن أحمد بن محمّد، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن محمّد بن مسلم، عن أبي عبد الله عليه السّلام قال: قال أمير المؤمنين عليه السّلام، و ليس فيه: «في ليلة القدر»، و الطبرسي في مكارم الأخلاق:<br />15/102، في الدعاء عند اللبس، عن الصادق عليه السّلام قال: قال أمير المؤمنين عليه السّلام، و فيه تقديم قل هو الله أحد على آية الكرسي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote780\" footnote-id=\"780\">(5)  قوله: «و طهور للصلاة» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote781\" footnote-id=\"781\">(6)  رواه القاسم بن يحيى الراشدي في كتاب آداب أمير المؤمنين عليه السّلام: 26/83، و عنه في الخصال: 612، و فيه «يذهب الهمّ و الحزن»، و تحف العقول: 102، و فيه: «يذهب بالهمّ‌» و لم يذكر: «و الحزن»، و الكليني في الكافي: 14/444:6، باب اللباس، عن محمّد بن يحيى، عن أحمد بن محمّد، عن القاسم بن يحيى، عن جدّه الحسن بن راشد، عن أبي بصير، عن أبي عبد الله عليه السّلام، عن أمير المؤمنين عليه السّلام، و فيه: «النظيف من الثياب» بدل «غسل الثياب». </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "750CF1FF-0DD4-4155-9F01-3FEB683E0938",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

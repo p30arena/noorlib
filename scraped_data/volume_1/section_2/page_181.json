@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 181,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167060,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2959\"><page number=\"181\"/>[281] </p>"
+        },
+        {
+          "paragraphId": 714167061,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2960\"><format class=\"hadith\" who=\"6\" Id=\"279\" RevayatIndex=\"279\"><format class=\"sanadHadith\">روى البرقي، عن أبي القاسم الواسطي، عن يحيى الحلبي، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«دواء الأنبياء الأكبر: الحقنة و الحجامة و السعوط»<lfootnote noteId=\"1067\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167062,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2961\">[282] </p>"
+        },
+        {
+          "paragraphId": 714167063,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2962\"><format class=\"hadith\" who=\"6\" Id=\"280\" RevayatIndex=\"280\"><format class=\"sanadHadith\">روى القاسم بن محمّد، عن إسماعيل بن أبي الحسن، عن جعفر بن محمّد بيّاع السابوري، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«خير ما تداويتم به: الحجامة و الحقنة و الحمّام و السعوط»<lfootnote noteId=\"1068\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167064,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2963\">[283] </p>"
+        },
+        {
+          "paragraphId": 714167065,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2964\"><format class=\"hadith\" who=\"1\" Id=\"281\" RevayatIndex=\"281\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين عليه السّلام</format></format> أنّه قال: </format>«السعوط مصحّة الرأس و نافع لجميع البدن»<lfootnote noteId=\"1069\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167066,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2965\">[284] </p>"
+        },
+        {
+          "paragraphId": 714167067,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2966\"><format class=\"hadith\" who=\"1\" Id=\"282\" RevayatIndex=\"282\"><format class=\"sanadHadith\">و قال عليه السّلام: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\"/></format>«استعطوا بالبنفسج فإنّه خير ما استعطتم به، و لو يعلم الناس ما فيه لحسوه حسوا»<lfootnote noteId=\"1070\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167068,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2967\"><page number=\"182\"/><heading level=\"2\">[باب] في الفم و أعراضه و دواء الضرس </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169110,
+          "text": "<footnote id=\"1066\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفرة لدينا، و روى المحدّثون نحوه أحاديث متعددة بزيادة و نقيصة في عدد الدواء كما في كتاب آداب أمير المؤمنين عليه السّلام: 384/247 - و عنه في الخصال: 637، و تحف العقول: 125 - طبّ الأئمّة عليهم السّلام: 55 و 57، الكافي 226/192:8، من لا يحضره الفقيه 299/126:1، الخصال: 112/249، دعائم الإسلام 145:2، مكارم الأخلاق: 20/54، المجموع الرائق 33:1. <page number=\"181\"/>لاحظ بعض هذه الروايات في غريب الحديث لابن سلام 234:1، المصنّف لابن أبي شيبة الكوفي 3/424:5، سنن الترمذي 2121/262:3 و 2122 و 2128/264، طبّ النبي صلّى الله عليه و آله: 31، المستدرك للنيسابوري 209:4، السنن الكبرى للبيهقي 346:9، الطبّ النبوي لابن قيم الجوزيّة: 41 و 60، الفائق في غريب الحديث للزمخشري 198:3. </footnote>"
+        },
+        {
+          "footnoteId": 714169111,
+          "text": "<footnote id=\"1067\"><mnote>(1)</mnote> رواه ابنا بسطام في طبّ الأئمة عليهم السّلام: 55، باب الحجامة و السعوط و الحمام و الحقنة، عن حفص بن عمر، قال: حدثنا القاسم بن محمّد، عن إسماعيل بن أبي الحسن، عن حفص بن عمر - و هو بيّاع السابري - قال: قال أبو عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169112,
+          "text": "<footnote id=\"1068\"><mnote>(2)</mnote> انظر تخريجات الحديثين المتقدّمين. </footnote>"
+        },
+        {
+          "footnoteId": 714169113,
+          "text": "<footnote id=\"1069\"><mnote>(3)</mnote> رواه القاسم بن يحيى بن الحسن بن راشد في كتاب آداب أمير المؤمنين عليه السّلام: 7/72، و عنه في الخصال: 611، و تحف العقول: 101، و يؤيّده ما رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 70، في باب الرياح المشبّكة، و 87، باب برد الرأس. </footnote>"
+        },
+        {
+          "footnoteId": 714169114,
+          "text": "<footnote id=\"1070\"><mnote>(4)</mnote> روى نحوه في كتاب آداب أمير المؤمنين عليهم السّلام: 385/248 - و عنه الخصال: 637، و تحف العقول: 125 - و انظر الحديث 275 من هذا الجزء. </footnote>"
+        }
+      ],
+      "pageValue": "181",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2959\" paragraph-id=\"2959\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo181\">181</span>[281] </p>\n  <p id=\"p2960\" paragraph-id=\"2960\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى البرقي، عن أبي القاسم الواسطي، عن يحيى الحلبي، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«دواء الأنبياء الأكبر: الحقنة و الحجامة و السعوط»<span><sup><a class=\"NewFn\" href=\"#footnote1067\" title=\"(1)  رواه ابنا بسطام في طبّ الأئمة عليهم السّلام: 55، باب الحجامة و السعوط و الحمام و الحقنة، عن حفص بن عمر، قال: حدثنا القاسم بن محمّد، عن إسماعيل بن أبي الحسن، عن حفص بن عمر - و هو بيّاع السابري - قال: قال أبو عبد الله عليه السّلام. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2961\" paragraph-id=\"2961\" class=\" G\">[282] </p>\n  <p id=\"p2962\" paragraph-id=\"2962\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى القاسم بن محمّد، عن إسماعيل بن أبي الحسن، عن جعفر بن محمّد بيّاع السابوري، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«خير ما تداويتم به: الحجامة و الحقنة و الحمّام و السعوط»<span><sup><a class=\"NewFn\" href=\"#footnote1068\" title=\"(2)  انظر تخريجات الحديثين المتقدّمين. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2963\" paragraph-id=\"2963\" class=\" G\">[283] </p>\n  <p id=\"p2964\" paragraph-id=\"2964\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين عليه السّلام</span></span> أنّه قال: </span>«السعوط مصحّة الرأس و نافع لجميع البدن»<span><sup><a class=\"NewFn\" href=\"#footnote1069\" title=\"(3)  رواه القاسم بن يحيى بن الحسن بن راشد في كتاب آداب أمير المؤمنين عليه السّلام: 7/72، و عنه في الخصال: 611، و تحف العقول: 101، و يؤيّده ما رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 70، في باب الرياح المشبّكة، و 87، باب برد الرأس. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2965\" paragraph-id=\"2965\" class=\" G\">[284] </p>\n  <p id=\"p2966\" paragraph-id=\"2966\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال عليه السّلام: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«استعطوا بالبنفسج فإنّه خير ما استعطتم به، و لو يعلم الناس ما فيه لحسوه حسوا»<span><sup><a class=\"NewFn\" href=\"#footnote1070\" title=\"(4)  روى نحوه في كتاب آداب أمير المؤمنين عليهم السّلام: 385/248 - و عنه الخصال: 637، و تحف العقول: 125 - و انظر الحديث 275 من هذا الجزء. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2967\" paragraph-id=\"2967\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1066\" footnote-id=\"1066\"><page number=\"181\" />لاحظ بعض هذه الروايات في غريب الحديث لابن سلام 234:1، المصنّف لابن أبي شيبة الكوفي 3/424:5، سنن الترمذي 2121/262:3 و 2122 و 2128/264، طبّ النبي صلّى الله عليه و آله: 31، المستدرك للنيسابوري 209:4، السنن الكبرى للبيهقي 346:9، الطبّ النبوي لابن قيم الجوزيّة: 41 و 60، الفائق في غريب الحديث للزمخشري 198:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1067\" footnote-id=\"1067\">(1)  رواه ابنا بسطام في طبّ الأئمة عليهم السّلام: 55، باب الحجامة و السعوط و الحمام و الحقنة، عن حفص بن عمر، قال: حدثنا القاسم بن محمّد، عن إسماعيل بن أبي الحسن، عن حفص بن عمر - و هو بيّاع السابري - قال: قال أبو عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1068\" footnote-id=\"1068\">(2)  انظر تخريجات الحديثين المتقدّمين. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1069\" footnote-id=\"1069\">(3)  رواه القاسم بن يحيى بن الحسن بن راشد في كتاب آداب أمير المؤمنين عليه السّلام: 7/72، و عنه في الخصال: 611، و تحف العقول: 101، و يؤيّده ما رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 70، في باب الرياح المشبّكة، و 87، باب برد الرأس. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1070\" footnote-id=\"1070\">(4)  روى نحوه في كتاب آداب أمير المؤمنين عليهم السّلام: 385/248 - و عنه الخصال: 637، و تحف العقول: 125 - و انظر الحديث 275 من هذا الجزء. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C6E6CCA8-BA7B-4129-82B2-B28637B76980",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

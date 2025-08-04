@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 20,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166428,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2174\"><format class=\"hadith\" who=\"5\" Id=\"12\" RevayatIndex=\"12\">ذكرا أم انثى‌؟ شقيّا أو سعيدا؟ فيقال ذلك، فيقولان: يا ربّ‌، ما رزقه و ما أجله و ما مدّته‌؟ فيقال ذلك، و ميثاقه بين عينيه ينظر إليه و لا يزال منتصبا في <page number=\"20\"/> بطن امّه حتى إذا دنا خروجه بعث الله عزّ و جلّ إليه<lfootnote noteId=\"336\">1</lfootnote> ملكا فيزجره فينسى الميثاق فيخرج»<lfootnote noteId=\"337\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166429,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2175\"><heading level=\"2\">[باب] الأعمار و ما يزيد و ما ينقص منها </heading></p>"
+        },
+        {
+          "paragraphId": 714166430,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2176\">[13] </p>"
+        },
+        {
+          "paragraphId": 714166431,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2177\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\"><format class=\"sanadHadith\">حدثنا ابن همّام، قال: حدّثنا الحميري، قال: حدّثنا محمّد بن السندي<lfootnote noteId=\"338\">3</lfootnote>، عن علي بن الحكم، عن داود بن النعمان، عن سيف التمّار، عن أبي بصير قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«إذا بلغ العبد ثلاثا و ثلاثين سنة فقد بلغ أشدّه<lfootnote noteId=\"339\">4</lfootnote>، و إذا بلغ أربعين سنة فقد بلغ منتهاه، فإذا ظعن<lfootnote noteId=\"340\">5</lfootnote> في إحدى و أربعين سنة فهو في النقصان، و ينبغي لصاحب الخمسين أن يكون كمن كان في النزع»<lfootnote noteId=\"341\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166432,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2178\"><page number=\"21\"/>[14] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168390,
+          "text": "<footnote id=\"336\"><page number=\"20\"/><mnote>(1)</mnote> قوله: «الله عزّ و جلّ إليه» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168391,
+          "text": "<footnote id=\"337\"><mnote>(2)</mnote> رواه الكليني في الكافي 6/16:6، باب بدء خلق الإنسان و تقلّبه في بطن امّه، عن محمّد بن يحيى، عن أحمد بن محمّد، عن محمّد بن الحسين، عن محمّد بن إسماعيل أو غيره. </footnote>"
+        },
+        {
+          "footnoteId": 714168392,
+          "text": "<footnote id=\"338\"><mnote>(3)</mnote> في النسخة: «السدى» و كذا المورد الآتي في الحديث التالي، و الرجل هو محمّد بن السندي الراوي عن علي بن الحكم، كما في رجال الطوسي: 6255/437. </footnote>"
+        },
+        {
+          "footnoteId": 714168393,
+          "text": "<footnote id=\"339\"><mnote>(4)</mnote> إشارة إلى قوله تعالى: <format class=\"ayah\" surah=\"46\" ayah=\"15\" toAyah=\"\">حَتّٰى إِذٰا بَلَغَ أَشُدَّهُ‌<format class=\"ayahWord\" fromWord=\"18\" toWord=\"21\"/><format class=\"ayahAddress\" surah=\"46\" ayah=\"15\" toAyah=\"\"/></format> الآية من سورة الأحقاف 15:46. </footnote>"
+        },
+        {
+          "footnoteId": 714168394,
+          "text": "<footnote id=\"340\"><mnote>(5)</mnote> كذا في النسخة و الخصال، و في البحار و بعض المصادر الأخرى: «طعن» و في العياشي:<br/>«بلغ». </footnote>"
+        },
+        {
+          "footnoteId": 714168395,
+          "text": "<footnote id=\"341\"><mnote>(6)</mnote> رواه العيّاشي في تفسيره 72/292:2، عن أبي بصير، و الصدوق في الخصال: 23/545، فقال: حدّثنا محمّد بن الحسن رضي الله عنه قال: حدّثنا أحمد بن إدريس، عن محمّد بن أحمد بن يحيى، عن محمّد بن السندي، عن علي بن الحكم، و الطبرسي في مشكاة الأنوار: 170، الفصل السابع عشر في إكرام الشيوخ، عن الصادق عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "20",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2174\" paragraph-id=\"2174\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo20\">20</span> بطن امّه حتى إذا دنا خروجه بعث الله عزّ و جلّ إليه<span><sup><a class=\"NewFn\" href=\"#footnote336\" title=\"(1)  قوله: «الله عزّ و جلّ إليه» أثبتناه من المصدر. \">1</a></sup></span> ملكا فيزجره فينسى الميثاق فيخرج»<span><sup><a class=\"NewFn\" href=\"#footnote337\" title=\"(2)  رواه الكليني في الكافي 6/16:6، باب بدء خلق الإنسان و تقلّبه في بطن امّه، عن محمّد بن يحيى، عن أحمد بن محمّد، عن محمّد بن الحسين، عن محمّد بن إسماعيل أو غيره. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2175\" paragraph-id=\"2175\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الأعمار و ما يزيد و ما ينقص منها </strong>\n  </p>\n  <p id=\"p2176\" paragraph-id=\"2176\" class=\" G\">[13] </p>\n  <p id=\"p2177\" paragraph-id=\"2177\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدثنا ابن همّام، قال: حدّثنا الحميري، قال: حدّثنا محمّد بن السندي<span><sup><a class=\"NewFn\" href=\"#footnote338\" title=\"(3)  في النسخة: «السدى» و كذا المورد الآتي في الحديث التالي، و الرجل هو محمّد بن السندي الراوي عن علي بن الحكم، كما في رجال الطوسي: 6255/437. \">3</a></sup></span>، عن علي بن الحكم، عن داود بن النعمان، عن سيف التمّار، عن أبي بصير قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«إذا بلغ العبد ثلاثا و ثلاثين سنة فقد بلغ أشدّه<span><sup><a class=\"NewFn\" href=\"#footnote339\" title=\"(4)  إشارة إلى قوله تعالى: حَتّٰى إِذٰا بَلَغَ أَشُدَّهُ‌ الآية من سورة الأحقاف 15:46. \">4</a></sup></span>، و إذا بلغ أربعين سنة فقد بلغ منتهاه، فإذا ظعن<span><sup><a class=\"NewFn\" href=\"#footnote340\" title=\"(5)  كذا في النسخة و الخصال، و في البحار و بعض المصادر الأخرى: «طعن» و في العياشي:«بلغ». \">5</a></sup></span> في إحدى و أربعين سنة فهو في النقصان، و ينبغي لصاحب الخمسين أن يكون كمن كان في النزع»<span><sup><a class=\"NewFn\" href=\"#footnote341\" title=\"(6)  رواه العيّاشي في تفسيره 72/292:2، عن أبي بصير، و الصدوق في الخصال: 23/545، فقال: حدّثنا محمّد بن الحسن رضي الله عنه قال: حدّثنا أحمد بن إدريس، عن محمّد بن أحمد بن يحيى، عن محمّد بن السندي، عن علي بن الحكم، و الطبرسي في مشكاة الأنوار: 170، الفصل السابع عشر في إكرام الشيوخ، عن الصادق عليه السّلام. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2178\" paragraph-id=\"2178\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote336\" footnote-id=\"336\">(1) <page number=\"20\" /> قوله: «الله عزّ و جلّ إليه» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote337\" footnote-id=\"337\">(2)  رواه الكليني في الكافي 6/16:6، باب بدء خلق الإنسان و تقلّبه في بطن امّه، عن محمّد بن يحيى، عن أحمد بن محمّد، عن محمّد بن الحسين، عن محمّد بن إسماعيل أو غيره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote338\" footnote-id=\"338\">(3)  في النسخة: «السدى» و كذا المورد الآتي في الحديث التالي، و الرجل هو محمّد بن السندي الراوي عن علي بن الحكم، كما في رجال الطوسي: 6255/437. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote339\" footnote-id=\"339\">(4)  إشارة إلى قوله تعالى: <format class=\"ayah\" surah=\"46\" ayah=\"15\" toAyah=\"\">حَتّٰى إِذٰا بَلَغَ أَشُدَّهُ‌<format class=\"ayahWord\" fromWord=\"18\" toWord=\"21\" /><format class=\"ayahAddress\" surah=\"46\" ayah=\"15\" toAyah=\"\" /></format> الآية من سورة الأحقاف 15:46. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote340\" footnote-id=\"340\">(5)  كذا في النسخة و الخصال، و في البحار و بعض المصادر الأخرى: «طعن» و في العياشي:<br />«بلغ». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote341\" footnote-id=\"341\">(6)  رواه العيّاشي في تفسيره 72/292:2، عن أبي بصير، و الصدوق في الخصال: 23/545، فقال: حدّثنا محمّد بن الحسن رضي الله عنه قال: حدّثنا أحمد بن إدريس، عن محمّد بن أحمد بن يحيى، عن محمّد بن السندي، عن علي بن الحكم، و الطبرسي في مشكاة الأنوار: 170، الفصل السابع عشر في إكرام الشيوخ، عن الصادق عليه السّلام. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "83C57085-F270-46C2-AD33-AB860AC32742",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,111 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 259,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167608,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3354\"><page number=\"259\"/>[420] </p>"
+        },
+        {
+          "paragraphId": 714167609,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3355\"><format class=\"hadith\" who=\"6\" Id=\"415\" RevayatIndex=\"415\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان، عمّن ذكره، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«تأخذ<lfootnote noteId=\"1439\">1</lfootnote> لوجع الخاصرة وزن درهمين حرف<lfootnote noteId=\"1440\">2</lfootnote> مرضوض و تصبّ عليه ماء حارّا و تضربه ساعته<lfootnote noteId=\"1441\">3</lfootnote> ثمّ تصبّ عليه وزن درهم أو درهمين دهن محلب<lfootnote noteId=\"1442\">4</lfootnote> و تشربه، و تأخذ بعده شيئا يسهلك، فإنّه يسكن بإذن الله»<lfootnote noteId=\"1443\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167610,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3356\">[421] </p>"
+        },
+        {
+          "paragraphId": 714167611,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3357\"><format class=\"hadith\" who=\"14\" Id=\"416\" RevayatIndex=\"416\"><format class=\"sanadHadith\">و عنه، عن محمّد بن صالح، عن عبد الله بن زياد، عن الضحّاك، عن ابن عبّاس قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: </format>«اشربوا الكاشم فإنّه جيّد لوجع الخاصرة»<lfootnote noteId=\"1444\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167612,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3358\">[422] </p>"
+        },
+        {
+          "paragraphId": 714167613,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3359\"><format class=\"hadith\" who=\"6\" Id=\"417\" RevayatIndex=\"417\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن يعقوب بن يزيد، عن محمّد بن أبي عمير، عن إبراهيم بن عبد الحميد<lfootnote noteId=\"1445\">7</lfootnote>، عن عبد الله بن صالح الخثعمي<lfootnote noteId=\"1446\">8</lfootnote>، قال: شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> وجع الخاصرة، فقال: </format>«كل ما يسقط من الخوان» ففعلت فذهب عنّي<lfootnote noteId=\"1447\">9</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167614,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3360\"><page number=\"260\"/>[423] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169394,
+          "text": "<footnote id=\"1439\"><page number=\"259\"/><mnote>(1)</mnote> في النسخة يمكن قراءة هذا الفعل و الأفعال التي بعده بصيغة الغائب. </footnote>"
+        },
+        {
+          "footnoteId": 714169395,
+          "text": "<footnote id=\"1440\"><mnote>(2)</mnote> كذا استظهرنا من العبارة، و في النسخة: «خرف».<br/>الحرف بضمّ الحاء: حبّ الرشاد... لسان العرب 45:9. «حرف». قال بعضهم: الحرف شبيه بحبّ الخردل في كلّ شيء. كتاب الماء 309:1. </footnote>"
+        },
+        {
+          "footnoteId": 714169396,
+          "text": "<footnote id=\"1441\"><mnote>(3)</mnote> كذا في النسخة، و لعلّه: «ساعة». </footnote>"
+        },
+        {
+          "footnoteId": 714169397,
+          "text": "<footnote id=\"1442\"><mnote>(4)</mnote> في النسخة: «مخلب» و ما أثبتناه من بعض مصادر الطب، و المحلب: شجر معروف يكون بالبلاد الباردة... مستطيل الورق طيب الرائحة مرّ الطعم... تذكرة أولي الألباب 291:1. </footnote>"
+        },
+        {
+          "footnoteId": 714169398,
+          "text": "<footnote id=\"1443\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169399,
+          "text": "<footnote id=\"1444\"><mnote>(6)</mnote> تقدّم في الحديث 374. انظر بيانه و مصادره. </footnote>"
+        },
+        {
+          "footnoteId": 714169400,
+          "text": "<footnote id=\"1445\"><mnote>(7)</mnote> و هو ابراهيم بن عبد الحميد الأسدي الكوفي الأنماطي. انظر: رجال النجاشي: 27/20. </footnote>"
+        },
+        {
+          "footnoteId": 714169401,
+          "text": "<footnote id=\"1446\"><mnote>(8)</mnote> كلمة: «الخثعمي» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169402,
+          "text": "<footnote id=\"1447\"><mnote>(9)</mnote> رواه البرقي في المحاسن 6/444:2، باب أكل ما يسقط من الفتات، عن أبيه، عن ابن <page number=\"260\"/>أبي عمير، عن إبراهيم بن عبد الله... قال إبراهيم: قد كنت وجدت ذلك في الجانب الأيمن و الأيسر فأخذت ذلك فانتفعت به، و الكليني في الكافي 3/300:6، باب أكل ما يسقط من الخوان، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير...، و روى البرقي أيضا في الحديث 7 من الباب، عن محمّد بن علي، عن إبراهيم بن مهزم، عن ابن الحرّ، قال: شكا رجل إلى أبي عبد الله عليه السّلام ما يلقى من وجع الخاصرة، فقال: «ما يمنعك من أكل ما يقع من الخوان‌؟»، و عنه الكليني في الحديث 7 من الباب، فقال: عن عدّة من أصحابنا، عن أحمد بن محمّد بن خالد، عن محمّد بن علي...، و في بعض نسخ الكافي عن «أبي الحسن عليه السّلام»، و في بعضها: «أبي الحسن». فالظاهر أنّ الحسن في ما نحن فيه محرّف من «الحرّ»، ثمّ أضيف إليه «عليه السّلام» بتخيّل كون المراد من العنوان هو المعصوم عليه السّلام. و إبراهيم بن مهزم و إن عدّه النجاشي و الطوسي من أصحاب أبي الحسن عليه السّلام، لكن لم نجد روايته عنه عليه السّلام في موضع، رجال النجاشي: 31/22، رجال الطوسي: 4927/331، و نحو ما في المحاسن في دعائم الإسلام 522/147:2.<br/>و في الروايات ما يدلّ على أنّ أكل ما يسقط من الخوان شفاء من كلّ داء. انظر: المحاسن الحديث 3 من الباب - و عنه الكافي الحديث 9 من الباب - و كتاب آداب أمير المؤمنين عليه السّلام:<br/>34/87 - و عنه في الخصال: 613 مسندا، و تحف العقول: 103 مرسلا - و بالإسناد إلى القاسم بن يحيى في الحديث 5 في الباب من المحاسن، و الحديث 1 في الباب من الكافي، و ذكر في المحاسن سندا آخر للحديث، و في مكارم الأخلاق: 146، و عيون الحكم و المواعظ: 6745/398. </footnote>"
+        }
+      ],
+      "pageValue": "259",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3354\" paragraph-id=\"3354\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo259\">259</span>[420] </p>\n  <p id=\"p3355\" paragraph-id=\"3355\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن أحمد بن محمّد بن عيسى، عن محمّد بن سنان، عمّن ذكره، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«تأخذ<span><sup><a class=\"NewFn\" href=\"#footnote1439\" title=\"(1)  في النسخة يمكن قراءة هذا الفعل و الأفعال التي بعده بصيغة الغائب. \">1</a></sup></span> لوجع الخاصرة وزن درهمين حرف<span><sup><a class=\"NewFn\" href=\"#footnote1440\" title=\"(2)  كذا استظهرنا من العبارة، و في النسخة: «خرف».الحرف بضمّ الحاء: حبّ الرشاد... لسان العرب 45:9. «حرف». قال بعضهم: الحرف شبيه بحبّ الخردل في كلّ شيء. كتاب الماء 309:1. \">2</a></sup></span> مرضوض و تصبّ عليه ماء حارّا و تضربه ساعته<span><sup><a class=\"NewFn\" href=\"#footnote1441\" title=\"(3)  كذا في النسخة، و لعلّه: «ساعة». \">3</a></sup></span> ثمّ تصبّ عليه وزن درهم أو درهمين دهن محلب<span><sup><a class=\"NewFn\" href=\"#footnote1442\" title=\"(4)  في النسخة: «مخلب» و ما أثبتناه من بعض مصادر الطب، و المحلب: شجر معروف يكون بالبلاد الباردة... مستطيل الورق طيب الرائحة مرّ الطعم... تذكرة أولي الألباب 291:1. \">4</a></sup></span> و تشربه، و تأخذ بعده شيئا يسهلك، فإنّه يسكن بإذن الله»<span><sup><a class=\"NewFn\" href=\"#footnote1443\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p3356\" paragraph-id=\"3356\" class=\" G\">[421] </p>\n  <p id=\"p3357\" paragraph-id=\"3357\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن محمّد بن صالح، عن عبد الله بن زياد، عن الضحّاك، عن ابن عبّاس قال: قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: </span>«اشربوا الكاشم فإنّه جيّد لوجع الخاصرة»<span><sup><a class=\"NewFn\" href=\"#footnote1444\" title=\"(6)  تقدّم في الحديث 374. انظر بيانه و مصادره. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3358\" paragraph-id=\"3358\" class=\" G\">[422] </p>\n  <p id=\"p3359\" paragraph-id=\"3359\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن يعقوب بن يزيد، عن محمّد بن أبي عمير، عن إبراهيم بن عبد الحميد<span><sup><a class=\"NewFn\" href=\"#footnote1445\" title=\"(7)  و هو ابراهيم بن عبد الحميد الأسدي الكوفي الأنماطي. انظر: رجال النجاشي: 27/20. \">7</a></sup></span>، عن عبد الله بن صالح الخثعمي<span><sup><a class=\"NewFn\" href=\"#footnote1446\" title=\"(8)  كلمة: «الخثعمي» أثبتناها من المصدر. \">8</a></sup></span>، قال: شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> وجع الخاصرة، فقال: </span>«كل ما يسقط من الخوان» ففعلت فذهب عنّي<span><sup><a class=\"NewFn\" href=\"#footnote1447\" title=\"(9)  رواه البرقي في المحاسن 6/444:2، باب أكل ما يسقط من الفتات، عن أبيه، عن ابن \">9</a></sup></span>.</span>\n  </p>\n  <p id=\"p3360\" paragraph-id=\"3360\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1439\" footnote-id=\"1439\">(1) <page number=\"259\" /> في النسخة يمكن قراءة هذا الفعل و الأفعال التي بعده بصيغة الغائب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1440\" footnote-id=\"1440\">(2)  كذا استظهرنا من العبارة، و في النسخة: «خرف».<br />الحرف بضمّ الحاء: حبّ الرشاد... لسان العرب 45:9. «حرف». قال بعضهم: الحرف شبيه بحبّ الخردل في كلّ شيء. كتاب الماء 309:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1441\" footnote-id=\"1441\">(3)  كذا في النسخة، و لعلّه: «ساعة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1442\" footnote-id=\"1442\">(4)  في النسخة: «مخلب» و ما أثبتناه من بعض مصادر الطب، و المحلب: شجر معروف يكون بالبلاد الباردة... مستطيل الورق طيب الرائحة مرّ الطعم... تذكرة أولي الألباب 291:1. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1443\" footnote-id=\"1443\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1444\" footnote-id=\"1444\">(6)  تقدّم في الحديث 374. انظر بيانه و مصادره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1445\" footnote-id=\"1445\">(7)  و هو ابراهيم بن عبد الحميد الأسدي الكوفي الأنماطي. انظر: رجال النجاشي: 27/20. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1446\" footnote-id=\"1446\">(8)  كلمة: «الخثعمي» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1447\" footnote-id=\"1447\">(9)  رواه البرقي في المحاسن 6/444:2، باب أكل ما يسقط من الفتات، عن أبيه، عن ابن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A5ECC423-7C76-4BEE-9B1E-29ACB2E64727",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

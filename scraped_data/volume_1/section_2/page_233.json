@@ -1,0 +1,77 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 233,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167486,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3232\"><format class=\"hadith\" who=\"6\" Id=\"374\" RevayatIndex=\"374\"><format class=\"sanadHadith\">روى السيّاري، عن محمّد بن الحصين بن دربا، عمّن أخبره، عن <page number=\"233\"/> إسماعيل بن الفضل الهاشمي، قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قراقر تصيبني في معدتي، و قلّة استمرائي<lfootnote noteId=\"1301\">1</lfootnote> الطعام. فقال: «لم لا تتّخذ نبيذا نشربه نحن، و هو يمرئ الطعام، و يذهب بالقراقر و الرياح من البطن<lfootnote noteId=\"1302\">2</lfootnote>؟» قلت: صفه لي جعلت فداك<lfootnote noteId=\"1303\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167487,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3233\"><format class=\"hadith\" who=\"6\" Id=\"374\" RevayatIndex=\"374\">فقال: «تأخذ صاعا من زبيب منقّى من حبّه و ما فيه، ثمّ تغسله بالماء غسلا جيّدا، ثمّ تنقعه في مثله من الماء أو ما يغمره، ثمّ تتركه في الشتاء ثلاثة أيّام و لياليهنّ‌، و في الصيف يوما و ليلة، فإذا أتى عليه ذلك القدر صفّيته، ثمّ أخذت صفوته، و جعلته في إناء، و أخذت مقداره بعود، ثمّ تطبخه طبخا رقيقا<lfootnote noteId=\"1304\">4</lfootnote> حتّى يذهب ثلثاه و يبقى ثلثه، ثمّ تجعل عليه نصف رطل عسل، ثمّ تأخذ مقدار العسل و تطبخه حتى تذهب الزيادة<lfootnote noteId=\"1305\">5</lfootnote>، و تأخذ زنجبيل و خولنجان<lfootnote noteId=\"1306\">6</lfootnote> و دارصيني<lfootnote noteId=\"1307\">7</lfootnote> و زعفران و قرنفل<lfootnote noteId=\"1308\">8</lfootnote><page number=\"234\"/> و مصطكى<lfootnote noteId=\"1309\">1</lfootnote>، فتدقّه و تنخله و تجعله في خرقة رقيقة، و تجعله فيه، و تغليه غلية<lfootnote noteId=\"1310\">2</lfootnote>، ثمّ تتركه، فإذا برد صفّيته، و أخذت منه على غدائك و عشائك».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169044,
+          "text": "<footnote id=\"1301\"><page number=\"233\"/><mnote>(1)</mnote> استمرأ الطعام: استطيبه و وجده مريئا أي: هنيئا و ساغ من غير غصص، و مرأني طعامي و أمر أني إذا لم يثقل على المعدة و انحدر عنها طيّبا، من باب علم و يجيء من باب حسن و المصدر مراءة بالفتح. بحر الجواهر: 344. </footnote>"
+        },
+        {
+          "footnoteId": 714169045,
+          "text": "<footnote id=\"1302\"><mnote>(2)</mnote> في النسخة: «من البطن و الرياح»، و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169046,
+          "text": "<footnote id=\"1303\"><mnote>(3)</mnote> قوله: «جعلت فداك» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169047,
+          "text": "<footnote id=\"1304\"><mnote>(4)</mnote> في المصدر: «رفيقا». </footnote>"
+        },
+        {
+          "footnoteId": 714169048,
+          "text": "<footnote id=\"1305\"><mnote>(5)</mnote> في المصدر: «تلك الزيادة». </footnote>"
+        },
+        {
+          "footnoteId": 714169049,
+          "text": "<footnote id=\"1306\"><mnote>(6)</mnote> الخولجان: بالضم، عروق هندية عطرة حريفة الطعم لذيذة تميل إلى حمرة و غبرة. الطراز الأوّل 72:4 «خلج». </footnote>"
+        },
+        {
+          "footnoteId": 714169050,
+          "text": "<footnote id=\"1307\"><mnote>(7)</mnote> «دارصيني»: منسوب إلى الصين، و هو بالفارسية: «دارچينى»، و هي شجرة تنبت في الهند و الصين، يتّخذ من أوراقها شراب طيّب الطعم. بحر الجواهر: 164. </footnote>"
+        },
+        {
+          "footnoteId": 714169051,
+          "text": "<footnote id=\"1308\"><mnote>(8)</mnote> «القرنفل»: ثمرة نبات في حدّ الصين، و هو يشبه الياسمين، لكنّه أسود، أو هي ثمرة<page number=\"234\"/>شجرة بسفالة الهند ببلاد جاوة بالقرب من بلاد الصين، و يقال لها بالفارسية: «ميخك». بحر الجواهر: 307. </footnote>"
+        }
+      ],
+      "pageValue": "233",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3232\" paragraph-id=\"3232\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo233\">233</span> إسماعيل بن الفضل الهاشمي، قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قراقر تصيبني في معدتي، و قلّة استمرائي<span><sup><a class=\"NewFn\" href=\"#footnote1301\" title=\"(1)  استمرأ الطعام: استطيبه و وجده مريئا أي: هنيئا و ساغ من غير غصص، و مرأني طعامي و أمر أني إذا لم يثقل على المعدة و انحدر عنها طيّبا، من باب علم و يجيء من باب حسن و المصدر مراءة بالفتح. بحر الجواهر: 344. \">1</a></sup></span> الطعام. فقال: «لم لا تتّخذ نبيذا نشربه نحن، و هو يمرئ الطعام، و يذهب بالقراقر و الرياح من البطن<span><sup><a class=\"NewFn\" href=\"#footnote1302\" title=\"(2)  في النسخة: «من البطن و الرياح»، و ما أثبتناه من المصدر. \">2</a></sup></span>؟» قلت: صفه لي جعلت فداك<span><sup><a class=\"NewFn\" href=\"#footnote1303\" title=\"(3)  قوله: «جعلت فداك» أثبتناه من المصدر. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p3233\" paragraph-id=\"3233\" class=\" G\">\n    <span class=\"hadith\">فقال: «تأخذ صاعا من زبيب منقّى من حبّه و ما فيه، ثمّ تغسله بالماء غسلا جيّدا، ثمّ تنقعه في مثله من الماء أو ما يغمره، ثمّ تتركه في الشتاء ثلاثة أيّام و لياليهنّ‌، و في الصيف يوما و ليلة، فإذا أتى عليه ذلك القدر صفّيته، ثمّ أخذت صفوته، و جعلته في إناء، و أخذت مقداره بعود، ثمّ تطبخه طبخا رقيقا<span><sup><a class=\"NewFn\" href=\"#footnote1304\" title=\"(4)  في المصدر: «رفيقا». \">4</a></sup></span> حتّى يذهب ثلثاه و يبقى ثلثه، ثمّ تجعل عليه نصف رطل عسل، ثمّ تأخذ مقدار العسل و تطبخه حتى تذهب الزيادة<span><sup><a class=\"NewFn\" href=\"#footnote1305\" title=\"(5)  في المصدر: «تلك الزيادة». \">5</a></sup></span>، و تأخذ زنجبيل و خولنجان<span><sup><a class=\"NewFn\" href=\"#footnote1306\" title=\"(6)  الخولجان: بالضم، عروق هندية عطرة حريفة الطعم لذيذة تميل إلى حمرة و غبرة. الطراز الأوّل 72:4 «خلج». \">6</a></sup></span> و دارصيني<span><sup><a class=\"NewFn\" href=\"#footnote1307\" title=\"(7)  «دارصيني»: منسوب إلى الصين، و هو بالفارسية: «دارچينى»، و هي شجرة تنبت في الهند و الصين، يتّخذ من أوراقها شراب طيّب الطعم. بحر الجواهر: 164. \">7</a></sup></span> و زعفران و قرنفل<span><sup><a class=\"NewFn\" href=\"#footnote1308\" title=\"(8)  «القرنفل»: ثمرة نبات في حدّ الصين، و هو يشبه الياسمين، لكنّه أسود، أو هي ثمرة\">8</a></sup></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1301\" footnote-id=\"1301\">(1) <page number=\"233\" /> استمرأ الطعام: استطيبه و وجده مريئا أي: هنيئا و ساغ من غير غصص، و مرأني طعامي و أمر أني إذا لم يثقل على المعدة و انحدر عنها طيّبا، من باب علم و يجيء من باب حسن و المصدر مراءة بالفتح. بحر الجواهر: 344. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1302\" footnote-id=\"1302\">(2)  في النسخة: «من البطن و الرياح»، و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1303\" footnote-id=\"1303\">(3)  قوله: «جعلت فداك» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1304\" footnote-id=\"1304\">(4)  في المصدر: «رفيقا». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1305\" footnote-id=\"1305\">(5)  في المصدر: «تلك الزيادة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1306\" footnote-id=\"1306\">(6)  الخولجان: بالضم، عروق هندية عطرة حريفة الطعم لذيذة تميل إلى حمرة و غبرة. الطراز الأوّل 72:4 «خلج». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1307\" footnote-id=\"1307\">(7)  «دارصيني»: منسوب إلى الصين، و هو بالفارسية: «دارچينى»، و هي شجرة تنبت في الهند و الصين، يتّخذ من أوراقها شراب طيّب الطعم. بحر الجواهر: 164. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1308\" footnote-id=\"1308\">(8)  «القرنفل»: ثمرة نبات في حدّ الصين، و هو يشبه الياسمين، لكنّه أسود، أو هي ثمرة</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "193C9559-5696-430D-B5BA-26461085E75C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

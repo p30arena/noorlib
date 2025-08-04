@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 373,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170784,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1962\"><img src=\"BK126314G002S1P371\" alt=\"\" imgtype=\"Scan\"/><page number=\"372\"/><img src=\"BK126314G002S1P372\" alt=\"\" imgtype=\"Scan\"/><page number=\"373\"/><img src=\"BK126314G002S1P373\" alt=\"\" imgtype=\"Scan\"/><page number=\"374\"/><img src=\"BK126314G002S1P374\" alt=\"\" imgtype=\"Scan\"/><page number=\"375\"/><img src=\"BK126314G002S1P375\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"5\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "373",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1962\" paragraph-id=\"1962\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo373\">373</span>\n    <img src=\"/file/book/page/EZkGvGt9JBQsA7QkUATTXIOakNO7Njm-VSRCKuM0V9jRxDS9_v6cg0rHRUfwuPv5\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "4AE7ADF8-AF13-47B3-BF61-A2E8F84652ED",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

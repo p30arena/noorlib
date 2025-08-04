@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 168,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167296,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2893\"><format class=\"hadith\" who=\"6\" Id=\"257\" RevayatIndex=\"257\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن الحسين<lfootnote noteId=\"1011\">4</lfootnote>، عن <page number=\"168\"/> علي بن النعمان، عن علي بن إسماعيل بن عمّار، عن أبيه أنّه قال:</format> اشتكيت عيني فأرسل أبي إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه حضر خروجنا، و قد ظفرت عيني عليّ‌<lfootnote noteId=\"1012\">1</lfootnote>فقال: «خذ من أسفل الجبّ طينا من خارجه و شيئا من خلّ فاطله عليها».</format></p>"
+        },
+        {
+          "paragraphId": 714167297,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2894\"><format class=\"hadith\" who=\"6\" Id=\"257\" RevayatIndex=\"257\">قال: ففعل فما أصبح إلّا و قد انجلت<lfootnote noteId=\"1013\">2</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714167298,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2895\"><heading level=\"2\">[باب] في الاذن و أعراضها و دوائها<lfootnote noteId=\"1014\">3</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714167299,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2896\">[260] </p>"
+        },
+        {
+          "paragraphId": 714167300,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2897\"><format class=\"hadith\" who=\"14\" Id=\"258\" RevayatIndex=\"258\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن السيّاري، عن عمرو بن إسحاق من أهل دورق، قال: حدّثني محمّد بن صالح، عن عبد الله بن زياد، عن الضحّاك<lfootnote noteId=\"1015\">4</lfootnote>، عن ابن عباس، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: </format>«عليكم بالعشيران فإنّه جيّد لوجع الاذن»<lfootnote noteId=\"1016\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166999,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2898\"><format class=\"B\"><format class=\"RevayatIndex\" index=\"258\"/>و العشيران: نبات يكون في البصرة في وادي العشير<lfootnote noteId=\"1017\">6</lfootnote>، يحمله البصريّون إلى مكّة و غيرها فيبيعونه.</format></p>"
+        },
+        {
+          "paragraphId": 714167000,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2899\">[261] </p>"
+        },
+        {
+          "paragraphId": 714167001,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2900\"><format class=\"hadith\" who=\"14\" Id=\"259\" RevayatIndex=\"259\"><format class=\"sanadHadith\">و روى السيّاري، عن عمر بن إسحاق، عن محمّد بن صالح، عن <page number=\"169\"/> عبد الله بن زياد، عن الضحّاك، عن ابن عباس، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>:</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168967,
+          "text": "<footnote id=\"1012\"><page number=\"168\"/><mnote>(1)</mnote> الظفر: جليدة عصبانية تغشي العين فتضرّها و تمنعها من حركتها الطبيعية، شبّهت بظفر الإنسان في بياضها و صلابتها. الطراز الأوّل 336:8 «ظفر». </footnote>"
+        },
+        {
+          "footnoteId": 714168968,
+          "text": "<footnote id=\"1013\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168969,
+          "text": "<footnote id=\"1014\"><mnote>(3)</mnote> في النسخة: «دواء لها» و ما أثبتناه لضرورة السياق. </footnote>"
+        },
+        {
+          "footnoteId": 714168970,
+          "text": "<footnote id=\"1015\"><mnote>(4)</mnote> و هو: الضحاك بن مزاحم الخراساني الكوفي التابعي. انظر: رجال الطوسي: 1/116. </footnote>"
+        },
+        {
+          "footnoteId": 714168971,
+          "text": "<footnote id=\"1016\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168972,
+          "text": "<footnote id=\"1017\"><mnote>(6)</mnote> قال الحموي: فيه صمغ، في طريق البصرة للذاهب إلى مكة. معجم البلدان 127:4. و قال العزاوي في عشائر العراق: 279: العشيران: بطن من آل نصير من المرعض... من عنزة.</footnote>"
+        }
+      ],
+      "pageValue": "168",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2893\" paragraph-id=\"2893\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo168\">168</span> علي بن النعمان، عن علي بن إسماعيل بن عمّار، عن أبيه أنّه قال:</span> اشتكيت عيني فأرسل أبي إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه حضر خروجنا، و قد ظفرت عيني عليّ‌<span><sup><a class=\"NewFn\" href=\"#footnote1012\" title=\"(1)  الظفر: جليدة عصبانية تغشي العين فتضرّها و تمنعها من حركتها الطبيعية، شبّهت بظفر الإنسان في بياضها و صلابتها. الطراز الأوّل 336:8 «ظفر». \">1</a></sup></span>فقال: «خذ من أسفل الجبّ طينا من خارجه و شيئا من خلّ فاطله عليها».</span>\n  </p>\n  <p id=\"p2894\" paragraph-id=\"2894\" class=\" G\">\n    <span class=\"hadith\">قال: ففعل فما أصبح إلّا و قد انجلت<span><sup><a class=\"NewFn\" href=\"#footnote1013\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>. </span>\n  </p>\n  <p id=\"p2895\" paragraph-id=\"2895\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الاذن و أعراضها و دوائها<span><sup><a class=\"NewFn\" href=\"#footnote1014\" title=\"(3)  في النسخة: «دواء لها» و ما أثبتناه لضرورة السياق. \">3</a></sup></span></strong>\n  </p>\n  <p id=\"p2896\" paragraph-id=\"2896\" class=\" G\">[260] </p>\n  <p id=\"p2897\" paragraph-id=\"2897\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن السيّاري، عن عمرو بن إسحاق من أهل دورق، قال: حدّثني محمّد بن صالح، عن عبد الله بن زياد، عن الضحّاك<span><sup><a class=\"NewFn\" href=\"#footnote1015\" title=\"(4)  و هو: الضحاك بن مزاحم الخراساني الكوفي التابعي. انظر: رجال الطوسي: 1/116. \">4</a></sup></span>، عن ابن عباس، قال: قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: </span>«عليكم بالعشيران فإنّه جيّد لوجع الاذن»<span><sup><a class=\"NewFn\" href=\"#footnote1016\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2898\" paragraph-id=\"2898\" class=\" G\">\n    <span class=\"B\">\n      <span class=\"RevayatIndex\"></span>و العشيران: نبات يكون في البصرة في وادي العشير<span><sup><a class=\"NewFn\" href=\"#footnote1017\" title=\"(6)  قال الحموي: فيه صمغ، في طريق البصرة للذاهب إلى مكة. معجم البلدان 127:4. و قال العزاوي في عشائر العراق: 279: العشيران: بطن من آل نصير من المرعض... من عنزة.\">6</a></sup></span>، يحمله البصريّون إلى مكّة و غيرها فيبيعونه.</span>\n  </p>\n  <p id=\"p2899\" paragraph-id=\"2899\" class=\" G\">[261] </p>\n  <p id=\"p2900\" paragraph-id=\"2900\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى السيّاري، عن عمر بن إسحاق، عن محمّد بن صالح، عن </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1012\" footnote-id=\"1012\">(1) <page number=\"168\" /> الظفر: جليدة عصبانية تغشي العين فتضرّها و تمنعها من حركتها الطبيعية، شبّهت بظفر الإنسان في بياضها و صلابتها. الطراز الأوّل 336:8 «ظفر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1013\" footnote-id=\"1013\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1014\" footnote-id=\"1014\">(3)  في النسخة: «دواء لها» و ما أثبتناه لضرورة السياق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1015\" footnote-id=\"1015\">(4)  و هو: الضحاك بن مزاحم الخراساني الكوفي التابعي. انظر: رجال الطوسي: 1/116. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1016\" footnote-id=\"1016\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1017\" footnote-id=\"1017\">(6)  قال الحموي: فيه صمغ، في طريق البصرة للذاهب إلى مكة. معجم البلدان 127:4. و قال العزاوي في عشائر العراق: 279: العشيران: بطن من آل نصير من المرعض... من عنزة.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5C82453A-3D11-4F71-A821-8BA08AC96D57",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

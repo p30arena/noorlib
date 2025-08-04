@@ -1,0 +1,81 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 168,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170386,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1641\"><format class=\"hadith\" who=\"8\" Id=\"226\" RevayatIndex=\"747\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن أحمد بن محمّد بن عيسى و منصور بن العبّاس، عن سعيد بن جناح، عن سليمان الجعفري<lfootnote noteId=\"678\">2</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبي الحسن الرضا عليه السّلام</format></format>، <page number=\"168\"/> قال: </format>«إذا اكتهل الرجل<lfootnote noteId=\"679\">1</lfootnote>، فلا يدع أن يأكل بالليل<lfootnote noteId=\"680\">2</lfootnote> شيئا؛ فإنّه أهدأ للنوم، و أطيب للنكهة»<lfootnote noteId=\"681\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170387,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1642\">[230] </p>"
+        },
+        {
+          "paragraphId": 714170388,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1643\"><format class=\"hadith\" who=\"8\" Id=\"227\" RevayatIndex=\"748\"><format class=\"sanadHadith\">و روى السيّاري، عن بعض أصحابنا - أظنّه جعفر بن سليمان أو غيره - قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبو الحسن عليه السّلام</format></format>: </format>«إنّ في البدن عرقا يسمّى: العشاء، لا يريد بالنهار شيئا، فإذا بات الرجل من غير عشاء لم يزل يدعو عليه ذلك العرق حتّى يصبح، يقول: أجاعك الله كما أجعتني، و أظمأك كما أظمأتني<lfootnote noteId=\"682\">4</lfootnote>، فلا يدعنّ أحدكم العشاء و لو بلقمة خبز<lfootnote noteId=\"683\">5</lfootnote>، أو شربة ماء»<lfootnote noteId=\"684\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170389,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1644\"><page number=\"169\"/>[231] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171476,
+          "text": "<footnote id=\"679\"><page number=\"168\"/><mnote>(1)</mnote> الكهل من الرجال: ما زاد على ثلاثين سنة إلى أربعين، و قيل: من ثلاثين إلى تمام الخمسين. مجمع البحرين 467:5 «كهل». </footnote>"
+        },
+        {
+          "footnoteId": 714171477,
+          "text": "<footnote id=\"680\"><mnote>(2)</mnote> كلمة: «بالليل» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171478,
+          "text": "<footnote id=\"681\"><mnote>(3)</mnote> رواه البرقي في المحاسن 13/422:2، باب الغداء و العشاء، عن أبيه، عن ابن أبي عمير، عن بعض أصحابنا، عن ذريح بن العباس، عن سعيد بن جناح، عن أبي الحسن الرضا عليه السّلام، و الكليني في الكافي 4/288:6، باب فضل العشاء و كراهية تركه، عن محمّد بن يحيى، عن أحمد بن محمّد، عن سعيد بن جناح، عن أبي الحسن الرضا عليه السّلام، و الصدوق نحوه في من لا يحضره الفقيه 4271/359:3، و الطبرسي في مكارم الأخلاق: 39/147، الفصل الثالث في آداب الأكل و ما يتعلّق به. </footnote>"
+        },
+        {
+          "footnoteId": 714171479,
+          "text": "<footnote id=\"682\"><mnote>(4)</mnote> قال المجلسي: هذا الدعاء تمثيل لبيان تضرّر ذلك العرق و وصول ضرره إلى البدن، فكأنّه يدعو و يستجاب له. بحار الأنوار 347:63.<br/>أقول: حمل الكلام على معناه المجازي، و يمكن الحمل على معناه الحقيقي أيضا. </footnote>"
+        },
+        {
+          "footnoteId": 714171480,
+          "text": "<footnote id=\"683\"><mnote>(5)</mnote> كلمة: «خبز» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171481,
+          "text": "<footnote id=\"684\"><mnote>(6)</mnote> رواه الكليني بتفاوت في الكافي 12/289:6، باب فضل العشاء و كراهية تركه، عن عدّة من أصحابنا، عن سهل بن زياد، عن بعض الأهوازيين، عن الرضا عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "168",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1641\" paragraph-id=\"1641\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo168\">168</span> قال: </span>«إذا اكتهل الرجل<span><sup><a class=\"NewFn\" href=\"#footnote679\" title=\"(1)  الكهل من الرجال: ما زاد على ثلاثين سنة إلى أربعين، و قيل: من ثلاثين إلى تمام الخمسين. مجمع البحرين 467:5 «كهل». \">1</a></sup></span>، فلا يدع أن يأكل بالليل<span><sup><a class=\"NewFn\" href=\"#footnote680\" title=\"(2)  كلمة: «بالليل» أثبتناها من المصدر. \">2</a></sup></span> شيئا؛ فإنّه أهدأ للنوم، و أطيب للنكهة»<span><sup><a class=\"NewFn\" href=\"#footnote681\" title=\"(3)  رواه البرقي في المحاسن 13/422:2، باب الغداء و العشاء، عن أبيه، عن ابن أبي عمير، عن بعض أصحابنا، عن ذريح بن العباس، عن سعيد بن جناح، عن أبي الحسن الرضا عليه السّلام، و الكليني في الكافي 4/288:6، باب فضل العشاء و كراهية تركه، عن محمّد بن يحيى، عن أحمد بن محمّد، عن سعيد بن جناح، عن أبي الحسن الرضا عليه السّلام، و الصدوق نحوه في من لا يحضره الفقيه 4271/359:3، و الطبرسي في مكارم الأخلاق: 39/147، الفصل الثالث في آداب الأكل و ما يتعلّق به. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1642\" paragraph-id=\"1642\" class=\" G\">[230] </p>\n  <p id=\"p1643\" paragraph-id=\"1643\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى السيّاري، عن بعض أصحابنا - أظنّه جعفر بن سليمان أو غيره - قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو الحسن عليه السّلام</span></span>: </span>«إنّ في البدن عرقا يسمّى: العشاء، لا يريد بالنهار شيئا، فإذا بات الرجل من غير عشاء لم يزل يدعو عليه ذلك العرق حتّى يصبح، يقول: أجاعك الله كما أجعتني، و أظمأك كما أظمأتني<span><sup><a class=\"NewFn\" href=\"#footnote682\" title=\"(4)  قال المجلسي: هذا الدعاء تمثيل لبيان تضرّر ذلك العرق و وصول ضرره إلى البدن، فكأنّه يدعو و يستجاب له. بحار الأنوار 347:63.أقول: حمل الكلام على معناه المجازي، و يمكن الحمل على معناه الحقيقي أيضا. \">4</a></sup></span>، فلا يدعنّ أحدكم العشاء و لو بلقمة خبز<span><sup><a class=\"NewFn\" href=\"#footnote683\" title=\"(5)  كلمة: «خبز» أثبتناها من المصدر. \">5</a></sup></span>، أو شربة ماء»<span><sup><a class=\"NewFn\" href=\"#footnote684\" title=\"(6)  رواه الكليني بتفاوت في الكافي 12/289:6، باب فضل العشاء و كراهية تركه، عن عدّة من أصحابنا، عن سهل بن زياد، عن بعض الأهوازيين، عن الرضا عليه السّلام. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1644\" paragraph-id=\"1644\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote679\" footnote-id=\"679\">(1) <page number=\"168\" /> الكهل من الرجال: ما زاد على ثلاثين سنة إلى أربعين، و قيل: من ثلاثين إلى تمام الخمسين. مجمع البحرين 467:5 «كهل». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote680\" footnote-id=\"680\">(2)  كلمة: «بالليل» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote681\" footnote-id=\"681\">(3)  رواه البرقي في المحاسن 13/422:2، باب الغداء و العشاء، عن أبيه، عن ابن أبي عمير، عن بعض أصحابنا، عن ذريح بن العباس، عن سعيد بن جناح، عن أبي الحسن الرضا عليه السّلام، و الكليني في الكافي 4/288:6، باب فضل العشاء و كراهية تركه، عن محمّد بن يحيى، عن أحمد بن محمّد، عن سعيد بن جناح، عن أبي الحسن الرضا عليه السّلام، و الصدوق نحوه في من لا يحضره الفقيه 4271/359:3، و الطبرسي في مكارم الأخلاق: 39/147، الفصل الثالث في آداب الأكل و ما يتعلّق به. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote682\" footnote-id=\"682\">(4)  قال المجلسي: هذا الدعاء تمثيل لبيان تضرّر ذلك العرق و وصول ضرره إلى البدن، فكأنّه يدعو و يستجاب له. بحار الأنوار 347:63.<br />أقول: حمل الكلام على معناه المجازي، و يمكن الحمل على معناه الحقيقي أيضا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote683\" footnote-id=\"683\">(5)  كلمة: «خبز» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote684\" footnote-id=\"684\">(6)  رواه الكليني بتفاوت في الكافي 12/289:6، باب فضل العشاء و كراهية تركه، عن عدّة من أصحابنا، عن سهل بن زياد، عن بعض الأهوازيين، عن الرضا عليه السّلام. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "089DE556-B289-4631-9FB9-3A8A03522570",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

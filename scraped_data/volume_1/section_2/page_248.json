@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 248,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167556,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3302\"><page number=\"248\"/>[401] </p>"
+        },
+        {
+          "paragraphId": 714167557,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3303\"><format class=\"hadith\" who=\"6\" Id=\"398\" RevayatIndex=\"398\"><format class=\"sanadHadith\">و عنه<lfootnote noteId=\"1377\">1</lfootnote>، عن عبد الرحمن بن حمّاد الكوفي، عن عبد الله بن جندب، عن عبد الرحمن بن سنان قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> وجعا في بطني، فقال: «ما يمنعك من هذه الحبّة الأرزّ؟ يؤخذ فيغسل و يجفّف في الظلّ‌، ثمّ يطحن، ثمّ يقطر عليه شيء من زيت»<lfootnote noteId=\"1378\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167558,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3304\">[402] </p>"
+        },
+        {
+          "paragraphId": 714167559,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3305\"><format class=\"hadith\" who=\"6\" Id=\"399\" RevayatIndex=\"399\"><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format><format class=\"sanadHadith\">و أيضا:</format> يؤخذ ماء الرمّان الأملسي فيطبخ و يجعل فيه ماش و دهن حلّ‌<lfootnote noteId=\"1379\">3</lfootnote> و يؤكل، و يطبخ جفت البلوط<lfootnote noteId=\"1380\">4</lfootnote> و يقعد فيه، و تدهن البطن و الصدر بدهن حلّ بعد الخروج من الماء، يشفى إن شاء الله تعالى<lfootnote noteId=\"1381\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167560,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3306\">[403] </p>"
+        },
+        {
+          "paragraphId": 714167561,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3307\"><format class=\"hadith\" who=\"6\" Id=\"400\" RevayatIndex=\"400\"><format class=\"sanadHadith\">روى البرقي، عن محمّد بن سنان، عن بعض أصحابنا،</format> أنّه شكا إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> وجعا في بطنه، فقال: «تناول جزءا من هليلج أسود و جزءا من الرازيانج و جزءا من سكّر أبيض»<lfootnote noteId=\"1382\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167562,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3308\">[404] </p>"
+        },
+        {
+          "paragraphId": 714167563,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3309\"><format class=\"hadith\" who=\"6\" Id=\"401\" RevayatIndex=\"401\"><format class=\"sanadHadith\">روى محمّد بن موسى، عن علي بن حسّان، عن عبد الرحمن بن كثير، قال:</format> مرضت بالمدينة، و انطلق بطني، فوصف لي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>، و أمرني أن آخذ سويق الجاورس<lfootnote noteId=\"1383\">7</lfootnote><page number=\"249\"/> و أشربه بماء الكمّون<lfootnote noteId=\"1384\">1</lfootnote>، ففعلت فأمسك بطني و عوفيت<lfootnote noteId=\"1385\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169332,
+          "text": "<footnote id=\"1377\"><page number=\"248\"/><mnote>(1)</mnote> الضمير راجع إلى أحمد بن عيسى احتمالا بقرينة المروي عنه. </footnote>"
+        },
+        {
+          "footnoteId": 714169333,
+          "text": "<footnote id=\"1378\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و قريب منه الحديث السابق له. </footnote>"
+        },
+        {
+          "footnoteId": 714169334,
+          "text": "<footnote id=\"1379\"><mnote>(3)</mnote> الحلّ بالفتح: الشيرج و هو دهن السمسم. تاج العروس 165:14 «حلل». </footnote>"
+        },
+        {
+          "footnoteId": 714169335,
+          "text": "<footnote id=\"1380\"><mnote>(4)</mnote> قال الهروي: جفت البلوط بضمّ الجيم، هو جلده الرقيق الذي تحت الجلد الغليظ، و هو قشره الداخل. بحر الجواهر: 116. </footnote>"
+        },
+        {
+          "footnoteId": 714169336,
+          "text": "<footnote id=\"1381\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169337,
+          "text": "<footnote id=\"1382\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169338,
+          "text": "<footnote id=\"1383\"><mnote>(7)</mnote> قال الهروي: جاورس: معرّب كاورس، و هو خير من الدخن في جميع أحواله إلّا أنّه أقوى قبضا. بحر الجواهر: 110، و انظر: بحار الأنوار 178:59 و ج 257:63.<br/>و كانت فاطمة عليها السّلام تطحن الجاورس. انظر: الروضة في الفضائل: 37/56، الفضائل<page number=\"249\"/>لابن شاذان: 112.<br/>و في حديث عن أبي الحسن الأوّل عليه السّلام: «أما إنّه طعام ليس فيه ثقل و لا له غائلة و إنّه أعجبني فأمرت أن يتّخذ لي، و هو باللبن أنفع و ألين في المعدة». الكافي 1/344:6، باب الجاورس، و روى الطبرسي في مكارم الأخلاق: 155: في خبز الجاورس: عن أبي عبد الله عليه السّلام قال: «أما إنّه ليس فيه ثقل، و هو باللبن ألين و أنفع في المعدة». </footnote>"
+        }
+      ],
+      "pageValue": "248",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3302\" paragraph-id=\"3302\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo248\">248</span>[401] </p>\n  <p id=\"p3303\" paragraph-id=\"3303\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه<span><sup><a class=\"NewFn\" href=\"#footnote1377\" title=\"(1)  الضمير راجع إلى أحمد بن عيسى احتمالا بقرينة المروي عنه. \">1</a></sup></span>، عن عبد الرحمن بن حمّاد الكوفي، عن عبد الله بن جندب، عن عبد الرحمن بن سنان قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> وجعا في بطني، فقال: «ما يمنعك من هذه الحبّة الأرزّ؟ يؤخذ فيغسل و يجفّف في الظلّ‌، ثمّ يطحن، ثمّ يقطر عليه شيء من زيت»<span><sup><a class=\"NewFn\" href=\"#footnote1378\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا، و قريب منه الحديث السابق له. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3304\" paragraph-id=\"3304\" class=\" G\">[402] </p>\n  <p id=\"p3305\" paragraph-id=\"3305\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>\n      <span class=\"sanadHadith\">و أيضا:</span> يؤخذ ماء الرمّان الأملسي فيطبخ و يجعل فيه ماش و دهن حلّ‌<span><sup><a class=\"NewFn\" href=\"#footnote1379\" title=\"(3)  الحلّ بالفتح: الشيرج و هو دهن السمسم. تاج العروس 165:14 «حلل». \">3</a></sup></span> و يؤكل، و يطبخ جفت البلوط<span><sup><a class=\"NewFn\" href=\"#footnote1380\" title=\"(4)  قال الهروي: جفت البلوط بضمّ الجيم، هو جلده الرقيق الذي تحت الجلد الغليظ، و هو قشره الداخل. بحر الجواهر: 116. \">4</a></sup></span> و يقعد فيه، و تدهن البطن و الصدر بدهن حلّ بعد الخروج من الماء، يشفى إن شاء الله تعالى<span><sup><a class=\"NewFn\" href=\"#footnote1381\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p3306\" paragraph-id=\"3306\" class=\" G\">[403] </p>\n  <p id=\"p3307\" paragraph-id=\"3307\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى البرقي، عن محمّد بن سنان، عن بعض أصحابنا،</span> أنّه شكا إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> وجعا في بطنه، فقال: «تناول جزءا من هليلج أسود و جزءا من الرازيانج و جزءا من سكّر أبيض»<span><sup><a class=\"NewFn\" href=\"#footnote1382\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3308\" paragraph-id=\"3308\" class=\" G\">[404] </p>\n  <p id=\"p3309\" paragraph-id=\"3309\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن موسى، عن علي بن حسّان، عن عبد الرحمن بن كثير، قال:</span> مرضت بالمدينة، و انطلق بطني، فوصف لي <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>، و أمرني أن آخذ سويق الجاورس<span><sup><a class=\"NewFn\" href=\"#footnote1383\" title=\"(7)  قال الهروي: جاورس: معرّب كاورس، و هو خير من الدخن في جميع أحواله إلّا أنّه أقوى قبضا. بحر الجواهر: 110، و انظر: بحار الأنوار 178:59 و ج 257:63.و كانت فاطمة عليها السّلام تطحن الجاورس. انظر: الروضة في الفضائل: 37/56، الفضائل\">7</a></sup></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1377\" footnote-id=\"1377\">(1) <page number=\"248\" /> الضمير راجع إلى أحمد بن عيسى احتمالا بقرينة المروي عنه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1378\" footnote-id=\"1378\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا، و قريب منه الحديث السابق له. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1379\" footnote-id=\"1379\">(3)  الحلّ بالفتح: الشيرج و هو دهن السمسم. تاج العروس 165:14 «حلل». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1380\" footnote-id=\"1380\">(4)  قال الهروي: جفت البلوط بضمّ الجيم، هو جلده الرقيق الذي تحت الجلد الغليظ، و هو قشره الداخل. بحر الجواهر: 116. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1381\" footnote-id=\"1381\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1382\" footnote-id=\"1382\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1383\" footnote-id=\"1383\">(7)  قال الهروي: جاورس: معرّب كاورس، و هو خير من الدخن في جميع أحواله إلّا أنّه أقوى قبضا. بحر الجواهر: 110، و انظر: بحار الأنوار 178:59 و ج 257:63.<br />و كانت فاطمة عليها السّلام تطحن الجاورس. انظر: الروضة في الفضائل: 37/56، الفضائل</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "CB7225FA-451B-4C54-BBCE-EB18780E1991",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

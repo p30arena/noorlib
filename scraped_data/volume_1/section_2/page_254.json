@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 254,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167582,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3328\"><format class=\"hadith\" who=\"7\" Id=\"406\" RevayatIndex=\"406\"><page number=\"254\"/> فقال: «خذ القرطم<lfootnote noteId=\"1406\">1</lfootnote> فاطحنه حتّى يخرج و دكه<lfootnote noteId=\"1407\">2</lfootnote>، و خذ الودك تصفّه و اطبخه و ارم بحبّه و أطعمه إيّاه، فإن كانت به حياة لم يبق شيء في بطنه إلّا خرج بإذن الله تعالى»<lfootnote noteId=\"1408\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167583,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3329\">[412] </p>"
+        },
+        {
+          "paragraphId": 714167584,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3330\"><format class=\"hadith\" who=\"6\" Id=\"407\" RevayatIndex=\"407\"><format class=\"sanadHadith\">و روى محمّد بن موسى، عن أحمد بن الحسن الجلّاب<lfootnote noteId=\"1409\">4</lfootnote>، عن موسى بن إسماعيل بن رئاب، عن بعض أصحابنا، قال<lfootnote noteId=\"1410\">5</lfootnote>: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«الجزر أمان من القولنج و البواسير، و يعين على الجماع»<lfootnote noteId=\"1411\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167585,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3331\">[413] </p>"
+        },
+        {
+          "paragraphId": 714167586,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3332\"><format class=\"hadith\" who=\"6\" Id=\"408\" RevayatIndex=\"408\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، عن المثنّى بن الوليد الحنّاط<lfootnote noteId=\"1412\">7</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«من بات و في جوفه سبع ورقات هندباء أمن من<lfootnote noteId=\"1413\">8</lfootnote> القولنج تلك الليلة»<lfootnote noteId=\"1414\">9</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714167587,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3333\"><page number=\"255\"/><heading level=\"2\">[باب]<lfootnote noteId=\"1415\">1</lfootnote> القولنج أيضا </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169361,
+          "text": "<footnote id=\"1406\"><page number=\"254\"/><mnote>(1)</mnote> و يقال له: كاجيرة و العصفر. و قال الهروي: القرطم كبرثن - و قد يجيء كزبرج -: مغز كاجيرة يسهل بلغما و مرارا، الشربة من لبّه أربعة دراهم و هو مقيّ‌ء حارّ في الأولى يابس في الثانية. بحر الجواهر: 306. </footnote>"
+        },
+        {
+          "footnoteId": 714169362,
+          "text": "<footnote id=\"1407\"><mnote>(2)</mnote> قال الهروي: الودك محرّكة: دسم اللحم و دهنه الذي يستخرج منه. بحر الجواهر: 379. </footnote>"
+        },
+        {
+          "footnoteId": 714169363,
+          "text": "<footnote id=\"1408\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169364,
+          "text": "<footnote id=\"1409\"><mnote>(4)</mnote> في النسخة: «الخلّال». و ما أثبتناه من الكافي. و الجلّاب: هو الذي يجلب الغنم و نحوه. انظر: الفصول المهمّة 101:3. </footnote>"
+        },
+        {
+          "footnoteId": 714169365,
+          "text": "<footnote id=\"1410\"><mnote>(5)</mnote> كلمة: «قال» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169366,
+          "text": "<footnote id=\"1411\"><mnote>(6)</mnote> رواه الكليني في الكافي 2/372:6، باب الجزر، عن محمّد بن يحيى، عن محمّد بن موسى، عن أحمد بن الحسن الجلّاب، عن موسى بن إسماعيل، عن ابن أبي عمير، عن بعض أصحابنا، عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/184، في الجزر، عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714169367,
+          "text": "<footnote id=\"1412\"><mnote>(7)</mnote> في النسخة: «الخيّاط» و ما أثبتناه من مصادر الحديث و الرجال. </footnote>"
+        },
+        {
+          "footnoteId": 714169368,
+          "text": "<footnote id=\"1413\"><mnote>(8)</mnote> كلمة: «من» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169369,
+          "text": "<footnote id=\"1414\"><mnote>(9)</mnote> رواه البرقي في المحاسن 16/509:2، باب الهندباء، بالسندين عن علي بن الحكم، عن <page number=\"255\"/>مثنّى بن الوليد، عن أبي عبد الله عليه السّلام، و رواه الأصمّ‌، عن شعيب العقرقوفي، عن أبي بصير، عن أبي عبد الله عليه السّلام، و الكليني في الكافي 1/362:6، باب ما جاء في الهندباء، عن محمّد بن يحيى، عن أحمد بن محمّد، عن علي بن الحكم، و الطبرسي في مكارم الأخلاق: 1/177، في الهندباء، عن الصادق عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "254",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3328\" paragraph-id=\"3328\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo254\">254</span> فقال: «خذ القرطم<span><sup><a class=\"NewFn\" href=\"#footnote1406\" title=\"(1)  و يقال له: كاجيرة و العصفر. و قال الهروي: القرطم كبرثن - و قد يجيء كزبرج -: مغز كاجيرة يسهل بلغما و مرارا، الشربة من لبّه أربعة دراهم و هو مقيّ‌ء حارّ في الأولى يابس في الثانية. بحر الجواهر: 306. \">1</a></sup></span> فاطحنه حتّى يخرج و دكه<span><sup><a class=\"NewFn\" href=\"#footnote1407\" title=\"(2)  قال الهروي: الودك محرّكة: دسم اللحم و دهنه الذي يستخرج منه. بحر الجواهر: 379. \">2</a></sup></span>، و خذ الودك تصفّه و اطبخه و ارم بحبّه و أطعمه إيّاه، فإن كانت به حياة لم يبق شيء في بطنه إلّا خرج بإذن الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote1408\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p3329\" paragraph-id=\"3329\" class=\" G\">[412] </p>\n  <p id=\"p3330\" paragraph-id=\"3330\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى محمّد بن موسى، عن أحمد بن الحسن الجلّاب<span><sup><a class=\"NewFn\" href=\"#footnote1409\" title=\"(4)  في النسخة: «الخلّال». و ما أثبتناه من الكافي. و الجلّاب: هو الذي يجلب الغنم و نحوه. انظر: الفصول المهمّة 101:3. \">4</a></sup></span>، عن موسى بن إسماعيل بن رئاب، عن بعض أصحابنا، قال<span><sup><a class=\"NewFn\" href=\"#footnote1410\" title=\"(5)  كلمة: «قال» أثبتناها من المصدر. \">5</a></sup></span>: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«الجزر أمان من القولنج و البواسير، و يعين على الجماع»<span><sup><a class=\"NewFn\" href=\"#footnote1411\" title=\"(6)  رواه الكليني في الكافي 2/372:6، باب الجزر، عن محمّد بن يحيى، عن محمّد بن موسى، عن أحمد بن الحسن الجلّاب، عن موسى بن إسماعيل، عن ابن أبي عمير، عن بعض أصحابنا، عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/184، في الجزر، عن أبي عبد الله عليه السّلام. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3331\" paragraph-id=\"3331\" class=\" G\">[413] </p>\n  <p id=\"p3332\" paragraph-id=\"3332\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، عن المثنّى بن الوليد الحنّاط<span><sup><a class=\"NewFn\" href=\"#footnote1412\" title=\"(7)  في النسخة: «الخيّاط» و ما أثبتناه من مصادر الحديث و الرجال. \">7</a></sup></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«من بات و في جوفه سبع ورقات هندباء أمن من<span><sup><a class=\"NewFn\" href=\"#footnote1413\" title=\"(8)  كلمة: «من» أثبتناها من المصدر. \">8</a></sup></span> القولنج تلك الليلة»<span><sup><a class=\"NewFn\" href=\"#footnote1414\" title=\"(9)  رواه البرقي في المحاسن 16/509:2، باب الهندباء، بالسندين عن علي بن الحكم، عن \">9</a></sup></span>. </span>\n  </p>\n  <p id=\"p3333\" paragraph-id=\"3333\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1406\" footnote-id=\"1406\">(1) <page number=\"254\" /> و يقال له: كاجيرة و العصفر. و قال الهروي: القرطم كبرثن - و قد يجيء كزبرج -: مغز كاجيرة يسهل بلغما و مرارا، الشربة من لبّه أربعة دراهم و هو مقيّ‌ء حارّ في الأولى يابس في الثانية. بحر الجواهر: 306. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1407\" footnote-id=\"1407\">(2)  قال الهروي: الودك محرّكة: دسم اللحم و دهنه الذي يستخرج منه. بحر الجواهر: 379. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1408\" footnote-id=\"1408\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1409\" footnote-id=\"1409\">(4)  في النسخة: «الخلّال». و ما أثبتناه من الكافي. و الجلّاب: هو الذي يجلب الغنم و نحوه. انظر: الفصول المهمّة 101:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1410\" footnote-id=\"1410\">(5)  كلمة: «قال» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1411\" footnote-id=\"1411\">(6)  رواه الكليني في الكافي 2/372:6، باب الجزر، عن محمّد بن يحيى، عن محمّد بن موسى، عن أحمد بن الحسن الجلّاب، عن موسى بن إسماعيل، عن ابن أبي عمير، عن بعض أصحابنا، عن أبي عبد الله عليه السّلام، و الطبرسي في مكارم الأخلاق: 2/184، في الجزر، عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1412\" footnote-id=\"1412\">(7)  في النسخة: «الخيّاط» و ما أثبتناه من مصادر الحديث و الرجال. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1413\" footnote-id=\"1413\">(8)  كلمة: «من» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1414\" footnote-id=\"1414\">(9)  رواه البرقي في المحاسن 16/509:2، باب الهندباء، بالسندين عن علي بن الحكم، عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "BF64E7F0-BFFC-4376-8AB0-C4AA157365A6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 98,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166539,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2571\"><page number=\"98\"/>[152] </p>"
+        },
+        {
+          "paragraphId": 714166540,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2572\"><format class=\"hadith\" who=\"6\" Id=\"150\" RevayatIndex=\"150\"><format class=\"sanadHadith\">و قال عليه السّلام: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\"/></format>«من قرأ سورة النحل كلّ شهر كفي المغرم في الدنيا و سبعين<lfootnote noteId=\"715\">1</lfootnote> نوعا من أنواع البلاء أهونه الجنون و الجذام و البرص.</format></p>"
+        },
+        {
+          "paragraphId": 714166541,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2573\"><format class=\"hadith\" who=\"6\" Id=\"150\" RevayatIndex=\"150\">و من قرأ سورة لقمان في كلّ ليلة وكّل الله تعالى ثلاثين ملكا يحفظونه من إبليس و جنوده حتّى يصبح، فإن قرأها بالنهار لم يزالوا يحفظونه حتّى يمسي<lfootnote noteId=\"716\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166542,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2574\"><format class=\"hadith\" who=\"6\" Id=\"150\" RevayatIndex=\"150\">و من قرأ سورة يس قبل أن ينام أو في نهاره كان في نهاره من المحفوظين المرزوقين حتّى يمسي أو يصبح<lfootnote noteId=\"717\">3</lfootnote>، و من قرأها في ليلة وكّل الله به ألفي ملك يحفظونه من كلّ شيطان رجيم و من كلّ آفة، فإن مات في يومه أو ليلته<lfootnote noteId=\"718\">4</lfootnote> أدخله الجنّة و حضر غسله ثلاثون ألف ملك يستغفرون له و يشيّعونه إلى قبره.</format></p>"
+        },
+        {
+          "paragraphId": 714166543,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2575\"><format class=\"hadith\" who=\"6\" Id=\"150\" RevayatIndex=\"150\">و من قرأ سورة و الصافات في كلّ يوم جمعة لم يزل محفوظا من كلّ آفة مدفوعا عنه كلّ بليّة في الدنيا مرزوقا بأوسع ما يكون من الرزق، و لم يصبه في ماله و لا ولده و لا بدنه سوء من شيطان رجيم و من جبّار عنيد، فإن مات في يومه أو ليلته بعثه الله شهيدا.</format></p>"
+        },
+        {
+          "paragraphId": 714166544,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2576\"><format class=\"hadith\" who=\"6\" Id=\"150\" RevayatIndex=\"150\">و من قرأ سورة المؤمن<lfootnote noteId=\"719\">5</lfootnote> في يومه أو ليلته أعطاه الله شرف الدنيا و الآخرة و عزّة بلا مال و عشيرة<lfootnote noteId=\"720\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166545,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2577\"><format class=\"hadith\" who=\"6\" Id=\"150\" RevayatIndex=\"150\"><page number=\"99\"/> و من قرأ سورة الطور جمع الله له خير الدنيا و الآخرة.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168745,
+          "text": "<footnote id=\"714\"><mnote>(8)</mnote> روي في فقه الإمام الرضا عليه السّلام: 342، باب الأدوية الجامعة بالقرآن، و رواه الطبرسي في مكارم الأخلاق: 1/363، باب في السور و ما جاء فيها، كلاهما عن العالم عليه السّلام، و الطوسي بزيادة في الأمالي: 91/284، و بالإسناد قال: قال: الصادق عليه السّلام:... و فيه:<br/>«و إلّا فليقرأ سبعين مرّة، و أنا الضامن له العافية»، و الراوندي في الدعوات: 525/189، عن الصادق عليه السّلام، و انظر: مكارم الأخلاق: 387، الدعوات: 507/183، مهج <page number=\"98\"/>الدعوات: 356، المصباح للكفعمي: 152، بحار الأنوار 478:63، عن خطّ الشهيد. </footnote>"
+        },
+        {
+          "footnoteId": 714168746,
+          "text": "<footnote id=\"715\"><mnote>(1)</mnote> في النسخة: «سبعين» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168747,
+          "text": "<footnote id=\"716\"><mnote>(2)</mnote> من قوله: «فإن قرأها...» إلى هنا أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168748,
+          "text": "<footnote id=\"717\"><mnote>(3)</mnote> قوله: «أو يصبح» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168749,
+          "text": "<footnote id=\"718\"><mnote>(4)</mnote> قوله: «أو ليلته» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168750,
+          "text": "<footnote id=\"719\"><mnote>(5)</mnote> كذا في النسخة، و في المصدر: «من قرأ سورة الزمر». </footnote>"
+        },
+        {
+          "footnoteId": 714168751,
+          "text": "<footnote id=\"720\"><mnote>(6)</mnote> في المصدر: «و لا عشيرة».</footnote>"
+        }
+      ],
+      "pageValue": "98",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2571\" paragraph-id=\"2571\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo98\">98</span>[152] </p>\n  <p id=\"p2572\" paragraph-id=\"2572\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و قال عليه السّلام: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«من قرأ سورة النحل كلّ شهر كفي المغرم في الدنيا و سبعين<span><sup><a class=\"NewFn\" href=\"#footnote715\" title=\"(1)  في النسخة: «سبعين» و ما أثبتناه من المصدر. \">1</a></sup></span> نوعا من أنواع البلاء أهونه الجنون و الجذام و البرص.</span>\n  </p>\n  <p id=\"p2573\" paragraph-id=\"2573\" class=\" G\">\n    <span class=\"hadith\">و من قرأ سورة لقمان في كلّ ليلة وكّل الله تعالى ثلاثين ملكا يحفظونه من إبليس و جنوده حتّى يصبح، فإن قرأها بالنهار لم يزالوا يحفظونه حتّى يمسي<span><sup><a class=\"NewFn\" href=\"#footnote716\" title=\"(2)  من قوله: «فإن قرأها...» إلى هنا أثبتناه من المصدر. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2574\" paragraph-id=\"2574\" class=\" G\">\n    <span class=\"hadith\">و من قرأ سورة يس قبل أن ينام أو في نهاره كان في نهاره من المحفوظين المرزوقين حتّى يمسي أو يصبح<span><sup><a class=\"NewFn\" href=\"#footnote717\" title=\"(3)  قوله: «أو يصبح» أثبتناه من المصدر. \">3</a></sup></span>، و من قرأها في ليلة وكّل الله به ألفي ملك يحفظونه من كلّ شيطان رجيم و من كلّ آفة، فإن مات في يومه أو ليلته<span><sup><a class=\"NewFn\" href=\"#footnote718\" title=\"(4)  قوله: «أو ليلته» أثبتناه من المصدر. \">4</a></sup></span> أدخله الجنّة و حضر غسله ثلاثون ألف ملك يستغفرون له و يشيّعونه إلى قبره.</span>\n  </p>\n  <p id=\"p2575\" paragraph-id=\"2575\" class=\" G\">\n    <span class=\"hadith\">و من قرأ سورة و الصافات في كلّ يوم جمعة لم يزل محفوظا من كلّ آفة مدفوعا عنه كلّ بليّة في الدنيا مرزوقا بأوسع ما يكون من الرزق، و لم يصبه في ماله و لا ولده و لا بدنه سوء من شيطان رجيم و من جبّار عنيد، فإن مات في يومه أو ليلته بعثه الله شهيدا.</span>\n  </p>\n  <p id=\"p2576\" paragraph-id=\"2576\" class=\" G\">\n    <span class=\"hadith\">و من قرأ سورة المؤمن<span><sup><a class=\"NewFn\" href=\"#footnote719\" title=\"(5)  كذا في النسخة، و في المصدر: «من قرأ سورة الزمر». \">5</a></sup></span> في يومه أو ليلته أعطاه الله شرف الدنيا و الآخرة و عزّة بلا مال و عشيرة<span><sup><a class=\"NewFn\" href=\"#footnote720\" title=\"(6)  في المصدر: «و لا عشيرة».\">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p2577\" paragraph-id=\"2577\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote714\" footnote-id=\"714\"><page number=\"98\" />الدعوات: 356، المصباح للكفعمي: 152، بحار الأنوار 478:63، عن خطّ الشهيد. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote715\" footnote-id=\"715\">(1)  في النسخة: «سبعين» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote716\" footnote-id=\"716\">(2)  من قوله: «فإن قرأها...» إلى هنا أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote717\" footnote-id=\"717\">(3)  قوله: «أو يصبح» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote718\" footnote-id=\"718\">(4)  قوله: «أو ليلته» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote719\" footnote-id=\"719\">(5)  كذا في النسخة، و في المصدر: «من قرأ سورة الزمر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote720\" footnote-id=\"720\">(6)  في المصدر: «و لا عشيرة».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E8B70CE1-36DF-4732-8CA5-E880A1D99582",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

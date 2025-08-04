@@ -1,0 +1,81 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 153,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170322,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1577\"><format class=\"hadith\" who=\"14,5\" Id=\"205\" RevayatIndex=\"726\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format> قال: </format>«ختن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله </format></format><format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"2\">الحسن </format></format><page number=\"153\"/> و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"3\">الحسين عليهما السّلام</format></format> لسبعة أيّام، و حلق رؤوسهما و تصدّق بزنة الشعر فضّة، و عقّ عنهما<lfootnote noteId=\"617\">1</lfootnote> و أعطى القابلة طائفا»<lfootnote noteId=\"618\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170323,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1578\">[209] </p>"
+        },
+        {
+          "paragraphId": 714170324,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1579\"><format class=\"hadith\" who=\"6\" Id=\"206\" RevayatIndex=\"727\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«يسمّى الصبي يوم السابع، و يحلق رأسه و يتصدّق بزنة الشعر فضّة، و يعقّ عنه بكبش فحل و يقطع أعضاءه، و يدخل عليه رهط من المسلمين، فإن لم يطبخ فلا بأس، يتصدّق به أعضاء. و الغلام و الجارية في ذلك سواء<lfootnote noteId=\"619\">3</lfootnote>، و لا يأكل من العقيقة الرجل و لا عياله<lfootnote noteId=\"620\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170325,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1580\"><format class=\"hadith\" who=\"6\" Id=\"206\" RevayatIndex=\"727\">و للقابلة شطر العقيقة<lfootnote noteId=\"621\">5</lfootnote>، فإن كانت القابلة امّ الرجل أو في عياله فليس لها منها شيء<lfootnote noteId=\"622\">6</lfootnote>، فإن شاء قسّمها أعضاء و إن شاء طبخها و قسّم معها خبزا و مرقا، <page number=\"154\"/> و لا يعطيها إلّا أهل الولاية»<lfootnote noteId=\"623\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171414,
+          "text": "<footnote id=\"617\"><page number=\"153\"/><mnote>(1)</mnote> قوله: «فضة و عقّ عنهما» أثبتناه من مكارم الأخلاق و من الحديث المروي قبل قليل. </footnote>"
+        },
+        {
+          "footnoteId": 714171415,
+          "text": "<footnote id=\"618\"><mnote>(2)</mnote> تقدّم في الحديث 200. انظر مصادره. </footnote>"
+        },
+        {
+          "footnoteId": 714171416,
+          "text": "<footnote id=\"619\"><mnote>(3)</mnote> استحباب مساواة العقيقة للمولود - كما ذكر جملة من الأصحاب - بأن يعقّ عن الذكر ذكرا و عن الانثى انثى. و أكثر الأخبار الواردة ظاهرة في مساواة الغلام للجارية في العقيقة. انظر: مسائل علي بن جعفر: 217/155، قرب الإسناد: 1170/297 و 1211/311، الكافي 1/26:6-4، من لا يحضره الفقيه 4715/485:3، دعائم الإسلام 681/188:2، تهذيب الأحكام 1769/442:7، مكارم الأخلاق: 227. </footnote>"
+        },
+        {
+          "footnoteId": 714171417,
+          "text": "<footnote id=\"620\"><mnote>(4)</mnote> يكره أكل الوالدين منها بل جملة العيال، و يتأكّد في الامّ‌، و يدلّ عليه روايات. انظر:<br/>مسائل علي بن جعفر: 26/111، فقه الإمام الرضا عليه السّلام: 239، الكافي 1/32:6 و ح 3، من لا يحضره الفقيه 486:3. </footnote>"
+        },
+        {
+          "footnoteId": 714171418,
+          "text": "<footnote id=\"621\"><mnote>(5)</mnote> في بعض المصادر: «ثلث العقيقة»، و في بعضها: «ثلث من العقيقة». </footnote>"
+        },
+        {
+          "footnoteId": 714171419,
+          "text": "<footnote id=\"622\"><mnote>(6)</mnote> قال المجلسي: يدلّ على كراهة الأكل منها للأب و والدته و جميع عياله كراهة ضعيفة إلّا الأمّ‌؛ فإنّه يكره لها كراهة شديدة، و ظاهر الكليني أنّه لا يقول بالكراهة إلّا في الأمّ‌،<page number=\"154\"/>و المشهور بين الأصحاب كراهة الأكل منها للوالدين حسب، و أما إذا عقّ الرجل عن نفسه فهل يكره له الأكل منها؟ الظاهر العدم؛ لأنّا لم نر شيئا يدلّ على كراهة ذلك صريحا، و لم يتعرّض له الأصحاب أيضا. مرآة العقول 57:21. </footnote>"
+        }
+      ],
+      "pageValue": "153",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1577\" paragraph-id=\"1577\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo153\">153</span> و <span class=\"BD\"><span class=\"maasoom\">الحسين عليهما السّلام</span></span> لسبعة أيّام، و حلق رؤوسهما و تصدّق بزنة الشعر فضّة، و عقّ عنهما<span><sup><a class=\"NewFn\" href=\"#footnote617\" title=\"(1)  قوله: «فضة و عقّ عنهما» أثبتناه من مكارم الأخلاق و من الحديث المروي قبل قليل. \">1</a></sup></span> و أعطى القابلة طائفا»<span><sup><a class=\"NewFn\" href=\"#footnote618\" title=\"(2)  تقدّم في الحديث 200. انظر مصادره. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1578\" paragraph-id=\"1578\" class=\" G\">[209] </p>\n  <p id=\"p1579\" paragraph-id=\"1579\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«يسمّى الصبي يوم السابع، و يحلق رأسه و يتصدّق بزنة الشعر فضّة، و يعقّ عنه بكبش فحل و يقطع أعضاءه، و يدخل عليه رهط من المسلمين، فإن لم يطبخ فلا بأس، يتصدّق به أعضاء. و الغلام و الجارية في ذلك سواء<span><sup><a class=\"NewFn\" href=\"#footnote619\" title=\"(3)  استحباب مساواة العقيقة للمولود - كما ذكر جملة من الأصحاب - بأن يعقّ عن الذكر ذكرا و عن الانثى انثى. و أكثر الأخبار الواردة ظاهرة في مساواة الغلام للجارية في العقيقة. انظر: مسائل علي بن جعفر: 217/155، قرب الإسناد: 1170/297 و 1211/311، الكافي 1/26:6-4، من لا يحضره الفقيه 4715/485:3، دعائم الإسلام 681/188:2، تهذيب الأحكام 1769/442:7، مكارم الأخلاق: 227. \">3</a></sup></span>، و لا يأكل من العقيقة الرجل و لا عياله<span><sup><a class=\"NewFn\" href=\"#footnote620\" title=\"(4)  يكره أكل الوالدين منها بل جملة العيال، و يتأكّد في الامّ‌، و يدلّ عليه روايات. انظر:مسائل علي بن جعفر: 26/111، فقه الإمام الرضا عليه السّلام: 239، الكافي 1/32:6 و ح 3، من لا يحضره الفقيه 486:3. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1580\" paragraph-id=\"1580\" class=\" G\">\n    <span class=\"hadith\">و للقابلة شطر العقيقة<span><sup><a class=\"NewFn\" href=\"#footnote621\" title=\"(5)  في بعض المصادر: «ثلث العقيقة»، و في بعضها: «ثلث من العقيقة». \">5</a></sup></span>، فإن كانت القابلة امّ الرجل أو في عياله فليس لها منها شيء<span><sup><a class=\"NewFn\" href=\"#footnote622\" title=\"(6)  قال المجلسي: يدلّ على كراهة الأكل منها للأب و والدته و جميع عياله كراهة ضعيفة إلّا الأمّ‌؛ فإنّه يكره لها كراهة شديدة، و ظاهر الكليني أنّه لا يقول بالكراهة إلّا في الأمّ‌،\">6</a></sup></span>، فإن شاء قسّمها أعضاء و إن شاء طبخها و قسّم معها خبزا و مرقا، </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote617\" footnote-id=\"617\">(1) <page number=\"153\" /> قوله: «فضة و عقّ عنهما» أثبتناه من مكارم الأخلاق و من الحديث المروي قبل قليل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote618\" footnote-id=\"618\">(2)  تقدّم في الحديث 200. انظر مصادره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote619\" footnote-id=\"619\">(3)  استحباب مساواة العقيقة للمولود - كما ذكر جملة من الأصحاب - بأن يعقّ عن الذكر ذكرا و عن الانثى انثى. و أكثر الأخبار الواردة ظاهرة في مساواة الغلام للجارية في العقيقة. انظر: مسائل علي بن جعفر: 217/155، قرب الإسناد: 1170/297 و 1211/311، الكافي 1/26:6-4، من لا يحضره الفقيه 4715/485:3، دعائم الإسلام 681/188:2، تهذيب الأحكام 1769/442:7، مكارم الأخلاق: 227. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote620\" footnote-id=\"620\">(4)  يكره أكل الوالدين منها بل جملة العيال، و يتأكّد في الامّ‌، و يدلّ عليه روايات. انظر:<br />مسائل علي بن جعفر: 26/111، فقه الإمام الرضا عليه السّلام: 239، الكافي 1/32:6 و ح 3، من لا يحضره الفقيه 486:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote621\" footnote-id=\"621\">(5)  في بعض المصادر: «ثلث العقيقة»، و في بعضها: «ثلث من العقيقة». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote622\" footnote-id=\"622\">(6)  قال المجلسي: يدلّ على كراهة الأكل منها للأب و والدته و جميع عياله كراهة ضعيفة إلّا الأمّ‌؛ فإنّه يكره لها كراهة شديدة، و ظاهر الكليني أنّه لا يقول بالكراهة إلّا في الأمّ‌،</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "481AD040-B9E6-4B52-8A9A-F22A62601274",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

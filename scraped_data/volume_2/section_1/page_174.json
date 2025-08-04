@@ -1,0 +1,135 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 174,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170418,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1673\"><page number=\"174\"/><heading level=\"2\">[باب] فيما جاء في حلّ السحر </heading></p>"
+        },
+        {
+          "paragraphId": 714170419,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1674\">[241] </p>"
+        },
+        {
+          "paragraphId": 714170420,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1675\"><format class=\"hadith\" who=\"16\" Id=\"238\" RevayatIndex=\"759\"><format class=\"sanadHadith\">روى محمّد بن مسلمة قال<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format>: </format>سألته عن المسحور يأتي السحرة عنه<lfootnote noteId=\"707\">1</lfootnote>؟</format></p>"
+        },
+        {
+          "paragraphId": 714170421,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1676\"><format class=\"hadith\" who=\"16\" Id=\"238\" RevayatIndex=\"759\">قال: «لا بأس»<lfootnote noteId=\"708\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170422,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1677\">[242] </p>"
+        },
+        {
+          "paragraphId": 714170423,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1678\"><format class=\"hadith\" who=\"1,14,6\" Id=\"239\" RevayatIndex=\"760\"><format class=\"sanadHadith\">روى علي بن حمزة، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format></format> أنّه سئل عن المعوّذتين: أهما من القرآن‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714170424,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1679\"><format class=\"hadith\" who=\"1,14,6\" Id=\"239\" RevayatIndex=\"760\">فقال: «نعم».</format></p>"
+        },
+        {
+          "paragraphId": 714170425,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1680\"><format class=\"hadith\" who=\"1,14,6\" Id=\"239\" RevayatIndex=\"760\">فقال الرجل: ليس في قراءة ابن مسعود!</format></p>"
+        },
+        {
+          "paragraphId": 714170426,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1681\"><format class=\"hadith\" who=\"1,14,6\" Id=\"239\" RevayatIndex=\"760\">فقال: «أخطأ ابن مسعود» أو قال<lfootnote noteId=\"709\">3</lfootnote>: «كذب، هما من القرآن».</format></p>"
+        },
+        {
+          "paragraphId": 714170427,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1682\"><format class=\"hadith\" who=\"1,14,6\" Id=\"239\" RevayatIndex=\"760\">قال: فأقرأهما في المكتوبة‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714170428,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1683\"><format class=\"hadith\" who=\"1,14,6\" Id=\"239\" RevayatIndex=\"760\">قال: «نعم». ثمّ قال: «هل تدري ما معنى<lfootnote noteId=\"710\">4</lfootnote> المعوّذتين و في أيّ شيء أنزلتا؟»</format></p>"
+        },
+        {
+          "paragraphId": 714170429,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1684\"><format class=\"hadith\" who=\"1,14,6\" Id=\"239\" RevayatIndex=\"760\">قلت<lfootnote noteId=\"711\">5</lfootnote>: لا أدري.</format></p>"
+        },
+        {
+          "paragraphId": 714170430,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1685\"><format class=\"hadith\" who=\"1,14,6\" Id=\"239\" RevayatIndex=\"760\"><page number=\"175\"/> فقال: «إنّ <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> سحره لبيد<lfootnote noteId=\"712\">1</lfootnote> بن أعصم اليهودي».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171503,
+          "text": "<footnote id=\"706\"><mnote>(2)</mnote> رواه الكليني بتفاوت يسير في الكافي 1/260:7، باب حدّ الساحر - و عنه الطوسي في تهذيب الأحكام 583/147:10 - علي بن إبراهيم، عن أبيه، عن النوفلي، عن السكوني، عن أبي عبد الله عليه السّلام قال: قال رسول الله صلّى الله عليه و آله، و ابن الأشعث في الجعفريات: 128 - و عنه في النوادر للراوندي: 4 - و الصدوق في من لا يحضره الفقيه 4938/567:3، فقال: و في رواية السكوني، عن جعفر بن محمّد، عن أبيه عليهم السّلام، قال: قال رسول الله صلّى الله عليه و آله، و في علل الشرائع: 1/546، باب العلّة التي من أجلها يقتل ساحر المسلمين و لا يقتل ساحر الكفار، فقال: حدّثنا محمّد بن الحسن بن أحمد بن الوليد رحمه الله، قال: حدّثنا محمّد بن الحسن الصفّار، عن أحمد بن أبي عبد الله البرقي، عن الحسين بن يزيد النوفلي، عن إسماعيل بن مسلم السكوني، عن جعفر بن محمّد، عن أبيه عليهم السّلام، قال: قال رسول الله صلّى الله عليه و آله، بعين ما في الجعفريات، و قال بعده: و روي: «أنّ توبة الساحر أن يحلّ و لا يعقد»، و الطبرسي في مكارم الأخلاق: 414، في السحر، ذيلا للحديث السابق، عن<page number=\"174\"/>الصادق عليه السّلام: «... و لبست المسوح» ثمّ قال: «فبلغ ذلك النبيّ صلّى الله عليه و آله فقال: إنّ ذلك لا يقبل منها». فقيل: يا رسول الله، لم لا يقبل منها؟ </footnote>"
+        },
+        {
+          "footnoteId": 714171504,
+          "text": "<footnote id=\"707\"><mnote>(1)</mnote> كذا في النسخة و لعلّ المعنى: يأتي السحرة فيحلّون عنه. </footnote>"
+        },
+        {
+          "footnoteId": 714171505,
+          "text": "<footnote id=\"708\"><mnote>(2)</mnote> لم نعثر على نصّه في المصادر المتوفّرة لدينا، و لكن روى ابنا بسطام ما يؤيّد معناه في طبّ الأئمّة عليهم السّلام: 114، في النشرة للمسحور، سهل بن محمّد بن سهل، قال: حدّثنا عبد ربّه بن محمّد بن إبراهيم، عن ابن أرومة [أورمة]، عن ابن مسكان، عن الحلبي، قال:<br/>سألت أبا عبد الله عليه السّلام عن النشرة للمسحور؟ فقال: «ما كان أبي عليه السّلام يرى به بأسا». </footnote>"
+        },
+        {
+          "footnoteId": 714171506,
+          "text": "<footnote id=\"709\"><mnote>(3)</mnote> كلمة: «قال» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171507,
+          "text": "<footnote id=\"710\"><mnote>(4)</mnote> كلمة: «معنى» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171508,
+          "text": "<footnote id=\"711\"><mnote>(5)</mnote> كذا في النسخة.</footnote>"
+        }
+      ],
+      "pageValue": "174",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1673\" paragraph-id=\"1673\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo174\">174</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] فيما جاء في حلّ السحر </strong>\n  </p>\n  <p id=\"p1674\" paragraph-id=\"1674\" class=\" G\">[241] </p>\n  <p id=\"p1675\" paragraph-id=\"1675\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن مسلمة قال<span class=\"Y\"><span class=\"maasoom\"></span></span>: </span>سألته عن المسحور يأتي السحرة عنه<span><sup><a class=\"NewFn\" href=\"#footnote707\" title=\"(1)  كذا في النسخة و لعلّ المعنى: يأتي السحرة فيحلّون عنه. \">1</a></sup></span>؟</span>\n  </p>\n  <p id=\"p1676\" paragraph-id=\"1676\" class=\" G\">\n    <span class=\"hadith\">قال: «لا بأس»<span><sup><a class=\"NewFn\" href=\"#footnote708\" title=\"(2)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و لكن روى ابنا بسطام ما يؤيّد معناه في طبّ الأئمّة عليهم السّلام: 114، في النشرة للمسحور، سهل بن محمّد بن سهل، قال: حدّثنا عبد ربّه بن محمّد بن إبراهيم، عن ابن أرومة [أورمة]، عن ابن مسكان، عن الحلبي، قال:سألت أبا عبد الله عليه السّلام عن النشرة للمسحور؟ فقال: «ما كان أبي عليه السّلام يرى به بأسا». \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1677\" paragraph-id=\"1677\" class=\" G\">[242] </p>\n  <p id=\"p1678\" paragraph-id=\"1678\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى علي بن حمزة، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span></span> أنّه سئل عن المعوّذتين: أهما من القرآن‌؟</span>\n  </p>\n  <p id=\"p1679\" paragraph-id=\"1679\" class=\" G\">\n    <span class=\"hadith\">فقال: «نعم».</span>\n  </p>\n  <p id=\"p1680\" paragraph-id=\"1680\" class=\" G\">\n    <span class=\"hadith\">فقال الرجل: ليس في قراءة ابن مسعود!</span>\n  </p>\n  <p id=\"p1681\" paragraph-id=\"1681\" class=\" G\">\n    <span class=\"hadith\">فقال: «أخطأ ابن مسعود» أو قال<span><sup><a class=\"NewFn\" href=\"#footnote709\" title=\"(3)  كلمة: «قال» أثبتناها من المصدر. \">3</a></sup></span>: «كذب، هما من القرآن».</span>\n  </p>\n  <p id=\"p1682\" paragraph-id=\"1682\" class=\" G\">\n    <span class=\"hadith\">قال: فأقرأهما في المكتوبة‌؟</span>\n  </p>\n  <p id=\"p1683\" paragraph-id=\"1683\" class=\" G\">\n    <span class=\"hadith\">قال: «نعم». ثمّ قال: «هل تدري ما معنى<span><sup><a class=\"NewFn\" href=\"#footnote710\" title=\"(4)  كلمة: «معنى» أثبتناها من المصدر. \">4</a></sup></span> المعوّذتين و في أيّ شيء أنزلتا؟»</span>\n  </p>\n  <p id=\"p1684\" paragraph-id=\"1684\" class=\" G\">\n    <span class=\"hadith\">قلت<span><sup><a class=\"NewFn\" href=\"#footnote711\" title=\"(5)  كذا في النسخة.\">5</a></sup></span>: لا أدري.</span>\n  </p>\n  <p id=\"p1685\" paragraph-id=\"1685\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote706\" footnote-id=\"706\"><page number=\"174\" />الصادق عليه السّلام: «... و لبست المسوح» ثمّ قال: «فبلغ ذلك النبيّ صلّى الله عليه و آله فقال: إنّ ذلك لا يقبل منها». فقيل: يا رسول الله، لم لا يقبل منها؟ </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote707\" footnote-id=\"707\">(1)  كذا في النسخة و لعلّ المعنى: يأتي السحرة فيحلّون عنه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote708\" footnote-id=\"708\">(2)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و لكن روى ابنا بسطام ما يؤيّد معناه في طبّ الأئمّة عليهم السّلام: 114، في النشرة للمسحور، سهل بن محمّد بن سهل، قال: حدّثنا عبد ربّه بن محمّد بن إبراهيم، عن ابن أرومة [أورمة]، عن ابن مسكان، عن الحلبي، قال:<br />سألت أبا عبد الله عليه السّلام عن النشرة للمسحور؟ فقال: «ما كان أبي عليه السّلام يرى به بأسا». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote709\" footnote-id=\"709\">(3)  كلمة: «قال» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote710\" footnote-id=\"710\">(4)  كلمة: «معنى» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote711\" footnote-id=\"711\">(5)  كذا في النسخة.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "93684F74-9BCE-4C1B-85F5-C6BE11860E45",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

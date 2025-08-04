@@ -1,0 +1,115 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 215,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167396,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3142\"><format class=\"hadith\" who=\"6\" Id=\"346\" RevayatIndex=\"346\"><format class=\"sanadHadith\">روى عامر بن أحمد<lfootnote noteId=\"1227\">6</lfootnote> قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> يبوسة <page number=\"215\"/> الحلق و قلّة الماء فيه.</format></p>"
+        },
+        {
+          "paragraphId": 714167397,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3143\"><format class=\"hadith\" who=\"6\" Id=\"346\" RevayatIndex=\"346\">فقال لي: «هذا من الاحتراق. عليك بالنبق الرطب و شمّ البصل النار<lfootnote noteId=\"1228\">1</lfootnote>و كله». ففعلت فذهب عنّي<lfootnote noteId=\"1229\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167398,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3144\">[349] </p>"
+        },
+        {
+          "paragraphId": 714167399,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3145\"><format class=\"hadith\" who=\"14,5\" Id=\"347\" RevayatIndex=\"347\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format> قال: </format>«كان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format> إذا اشتكى حلقه حسا<lfootnote noteId=\"1230\">3</lfootnote> الماء البارد و ربّما شاربه شيء من عسل»<lfootnote noteId=\"1231\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167400,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3146\"><heading level=\"2\">[باب] الصدر و أوجاعه </heading></p>"
+        },
+        {
+          "paragraphId": 714167401,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3147\">[350] </p>"
+        },
+        {
+          "paragraphId": 714167402,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3148\"><format class=\"hadith\" who=\"7\" Id=\"348\" RevayatIndex=\"348\"><format class=\"sanadHadith\">روى الحسن بن عبد الوهّاب المدائني،</format> قال: شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">موسى عليه السّلام </format></format>ما ألقى من وجع الصدر.</format></p>"
+        },
+        {
+          "paragraphId": 714167403,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3149\"><format class=\"hadith\" who=\"7\" Id=\"348\" RevayatIndex=\"348\">قال: «خذ رمّانة فاقطع رأسها و صبّ عليها دهن بنفسج خالص و اجعلها على النار حتّى تغلي<lfootnote noteId=\"1232\">5</lfootnote> و ينشف الدهن مرّتين أو ثلاثة، ثمّ ألقها في إناء و صبّ عليها سكّر طبرزد وزن خمسة دراهم<lfootnote noteId=\"1233\">6</lfootnote> و كله على الريق»<lfootnote noteId=\"1234\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167404,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3150\"><page number=\"216\"/>[351] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169272,
+          "text": "<footnote id=\"1228\"><page number=\"215\"/><mnote>(1)</mnote> قال المجلسي: أشم النار، أي: أقلي بالنار قليا خفيفا كأنّه شمّ رائحته، في القاموس:<br/>أشمّ الحجّام الختان أخذ منه قليلا، انتهى. و هذا مجاز شائع بين العرب و العجم. بحار الأنوار 261:63. </footnote>"
+        },
+        {
+          "footnoteId": 714169273,
+          "text": "<footnote id=\"1229\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169274,
+          "text": "<footnote id=\"1230\"><mnote>(3)</mnote> و الحسوة بالضمّ - و الفتح لغة -: الجرعة من الشراب، ملء الفم ممّا يحسى مرّة واحدة. مجمع البحرين 99:1 «حسا». </footnote>"
+        },
+        {
+          "footnoteId": 714169275,
+          "text": "<footnote id=\"1231\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169276,
+          "text": "<footnote id=\"1232\"><mnote>(5)</mnote> يمكن أن تقرأ في النسخة «تقلى». </footnote>"
+        },
+        {
+          "footnoteId": 714169277,
+          "text": "<footnote id=\"1233\"><mnote>(6)</mnote> في النسخة «درهم» و هو من سهو الناسخ. </footnote>"
+        },
+        {
+          "footnoteId": 714169278,
+          "text": "<footnote id=\"1234\"><mnote>(7)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "215",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3142\" paragraph-id=\"3142\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo215\">215</span> الحلق و قلّة الماء فيه.</span>\n  </p>\n  <p id=\"p3143\" paragraph-id=\"3143\" class=\" G\">\n    <span class=\"hadith\">فقال لي: «هذا من الاحتراق. عليك بالنبق الرطب و شمّ البصل النار<span><sup><a class=\"NewFn\" href=\"#footnote1228\" title=\"(1)  قال المجلسي: أشم النار، أي: أقلي بالنار قليا خفيفا كأنّه شمّ رائحته، في القاموس:أشمّ الحجّام الختان أخذ منه قليلا، انتهى. و هذا مجاز شائع بين العرب و العجم. بحار الأنوار 261:63. \">1</a></sup></span>و كله». ففعلت فذهب عنّي<span><sup><a class=\"NewFn\" href=\"#footnote1229\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3144\" paragraph-id=\"3144\" class=\" G\">[349] </p>\n  <p id=\"p3145\" paragraph-id=\"3145\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span> قال: </span>«كان <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span> إذا اشتكى حلقه حسا<span><sup><a class=\"NewFn\" href=\"#footnote1230\" title=\"(3)  و الحسوة بالضمّ - و الفتح لغة -: الجرعة من الشراب، ملء الفم ممّا يحسى مرّة واحدة. مجمع البحرين 99:1 «حسا». \">3</a></sup></span> الماء البارد و ربّما شاربه شيء من عسل»<span><sup><a class=\"NewFn\" href=\"#footnote1231\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3146\" paragraph-id=\"3146\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الصدر و أوجاعه </strong>\n  </p>\n  <p id=\"p3147\" paragraph-id=\"3147\" class=\" G\">[350] </p>\n  <p id=\"p3148\" paragraph-id=\"3148\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الحسن بن عبد الوهّاب المدائني،</span> قال: شكوت إلى <span class=\"Y\"><span class=\"maasoom\">موسى عليه السّلام </span></span>ما ألقى من وجع الصدر.</span>\n  </p>\n  <p id=\"p3149\" paragraph-id=\"3149\" class=\" G\">\n    <span class=\"hadith\">قال: «خذ رمّانة فاقطع رأسها و صبّ عليها دهن بنفسج خالص و اجعلها على النار حتّى تغلي<span><sup><a class=\"NewFn\" href=\"#footnote1232\" title=\"(5)  يمكن أن تقرأ في النسخة «تقلى». \">5</a></sup></span> و ينشف الدهن مرّتين أو ثلاثة، ثمّ ألقها في إناء و صبّ عليها سكّر طبرزد وزن خمسة دراهم<span><sup><a class=\"NewFn\" href=\"#footnote1233\" title=\"(6)  في النسخة «درهم» و هو من سهو الناسخ. \">6</a></sup></span> و كله على الريق»<span><sup><a class=\"NewFn\" href=\"#footnote1234\" title=\"(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p3150\" paragraph-id=\"3150\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1228\" footnote-id=\"1228\">(1) <page number=\"215\" /> قال المجلسي: أشم النار، أي: أقلي بالنار قليا خفيفا كأنّه شمّ رائحته، في القاموس:<br />أشمّ الحجّام الختان أخذ منه قليلا، انتهى. و هذا مجاز شائع بين العرب و العجم. بحار الأنوار 261:63. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1229\" footnote-id=\"1229\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1230\" footnote-id=\"1230\">(3)  و الحسوة بالضمّ - و الفتح لغة -: الجرعة من الشراب، ملء الفم ممّا يحسى مرّة واحدة. مجمع البحرين 99:1 «حسا». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1231\" footnote-id=\"1231\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1232\" footnote-id=\"1232\">(5)  يمكن أن تقرأ في النسخة «تقلى». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1233\" footnote-id=\"1233\">(6)  في النسخة «درهم» و هو من سهو الناسخ. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1234\" footnote-id=\"1234\">(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "7605B70D-7437-4B84-88D3-77D7FEBBF4E6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

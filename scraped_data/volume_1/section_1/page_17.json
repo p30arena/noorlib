@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 17,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166067,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1813\"><page number=\"17\"/> 10 - كتاب الطبّ‌، لعبد الله بن جعفر الحميري صاحب كتاب قرب الإسناد<lfootnote noteId=\"20\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166068,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1814\">11 - كتاب الطبّ‌، لأبي عبد الله أحمد بن محمّد السيّاري البصري صاحب كتاب القراءات<lfootnote noteId=\"21\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166069,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1815\">12 - كتاب الطبّ‌، لأبي أحمد عبد العزيز بن يحيى بن أحمد بن عيسى الجلودي الأزدي البصري<lfootnote noteId=\"22\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166070,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1816\">13 - كتاب الطبّ‌، لأبي النضر محمّد بن مسعود العيّاشي صاحب التفسير المشهور<lfootnote noteId=\"23\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166071,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1817\">14 - كتاب الطبّ‌، لإسماعيل بن شعيب العريشي<lfootnote noteId=\"24\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166072,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1818\">15 - كتاب الطبّ‌، لمحمّد بن أحمد بن يحيى الأشعري القمي<lfootnote noteId=\"25\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 714166073,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1819\">16 - كتاب الطبّ‌، لموسى بن الحسن الأشعري القمي<lfootnote noteId=\"26\">7</lfootnote>. </p>"
+        },
+        {
+          "paragraphId": 714166074,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1820\"><page number=\"18\"/> 17 - كتاب طبّ أهل البيت عليهم السّلام، لأبي عبد الله الحسين بن محمّد [أحمد] بن عامر [عمران] بن أبي بكر الأشعري القمّي<lfootnote noteId=\"27\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714167975,
+          "text": "<footnote id=\"20\"><page number=\"17\"/><mnote>(1)</mnote> رجال النجاشي: 573/219، فهرست الطوسي: 440/294. </footnote>"
+        },
+        {
+          "footnoteId": 714167976,
+          "text": "<footnote id=\"21\"><mnote>(2)</mnote> رجال النجاشي: 192/80، فهرست الطوسي: 70/57. </footnote>"
+        },
+        {
+          "footnoteId": 714167977,
+          "text": "<footnote id=\"22\"><mnote>(3)</mnote> رجال النجاشي: 640/240، و انظر: فهرست الطوسي: 536/340، رجال الطوسي: 6224/435. </footnote>"
+        },
+        {
+          "footnoteId": 714167978,
+          "text": "<footnote id=\"23\"><mnote>(4)</mnote> فهرست ابن النديم: 246، فهرست الطوسي: 605/396، و انظر: رجال النجاشي:<br/>944/350، رجال الطوسي: 6282/440. </footnote>"
+        },
+        {
+          "footnoteId": 714167979,
+          "text": "<footnote id=\"24\"><mnote>(5)</mnote> رجال النجاشي: 66/31، فهرست الطوسي: 33/29، و انظر: رجال الطوسي:<br/>6000/415، معالم العلماء: 33/44. </footnote>"
+        },
+        {
+          "footnoteId": 714167980,
+          "text": "<footnote id=\"25\"><mnote>(6)</mnote> رجال النجاشي: 939/348، و انظر: فهرست الطوسي: 623/408، و انظر: رجال الطوسي: 6262/438. </footnote>"
+        },
+        {
+          "footnoteId": 714167981,
+          "text": "<footnote id=\"26\"><mnote>(7)</mnote> رجال النجاشي: 1078/406، و انظر: فهرست الطوسي: 728/457 رجال الطوسي:<br/>6381/449.</footnote>"
+        }
+      ],
+      "pageValue": "17",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1813\" paragraph-id=\"1813\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo17\">17</span> 10 - كتاب الطبّ‌، لعبد الله بن جعفر الحميري صاحب كتاب قرب الإسناد<span><sup><a class=\"NewFn\" href=\"#footnote20\" title=\"(1)  رجال النجاشي: 573/219، فهرست الطوسي: 440/294. \">1</a></sup></span>.</p>\n  <p id=\"p1814\" paragraph-id=\"1814\" class=\" G\">11 - كتاب الطبّ‌، لأبي عبد الله أحمد بن محمّد السيّاري البصري صاحب كتاب القراءات<span><sup><a class=\"NewFn\" href=\"#footnote21\" title=\"(2)  رجال النجاشي: 192/80، فهرست الطوسي: 70/57. \">2</a></sup></span>.</p>\n  <p id=\"p1815\" paragraph-id=\"1815\" class=\" G\">12 - كتاب الطبّ‌، لأبي أحمد عبد العزيز بن يحيى بن أحمد بن عيسى الجلودي الأزدي البصري<span><sup><a class=\"NewFn\" href=\"#footnote22\" title=\"(3)  رجال النجاشي: 640/240، و انظر: فهرست الطوسي: 536/340، رجال الطوسي: 6224/435. \">3</a></sup></span>.</p>\n  <p id=\"p1816\" paragraph-id=\"1816\" class=\" G\">13 - كتاب الطبّ‌، لأبي النضر محمّد بن مسعود العيّاشي صاحب التفسير المشهور<span><sup><a class=\"NewFn\" href=\"#footnote23\" title=\"(4)  فهرست ابن النديم: 246، فهرست الطوسي: 605/396، و انظر: رجال النجاشي:944/350، رجال الطوسي: 6282/440. \">4</a></sup></span>.</p>\n  <p id=\"p1817\" paragraph-id=\"1817\" class=\" G\">14 - كتاب الطبّ‌، لإسماعيل بن شعيب العريشي<span><sup><a class=\"NewFn\" href=\"#footnote24\" title=\"(5)  رجال النجاشي: 66/31، فهرست الطوسي: 33/29، و انظر: رجال الطوسي:6000/415، معالم العلماء: 33/44. \">5</a></sup></span>.</p>\n  <p id=\"p1818\" paragraph-id=\"1818\" class=\" G\">15 - كتاب الطبّ‌، لمحمّد بن أحمد بن يحيى الأشعري القمي<span><sup><a class=\"NewFn\" href=\"#footnote25\" title=\"(6)  رجال النجاشي: 939/348، و انظر: فهرست الطوسي: 623/408، و انظر: رجال الطوسي: 6262/438. \">6</a></sup></span>.</p>\n  <p id=\"p1819\" paragraph-id=\"1819\" class=\" G\">16 - كتاب الطبّ‌، لموسى بن الحسن الأشعري القمي<span><sup><a class=\"NewFn\" href=\"#footnote26\" title=\"(7)  رجال النجاشي: 1078/406، و انظر: فهرست الطوسي: 728/457 رجال الطوسي:6381/449.\">7</a></sup></span>. </p>\n  <p id=\"p1820\" paragraph-id=\"1820\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote20\" footnote-id=\"20\">(1) <page number=\"17\" /> رجال النجاشي: 573/219، فهرست الطوسي: 440/294. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote21\" footnote-id=\"21\">(2)  رجال النجاشي: 192/80، فهرست الطوسي: 70/57. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote22\" footnote-id=\"22\">(3)  رجال النجاشي: 640/240، و انظر: فهرست الطوسي: 536/340، رجال الطوسي: 6224/435. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote23\" footnote-id=\"23\">(4)  فهرست ابن النديم: 246، فهرست الطوسي: 605/396، و انظر: رجال النجاشي:<br />944/350، رجال الطوسي: 6282/440. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote24\" footnote-id=\"24\">(5)  رجال النجاشي: 66/31، فهرست الطوسي: 33/29، و انظر: رجال الطوسي:<br />6000/415، معالم العلماء: 33/44. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote25\" footnote-id=\"25\">(6)  رجال النجاشي: 939/348، و انظر: فهرست الطوسي: 623/408، و انظر: رجال الطوسي: 6262/438. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote26\" footnote-id=\"26\">(7)  رجال النجاشي: 1078/406، و انظر: فهرست الطوسي: 728/457 رجال الطوسي:<br />6381/449.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "81C8078A-0BCA-4DB5-AAA9-D08897A94A1B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

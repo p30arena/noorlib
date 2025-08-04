@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 149,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167183,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2780\"><page number=\"149\"/>[225] </p>"
+        },
+        {
+          "paragraphId": 714167184,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2781\"><format class=\"hadith\" who=\"6\" Id=\"223\" RevayatIndex=\"223\"><format class=\"sanadHadith\">روى أبو الحسن الكوفي<lfootnote noteId=\"923\">1</lfootnote>، عن يونس، عن موسى بن عمر بن بزيع، عن عمّه حمزة بن بزيع، عن سعيد بن أبي خلف، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام </format></format>قال<lfootnote noteId=\"924\">2</lfootnote>: </format>«الكحل عند النوم أمان من الماء الذي ينزل في العين»<lfootnote noteId=\"925\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167185,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2782\">[226] </p>"
+        },
+        {
+          "paragraphId": 714167186,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2783\"><format class=\"hadith\" who=\"14,5,6\" Id=\"224\" RevayatIndex=\"224\"><format class=\"sanadHadith\">أخبرنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن جعفر بن محمّد بن عبيد الله، عن عبد الله بن ميمون القدّاح، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">جعفر بن محمّد</format></format>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبيه عليهما السّلام</format></format> قال: </format>«كان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">للنبي عليه و آله الصلوات و السّلام</format></format> مكحلة يكتحل منها في كلّ ليلة ثلاث مراود في كلّ عين عند نومه»<lfootnote noteId=\"926\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167187,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2784\">[227] </p>"
+        },
+        {
+          "paragraphId": 714167188,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2785\"><format class=\"hadith\" who=\"6\" Id=\"225\" RevayatIndex=\"225\"><format class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن<lfootnote noteId=\"927\">5</lfootnote>، عن خلف بن حمّاد، عن رجل، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«الكحل ينبت الشعر<lfootnote noteId=\"928\">6</lfootnote>، و يحدّ البصر، <page number=\"150\"/> و يعين على طول السجود»<lfootnote noteId=\"929\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168877,
+          "text": "<footnote id=\"922\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 13/46، الفصل الثاني في التكحّل و التدهّن، عن <page number=\"149\"/>الصادق عليه السّلام، و روى ابن الأشعث نحوه في الجعفريات: 173، باب الكحل عند النوم. و أورد العامّة في كثير من كتبهم ما يدلّ على ذلك كما مرّ عن المجلسي. </footnote>"
+        },
+        {
+          "footnoteId": 714168878,
+          "text": "<footnote id=\"923\"><mnote>(1)</mnote> لعلّه هو ابن فضّال الوارد في سند الحديث السابق. </footnote>"
+        },
+        {
+          "footnoteId": 714168879,
+          "text": "<footnote id=\"924\"><mnote>(2)</mnote> كلمة: «قال» أثبتناها من مكارم الأخلاق. </footnote>"
+        },
+        {
+          "footnoteId": 714168880,
+          "text": "<footnote id=\"925\"><mnote>(3)</mnote> رواه الصدوق في ثواب الأعمال: 22، فقال: حدّثني أحمد بن محمّد، عن أبيه، عن محمّد بن أحمد، عن موسى بن جعفر، عن موسى بن عمر، عن حمزة بن بزيع، عن إسحاق بن عمّار، عن أبي عبد الله عليه السّلام، و ليس فيه: «الذي ينزل في العين»، و مثله الراوندي في الدعوات: 193/79 عن الصادق عليه السّلام، و الطبرسي في مكارم الأخلاق:<br/>14/46، الفصل الثاني في التكحّل و التدهّن عنه عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168881,
+          "text": "<footnote id=\"926\"><mnote>(4)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 83: عن جابر بن خداش، عن عبد الله بن ميمون القدّاح. </footnote>"
+        },
+        {
+          "footnoteId": 714168882,
+          "text": "<footnote id=\"927\"><mnote>(5)</mnote> و هو علي بن الحسن بن فضّال. </footnote>"
+        },
+        {
+          "footnoteId": 714168883,
+          "text": "<footnote id=\"928\"><mnote>(6)</mnote> قال المجلسي: لعلّ المراد من الشعر الأشفار. مرآة العقول 393:22.</footnote>"
+        }
+      ],
+      "pageValue": "149",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2780\" paragraph-id=\"2780\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo149\">149</span>[225] </p>\n  <p id=\"p2781\" paragraph-id=\"2781\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى أبو الحسن الكوفي<span><sup><a class=\"NewFn\" href=\"#footnote923\" title=\"(1)  لعلّه هو ابن فضّال الوارد في سند الحديث السابق. \">1</a></sup></span>، عن يونس، عن موسى بن عمر بن بزيع، عن عمّه حمزة بن بزيع، عن سعيد بن أبي خلف، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام </span></span>قال<span><sup><a class=\"NewFn\" href=\"#footnote924\" title=\"(2)  كلمة: «قال» أثبتناها من مكارم الأخلاق. \">2</a></sup></span>: </span>«الكحل عند النوم أمان من الماء الذي ينزل في العين»<span><sup><a class=\"NewFn\" href=\"#footnote925\" title=\"(3)  رواه الصدوق في ثواب الأعمال: 22، فقال: حدّثني أحمد بن محمّد، عن أبيه، عن محمّد بن أحمد، عن موسى بن جعفر، عن موسى بن عمر، عن حمزة بن بزيع، عن إسحاق بن عمّار، عن أبي عبد الله عليه السّلام، و ليس فيه: «الذي ينزل في العين»، و مثله الراوندي في الدعوات: 193/79 عن الصادق عليه السّلام، و الطبرسي في مكارم الأخلاق:14/46، الفصل الثاني في التكحّل و التدهّن عنه عليه السّلام. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2782\" paragraph-id=\"2782\" class=\" G\">[226] </p>\n  <p id=\"p2783\" paragraph-id=\"2783\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أخبرنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن جعفر بن محمّد بن عبيد الله، عن عبد الله بن ميمون القدّاح، عن <span class=\"HQ\"><span class=\"maasoom\">جعفر بن محمّد</span></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبيه عليهما السّلام</span></span> قال: </span>«كان <span class=\"Y\"><span class=\"maasoom\">للنبي عليه و آله الصلوات و السّلام</span></span> مكحلة يكتحل منها في كلّ ليلة ثلاث مراود في كلّ عين عند نومه»<span><sup><a class=\"NewFn\" href=\"#footnote926\" title=\"(4)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 83: عن جابر بن خداش، عن عبد الله بن ميمون القدّاح. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2784\" paragraph-id=\"2784\" class=\" G\">[227] </p>\n  <p id=\"p2785\" paragraph-id=\"2785\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الحسن بن بندار، عن علي بن الحسن<span><sup><a class=\"NewFn\" href=\"#footnote927\" title=\"(5)  و هو علي بن الحسن بن فضّال. \">5</a></sup></span>، عن خلف بن حمّاد، عن رجل، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«الكحل ينبت الشعر<span><sup><a class=\"NewFn\" href=\"#footnote928\" title=\"(6)  قال المجلسي: لعلّ المراد من الشعر الأشفار. مرآة العقول 393:22.\">6</a></sup></span>، و يحدّ البصر، </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote922\" footnote-id=\"922\"><page number=\"149\" />الصادق عليه السّلام، و روى ابن الأشعث نحوه في الجعفريات: 173، باب الكحل عند النوم. و أورد العامّة في كثير من كتبهم ما يدلّ على ذلك كما مرّ عن المجلسي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote923\" footnote-id=\"923\">(1)  لعلّه هو ابن فضّال الوارد في سند الحديث السابق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote924\" footnote-id=\"924\">(2)  كلمة: «قال» أثبتناها من مكارم الأخلاق. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote925\" footnote-id=\"925\">(3)  رواه الصدوق في ثواب الأعمال: 22، فقال: حدّثني أحمد بن محمّد، عن أبيه، عن محمّد بن أحمد، عن موسى بن جعفر، عن موسى بن عمر، عن حمزة بن بزيع، عن إسحاق بن عمّار، عن أبي عبد الله عليه السّلام، و ليس فيه: «الذي ينزل في العين»، و مثله الراوندي في الدعوات: 193/79 عن الصادق عليه السّلام، و الطبرسي في مكارم الأخلاق:<br />14/46، الفصل الثاني في التكحّل و التدهّن عنه عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote926\" footnote-id=\"926\">(4)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 83: عن جابر بن خداش، عن عبد الله بن ميمون القدّاح. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote927\" footnote-id=\"927\">(5)  و هو علي بن الحسن بن فضّال. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote928\" footnote-id=\"928\">(6)  قال المجلسي: لعلّ المراد من الشعر الأشفار. مرآة العقول 393:22.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "7813EFF2-2CC9-4681-9FFB-19287240983B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

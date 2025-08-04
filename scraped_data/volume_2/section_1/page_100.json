@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 100,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170118,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1373\"><page number=\"100\"/>[132] </p>"
+        },
+        {
+          "paragraphId": 714170119,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1374\"><format class=\"hadith\" who=\"16\" Id=\"131\" RevayatIndex=\"652\"><format class=\"sanadHadith\">و روي</format> أنّه: إذا لدغ أحدكم العقرب فاكتب على الأرض مثلّث أبوى<lfootnote noteId=\"392\">1</lfootnote>، أزدي، سكّانا، ثمّ تدير السكّين، و يكون ثلاث سكاكين<lfootnote noteId=\"393\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170120,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1375\"><heading level=\"2\">[باب] رقية الزنبور </heading></p>"
+        },
+        {
+          "paragraphId": 714170121,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1376\">[133] الحمد لله ربّ العالمين <format class=\"ayah\" surah=\"27\" ayah=\"8\" toAyah=\"\">فَلَمّٰا جٰاءَهٰا نُودِيَ أَنْ بُورِكَ مَنْ فِي اَلنّٰارِ وَ مَنْ حَوْلَهٰا وَ سُبْحٰانَ اَللّٰهِ رَبِّ اَلْعٰالَمِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"16\"/><format class=\"ayahAddress\" surah=\"27\" ayah=\"8\" toAyah=\"\"/></format> يا <format class=\"E\" Number=\"32\">موسى</format>، ما شاء الله<lfootnote noteId=\"394\">3</lfootnote>. </p>"
+        },
+        {
+          "paragraphId": 714170122,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1377\"><heading level=\"2\">[باب] رقية العقرب و الحيّة </heading></p>"
+        },
+        {
+          "paragraphId": 714170123,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1378\">[134] </p>"
+        },
+        {
+          "paragraphId": 714170124,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1379\"><format class=\"hadith\" who=\"7|8|10\" Id=\"132\" RevayatIndex=\"653\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8|10\">أبي الحسن عليه السّلام</format></format></format>: «آيتين من كتاب الله إذا قرأتهما إذا أصبحت و أمسيت أمنت من الحيّات و العقارب و الشياطين و...<lfootnote noteId=\"395\">4</lfootnote><format class=\"ayah\" surah=\"11\" ayah=\"0\" toAyah=\"\">بِسْمِ اَللّٰهِ اَلرَّحْمٰنِ اَلرَّحِيمِ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"11\" ayah=\"0\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"11\" ayah=\"54\" toAyah=\"56\">قٰالَ إِنِّي أُشْهِدُ اَللّٰهَ وَ اِشْهَدُوا أَنِّي بَرِيءٌ مِمّٰا تُشْرِكُونَ * <format class=\"AyahSeprator\"/>مِنْ دُونِهِ فَكِيدُونِي جَمِيعاً ثُمَّ لاٰ تُنْظِرُونِ * <format class=\"AyahSeprator\"/>إِنِّي تَوَكَّلْتُ عَلَى اَللّٰهِ رَبِّي وَ رَبِّكُمْ <format class=\"ayahWord\" fromWord=\"8\" toWord=\"31\"/><format class=\"ayahAddress\" surah=\"11\" ayah=\"54\" toAyah=\"56\"/></format>- إلى قوله تعالى - <format class=\"ayah\" surah=\"11\" ayah=\"57\" toAyah=\"\">عَلىٰ كُلِّ شَيْ‌ءٍ حَفِيظٌ<format class=\"ayahWord\" fromWord=\"20\" toWord=\"23\"/><format class=\"ayahAddress\" surah=\"11\" ayah=\"57\" toAyah=\"\"/></format>»<lfootnote noteId=\"396\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170125,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1380\"><page number=\"101\"/>[135] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170748,
+          "text": "<footnote id=\"391\"><mnote>(2)</mnote> رواه الكليني في الكافي 6/570:2، باب الحرز و العوذة، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن إسحاق بن عمّار، و الفضل الطبرسي في الآداب الدينية: 181/69، فقال: و روى إسحاق بن عمّار قال: قلت للصادق عليه السّلام:...، و الطبرسي في مكارم الأخلاق: 3/291، في رقية العقرب و لدغه، فقال: آخر لأبي عبد الله عليه السّلام، قال له إسحاق بن عمّار:...، و الراوندي في الدعوات: 319/128، فقال: و عن إسحاق بن عمّار رضي الله عنه قال: قلت للصادق عليه السّلام:...<br/>أقول: عوذة اخرى للعقرب، ما رواه زيد النرسي في أصله المطبوع ضمن الاصول الستّة عشر: 47/209، عن أبي عبد الله عليه السّلام، قال: «إذا نظرت إلى السماء، فقل: سبحان من جعل في السّماء بروجا...، اللّهمّ‌! ربّ السّقف المرفوع، و البحر المكفوف، و الفلك المسجور، و النّجوم المسخّرات، و ربّ هود بن آسية صلّ على محمّد و آل محمّد، و عافني من كلّ حيّة و عقرب، و من جميع هوامّ الأرض و الهواء و السّباع و ممّا في البرّ و البحر، و من أهل الأرض و سكّان الأرض و الهواء». قال: قلت: و ما هود بن آسية‌؟ قال: «كوكبة في السماء خفيّة تحت الوسطى من الثلاث الكواكب التي في بنات النعش المتفرّقات، ذلك أمان ممّا قلت».<br/>و ما رواه الطبرسي في مكارم الأخلاق: 2/291، في رقية العقرب و لدغه، كان أبو الحسن الرضا عليه السّلام إذا نظر إلى هذه الكواكب التي يقال لها: السها في بنات النعش قال: «اللّهم ربّ هوذ [هود] بن آسية آمنّي شرّ كلّ عقرب و حيّة» قال: و كان يقول:<br/>«من تعوّذ بها ثلاث مرّات حين ينظر إليها بالليل لم يصبه عقرب و لا حيّة». <page number=\"100\"/>و قال الكفعمي: و من خواصّ السها أنّه من رآه في ليلة أمن تلك الليلة من العقرب، و السها كوكب خفي في بنات نعش الكبرى. المصباح: 222.<br/>و قال داود الأنطاكي: فائدة: من نظر إلى الصغرى من بنات نعش لم يلسع في تلك الليلة. تذكرة أولي الألباب 187:3. </footnote>"
+        },
+        {
+          "footnoteId": 714170749,
+          "text": "<footnote id=\"392\"><mnote>(1)</mnote> وردت في النسخة غير منقوطة. </footnote>"
+        },
+        {
+          "footnoteId": 714170750,
+          "text": "<footnote id=\"393\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714170751,
+          "text": "<footnote id=\"394\"><mnote>(3)</mnote> لم نعثر في المصادر المتوفّرة لدينا على رقية للزنبور، و الآية من سورة النمل 8:27. </footnote>"
+        },
+        {
+          "footnoteId": 714170752,
+          "text": "<footnote id=\"395\"><mnote>(4)</mnote> النسخة مخرومة بمقدار كلمة واحدة و لعلّها: «الجن». </footnote>"
+        },
+        {
+          "footnoteId": 714170753,
+          "text": "<footnote id=\"396\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. و الآيات من سورة هود 54:11-57، فهي في <page number=\"101\"/>المصحف أكثر من آيتين كما عبّر عنهما في صدر الرواية، فلعلّها تكون آيتين في قراءة أهل البيت عليهم السّلام أو أنّه وقع تصحيف في الرواية و هي هكذا: «آيات من كتاب الله إذا قرأتها». </footnote>"
+        }
+      ],
+      "pageValue": "100",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1373\" paragraph-id=\"1373\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo100\">100</span>[132] </p>\n  <p id=\"p1374\" paragraph-id=\"1374\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي</span> أنّه: إذا لدغ أحدكم العقرب فاكتب على الأرض مثلّث أبوى<span><sup><a class=\"NewFn\" href=\"#footnote392\" title=\"(1)  وردت في النسخة غير منقوطة. \">1</a></sup></span>، أزدي، سكّانا، ثمّ تدير السكّين، و يكون ثلاث سكاكين<span><sup><a class=\"NewFn\" href=\"#footnote393\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1375\" paragraph-id=\"1375\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] رقية الزنبور </strong>\n  </p>\n  <p id=\"p1376\" paragraph-id=\"1376\" class=\" G\">[133] الحمد لله ربّ العالمين <span style=\"0\" class=\"ayah\" surah=\"27\" ayah=\"8\">فَلَمّٰا جٰاءَهٰا نُودِيَ أَنْ بُورِكَ مَنْ فِي اَلنّٰارِ وَ مَنْ حَوْلَهٰا وَ سُبْحٰانَ اَللّٰهِ رَبِّ اَلْعٰالَمِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/27/8\"></a></span></span> يا <span class=\"E\">موسى</span>، ما شاء الله<span><sup><a class=\"NewFn\" href=\"#footnote394\" title=\"(3)  لم نعثر في المصادر المتوفّرة لدينا على رقية للزنبور، و الآية من سورة النمل 8:27. \">3</a></sup></span>. </p>\n  <p id=\"p1377\" paragraph-id=\"1377\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] رقية العقرب و الحيّة </strong>\n  </p>\n  <p id=\"p1378\" paragraph-id=\"1378\" class=\" G\">[134] </p>\n  <p id=\"p1379\" paragraph-id=\"1379\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span></span>: «آيتين من كتاب الله إذا قرأتهما إذا أصبحت و أمسيت أمنت من الحيّات و العقارب و الشياطين و...<span><sup><a class=\"NewFn\" href=\"#footnote395\" title=\"(4)  النسخة مخرومة بمقدار كلمة واحدة و لعلّها: «الجن». \">4</a></sup></span><span style=\"0\" class=\"ayah\">بِسْمِ اَللّٰهِ اَلرَّحْمٰنِ اَلرَّحِيمِ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span></span><span style=\"0\" class=\"ayah\" surah=\"11\" ayah=\"54\">قٰالَ إِنِّي أُشْهِدُ اَللّٰهَ وَ اِشْهَدُوا أَنِّي بَرِيءٌ مِمّٰا تُشْرِكُونَ * <span class=\"AyahSeprator\"></span>مِنْ دُونِهِ فَكِيدُونِي جَمِيعاً ثُمَّ لاٰ تُنْظِرُونِ * <span class=\"AyahSeprator\"></span>إِنِّي تَوَكَّلْتُ عَلَى اَللّٰهِ رَبِّي وَ رَبِّكُمْ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/11/54\"></a></span></span>- إلى قوله تعالى - <span style=\"0\" class=\"ayah\" surah=\"11\" ayah=\"57\">عَلىٰ كُلِّ شَيْ‌ءٍ حَفِيظٌ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/11/57\"></a></span></span>»<span><sup><a class=\"NewFn\" href=\"#footnote396\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. و الآيات من سورة هود 54:11-57، فهي في \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1380\" paragraph-id=\"1380\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote391\" footnote-id=\"391\"><page number=\"100\" />و قال الكفعمي: و من خواصّ السها أنّه من رآه في ليلة أمن تلك الليلة من العقرب، و السها كوكب خفي في بنات نعش الكبرى. المصباح: 222.<br />و قال داود الأنطاكي: فائدة: من نظر إلى الصغرى من بنات نعش لم يلسع في تلك الليلة. تذكرة أولي الألباب 187:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote392\" footnote-id=\"392\">(1)  وردت في النسخة غير منقوطة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote393\" footnote-id=\"393\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote394\" footnote-id=\"394\">(3)  لم نعثر في المصادر المتوفّرة لدينا على رقية للزنبور، و الآية من سورة النمل 8:27. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote395\" footnote-id=\"395\">(4)  النسخة مخرومة بمقدار كلمة واحدة و لعلّها: «الجن». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote396\" footnote-id=\"396\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. و الآيات من سورة هود 54:11-57، فهي في </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "CBDE9F56-3A21-4468-8335-E8F85F5DBAAE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

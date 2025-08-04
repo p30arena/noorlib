@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 7,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166015,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1761\"><format class=\"v\">1444 ه‍/ 2022 م</format><format class=\"EndIntroduction\" type=\"1\"/><page number=\"7\"/></p>"
+        },
+        {
+          "paragraphId": 714166016,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1762\"><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"2\"/> مقدّمة التحقيق</heading></p>"
+        },
+        {
+          "paragraphId": 714166017,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1763\"><format class=\"q\"><format class=\"a\">بسم الله الرّحمن الرّحيم </format></format></p>"
+        },
+        {
+          "paragraphId": 714166018,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1764\">اللهمّ لك الحمد، يا من يجعل الشفاء فيما يشاء من الأشياء، و يا من يمسك الرمق من الدنف العميد بما قلّ من الغذاء، و يا من يزيل بأدنى الدواء ما غلظ من الداء صلّ على سيّد الأنبياء، و طبيب الأطبّاء، و رأس العلماء، و رئيس الحكماء، و معدن الفقهاء، محمّد المصطفى، و آله المعصومين الأولياء الأزكياء، و الصادقين الأماجد الأصفياء، و السادة الهداة الأتقياء، و لا سيّما خاتمهم وارث الشريعة الغرّاء، الإمام الهادي لمن في الغبراء و الخضراء، المهدي الذي اختصّه بالمنزلة الحسناء.</p>"
+        },
+        {
+          "paragraphId": 714166019,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1765\">اللهمّ أره في ذرّيته و شيعته و رعيّته و خاصّته و عامّته و عدوّه و جميع أهل الدنيا ما تقرّ به عينه، و تسرّ به نفسه، و بلّغه أفضل أمله في الدنيا و الآخرة، إنّك على كلّ شيء قدير.</p>"
+        },
+        {
+          "paragraphId": 714166020,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1766\">و العن اللهمّ أوّل ظالم ظلم حقّ محمّد و آل محمّد و آخر تابع له على ذلك.</p>"
+        },
+        {
+          "paragraphId": 714166021,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1767\"><format class=\"a\">و أمّا بعد...</format></p>"
+        },
+        {
+          "paragraphId": 714166022,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1768\">من البداهة أن نرى - أنّ الإنسان في حياته يكون غرضا لأنواع العلل و المصائب، و مرميّا بأسهم العاهات و المكاره، و مبتلى بأقسام الأمراض و النوائب.<page number=\"8\"/> و هو حيران في حلّ هذه المشاكل و المنغّصات، و كيف يداوي هذه الأمراض و الآفات فلا يزال محتارا لا يدري ما يصنع بها.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "7",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1761\" paragraph-id=\"1761\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo7\">7</span>\n  </p>\n  <p id=\"p1762\" paragraph-id=\"1762\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span> مقدّمة التحقيق</strong>\n  </p>\n  <p id=\"p1763\" paragraph-id=\"1763\" class=\" G\">\n    <span class=\"q\">\n      <span class=\"a\">بسم الله الرّحمن الرّحيم </span>\n    </span>\n  </p>\n  <p id=\"p1764\" paragraph-id=\"1764\" class=\" G\">اللهمّ لك الحمد، يا من يجعل الشفاء فيما يشاء من الأشياء، و يا من يمسك الرمق من الدنف العميد بما قلّ من الغذاء، و يا من يزيل بأدنى الدواء ما غلظ من الداء صلّ على سيّد الأنبياء، و طبيب الأطبّاء، و رأس العلماء، و رئيس الحكماء، و معدن الفقهاء، محمّد المصطفى، و آله المعصومين الأولياء الأزكياء، و الصادقين الأماجد الأصفياء، و السادة الهداة الأتقياء، و لا سيّما خاتمهم وارث الشريعة الغرّاء، الإمام الهادي لمن في الغبراء و الخضراء، المهدي الذي اختصّه بالمنزلة الحسناء.</p>\n  <p id=\"p1765\" paragraph-id=\"1765\" class=\" G\">اللهمّ أره في ذرّيته و شيعته و رعيّته و خاصّته و عامّته و عدوّه و جميع أهل الدنيا ما تقرّ به عينه، و تسرّ به نفسه، و بلّغه أفضل أمله في الدنيا و الآخرة، إنّك على كلّ شيء قدير.</p>\n  <p id=\"p1766\" paragraph-id=\"1766\" class=\" G\">و العن اللهمّ أوّل ظالم ظلم حقّ محمّد و آل محمّد و آخر تابع له على ذلك.</p>\n  <p id=\"p1767\" paragraph-id=\"1767\" class=\" G\">\n    <span class=\"a\">و أمّا بعد...</span>\n  </p>\n  <p id=\"p1768\" paragraph-id=\"1768\" class=\" G\">من البداهة أن نرى - أنّ الإنسان في حياته يكون غرضا لأنواع العلل و المصائب، و مرميّا بأسهم العاهات و المكاره، و مبتلى بأقسام الأمراض و النوائب.</p>\n</div>",
+      "bookPageVisitLogId": "1C8C699F-798A-4B0E-8A66-7D1B90F5B70C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

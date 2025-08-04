@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 285,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167754,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3500\"><page number=\"285\"/><heading level=\"2\">[باب] فيما جاء في دخول الخلاء </heading></p>"
+        },
+        {
+          "paragraphId": 714167755,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3501\">[465] </p>"
+        },
+        {
+          "paragraphId": 714167756,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3502\"><format class=\"hadith\" who=\"14,1\" Id=\"458\" RevayatIndex=\"458\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين صلوات الله عليه</format></format>، قال: </format>«إذا أراد أحدكم الخلاء فليقل: بسم الله، اللّهمّ أمط عنّي الأذى. و ليتعوّذ بالله من الشيطان، فإذا جلس فليقل: <format class=\"semicolon\">اللّهمّ كما أطعمتني في عافية فأخرجه في عافية. فإذا قضى حاجته فليقل: الحمد لله الذي أطعمني<lfootnote noteId=\"1563\">1</lfootnote> في عافية طيّبا و أخرجه<lfootnote noteId=\"1564\">2</lfootnote> منّي خبيثا في عافية</format>.</format></p>"
+        },
+        {
+          "paragraphId": 714167757,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3503\"><format class=\"hadith\" who=\"14,1\" Id=\"458\" RevayatIndex=\"458\">فإذا نظر إلى حدثه - قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format><lfootnote noteId=\"1565\">3</lfootnote>: ما من عبد إلّا و به ملك موكّل به يلوي عنقه<lfootnote noteId=\"1566\">4</lfootnote> حتّى ينظر إلى حدثه و يقول: يا بن آدم، هذا رزقك فانظر من أين أخذته<lfootnote noteId=\"1567\">5</lfootnote> و إلى ما صار -، فعند ذلك ينبغي للناظر أن يقول: اللّهمّ ارزقني الحلال و جنّبني الحرام»<lfootnote noteId=\"1568\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167758,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3504\">[466] </p>"
+        },
+        {
+          "paragraphId": 714167759,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3505\"><format class=\"hadith\" who=\"1\" Id=\"459\" RevayatIndex=\"459\"><format class=\"sanadHadith\">و روي عنه عليه السّلام قال: </format><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\"/></format>«طول الجلوس على المقعدة يورث البواسير»<lfootnote noteId=\"1569\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167760,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3506\"><page number=\"286\"/>[467] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169518,
+          "text": "<footnote id=\"1563\"><page number=\"285\"/><mnote>(1)</mnote> في النسخة: «أطعمتني» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169519,
+          "text": "<footnote id=\"1564\"><mnote>(2)</mnote> في النسخة: «و أخرجته» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169520,
+          "text": "<footnote id=\"1565\"><mnote>(3)</mnote> في النسخة زيادة: «قال». </footnote>"
+        },
+        {
+          "footnoteId": 714169521,
+          "text": "<footnote id=\"1566\"><mnote>(4)</mnote> في المصدر: «عنقه إذا أحدث». </footnote>"
+        },
+        {
+          "footnoteId": 714169522,
+          "text": "<footnote id=\"1567\"><mnote>(5)</mnote> في النسخة: «أحدثه» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714169523,
+          "text": "<footnote id=\"1568\"><mnote>(6)</mnote> روى القاسم بن يحيى الراشدي نحوه في كتاب آداب أمير المؤمنين عليه السّلام: 399/254، و عنه بتفاوت يسير في تحف العقول: 117.<br/>و قد كثرت الأحاديث الآمرة بذكر الله و التسمية - لإنّ الشياطين تغضّ أبصارها عنه - و التعوّذ من الشيطان الرجيم و قراءة أدعية و أذكار خاصّة عند دخول الخلاء، و أكثر هذه الأدعية و الأذكار تشابه ما في المتن بزيادة و نقيصة. انظر: فقه الإمام الرضا عليه السّلام: 78، المحاسن 400/278:1، الكافي 1/16:3. </footnote>"
+        },
+        {
+          "footnoteId": 714169524,
+          "text": "<footnote id=\"1569\"><mnote>(7)</mnote> رواه الصدوق في من لا يحضره الفقيه 56/28:1، فقال: قال عليه السّلام: «طول الجلوس على <page number=\"286\"/>الخلاء يورث الباسور»، و مثله في الخصال: 65/18، حدّثنا محمّد بن علي ماجيلويه رضي الله عنه، قال: حدّثنا محمّد بن يحيى العطّار، قال: حدّثني أبو سعيد الآدمي، قال: حدّثني الحسن بن الحسين اللؤلؤي، عن محمّد بن سعيد بن غزوان، عن إسماعيل بن أبي زياد، عن أبي عبد الله جعفر بن محمّد، عن أبيه، عن جدّه، عن أبيه عليهم السّلام قال: «قال أمير المؤمنين عليه السّلام:...»، و في علل الشرائع: 1/278، باب العلّة التي من أجلها يكره طول الجلوس على الخلاء: أبي رحمه الله، قال: حدّثنا سعد بن عبد الله، عن الفضل بن عامر، عن موسى بن القاسم البلخي، عمّن ذكره، عن محمّد بن مسلم، قال: سمعت أبا جعفر عليه السّلام يقول: «طول الجلوس على الخلاء يورث البواسير». </footnote>"
+        }
+      ],
+      "pageValue": "285",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3500\" paragraph-id=\"3500\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo285\">285</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] فيما جاء في دخول الخلاء </strong>\n  </p>\n  <p id=\"p3501\" paragraph-id=\"3501\" class=\" G\">[465] </p>\n  <p id=\"p3502\" paragraph-id=\"3502\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أمير المؤمنين صلوات الله عليه</span></span>، قال: </span>«إذا أراد أحدكم الخلاء فليقل: بسم الله، اللّهمّ أمط عنّي الأذى. و ليتعوّذ بالله من الشيطان، فإذا جلس فليقل: <span class=\"semicolon\">اللّهمّ كما أطعمتني في عافية فأخرجه في عافية. فإذا قضى حاجته فليقل: الحمد لله الذي أطعمني<span><sup><a class=\"NewFn\" href=\"#footnote1563\" title=\"(1)  في النسخة: «أطعمتني» و ما أثبتناه من المصدر. \">1</a></sup></span> في عافية طيّبا و أخرجه<span><sup><a class=\"NewFn\" href=\"#footnote1564\" title=\"(2)  في النسخة: «و أخرجته» و ما أثبتناه من المصدر. \">2</a></sup></span> منّي خبيثا في عافية</span>.</span>\n  </p>\n  <p id=\"p3503\" paragraph-id=\"3503\" class=\" G\">\n    <span class=\"hadith\">فإذا نظر إلى حدثه - قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span><span><sup><a class=\"NewFn\" href=\"#footnote1565\" title=\"(3)  في النسخة زيادة: «قال». \">3</a></sup></span>: ما من عبد إلّا و به ملك موكّل به يلوي عنقه<span><sup><a class=\"NewFn\" href=\"#footnote1566\" title=\"(4)  في المصدر: «عنقه إذا أحدث». \">4</a></sup></span> حتّى ينظر إلى حدثه و يقول: يا بن آدم، هذا رزقك فانظر من أين أخذته<span><sup><a class=\"NewFn\" href=\"#footnote1567\" title=\"(5)  في النسخة: «أحدثه» و ما أثبتناه من المصدر. \">5</a></sup></span> و إلى ما صار -، فعند ذلك ينبغي للناظر أن يقول: اللّهمّ ارزقني الحلال و جنّبني الحرام»<span><sup><a class=\"NewFn\" href=\"#footnote1568\" title=\"(6)  روى القاسم بن يحيى الراشدي نحوه في كتاب آداب أمير المؤمنين عليه السّلام: 399/254، و عنه بتفاوت يسير في تحف العقول: 117.و قد كثرت الأحاديث الآمرة بذكر الله و التسمية - لإنّ الشياطين تغضّ أبصارها عنه - و التعوّذ من الشيطان الرجيم و قراءة أدعية و أذكار خاصّة عند دخول الخلاء، و أكثر هذه الأدعية و الأذكار تشابه ما في المتن بزيادة و نقيصة. انظر: فقه الإمام الرضا عليه السّلام: 78، المحاسن 400/278:1، الكافي 1/16:3. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3504\" paragraph-id=\"3504\" class=\" G\">[466] </p>\n  <p id=\"p3505\" paragraph-id=\"3505\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عنه عليه السّلام قال: </span>\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>«طول الجلوس على المقعدة يورث البواسير»<span><sup><a class=\"NewFn\" href=\"#footnote1569\" title=\"(7)  رواه الصدوق في من لا يحضره الفقيه 56/28:1، فقال: قال عليه السّلام: «طول الجلوس على \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p3506\" paragraph-id=\"3506\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1563\" footnote-id=\"1563\">(1) <page number=\"285\" /> في النسخة: «أطعمتني» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1564\" footnote-id=\"1564\">(2)  في النسخة: «و أخرجته» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1565\" footnote-id=\"1565\">(3)  في النسخة زيادة: «قال». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1566\" footnote-id=\"1566\">(4)  في المصدر: «عنقه إذا أحدث». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1567\" footnote-id=\"1567\">(5)  في النسخة: «أحدثه» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1568\" footnote-id=\"1568\">(6)  روى القاسم بن يحيى الراشدي نحوه في كتاب آداب أمير المؤمنين عليه السّلام: 399/254، و عنه بتفاوت يسير في تحف العقول: 117.<br />و قد كثرت الأحاديث الآمرة بذكر الله و التسمية - لإنّ الشياطين تغضّ أبصارها عنه - و التعوّذ من الشيطان الرجيم و قراءة أدعية و أذكار خاصّة عند دخول الخلاء، و أكثر هذه الأدعية و الأذكار تشابه ما في المتن بزيادة و نقيصة. انظر: فقه الإمام الرضا عليه السّلام: 78، المحاسن 400/278:1، الكافي 1/16:3. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1569\" footnote-id=\"1569\">(7)  رواه الصدوق في من لا يحضره الفقيه 56/28:1، فقال: قال عليه السّلام: «طول الجلوس على </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "2CEB5249-C3ED-492B-BB67-849739DDFF1D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

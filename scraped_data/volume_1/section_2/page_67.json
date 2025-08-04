@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 67,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166795,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2400\"><page number=\"67\"/>[100] </p>"
+        },
+        {
+          "paragraphId": 714166796,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2401\"><format class=\"hadith\" who=\"4,8|7\" Id=\"100\" RevayatIndex=\"100\"><format class=\"sanadHadith\">و روى محمّد بن الحسن الصفّار، عن معاوية بن حكم، عن عيسى بن إبراهيم قال: قال: سألت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8|7\">أبا الحسن عليه السّلام</format></format> عن الحمية<lfootnote noteId=\"549\">1</lfootnote>؟</format></format></p>"
+        },
+        {
+          "paragraphId": 714166797,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2402\"><format class=\"hadith\" who=\"4,8|7\" Id=\"100\" RevayatIndex=\"100\"><format class=\"sanadHadith\">فقال: </format>«كان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"4\">علي بن الحسين عليهما السّلام</format></format> يكرهها و يخلّط و يسمّ‌<lfootnote noteId=\"550\">2</lfootnote>»<lfootnote noteId=\"551\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166798,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2403\">[101] </p>"
+        },
+        {
+          "paragraphId": 714166799,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2404\"><format class=\"hadith\" who=\"4,7\" Id=\"101\" RevayatIndex=\"101\"><format class=\"sanadHadith\">حدّثنا الحميري، و روى محمّد بن الحسن الصفّار، عن محمّد بن عيسى، قال:</format> كتبت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">العبد الصالح عليه السّلام</format></format><lfootnote noteId=\"552\">4</lfootnote>: إنّي لقيت من مداراة جسدي شدّة، و لست أقوم في الحمية على ما يصلح له جسدي أو يفسده.</format></p>"
+        },
+        {
+          "paragraphId": 714166800,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2405\"><format class=\"hadith\" who=\"4,7\" Id=\"101\" RevayatIndex=\"101\">فقال: «اترك الحمية و اشرب الفرات بالعسل عند منامك و على الريق؛ فإنّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"4\">علي بن الحسين عليهما السّلام</format></format> كان لا يرى الحمية»<lfootnote noteId=\"553\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166801,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2406\"><page number=\"68\"/>[102] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168579,
+          "text": "<footnote id=\"548\"><mnote>(5)</mnote> روي في صحيفة الإمام الرضا عليه السّلام: 128/68، بالإسناد عن النّبي صلّى الله عليه و آله، و رواه عبد الله بن بسطام في طبّ الأئمّة عليهم السّلام: 29، عن محمّد بن رزين، عن حمّاد بن عيسى، عن حريز، عن أبي عبد الله، عن أمير المؤمنين عليه السّلام و 60، عن أمير المؤمنين عليه السّلام، و ابن <page number=\"67\"/>الأشعث نحوه في الجعفريات: 244، بالإسناد عن موسى بن جعفر، عن آبائه، عن علي بن أبي طالب عليهم السّلام، و الصدوق في من لا يحضره الفقيه 4902/555:3، عن رسول الله صلّى الله عليه و آله، و الطوسي في الأمالي: 2/666، قال: قال أمير المؤمنين عليه السّلام، و الطبرسي في مكارم الأخلاق: 9/212، الفصل الرابع في آداب الزفاف و المباشرة و غيرهما، قال رسول الله صلّى الله عليه و آله، و الراوندي في الدعوات: 176/75، الباب الثاني في ذكر الصحّة و حفظها و ما يتعلّق بها، فصل في خصال يستغنى بها عن الطبّ‌، و ابن ورّام في تنبيه الخواطر 80:2، كلاهما عن أمير المؤمنين عليه السّلام.<br/>و لاحظ الرواية في مصادر العامّة: دستور معالم الحكم: 126، نظم درر السمطين: 156، كنز العمّال 87:10، ضمن ح 28472. </footnote>"
+        },
+        {
+          "footnoteId": 714168580,
+          "text": "<footnote id=\"549\"><mnote>(1)</mnote> في النسخة: «من الحمية» و الصواب ما أثبتناه. </footnote>"
+        },
+        {
+          "footnoteId": 714168581,
+          "text": "<footnote id=\"550\"><mnote>(2)</mnote> كذا في النسخة و لعلّه: «و يسمّي» أي: يقول: بسم الله. </footnote>"
+        },
+        {
+          "footnoteId": 714168582,
+          "text": "<footnote id=\"551\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714168583,
+          "text": "<footnote id=\"552\"><mnote>(4)</mnote> إن كان المراد من العبد الصالح عليه السّلام هو الإمام الكاظم عليه السّلام فمكاتبة محمّد بن عيسى له بعيدة و روايته عنه غير موجودة بل غير ممكنة. </footnote>"
+        },
+        {
+          "footnoteId": 714168584,
+          "text": "<footnote id=\"553\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        }
+      ],
+      "pageValue": "67",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2400\" paragraph-id=\"2400\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo67\">67</span>[100] </p>\n  <p id=\"p2401\" paragraph-id=\"2401\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى محمّد بن الحسن الصفّار، عن معاوية بن حكم، عن عيسى بن إبراهيم قال: قال: سألت <span class=\"Y\"><span class=\"maasoom\">أبا الحسن عليه السّلام</span></span> عن الحمية<span><sup><a class=\"NewFn\" href=\"#footnote549\" title=\"(1)  في النسخة: «من الحمية» و الصواب ما أثبتناه. \">1</a></sup></span>؟</span>\n    </span>\n  </p>\n  <p id=\"p2402\" paragraph-id=\"2402\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فقال: </span>«كان <span class=\"Y\"><span class=\"maasoom\">علي بن الحسين عليهما السّلام</span></span> يكرهها و يخلّط و يسمّ‌<span><sup><a class=\"NewFn\" href=\"#footnote550\" title=\"(2)  كذا في النسخة و لعلّه: «و يسمّي» أي: يقول: بسم الله. \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote551\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2403\" paragraph-id=\"2403\" class=\" G\">[101] </p>\n  <p id=\"p2404\" paragraph-id=\"2404\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا الحميري، و روى محمّد بن الحسن الصفّار، عن محمّد بن عيسى، قال:</span> كتبت إلى <span class=\"Y\"><span class=\"maasoom\">العبد الصالح عليه السّلام</span></span><span><sup><a class=\"NewFn\" href=\"#footnote552\" title=\"(4)  إن كان المراد من العبد الصالح عليه السّلام هو الإمام الكاظم عليه السّلام فمكاتبة محمّد بن عيسى له بعيدة و روايته عنه غير موجودة بل غير ممكنة. \">4</a></sup></span>: إنّي لقيت من مداراة جسدي شدّة، و لست أقوم في الحمية على ما يصلح له جسدي أو يفسده.</span>\n  </p>\n  <p id=\"p2405\" paragraph-id=\"2405\" class=\" G\">\n    <span class=\"hadith\">فقال: «اترك الحمية و اشرب الفرات بالعسل عند منامك و على الريق؛ فإنّ <span class=\"Y\"><span class=\"maasoom\">علي بن الحسين عليهما السّلام</span></span> كان لا يرى الحمية»<span><sup><a class=\"NewFn\" href=\"#footnote553\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p2406\" paragraph-id=\"2406\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote548\" footnote-id=\"548\"><page number=\"67\" />الأشعث نحوه في الجعفريات: 244، بالإسناد عن موسى بن جعفر، عن آبائه، عن علي بن أبي طالب عليهم السّلام، و الصدوق في من لا يحضره الفقيه 4902/555:3، عن رسول الله صلّى الله عليه و آله، و الطوسي في الأمالي: 2/666، قال: قال أمير المؤمنين عليه السّلام، و الطبرسي في مكارم الأخلاق: 9/212، الفصل الرابع في آداب الزفاف و المباشرة و غيرهما، قال رسول الله صلّى الله عليه و آله، و الراوندي في الدعوات: 176/75، الباب الثاني في ذكر الصحّة و حفظها و ما يتعلّق بها، فصل في خصال يستغنى بها عن الطبّ‌، و ابن ورّام في تنبيه الخواطر 80:2، كلاهما عن أمير المؤمنين عليه السّلام.<br />و لاحظ الرواية في مصادر العامّة: دستور معالم الحكم: 126، نظم درر السمطين: 156، كنز العمّال 87:10، ضمن ح 28472. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote549\" footnote-id=\"549\">(1)  في النسخة: «من الحمية» و الصواب ما أثبتناه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote550\" footnote-id=\"550\">(2)  كذا في النسخة و لعلّه: «و يسمّي» أي: يقول: بسم الله. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote551\" footnote-id=\"551\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote552\" footnote-id=\"552\">(4)  إن كان المراد من العبد الصالح عليه السّلام هو الإمام الكاظم عليه السّلام فمكاتبة محمّد بن عيسى له بعيدة و روايته عنه غير موجودة بل غير ممكنة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote553\" footnote-id=\"553\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F349B12D-DB2D-4A86-B5C5-F62B5B96009F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

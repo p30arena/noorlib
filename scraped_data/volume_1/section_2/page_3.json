@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 3,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166391,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2137\"><page number=\"1\"/><img src=\"BK126314G001S2P1\" alt=\"\" imgtype=\"Scan\"/><page number=\"2\"/><page number=\"3\"/><format class=\"q\"><format class=\"a\">بسم الله الرحمن الرحيم الحمد لله، و الصلاة و السّلام على محمّد و آله أجمعين</format></format></p>"
+        },
+        {
+          "paragraphId": 714166392,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2138\"><heading level=\"2\">[باب علّة الطبائع و الشهوات و المحبّات] </heading></p>"
+        },
+        {
+          "paragraphId": 714166393,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2139\">[1] </p>"
+        },
+        {
+          "paragraphId": 714166394,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2140\"><format class=\"hadith\" who=\"6\" Id=\"1\" RevayatIndex=\"1\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسن بن محبوب<lfootnote noteId=\"214\">1</lfootnote>، عن بعض أصحابنا رفعه، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>:</format></format></p>"
+        },
+        {
+          "paragraphId": 714166395,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2141\"><format class=\"hadith\" who=\"6\" Id=\"1\" RevayatIndex=\"1\"><format class=\"sanadHadith\"/>«عرفان المرء نفسه أن يعرفها بأربع طبائع و أربع دعائم و أربعة أركان<lfootnote noteId=\"215\">2</lfootnote>، فطبائعه: الدم و المرّة<lfootnote noteId=\"216\">3</lfootnote> و الريح و البلغم، و دعائمه: العقل، و من العقل الفطنة، و الفهم<lfootnote noteId=\"217\">4</lfootnote>، و الحفظ، و العلم<lfootnote noteId=\"218\">5</lfootnote>، و أركانه: النور<lfootnote noteId=\"219\">6</lfootnote>، و النار، و الريح<lfootnote noteId=\"220\">7</lfootnote>، و الماء، <page number=\"4\"/> و صورته طينته، فأبصر<lfootnote noteId=\"221\">1</lfootnote> بالنور، و أكل و شرب بالنار، و جامع و تحرّك بالريح، و وجد طعم الرزق<lfootnote noteId=\"222\">2</lfootnote> و الطعم بالماء، هذا تأسيس صورته<lfootnote noteId=\"223\">3</lfootnote>، فإذا كان تأييد عقله بالنور كان عالما حافظا حكيما أديبا<lfootnote noteId=\"224\">4</lfootnote> فهما، و عرف فيما هو و من أين تأتيه الأشياء<lfootnote noteId=\"225\">5</lfootnote> و لأيّ شيء هو هاهنا و إلى ما هو صائر بإخلاص الوحدانية و الإقرار بالطاعة<lfootnote noteId=\"226\">6</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168268,
+          "text": "<footnote id=\"214\"><page number=\"3\"/><mnote>(1)</mnote> في النسخة: «الحسن بن أيّوب» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168269,
+          "text": "<footnote id=\"215\"><mnote>(2)</mnote> قوله: «و أربعة أركان» أثبتناه من علل الشرائع. </footnote>"
+        },
+        {
+          "footnoteId": 714168270,
+          "text": "<footnote id=\"216\"><mnote>(3)</mnote> المرّة: خلط من أخلاط البدن غير الدم، و الجمع مرار. مجمع البحرين 481:3 «مرر». </footnote>"
+        },
+        {
+          "footnoteId": 714168271,
+          "text": "<footnote id=\"217\"><mnote>(4)</mnote> قال المجلسي: قوله: «و الفهم» عطف على العقل، أو عدّ العقل أربعا باعتبار شعبه، و الأوّل أظهر. بحار الأنوار 303:58. </footnote>"
+        },
+        {
+          "footnoteId": 714168272,
+          "text": "<footnote id=\"218\"><mnote>(5)</mnote> في النسخة: «العمل»، و ما أثبتناه من علل الشرائع. </footnote>"
+        },
+        {
+          "footnoteId": 714168273,
+          "text": "<footnote id=\"219\"><mnote>(6)</mnote> النور في النصوص الشرعية إمّا محسوس دنيوي، و إمّا معنوي كنور العقل و نور القرآن، و إمّا نور في الآخرة. و الظاهر أنّ النور هنا بالمعنى الأوّل. انظر: بحار الأنوار 303:58. </footnote>"
+        },
+        {
+          "footnoteId": 714168274,
+          "text": "<footnote id=\"220\"><mnote>(7)</mnote> في علل الشرائع: «الروح».</footnote>"
+        }
+      ],
+      "pageValue": "3",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2137\" paragraph-id=\"2137\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo3\">3</span>\n    <span class=\"q\">\n      <span class=\"a\">بسم الله الرحمن الرحيم الحمد لله، و الصلاة و السّلام على محمّد و آله أجمعين</span>\n    </span>\n  </p>\n  <p id=\"p2138\" paragraph-id=\"2138\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب علّة الطبائع و الشهوات و المحبّات] </strong>\n  </p>\n  <p id=\"p2139\" paragraph-id=\"2139\" class=\" G\">[1] </p>\n  <p id=\"p2140\" paragraph-id=\"2140\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن الحسن بن محبوب<span><sup><a class=\"NewFn\" href=\"#footnote214\" title=\"(1)  في النسخة: «الحسن بن أيّوب» و ما أثبتناه من المصدر. \">1</a></sup></span>، عن بعض أصحابنا رفعه، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>:</span>\n    </span>\n  </p>\n  <p id=\"p2141\" paragraph-id=\"2141\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\"></span>«عرفان المرء نفسه أن يعرفها بأربع طبائع و أربع دعائم و أربعة أركان<span><sup><a class=\"NewFn\" href=\"#footnote215\" title=\"(2)  قوله: «و أربعة أركان» أثبتناه من علل الشرائع. \">2</a></sup></span>، فطبائعه: الدم و المرّة<span><sup><a class=\"NewFn\" href=\"#footnote216\" title=\"(3)  المرّة: خلط من أخلاط البدن غير الدم، و الجمع مرار. مجمع البحرين 481:3 «مرر». \">3</a></sup></span> و الريح و البلغم، و دعائمه: العقل، و من العقل الفطنة، و الفهم<span><sup><a class=\"NewFn\" href=\"#footnote217\" title=\"(4)  قال المجلسي: قوله: «و الفهم» عطف على العقل، أو عدّ العقل أربعا باعتبار شعبه، و الأوّل أظهر. بحار الأنوار 303:58. \">4</a></sup></span>، و الحفظ، و العلم<span><sup><a class=\"NewFn\" href=\"#footnote218\" title=\"(5)  في النسخة: «العمل»، و ما أثبتناه من علل الشرائع. \">5</a></sup></span>، و أركانه: النور<span><sup><a class=\"NewFn\" href=\"#footnote219\" title=\"(6)  النور في النصوص الشرعية إمّا محسوس دنيوي، و إمّا معنوي كنور العقل و نور القرآن، و إمّا نور في الآخرة. و الظاهر أنّ النور هنا بالمعنى الأوّل. انظر: بحار الأنوار 303:58. \">6</a></sup></span>، و النار، و الريح<span><sup><a class=\"NewFn\" href=\"#footnote220\" title=\"(7)  في علل الشرائع: «الروح».\">7</a></sup></span>، و الماء، </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote214\" footnote-id=\"214\">(1) <page number=\"3\" /> في النسخة: «الحسن بن أيّوب» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote215\" footnote-id=\"215\">(2)  قوله: «و أربعة أركان» أثبتناه من علل الشرائع. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote216\" footnote-id=\"216\">(3)  المرّة: خلط من أخلاط البدن غير الدم، و الجمع مرار. مجمع البحرين 481:3 «مرر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote217\" footnote-id=\"217\">(4)  قال المجلسي: قوله: «و الفهم» عطف على العقل، أو عدّ العقل أربعا باعتبار شعبه، و الأوّل أظهر. بحار الأنوار 303:58. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote218\" footnote-id=\"218\">(5)  في النسخة: «العمل»، و ما أثبتناه من علل الشرائع. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote219\" footnote-id=\"219\">(6)  النور في النصوص الشرعية إمّا محسوس دنيوي، و إمّا معنوي كنور العقل و نور القرآن، و إمّا نور في الآخرة. و الظاهر أنّ النور هنا بالمعنى الأوّل. انظر: بحار الأنوار 303:58. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote220\" footnote-id=\"220\">(7)  في علل الشرائع: «الروح».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "CBB3D577-FD5E-4D80-9E72-C973AAF89D26",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

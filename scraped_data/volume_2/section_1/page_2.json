@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 2,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169703,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"958\"><page number=\"2\"/><img src=\"BK126314G002S1P2\" alt=\"\" imgtype=\"Scan\"/><page number=\"3\"/><img src=\"BK126314G002S1P3\" alt=\"\" imgtype=\"Scan\"/><page number=\"4\"/><img src=\"BK126314G002S1P4\" alt=\"\" imgtype=\"Scan\"/><format class=\"EndIntroduction\" type=\"12\"/><page number=\"5\"/><format class=\"q\"><format class=\"a\">بسم الله الرّحمن الرّحيم و به أستعين</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "2",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p958\" paragraph-id=\"958\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo2\">2</span>\n    <img src=\"/file/book/page/EZkGvGt9JBQsA7QkUATTXBMC5o72fzD1QlNwzQNXWOwLjQCJDhtiw0SUyp-cRWe5\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "142B8967-36E6-489C-BE33-F5B33F900AFE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

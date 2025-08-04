@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 95,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166525,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2557\"><page number=\"95\"/>[146] </p>"
+        },
+        {
+          "paragraphId": 714166526,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2558\"><format class=\"hadith\" who=\"6\" Id=\"144\" RevayatIndex=\"144\"><format class=\"sanadHadith\">أحمد بن محمّد، عن الحسين بن سعيد<lfootnote noteId=\"696\">1</lfootnote>، عن ابن أبي عمير، عن معاوية بن عمّار، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال<lfootnote noteId=\"697\">2</lfootnote>: </format>«لو قرأت الحمد على ميّت سبعين مرّة<lfootnote noteId=\"698\">3</lfootnote> ثمّ ردّت الروح فيه ما كان ذلك عجبا»<lfootnote noteId=\"699\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166527,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2559\">[147] </p>"
+        },
+        {
+          "paragraphId": 714166528,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2560\"><format class=\"hadith\" who=\"14,6\" Id=\"145\" RevayatIndex=\"145\"><format class=\"sanadHadith\">سلمة<lfootnote noteId=\"700\">5</lfootnote>، عن محمّد بن بكر، عن زكريّا بن منهال، قال: سمعت <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format>، يقول: </format>«قال<lfootnote noteId=\"701\">6</lfootnote><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: في الحمد سبع مرّات شفاء من كلّ داء، فإن عوّذ بها صاحبها مائة مرّة و كان بعض الروح قد خرج من الجسد ردّ الله عليه الروح»<lfootnote noteId=\"702\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166529,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2561\">[148] </p>"
+        },
+        {
+          "paragraphId": 714166530,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2562\"><format class=\"hadith\" who=\"16\" Id=\"146\" RevayatIndex=\"146\"><format class=\"sanadHadith\">و عنه للحمّى: </format>«تدخل رأسك في جيبك فتؤذّن و تقيم و تقرأ فاتحة الكتاب و قل أعوذ بربّ النّاس و قل أعوذ بربّ الفلق و تقرأ قل هو الله أحد ثلاث مرّات و تقول: </format></p>"
+        },
+        {
+          "paragraphId": 714166531,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2563\"><format class=\"hadith\" who=\"16\" Id=\"146\" RevayatIndex=\"146\"><page number=\"96\"/> أعيذ نفسي بعزّة الله و قدرة الله و عظمة الله و سلطان الله و بجمال الله و بجمع الله<lfootnote noteId=\"703\">1</lfootnote> و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">برسول الله</format></format> و بولاية <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين عليه السّلام</format></format><lfootnote noteId=\"704\">2</lfootnote> من شرّ ما أخاف و أحذر، و أشهد أنّ الله على كلّ شيء قدير و لا حول و لا قوّة إلّا بالله العليّ العظيم و صلّى الله على <format class=\"maasoom\" maasoomNo=\"14\">محمّد</format> و <format class=\"maasoom\" maasoomNo=\"40\">آله</format>، اللّهمّ اشفني بشفائك و داوني بدوائك و عافني بحقّ أنبيائك و أوليائك من بلائك برحمتك يا أرحم الرّاحمين<lfootnote noteId=\"705\">3</lfootnote>»<lfootnote noteId=\"706\">4</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168727,
+          "text": "<footnote id=\"696\"><page number=\"95\"/><mnote>(1)</mnote> في النسخة: «عن الحسن» و الصحيح ما أثبتناه؛ لأنّا لم نعثر على رواية الحسن عن ابن أبي عمير، خلافا لرواية أخيه الحسين حيث كانت كثيرة. </footnote>"
+        },
+        {
+          "footnoteId": 714168728,
+          "text": "<footnote id=\"697\"><mnote>(2)</mnote> كلمة: «قال» أثبتناها من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168729,
+          "text": "<footnote id=\"698\"><mnote>(3)</mnote> كلمة: «مرّة» أثبتناها من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168730,
+          "text": "<footnote id=\"699\"><mnote>(4)</mnote> رواه الكليني في الكافي 16/623:2، باب فضل القرآن، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، و المفيد في التبصرة على ما في المصباح للكفعمي: 308، و الطبرسي في مكارم الأخلاق: 3/363، باب في السور و ما جاء فيها، و الراوندي في الدعوات:<br/>522/188 كلّهم عن الصادق عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168731,
+          "text": "<footnote id=\"700\"><mnote>(5)</mnote> و هو سلمة بن الخطاب أبو الفضل البراوستاني بقرينة المروي عنه. انظر: فلاح السائل: 42. </footnote>"
+        },
+        {
+          "footnoteId": 714168732,
+          "text": "<footnote id=\"701\"><mnote>(6)</mnote> في النسخة زيادة «قال». </footnote>"
+        },
+        {
+          "footnoteId": 714168733,
+          "text": "<footnote id=\"702\"><mnote>(7)</mnote> رواه الطبرسي في مكارم الأخلاق: 2/363، باب في السور و ما جاء فيها، فقال: روي عن النّبي صلّى الله عليه و آله.</footnote>"
+        }
+      ],
+      "pageValue": "95",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2557\" paragraph-id=\"2557\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo95\">95</span>[146] </p>\n  <p id=\"p2558\" paragraph-id=\"2558\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أحمد بن محمّد، عن الحسين بن سعيد<span><sup><a class=\"NewFn\" href=\"#footnote696\" title=\"(1)  في النسخة: «عن الحسن» و الصحيح ما أثبتناه؛ لأنّا لم نعثر على رواية الحسن عن ابن أبي عمير، خلافا لرواية أخيه الحسين حيث كانت كثيرة. \">1</a></sup></span>، عن ابن أبي عمير، عن معاوية بن عمّار، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال<span><sup><a class=\"NewFn\" href=\"#footnote697\" title=\"(2)  كلمة: «قال» أثبتناها من الكافي. \">2</a></sup></span>: </span>«لو قرأت الحمد على ميّت سبعين مرّة<span><sup><a class=\"NewFn\" href=\"#footnote698\" title=\"(3)  كلمة: «مرّة» أثبتناها من الكافي. \">3</a></sup></span> ثمّ ردّت الروح فيه ما كان ذلك عجبا»<span><sup><a class=\"NewFn\" href=\"#footnote699\" title=\"(4)  رواه الكليني في الكافي 16/623:2، باب فضل القرآن، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، و المفيد في التبصرة على ما في المصباح للكفعمي: 308، و الطبرسي في مكارم الأخلاق: 3/363، باب في السور و ما جاء فيها، و الراوندي في الدعوات:522/188 كلّهم عن الصادق عليه السّلام. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2559\" paragraph-id=\"2559\" class=\" G\">[147] </p>\n  <p id=\"p2560\" paragraph-id=\"2560\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سلمة<span><sup><a class=\"NewFn\" href=\"#footnote700\" title=\"(5)  و هو سلمة بن الخطاب أبو الفضل البراوستاني بقرينة المروي عنه. انظر: فلاح السائل: 42. \">5</a></sup></span>، عن محمّد بن بكر، عن زكريّا بن منهال، قال: سمعت <span class=\"HQ\"><span class=\"maasoom\">أبا عبد الله عليه السّلام</span></span>، يقول: </span>«قال<span><sup><a class=\"NewFn\" href=\"#footnote701\" title=\"(6)  في النسخة زيادة «قال». \">6</a></sup></span><span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: في الحمد سبع مرّات شفاء من كلّ داء، فإن عوّذ بها صاحبها مائة مرّة و كان بعض الروح قد خرج من الجسد ردّ الله عليه الروح»<span><sup><a class=\"NewFn\" href=\"#footnote702\" title=\"(7)  رواه الطبرسي في مكارم الأخلاق: 2/363، باب في السور و ما جاء فيها، فقال: روي عن النّبي صلّى الله عليه و آله.\">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p2561\" paragraph-id=\"2561\" class=\" G\">[148] </p>\n  <p id=\"p2562\" paragraph-id=\"2562\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه للحمّى: </span>«تدخل رأسك في جيبك فتؤذّن و تقيم و تقرأ فاتحة الكتاب و قل أعوذ بربّ النّاس و قل أعوذ بربّ الفلق و تقرأ قل هو الله أحد ثلاث مرّات و تقول: </span>\n  </p>\n  <p id=\"p2563\" paragraph-id=\"2563\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote696\" footnote-id=\"696\">(1) <page number=\"95\" /> في النسخة: «عن الحسن» و الصحيح ما أثبتناه؛ لأنّا لم نعثر على رواية الحسن عن ابن أبي عمير، خلافا لرواية أخيه الحسين حيث كانت كثيرة. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote697\" footnote-id=\"697\">(2)  كلمة: «قال» أثبتناها من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote698\" footnote-id=\"698\">(3)  كلمة: «مرّة» أثبتناها من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote699\" footnote-id=\"699\">(4)  رواه الكليني في الكافي 16/623:2، باب فضل القرآن، عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، و المفيد في التبصرة على ما في المصباح للكفعمي: 308، و الطبرسي في مكارم الأخلاق: 3/363، باب في السور و ما جاء فيها، و الراوندي في الدعوات:<br />522/188 كلّهم عن الصادق عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote700\" footnote-id=\"700\">(5)  و هو سلمة بن الخطاب أبو الفضل البراوستاني بقرينة المروي عنه. انظر: فلاح السائل: 42. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote701\" footnote-id=\"701\">(6)  في النسخة زيادة «قال». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote702\" footnote-id=\"702\">(7)  رواه الطبرسي في مكارم الأخلاق: 2/363، باب في السور و ما جاء فيها، فقال: روي عن النّبي صلّى الله عليه و آله.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "FFC74C6F-B1A6-49C7-B620-A16FC7D54A07",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

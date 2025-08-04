@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 39,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169864,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1119\"><format class=\"hadith\" who=\"7\" Id=\"54\" RevayatIndex=\"575\"><format class=\"sanadHadith\">عن سليمان بن رشيد، عن علي بن بلال، عن إبراهيم بن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن [عليه السّلام]</format></format>، قال:</format> أتي<lfootnote noteId=\"146\">4</lfootnote> برجل من مواليه و هو يحتجم يوم الثلاثاء و دمه سائل لا يرقأ، فقال <page number=\"39\"/> له: «الله الله» فمشى فنزل عن بغلته ثمّ وضع يده على محاجمه و تكلّم بكلام لم أفهمه، فانقطع الدم، فقال أبي: «ما يحمل أحدكم في مثل هذا اليوم‌؟! فإنّ فيه ساعة لا يرقأ فيها الدم»<lfootnote noteId=\"147\">1</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714169865,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1120\"><heading level=\"2\">[باب] الحجامة يوم الأربعاء<lfootnote noteId=\"148\">2</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714169866,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1121\">[55] </p>"
+        },
+        {
+          "paragraphId": 714169867,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1122\"><format class=\"hadith\" who=\"6\" Id=\"55\" RevayatIndex=\"576\"><format class=\"sanadHadith\">روى بعضهم، عمّن ذكره، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«من احتجم يوم الأربعاء من علّة أخرج الله الداء و أدخل الدواء»<lfootnote noteId=\"149\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169868,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1123\"><heading level=\"2\">[باب] ذمّ الدم يوم الأربعاء </heading></p>"
+        },
+        {
+          "paragraphId": 714169869,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1124\">[56] </p>"
+        },
+        {
+          "paragraphId": 714169870,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1125\"><format class=\"hadith\" who=\"14,1\" Id=\"56\" RevayatIndex=\"577\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، قال<lfootnote noteId=\"150\">4</lfootnote>: حدّثني الحسن بن <page number=\"40\"/> ظريف و محمّد بن الحسن و المنبّه بن عبد الله جميعا، عن الحسين بن علوان<lfootnote noteId=\"151\">1</lfootnote>، عن عمرو بن خالد، عن زيد بن علي، عن <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"\">آبائه عليهم السّلام</format></format>، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"1\">علي بن أبي طالب عليه السّلام</format></format> قال:</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170931,
+          "text": "<footnote id=\"147\"><page number=\"39\"/><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714170932,
+          "text": "<footnote id=\"148\"><mnote>(2)</mnote> اختلفت الروايات في حجامة هذا اليوم أيضا، فبعضها يدلّ على حسن الحجامة فيه، و بعضها على المنع مستدلّا بأنّه يوم نحس، و بعضها قيّدت روايات المنع و عالجتها.<br/>و تقدّم في الحديث 33 من هذا الجزء ضمن رواية عن مولانا الإمام أبي الحسن الرضا عليه السّلام قال: «و احتجموا يوم الأربعاء».<br/>و المنع موجود في روايات العامّة أيضا، فإنّهم نقلوا: «من احتجم يوم الأربعاء أو يوم السبت فأصابه وضح فلا يلم إلّا نفسه».<br/>و نقلوا ضمن رواية عن ابن عمر، قال: سمعت رسول الله صلّى الله عليه و آله يقول: «و اجتنبوا الحجامة يوم الأربعاء؛ فإنّه اليوم الذي أصيب فيه أيّوب بالبلاء، و ما يبدو جذام و لا برص إلّا في يوم الأربعاء، أو ليلة الأربعاء». سنن ابن ماجة 3488/1154:2، الترغيب و الترهيب 315:4. </footnote>"
+        },
+        {
+          "footnoteId": 714170933,
+          "text": "<footnote id=\"149\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714170934,
+          "text": "<footnote id=\"150\"><mnote>(4)</mnote> قوله: «حدثنا» و «قال» أثبتناهما من أسانيد النصوص الواردة في الكتاب.</footnote>"
+        }
+      ],
+      "pageValue": "39",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1119\" paragraph-id=\"1119\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo39\">39</span> له: «الله الله» فمشى فنزل عن بغلته ثمّ وضع يده على محاجمه و تكلّم بكلام لم أفهمه، فانقطع الدم، فقال أبي: «ما يحمل أحدكم في مثل هذا اليوم‌؟! فإنّ فيه ساعة لا يرقأ فيها الدم»<span><sup><a class=\"NewFn\" href=\"#footnote147\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>. </span>\n  </p>\n  <p id=\"p1120\" paragraph-id=\"1120\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] الحجامة يوم الأربعاء<span><sup><a class=\"NewFn\" href=\"#footnote148\" title=\"(2)  اختلفت الروايات في حجامة هذا اليوم أيضا، فبعضها يدلّ على حسن الحجامة فيه، و بعضها على المنع مستدلّا بأنّه يوم نحس، و بعضها قيّدت روايات المنع و عالجتها.و تقدّم في الحديث 33 من هذا الجزء ضمن رواية عن مولانا الإمام أبي الحسن الرضا عليه السّلام قال: «و احتجموا يوم الأربعاء».و المنع موجود في روايات العامّة أيضا، فإنّهم نقلوا: «من احتجم يوم الأربعاء أو يوم السبت فأصابه وضح فلا يلم إلّا نفسه».و نقلوا ضمن رواية عن ابن عمر، قال: سمعت رسول الله صلّى الله عليه و آله يقول: «و اجتنبوا الحجامة يوم الأربعاء؛ فإنّه اليوم الذي أصيب فيه أيّوب بالبلاء، و ما يبدو جذام و لا برص إلّا في يوم الأربعاء، أو ليلة الأربعاء». سنن ابن ماجة 3488/1154:2، الترغيب و الترهيب 315:4. \">2</a></sup></span></strong>\n  </p>\n  <p id=\"p1121\" paragraph-id=\"1121\" class=\" G\">[55] </p>\n  <p id=\"p1122\" paragraph-id=\"1122\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى بعضهم، عمّن ذكره، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«من احتجم يوم الأربعاء من علّة أخرج الله الداء و أدخل الدواء»<span><sup><a class=\"NewFn\" href=\"#footnote149\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1123\" paragraph-id=\"1123\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] ذمّ الدم يوم الأربعاء </strong>\n  </p>\n  <p id=\"p1124\" paragraph-id=\"1124\" class=\" G\">[56] </p>\n  <p id=\"p1125\" paragraph-id=\"1125\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، قال<span><sup><a class=\"NewFn\" href=\"#footnote150\" title=\"(4)  قوله: «حدثنا» و «قال» أثبتناهما من أسانيد النصوص الواردة في الكتاب.\">4</a></sup></span>: حدّثني الحسن بن </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote147\" footnote-id=\"147\">(1) <page number=\"39\" /> لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote148\" footnote-id=\"148\">(2)  اختلفت الروايات في حجامة هذا اليوم أيضا، فبعضها يدلّ على حسن الحجامة فيه، و بعضها على المنع مستدلّا بأنّه يوم نحس، و بعضها قيّدت روايات المنع و عالجتها.<br />و تقدّم في الحديث 33 من هذا الجزء ضمن رواية عن مولانا الإمام أبي الحسن الرضا عليه السّلام قال: «و احتجموا يوم الأربعاء».<br />و المنع موجود في روايات العامّة أيضا، فإنّهم نقلوا: «من احتجم يوم الأربعاء أو يوم السبت فأصابه وضح فلا يلم إلّا نفسه».<br />و نقلوا ضمن رواية عن ابن عمر، قال: سمعت رسول الله صلّى الله عليه و آله يقول: «و اجتنبوا الحجامة يوم الأربعاء؛ فإنّه اليوم الذي أصيب فيه أيّوب بالبلاء، و ما يبدو جذام و لا برص إلّا في يوم الأربعاء، أو ليلة الأربعاء». سنن ابن ماجة 3488/1154:2، الترغيب و الترهيب 315:4. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote149\" footnote-id=\"149\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote150\" footnote-id=\"150\">(4)  قوله: «حدثنا» و «قال» أثبتناهما من أسانيد النصوص الواردة في الكتاب.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "612C258C-3B2B-4431-B867-356D775978D0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

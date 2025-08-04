@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 289,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167772,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3518\">[471] و أيضا: يؤخذ جزء سعد و جزأين زعفران و يعجن بعسل منزوع الرغوة، ثمّ يؤخذ منه قدر بندقة، و يؤخذ قطعة رقّ و يكتب: <format class=\"ayah\" surah=\"35\" ayah=\"41\" toAyah=\"\">إِنَّ اَللّٰهَ يُمْسِكُ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"35\" ayah=\"41\" toAyah=\"\"/></format><page number=\"289\"/><format class=\"ayah\" surah=\"35\" ayah=\"41\" toAyah=\"\">اَلسَّمٰاوٰاتِ وَ اَلْأَرْضَ‌...<format class=\"ayahWord\" fromWord=\"4\" toWord=\"6\"/><format class=\"ayahAddress\" surah=\"35\" ayah=\"41\" toAyah=\"\"/></format> إلى <format class=\"ayah\" surah=\"35\" ayah=\"41\" toAyah=\"\">غَفُوراً<format class=\"ayahWord\" fromWord=\"21\" toWord=\"21\"/><format class=\"ayahAddress\" surah=\"35\" ayah=\"41\" toAyah=\"\"/></format> و يشدّ على ركبته فإذا ذهب نزع عنه<lfootnote noteId=\"1588\">1</lfootnote>. </p>"
+        },
+        {
+          "paragraphId": 714167773,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3519\"><heading level=\"2\">[باب] في تقطير البول </heading></p>"
+        },
+        {
+          "paragraphId": 714167774,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3520\">[472] </p>"
+        },
+        {
+          "paragraphId": 714167775,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3521\"><format class=\"hadith\" who=\"6\" Id=\"463\" RevayatIndex=\"463\"><format class=\"sanadHadith\">حدّثنا أبو سليمان أحمد بن هوذة، قال: حدّثنا إبراهيم بن إسحاق النهاوندي، عن عبد الله بن حمّاد، عن المفضّل قال:</format> شكوت إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام </format></format>التقطير بعد الوضوء.</format></p>"
+        },
+        {
+          "paragraphId": 714167776,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3522\"><format class=\"hadith\" who=\"6\" Id=\"463\" RevayatIndex=\"463\">فقال: «اعجن الخردل بالعسل و صيّره بنادق، و خذ منه كلّ يوم على الريق ثلاثة دراهم»<lfootnote noteId=\"1589\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167777,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3523\">[473] </p>"
+        },
+        {
+          "paragraphId": 714167778,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3524\"><format class=\"hadith\" who=\"8|7|10\" Id=\"464\" RevayatIndex=\"464\"><format class=\"sanadHadith\">روى الحسن بن المنذر البرمكي قال:</format> سألت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8|7|10\">أبا الحسن عليه السّلام</format></format> عن رجل يدخل في الصلاة و هو مبتلى بالتقطير!</format></p>"
+        },
+        {
+          "paragraphId": 714167779,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3525\"><format class=\"hadith\" who=\"8|7|10\" Id=\"464\" RevayatIndex=\"464\">فقال: «لا شيء عليه، و لم لا يأخذ في كلّ يوم وزن درهم خردل غير مسحوق بماء فاتر حتّى ينقطع عنه التقطير؟» قال: فأخذت منه فسكن عنّي<lfootnote noteId=\"1590\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167780,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3526\">[474]</p>"
+        },
+        {
+          "paragraphId": 714167781,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"3527\"><format class=\"hadith\" who=\"16\" Id=\"465\" RevayatIndex=\"465\"> و شكا إليه عمرو الأزرق<lfootnote noteId=\"1591\">4</lfootnote>، فقال: «خذ هذه الحبّة السوداء - و هي <page number=\"290\"/> الشونيز -»<lfootnote noteId=\"1592\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169543,
+          "text": "<footnote id=\"1588\"><page number=\"289\"/><mnote>(1)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169544,
+          "text": "<footnote id=\"1589\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169545,
+          "text": "<footnote id=\"1590\"><mnote>(3)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714169546,
+          "text": "<footnote id=\"1591\"><mnote>(4)</mnote> هو عمرو بن عبيد الله (عبد الله) الأزرق الذي عدّه الطوسي و النجاشي في من روى عن أبي عبد الله الصادق عليه السّلام. رجال الطوسي: 417/3508/250، رجال النجاشي: 768/288. و في طبّ الأئمّة عليهم السّلام: 68 «شكا عمرو الأفرق إلى الباقر عليه السّلام».<br/>و في الكافي 9/181:2، رواية رواها محمّد بن سنان، عن عمرو بن الأفرق، عن أبي عبيدة، عن أبي جعفر عليه السّلام.</footnote>"
+        }
+      ],
+      "pageValue": "289",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3518\" paragraph-id=\"3518\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo289\">289</span>\n    <span style=\"0\" class=\"ayah\" surah=\"35\" ayah=\"41\">اَلسَّمٰاوٰاتِ وَ اَلْأَرْضَ‌...<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/35/41\"></a></span></span> إلى <span style=\"0\" class=\"ayah\" surah=\"35\" ayah=\"41\">غَفُوراً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/35/41\"></a></span></span> و يشدّ على ركبته فإذا ذهب نزع عنه<span><sup><a class=\"NewFn\" href=\"#footnote1588\" title=\"(1)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">1</a></sup></span>. </p>\n  <p id=\"p3519\" paragraph-id=\"3519\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في تقطير البول </strong>\n  </p>\n  <p id=\"p3520\" paragraph-id=\"3520\" class=\" G\">[472] </p>\n  <p id=\"p3521\" paragraph-id=\"3521\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا أبو سليمان أحمد بن هوذة، قال: حدّثنا إبراهيم بن إسحاق النهاوندي، عن عبد الله بن حمّاد، عن المفضّل قال:</span> شكوت إلى <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام </span></span>التقطير بعد الوضوء.</span>\n  </p>\n  <p id=\"p3522\" paragraph-id=\"3522\" class=\" G\">\n    <span class=\"hadith\">فقال: «اعجن الخردل بالعسل و صيّره بنادق، و خذ منه كلّ يوم على الريق ثلاثة دراهم»<span><sup><a class=\"NewFn\" href=\"#footnote1589\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3523\" paragraph-id=\"3523\" class=\" G\">[473] </p>\n  <p id=\"p3524\" paragraph-id=\"3524\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الحسن بن المنذر البرمكي قال:</span> سألت <span class=\"Y\"><span class=\"maasoom\">أبا الحسن عليه السّلام</span></span> عن رجل يدخل في الصلاة و هو مبتلى بالتقطير!</span>\n  </p>\n  <p id=\"p3525\" paragraph-id=\"3525\" class=\" G\">\n    <span class=\"hadith\">فقال: «لا شيء عليه، و لم لا يأخذ في كلّ يوم وزن درهم خردل غير مسحوق بماء فاتر حتّى ينقطع عنه التقطير؟» قال: فأخذت منه فسكن عنّي<span><sup><a class=\"NewFn\" href=\"#footnote1590\" title=\"(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p3526\" paragraph-id=\"3526\" class=\" G\">[474]</p>\n  <p id=\"p3527\" paragraph-id=\"3527\" class=\" G\">\n    <span class=\"hadith\"> و شكا إليه عمرو الأزرق<span><sup><a class=\"NewFn\" href=\"#footnote1591\" title=\"(4)  هو عمرو بن عبيد الله (عبد الله) الأزرق الذي عدّه الطوسي و النجاشي في من روى عن أبي عبد الله الصادق عليه السّلام. رجال الطوسي: 417/3508/250، رجال النجاشي: 768/288. و في طبّ الأئمّة عليهم السّلام: 68 «شكا عمرو الأفرق إلى الباقر عليه السّلام».و في الكافي 9/181:2، رواية رواها محمّد بن سنان، عن عمرو بن الأفرق، عن أبي عبيدة، عن أبي جعفر عليه السّلام.\">4</a></sup></span>، فقال: «خذ هذه الحبّة السوداء - و هي </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1588\" footnote-id=\"1588\">(1) <page number=\"289\" /> لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1589\" footnote-id=\"1589\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1590\" footnote-id=\"1590\">(3)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1591\" footnote-id=\"1591\">(4)  هو عمرو بن عبيد الله (عبد الله) الأزرق الذي عدّه الطوسي و النجاشي في من روى عن أبي عبد الله الصادق عليه السّلام. رجال الطوسي: 417/3508/250، رجال النجاشي: 768/288. و في طبّ الأئمّة عليهم السّلام: 68 «شكا عمرو الأفرق إلى الباقر عليه السّلام».<br />و في الكافي 9/181:2، رواية رواها محمّد بن سنان، عن عمرو بن الأفرق، عن أبي عبيدة، عن أبي جعفر عليه السّلام.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "9F9D5E7C-4C0B-4973-8CD7-B42EB5CD6661",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

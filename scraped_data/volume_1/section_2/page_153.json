@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 153,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167208,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2805\"><format class=\"hadith\" who=\"17\" Id=\"232\" RevayatIndex=\"232\"><format class=\"sanadHadith\">روى ابن الخصيب الأصبهاني<lfootnote noteId=\"940\">4</lfootnote>، قال:</format> كانت عيني اليمنى<lfootnote noteId=\"941\">5</lfootnote> قد <page number=\"153\"/> ابيضّت و لم أكن أبصر بها شيئا، فرأيت <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين صلوات الله عليه</format></format> في المنام فقلت له: يا سيّدي، عيني قد صارت إلى ما ترى.</format></p>"
+        },
+        {
+          "paragraphId": 714167209,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2806\"><format class=\"hadith\" who=\"17\" Id=\"232\" RevayatIndex=\"232\">فقال عليه السّلام: «خذ العنّاب فدقّه و اكحلها به».</format></p>"
+        },
+        {
+          "paragraphId": 714167210,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2807\"><format class=\"hadith\" who=\"17\" Id=\"232\" RevayatIndex=\"232\">قال: فأخذت العنّاب فدقّقته بنواه، و اكتحلت به فانجلت عن عيني الظلمة، و نظرت أنا إليها فإذا هي صحيحة مثل الأخرى ما بها قلبة<lfootnote noteId=\"942\">1</lfootnote><lfootnote noteId=\"943\"> 2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167211,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2808\"><heading level=\"3\">و أيضا دواء للرمد:</heading></p>"
+        },
+        {
+          "paragraphId": 714167212,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2809\">[235] </p>"
+        },
+        {
+          "paragraphId": 714167213,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2810\"><format class=\"hadith\" who=\"5,7\" Id=\"233\" RevayatIndex=\"233\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن الحسين بن سعيد، عن ابن أبي عمير، عن سليم مولى علي بن يقطين<lfootnote noteId=\"944\">3</lfootnote>: </format>أنّه كان يلقى من الرمد أذى، فكتب إليه <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبو الحسن عليه السّلام </format></format><format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"7\"/></format>- ابتداء منه -: «ما منعك عن كحل <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أبي جعفر عليه السّلام</format></format>، و هو كافور رباحي جزء، و جزء صبر أصقوطري<lfootnote noteId=\"945\">4</lfootnote> يدقّان جميعا، و ينخلان<lfootnote noteId=\"946\">5</lfootnote> بحريرة، و يكتحل منه بمثل ما يكتحل من الإثمد في الشهر، تحدر كلّ داء في الرأس<lfootnote noteId=\"947\">6</lfootnote>، و تخرجه من البدن». قال: فكان يكتحل به، فما اشتكت عينه حتى مات<lfootnote noteId=\"948\">7</lfootnote><lfootnote noteId=\"949\"> 8</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714167214,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2811\"><page number=\"154\"/><heading level=\"3\">أيضا برود<lfootnote noteId=\"950\">1</lfootnote>:</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168897,
+          "text": "<footnote id=\"942\"><page number=\"153\"/><mnote>(1)</mnote> ما به قلبة، أي: لا داء و لا غائلة. كتاب العين 72:5 «قلب». </footnote>"
+        },
+        {
+          "footnoteId": 714168898,
+          "text": "<footnote id=\"943\"><mnote>(2)</mnote> رواه الطبرسي بتفاوت يسير في مكارم الأخلاق: 2/176، في العنّاب، عن أبي الحصين، و في بعض النسخ: عن ابن أبي الخضيب. </footnote>"
+        },
+        {
+          "footnoteId": 714168899,
+          "text": "<footnote id=\"944\"><mnote>(3)</mnote> في النسخة: «عن سليمان علي بن يقطين» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168900,
+          "text": "<footnote id=\"945\"><mnote>(4)</mnote> في النسخة: «اسقوطري» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168901,
+          "text": "<footnote id=\"946\"><mnote>(5)</mnote> نخل الشيء: كلّ ما صفّي ليعزل لبابه. لسان العرب 651:11 «نخل». </footnote>"
+        },
+        {
+          "footnoteId": 714168902,
+          "text": "<footnote id=\"947\"><mnote>(6)</mnote> حدر: ما تحدره من علو إلى سفل. كتاب العين 178:3 «حدر». </footnote>"
+        },
+        {
+          "footnoteId": 714168903,
+          "text": "<footnote id=\"948\"><mnote>(7)</mnote> «قال: فكان يكتحل به فما اشتكى» أي: قال ابن أبي عمير: و كان يكتحل أي: سليم. بحار الأنوار 151:59. </footnote>"
+        },
+        {
+          "footnoteId": 714168904,
+          "text": "<footnote id=\"949\"><mnote>(8)</mnote> رواه الكليني في الكافي 583/383:8، عن علي بن إبراهيم، عن أبيه، عن ابن أبي <page number=\"154\"/>عمير، عن سليم مولى علي بن يقطين أنّه كان يلقى. </footnote>"
+        }
+      ],
+      "pageValue": "153",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2805\" paragraph-id=\"2805\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo153\">153</span> ابيضّت و لم أكن أبصر بها شيئا، فرأيت <span class=\"BD\"><span class=\"maasoom\">أمير المؤمنين صلوات الله عليه</span></span> في المنام فقلت له: يا سيّدي، عيني قد صارت إلى ما ترى.</span>\n  </p>\n  <p id=\"p2806\" paragraph-id=\"2806\" class=\" G\">\n    <span class=\"hadith\">فقال عليه السّلام: «خذ العنّاب فدقّه و اكحلها به».</span>\n  </p>\n  <p id=\"p2807\" paragraph-id=\"2807\" class=\" G\">\n    <span class=\"hadith\">قال: فأخذت العنّاب فدقّقته بنواه، و اكتحلت به فانجلت عن عيني الظلمة، و نظرت أنا إليها فإذا هي صحيحة مثل الأخرى ما بها قلبة<span><sup><a class=\"NewFn\" href=\"#footnote942\" title=\"(1)  ما به قلبة، أي: لا داء و لا غائلة. كتاب العين 72:5 «قلب». \">1</a></sup></span><span><sup><a class=\"NewFn\" href=\"#footnote943\" title=\"(2)  رواه الطبرسي بتفاوت يسير في مكارم الأخلاق: 2/176، في العنّاب، عن أبي الحصين، و في بعض النسخ: عن ابن أبي الخضيب. \"> 2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2808\" paragraph-id=\"2808\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">و أيضا دواء للرمد:</strong>\n  </p>\n  <p id=\"p2809\" paragraph-id=\"2809\" class=\" G\">[235] </p>\n  <p id=\"p2810\" paragraph-id=\"2810\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد، عن الحسين بن سعيد، عن ابن أبي عمير، عن سليم مولى علي بن يقطين<span><sup><a class=\"NewFn\" href=\"#footnote944\" title=\"(3)  في النسخة: «عن سليمان علي بن يقطين» و ما أثبتناه من المصدر. \">3</a></sup></span>: </span>أنّه كان يلقى من الرمد أذى، فكتب إليه <span class=\"Y\"><span class=\"maasoom\">أبو الحسن عليه السّلام </span></span><span class=\"BD\"><span class=\"maasoom\"></span></span>- ابتداء منه -: «ما منعك عن كحل <span class=\"Y\"><span class=\"maasoom\">أبي جعفر عليه السّلام</span></span>، و هو كافور رباحي جزء، و جزء صبر أصقوطري<span><sup><a class=\"NewFn\" href=\"#footnote945\" title=\"(4)  في النسخة: «اسقوطري» و ما أثبتناه من المصدر. \">4</a></sup></span> يدقّان جميعا، و ينخلان<span><sup><a class=\"NewFn\" href=\"#footnote946\" title=\"(5)  نخل الشيء: كلّ ما صفّي ليعزل لبابه. لسان العرب 651:11 «نخل». \">5</a></sup></span> بحريرة، و يكتحل منه بمثل ما يكتحل من الإثمد في الشهر، تحدر كلّ داء في الرأس<span><sup><a class=\"NewFn\" href=\"#footnote947\" title=\"(6)  حدر: ما تحدره من علو إلى سفل. كتاب العين 178:3 «حدر». \">6</a></sup></span>، و تخرجه من البدن». قال: فكان يكتحل به، فما اشتكت عينه حتى مات<span><sup><a class=\"NewFn\" href=\"#footnote948\" title=\"(7)  «قال: فكان يكتحل به فما اشتكى» أي: قال ابن أبي عمير: و كان يكتحل أي: سليم. بحار الأنوار 151:59. \">7</a></sup></span><span><sup><a class=\"NewFn\" href=\"#footnote949\" title=\"(8)  رواه الكليني في الكافي 583/383:8، عن علي بن إبراهيم، عن أبيه، عن ابن أبي \"> 8</a></sup></span>. </span>\n  </p>\n  <p id=\"p2811\" paragraph-id=\"2811\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote942\" footnote-id=\"942\">(1) <page number=\"153\" /> ما به قلبة، أي: لا داء و لا غائلة. كتاب العين 72:5 «قلب». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote943\" footnote-id=\"943\">(2)  رواه الطبرسي بتفاوت يسير في مكارم الأخلاق: 2/176، في العنّاب، عن أبي الحصين، و في بعض النسخ: عن ابن أبي الخضيب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote944\" footnote-id=\"944\">(3)  في النسخة: «عن سليمان علي بن يقطين» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote945\" footnote-id=\"945\">(4)  في النسخة: «اسقوطري» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote946\" footnote-id=\"946\">(5)  نخل الشيء: كلّ ما صفّي ليعزل لبابه. لسان العرب 651:11 «نخل». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote947\" footnote-id=\"947\">(6)  حدر: ما تحدره من علو إلى سفل. كتاب العين 178:3 «حدر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote948\" footnote-id=\"948\">(7)  «قال: فكان يكتحل به فما اشتكى» أي: قال ابن أبي عمير: و كان يكتحل أي: سليم. بحار الأنوار 151:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote949\" footnote-id=\"949\">(8)  رواه الكليني في الكافي 583/383:8، عن علي بن إبراهيم، عن أبيه، عن ابن أبي </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "FE4F5121-4F6C-438C-B296-A85714C6752E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

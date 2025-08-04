@@ -1,0 +1,115 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 224,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170665,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1920\"><format class=\"hadith\" who=\"6\" Id=\"312\" RevayatIndex=\"833\"><format class=\"sanadHadith\">أحمد بن محمّد بن الحسين، عن ابن فضّال، عن أبي إسحاق<lfootnote noteId=\"922\">7</lfootnote>، عمّن أخبره، <page number=\"224\"/> عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«ذكر دهن البنفسج فزكّاه، ثمّ قال<lfootnote noteId=\"923\">1</lfootnote>: و إنّ الخيري لطيف»<lfootnote noteId=\"924\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170666,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1921\">[317] </p>"
+        },
+        {
+          "paragraphId": 714170667,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1922\"><format class=\"hadith\" who=\"6,8\" Id=\"313\" RevayatIndex=\"834\"><format class=\"sanadHadith\">يعقوب بن يزيد، عن ابن فضّال، عن الحسن بن جهم قال:</format> رأيت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبا الحسن عليه السّلام</format></format> يدّهن بالخيري فقال لي: «ادّهن<lfootnote noteId=\"925\">3</lfootnote>».</format></p>"
+        },
+        {
+          "paragraphId": 714170668,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1923\"><format class=\"hadith\" who=\"6,8\" Id=\"313\" RevayatIndex=\"834\">فقلت: أين أنت عن البنفسج‌؟ و قد روي فيه عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>.</format></p>"
+        },
+        {
+          "paragraphId": 714170669,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1924\"><format class=\"hadith\" who=\"6,8\" Id=\"313\" RevayatIndex=\"834\">قال: «أكره ريحه».</format></p>"
+        },
+        {
+          "paragraphId": 714170670,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1925\"><format class=\"hadith\" who=\"6,8\" Id=\"313\" RevayatIndex=\"834\">فقلت له: إنّي كنت أكره ريحه، و أكره أن أقول ذلك<lfootnote noteId=\"926\">4</lfootnote>؛ لما بلغني فيه عن <format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format>. فقال<lfootnote noteId=\"927\">5</lfootnote>: «لا بأس»<lfootnote noteId=\"928\">6</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170671,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1926\"><heading level=\"2\">[باب في دهن] البان<lfootnote noteId=\"929\">7</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714170672,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1927\">[318] </p>"
+        },
+        {
+          "paragraphId": 714170673,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1928\"><format class=\"hadith\" who=\"6\" Id=\"314\" RevayatIndex=\"835\"><format class=\"sanadHadith\">محمّد بن عيسى، عن ابن الفيض، قال:</format> ذكرت الأدهان عند <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي <page number=\"225\"/> عبد الله عليه السّلام</format></format>، فقال: «البان دهن ذكر<lfootnote noteId=\"930\">1</lfootnote>»<lfootnote noteId=\"931\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171275,
+          "text": "<footnote id=\"923\"><page number=\"224\"/><mnote>(1)</mnote> في النسخة: «ذكر البنفسج فزكّاه» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171276,
+          "text": "<footnote id=\"924\"><mnote>(2)</mnote> رواه الكليني في الكافي 1/522:6، باب دهن الخيري، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، و أبو علي الأشعري، عن محمّد بن عبد الجبّار جميعا، عن ابن فضّال، عن ثعلبة بن ميمون، عمّن ذكره، عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171277,
+          "text": "<footnote id=\"925\"><mnote>(3)</mnote> قوله: «فقال لي: ادهن» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171278,
+          "text": "<footnote id=\"926\"><mnote>(4)</mnote> في النسخة: «أقول لك» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171279,
+          "text": "<footnote id=\"927\"><mnote>(5)</mnote> كلمة: «قال» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714171280,
+          "text": "<footnote id=\"928\"><mnote>(6)</mnote> رواه الكليني في الكافي 2/522:6، باب دهن الخيري، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن أبيه، و ابن فضّال، عن الحسن بن جهم، قال: رأيت أبا الحسن عليه السّلام يدّهن بالخيري. </footnote>"
+        },
+        {
+          "footnoteId": 714171281,
+          "text": "<footnote id=\"929\"><mnote>(7)</mnote> «بان»: ضرب من الشجر، واحدته: بانة، و منه دهن البان، و حبّه أكبر من الحمّص في شكل الفستق إلى البياض، و له لبّ دهني، و فيه مرارة. بحر الجواهر: 66.</footnote>"
+        }
+      ],
+      "pageValue": "224",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1920\" paragraph-id=\"1920\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo224\">224</span> عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«ذكر دهن البنفسج فزكّاه، ثمّ قال<span><sup><a class=\"NewFn\" href=\"#footnote923\" title=\"(1)  في النسخة: «ذكر البنفسج فزكّاه» و ما أثبتناه من المصدر. \">1</a></sup></span>: و إنّ الخيري لطيف»<span><sup><a class=\"NewFn\" href=\"#footnote924\" title=\"(2)  رواه الكليني في الكافي 1/522:6، باب دهن الخيري، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، و أبو علي الأشعري، عن محمّد بن عبد الجبّار جميعا، عن ابن فضّال، عن ثعلبة بن ميمون، عمّن ذكره، عن أبي عبد الله عليه السّلام. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1921\" paragraph-id=\"1921\" class=\" G\">[317] </p>\n  <p id=\"p1922\" paragraph-id=\"1922\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">يعقوب بن يزيد، عن ابن فضّال، عن الحسن بن جهم قال:</span> رأيت <span class=\"Y\"><span class=\"maasoom\">أبا الحسن عليه السّلام</span></span> يدّهن بالخيري فقال لي: «ادّهن<span><sup><a class=\"NewFn\" href=\"#footnote925\" title=\"(3)  قوله: «فقال لي: ادهن» أثبتناه من المصدر. \">3</a></sup></span>».</span>\n  </p>\n  <p id=\"p1923\" paragraph-id=\"1923\" class=\" G\">\n    <span class=\"hadith\">فقلت: أين أنت عن البنفسج‌؟ و قد روي فيه عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>.</span>\n  </p>\n  <p id=\"p1924\" paragraph-id=\"1924\" class=\" G\">\n    <span class=\"hadith\">قال: «أكره ريحه».</span>\n  </p>\n  <p id=\"p1925\" paragraph-id=\"1925\" class=\" G\">\n    <span class=\"hadith\">فقلت له: إنّي كنت أكره ريحه، و أكره أن أقول ذلك<span><sup><a class=\"NewFn\" href=\"#footnote926\" title=\"(4)  في النسخة: «أقول لك» و ما أثبتناه من المصدر. \">4</a></sup></span>؛ لما بلغني فيه عن <span class=\"maasoom\">أبي عبد الله عليه السّلام</span>. فقال<span><sup><a class=\"NewFn\" href=\"#footnote927\" title=\"(5)  كلمة: «قال» أثبتناها من المصدر. \">5</a></sup></span>: «لا بأس»<span><sup><a class=\"NewFn\" href=\"#footnote928\" title=\"(6)  رواه الكليني في الكافي 2/522:6، باب دهن الخيري، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن أبيه، و ابن فضّال، عن الحسن بن جهم، قال: رأيت أبا الحسن عليه السّلام يدّهن بالخيري. \">6</a></sup></span>. </span>\n  </p>\n  <p id=\"p1926\" paragraph-id=\"1926\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب في دهن] البان<span><sup><a class=\"NewFn\" href=\"#footnote929\" title=\"(7)  «بان»: ضرب من الشجر، واحدته: بانة، و منه دهن البان، و حبّه أكبر من الحمّص في شكل الفستق إلى البياض، و له لبّ دهني، و فيه مرارة. بحر الجواهر: 66.\">7</a></sup></span></strong>\n  </p>\n  <p id=\"p1927\" paragraph-id=\"1927\" class=\" G\">[318] </p>\n  <p id=\"p1928\" paragraph-id=\"1928\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن عيسى، عن ابن الفيض، قال:</span> ذكرت الأدهان عند <span class=\"Y\"><span class=\"maasoom\">أبي </span></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote923\" footnote-id=\"923\">(1) <page number=\"224\" /> في النسخة: «ذكر البنفسج فزكّاه» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote924\" footnote-id=\"924\">(2)  رواه الكليني في الكافي 1/522:6، باب دهن الخيري، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، و أبو علي الأشعري، عن محمّد بن عبد الجبّار جميعا، عن ابن فضّال، عن ثعلبة بن ميمون، عمّن ذكره، عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote925\" footnote-id=\"925\">(3)  قوله: «فقال لي: ادهن» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote926\" footnote-id=\"926\">(4)  في النسخة: «أقول لك» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote927\" footnote-id=\"927\">(5)  كلمة: «قال» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote928\" footnote-id=\"928\">(6)  رواه الكليني في الكافي 2/522:6، باب دهن الخيري، عن عدّة من أصحابنا، عن أحمد بن أبي عبد الله، عن أبيه، و ابن فضّال، عن الحسن بن جهم، قال: رأيت أبا الحسن عليه السّلام يدّهن بالخيري. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote929\" footnote-id=\"929\">(7)  «بان»: ضرب من الشجر، واحدته: بانة، و منه دهن البان، و حبّه أكبر من الحمّص في شكل الفستق إلى البياض، و له لبّ دهني، و فيه مرارة. بحر الجواهر: 66.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E702A197-A564-4C97-971F-AD211138E911",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

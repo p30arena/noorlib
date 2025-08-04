@@ -1,0 +1,113 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 28,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169814,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1069\"><page number=\"28\"/>[38] </p>"
+        },
+        {
+          "paragraphId": 714169815,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1070\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"559\"><format class=\"sanadHadith\">روى الأنصاري قال:</format> كان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format> ربما تبيّغه الدم فاحتجم في جوف الليل<lfootnote noteId=\"99\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169816,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1071\"><heading level=\"2\">[باب] في الحجامة على الريق </heading></p>"
+        },
+        {
+          "paragraphId": 714169817,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1072\">[39] </p>"
+        },
+        {
+          "paragraphId": 714169818,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1073\"><format class=\"hadith\" who=\"6\" Id=\"39\" RevayatIndex=\"560\"><format class=\"sanadHadith\">روى بعض أصحابنا عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال: </format>«إيّاك و الحجامة على الريق<lfootnote noteId=\"100\">2</lfootnote>»<lfootnote noteId=\"101\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169819,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1074\">[40] </p>"
+        },
+        {
+          "paragraphId": 714169820,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1075\"><format class=\"hadith\" who=\"6\" Id=\"40\" RevayatIndex=\"561\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن أبي الحسن، عن ابن الفضّال و أحمد بن محمّد جميعا، عن ثعلبة بن ميمون، عن عمّار الساباطي، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«ما يقول من قبلكم<lfootnote noteId=\"102\">4</lfootnote> في الحجامة‌؟».</format></p>"
+        },
+        {
+          "paragraphId": 714169821,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1076\"><format class=\"hadith\" who=\"6\" Id=\"40\" RevayatIndex=\"561\">قال: يزعمون أنّها على الأكل.</format></p>"
+        },
+        {
+          "paragraphId": 714169822,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1077\"><format class=\"hadith\" who=\"6\" Id=\"40\" RevayatIndex=\"561\">فقال: «إنّها على الريق أمثل منها على الأكل و أدرّ للعروق و أقوى للبدن»<lfootnote noteId=\"103\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169823,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1078\"><page number=\"29\"/><heading level=\"2\">[باب] الحجامة على الأكل </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170883,
+          "text": "<footnote id=\"99\"><page number=\"28\"/><mnote>(1)</mnote> رواه الطبرسي في مكارم الأخلاق: 4/73، بعد الحديث المتقدّم، روى الأنصاري. </footnote>"
+        },
+        {
+          "footnoteId": 714170884,
+          "text": "<footnote id=\"100\"><mnote>(2)</mnote> في النسخة: «الحجامة على الريق» و ما أثبتناه من مكارم الأخلاق، و في بعض نسخ مكارم الأخلاق كذا: «الحجامة على الريق دواء». </footnote>"
+        },
+        {
+          "footnoteId": 714170885,
+          "text": "<footnote id=\"101\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 6/73، بعد الحديث المتقدّم، عن أبي عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714170886,
+          "text": "<footnote id=\"102\"><mnote>(4)</mnote> في النسخة: «فيمن قبلكم» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714170887,
+          "text": "<footnote id=\"103\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، بل روى الكليني ما يخالفه في الكافي 407/273:8 هكذا: محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن الحجال، عن ثعلبة بن ميمون، عن عمّار الساباطي قال: قال أبو عبد الله عليه السّلام: «ما يقول من قبلكم في الحجامة‌؟» قلت:<br/>يزعمون أنّها على الريق أفضل منها على الطعام، قال: «لا هي على الطعام أدرّ للعروق و أقوى للبدن».<br/>قال المجلسي: «أدرّ للعروق»: أي تمتلئ العروق و يخرج منها الدم أكثر ممّا إذا كان على <page number=\"29\"/>الريق. مرآة العقول 279:26، و انظر: شرح اصول الكافي للمازندراني 386:12.<br/>و لا يخفى ما في هذه الرواية فهي موافقة لروايات العامّة، حيث نقلوا عن النبيّ صلّى الله عليه و آله أنّها على الريق أمثل منها على الأكل و أدرّ للعروق و أقوى للبدن، فقد تحمل على التقية.<br/>لاحظ: سنن ابن ماجة 1153:2-3487/1154-3488، مستدرك الحاكم النيسابوري 211:4 و 409، تاريخ بغداد 40:10، الفائق في غريب الحديث 145:3، الطبّ النبوي لابن قيم الجوزية: 47، الترغيب و الترهيب 5259/315:4 عن ابن ماجة و الحاكم، شرح نهج البلاغة لابن أبي الحديد 163:12، مغني المحتاج 431:1، كنز العمّال 28110/10:10.<br/>و نقلوا أيضا عنه صلّى الله عليه و آله أنّ الحجامة على الريق دواء و على الشبع داء، لاحظ: الطبّ النبوي لابن قيم الجوزية: 46، كنز العمّال 18153/17:10.<br/>و روى الطبرسي في مكارم الأخلاق: 28/75، الفصل الرابع في الحجامة من الفردوس، عن أنس قال: قال رسول الله صلّى الله عليه و آله: «الحجامة على الريق دواء و على الشبع داء، و في سبع و عشر من الشهر شفاء، و يوم الثلاثاء صحّة للبدن، و لقد أوصاني جبريل عليه السّلام بالحجم حتّى ظننت أنّه لا بدّ منه». </footnote>"
+        }
+      ],
+      "pageValue": "28",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1069\" paragraph-id=\"1069\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo28\">28</span>[38] </p>\n  <p id=\"p1070\" paragraph-id=\"1070\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى الأنصاري قال:</span> كان <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span> ربما تبيّغه الدم فاحتجم في جوف الليل<span><sup><a class=\"NewFn\" href=\"#footnote99\" title=\"(1)  رواه الطبرسي في مكارم الأخلاق: 4/73، بعد الحديث المتقدّم، روى الأنصاري. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1071\" paragraph-id=\"1071\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الحجامة على الريق </strong>\n  </p>\n  <p id=\"p1072\" paragraph-id=\"1072\" class=\" G\">[39] </p>\n  <p id=\"p1073\" paragraph-id=\"1073\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى بعض أصحابنا عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال: </span>«إيّاك و الحجامة على الريق<span><sup><a class=\"NewFn\" href=\"#footnote100\" title=\"(2)  في النسخة: «الحجامة على الريق» و ما أثبتناه من مكارم الأخلاق، و في بعض نسخ مكارم الأخلاق كذا: «الحجامة على الريق دواء». \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote101\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 6/73، بعد الحديث المتقدّم، عن أبي عبد الله عليه السّلام. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1074\" paragraph-id=\"1074\" class=\" G\">[40] </p>\n  <p id=\"p1075\" paragraph-id=\"1075\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن محمّد بن أبي الحسن، عن ابن الفضّال و أحمد بن محمّد جميعا، عن ثعلبة بن ميمون، عن عمّار الساباطي، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«ما يقول من قبلكم<span><sup><a class=\"NewFn\" href=\"#footnote102\" title=\"(4)  في النسخة: «فيمن قبلكم» و ما أثبتناه من الكافي. \">4</a></sup></span> في الحجامة‌؟».</span>\n  </p>\n  <p id=\"p1076\" paragraph-id=\"1076\" class=\" G\">\n    <span class=\"hadith\">قال: يزعمون أنّها على الأكل.</span>\n  </p>\n  <p id=\"p1077\" paragraph-id=\"1077\" class=\" G\">\n    <span class=\"hadith\">فقال: «إنّها على الريق أمثل منها على الأكل و أدرّ للعروق و أقوى للبدن»<span><sup><a class=\"NewFn\" href=\"#footnote103\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، بل روى الكليني ما يخالفه في الكافي 407/273:8 هكذا: محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن الحجال، عن ثعلبة بن ميمون، عن عمّار الساباطي قال: قال أبو عبد الله عليه السّلام: «ما يقول من قبلكم في الحجامة‌؟» قلت:يزعمون أنّها على الريق أفضل منها على الطعام، قال: «لا هي على الطعام أدرّ للعروق و أقوى للبدن».قال المجلسي: «أدرّ للعروق»: أي تمتلئ العروق و يخرج منها الدم أكثر ممّا إذا كان على \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1078\" paragraph-id=\"1078\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote99\" footnote-id=\"99\">(1) <page number=\"28\" /> رواه الطبرسي في مكارم الأخلاق: 4/73، بعد الحديث المتقدّم، روى الأنصاري. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote100\" footnote-id=\"100\">(2)  في النسخة: «الحجامة على الريق» و ما أثبتناه من مكارم الأخلاق، و في بعض نسخ مكارم الأخلاق كذا: «الحجامة على الريق دواء». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote101\" footnote-id=\"101\">(3)  رواه الطبرسي في مكارم الأخلاق: 6/73، بعد الحديث المتقدّم، عن أبي عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote102\" footnote-id=\"102\">(4)  في النسخة: «فيمن قبلكم» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote103\" footnote-id=\"103\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا، بل روى الكليني ما يخالفه في الكافي 407/273:8 هكذا: محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن الحجال، عن ثعلبة بن ميمون، عن عمّار الساباطي قال: قال أبو عبد الله عليه السّلام: «ما يقول من قبلكم في الحجامة‌؟» قلت:<br />يزعمون أنّها على الريق أفضل منها على الطعام، قال: «لا هي على الطعام أدرّ للعروق و أقوى للبدن».<br />قال المجلسي: «أدرّ للعروق»: أي تمتلئ العروق و يخرج منها الدم أكثر ممّا إذا كان على </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "CFA32487-93FD-4A21-8354-8C121BCDD9B2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 59,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166758,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2363\"><format class=\"hadith\" who=\"16\" Id=\"87\" RevayatIndex=\"87\"><format class=\"sanadHadith\">فقال: </format>«ما أحبّ أن أنظر إليه فكيف أتداوى به‌؟! و إنّه بمنزلة شحم الخنزير، <page number=\"59\"/> و إنّ الناس يتداوون به»<lfootnote noteId=\"514\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166759,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2364\">[88] </p>"
+        },
+        {
+          "paragraphId": 714166760,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2365\"><format class=\"hadith\" who=\"5\" Id=\"88\" RevayatIndex=\"88\"><format class=\"sanadHadith\">و سئل عليه السّلام</format> عن الرجل يبعث له الدواء من ريح البواسير يشربه بالنبيذ، و قلت<lfootnote noteId=\"515\">2</lfootnote>: ليس يريد به اللذّة، و إنّما يريد به الدواء؟</format></p>"
+        },
+        {
+          "paragraphId": 714166761,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2366\"><format class=\"hadith\" who=\"5\" Id=\"88\" RevayatIndex=\"88\">فقال: <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\"/></format>«لا، ولا جرعة، و لم يجعل الله عزّ و جلّ في شيء ممّا حرّمه دواء و لا شفاء»<lfootnote noteId=\"516\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166762,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2367\">[89] </p>"
+        },
+        {
+          "paragraphId": 714166763,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2368\"><format class=\"hadith\" who=\"16\" Id=\"89\" RevayatIndex=\"89\"><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format><format class=\"sanadHadith\">وسئل عليه السّلام</format> عن الرجل، يشرب بوله من الدواء؟ فقال: «لا إلّا أن يكون مضطرّا، فأمّا بول غيره فلا»<lfootnote noteId=\"517\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166764,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2369\"><page number=\"60\"/><heading level=\"2\">[باب] في الحمية </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168068,
+          "text": "<footnote id=\"514\"><page number=\"59\"/><mnote>(1)</mnote> روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 1/62، باب دواء يعجن بالخمر و شحم الخنزير، عن عبد الله بن جعفر، قال: حدّثنا صفوان يحيى البيّاع، عن عبد الله بن مسكان، عن الحلبي، قال: سألت أبا عبد الله عليه السّلام عن دواء يعجن بالخمر، و الكليني نحوه في الكافي 4/414:6، باب من اضطرّ إلى الخمر للدواء أو للعطش أو للتقية - و عنه الطوسي في تهذيب الأحكام 225/113:9 فقال: عنه - عن أبي علي الأشعري، عن محمّد بن عبد الجبّار، عن صفوان بن يحيى، عن ابن مسكان، عن الحلبي، قال: سألت أبا عبد الله عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714168069,
+          "text": "<footnote id=\"515\"><mnote>(2)</mnote> في الكافي: «من نبيذ صلب» بدل «بالنبيذ و قلت». </footnote>"
+        },
+        {
+          "footnoteId": 714168070,
+          "text": "<footnote id=\"516\"><mnote>(3)</mnote> رواه الكليني بتفاوت في الكافي 2/413:6، باب من اضطرّ إلى الخمر للدواء أو للعطش أو للتقية - و عنه الطوسي في تهذيب الأحكام 223/113:9، فقال: عنه - عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن عمر بن أذينة، و ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 32، عن محمّد بن عبد الله بن مهران الكوفي، عن إسماعيل بن يزيد، عن عمرو بن يزيد الصيقل. </footnote>"
+        },
+        {
+          "footnoteId": 714168071,
+          "text": "<footnote id=\"517\"><mnote>(4)</mnote> روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 61، عن أيّوب بن حريز، قال: حدّثنا أبي حريز بن أبي الورد، عن زرعة، عن محمّد الحضرمي، و عن سماعة بن مهران. </footnote>"
+        }
+      ],
+      "pageValue": "59",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2363\" paragraph-id=\"2363\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo59\">59</span> و إنّ الناس يتداوون به»<span><sup><a class=\"NewFn\" href=\"#footnote514\" title=\"(1)  روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 1/62، باب دواء يعجن بالخمر و شحم الخنزير، عن عبد الله بن جعفر، قال: حدّثنا صفوان يحيى البيّاع، عن عبد الله بن مسكان، عن الحلبي، قال: سألت أبا عبد الله عليه السّلام عن دواء يعجن بالخمر، و الكليني نحوه في الكافي 4/414:6، باب من اضطرّ إلى الخمر للدواء أو للعطش أو للتقية - و عنه الطوسي في تهذيب الأحكام 225/113:9 فقال: عنه - عن أبي علي الأشعري، عن محمّد بن عبد الجبّار، عن صفوان بن يحيى، عن ابن مسكان، عن الحلبي، قال: سألت أبا عبد الله عليه السّلام. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2364\" paragraph-id=\"2364\" class=\" G\">[88] </p>\n  <p id=\"p2365\" paragraph-id=\"2365\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و سئل عليه السّلام</span> عن الرجل يبعث له الدواء من ريح البواسير يشربه بالنبيذ، و قلت<span><sup><a class=\"NewFn\" href=\"#footnote515\" title=\"(2)  في الكافي: «من نبيذ صلب» بدل «بالنبيذ و قلت». \">2</a></sup></span>: ليس يريد به اللذّة، و إنّما يريد به الدواء؟</span>\n  </p>\n  <p id=\"p2366\" paragraph-id=\"2366\" class=\" G\">\n    <span class=\"hadith\">فقال: <span class=\"Y\"><span class=\"maasoom\"></span></span>«لا، ولا جرعة، و لم يجعل الله عزّ و جلّ في شيء ممّا حرّمه دواء و لا شفاء»<span><sup><a class=\"NewFn\" href=\"#footnote516\" title=\"(3)  رواه الكليني بتفاوت في الكافي 2/413:6، باب من اضطرّ إلى الخمر للدواء أو للعطش أو للتقية - و عنه الطوسي في تهذيب الأحكام 223/113:9، فقال: عنه - عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن عمر بن أذينة، و ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 32، عن محمّد بن عبد الله بن مهران الكوفي، عن إسماعيل بن يزيد، عن عمرو بن يزيد الصيقل. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2367\" paragraph-id=\"2367\" class=\" G\">[89] </p>\n  <p id=\"p2368\" paragraph-id=\"2368\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"Y\">\n        <span class=\"maasoom\"></span>\n      </span>\n      <span class=\"sanadHadith\">وسئل عليه السّلام</span> عن الرجل، يشرب بوله من الدواء؟ فقال: «لا إلّا أن يكون مضطرّا، فأمّا بول غيره فلا»<span><sup><a class=\"NewFn\" href=\"#footnote517\" title=\"(4)  روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 61، عن أيّوب بن حريز، قال: حدّثنا أبي حريز بن أبي الورد، عن زرعة، عن محمّد الحضرمي، و عن سماعة بن مهران. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2369\" paragraph-id=\"2369\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote514\" footnote-id=\"514\">(1) <page number=\"59\" /> روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 1/62، باب دواء يعجن بالخمر و شحم الخنزير، عن عبد الله بن جعفر، قال: حدّثنا صفوان يحيى البيّاع، عن عبد الله بن مسكان، عن الحلبي، قال: سألت أبا عبد الله عليه السّلام عن دواء يعجن بالخمر، و الكليني نحوه في الكافي 4/414:6، باب من اضطرّ إلى الخمر للدواء أو للعطش أو للتقية - و عنه الطوسي في تهذيب الأحكام 225/113:9 فقال: عنه - عن أبي علي الأشعري، عن محمّد بن عبد الجبّار، عن صفوان بن يحيى، عن ابن مسكان، عن الحلبي، قال: سألت أبا عبد الله عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote515\" footnote-id=\"515\">(2)  في الكافي: «من نبيذ صلب» بدل «بالنبيذ و قلت». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote516\" footnote-id=\"516\">(3)  رواه الكليني بتفاوت في الكافي 2/413:6، باب من اضطرّ إلى الخمر للدواء أو للعطش أو للتقية - و عنه الطوسي في تهذيب الأحكام 223/113:9، فقال: عنه - عن علي بن إبراهيم، عن أبيه، عن ابن أبي عمير، عن عمر بن أذينة، و ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 32، عن محمّد بن عبد الله بن مهران الكوفي، عن إسماعيل بن يزيد، عن عمرو بن يزيد الصيقل. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote517\" footnote-id=\"517\">(4)  روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 61، عن أيّوب بن حريز، قال: حدّثنا أبي حريز بن أبي الورد، عن زرعة، عن محمّد الحضرمي، و عن سماعة بن مهران. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "CA9B20AA-E027-424A-BC52-EE42D0ADDFB5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

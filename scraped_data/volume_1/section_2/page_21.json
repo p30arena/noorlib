@@ -1,0 +1,85 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 21,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166432,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2178\"><page number=\"21\"/>[14] </p>"
+        },
+        {
+          "paragraphId": 714166433,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2179\"><format class=\"hadith\" who=\"13,6\" Id=\"14\" RevayatIndex=\"14\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن بن السندي، عن علي بن الحكم، عن داود، عن سيف، عن أبي بصير، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبو عبد الله عليه السّلام</format></format>: </format>«إنّ العبد لفي فسحة من أمره<lfootnote noteId=\"342\">1</lfootnote> ما بينه و بين أربعين سنة، فإذا بلغ أربعين سنة أوحى الله عزّ و جلّ إلى ملائكته: إنّي قد عمّرت عبدي عمرا، فغلّظا و شدّدا و تحفّظا<lfootnote noteId=\"343\">2</lfootnote>، و اكتبا عليه<lfootnote noteId=\"344\">3</lfootnote> قليل عمله و كثيره، و صغيره و كبيره»<lfootnote noteId=\"345\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166434,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2180\">[15] </p>"
+        },
+        {
+          "paragraphId": 714166435,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2181\"><format class=\"hadith\" who=\"6\" Id=\"15\" RevayatIndex=\"15\"><format class=\"sanadHadith\">و روى العبّاس بن معروف، عن ابن<lfootnote noteId=\"346\">5</lfootnote> أبي نجران، عن محمّد بن القاسم، عن علي بن المغيرة<lfootnote noteId=\"347\">6</lfootnote>، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: سمعته يقول: </format>«إذا بلغ العبد المؤمن أربعين سنة آمنه الله من الأدواء الثلاث: البرص و الجذام و الجنون<lfootnote noteId=\"348\">7</lfootnote>، و إذا بلغ الخمسين خفّف الله حسابه، فإذا بلغ الستّين رزقه الله الإنابة <page number=\"22\"/> إليه، فإذا بلغ السبعين أحبّه أهل السماء، فإذا<lfootnote noteId=\"349\">1</lfootnote> بلغ الثمانين أمر الله بإثبات حسناته و إلقاء سيّئاته، فإذا بلغ التسعين غفر الله ما تقدّم من ذنوبه و ما تأخّر و كتب أسير الله في أرضه».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168396,
+          "text": "<footnote id=\"342\"><page number=\"21\"/><mnote>(1)</mnote> في النسخة: «من اموره» و ما أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168397,
+          "text": "<footnote id=\"343\"><mnote>(2)</mnote> التّحفّظ: التيقّظ و التحرّز و قلّة الغفلة. مجمع البحرين 286:4 «حفظ». </footnote>"
+        },
+        {
+          "footnoteId": 714168398,
+          "text": "<footnote id=\"344\"><mnote>(3)</mnote> كلمة: «عليه» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168399,
+          "text": "<footnote id=\"345\"><mnote>(4)</mnote> رواه الكليني في الكافي 84/108:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، و الصدوق في الأمالي: 61/90، و فيه: حدّثنا الشيخ الفقيه أبو جعفر محمّد بن علي بن الحسين بن موسى بن بابويه القمي رحمه الله، قال: حدّثنا أبي رضي الله عنه، قال: حدّثنا سعد بن عبد الله، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم - و عنه في روضة الواعظين: 476، و الخصال: 24/546، فقال: حدّثنا محمّد بن الحسن رضي الله عنه قال: حدّثنا أحمد بن إدريس، عن محمّد بن أحمد بن يحيى، عن محمّد بن السندي، عن علي بن الحكم - و السبزواري في جامع الأخبار: 2/329، عن أبي بصير. </footnote>"
+        },
+        {
+          "footnoteId": 714168400,
+          "text": "<footnote id=\"346\"><mnote>(5)</mnote> كلمة: «ابن» أثبتناها من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168401,
+          "text": "<footnote id=\"347\"><mnote>(6)</mnote> في النسخة: «محمّد بن المغيرة» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714168402,
+          "text": "<footnote id=\"348\"><mnote>(7)</mnote> قال المجلسي: قوله عليه السّلام: «آمنه الله من الأدواء الثلاثة» كأنّه محمول على الغالب، أو<page number=\"22\"/>مختصّ بالمؤمن الكامل. مرآة العقول 261:25، البضاعة المزجاة 196:2. </footnote>"
+        }
+      ],
+      "pageValue": "21",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2178\" paragraph-id=\"2178\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo21\">21</span>[14] </p>\n  <p id=\"p2179\" paragraph-id=\"2179\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن بن السندي، عن علي بن الحكم، عن داود، عن سيف، عن أبي بصير، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«إنّ العبد لفي فسحة من أمره<span><sup><a class=\"NewFn\" href=\"#footnote342\" title=\"(1)  في النسخة: «من اموره» و ما أثبتناه من المصدر. \">1</a></sup></span> ما بينه و بين أربعين سنة، فإذا بلغ أربعين سنة أوحى الله عزّ و جلّ إلى ملائكته: إنّي قد عمّرت عبدي عمرا، فغلّظا و شدّدا و تحفّظا<span><sup><a class=\"NewFn\" href=\"#footnote343\" title=\"(2)  التّحفّظ: التيقّظ و التحرّز و قلّة الغفلة. مجمع البحرين 286:4 «حفظ». \">2</a></sup></span>، و اكتبا عليه<span><sup><a class=\"NewFn\" href=\"#footnote344\" title=\"(3)  كلمة: «عليه» أثبتناها من المصدر. \">3</a></sup></span> قليل عمله و كثيره، و صغيره و كبيره»<span><sup><a class=\"NewFn\" href=\"#footnote345\" title=\"(4)  رواه الكليني في الكافي 84/108:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، و الصدوق في الأمالي: 61/90، و فيه: حدّثنا الشيخ الفقيه أبو جعفر محمّد بن علي بن الحسين بن موسى بن بابويه القمي رحمه الله، قال: حدّثنا أبي رضي الله عنه، قال: حدّثنا سعد بن عبد الله، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم - و عنه في روضة الواعظين: 476، و الخصال: 24/546، فقال: حدّثنا محمّد بن الحسن رضي الله عنه قال: حدّثنا أحمد بن إدريس، عن محمّد بن أحمد بن يحيى، عن محمّد بن السندي، عن علي بن الحكم - و السبزواري في جامع الأخبار: 2/329، عن أبي بصير. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2180\" paragraph-id=\"2180\" class=\" G\">[15] </p>\n  <p id=\"p2181\" paragraph-id=\"2181\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى العبّاس بن معروف، عن ابن<span><sup><a class=\"NewFn\" href=\"#footnote346\" title=\"(5)  كلمة: «ابن» أثبتناها من الكافي. \">5</a></sup></span> أبي نجران، عن محمّد بن القاسم، عن علي بن المغيرة<span><sup><a class=\"NewFn\" href=\"#footnote347\" title=\"(6)  في النسخة: «محمّد بن المغيرة» و ما أثبتناه من الكافي. \">6</a></sup></span>، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: سمعته يقول: </span>«إذا بلغ العبد المؤمن أربعين سنة آمنه الله من الأدواء الثلاث: البرص و الجذام و الجنون<span><sup><a class=\"NewFn\" href=\"#footnote348\" title=\"(7)  قال المجلسي: قوله عليه السّلام: «آمنه الله من الأدواء الثلاثة» كأنّه محمول على الغالب، أو\">7</a></sup></span>، و إذا بلغ الخمسين خفّف الله حسابه، فإذا بلغ الستّين رزقه الله الإنابة </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote342\" footnote-id=\"342\">(1) <page number=\"21\" /> في النسخة: «من اموره» و ما أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote343\" footnote-id=\"343\">(2)  التّحفّظ: التيقّظ و التحرّز و قلّة الغفلة. مجمع البحرين 286:4 «حفظ». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote344\" footnote-id=\"344\">(3)  كلمة: «عليه» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote345\" footnote-id=\"345\">(4)  رواه الكليني في الكافي 84/108:8، عن محمّد بن يحيى، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، و الصدوق في الأمالي: 61/90، و فيه: حدّثنا الشيخ الفقيه أبو جعفر محمّد بن علي بن الحسين بن موسى بن بابويه القمي رحمه الله، قال: حدّثنا أبي رضي الله عنه، قال: حدّثنا سعد بن عبد الله، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم - و عنه في روضة الواعظين: 476، و الخصال: 24/546، فقال: حدّثنا محمّد بن الحسن رضي الله عنه قال: حدّثنا أحمد بن إدريس، عن محمّد بن أحمد بن يحيى، عن محمّد بن السندي، عن علي بن الحكم - و السبزواري في جامع الأخبار: 2/329، عن أبي بصير. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote346\" footnote-id=\"346\">(5)  كلمة: «ابن» أثبتناها من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote347\" footnote-id=\"347\">(6)  في النسخة: «محمّد بن المغيرة» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote348\" footnote-id=\"348\">(7)  قال المجلسي: قوله عليه السّلام: «آمنه الله من الأدواء الثلاثة» كأنّه محمول على الغالب، أو</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "6E98DA30-22E4-492E-B68E-72052E28D4F5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

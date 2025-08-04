@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 104,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170137,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1392\"><format class=\"hadith\" who=\"6\" Id=\"137\" RevayatIndex=\"658\"><format class=\"sanadHadith\">إسحاق بن عمّار، قال:</format> قلت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لأبي عبد الله عليه السّلام</format></format>: جعلت فداك إنّي أخاف العقارب، قال: «انظر إلى بنات نعش الكواكب الثلاثة، الأوسط منها بجنبه كوكب صغير قريب منه، تسمّيه العرب «السها»، و نحن نسمّيه «أسلم»، فأحدّ النظر إليه كلّ ليلة، و قل ثلاث مرّات: <format class=\"semicolon\">اللّهمّ ربّ أسلم صلّ على محمّد و آل <page number=\"104\"/> محمّد و عجّل فرجهم و سلّمني»</format>.</format></p>"
+        },
+        {
+          "paragraphId": 714170138,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1393\"><format class=\"hadith\" who=\"6\" Id=\"137\" RevayatIndex=\"658\">قال إسحاق: فما تركته في دهري إلّا مرّة واحدة، فضربتني عقرب<lfootnote noteId=\"404\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170139,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1394\">[140] </p>"
+        },
+        {
+          "paragraphId": 714170140,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1395\"><format class=\"hadith\" who=\"16\" Id=\"138\" RevayatIndex=\"659\"><format class=\"sanadHadith\">و أيضا: </format><format class=\"semicolon\">«بسم الله و بالله، توكّلت على الله، <format class=\"ayah\" surah=\"65\" ayah=\"3\" toAyah=\"\">وَ مَنْ يَتَوَكَّلْ عَلَى اَللّٰهِ فَهُوَ حَسْبُهُ إِنَّ اَللّٰهَ بٰالِغُ أَمْرِهِ‌<format class=\"ayahWord\" fromWord=\"7\" toWord=\"17\"/><format class=\"ayahAddress\" surah=\"65\" ayah=\"3\" toAyah=\"\"/></format>، اللّهمّ اجعلني في كنفك و جوارك، و اجعلني في حفظك و في أمنك و اجعلني في امّتك»</format><lfootnote noteId=\"405\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170141,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1396\">[141] </p>"
+        },
+        {
+          "paragraphId": 714170142,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1397\"><format class=\"hadith\" who=\"16\" Id=\"139\" RevayatIndex=\"660\"><format class=\"sanadHadith\">و أيضا عنه عليه السّلام: </format>«تعوّذ عند المساء: <format class=\"semicolon\">بسم الله و بالله و صلّى الله على <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">محمّد</format></format> النبيّ و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\">أهل بيته</format></format> أخذت العقارب كلّها و الحيّات كلّها بإذن الله تبارك و تعالى أفواهها و قواها عنّي و عمّن أحببت إلى الضحوة»</format><lfootnote noteId=\"406\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170143,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1398\"><heading level=\"2\">[باب] رقية مجرّبة </heading></p>"
+        },
+        {
+          "paragraphId": 714170144,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1399\">[142]</p>"
+        },
+        {
+          "paragraphId": 714170145,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1400\"><format class=\"hadith\" who=\"16\" Id=\"140\" RevayatIndex=\"661\"> تقرأ سبع مرّات: الحمد ثمّ تقول: يا أرض، أمسينا و أمسيت، صمّي <page number=\"105\"/> عنّا طرفيك من شرّ ما مشى عليك، من أسد و أسود و حيّة و عقرب<lfootnote noteId=\"407\">1</lfootnote>، [و ختمتك بخاتم]<lfootnote noteId=\"408\">2</lfootnote><format class=\"E\" Number=\"37\">سليمان بن داود</format> و <format class=\"E\" Number=\"21\">نوح صلوات الله عليهما</format>، و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">محمّد صلّى الله عليه و آله</format></format><lfootnote noteId=\"409\">3</lfootnote> عليهم السّلام. </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170761,
+          "text": "<footnote id=\"404\"><page number=\"104\"/><mnote>(1)</mnote> تقدّم بعينه آنفا في الحديث 131 من هذا الجزء. فانظر ما يتعلّق به هناك. </footnote>"
+        },
+        {
+          "footnoteId": 714170762,
+          "text": "<footnote id=\"405\"><mnote>(2)</mnote> رواه الطبرسي في مكارم الأخلاق: 2/412 بتفاوت يسير، باب للعقارب و الحيات، فقال: اخرى: عنه عليه السّلام: «بسم الله...»، و روى الكليني نحوه في الكافي 1/568:2، باب الحرز و العوذة، حميد بن زياد، عن الحسن بن محمّد، عن غير واحد، عن أبان، عن ابن المنذر قال: ذكرت عند أبي عبد الله عليه السّلام الوحشة، فقال: «ألا أخبركم بشيء إذا قلتموه لم تستوحشوا بليل و لا نهار: توكّلت على الله، إنّه من يتوكّل على الله فهو حسبه إنّ الله بالغ أمره، قد جعل الله لكلّ شيء قدرا، اللّهم اجعلني في كنفك و في جوارك، و اجعلني في أمانك و في منعك» فقال: بلغنا أنّ رجلا قالها ثلاثين سنة و تركها ليلة فلسعته عقرب. </footnote>"
+        },
+        {
+          "footnoteId": 714170763,
+          "text": "<footnote id=\"406\"><mnote>(3)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/411، للعقارب و الحيّات، عن الصادق عليه السّلام قال:<br/>«يقرأ عند المساء».</footnote>"
+        }
+      ],
+      "pageValue": "104",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1392\" paragraph-id=\"1392\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"semicolon\">\n        <span class=\"GPA0 bookPage PageNo104\">104</span> محمّد و عجّل فرجهم و سلّمني»</span>.</span>\n  </p>\n  <p id=\"p1393\" paragraph-id=\"1393\" class=\" G\">\n    <span class=\"hadith\">قال إسحاق: فما تركته في دهري إلّا مرّة واحدة، فضربتني عقرب<span><sup><a class=\"NewFn\" href=\"#footnote404\" title=\"(1)  تقدّم بعينه آنفا في الحديث 131 من هذا الجزء. فانظر ما يتعلّق به هناك. \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1394\" paragraph-id=\"1394\" class=\" G\">[140] </p>\n  <p id=\"p1395\" paragraph-id=\"1395\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و أيضا: </span>\n      <span class=\"semicolon\">«بسم الله و بالله، توكّلت على الله، <span style=\"0\" class=\"ayah\" surah=\"65\" ayah=\"3\">وَ مَنْ يَتَوَكَّلْ عَلَى اَللّٰهِ فَهُوَ حَسْبُهُ إِنَّ اَللّٰهَ بٰالِغُ أَمْرِهِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/65/3\"></a></span></span>، اللّهمّ اجعلني في كنفك و جوارك، و اجعلني في حفظك و في أمنك و اجعلني في امّتك»</span>\n      <span>\n        <sup>\n          <a class=\"NewFn\" href=\"#footnote405\" title=\"(2)  رواه الطبرسي في مكارم الأخلاق: 2/412 بتفاوت يسير، باب للعقارب و الحيات، فقال: اخرى: عنه عليه السّلام: «بسم الله...»، و روى الكليني نحوه في الكافي 1/568:2، باب الحرز و العوذة، حميد بن زياد، عن الحسن بن محمّد، عن غير واحد، عن أبان، عن ابن المنذر قال: ذكرت عند أبي عبد الله عليه السّلام الوحشة، فقال: «ألا أخبركم بشيء إذا قلتموه لم تستوحشوا بليل و لا نهار: توكّلت على الله، إنّه من يتوكّل على الله فهو حسبه إنّ الله بالغ أمره، قد جعل الله لكلّ شيء قدرا، اللّهم اجعلني في كنفك و في جوارك، و اجعلني في أمانك و في منعك» فقال: بلغنا أنّ رجلا قالها ثلاثين سنة و تركها ليلة فلسعته عقرب. \">2</a>\n        </sup>\n      </span>.</span>\n  </p>\n  <p id=\"p1396\" paragraph-id=\"1396\" class=\" G\">[141] </p>\n  <p id=\"p1397\" paragraph-id=\"1397\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و أيضا عنه عليه السّلام: </span>«تعوّذ عند المساء: <span class=\"semicolon\">بسم الله و بالله و صلّى الله على <span class=\"BD\"><span class=\"maasoom\">محمّد</span></span> النبيّ و <span class=\"BD\"><span class=\"maasoom\">أهل بيته</span></span> أخذت العقارب كلّها و الحيّات كلّها بإذن الله تبارك و تعالى أفواهها و قواها عنّي و عمّن أحببت إلى الضحوة»</span><span><sup><a class=\"NewFn\" href=\"#footnote406\" title=\"(3)  رواه الطبرسي في مكارم الأخلاق: 1/411، للعقارب و الحيّات، عن الصادق عليه السّلام قال:«يقرأ عند المساء».\">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1398\" paragraph-id=\"1398\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] رقية مجرّبة </strong>\n  </p>\n  <p id=\"p1399\" paragraph-id=\"1399\" class=\" G\">[142]</p>\n  <p id=\"p1400\" paragraph-id=\"1400\" class=\" G\">\n    <span class=\"hadith\"> تقرأ سبع مرّات: الحمد ثمّ تقول: يا أرض، أمسينا و أمسيت، صمّي </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote404\" footnote-id=\"404\">(1) <page number=\"104\" /> تقدّم بعينه آنفا في الحديث 131 من هذا الجزء. فانظر ما يتعلّق به هناك. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote405\" footnote-id=\"405\">(2)  رواه الطبرسي في مكارم الأخلاق: 2/412 بتفاوت يسير، باب للعقارب و الحيات، فقال: اخرى: عنه عليه السّلام: «بسم الله...»، و روى الكليني نحوه في الكافي 1/568:2، باب الحرز و العوذة، حميد بن زياد، عن الحسن بن محمّد، عن غير واحد، عن أبان، عن ابن المنذر قال: ذكرت عند أبي عبد الله عليه السّلام الوحشة، فقال: «ألا أخبركم بشيء إذا قلتموه لم تستوحشوا بليل و لا نهار: توكّلت على الله، إنّه من يتوكّل على الله فهو حسبه إنّ الله بالغ أمره، قد جعل الله لكلّ شيء قدرا، اللّهم اجعلني في كنفك و في جوارك، و اجعلني في أمانك و في منعك» فقال: بلغنا أنّ رجلا قالها ثلاثين سنة و تركها ليلة فلسعته عقرب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote406\" footnote-id=\"406\">(3)  رواه الطبرسي في مكارم الأخلاق: 1/411، للعقارب و الحيّات، عن الصادق عليه السّلام قال:<br />«يقرأ عند المساء».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "12FC259B-BF52-4203-BC26-7C67C2F8FEFB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

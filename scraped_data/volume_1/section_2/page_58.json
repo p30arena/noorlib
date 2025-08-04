@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 58,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714166751,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2356\"><page number=\"58\"/>[85] </p>"
+        },
+        {
+          "paragraphId": 714166752,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2357\"><format class=\"hadith\" who=\"6\" Id=\"85\" RevayatIndex=\"85\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>: أنّه قال: </format>«قد جعل الله تعالى في الدواء شفاء و خيرا كثيرا، و ما على الإنسان أن يتداوى بدواء، و أن<lfootnote noteId=\"507\">1</lfootnote> لا بأس به<lfootnote noteId=\"508\">2</lfootnote>»<lfootnote noteId=\"509\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166753,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2358\">[86] </p>"
+        },
+        {
+          "paragraphId": 714166754,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2359\"><format class=\"hadith\" who=\"16\" Id=\"86\" RevayatIndex=\"86\"><format class=\"sanadHadith\">و سئل عليه السّلام<lfootnote noteId=\"510\">4</lfootnote> عن النبيذ<lfootnote noteId=\"511\">5</lfootnote> في الدواء؟</format></format></p>"
+        },
+        {
+          "paragraphId": 714166755,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2360\"><format class=\"hadith\" who=\"16\" Id=\"86\" RevayatIndex=\"86\"><format class=\"sanadHadith\">فقال: </format>«ما ينبغي لأحد<lfootnote noteId=\"512\">6</lfootnote> أن يستشفي بالحرام»<lfootnote noteId=\"513\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714166756,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2361\">[87] </p>"
+        },
+        {
+          "paragraphId": 714166757,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2362\"><format class=\"hadith\" who=\"16\" Id=\"87\" RevayatIndex=\"87\"><format class=\"sanadHadith\">و سئل عليه السّلام عن الدواء يعجن بالنبيذ؟</format></format></p>"
+        },
+        {
+          "paragraphId": 714166758,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2363\"><format class=\"hadith\" who=\"16\" Id=\"87\" RevayatIndex=\"87\"><format class=\"sanadHadith\">فقال: </format>«ما أحبّ أن أنظر إليه فكيف أتداوى به‌؟! و إنّه بمنزلة شحم الخنزير، <page number=\"59\"/> و إنّ الناس يتداوون به»<lfootnote noteId=\"514\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168061,
+          "text": "<footnote id=\"507\"><page number=\"58\"/><mnote>(1)</mnote> كلمة: «و أن» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168062,
+          "text": "<footnote id=\"508\"><mnote>(2)</mnote> في طبّ الأئمّة عليهم السّلام: «أن يتداوى و أن لا بأس به». و في وسائل الشيعة: «أن يتداوى و لا بأس به». و في الفصول: «أن يتداوى، فلا بأس به». و قال المجلسي: «و إن لا بأس به»:<br/>الظاهر أنّه بالكسر للوصل أي: و إن كان غير مضطرّ إلى التداوي، أو مخفّفة فالضمير راجع إلى مصدر يتداوى، أو الواو للحال فيرجع إلى الأوّل، و في بعض النسخ: و لا بأس به و هو أظهر. بحار الأنوار 64:59. </footnote>"
+        },
+        {
+          "footnoteId": 714168063,
+          "text": "<footnote id=\"509\"><mnote>(3)</mnote> رواه ابنا بسطام بتفاوت يسير في طبّ الأئمّة عليهم السّلام: 54، في باب الكيّ و الحقنات، عن جعفر بن عبد الواحد، قال: حدّثنا النضر بن سويد، عن عاصم بن حميد، عن محمّد بن مسلم، قال: سألت أبا جعفر عليه السّلام: هل يعالج بالكيّ؟ قال: «نعم». </footnote>"
+        },
+        {
+          "footnoteId": 714168064,
+          "text": "<footnote id=\"510\"><mnote>(4)</mnote> في النسخة: «و سئل عنه عليه السّلام» بزيادة «عنه»، و كذا في الحديث التالي. </footnote>"
+        },
+        {
+          "footnoteId": 714168065,
+          "text": "<footnote id=\"511\"><mnote>(5)</mnote> في المصدر زيادة: «يجعل». </footnote>"
+        },
+        {
+          "footnoteId": 714168066,
+          "text": "<footnote id=\"512\"><mnote>(6)</mnote> كلمة: «لأحد» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714168067,
+          "text": "<footnote id=\"513\"><mnote>(7)</mnote> رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 1/62، باب النّبيذ الذي يجعل في الدواء، عن حاتم بن إسماعيل قال: حدّثنا النضر بن سويد، عن الحسين بن عبد الله الأرجاني، عن مالك بن مسمع المسمعي، عن قائد بن طلحة، و الكلينى في الكافي 8/414:6، باب من اضطرّ إلى الخمر للدواء، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد، عن النضر بن سويد.</footnote>"
+        }
+      ],
+      "pageValue": "58",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2356\" paragraph-id=\"2356\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo58\">58</span>[85] </p>\n  <p id=\"p2357\" paragraph-id=\"2357\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>: أنّه قال: </span>«قد جعل الله تعالى في الدواء شفاء و خيرا كثيرا، و ما على الإنسان أن يتداوى بدواء، و أن<span><sup><a class=\"NewFn\" href=\"#footnote507\" title=\"(1)  كلمة: «و أن» أثبتناها من المصدر. \">1</a></sup></span> لا بأس به<span><sup><a class=\"NewFn\" href=\"#footnote508\" title=\"(2)  في طبّ الأئمّة عليهم السّلام: «أن يتداوى و أن لا بأس به». و في وسائل الشيعة: «أن يتداوى و لا بأس به». و في الفصول: «أن يتداوى، فلا بأس به». و قال المجلسي: «و إن لا بأس به»:الظاهر أنّه بالكسر للوصل أي: و إن كان غير مضطرّ إلى التداوي، أو مخفّفة فالضمير راجع إلى مصدر يتداوى، أو الواو للحال فيرجع إلى الأوّل، و في بعض النسخ: و لا بأس به و هو أظهر. بحار الأنوار 64:59. \">2</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote509\" title=\"(3)  رواه ابنا بسطام بتفاوت يسير في طبّ الأئمّة عليهم السّلام: 54، في باب الكيّ و الحقنات، عن جعفر بن عبد الواحد، قال: حدّثنا النضر بن سويد، عن عاصم بن حميد، عن محمّد بن مسلم، قال: سألت أبا جعفر عليه السّلام: هل يعالج بالكيّ؟ قال: «نعم». \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p2358\" paragraph-id=\"2358\" class=\" G\">[86] </p>\n  <p id=\"p2359\" paragraph-id=\"2359\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و سئل عليه السّلام<span><sup><a class=\"NewFn\" href=\"#footnote510\" title=\"(4)  في النسخة: «و سئل عنه عليه السّلام» بزيادة «عنه»، و كذا في الحديث التالي. \">4</a></sup></span> عن النبيذ<span><sup><a class=\"NewFn\" href=\"#footnote511\" title=\"(5)  في المصدر زيادة: «يجعل». \">5</a></sup></span> في الدواء؟</span>\n    </span>\n  </p>\n  <p id=\"p2360\" paragraph-id=\"2360\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فقال: </span>«ما ينبغي لأحد<span><sup><a class=\"NewFn\" href=\"#footnote512\" title=\"(6)  كلمة: «لأحد» أثبتناها من المصدر. \">6</a></sup></span> أن يستشفي بالحرام»<span><sup><a class=\"NewFn\" href=\"#footnote513\" title=\"(7)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 1/62، باب النّبيذ الذي يجعل في الدواء، عن حاتم بن إسماعيل قال: حدّثنا النضر بن سويد، عن الحسين بن عبد الله الأرجاني، عن مالك بن مسمع المسمعي، عن قائد بن طلحة، و الكلينى في الكافي 8/414:6، باب من اضطرّ إلى الخمر للدواء، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد، عن النضر بن سويد.\">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p2361\" paragraph-id=\"2361\" class=\" G\">[87] </p>\n  <p id=\"p2362\" paragraph-id=\"2362\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و سئل عليه السّلام عن الدواء يعجن بالنبيذ؟</span>\n    </span>\n  </p>\n  <p id=\"p2363\" paragraph-id=\"2363\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فقال: </span>«ما أحبّ أن أنظر إليه فكيف أتداوى به‌؟! و إنّه بمنزلة شحم الخنزير، </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote507\" footnote-id=\"507\">(1) <page number=\"58\" /> كلمة: «و أن» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote508\" footnote-id=\"508\">(2)  في طبّ الأئمّة عليهم السّلام: «أن يتداوى و أن لا بأس به». و في وسائل الشيعة: «أن يتداوى و لا بأس به». و في الفصول: «أن يتداوى، فلا بأس به». و قال المجلسي: «و إن لا بأس به»:<br />الظاهر أنّه بالكسر للوصل أي: و إن كان غير مضطرّ إلى التداوي، أو مخفّفة فالضمير راجع إلى مصدر يتداوى، أو الواو للحال فيرجع إلى الأوّل، و في بعض النسخ: و لا بأس به و هو أظهر. بحار الأنوار 64:59. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote509\" footnote-id=\"509\">(3)  رواه ابنا بسطام بتفاوت يسير في طبّ الأئمّة عليهم السّلام: 54، في باب الكيّ و الحقنات، عن جعفر بن عبد الواحد، قال: حدّثنا النضر بن سويد، عن عاصم بن حميد، عن محمّد بن مسلم، قال: سألت أبا جعفر عليه السّلام: هل يعالج بالكيّ؟ قال: «نعم». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote510\" footnote-id=\"510\">(4)  في النسخة: «و سئل عنه عليه السّلام» بزيادة «عنه»، و كذا في الحديث التالي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote511\" footnote-id=\"511\">(5)  في المصدر زيادة: «يجعل». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote512\" footnote-id=\"512\">(6)  كلمة: «لأحد» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote513\" footnote-id=\"513\">(7)  رواه ابنا بسطام في طبّ الأئمّة عليهم السّلام: 1/62، باب النّبيذ الذي يجعل في الدواء، عن حاتم بن إسماعيل قال: حدّثنا النضر بن سويد، عن الحسين بن عبد الله الأرجاني، عن مالك بن مسمع المسمعي، عن قائد بن طلحة، و الكلينى في الكافي 8/414:6، باب من اضطرّ إلى الخمر للدواء، عن محمّد بن يحيى، عن أحمد بن محمّد، عن الحسين بن سعيد، عن النضر بن سويد.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "B118E320-2A4E-4DCF-9CB9-312DA04C0E50",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,43 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 232,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170777,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1955\"><page number=\"232\"/><page number=\"233\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"5\"/> الفهارس الفنيه</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171661,
+          "text": "<footnote id=\"954\"><mnote>(4)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/45، في النرجس، روى الحسن بن المنذر رفعه.<br/>و إلى هنا تمّت نسخة الكتاب، و لم نعثر على تكملتها، و الواجب علينا أن نشكر الله تعالى على الإيمان و العمل بالأحاديث الواصلة إلينا من هذا الكتاب و غيره حتّى يرزقنا بلطفه نسخة كاملة منه و من غيره من تراثنا المفقود، فقال مولانا الإمام الصادق عليه السّلام: «أيّما عبد <page number=\"232\"/>أنعم الله عليه بنعمة فعرفها بقلبه و حمد الله عليها بلسانه لم تنفد حتّى يأمر الله له بالزيادة، و هو قوله تعالى: <format class=\"ayah\" surah=\"14\" ayah=\"7\" toAyah=\"\">لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ <format class=\"ayahWord\" fromWord=\"5\" toWord=\"7\"/><format class=\"ayahAddress\" surah=\"14\" ayah=\"7\" toAyah=\"\"/></format>[سورة إبراهيم 7:14]».<br/>فالحمد لله الذي بعزّته تتمّ الصالحات على كلّ نعمة كانت أو هي كائنة، و الصلاة و السّلام على سيّد السادات، و خاتم الأنبياء الهداة، محمّد و آله المعصومين الولاة، المتفرّدين في الذوات و الصفات، و معادن الرحمات و البركات، و شفعاء المذنبين في العرصات، و لا سيّما خاتمهم الموعود في الآيات البيّنات، مولانا الإمام الهادي المهدي إلى الخير و الهدى و النجاة، و لعنة الله على أعدائهم الأشقياء الأخباث الطغاة، بعدد ما في العوالم من الذرّات، مادامت الدهور و الشهور و السنوات و الأوقات.</footnote>"
+        }
+      ],
+      "pageValue": "232",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1955\" paragraph-id=\"1955\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo232\">232</span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote954\" footnote-id=\"954\"><page number=\"232\" />أنعم الله عليه بنعمة فعرفها بقلبه و حمد الله عليها بلسانه لم تنفد حتّى يأمر الله له بالزيادة، و هو قوله تعالى: <format class=\"ayah\" surah=\"14\" ayah=\"7\" toAyah=\"\">لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ <format class=\"ayahWord\" fromWord=\"5\" toWord=\"7\" /><format class=\"ayahAddress\" surah=\"14\" ayah=\"7\" toAyah=\"\" /></format>[سورة إبراهيم 7:14]».<br />فالحمد لله الذي بعزّته تتمّ الصالحات على كلّ نعمة كانت أو هي كائنة، و الصلاة و السّلام على سيّد السادات، و خاتم الأنبياء الهداة، محمّد و آله المعصومين الولاة، المتفرّدين في الذوات و الصفات، و معادن الرحمات و البركات، و شفعاء المذنبين في العرصات، و لا سيّما خاتمهم الموعود في الآيات البيّنات، مولانا الإمام الهادي المهدي إلى الخير و الهدى و النجاة، و لعنة الله على أعدائهم الأشقياء الأخباث الطغاة، بعدد ما في العوالم من الذرّات، مادامت الدهور و الشهور و السنوات و الأوقات.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4BD971A2-21E0-4752-93A0-917751F1FEF0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

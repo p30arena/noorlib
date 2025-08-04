@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 9,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169726,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"981\"><page number=\"9\"/><heading level=\"2\">[باب] فيمن أراد الشحم و الهزال </heading></p>"
+        },
+        {
+          "paragraphId": 714169727,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"982\">[7] </p>"
+        },
+        {
+          "paragraphId": 714169728,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"983\"><format class=\"hadith\" who=\"6\" Id=\"7\" RevayatIndex=\"528\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«من أراد أن يحمل لحماً فليدخل الحمّام يوماً و يغبّه يوما<lfootnote noteId=\"20\">1</lfootnote>، و من أراد أن يضمر و كان كثير اللحم<lfootnote noteId=\"21\">2</lfootnote> فليدخل الحمّام<lfootnote noteId=\"22\">3</lfootnote> كلّ يوم»<lfootnote noteId=\"23\">4</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714169729,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"984\"><heading level=\"2\">[باب] في قلع الثواليل<lfootnote noteId=\"24\">5</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714169730,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"985\">[8] </p>"
+        },
+        {
+          "paragraphId": 714169731,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"986\"><format class=\"hadith\" who=\"8\" Id=\"8\" RevayatIndex=\"529\"><format class=\"sanadHadith\">روي أنّ رجلا سأل <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">الرضا عليه السّلام</format></format> أن يعلّمه شيئا ينفع لقلع الثواليل.</format></format></p>"
+        },
+        {
+          "paragraphId": 714169732,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"987\"><format class=\"hadith\" who=\"8\" Id=\"8\" RevayatIndex=\"529\"><format class=\"sanadHadith\">قال: </format>«خذ لكلّ ثالول سبع شعيرات، و اقرأ على كلّ شعيرة سبع مرّات <format class=\"ayah\" surah=\"56\" ayah=\"1\" toAyah=\"\">إِذٰا وَقَعَتِ اَلْوٰاقِعَةُ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"56\" ayah=\"1\" toAyah=\"\"/></format> إلى قوله تعالى: <format class=\"ayah\" surah=\"56\" ayah=\"6\" toAyah=\"\">فَكٰانَتْ هَبٰاءً مُنْبَثًّا<format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"56\" ayah=\"6\" toAyah=\"\"/></format><lfootnote noteId=\"25\">6</lfootnote>، و اقرأ: <format class=\"ayah\" surah=\"20\" ayah=\"105\" toAyah=\"\">وَ يَسْئَلُونَكَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"105\" toAyah=\"\"/></format><page number=\"10\"/><format class=\"ayah\" surah=\"20\" ayah=\"105\" toAyah=\"\">عَنِ اَلْجِبٰالِ فَقُلْ يَنْسِفُهٰا رَبِّي نَسْفاً<format class=\"ayahWord\" fromWord=\"3\" toWord=\"8\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"105\" toAyah=\"\"/></format> إلى قوله: <format class=\"ayah\" surah=\"20\" ayah=\"107\" toAyah=\"\">وَ لاٰ أَمْتاً<format class=\"ayahWord\" fromWord=\"5\" toWord=\"7\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"107\" toAyah=\"\"/></format><lfootnote noteId=\"26\">1</lfootnote>، ثمّ خذ الشعير شعيرة شعيرة<lfootnote noteId=\"27\">2</lfootnote> فامسحها على الثآليل، و صرّها<lfootnote noteId=\"28\">3</lfootnote> في خرقة جديدة، و اربط على الخرقة حجرا، و ألقها في كنيف».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170803,
+          "text": "<footnote id=\"19\"><mnote>(5)</mnote> رواه الطبرسي بتفاوت يسير في مكارم الأخلاق: 195، في اللحم اليابس و الجبن و الطلع، عن الصادق عليه السّلام، و في بعض نسخه: و في حديث آخر: الجوز، و قيل: الكسب، و في حديث آخر: الكنب، و رواه البرقي بزيادة في المحاسن 25/463:2، باب اللحم - و عنه الكليني في الكافي 7/315:6، باب القديد، عنه [أي: عن البرقي الذي روى عنه في الحديث 5 من الباب بقوله: عدّة من أصحابنا، عن أحمد بن محمّد بن خالد] - عن بعض أصحابنا رفعه قال: قال أبو عبد الله عليه السّلام:...، و انظر: المحاسن 11/450:2، باب= <page number=\"9\"/>نوادر في الطعام، الخصال: 194/155، مكارم الاخلاق: 54. </footnote>"
+        },
+        {
+          "footnoteId": 714170804,
+          "text": "<footnote id=\"20\"><mnote>(1)</mnote> و الغبّ من ورد الماء: فهو أن تشرب يوما و يوما لا. لسان العرب 635:1 «غبب». و للكلباسي بيان طويل في معنى «الغبّ‌» في رسالته التي ألّفها في محمّد بن أبي عمير المطبوعة ضمن الرسائل الرجالية 452:3، فانظره. </footnote>"
+        },
+        {
+          "footnoteId": 714170805,
+          "text": "<footnote id=\"21\"><mnote>(2)</mnote> قوله: «و كان كثير اللحم» أثبتناه من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714170806,
+          "text": "<footnote id=\"22\"><mnote>(3)</mnote> كلمة: «الحمّام» أثبتناها من المصدر. </footnote>"
+        },
+        {
+          "footnoteId": 714170807,
+          "text": "<footnote id=\"23\"><mnote>(4)</mnote> رواه الكليني في الكافي 11/499:6، باب الحمّام، [عن محمّد بن يحيى] عن أحمد بن محمّد [بن عيسى]، عن علي بن أحمد بن أشيم، عن سليمان الجعفري، و انظر: الكافي 2/496:6، باب الحمام، من لا يحضره الفقيه 247/117:1، باب غسل يوم الجمعة و دخول الحمام و آدابه، مكارم الأخلاق: 53. </footnote>"
+        },
+        {
+          "footnoteId": 714170808,
+          "text": "<footnote id=\"24\"><mnote>(5)</mnote> قال الهروي: الثؤلول بضمّ الثاء و سكون الهمزة: واحد الثآليل، و هي بثور صغار في الجلد، شديدة الصلابة، مستديرة كالحمّص فما دونه. بحر الجواهر: 105. </footnote>"
+        },
+        {
+          "footnoteId": 714170809,
+          "text": "<footnote id=\"25\"><mnote>(6)</mnote> سورة الواقعة 1:56-6. </footnote>"
+        }
+      ],
+      "pageValue": "9",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p981\" paragraph-id=\"981\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo9\">9</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب] فيمن أراد الشحم و الهزال </strong>\n  </p>\n  <p id=\"p982\" paragraph-id=\"982\" class=\" G\">[7] </p>\n  <p id=\"p983\" paragraph-id=\"983\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«من أراد أن يحمل لحماً فليدخل الحمّام يوماً و يغبّه يوما<span><sup><a class=\"NewFn\" href=\"#footnote20\" title=\"(1)  و الغبّ من ورد الماء: فهو أن تشرب يوما و يوما لا. لسان العرب 635:1 «غبب». و للكلباسي بيان طويل في معنى «الغبّ‌» في رسالته التي ألّفها في محمّد بن أبي عمير المطبوعة ضمن الرسائل الرجالية 452:3، فانظره. \">1</a></sup></span>، و من أراد أن يضمر و كان كثير اللحم<span><sup><a class=\"NewFn\" href=\"#footnote21\" title=\"(2)  قوله: «و كان كثير اللحم» أثبتناه من المصدر. \">2</a></sup></span> فليدخل الحمّام<span><sup><a class=\"NewFn\" href=\"#footnote22\" title=\"(3)  كلمة: «الحمّام» أثبتناها من المصدر. \">3</a></sup></span> كلّ يوم»<span><sup><a class=\"NewFn\" href=\"#footnote23\" title=\"(4)  رواه الكليني في الكافي 11/499:6، باب الحمّام، [عن محمّد بن يحيى] عن أحمد بن محمّد [بن عيسى]، عن علي بن أحمد بن أشيم، عن سليمان الجعفري، و انظر: الكافي 2/496:6، باب الحمام، من لا يحضره الفقيه 247/117:1، باب غسل يوم الجمعة و دخول الحمام و آدابه، مكارم الأخلاق: 53. \">4</a></sup></span>. </span>\n  </p>\n  <p id=\"p984\" paragraph-id=\"984\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في قلع الثواليل<span><sup><a class=\"NewFn\" href=\"#footnote24\" title=\"(5)  قال الهروي: الثؤلول بضمّ الثاء و سكون الهمزة: واحد الثآليل، و هي بثور صغار في الجلد، شديدة الصلابة، مستديرة كالحمّص فما دونه. بحر الجواهر: 105. \">5</a></sup></span></strong>\n  </p>\n  <p id=\"p985\" paragraph-id=\"985\" class=\" G\">[8] </p>\n  <p id=\"p986\" paragraph-id=\"986\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي أنّ رجلا سأل <span class=\"Y\"><span class=\"maasoom\">الرضا عليه السّلام</span></span> أن يعلّمه شيئا ينفع لقلع الثواليل.</span>\n    </span>\n  </p>\n  <p id=\"p987\" paragraph-id=\"987\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قال: </span>«خذ لكلّ ثالول سبع شعيرات، و اقرأ على كلّ شعيرة سبع مرّات <span style=\"0\" class=\"ayah\" surah=\"56\" ayah=\"1\">إِذٰا وَقَعَتِ اَلْوٰاقِعَةُ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/56/1\"></a></span></span> إلى قوله تعالى: <span style=\"0\" class=\"ayah\" surah=\"56\" ayah=\"6\">فَكٰانَتْ هَبٰاءً مُنْبَثًّا<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/56/6\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote25\" title=\"(6)  سورة الواقعة 1:56-6. \">6</a></sup></span>، و اقرأ: <span style=\"0\" class=\"ayah\" surah=\"20\" ayah=\"105\">وَ يَسْئَلُونَكَ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/20/105\"></a></span></span></span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote19\" footnote-id=\"19\"><page number=\"9\" />نوادر في الطعام، الخصال: 194/155، مكارم الاخلاق: 54. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote20\" footnote-id=\"20\">(1)  و الغبّ من ورد الماء: فهو أن تشرب يوما و يوما لا. لسان العرب 635:1 «غبب». و للكلباسي بيان طويل في معنى «الغبّ‌» في رسالته التي ألّفها في محمّد بن أبي عمير المطبوعة ضمن الرسائل الرجالية 452:3، فانظره. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote21\" footnote-id=\"21\">(2)  قوله: «و كان كثير اللحم» أثبتناه من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote22\" footnote-id=\"22\">(3)  كلمة: «الحمّام» أثبتناها من المصدر. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote23\" footnote-id=\"23\">(4)  رواه الكليني في الكافي 11/499:6، باب الحمّام، [عن محمّد بن يحيى] عن أحمد بن محمّد [بن عيسى]، عن علي بن أحمد بن أشيم، عن سليمان الجعفري، و انظر: الكافي 2/496:6، باب الحمام، من لا يحضره الفقيه 247/117:1، باب غسل يوم الجمعة و دخول الحمام و آدابه، مكارم الأخلاق: 53. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote24\" footnote-id=\"24\">(5)  قال الهروي: الثؤلول بضمّ الثاء و سكون الهمزة: واحد الثآليل، و هي بثور صغار في الجلد، شديدة الصلابة، مستديرة كالحمّص فما دونه. بحر الجواهر: 105. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote25\" footnote-id=\"25\">(6)  سورة الواقعة 1:56-6. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "78DAF988-06FC-444C-914C-BFBDBC9789BA",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

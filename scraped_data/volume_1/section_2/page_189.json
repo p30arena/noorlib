@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 189,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167104,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3003\"><format class=\"hadith\" who=\"14,6\" Id=\"294\" RevayatIndex=\"294\"><format class=\"sanadHadith\">روى محمّد بن حسان الرازي، عن أبي محمّد الرازي، عن الحسين بن يزيد<lfootnote noteId=\"1110\">6</lfootnote>، <page number=\"189\"/> عن السكوني، عن <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، قال: </format>«قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رسول الله صلّى الله عليه و آله</format></format>: من قلّم أظفاره في يوم السبت و يوم الخميس و أخذ من شاربه عوفي من وجع الأضراس و وجع العين<lfootnote noteId=\"1111\">1</lfootnote>»<lfootnote noteId=\"1112\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167105,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3004\">[297] </p>"
+        },
+        {
+          "paragraphId": 714167106,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3005\"><format class=\"hadith\" who=\"6\" Id=\"295\" RevayatIndex=\"295\"><format class=\"sanadHadith\">و روى محمّد بن الحسن، عن محمّد بن أحمد، عن السياري، عن عبد الله بن علي الهمداني، عن رجل، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> قال:</format> قلت له<lfootnote noteId=\"1113\">3</lfootnote>: إنّهم يزعمون أنّ الكلام على النكاح يورث الخرس.</format></p>"
+        },
+        {
+          "paragraphId": 714167107,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3006\"><format class=\"hadith\" who=\"6\" Id=\"295\" RevayatIndex=\"295\">فقال: «ليس كما يقولون، الكلام على الخلاء يورث الخرس»<lfootnote noteId=\"1114\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167108,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3007\">[298] </p>"
+        },
+        {
+          "paragraphId": 714167109,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3008\"><format class=\"hadith\" who=\"6\" Id=\"296\" RevayatIndex=\"296\"><format class=\"sanadHadith\">محمّد بن حسان الرازي، عن رجل، عن علي بن الحسن<lfootnote noteId=\"1115\">5</lfootnote>، عن محمّد بن تسنيم، عن محمّد بن عبد الله بن محمّد بن أبي كيسان، عن إسحاق بن جرير، عن أبي بصير، قال: دخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام </format></format>- و بين يديه طبق تمر - فقال: </format>«ادن يا أبا محمّد فكل».</format></p>"
+        },
+        {
+          "paragraphId": 714167110,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3009\"><format class=\"hadith\" who=\"6\" Id=\"296\" RevayatIndex=\"296\"><page number=\"190\"/> فقلت: جعلت فداك، إنّ التمر يفسد عليّ أسناني.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169154,
+          "text": "<footnote id=\"1110\"><mnote>(6)</mnote> في النسخة: «الحسين بن السعيد» و الصحيح ما أثبتناه فهو لا يروي عن السكوني، أما<page number=\"189\"/>الحسين بن يزيد النوفلي فقد روى كثيرا عن السكوني. </footnote>"
+        },
+        {
+          "footnoteId": 714169155,
+          "text": "<footnote id=\"1111\"><mnote>(1)</mnote> انظر جامع الأخبار: 935/333 و 941/334، بحار الأنوار 13/124:73، حيث اختلفت فيهما الأخبار. </footnote>"
+        },
+        {
+          "footnoteId": 714169156,
+          "text": "<footnote id=\"1112\"><mnote>(2)</mnote> رواه الصدوق في من لا يحضره الفقيه 312/128:1، فقال: قال رسول الله صلّى الله عليه و آله، و الخصال 100/394 فقال: حدّثنا محمّد بن الحسن رضي الله عنه، قال: حدّثنا أحمد بن إدريس، عن محمّد بن أحمد، عن محمّد بن حسان، عن أبي محمّد الرازي، عن الحسين بن يزيد النوفلي، و ثواب الأعمال: 23، فقال: حدّثني أبي رحمه الله، قال: حدّثني علي بن إبراهيم، عن أبيه، عن الحسين بن يزيد، و الطبرسي في مكارم الأخلاق: 65، عن أبي عبد الله عليه السّلام، قال: قال رسول الله صلّى الله عليه و آله، و السبزواري في جامع الأخبار: 941/334، بحذف يوم السبت كما مرّ. </footnote>"
+        },
+        {
+          "footnoteId": 714169157,
+          "text": "<footnote id=\"1113\"><mnote>(3)</mnote> في النسخة: «قلت لهم»، و ما أثبتناه هو الصواب. </footnote>"
+        },
+        {
+          "footnoteId": 714169158,
+          "text": "<footnote id=\"1114\"><mnote>(4)</mnote> لم نعثر على نصّه في المصادر المتوفّرة لدينا، و لكن معناه مؤيّد ببعض الروايات التي مرّت و ستأتي. </footnote>"
+        },
+        {
+          "footnoteId": 714169159,
+          "text": "<footnote id=\"1115\"><mnote>(5)</mnote> أي: ابن فضّال.</footnote>"
+        }
+      ],
+      "pageValue": "189",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3003\" paragraph-id=\"3003\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo189\">189</span> عن السكوني، عن <span class=\"HQ\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span>، قال: </span>«قال <span class=\"Y\"><span class=\"maasoom\">رسول الله صلّى الله عليه و آله</span></span>: من قلّم أظفاره في يوم السبت و يوم الخميس و أخذ من شاربه عوفي من وجع الأضراس و وجع العين<span><sup><a class=\"NewFn\" href=\"#footnote1111\" title=\"(1)  انظر جامع الأخبار: 935/333 و 941/334، بحار الأنوار 13/124:73، حيث اختلفت فيهما الأخبار. \">1</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1112\" title=\"(2)  رواه الصدوق في من لا يحضره الفقيه 312/128:1، فقال: قال رسول الله صلّى الله عليه و آله، و الخصال 100/394 فقال: حدّثنا محمّد بن الحسن رضي الله عنه، قال: حدّثنا أحمد بن إدريس، عن محمّد بن أحمد، عن محمّد بن حسان، عن أبي محمّد الرازي، عن الحسين بن يزيد النوفلي، و ثواب الأعمال: 23، فقال: حدّثني أبي رحمه الله، قال: حدّثني علي بن إبراهيم، عن أبيه، عن الحسين بن يزيد، و الطبرسي في مكارم الأخلاق: 65، عن أبي عبد الله عليه السّلام، قال: قال رسول الله صلّى الله عليه و آله، و السبزواري في جامع الأخبار: 941/334، بحذف يوم السبت كما مرّ. \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p3004\" paragraph-id=\"3004\" class=\" G\">[297] </p>\n  <p id=\"p3005\" paragraph-id=\"3005\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روى محمّد بن الحسن، عن محمّد بن أحمد، عن السياري، عن عبد الله بن علي الهمداني، عن رجل، عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> قال:</span> قلت له<span><sup><a class=\"NewFn\" href=\"#footnote1113\" title=\"(3)  في النسخة: «قلت لهم»، و ما أثبتناه هو الصواب. \">3</a></sup></span>: إنّهم يزعمون أنّ الكلام على النكاح يورث الخرس.</span>\n  </p>\n  <p id=\"p3006\" paragraph-id=\"3006\" class=\" G\">\n    <span class=\"hadith\">فقال: «ليس كما يقولون، الكلام على الخلاء يورث الخرس»<span><sup><a class=\"NewFn\" href=\"#footnote1114\" title=\"(4)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و لكن معناه مؤيّد ببعض الروايات التي مرّت و ستأتي. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3007\" paragraph-id=\"3007\" class=\" G\">[298] </p>\n  <p id=\"p3008\" paragraph-id=\"3008\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">محمّد بن حسان الرازي، عن رجل، عن علي بن الحسن<span><sup><a class=\"NewFn\" href=\"#footnote1115\" title=\"(5)  أي: ابن فضّال.\">5</a></sup></span>، عن محمّد بن تسنيم، عن محمّد بن عبد الله بن محمّد بن أبي كيسان، عن إسحاق بن جرير، عن أبي بصير، قال: دخلت على <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام </span></span>- و بين يديه طبق تمر - فقال: </span>«ادن يا أبا محمّد فكل».</span>\n  </p>\n  <p id=\"p3009\" paragraph-id=\"3009\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1110\" footnote-id=\"1110\"><page number=\"189\" />الحسين بن يزيد النوفلي فقد روى كثيرا عن السكوني. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1111\" footnote-id=\"1111\">(1)  انظر جامع الأخبار: 935/333 و 941/334، بحار الأنوار 13/124:73، حيث اختلفت فيهما الأخبار. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1112\" footnote-id=\"1112\">(2)  رواه الصدوق في من لا يحضره الفقيه 312/128:1، فقال: قال رسول الله صلّى الله عليه و آله، و الخصال 100/394 فقال: حدّثنا محمّد بن الحسن رضي الله عنه، قال: حدّثنا أحمد بن إدريس، عن محمّد بن أحمد، عن محمّد بن حسان، عن أبي محمّد الرازي، عن الحسين بن يزيد النوفلي، و ثواب الأعمال: 23، فقال: حدّثني أبي رحمه الله، قال: حدّثني علي بن إبراهيم، عن أبيه، عن الحسين بن يزيد، و الطبرسي في مكارم الأخلاق: 65، عن أبي عبد الله عليه السّلام، قال: قال رسول الله صلّى الله عليه و آله، و السبزواري في جامع الأخبار: 941/334، بحذف يوم السبت كما مرّ. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1113\" footnote-id=\"1113\">(3)  في النسخة: «قلت لهم»، و ما أثبتناه هو الصواب. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1114\" footnote-id=\"1114\">(4)  لم نعثر على نصّه في المصادر المتوفّرة لدينا، و لكن معناه مؤيّد ببعض الروايات التي مرّت و ستأتي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1115\" footnote-id=\"1115\">(5)  أي: ابن فضّال.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "3D7A4A75-34B3-4526-B3D8-34028CB6F0B8",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

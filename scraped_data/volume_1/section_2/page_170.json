@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 170,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167004,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2903\"><format class=\"hadith\" who=\"1\" Id=\"260\" RevayatIndex=\"260\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد و أحمد بن أبي عبد الله البرقي، عن أبيه، عن أحمد بن النضر، عن محمّد بن مروان، رفعه قال<lfootnote noteId=\"1021\">4</lfootnote>: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أمير المؤمنين عليه السّلام </format></format><lfootnote noteId=\"1022\">5</lfootnote></format>«من قال إذا عطس: الحمد لله ربّ العالمين على كلّ حال ما كان و صلّى الله على <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">محمّد</format></format> النّبيّ و <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\">آل محمّد</format></format> لم يشتك شيئا من أضراسه <page number=\"170\"/> و لا من اذنيه<lfootnote noteId=\"1023\">1</lfootnote>»<lfootnote noteId=\"1024\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167005,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2904\"><heading level=\"2\">[باب] في الأنف و الرعاف </heading></p>"
+        },
+        {
+          "paragraphId": 714167006,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2905\">[263] </p>"
+        },
+        {
+          "paragraphId": 714167007,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2906\"><format class=\"hadith\" who=\"16\" Id=\"261\" RevayatIndex=\"261\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال حدّثنا الحميري، عن السيّاري رفعه قال:</format></format></p>"
+        },
+        {
+          "paragraphId": 714167008,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2907\"><format class=\"hadith\" who=\"16\" Id=\"261\" RevayatIndex=\"261\">يكتب على جبهة المرعوف هذه الآية: <format class=\"ayah\" surah=\"11\" ayah=\"44\" toAyah=\"\">وَ قِيلَ يٰا أَرْضُ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"11\" ayah=\"44\" toAyah=\"\"/></format> إلى قوله: <format class=\"ayah\" surah=\"11\" ayah=\"44\" toAyah=\"\">لِلْقَوْمِ اَلظّٰالِمِينَ‌<format class=\"ayahWord\" fromWord=\"24\" toWord=\"25\"/><format class=\"ayahAddress\" surah=\"11\" ayah=\"44\" toAyah=\"\"/></format><lfootnote noteId=\"1025\">3</lfootnote> فإنّه يسكن بإذن الله<lfootnote noteId=\"1026\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167009,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2908\">[264] </p>"
+        },
+        {
+          "paragraphId": 714167010,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2909\"><format class=\"hadith\" who=\"6\" Id=\"262\" RevayatIndex=\"262\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن يعقوب بن يزيد، عن زياد القندي<lfootnote noteId=\"1027\">5</lfootnote>، <page number=\"171\"/> قال:</format> دخلت المدينة و معي أخي سيف، فأصاب الناس رعاف شديد، و كان الرجل يرعف يومين و يموت، فرجعت إلى<lfootnote noteId=\"1028\">1</lfootnote> المنزل، فإذا سيف في الرعاف و يرعف رعافا شديدا، فدخلت على <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format>، فأخبرته فقال<lfootnote noteId=\"1029\">2</lfootnote>: «أطعموا سيفا<lfootnote noteId=\"1030\">3</lfootnote> التفّاح». فأطعمته، فبرئ<lfootnote noteId=\"1031\">4</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714168978,
+          "text": "<footnote id=\"1023\"><page number=\"170\"/><mnote>(1)</mnote> قوله: «و لا من اذنيه» أثبتناه من الدعوات. </footnote>"
+        },
+        {
+          "footnoteId": 714168979,
+          "text": "<footnote id=\"1024\"><mnote>(2)</mnote> رواه الراوندي في الدعوات: 542/197 فقال: و قالوا عليهم السّلام، و الكليني بتفاوت يسير في الكافي 15/655:2، باب العطاس و التسميت، فقال: أبو علي الأشعري، عن محمّد بن سالم، عن أحمد بن النضر، عن محمّد بن مروان رفعه قال: قال أمير المؤمنين عليه السّلام: «من قال إذا عطس: الحمد لله ربّ العالمين على كلّ حال لم يجد وجع الاذنين و الأضراس»، و الطبرسي في مكارم الأخلاق: 2/354، في العطاس: عن أمير المؤمنين عليه السّلام، مثل الكافي، و في مشكاة الأنوار: 206، عن أمير المؤمنين عليه السّلام، و في ح 16 من الباب في الكافي، عن محمّد بن يحيى، عن أحمد بن محمّد أو غيره، عن ابن فضّال، عن بعض أصحابه، عن أبي عبد الله عليه السّلام، و في ح 17 منه: عن علي بن إبراهيم، [عن أبيه]، عن صالح بن السندي، عن جعفر بن بشير، عن عثمان، عن أبي أسامة، عن أبي عبد الله عليه السّلام، و مثله في الرواية الأولى من الباب من مكارم الأخلاق: 1/353، في العطاس، عن أبي عبد الله عليه السّلام.<br/>لاحظ: كنز العمّال 25800/233:9 (ش خ في الأدب و ابن السني و أبو نعيم في الطبّ‌). </footnote>"
+        },
+        {
+          "footnoteId": 714168980,
+          "text": "<footnote id=\"1025\"><mnote>(3)</mnote> سورة هود 44:11. </footnote>"
+        },
+        {
+          "footnoteId": 714168981,
+          "text": "<footnote id=\"1026\"><mnote>(4)</mnote> رواه الطبرسي في مكارم الأخلاق: 377: و أورد علاجا آخر للرعاف: <format class=\"ayah\" surah=\"20\" ayah=\"55\" toAyah=\"\">مِنْهٰا خَلَقْنٰاكُمْ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"55\" toAyah=\"\"/></format> الآية [سورة طه 55:20]، <format class=\"ayah\" surah=\"20\" ayah=\"108\" toAyah=\"\">يَوْمَئِذٍ يَتَّبِعُونَ اَلدّٰاعِيَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"108\" toAyah=\"\"/></format> إلى قوله: <format class=\"ayah\" surah=\"20\" ayah=\"108\" toAyah=\"\">هَمْساً <format class=\"ayahWord\" fromWord=\"14\" toWord=\"14\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"108\" toAyah=\"\"/></format>[سورة طه 108:20] <format class=\"ayah\" surah=\"36\" ayah=\"9\" toAyah=\"\">وَ جَعَلْنٰا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا<format class=\"ayahWord\" fromWord=\"1\" toWord=\"6\"/><format class=\"ayahAddress\" surah=\"36\" ayah=\"9\" toAyah=\"\"/></format> الآية [سورة يس 9:36]. </footnote>"
+        },
+        {
+          "footnoteId": 714168982,
+          "text": "<footnote id=\"1027\"><mnote>(5)</mnote> في النسخة: «يعقوب بن يزيد، عن العبيدي»، و في بعض المصادر: «العبدي». و احتمل<page number=\"171\"/>بعضهم التعدّد. و ما أثبتناه من مصادر الرجال و الحديث. و الرجل هو أبو الفضل زياد بن مروان القندي. قيل: هو أبو عبد الله الأنباري القندي البغدادي من مصنّفي الشيعة مولى بني هاشم روى عن أبي عبد الله و أبي الحسن عليهما السّلام و وقف في الرضا عليه السّلام. و كان من عمد الواقفة، له كتاب، و أمّا أخوه سيف فلم أجد له ذكرا في الرجال، انظر:<br/>رجال البرقي: 49، رجال النجاشي: 450/171، رجال الكشي 886/766:2، رجال الطوسي: 40/208 و 106/211 و 3/337. </footnote>"
+        }
+      ],
+      "pageValue": "170",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2903\" paragraph-id=\"2903\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo170\">170</span> و لا من اذنيه<span><sup><a class=\"NewFn\" href=\"#footnote1023\" title=\"(1)  قوله: «و لا من اذنيه» أثبتناه من الدعوات. \">1</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote1024\" title=\"(2)  رواه الراوندي في الدعوات: 542/197 فقال: و قالوا عليهم السّلام، و الكليني بتفاوت يسير في الكافي 15/655:2، باب العطاس و التسميت، فقال: أبو علي الأشعري، عن محمّد بن سالم، عن أحمد بن النضر، عن محمّد بن مروان رفعه قال: قال أمير المؤمنين عليه السّلام: «من قال إذا عطس: الحمد لله ربّ العالمين على كلّ حال لم يجد وجع الاذنين و الأضراس»، و الطبرسي في مكارم الأخلاق: 2/354، في العطاس: عن أمير المؤمنين عليه السّلام، مثل الكافي، و في مشكاة الأنوار: 206، عن أمير المؤمنين عليه السّلام، و في ح 16 من الباب في الكافي، عن محمّد بن يحيى، عن أحمد بن محمّد أو غيره، عن ابن فضّال، عن بعض أصحابه، عن أبي عبد الله عليه السّلام، و في ح 17 منه: عن علي بن إبراهيم، [عن أبيه]، عن صالح بن السندي، عن جعفر بن بشير، عن عثمان، عن أبي أسامة، عن أبي عبد الله عليه السّلام، و مثله في الرواية الأولى من الباب من مكارم الأخلاق: 1/353، في العطاس، عن أبي عبد الله عليه السّلام.لاحظ: كنز العمّال 25800/233:9 (ش خ في الأدب و ابن السني و أبو نعيم في الطبّ‌). \">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p2904\" paragraph-id=\"2904\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] في الأنف و الرعاف </strong>\n  </p>\n  <p id=\"p2905\" paragraph-id=\"2905\" class=\" G\">[263] </p>\n  <p id=\"p2906\" paragraph-id=\"2906\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال حدّثنا الحميري، عن السيّاري رفعه قال:</span>\n    </span>\n  </p>\n  <p id=\"p2907\" paragraph-id=\"2907\" class=\" G\">\n    <span class=\"hadith\">يكتب على جبهة المرعوف هذه الآية: <span style=\"0\" class=\"ayah\" surah=\"11\" ayah=\"44\">وَ قِيلَ يٰا أَرْضُ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/11/44\"></a></span></span> إلى قوله: <span style=\"0\" class=\"ayah\" surah=\"11\" ayah=\"44\">لِلْقَوْمِ اَلظّٰالِمِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/11/44\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote1025\" title=\"(3)  سورة هود 44:11. \">3</a></sup></span> فإنّه يسكن بإذن الله<span><sup><a class=\"NewFn\" href=\"#footnote1026\" title=\"(4)  رواه الطبرسي في مكارم الأخلاق: 377: و أورد علاجا آخر للرعاف: مِنْهٰا خَلَقْنٰاكُمْ‌ الآية [سورة طه 55:20]، يَوْمَئِذٍ يَتَّبِعُونَ اَلدّٰاعِيَ‌ إلى قوله: هَمْساً [سورة طه 108:20] وَ جَعَلْنٰا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا الآية [سورة يس 9:36]. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p2908\" paragraph-id=\"2908\" class=\" G\">[264] </p>\n  <p id=\"p2909\" paragraph-id=\"2909\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن يعقوب بن يزيد، عن زياد القندي<span><sup><a class=\"NewFn\" href=\"#footnote1027\" title=\"(5)  في النسخة: «يعقوب بن يزيد، عن العبيدي»، و في بعض المصادر: «العبدي». و احتمل\">5</a></sup></span>، </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1023\" footnote-id=\"1023\">(1) <page number=\"170\" /> قوله: «و لا من اذنيه» أثبتناه من الدعوات. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1024\" footnote-id=\"1024\">(2)  رواه الراوندي في الدعوات: 542/197 فقال: و قالوا عليهم السّلام، و الكليني بتفاوت يسير في الكافي 15/655:2، باب العطاس و التسميت، فقال: أبو علي الأشعري، عن محمّد بن سالم، عن أحمد بن النضر، عن محمّد بن مروان رفعه قال: قال أمير المؤمنين عليه السّلام: «من قال إذا عطس: الحمد لله ربّ العالمين على كلّ حال لم يجد وجع الاذنين و الأضراس»، و الطبرسي في مكارم الأخلاق: 2/354، في العطاس: عن أمير المؤمنين عليه السّلام، مثل الكافي، و في مشكاة الأنوار: 206، عن أمير المؤمنين عليه السّلام، و في ح 16 من الباب في الكافي، عن محمّد بن يحيى، عن أحمد بن محمّد أو غيره، عن ابن فضّال، عن بعض أصحابه، عن أبي عبد الله عليه السّلام، و في ح 17 منه: عن علي بن إبراهيم، [عن أبيه]، عن صالح بن السندي، عن جعفر بن بشير، عن عثمان، عن أبي أسامة، عن أبي عبد الله عليه السّلام، و مثله في الرواية الأولى من الباب من مكارم الأخلاق: 1/353، في العطاس، عن أبي عبد الله عليه السّلام.<br />لاحظ: كنز العمّال 25800/233:9 (ش خ في الأدب و ابن السني و أبو نعيم في الطبّ‌). </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1025\" footnote-id=\"1025\">(3)  سورة هود 44:11. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1026\" footnote-id=\"1026\">(4)  رواه الطبرسي في مكارم الأخلاق: 377: و أورد علاجا آخر للرعاف: <format class=\"ayah\" surah=\"20\" ayah=\"55\" toAyah=\"\">مِنْهٰا خَلَقْنٰاكُمْ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\" /><format class=\"ayahAddress\" surah=\"20\" ayah=\"55\" toAyah=\"\" /></format> الآية [سورة طه 55:20]، <format class=\"ayah\" surah=\"20\" ayah=\"108\" toAyah=\"\">يَوْمَئِذٍ يَتَّبِعُونَ اَلدّٰاعِيَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\" /><format class=\"ayahAddress\" surah=\"20\" ayah=\"108\" toAyah=\"\" /></format> إلى قوله: <format class=\"ayah\" surah=\"20\" ayah=\"108\" toAyah=\"\">هَمْساً <format class=\"ayahWord\" fromWord=\"14\" toWord=\"14\" /><format class=\"ayahAddress\" surah=\"20\" ayah=\"108\" toAyah=\"\" /></format>[سورة طه 108:20] <format class=\"ayah\" surah=\"36\" ayah=\"9\" toAyah=\"\">وَ جَعَلْنٰا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا<format class=\"ayahWord\" fromWord=\"1\" toWord=\"6\" /><format class=\"ayahAddress\" surah=\"36\" ayah=\"9\" toAyah=\"\" /></format> الآية [سورة يس 9:36]. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1027\" footnote-id=\"1027\">(5)  في النسخة: «يعقوب بن يزيد، عن العبيدي»، و في بعض المصادر: «العبدي». و احتمل</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "3047EF89-9D47-43CC-8D66-0B3C8DB6B42C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

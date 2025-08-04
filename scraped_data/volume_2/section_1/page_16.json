@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 16,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714169762,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1017\"><format class=\"hadith\" who=\"6\" Id=\"18\" RevayatIndex=\"539\"><format class=\"sanadHadith\">و روي عن عبد العزيز الهمداني، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">الصادق عليه السّلام</format></format> قال: </format>«تأخذ هليلجة صفراء و مثقالين من خردل و مثقال عاقر قرحا<lfootnote noteId=\"48\">3</lfootnote>، تسحقه سحقا ناعما، <page number=\"16\"/> و تستاك به على الريق، فإنّه ينقّي البلغم و يطيّب النكهة»<lfootnote noteId=\"49\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169763,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1018\">[19] </p>"
+        },
+        {
+          "paragraphId": 714169764,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1019\"><format class=\"hadith\" who=\"7|8|10\" Id=\"19\" RevayatIndex=\"540\"><format class=\"sanadHadith\">و روي عن محمّد بن موسى، عن<lfootnote noteId=\"50\">2</lfootnote> علي بن سليمان، عن بعض الواسطيين، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8|10\">أبي الحسن عليه السّلام</format></format></format> أنّه شكا إليه الرطوبة، فأمره أن يستفّ الصعتر على الريق<lfootnote noteId=\"51\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169765,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1020\">[20] </p>"
+        },
+        {
+          "paragraphId": 714169766,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1021\"><format class=\"hadith\" who=\"8\" Id=\"20\" RevayatIndex=\"541\"><format class=\"sanadHadith\">روى موسى بن جعفر البغدادي، عن محمّد بن عبد الحميد<lfootnote noteId=\"52\">4</lfootnote>، قال:</format></format></p>"
+        },
+        {
+          "paragraphId": 714169767,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1022\"><format class=\"hadith\" who=\"8\" Id=\"20\" RevayatIndex=\"541\"><format class=\"sanadHadith\">قال لي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبو عبد الله عليه السّلام</format></format>: </format>«أراك مصفارّا»! قلت: بلغم هاج بي.</format></p>"
+        },
+        {
+          "paragraphId": 714169768,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1023\"><format class=\"hadith\" who=\"8\" Id=\"20\" RevayatIndex=\"541\">فقال: «تمتّع بجارية مليحة تضحكك<lfootnote noteId=\"53\">5</lfootnote> فإنّ الضحك يقطع البلغم»<lfootnote noteId=\"54\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714169769,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1024\"><page number=\"17\"/>[21] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714170833,
+          "text": "<footnote id=\"49\"><page number=\"16\"/><mnote>(1)</mnote> روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 19، فقالا: أيضا له [أي: للبلغم]: عبد الله بن مسعود اليماني، قال: حدّثنا الطرياني، عن [أبي] خالد القمّاط، قال: أملى عليّ علي بن موسى الرضا عليهما السّلام هذه الأدوية للبلغم: «تأخذ إهليلج أصفر وزن مثقال و مثقالين خردل، و مثقال عاقر قرحا، فتسحقه سحقا ناعما و تستاك به على الريق، فإنّه ينقّي البلغم و يطيّب النكهة و يشدّ الأضراس إن شاء الله تعالى». </footnote>"
+        },
+        {
+          "footnoteId": 714170834,
+          "text": "<footnote id=\"50\"><mnote>(2)</mnote> سقطت كلمة: «عن» سهوا، و محمّد بن موسى بن عيسى أبو جعفر الهمداني السمان يروي عن علي بن سليمان بن رشيد البغدادي، كما في الكافي 6/313:6. </footnote>"
+        },
+        {
+          "footnoteId": 714170835,
+          "text": "<footnote id=\"51\"><mnote>(3)</mnote> رواه الكليني بسند آخر في الكافي 2/375:6، باب السعتر، عنه [أي: عن محمّد بن يحيى المذكور في الحديث الأوّل من الباب] عن موسى بن الحسن، عن علي بن سليمان، عن بعض الواسطيين عن أبي الحسن عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714170836,
+          "text": "<footnote id=\"52\"><mnote>(4)</mnote> في النسخة: «محمّد بن علي بن عبد الحميد» و الصحيح ما أثبتناه، إذ هو محمّد بن عبد الحميد بن سالم العطّار الذي ذكره البرقي في أصحاب الإمام موسى بن جعفر عليه السّلام. انظر: رجال النجاشي: 906/339، الفهرست: 690/435، رجال الطوسي 5397/364 و 5892/402 و 6256/437. </footnote>"
+        },
+        {
+          "footnoteId": 714170837,
+          "text": "<footnote id=\"53\"><mnote>(5)</mnote> في النسخة: «تضحك» و ما أثبتناه من الكافي. </footnote>"
+        },
+        {
+          "footnoteId": 714170838,
+          "text": "<footnote id=\"54\"><mnote>(6)</mnote> روى الكليني نحوه في الكافي 2/336:5، باب نادر، عن الحسين بن محمّد، عن <page number=\"17\"/>السيّاري، عن علي بن محمّد، عن محمّد بن عبد الحميد، عن بعض أصحابه، عن أبي عبد الله عليه السّلام أنّه شكا إليه البلغم، فقال: «أما لك جارية تضحكك‌؟» قال: قلت: لا، قال: «فاتّخذها فإنّ ذلك يقطع البلغم». </footnote>"
+        }
+      ],
+      "pageValue": "16",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1017\" paragraph-id=\"1017\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo16\">16</span> و تستاك به على الريق، فإنّه ينقّي البلغم و يطيّب النكهة»<span><sup><a class=\"NewFn\" href=\"#footnote49\" title=\"(1)  روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 19، فقالا: أيضا له [أي: للبلغم]: عبد الله بن مسعود اليماني، قال: حدّثنا الطرياني، عن [أبي] خالد القمّاط، قال: أملى عليّ علي بن موسى الرضا عليهما السّلام هذه الأدوية للبلغم: «تأخذ إهليلج أصفر وزن مثقال و مثقالين خردل، و مثقال عاقر قرحا، فتسحقه سحقا ناعما و تستاك به على الريق، فإنّه ينقّي البلغم و يطيّب النكهة و يشدّ الأضراس إن شاء الله تعالى». \">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1018\" paragraph-id=\"1018\" class=\" G\">[19] </p>\n  <p id=\"p1019\" paragraph-id=\"1019\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن محمّد بن موسى، عن<span><sup><a class=\"NewFn\" href=\"#footnote50\" title=\"(2)  سقطت كلمة: «عن» سهوا، و محمّد بن موسى بن عيسى أبو جعفر الهمداني السمان يروي عن علي بن سليمان بن رشيد البغدادي، كما في الكافي 6/313:6. \">2</a></sup></span> علي بن سليمان، عن بعض الواسطيين، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span></span> أنّه شكا إليه الرطوبة، فأمره أن يستفّ الصعتر على الريق<span><sup><a class=\"NewFn\" href=\"#footnote51\" title=\"(3)  رواه الكليني بسند آخر في الكافي 2/375:6، باب السعتر، عنه [أي: عن محمّد بن يحيى المذكور في الحديث الأوّل من الباب] عن موسى بن الحسن، عن علي بن سليمان، عن بعض الواسطيين عن أبي الحسن عليه السّلام. \">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1020\" paragraph-id=\"1020\" class=\" G\">[20] </p>\n  <p id=\"p1021\" paragraph-id=\"1021\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى موسى بن جعفر البغدادي، عن محمّد بن عبد الحميد<span><sup><a class=\"NewFn\" href=\"#footnote52\" title=\"(4)  في النسخة: «محمّد بن علي بن عبد الحميد» و الصحيح ما أثبتناه، إذ هو محمّد بن عبد الحميد بن سالم العطّار الذي ذكره البرقي في أصحاب الإمام موسى بن جعفر عليه السّلام. انظر: رجال النجاشي: 906/339، الفهرست: 690/435، رجال الطوسي 5397/364 و 5892/402 و 6256/437. \">4</a></sup></span>، قال:</span>\n    </span>\n  </p>\n  <p id=\"p1022\" paragraph-id=\"1022\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قال لي <span class=\"Y\"><span class=\"maasoom\">أبو عبد الله عليه السّلام</span></span>: </span>«أراك مصفارّا»! قلت: بلغم هاج بي.</span>\n  </p>\n  <p id=\"p1023\" paragraph-id=\"1023\" class=\" G\">\n    <span class=\"hadith\">فقال: «تمتّع بجارية مليحة تضحكك<span><sup><a class=\"NewFn\" href=\"#footnote53\" title=\"(5)  في النسخة: «تضحك» و ما أثبتناه من الكافي. \">5</a></sup></span> فإنّ الضحك يقطع البلغم»<span><sup><a class=\"NewFn\" href=\"#footnote54\" title=\"(6)  روى الكليني نحوه في الكافي 2/336:5، باب نادر، عن الحسين بن محمّد، عن \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1024\" paragraph-id=\"1024\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote49\" footnote-id=\"49\">(1) <page number=\"16\" /> روى ابنا بسطام نحوه في طبّ الأئمّة عليهم السّلام: 19، فقالا: أيضا له [أي: للبلغم]: عبد الله بن مسعود اليماني، قال: حدّثنا الطرياني، عن [أبي] خالد القمّاط، قال: أملى عليّ علي بن موسى الرضا عليهما السّلام هذه الأدوية للبلغم: «تأخذ إهليلج أصفر وزن مثقال و مثقالين خردل، و مثقال عاقر قرحا، فتسحقه سحقا ناعما و تستاك به على الريق، فإنّه ينقّي البلغم و يطيّب النكهة و يشدّ الأضراس إن شاء الله تعالى». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote50\" footnote-id=\"50\">(2)  سقطت كلمة: «عن» سهوا، و محمّد بن موسى بن عيسى أبو جعفر الهمداني السمان يروي عن علي بن سليمان بن رشيد البغدادي، كما في الكافي 6/313:6. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote51\" footnote-id=\"51\">(3)  رواه الكليني بسند آخر في الكافي 2/375:6، باب السعتر، عنه [أي: عن محمّد بن يحيى المذكور في الحديث الأوّل من الباب] عن موسى بن الحسن، عن علي بن سليمان، عن بعض الواسطيين عن أبي الحسن عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote52\" footnote-id=\"52\">(4)  في النسخة: «محمّد بن علي بن عبد الحميد» و الصحيح ما أثبتناه، إذ هو محمّد بن عبد الحميد بن سالم العطّار الذي ذكره البرقي في أصحاب الإمام موسى بن جعفر عليه السّلام. انظر: رجال النجاشي: 906/339، الفهرست: 690/435، رجال الطوسي 5397/364 و 5892/402 و 6256/437. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote53\" footnote-id=\"53\">(5)  في النسخة: «تضحك» و ما أثبتناه من الكافي. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote54\" footnote-id=\"54\">(6)  روى الكليني نحوه في الكافي 2/336:5، باب نادر، عن الحسين بن محمّد، عن </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F3285D1B-A06A-4B84-8089-944EB6A17D64",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

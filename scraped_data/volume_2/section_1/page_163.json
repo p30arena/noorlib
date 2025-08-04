@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 163,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170366,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1621\"><page number=\"163\"/><heading level=\"2\">[باب إمساك البطن]<lfootnote noteId=\"662\">1</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714170367,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1622\">[222] </p>"
+        },
+        {
+          "paragraphId": 714170368,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1623\"><format class=\"hadith\" who=\"6\" Id=\"219\" RevayatIndex=\"740\"><format class=\"sanadHadith\">روى محمّد بن أحمد بن يحيى، عن العبّاس بن معروف، عن صفوان بن يحيى، عن منصور بن حازم، عن الحسن بن علي بن أبي حمزة، عن أبيه، قال: سمعت <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format></format> يقول: </format>«من أكل العجوة و هو يريد أن تمسك بطنه أمسك الله تعالى بطنه»<lfootnote noteId=\"663\">2</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170369,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1624\"><heading level=\"2\">[باب] كتاب الوجع </heading></p>"
+        },
+        {
+          "paragraphId": 714170370,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1625\">[223] </p>"
+        },
+        {
+          "paragraphId": 714170371,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1626\"><format class=\"hadith\" who=\"16\" Id=\"220\" RevayatIndex=\"741\"><format class=\"sanadHadith\">روى عبد الله بن الفضل، عن بعضهم<format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"16\"/></format>: </format>«من كان به ماء أصفر يكتب آية الكرسي مستوى و يشربها<lfootnote noteId=\"664\">3</lfootnote>، فإنّه يبرأ بإذن الله تعالى<lfootnote noteId=\"665\">4</lfootnote>»<lfootnote noteId=\"666\">5</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714170372,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1627\"><page number=\"164\"/>[224] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171459,
+          "text": "<footnote id=\"662\"><page number=\"163\"/><mnote>(1)</mnote> ما بين المعقوفتين أثبتناه من متن الحديث. </footnote>"
+        },
+        {
+          "footnoteId": 714171460,
+          "text": "<footnote id=\"663\"><mnote>(2)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714171461,
+          "text": "<footnote id=\"664\"><mnote>(3)</mnote> كذا في النسخة، و في الفقيه: «فليكتب على بطنه آية الكرسي و ليشربه». </footnote>"
+        },
+        {
+          "footnoteId": 714171462,
+          "text": "<footnote id=\"665\"><mnote>(4)</mnote> روى الكليني في الكافي 438/290:8، في بيان آية الكرسي و آخرها، و هو <format class=\"ayah\" surah=\"2\" ayah=\"255\" toAyah=\"\">اَلْعَلِيُّ اَلْعَظِيمُ‌<format class=\"ayahWord\" fromWord=\"56\" toWord=\"57\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"255\" toAyah=\"\"/></format> و الحمد لله ربّ العالمين و آيتين بعدها. انظر: ثواب الأعمال: 130، أعلام الدين: 369. و روى الطوسي في الأمالي 19/508 رواية بإسناد عن أمير المؤمنين عليه السّلام، يقول: «ما أرى رجلا أدرك عقله الإسلام و ولد في الإسلام يبيت ليلة سوادها... حتّى يقرأ هذه الآية <format class=\"ayah\" surah=\"2\" ayah=\"255\" toAyah=\"\">اَللّٰهُ لاٰ إِلٰهَ إِلاّٰ هُوَ اَلْحَيُّ اَلْقَيُّومُ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"7\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"255\" toAyah=\"\"/></format>» - فقرأ الآية إلى قوله -: <format class=\"ayah\" surah=\"2\" ayah=\"255\" toAyah=\"\">اَلْعَلِيُّ اَلْعَظِيمُ‌<format class=\"ayahWord\" fromWord=\"56\" toWord=\"57\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"255\" toAyah=\"\"/></format>... أعطيت آية الكرسي.<br/>أقول: ينبغي عند إيرادها مطلقة في الأخبار أن تقرأ أو تكتب مع الآيتين اللتين بعدها تقرّبا إلى الله عزّ و جلّ و يدع حقيقة الأمر إلى أولي العصمة عليهم السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171463,
+          "text": "<footnote id=\"666\"><mnote>(5)</mnote> روي ضمن وصية النبيّ صلّى الله عليه و آله لأمير المؤمنين عليه السّلام: «يا علي، من كان في بطنه ماء أصفر فكتب آية الكرسي، و شرب ذلك الماء يبرأ بإذن الله».<br/>و الوصية رواها الصدوق في من لا يحضره الفقيه 371:4، و المواعظ: 43، و الطبرسي <page number=\"164\"/>في مكارم الأخلاق: 443، و الراوندي في الدعوات: 443/160.<br/>و روى الكليني في الكافي 21/625:2، باب فضل القرآن، ضمن حديث طويل، عن محمّد بن يحيى، عن عبد الله بن جعفر، عن السيّاري، عن محمّد بن بكر، عن أبي الجارود، عن الأصبغ بن نباتة، عن أمير المؤمنين عليه السّلام: ثمّ قام إليه آخر فقال: يا أمير المؤمنين، إنّ في بطني ماء أصفر فهل من شفاء؟ فقال: «نعم بلا درهم و لا دينار و لكن اكتب على بطنك آية الكرسي و تغسلها و تشربها و تجعلها ذخيرة في بطنك، فتبرأ بإذن الله عزّ و جلّ‌»، ففعل الرجل فبرأ بإذن الله. </footnote>"
+        }
+      ],
+      "pageValue": "163",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1621\" paragraph-id=\"1621\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo163\">163</span>\n    <strong style=\"0\" class=\"h-2 02\">[باب إمساك البطن]<span><sup><a class=\"NewFn\" href=\"#footnote662\" title=\"(1)  ما بين المعقوفتين أثبتناه من متن الحديث. \">1</a></sup></span></strong>\n  </p>\n  <p id=\"p1622\" paragraph-id=\"1622\" class=\" G\">[222] </p>\n  <p id=\"p1623\" paragraph-id=\"1623\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن أحمد بن يحيى، عن العبّاس بن معروف، عن صفوان بن يحيى، عن منصور بن حازم، عن الحسن بن علي بن أبي حمزة، عن أبيه، قال: سمعت <span class=\"Y\"><span class=\"maasoom\">أبا عبد الله عليه السّلام</span></span> يقول: </span>«من أكل العجوة و هو يريد أن تمسك بطنه أمسك الله تعالى بطنه»<span><sup><a class=\"NewFn\" href=\"#footnote663\" title=\"(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">2</a></sup></span>. </span>\n  </p>\n  <p id=\"p1624\" paragraph-id=\"1624\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] كتاب الوجع </strong>\n  </p>\n  <p id=\"p1625\" paragraph-id=\"1625\" class=\" G\">[223] </p>\n  <p id=\"p1626\" paragraph-id=\"1626\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى عبد الله بن الفضل، عن بعضهم<span class=\"Y\"><span class=\"maasoom\"></span></span>: </span>«من كان به ماء أصفر يكتب آية الكرسي مستوى و يشربها<span><sup><a class=\"NewFn\" href=\"#footnote664\" title=\"(3)  كذا في النسخة، و في الفقيه: «فليكتب على بطنه آية الكرسي و ليشربه». \">3</a></sup></span>، فإنّه يبرأ بإذن الله تعالى<span><sup><a class=\"NewFn\" href=\"#footnote665\" title=\"(4)  روى الكليني في الكافي 438/290:8، في بيان آية الكرسي و آخرها، و هو اَلْعَلِيُّ اَلْعَظِيمُ‌ و الحمد لله ربّ العالمين و آيتين بعدها. انظر: ثواب الأعمال: 130، أعلام الدين: 369. و روى الطوسي في الأمالي 19/508 رواية بإسناد عن أمير المؤمنين عليه السّلام، يقول: «ما أرى رجلا أدرك عقله الإسلام و ولد في الإسلام يبيت ليلة سوادها... حتّى يقرأ هذه الآية اَللّٰهُ لاٰ إِلٰهَ إِلاّٰ هُوَ اَلْحَيُّ اَلْقَيُّومُ‌» - فقرأ الآية إلى قوله -: اَلْعَلِيُّ اَلْعَظِيمُ‌... أعطيت آية الكرسي.أقول: ينبغي عند إيرادها مطلقة في الأخبار أن تقرأ أو تكتب مع الآيتين اللتين بعدها تقرّبا إلى الله عزّ و جلّ و يدع حقيقة الأمر إلى أولي العصمة عليهم السّلام. \">4</a></sup></span>»<span><sup><a class=\"NewFn\" href=\"#footnote666\" title=\"(5)  روي ضمن وصية النبيّ صلّى الله عليه و آله لأمير المؤمنين عليه السّلام: «يا علي، من كان في بطنه ماء أصفر فكتب آية الكرسي، و شرب ذلك الماء يبرأ بإذن الله».و الوصية رواها الصدوق في من لا يحضره الفقيه 371:4، و المواعظ: 43، و الطبرسي \">5</a></sup></span>. </span>\n  </p>\n  <p id=\"p1627\" paragraph-id=\"1627\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote662\" footnote-id=\"662\">(1) <page number=\"163\" /> ما بين المعقوفتين أثبتناه من متن الحديث. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote663\" footnote-id=\"663\">(2)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote664\" footnote-id=\"664\">(3)  كذا في النسخة، و في الفقيه: «فليكتب على بطنه آية الكرسي و ليشربه». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote665\" footnote-id=\"665\">(4)  روى الكليني في الكافي 438/290:8، في بيان آية الكرسي و آخرها، و هو <format class=\"ayah\" surah=\"2\" ayah=\"255\" toAyah=\"\">اَلْعَلِيُّ اَلْعَظِيمُ‌<format class=\"ayahWord\" fromWord=\"56\" toWord=\"57\" /><format class=\"ayahAddress\" surah=\"2\" ayah=\"255\" toAyah=\"\" /></format> و الحمد لله ربّ العالمين و آيتين بعدها. انظر: ثواب الأعمال: 130، أعلام الدين: 369. و روى الطوسي في الأمالي 19/508 رواية بإسناد عن أمير المؤمنين عليه السّلام، يقول: «ما أرى رجلا أدرك عقله الإسلام و ولد في الإسلام يبيت ليلة سوادها... حتّى يقرأ هذه الآية <format class=\"ayah\" surah=\"2\" ayah=\"255\" toAyah=\"\">اَللّٰهُ لاٰ إِلٰهَ إِلاّٰ هُوَ اَلْحَيُّ اَلْقَيُّومُ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"7\" /><format class=\"ayahAddress\" surah=\"2\" ayah=\"255\" toAyah=\"\" /></format>» - فقرأ الآية إلى قوله -: <format class=\"ayah\" surah=\"2\" ayah=\"255\" toAyah=\"\">اَلْعَلِيُّ اَلْعَظِيمُ‌<format class=\"ayahWord\" fromWord=\"56\" toWord=\"57\" /><format class=\"ayahAddress\" surah=\"2\" ayah=\"255\" toAyah=\"\" /></format>... أعطيت آية الكرسي.<br />أقول: ينبغي عند إيرادها مطلقة في الأخبار أن تقرأ أو تكتب مع الآيتين اللتين بعدها تقرّبا إلى الله عزّ و جلّ و يدع حقيقة الأمر إلى أولي العصمة عليهم السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote666\" footnote-id=\"666\">(5)  روي ضمن وصية النبيّ صلّى الله عليه و آله لأمير المؤمنين عليه السّلام: «يا علي، من كان في بطنه ماء أصفر فكتب آية الكرسي، و شرب ذلك الماء يبرأ بإذن الله».<br />و الوصية رواها الصدوق في من لا يحضره الفقيه 371:4، و المواعظ: 43، و الطبرسي </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4E9BF6B1-0E06-4083-8A50-CDF57CABE24B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

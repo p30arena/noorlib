@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 206,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714167348,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3094\"><format class=\"hadith\" who=\"8\" Id=\"325\" RevayatIndex=\"325\"><page number=\"206\"/> فقال: «نعم»<lfootnote noteId=\"1184\">1</lfootnote>. </format></p>"
+        },
+        {
+          "paragraphId": 714167349,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3095\"><heading level=\"2\">[باب] التسريح بالمشط<lfootnote noteId=\"1185\">2</lfootnote></heading></p>"
+        },
+        {
+          "paragraphId": 714167350,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3096\">[328] </p>"
+        },
+        {
+          "paragraphId": 714167351,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3097\"><format class=\"hadith\" who=\"7\" Id=\"326\" RevayatIndex=\"326\"><format class=\"sanadHadith\">روى محمّد بن الحسن الصفّار، عن محمّد بن السندي، عن علي بن الحكم، عن عبد الله بن جندب، عن سفيان<lfootnote noteId=\"1186\">3</lfootnote> بن السمط، قال: قال <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبو الحسن عليه السّلام</format></format>: </format>«سرّح رأسك بالمشط فإنّ المشط للرأس يذهب بالوباء، و تسريح اللحية يشدّ الأضراس»<lfootnote noteId=\"1187\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167352,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3098\">[329] </p>"
+        },
+        {
+          "paragraphId": 714167353,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3099\"><format class=\"hadith\" who=\"6,7\" Id=\"327\" RevayatIndex=\"327\"><format class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، عن سفيان بن السمط<lfootnote noteId=\"1188\">5</lfootnote>، و العبيدي، عن محمّد بن الحسن جميعا، عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أبي الحسن عليه السّلام</format></format>، قال: </format>«كان <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لأبي عبد الله عليه السّلام</format></format> مشط، يمشط به إذا فرغ من صلاته». و قال عليه السّلام: «المشط يذهب بالوباء، و يذهب بالهمّ‌»<lfootnote noteId=\"1189\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714167354,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3100\"><page number=\"207\"/>[330] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714169228,
+          "text": "<footnote id=\"1184\"><page number=\"206\"/><mnote>(1)</mnote> رواه الطبرسي في مكارم الأخلاق: 1/164، فقال: في الكباب، عن يونس بن بكر، قال الرضا عليه السّلام: «ما لي أراك مصفارا؟». </footnote>"
+        },
+        {
+          "footnoteId": 714169229,
+          "text": "<footnote id=\"1185\"><mnote>(2)</mnote> لقد تقدّم باب في تسريح الرأس و اللحية، و ذكرنا هناك مصادر بعض روايات هذا الباب فراجع. </footnote>"
+        },
+        {
+          "footnoteId": 714169230,
+          "text": "<footnote id=\"1186\"><mnote>(3)</mnote> في النسخة: «عن عبد الله، عن جند بن سفيان» و هو من سهو الناسخ، لاحظ سند حديث 212 من هذا الجزء. </footnote>"
+        },
+        {
+          "footnoteId": 714169231,
+          "text": "<footnote id=\"1187\"><mnote>(4)</mnote> تقدّم بعينه سندا و متنا. انظر الحديث 211، الكافي 1/488:6. </footnote>"
+        },
+        {
+          "footnoteId": 714169232,
+          "text": "<footnote id=\"1188\"><mnote>(5)</mnote> في النسخة: «الشمط» و هو تصحيف و قد تقدّم وجهه في الحديث 211. </footnote>"
+        },
+        {
+          "footnoteId": 714169233,
+          "text": "<footnote id=\"1189\"><mnote>(6)</mnote> رواه العيّاشي في تفسيره 26/13:2، عن عمّار النوفلي، عن أبيه قال: سمعت أبا الحسن يقول: «المشط يذهب بالوباء» قال: «و كان لأبي عبد الله مشط في المسجد يتمشّط به إذا فرغ من صلاته»، و الكليني في الكافي 2/488:6، باب التمشّط، عن حميد بن زياد، عن الحسن بن محمّد بن سماعة، عن أحمد بن الحسن الميثمي، عن محمّد بن إسحاق، عن عمّار <page number=\"207\"/>النوفلي، عن أبيه قال: سمعت أبا الحسن عليه السّلام. </footnote>"
+        }
+      ],
+      "pageValue": "206",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3094\" paragraph-id=\"3094\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo206\">206</span> فقال: «نعم»<span><sup><a class=\"NewFn\" href=\"#footnote1184\" title=\"(1)  رواه الطبرسي في مكارم الأخلاق: 1/164، فقال: في الكباب، عن يونس بن بكر، قال الرضا عليه السّلام: «ما لي أراك مصفارا؟». \">1</a></sup></span>. </span>\n  </p>\n  <p id=\"p3095\" paragraph-id=\"3095\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] التسريح بالمشط<span><sup><a class=\"NewFn\" href=\"#footnote1185\" title=\"(2)  لقد تقدّم باب في تسريح الرأس و اللحية، و ذكرنا هناك مصادر بعض روايات هذا الباب فراجع. \">2</a></sup></span></strong>\n  </p>\n  <p id=\"p3096\" paragraph-id=\"3096\" class=\" G\">[328] </p>\n  <p id=\"p3097\" paragraph-id=\"3097\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن الحسن الصفّار، عن محمّد بن السندي، عن علي بن الحكم، عن عبد الله بن جندب، عن سفيان<span><sup><a class=\"NewFn\" href=\"#footnote1186\" title=\"(3)  في النسخة: «عن عبد الله، عن جند بن سفيان» و هو من سهو الناسخ، لاحظ سند حديث 212 من هذا الجزء. \">3</a></sup></span> بن السمط، قال: قال <span class=\"Y\"><span class=\"maasoom\">أبو الحسن عليه السّلام</span></span>: </span>«سرّح رأسك بالمشط فإنّ المشط للرأس يذهب بالوباء، و تسريح اللحية يشدّ الأضراس»<span><sup><a class=\"NewFn\" href=\"#footnote1187\" title=\"(4)  تقدّم بعينه سندا و متنا. انظر الحديث 211، الكافي 1/488:6. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p3098\" paragraph-id=\"3098\" class=\" G\">[329] </p>\n  <p id=\"p3099\" paragraph-id=\"3099\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">حدّثنا ابن همّام، قال: حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، عن علي بن الحكم، عن سفيان بن السمط<span><sup><a class=\"NewFn\" href=\"#footnote1188\" title=\"(5)  في النسخة: «الشمط» و هو تصحيف و قد تقدّم وجهه في الحديث 211. \">5</a></sup></span>، و العبيدي، عن محمّد بن الحسن جميعا، عن <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span>، قال: </span>«كان <span class=\"Y\"><span class=\"maasoom\">لأبي عبد الله عليه السّلام</span></span> مشط، يمشط به إذا فرغ من صلاته». و قال عليه السّلام: «المشط يذهب بالوباء، و يذهب بالهمّ‌»<span><sup><a class=\"NewFn\" href=\"#footnote1189\" title=\"(6)  رواه العيّاشي في تفسيره 26/13:2، عن عمّار النوفلي، عن أبيه قال: سمعت أبا الحسن يقول: «المشط يذهب بالوباء» قال: «و كان لأبي عبد الله مشط في المسجد يتمشّط به إذا فرغ من صلاته»، و الكليني في الكافي 2/488:6، باب التمشّط، عن حميد بن زياد، عن الحسن بن محمّد بن سماعة، عن أحمد بن الحسن الميثمي، عن محمّد بن إسحاق، عن عمّار \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p3100\" paragraph-id=\"3100\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1184\" footnote-id=\"1184\">(1) <page number=\"206\" /> رواه الطبرسي في مكارم الأخلاق: 1/164، فقال: في الكباب، عن يونس بن بكر، قال الرضا عليه السّلام: «ما لي أراك مصفارا؟». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1185\" footnote-id=\"1185\">(2)  لقد تقدّم باب في تسريح الرأس و اللحية، و ذكرنا هناك مصادر بعض روايات هذا الباب فراجع. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1186\" footnote-id=\"1186\">(3)  في النسخة: «عن عبد الله، عن جند بن سفيان» و هو من سهو الناسخ، لاحظ سند حديث 212 من هذا الجزء. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1187\" footnote-id=\"1187\">(4)  تقدّم بعينه سندا و متنا. انظر الحديث 211، الكافي 1/488:6. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1188\" footnote-id=\"1188\">(5)  في النسخة: «الشمط» و هو تصحيف و قد تقدّم وجهه في الحديث 211. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1189\" footnote-id=\"1189\">(6)  رواه العيّاشي في تفسيره 26/13:2، عن عمّار النوفلي، عن أبيه قال: سمعت أبا الحسن يقول: «المشط يذهب بالوباء» قال: «و كان لأبي عبد الله مشط في المسجد يتمشّط به إذا فرغ من صلاته»، و الكليني في الكافي 2/488:6، باب التمشّط، عن حميد بن زياد، عن الحسن بن محمّد بن سماعة، عن أحمد بن الحسن الميثمي، عن محمّد بن إسحاق، عن عمّار </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C1C8254F-3CDE-4C04-B923-E7E202086FE0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

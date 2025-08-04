@@ -1,0 +1,93 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 108,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170157,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1412\"><format class=\"hadith\" who=\"7\" Id=\"144\" RevayatIndex=\"665\"><format class=\"sanadHadith\">أخبرنا ابن همّام، قال حدّثنا الحميري، عن أحمد بن محمّد بن عيسى، <page number=\"108\"/> عن ابن أبي أيّوب<lfootnote noteId=\"421\">1</lfootnote>، عن علي بن أسباط، عن خلف بن سلمة<lfootnote noteId=\"422\">2</lfootnote>، قال:</format> قال أبي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">لأبي الحسن عليه السّلام</format></format><lfootnote noteId=\"423\">3</lfootnote>: أيّ شيء عندك - جعلت فداك - في الجماع‌؟</format></p>"
+        },
+        {
+          "paragraphId": 714170158,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1413\"><format class=\"hadith\" who=\"7\" Id=\"144\" RevayatIndex=\"665\">قال: «ليس شيء يعدل الخبزة بالعسل». عنى السويق<lfootnote noteId=\"424\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170159,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1414\">[147] </p>"
+        },
+        {
+          "paragraphId": 714170160,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1415\"><format class=\"hadith\" who=\"8\" Id=\"145\" RevayatIndex=\"666\"><format class=\"sanadHadith\">و عنه، عن الحميري، عن أحمد بن محمّد بن عيسى، عن أبي علي بن أبي أيّوب، عن علي بن أسباط، قال:</format> شكا رجل إلى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أبي الحسن عليه السّلام</format></format> أنّه انقطع جماعه، فقال له: «خذ بصلا فاطبخه بالماء، و خذ ذلك الماء فاطبخ به تمرا صرفا<lfootnote noteId=\"425\">5</lfootnote>، و اشرب ذلك التمر»<lfootnote noteId=\"426\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170161,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1416\">[148] </p>"
+        },
+        {
+          "paragraphId": 714170162,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1417\"><format class=\"hadith\" who=\"6\" Id=\"146\" RevayatIndex=\"667\"><format class=\"sanadHadith\">روى محمّد بن الحسن، عن الحسين بن علي القنّاد، قال:</format> كنت مع <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام </format></format>- و معنا أبو بصير - فسمعت <format class=\"maasoom\" maasoomNo=\"6\">أبا عبد الله عليه السّلام</format> يقول: «الريح الطيّبة <page number=\"109\"/> تشدّ القلب، و تزيد في الجماع»<lfootnote noteId=\"427\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171128,
+          "text": "<footnote id=\"421\"><page number=\"108\"/><mnote>(1)</mnote> كذا استظهرنا من النسخة، و لعلّ الرجل هو أبو علي محمّد بن عبد الله بن أبي أيّوب المكّي، الراوي عن علي بن أسباط، كما في الاستبصار 5/389:1، و تهذيب الأحكام 66/218:2. </footnote>"
+        },
+        {
+          "footnoteId": 714171129,
+          "text": "<footnote id=\"422\"><mnote>(2)</mnote> في النسخة: «سلمة بن خلف»، و هو تصحيف، و هو خلف بن سلمة البصري، من أصحاب أبي الحسن الكاظم و أبي الحسن الرضا و أبي جعفر الجواد عليهم السّلام، كما في رجال الطوسي: 5286/357 و 5552/375، و انظر: مناقب آل أبي طالب عليهم السّلام 368:4. </footnote>"
+        },
+        {
+          "footnoteId": 714171130,
+          "text": "<footnote id=\"423\"><mnote>(3)</mnote> كذا في النسخة: و الصواب: «قال: قلت لأبي الحسن عليه السّلام:» إذ لم نجد سلمة في من يروي عن أبي الحسن عليه السّلام. </footnote>"
+        },
+        {
+          "footnoteId": 714171131,
+          "text": "<footnote id=\"424\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و يؤيّد معناه الروايات التي ستأتي فيما يتعلّق بكثرة الولد و النسل. فانظرها. </footnote>"
+        },
+        {
+          "footnoteId": 714171132,
+          "text": "<footnote id=\"425\"><mnote>(5)</mnote> قال الهروي: الصرف بالكسر: كلّ شيء لا خلط فيه. بحر الجواهر: 242. </footnote>"
+        },
+        {
+          "footnoteId": 714171133,
+          "text": "<footnote id=\"426\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا، و يؤيّد معناه الروايات التي ستأتي فيما يتعلّق بكثرة الولد و النسل. فانظرها.</footnote>"
+        }
+      ],
+      "pageValue": "108",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1412\" paragraph-id=\"1412\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"GPA0 bookPage PageNo108\">108</span> عن ابن أبي أيّوب<span><sup><a class=\"NewFn\" href=\"#footnote421\" title=\"(1)  كذا استظهرنا من النسخة، و لعلّ الرجل هو أبو علي محمّد بن عبد الله بن أبي أيّوب المكّي، الراوي عن علي بن أسباط، كما في الاستبصار 5/389:1، و تهذيب الأحكام 66/218:2. \">1</a></sup></span>، عن علي بن أسباط، عن خلف بن سلمة<span><sup><a class=\"NewFn\" href=\"#footnote422\" title=\"(2)  في النسخة: «سلمة بن خلف»، و هو تصحيف، و هو خلف بن سلمة البصري، من أصحاب أبي الحسن الكاظم و أبي الحسن الرضا و أبي جعفر الجواد عليهم السّلام، كما في رجال الطوسي: 5286/357 و 5552/375، و انظر: مناقب آل أبي طالب عليهم السّلام 368:4. \">2</a></sup></span>، قال:</span> قال أبي <span class=\"Y\"><span class=\"maasoom\">لأبي الحسن عليه السّلام</span></span><span><sup><a class=\"NewFn\" href=\"#footnote423\" title=\"(3)  كذا في النسخة: و الصواب: «قال: قلت لأبي الحسن عليه السّلام:» إذ لم نجد سلمة في من يروي عن أبي الحسن عليه السّلام. \">3</a></sup></span>: أيّ شيء عندك - جعلت فداك - في الجماع‌؟</span>\n  </p>\n  <p id=\"p1413\" paragraph-id=\"1413\" class=\" G\">\n    <span class=\"hadith\">قال: «ليس شيء يعدل الخبزة بالعسل». عنى السويق<span><sup><a class=\"NewFn\" href=\"#footnote424\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و يؤيّد معناه الروايات التي ستأتي فيما يتعلّق بكثرة الولد و النسل. فانظرها. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1414\" paragraph-id=\"1414\" class=\" G\">[147] </p>\n  <p id=\"p1415\" paragraph-id=\"1415\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و عنه، عن الحميري، عن أحمد بن محمّد بن عيسى، عن أبي علي بن أبي أيّوب، عن علي بن أسباط، قال:</span> شكا رجل إلى <span class=\"Y\"><span class=\"maasoom\">أبي الحسن عليه السّلام</span></span> أنّه انقطع جماعه، فقال له: «خذ بصلا فاطبخه بالماء، و خذ ذلك الماء فاطبخ به تمرا صرفا<span><sup><a class=\"NewFn\" href=\"#footnote425\" title=\"(5)  قال الهروي: الصرف بالكسر: كلّ شيء لا خلط فيه. بحر الجواهر: 242. \">5</a></sup></span>، و اشرب ذلك التمر»<span><sup><a class=\"NewFn\" href=\"#footnote426\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا، و يؤيّد معناه الروايات التي ستأتي فيما يتعلّق بكثرة الولد و النسل. فانظرها.\">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1416\" paragraph-id=\"1416\" class=\" G\">[148] </p>\n  <p id=\"p1417\" paragraph-id=\"1417\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روى محمّد بن الحسن، عن الحسين بن علي القنّاد، قال:</span> كنت مع <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام </span></span>- و معنا أبو بصير - فسمعت <span class=\"maasoom\">أبا عبد الله عليه السّلام</span> يقول: «الريح الطيّبة </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote421\" footnote-id=\"421\">(1) <page number=\"108\" /> كذا استظهرنا من النسخة، و لعلّ الرجل هو أبو علي محمّد بن عبد الله بن أبي أيّوب المكّي، الراوي عن علي بن أسباط، كما في الاستبصار 5/389:1، و تهذيب الأحكام 66/218:2. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote422\" footnote-id=\"422\">(2)  في النسخة: «سلمة بن خلف»، و هو تصحيف، و هو خلف بن سلمة البصري، من أصحاب أبي الحسن الكاظم و أبي الحسن الرضا و أبي جعفر الجواد عليهم السّلام، كما في رجال الطوسي: 5286/357 و 5552/375، و انظر: مناقب آل أبي طالب عليهم السّلام 368:4. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote423\" footnote-id=\"423\">(3)  كذا في النسخة: و الصواب: «قال: قلت لأبي الحسن عليه السّلام:» إذ لم نجد سلمة في من يروي عن أبي الحسن عليه السّلام. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote424\" footnote-id=\"424\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا، و يؤيّد معناه الروايات التي ستأتي فيما يتعلّق بكثرة الولد و النسل. فانظرها. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote425\" footnote-id=\"425\">(5)  قال الهروي: الصرف بالكسر: كلّ شيء لا خلط فيه. بحر الجواهر: 242. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote426\" footnote-id=\"426\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا، و يؤيّد معناه الروايات التي ستأتي فيما يتعلّق بكثرة الولد و النسل. فانظرها.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4FCF2C5C-69D5-4F6D-A30C-C5987E56F7DA",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

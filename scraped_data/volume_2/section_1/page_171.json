@@ -1,0 +1,137 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 171,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 714170399,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1654\"><format class=\"hadith\" who=\"1\" Id=\"231\" RevayatIndex=\"752\"><page number=\"171\"/>«الشمس محرقة مذفرة<lfootnote noteId=\"691\">1</lfootnote>، مفسدة للثوب و اللون، و لو كان فيها خيرا<lfootnote noteId=\"692\">2</lfootnote> لذكرها الله في الجنّة حيث قال الله تعالى: <format class=\"ayah\" surah=\"76\" ayah=\"13\" toAyah=\"\">لاٰ يَرَوْنَ فِيهٰا شَمْساً وَ لاٰ زَمْهَرِيراً<format class=\"ayahWord\" fromWord=\"5\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"76\" ayah=\"13\" toAyah=\"\"/></format><lfootnote noteId=\"693\">3</lfootnote>».</format></p>"
+        },
+        {
+          "paragraphId": 714170400,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1655\"><format class=\"hadith\" who=\"1\" Id=\"231\" RevayatIndex=\"752\">و قال صلوات الله عليه: «استقبلوها في الصيف و استدبروها في الشتاء، فإنّ في استقبالها في الصيف منفعة، و استقبالها في الشتاء داء»<lfootnote noteId=\"694\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170401,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1656\">[235] </p>"
+        },
+        {
+          "paragraphId": 714170402,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1657\"><format class=\"hadith\" who=\"6\" Id=\"232\" RevayatIndex=\"753\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أبي عبد الله عليه السّلام</format></format> أنّه قال: </format>«النوم في الشمس يخرج الداء الدفين»<lfootnote noteId=\"695\">5</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170403,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1658\">[236] </p>"
+        },
+        {
+          "paragraphId": 714170404,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1659\"><format class=\"hadith\" who=\"6\" Id=\"233\" RevayatIndex=\"754\"><format class=\"sanadHadith\">و <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">عنه عليه السّلام</format></format>: </format>«النوم في الشمس يغيّر اللون و يبتر الثوب»<lfootnote noteId=\"696\">6</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170405,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1660\">[237] </p>"
+        },
+        {
+          "paragraphId": 714170406,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1661\"><format class=\"hadith\" who=\"14\" Id=\"234\" RevayatIndex=\"755\"><format class=\"sanadHadith\">و روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">النبيّ صلّى الله عليه و آله</format></format></format> أنّه كان إذا بعث رسولا في حاجة قال: «خذ في الظلّ فإنّه أعظم للبركة»<lfootnote noteId=\"697\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170407,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1662\"><heading level=\"2\">[باب] ما روي في السحر </heading></p>"
+        },
+        {
+          "paragraphId": 714170408,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1663\">[238] </p>"
+        },
+        {
+          "paragraphId": 714170409,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1664\"><format class=\"hadith\" who=\"6\" Id=\"235\" RevayatIndex=\"756\"><format class=\"sanadHadith\">روي عن <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">الصادق عليه السّلام</format></format> أنّه قال: </format>«من تعلّم شيئا من السحر - قليلا أو كثيرا - فهو آخر عهده فيما بينه و بين الله تعالى»<lfootnote noteId=\"698\">8</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 714170410,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1665\"><page number=\"172\"/>[239] </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 714171488,
+          "text": "<footnote id=\"691\"><page number=\"171\"/><mnote>(1)</mnote> لعلّه من الذفر - بفتحتين - و هو: حدّة الرائحة طيّبة كانت أو خبيثة. لسان العرب 289:4 «ذفر». </footnote>"
+        },
+        {
+          "footnoteId": 714171489,
+          "text": "<footnote id=\"692\"><mnote>(2)</mnote> في النسخة: «قمرا» و الصواب ما أثبتناه. </footnote>"
+        },
+        {
+          "footnoteId": 714171490,
+          "text": "<footnote id=\"693\"><mnote>(3)</mnote> سورة الإنسان 13:76. </footnote>"
+        },
+        {
+          "footnoteId": 714171491,
+          "text": "<footnote id=\"694\"><mnote>(4)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714171492,
+          "text": "<footnote id=\"695\"><mnote>(5)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714171493,
+          "text": "<footnote id=\"696\"><mnote>(6)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714171494,
+          "text": "<footnote id=\"697\"><mnote>(7)</mnote> لم نعثر عليه في المصادر المتوفّرة لدينا. </footnote>"
+        },
+        {
+          "footnoteId": 714171495,
+          "text": "<footnote id=\"698\"><mnote>(8)</mnote> روى الحميري نحوه في قرب الإسناد: 554/152، فقال: [السندي بن محمّد البزّاز، <page number=\"172\"/>قال: حدّثني] أبو البختري، عن جعفر، عن أبيه: أنّ علي بن أبي طالب عليه السّلام قال: «من تعلّم شيئا من السحر - قليلا أو كثيرا - فقد كفر، و كان آخر عهده بربّه، وحدّه أن يقتل، إلّا أن يتوب»، و الطوسي في تهذيب الأحكام 586/147:10، عنه [أي: عن محمّد بن الحسن الصفّار]، عن الحسن بن موسى الخشّاب، عن غياث بن كلوب بن فيهس البجلي، عن إسحاق بن عمّار، عن جعفر، عن أبيه عليهما السّلام أنّ عليا عليه السّلام كان يقول:<br/>«من تعلّم من السحر شيئا كان آخر عهده بربّه، و حدّه القتل إلّا أن يتوب». </footnote>"
+        }
+      ],
+      "pageValue": "171",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1654\" paragraph-id=\"1654\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo171\">171</span>«الشمس محرقة مذفرة<span><sup><a class=\"NewFn\" href=\"#footnote691\" title=\"(1)  لعلّه من الذفر - بفتحتين - و هو: حدّة الرائحة طيّبة كانت أو خبيثة. لسان العرب 289:4 «ذفر». \">1</a></sup></span>، مفسدة للثوب و اللون، و لو كان فيها خيرا<span><sup><a class=\"NewFn\" href=\"#footnote692\" title=\"(2)  في النسخة: «قمرا» و الصواب ما أثبتناه. \">2</a></sup></span> لذكرها الله في الجنّة حيث قال الله تعالى: <span style=\"0\" class=\"ayah\" surah=\"76\" ayah=\"13\">لاٰ يَرَوْنَ فِيهٰا شَمْساً وَ لاٰ زَمْهَرِيراً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/76/13\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote693\" title=\"(3)  سورة الإنسان 13:76. \">3</a></sup></span>».</span>\n  </p>\n  <p id=\"p1655\" paragraph-id=\"1655\" class=\" G\">\n    <span class=\"hadith\">و قال صلوات الله عليه: «استقبلوها في الصيف و استدبروها في الشتاء، فإنّ في استقبالها في الصيف منفعة، و استقبالها في الشتاء داء»<span><sup><a class=\"NewFn\" href=\"#footnote694\" title=\"(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1656\" paragraph-id=\"1656\" class=\" G\">[235] </p>\n  <p id=\"p1657\" paragraph-id=\"1657\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">أبي عبد الله عليه السّلام</span></span> أنّه قال: </span>«النوم في الشمس يخرج الداء الدفين»<span><sup><a class=\"NewFn\" href=\"#footnote695\" title=\"(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">5</a></sup></span>.</span>\n  </p>\n  <p id=\"p1658\" paragraph-id=\"1658\" class=\" G\">[236] </p>\n  <p id=\"p1659\" paragraph-id=\"1659\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و <span class=\"Y\"><span class=\"maasoom\">عنه عليه السّلام</span></span>: </span>«النوم في الشمس يغيّر اللون و يبتر الثوب»<span><sup><a class=\"NewFn\" href=\"#footnote696\" title=\"(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">6</a></sup></span>.</span>\n  </p>\n  <p id=\"p1660\" paragraph-id=\"1660\" class=\" G\">[237] </p>\n  <p id=\"p1661\" paragraph-id=\"1661\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">و روي عن <span class=\"Y\"><span class=\"maasoom\">النبيّ صلّى الله عليه و آله</span></span></span> أنّه كان إذا بعث رسولا في حاجة قال: «خذ في الظلّ فإنّه أعظم للبركة»<span><sup><a class=\"NewFn\" href=\"#footnote697\" title=\"(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. \">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p1662\" paragraph-id=\"1662\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[باب] ما روي في السحر </strong>\n  </p>\n  <p id=\"p1663\" paragraph-id=\"1663\" class=\" G\">[238] </p>\n  <p id=\"p1664\" paragraph-id=\"1664\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">روي عن <span class=\"Y\"><span class=\"maasoom\">الصادق عليه السّلام</span></span> أنّه قال: </span>«من تعلّم شيئا من السحر - قليلا أو كثيرا - فهو آخر عهده فيما بينه و بين الله تعالى»<span><sup><a class=\"NewFn\" href=\"#footnote698\" title=\"(8)  روى الحميري نحوه في قرب الإسناد: 554/152، فقال: [السندي بن محمّد البزّاز، \">8</a></sup></span>.</span>\n  </p>\n  <p id=\"p1665\" paragraph-id=\"1665\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote691\" footnote-id=\"691\">(1) <page number=\"171\" /> لعلّه من الذفر - بفتحتين - و هو: حدّة الرائحة طيّبة كانت أو خبيثة. لسان العرب 289:4 «ذفر». </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote692\" footnote-id=\"692\">(2)  في النسخة: «قمرا» و الصواب ما أثبتناه. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote693\" footnote-id=\"693\">(3)  سورة الإنسان 13:76. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote694\" footnote-id=\"694\">(4)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote695\" footnote-id=\"695\">(5)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote696\" footnote-id=\"696\">(6)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote697\" footnote-id=\"697\">(7)  لم نعثر عليه في المصادر المتوفّرة لدينا. </div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote698\" footnote-id=\"698\">(8)  روى الحميري نحوه في قرب الإسناد: 554/152، فقال: [السندي بن محمّد البزّاز، </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E1A51193-E644-440D-A735-08406916A1F8",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}
