@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 107,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386127,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"521\"><format class=\"sharh\">فكيف يمكننا ان نعرف صانعها و نحيط بذاته و صفاته و هو اللطيف الذى </format><page number=\"107\"/><format class=\"sharh\">لا تدركه الابصار و لا تصل اليه ساميات الافكار.</format></p>"
+        },
+        {
+          "paragraphId": 508386128,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"522\"><format class=\"sharh\">و لو اردنا ان تمثل لك بامثالهما لما وسع هذا المختصر بل و لا كل مفصل، اذ لا نهاية لها و لا حصر لعدها على ان كل مثال و شبيه ليقصر عن معرفة المشبه لانه تعالى منزه عن المثل و الشبيه.</format></p>"
+        },
+        {
+          "paragraphId": 508386129,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"523\"><format class=\"sharh\">و لكن إنما يلجأ العلماء و الحكماء من الناس الى الامثال و التشبيهات لا ليكون تشبيها حقيقيا و لكن ليقود العقل الى معرفة الخالق معرفة اقرار لا معرفة احاطة هذا و القرآن الكريم يصرح بقوله:</format></p>"
+        },
+        {
+          "paragraphId": 508386130,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"524\"><format class=\"sharh\"><format class=\"ayah\" surah=\"16\" ayah=\"74\" toAyah=\"\">(فَلاٰ تَضْرِبُوا لِلّٰهِ اَلْأَمْثٰالَ إِنَّ اَللّٰهَ يَعْلَمُ وَ أَنْتُمْ لاٰ تَعْلَمُونَ‌).<format class=\"ayahWord\" fromWord=\"1\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"74\" toAyah=\"\"/></format></format></p>"
+        },
+        {
+          "paragraphId": 508386131,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"525\"><page number=\"108\"/><heading level=\"3\">العقول تختلف في إدراكها</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "107",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p521\" paragraph-id=\"521\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo107\">107</span>\n    <span class=\"sharh\">لا تدركه الابصار و لا تصل اليه ساميات الافكار.</span>\n  </p>\n  <p id=\"p522\" paragraph-id=\"522\" class=\" G\">\n    <span class=\"sharh\">و لو اردنا ان تمثل لك بامثالهما لما وسع هذا المختصر بل و لا كل مفصل، اذ لا نهاية لها و لا حصر لعدها على ان كل مثال و شبيه ليقصر عن معرفة المشبه لانه تعالى منزه عن المثل و الشبيه.</span>\n  </p>\n  <p id=\"p523\" paragraph-id=\"523\" class=\" G\">\n    <span class=\"sharh\">و لكن إنما يلجأ العلماء و الحكماء من الناس الى الامثال و التشبيهات لا ليكون تشبيها حقيقيا و لكن ليقود العقل الى معرفة الخالق معرفة اقرار لا معرفة احاطة هذا و القرآن الكريم يصرح بقوله:</span>\n  </p>\n  <p id=\"p524\" paragraph-id=\"524\" class=\" G\">\n    <span class=\"sharh\">\n      <span style=\"0\" class=\"ayah\" surah=\"16\" ayah=\"74\">(فَلاٰ تَضْرِبُوا لِلّٰهِ اَلْأَمْثٰالَ إِنَّ اَللّٰهَ يَعْلَمُ وَ أَنْتُمْ لاٰ تَعْلَمُونَ‌).<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/16/74\"></a></span></span>\n    </span>\n  </p>\n  <p id=\"p525\" paragraph-id=\"525\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "85337FD4-EE67-491F-8324-99D9FB223EB3",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

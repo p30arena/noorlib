@@ -1,0 +1,116 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 198,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386604,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"998\"><page number=\"198\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"12\"/>مراجع الكتاب </heading></p>"
+        },
+        {
+          "paragraphId": 508386605,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"999\">1: القرآن الكريم</p>"
+        },
+        {
+          "paragraphId": 508386606,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1000\">2: مجمع البيان للطبرسى</p>"
+        },
+        {
+          "paragraphId": 508386607,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1001\">3: مجمع البحرين للطريحى</p>"
+        },
+        {
+          "paragraphId": 508386608,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1002\">4: على اطلال المذهب المادى لمحمد فريد وجدى</p>"
+        },
+        {
+          "paragraphId": 508386609,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1003\">5: قانون الزواج الياس الغضبان</p>"
+        },
+        {
+          "paragraphId": 508386610,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1004\">6: شرح الصحيفة السجادية للسيد عليخان</p>"
+        },
+        {
+          "paragraphId": 508386611,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1005\">7: توحيد الصدوق ر ه</p>"
+        },
+        {
+          "paragraphId": 508386612,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1006\">8: الصادق و المذاهب الاربعة للعلامة اسد حيدر</p>"
+        },
+        {
+          "paragraphId": 508386613,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1007\">9: حياة الصادق عليه السلام الشيخ موسى السبيتي</p>"
+        },
+        {
+          "paragraphId": 508386614,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1008\">10: الصادق عليه السلام للمرحوم الشيخ محمد حسين مظفر</p>"
+        },
+        {
+          "paragraphId": 508386615,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1009\">11: الهوامل و الشوامل لابن مسكويه و ابن حيان</p>"
+        },
+        {
+          "paragraphId": 508386616,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1010\">12: و غيرها من مقتطفات الكتب</p>"
+        },
+        {
+          "paragraphId": 508386617,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1011\"><format class=\"EndIntroduction\" type=\"12\"/><page number=\"199\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"5\"/>الفهرس </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "198",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p998\" paragraph-id=\"998\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo198\">198</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span>مراجع الكتاب </strong>\n  </p>\n  <p id=\"p999\" paragraph-id=\"999\" class=\" G\">1: القرآن الكريم</p>\n  <p id=\"p1000\" paragraph-id=\"1000\" class=\" G\">2: مجمع البيان للطبرسى</p>\n  <p id=\"p1001\" paragraph-id=\"1001\" class=\" G\">3: مجمع البحرين للطريحى</p>\n  <p id=\"p1002\" paragraph-id=\"1002\" class=\" G\">4: على اطلال المذهب المادى لمحمد فريد وجدى</p>\n  <p id=\"p1003\" paragraph-id=\"1003\" class=\" G\">5: قانون الزواج الياس الغضبان</p>\n  <p id=\"p1004\" paragraph-id=\"1004\" class=\" G\">6: شرح الصحيفة السجادية للسيد عليخان</p>\n  <p id=\"p1005\" paragraph-id=\"1005\" class=\" G\">7: توحيد الصدوق ر ه</p>\n  <p id=\"p1006\" paragraph-id=\"1006\" class=\" G\">8: الصادق و المذاهب الاربعة للعلامة اسد حيدر</p>\n  <p id=\"p1007\" paragraph-id=\"1007\" class=\" G\">9: حياة الصادق عليه السلام الشيخ موسى السبيتي</p>\n  <p id=\"p1008\" paragraph-id=\"1008\" class=\" G\">10: الصادق عليه السلام للمرحوم الشيخ محمد حسين مظفر</p>\n  <p id=\"p1009\" paragraph-id=\"1009\" class=\" G\">11: الهوامل و الشوامل لابن مسكويه و ابن حيان</p>\n  <p id=\"p1010\" paragraph-id=\"1010\" class=\" G\">12: و غيرها من مقتطفات الكتب</p>\n  <p id=\"p1011\" paragraph-id=\"1011\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "32AE6A1E-4009-4A6B-B0FF-F05411F2FAF8",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

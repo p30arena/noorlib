@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 184,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386527,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"921\"><page number=\"184\"/>اما ساير العلوم الاخرى فلا ادل عليها من الاخبار الكثيرة و الاحاديث الوافرة الناطقة له بمعرفتها و الشاهدة على كماله و اطلاعه.</p>"
+        },
+        {
+          "paragraphId": 508386528,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"922\">و لا عجب فانه الامام و الامام كما قلنا عالم بكل علم و فن و يجب ان يكون كذلك لانه هو المقتدى و المسؤل الاول عن ارشاد العالم و هو الموضح للقران و ما فيه سلام اللّه عليه</p>"
+        },
+        {
+          "paragraphId": 508386529,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"923\"><page number=\"185\"/><heading level=\"3\">وصاياه عليه السلام </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "184",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p921\" paragraph-id=\"921\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo184\">184</span>اما ساير العلوم الاخرى فلا ادل عليها من الاخبار الكثيرة و الاحاديث الوافرة الناطقة له بمعرفتها و الشاهدة على كماله و اطلاعه.</p>\n  <p id=\"p922\" paragraph-id=\"922\" class=\" G\">و لا عجب فانه الامام و الامام كما قلنا عالم بكل علم و فن و يجب ان يكون كذلك لانه هو المقتدى و المسؤل الاول عن ارشاد العالم و هو الموضح للقران و ما فيه سلام اللّه عليه</p>\n  <p id=\"p923\" paragraph-id=\"923\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "7027B202-17F6-4AB6-A413-2B6A2798CB2D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

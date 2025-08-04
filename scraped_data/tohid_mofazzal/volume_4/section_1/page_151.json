@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 151,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386333,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"727\"><page number=\"151\"/><format class=\"sharh\">فحلال محمد حلال الى يوم القيامة و حرامه حرام الى يوم القيامة.</format></p>"
+        },
+        {
+          "paragraphId": 508386334,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"728\"><format class=\"sharh\">مضافا الى ما رزق عليه السلام من النظرات الحكيمة بعيدة المرمى حتى الى ما بعد الطبيعة.</format></p>"
+        },
+        {
+          "paragraphId": 508386335,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"729\"><format class=\"sharh\">و الخلاصة انه عليه السلام كان مجموعه فضائل لا يقاس بغيره و لا يقاس غيره به.</format></p>"
+        },
+        {
+          "paragraphId": 508386336,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"730\"><format class=\"sharh\">و كان اساس كل تلك الفضائل و السجايا الحميدة هو مخافة اللّه و مخافة اللّه رأس الحكمة و من اوتى الحكمة فقد اوتى خيرا كثيرا.</format></p>"
+        },
+        {
+          "paragraphId": 508386337,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"731\"><page number=\"152\"/><heading level=\"3\">حياته في المجتمع</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "151",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p727\" paragraph-id=\"727\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo151\">151</span>\n    <span class=\"sharh\">فحلال محمد حلال الى يوم القيامة و حرامه حرام الى يوم القيامة.</span>\n  </p>\n  <p id=\"p728\" paragraph-id=\"728\" class=\" G\">\n    <span class=\"sharh\">مضافا الى ما رزق عليه السلام من النظرات الحكيمة بعيدة المرمى حتى الى ما بعد الطبيعة.</span>\n  </p>\n  <p id=\"p729\" paragraph-id=\"729\" class=\" G\">\n    <span class=\"sharh\">و الخلاصة انه عليه السلام كان مجموعه فضائل لا يقاس بغيره و لا يقاس غيره به.</span>\n  </p>\n  <p id=\"p730\" paragraph-id=\"730\" class=\" G\">\n    <span class=\"sharh\">و كان اساس كل تلك الفضائل و السجايا الحميدة هو مخافة اللّه و مخافة اللّه رأس الحكمة و من اوتى الحكمة فقد اوتى خيرا كثيرا.</span>\n  </p>\n  <p id=\"p731\" paragraph-id=\"731\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "F195C117-A6BC-41BD-A915-BE52C27B6DE9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

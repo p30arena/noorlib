@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 197,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386600,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"994\"><page number=\"197\"/><heading level=\"3\"><format class=\"H\">[ان شرحا قد فتحت للامالى]</format></heading></p>"
+        },
+        {
+          "paragraphId": 508386601,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"995\"> و قد تفضل الاخ الفاضل و المؤرخ الشهير السيد محمد الحلى بهذا التاريخ الجميل ضمن مقطوعة بديعة فقال:</p>"
+        },
+        {
+          "paragraphId": 508386602,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"996\"><br/><poem>ان شرحا قد فتحت للامالى <gap/>فيه عن سر كنزها اقفال <br/>بالبراهين اثبت الصادق التوحيد <gap/>فيها فاندك منها الضلال <br/>و تسامى الايمان و اتضح الحق <gap/>جليا بما حواه المقال <br/>حيث قد وفق الخليلى <gap/>للشرح و من قبل لم تنله الرجال <br/>املا كان فى النفوس كهذا <gap/>السفر يبدو لها فعز المغال <br/>ثم نيل المنى فارخت لكن <gap/>فى الامالى تحققت آمال </poem>1384 ه‍</p>"
+        },
+        {
+          "paragraphId": 508386603,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"997\">محمد الحلى</p>"
+        },
+        {
+          "paragraphId": 508386604,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"998\"><page number=\"198\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"12\"/>مراجع الكتاب </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "197",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p994\" paragraph-id=\"994\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo197\">197</span>\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"H\">[ان شرحا قد فتحت للامالى]</span>\n    </strong>\n  </p>\n  <p id=\"p995\" paragraph-id=\"995\" class=\" G\"> و قد تفضل الاخ الفاضل و المؤرخ الشهير السيد محمد الحلى بهذا التاريخ الجميل ضمن مقطوعة بديعة فقال:</p>\n  <p id=\"p996\" paragraph-id=\"996\" class=\" G\">\n    <br />\n    <span class=\"pome\">\n      <span class=\"rightpome\">ان شرحا قد فتحت للامالى </span>\n      <span class=\"leftpome\">فيه عن سر كنزها اقفال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">بالبراهين اثبت الصادق التوحيد </span>\n      <span class=\"leftpome\">فيها فاندك منها الضلال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">و تسامى الايمان و اتضح الحق </span>\n      <span class=\"leftpome\">جليا بما حواه المقال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">حيث قد وفق الخليلى </span>\n      <span class=\"leftpome\">للشرح و من قبل لم تنله الرجال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">املا كان فى النفوس كهذا </span>\n      <span class=\"leftpome\">السفر يبدو لها فعز المغال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">ثم نيل المنى فارخت لكن </span>\n      <span class=\"leftpome\">فى الامالى تحققت آمال </span>\n      <br style=\"clear:both\" />\n    </span>1384 ه‍</p>\n  <p id=\"p997\" paragraph-id=\"997\" class=\" G\">محمد الحلى</p>\n  <p id=\"p998\" paragraph-id=\"998\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "B7076171-9194-434F-8CA5-6CDE40589294",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

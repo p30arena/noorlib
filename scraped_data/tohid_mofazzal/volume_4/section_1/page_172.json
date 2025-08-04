@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 172,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386448,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"842\">فقال ابو عبد اللّه رأته القلوب بنور الايمان، و اثبتته العقول بيقظتها اثبات العيان، و ابصرته الابصار بما رأته من حسن التركيب و احكام التاليف، ثم الرسل و آياتها و الكتب و محكماتها، و اقتصرت العلماء على ما رأت من عظمته<page number=\"172\"/> دون رؤيته.</p>"
+        },
+        {
+          "paragraphId": 508386449,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"843\">هذا قليل من كثير و شذرات لامعة من مناظراته و محاججاته مع من تنكب عن سبيل الهدى و حاد عن سنن الحق.</p>"
+        },
+        {
+          "paragraphId": 508386450,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"844\">ذكرناها كنموج مما امتحن بها الامام عليه السلام فى عصره من المشاكل الاجتماعية و الانحرافات الدينية و المذهبية.</p>"
+        },
+        {
+          "paragraphId": 508386451,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"845\">و ليتأمل بها من آمن و صدق لتكون له عبرا و عظات و طريقا مستقيما للوصول الى الحقيقة كي يثبت ايمانه و ترسخ عقيدته.</p>"
+        },
+        {
+          "paragraphId": 508386452,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"846\"><page number=\"173\"/><heading level=\"3\">جوامع كلمه و حكمه </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "172",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p842\" paragraph-id=\"842\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo172\">172</span> دون رؤيته.</p>\n  <p id=\"p843\" paragraph-id=\"843\" class=\" G\">هذا قليل من كثير و شذرات لامعة من مناظراته و محاججاته مع من تنكب عن سبيل الهدى و حاد عن سنن الحق.</p>\n  <p id=\"p844\" paragraph-id=\"844\" class=\" G\">ذكرناها كنموج مما امتحن بها الامام عليه السلام فى عصره من المشاكل الاجتماعية و الانحرافات الدينية و المذهبية.</p>\n  <p id=\"p845\" paragraph-id=\"845\" class=\" G\">و ليتأمل بها من آمن و صدق لتكون له عبرا و عظات و طريقا مستقيما للوصول الى الحقيقة كي يثبت ايمانه و ترسخ عقيدته.</p>\n  <p id=\"p846\" paragraph-id=\"846\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "D79B2E3C-65D3-4504-BAF3-76AF3E714BF2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 100,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385675,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"488\"><format class=\"sharh\">و كذلك العقل فانه هو ايضا له حد في معرفة الخالق تعالى لا يتعداه بل</format><page number=\"100\"/><format class=\"sharh\">لا يستطيع ان يتعداه، لان قدرته و ادراكه و وظيفته محدودة كالبصر، و من كانت قدرتة مقدرة محددة كيف يمكنه ان يعرف ما فوق مرتبته.</format></p>"
+        },
+        {
+          "paragraphId": 508385676,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"489\"><format class=\"sharh\">نعم ان اللّه تعالى يعرف بالعقل و لكن يدرك بذلك العقل الذي يقر بان في البدن نفسا لا يعاينها و لا يدركها بحاسة من الحواس التى يستخدمها في معرفة كل شيء.</format></p>"
+        },
+        {
+          "paragraphId": 508385677,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"490\"><format class=\"sharh\">اذا فالعقل يعرف الصانع عن طريق ادراك اثاره و آياته فى مخلوقاته و رؤية بديع صنعه و نظام تكوينها المتقن ليعترف بوجوده و يقر بتوحيده.</format></p>"
+        },
+        {
+          "paragraphId": 508385678,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"491\"><format class=\"sharh\">اما انه يعرفه معرفة احاطة بصفاته و كنه ذاته فذلك مستحيل خارج عن دائرة نطاقه و حدوده المفروضة له.</format></p>"
+        },
+        {
+          "paragraphId": 508385679,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"492\"><format class=\"sharh\">فسبحان الظاهر الباطن و اللطيف الخبير.</format></p>"
+        },
+        {
+          "paragraphId": 508385680,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"493\"><page number=\"101\"/><heading level=\"3\">لا يكلف اللّه نفسا إلا وسعها</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "100",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p488\" paragraph-id=\"488\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo100\">100</span>\n    <span class=\"sharh\">لا يستطيع ان يتعداه، لان قدرته و ادراكه و وظيفته محدودة كالبصر، و من كانت قدرتة مقدرة محددة كيف يمكنه ان يعرف ما فوق مرتبته.</span>\n  </p>\n  <p id=\"p489\" paragraph-id=\"489\" class=\" G\">\n    <span class=\"sharh\">نعم ان اللّه تعالى يعرف بالعقل و لكن يدرك بذلك العقل الذي يقر بان في البدن نفسا لا يعاينها و لا يدركها بحاسة من الحواس التى يستخدمها في معرفة كل شيء.</span>\n  </p>\n  <p id=\"p490\" paragraph-id=\"490\" class=\" G\">\n    <span class=\"sharh\">اذا فالعقل يعرف الصانع عن طريق ادراك اثاره و آياته فى مخلوقاته و رؤية بديع صنعه و نظام تكوينها المتقن ليعترف بوجوده و يقر بتوحيده.</span>\n  </p>\n  <p id=\"p491\" paragraph-id=\"491\" class=\" G\">\n    <span class=\"sharh\">اما انه يعرفه معرفة احاطة بصفاته و كنه ذاته فذلك مستحيل خارج عن دائرة نطاقه و حدوده المفروضة له.</span>\n  </p>\n  <p id=\"p492\" paragraph-id=\"492\" class=\" G\">\n    <span class=\"sharh\">فسبحان الظاهر الباطن و اللطيف الخبير.</span>\n  </p>\n  <p id=\"p493\" paragraph-id=\"493\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "36D27055-7B7D-48D0-8C40-4026700C770D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

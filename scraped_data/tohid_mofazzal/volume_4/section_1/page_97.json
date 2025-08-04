@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 97,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385653,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"466\"><page number=\"97\"/><format class=\"sharh\" Id=\"2\">(2) الحسية الحيوانية.</format></p>"
+        },
+        {
+          "paragraphId": 508385654,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"467\"><format class=\"sharh\">(3) الناطقة القدسية.</format></p>"
+        },
+        {
+          "paragraphId": 508385655,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"468\"><format class=\"sharh\">(4) الكلمة الالهية.</format></p>"
+        },
+        {
+          "paragraphId": 508385656,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"469\"><format class=\"sharh\">و لكل من هذه خمس قوى و خاصتان. فالنامية النباتية لها خمس قوى ماسكة و جاذبة و هاضمة و دافعة و مربية، و لها خاصتان الزيادة و النقصان و انبعاثها من الكبد، و هي اشبه الاشياء بنفس الحيوان.</format></p>"
+        },
+        {
+          "paragraphId": 508385657,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"470\"><format class=\"sharh\">و الحسية الحيوانية لها خمس قوى سمع و بصر و شم و ذوق و لمس و لها خاصتان الرضا و الغضب و انبعاثها من القلب و هى اشبه الاشياء بنفس السباع.</format></p>"
+        },
+        {
+          "paragraphId": 508385658,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"471\"><format class=\"sharh\">و الناطقة القدسية و لها خمس قوى فكر و ذكر و علم و حلم و نباهة و ليس لها انبعاث و هى اشبه الاشياء بنفس الملائكة و لها خاصتان النزاهة و الحكمة، و الكلمة الالهية لها خمس قوى بقاء في فناء و نعيم في شقاء و عز في ذل و فقر في غناء و صبر فى بلاء و لها خاصتان الحلم و الكرم، و هذه هى التى مبدؤها من اللّه و اليه تعود لقوله تعالى: (<format class=\"ayah\" surah=\"89\" ayah=\"27\" toAyah=\"28\">يٰا أَيَّتُهَا اَلنَّفْسُ اَلْمُطْمَئِنَّةُ <format class=\"AyahSeprator\"/>اِرْجِعِي إِلىٰ رَبِّكِ رٰاضِيَةً مَرْضِيَّةً‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"9\"/><format class=\"ayahAddress\" surah=\"89\" ayah=\"27\" toAyah=\"28\"/></format></format></p>"
+        },
+        {
+          "paragraphId": 508385659,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"472\"><format class=\"sharh\">و العقل وسط الكل لكيلا يقول احدكم شيئا من الخير او الشر الا لقياس معقول.</format></p>"
+        },
+        {
+          "paragraphId": 508385660,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"473\"><format class=\"sharh\">قال بعض العارفين: ان النفس اذا تابعت القوة الشهوية سميت (بهيمية) و اذا تابعت الغضبية سميت (سبعية) و اذا جعلت رذائل الاخلاق لها ملكة سميت (شيطانية) و سمى اللّه تعالى هذه في القرآن نفسا امارة بالسوء ان كانت رذائلها ثابتة، و ان لم تكن ثابتة بل تكون مائلة الى الشر مرة و الى الخير اخرى </format><page number=\"98\"/><format class=\"sharh\">و تندم على الشر و تلوم عليه سماها (اللوامة) و ان كانت منقادة الى العقل سماها (مطمئنة) و المعين على هذه المتابعات قطع العلاقة البدنية كما قال بعضهم:</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "97",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p466\" paragraph-id=\"466\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo97\">97</span>\n    <span class=\"sharh\">(2) الحسية الحيوانية.</span>\n  </p>\n  <p id=\"p467\" paragraph-id=\"467\" class=\" G\">\n    <span class=\"sharh\">(3) الناطقة القدسية.</span>\n  </p>\n  <p id=\"p468\" paragraph-id=\"468\" class=\" G\">\n    <span class=\"sharh\">(4) الكلمة الالهية.</span>\n  </p>\n  <p id=\"p469\" paragraph-id=\"469\" class=\" G\">\n    <span class=\"sharh\">و لكل من هذه خمس قوى و خاصتان. فالنامية النباتية لها خمس قوى ماسكة و جاذبة و هاضمة و دافعة و مربية، و لها خاصتان الزيادة و النقصان و انبعاثها من الكبد، و هي اشبه الاشياء بنفس الحيوان.</span>\n  </p>\n  <p id=\"p470\" paragraph-id=\"470\" class=\" G\">\n    <span class=\"sharh\">و الحسية الحيوانية لها خمس قوى سمع و بصر و شم و ذوق و لمس و لها خاصتان الرضا و الغضب و انبعاثها من القلب و هى اشبه الاشياء بنفس السباع.</span>\n  </p>\n  <p id=\"p471\" paragraph-id=\"471\" class=\" G\">\n    <span class=\"sharh\">و الناطقة القدسية و لها خمس قوى فكر و ذكر و علم و حلم و نباهة و ليس لها انبعاث و هى اشبه الاشياء بنفس الملائكة و لها خاصتان النزاهة و الحكمة، و الكلمة الالهية لها خمس قوى بقاء في فناء و نعيم في شقاء و عز في ذل و فقر في غناء و صبر فى بلاء و لها خاصتان الحلم و الكرم، و هذه هى التى مبدؤها من اللّه و اليه تعود لقوله تعالى: (<span style=\"0\" class=\"ayah\" surah=\"89\" ayah=\"27\">يٰا أَيَّتُهَا اَلنَّفْسُ اَلْمُطْمَئِنَّةُ <span class=\"AyahSeprator\"></span>اِرْجِعِي إِلىٰ رَبِّكِ رٰاضِيَةً مَرْضِيَّةً‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/89/27\"></a></span></span></span>\n  </p>\n  <p id=\"p472\" paragraph-id=\"472\" class=\" G\">\n    <span class=\"sharh\">و العقل وسط الكل لكيلا يقول احدكم شيئا من الخير او الشر الا لقياس معقول.</span>\n  </p>\n  <p id=\"p473\" paragraph-id=\"473\" class=\" G\">\n    <span class=\"sharh\">قال بعض العارفين: ان النفس اذا تابعت القوة الشهوية سميت (بهيمية) و اذا تابعت الغضبية سميت (سبعية) و اذا جعلت رذائل الاخلاق لها ملكة سميت (شيطانية) و سمى اللّه تعالى هذه في القرآن نفسا امارة بالسوء ان كانت رذائلها ثابتة، و ان لم تكن ثابتة بل تكون مائلة الى الشر مرة و الى الخير اخرى </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "03A23987-78E0-4201-BC18-967606CACF30",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

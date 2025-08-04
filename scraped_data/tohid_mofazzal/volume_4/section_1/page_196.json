@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 196,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386596,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"990\"><page number=\"196\"/><heading level=\"2\"><format class=\"H\">[اشعار في شرح الامالي]</format></heading></p>"
+        },
+        {
+          "paragraphId": 508386597,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"991\"> و قد ارخت عام اتمام طبع هذا الشرح اعني شرح الامالى بقولى:</p>"
+        },
+        {
+          "paragraphId": 508386598,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"992\"><heading level=\"3\"><format class=\"H\">[توجه روحى الى ذى الجلال]</format></heading></p>"
+        },
+        {
+          "paragraphId": 508386599,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"993\"><br/><poem>توجه روحى الى ذى الجلال <gap/>ليرفع شكرى له بابتهال <br/>فمولاى من على عبده <gap/>بما قد حباني و سام الكمال <br/>عرجت لاجواء درس الامام <gap/>يا جنحة العقل لا بالخيال <br/>لا شرح آيات توحيده <gap/>باجلى بيان و احلى مقال <br/>و اكشف عن كنزها كى يرى <gap/>بها الجيل كم قد حوت من لئالى <br/>فجائت مفصلة حسبما <gap/>استطعت و ما كان لى من مجال <br/>فان قبلت فزت يوم الحساب <gap/>و ان رفضت ساء فى الحشر حالى <br/>و لى امل بنوال الكريم <gap/>بان لا اعود و كيسى خالى <br/>فكم جاء قبلى من طالب <gap/>اليه فوفره بالنوال <br/>و قد سجل الحق تاريخه <br/>لقد كمل الشرح شرح الامالى </poem>1384 ه‍</p>"
+        },
+        {
+          "paragraphId": 508386600,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"994\"><page number=\"197\"/><heading level=\"3\"><format class=\"H\">[ان شرحا قد فتحت للامالى]</format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "196",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p990\" paragraph-id=\"990\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo196\">196</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"H\">[اشعار في شرح الامالي]</span>\n    </strong>\n  </p>\n  <p id=\"p991\" paragraph-id=\"991\" class=\" G\"> و قد ارخت عام اتمام طبع هذا الشرح اعني شرح الامالى بقولى:</p>\n  <p id=\"p992\" paragraph-id=\"992\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"H\">[توجه روحى الى ذى الجلال]</span>\n    </strong>\n  </p>\n  <p id=\"p993\" paragraph-id=\"993\" class=\" G\">\n    <br />\n    <span class=\"pome\">\n      <span class=\"rightpome\">توجه روحى الى ذى الجلال </span>\n      <span class=\"leftpome\">ليرفع شكرى له بابتهال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">فمولاى من على عبده </span>\n      <span class=\"leftpome\">بما قد حباني و سام الكمال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">عرجت لاجواء درس الامام </span>\n      <span class=\"leftpome\">يا جنحة العقل لا بالخيال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">لا شرح آيات توحيده </span>\n      <span class=\"leftpome\">باجلى بيان و احلى مقال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">و اكشف عن كنزها كى يرى </span>\n      <span class=\"leftpome\">بها الجيل كم قد حوت من لئالى </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">فجائت مفصلة حسبما </span>\n      <span class=\"leftpome\">استطعت و ما كان لى من مجال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">فان قبلت فزت يوم الحساب </span>\n      <span class=\"leftpome\">و ان رفضت ساء فى الحشر حالى </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">و لى امل بنوال الكريم </span>\n      <span class=\"leftpome\">بان لا اعود و كيسى خالى </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">فكم جاء قبلى من طالب </span>\n      <span class=\"leftpome\">اليه فوفره بالنوال </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">و قد سجل الحق تاريخه </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">لقد كمل الشرح شرح الامالى </span>\n      <br style=\"clear:both\" />\n    </span>1384 ه‍</p>\n  <p id=\"p994\" paragraph-id=\"994\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "BA51BA53-8BB7-4294-BADF-33ADDDA55928",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

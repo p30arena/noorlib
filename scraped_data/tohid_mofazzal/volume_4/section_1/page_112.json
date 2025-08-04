@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 112,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386157,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"551\"><format class=\"sharh\">فاذا كان العقل المدرك الذى عليه فقط اعتماد الانسان في الاطلاع على </format><page number=\"112\"/><format class=\"sharh\">خفايا الامور لم يستطع ان يدرك حقيقة مخلوق محسوس مثله كيف يستطيع ان يدرك ما لطف حتى عن الحس و استتر حتى عن الوهم.</format></p>"
+        },
+        {
+          "paragraphId": 508386158,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"552\"><format class=\"sharh\">و كيف لا تختلف العقول لدى الناس في ذلك و هى أي العقول بهذه القدرة المحدودة و القصور عن بلوغ ما لم تعط امكان الوصول اليه.</format></p>"
+        },
+        {
+          "paragraphId": 508386159,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"553\"><format class=\"sharh\">فسبحان من لا تدركه الابصار و لا تحيط بكنهه الافكار.</format></p>"
+        },
+        {
+          "paragraphId": 508386160,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"554\"><page number=\"113\"/><heading level=\"3\">اللّه لطف عن مدى ما تبلغه الأوهام</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "112",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p551\" paragraph-id=\"551\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo112\">112</span>\n    <span class=\"sharh\">خفايا الامور لم يستطع ان يدرك حقيقة مخلوق محسوس مثله كيف يستطيع ان يدرك ما لطف حتى عن الحس و استتر حتى عن الوهم.</span>\n  </p>\n  <p id=\"p552\" paragraph-id=\"552\" class=\" G\">\n    <span class=\"sharh\">و كيف لا تختلف العقول لدى الناس في ذلك و هى أي العقول بهذه القدرة المحدودة و القصور عن بلوغ ما لم تعط امكان الوصول اليه.</span>\n  </p>\n  <p id=\"p553\" paragraph-id=\"553\" class=\" G\">\n    <span class=\"sharh\">فسبحان من لا تدركه الابصار و لا تحيط بكنهه الافكار.</span>\n  </p>\n  <p id=\"p554\" paragraph-id=\"554\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "FDA109D5-26A4-4203-9532-2F134CFD1387",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

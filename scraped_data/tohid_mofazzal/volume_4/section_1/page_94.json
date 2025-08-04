@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 94,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385628,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"441\"><page number=\"94\"/><format class=\"M\">قبل البصر بل من قبل العقل. لان العقل هو الذى يميزه. فيعلم ان الحجر لا يذهب علوا من تلقاء نفسه. افلا ترى كيف وقف البصر على حده فلم يتجاوزه. فكذلك يقف العقل على حده من معرفة </format><format class=\"sharh\">و قيل: لا نجاة الا بالطاعة و الطاعة بالعلم و العلم بالتعليم و التعليم بالعقل.</format></p>"
+        },
+        {
+          "paragraphId": 508385629,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"442\"><format class=\"sharh\">و قد اختلف فى تعريفه لعدم معرفة حقيقته بل كل من عرفه كان تعريفه بواسطة آثارة و افعاله و احكامه، و لكن القدر الجامع لجل التعاريف هو:</format></p>"
+        },
+        {
+          "paragraphId": 508385630,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"443\"><format class=\"sharh\">انه الجوهرة الثمينه التي اضائت الجسم الانساني حتى جعلته يضىء بين ساير المخلوقات في هذا الكون فهو خير المواهب السماوية و اعظم النعم الالهية التي تخرج الانسان من ظلمات البهيمية الى نور الانسانية، بل هو النور الذي يقذفه اللّه تعالى فى قلب من يشاء من عباده ليفرق بين الحق و الباطل و الحسن و القبيح و الخير و الشر فيستمد منه ما يسعده من علم و معرفة، و يهديه الى ما ينجيه في الآخرة من معرفة خالقه و توحيده و هو هو الذى تدرك النفس به ما تدركه من العلوم الضرورية و النظرية.</format></p>"
+        },
+        {
+          "paragraphId": 508385631,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"444\"><format class=\"sharh\">اما الفرق بينه و بين النفس فهو كما قال بعض العارفين: ان الممكن المجرد عن الجسمية ان احتاج فى كمالاته الى البدن فهو النفس و الا فهو العقل.</format></p>"
+        },
+        {
+          "paragraphId": 508385632,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"445\"><format class=\"sharh\">و قد عينوا محل العقل في المخ من الدماغ، و قيل ان القلب و الدماغ هما مجمع العقل.</format></p>"
+        },
+        {
+          "paragraphId": 508385633,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"446\"><format class=\"sharh\">و قيل ان القلب هو اسم من اسماء العقل كما ورد في الكتاب الكريم: </format></p>"
+        },
+        {
+          "paragraphId": 508385634,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"447\"><format class=\"sharh\"><format class=\"ayah\" surah=\"22\" ayah=\"46\" toAyah=\"\">(لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهٰا)<format class=\"ayahWord\" fromWord=\"7\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"22\" ayah=\"46\" toAyah=\"\"/></format> و السبب في تعيين محله فى الدماغ دون غيره من الاعضاء لانهم راؤا ان هذا العضو إذا اصيب بشىء اختلت احكام العقل و لم تصب </format><page number=\"95\"/><format class=\"M\">الخالق فلا يعدوه، و لكن يعقله بعقل اقرّ ان فيه نفسا و لم يعاينها و لم يدركها بحاسة من الحواس. و على حسب هذا ايضا نقول ان العقل </format><format class=\"sharh\">قياساتة و احكامه.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "94",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p441\" paragraph-id=\"441\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo94\">94</span>\n    <span class=\"M\">قبل البصر بل من قبل العقل. لان العقل هو الذى يميزه. فيعلم ان الحجر لا يذهب علوا من تلقاء نفسه. افلا ترى كيف وقف البصر على حده فلم يتجاوزه. فكذلك يقف العقل على حده من معرفة </span>\n    <span class=\"sharh\">و قيل: لا نجاة الا بالطاعة و الطاعة بالعلم و العلم بالتعليم و التعليم بالعقل.</span>\n  </p>\n  <p id=\"p442\" paragraph-id=\"442\" class=\" G\">\n    <span class=\"sharh\">و قد اختلف فى تعريفه لعدم معرفة حقيقته بل كل من عرفه كان تعريفه بواسطة آثارة و افعاله و احكامه، و لكن القدر الجامع لجل التعاريف هو:</span>\n  </p>\n  <p id=\"p443\" paragraph-id=\"443\" class=\" G\">\n    <span class=\"sharh\">انه الجوهرة الثمينه التي اضائت الجسم الانساني حتى جعلته يضىء بين ساير المخلوقات في هذا الكون فهو خير المواهب السماوية و اعظم النعم الالهية التي تخرج الانسان من ظلمات البهيمية الى نور الانسانية، بل هو النور الذي يقذفه اللّه تعالى فى قلب من يشاء من عباده ليفرق بين الحق و الباطل و الحسن و القبيح و الخير و الشر فيستمد منه ما يسعده من علم و معرفة، و يهديه الى ما ينجيه في الآخرة من معرفة خالقه و توحيده و هو هو الذى تدرك النفس به ما تدركه من العلوم الضرورية و النظرية.</span>\n  </p>\n  <p id=\"p444\" paragraph-id=\"444\" class=\" G\">\n    <span class=\"sharh\">اما الفرق بينه و بين النفس فهو كما قال بعض العارفين: ان الممكن المجرد عن الجسمية ان احتاج فى كمالاته الى البدن فهو النفس و الا فهو العقل.</span>\n  </p>\n  <p id=\"p445\" paragraph-id=\"445\" class=\" G\">\n    <span class=\"sharh\">و قد عينوا محل العقل في المخ من الدماغ، و قيل ان القلب و الدماغ هما مجمع العقل.</span>\n  </p>\n  <p id=\"p446\" paragraph-id=\"446\" class=\" G\">\n    <span class=\"sharh\">و قيل ان القلب هو اسم من اسماء العقل كما ورد في الكتاب الكريم: </span>\n  </p>\n  <p id=\"p447\" paragraph-id=\"447\" class=\" G\">\n    <span class=\"sharh\">\n      <span style=\"0\" class=\"ayah\" surah=\"22\" ayah=\"46\">(لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهٰا)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/22/46\"></a></span></span> و السبب في تعيين محله فى الدماغ دون غيره من الاعضاء لانهم راؤا ان هذا العضو إذا اصيب بشىء اختلت احكام العقل و لم تصب </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "4437F709-4325-4E2F-B632-4641869717F8",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

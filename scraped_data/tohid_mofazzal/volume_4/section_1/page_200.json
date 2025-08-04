@@ -1,0 +1,158 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 200,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386647,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"1041\"><page number=\"200\"/>129 رد على منكرى القصد فى الخلقة</p>"
+        },
+        {
+          "paragraphId": 508386648,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"1042\">134 الطبيعة تسير وراء الحكمة و التقدير</p>"
+        },
+        {
+          "paragraphId": 508386649,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"1043\">136 خاتمة المجالس الاربعة</p>"
+        },
+        {
+          "paragraphId": 508386650,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"1044\">142 مسك الختام فى اضمامة من حياة الامام عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 508386651,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"1045\">143 تمهيد</p>"
+        },
+        {
+          "paragraphId": 508386652,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1046\">147 ولادته و نشأته و وفاته</p>"
+        },
+        {
+          "paragraphId": 508386653,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1047\">150 ملامحه و شمائله</p>"
+        },
+        {
+          "paragraphId": 508386654,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1048\">152 حياته فى المجتمع</p>"
+        },
+        {
+          "paragraphId": 508386655,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1049\">156 الصادق فى انظار العلماء</p>"
+        },
+        {
+          "paragraphId": 508386656,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1050\">161 مدرسته</p>"
+        },
+        {
+          "paragraphId": 508386657,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1051\">165 مناظراته عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 508386658,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1052\">173 جوامع كلمه و حكمه</p>"
+        },
+        {
+          "paragraphId": 508386659,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1053\">177 اشهر المؤلفين من تلامذته</p>"
+        },
+        {
+          "paragraphId": 508386660,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1054\">179 علومه عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 508386661,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1055\">185 وصاياه عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 508386662,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1056\">190 محنته و وفاته بالسم</p>"
+        },
+        {
+          "paragraphId": 508386663,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1057\">196 تاريخ المؤلف لاتمام طبع الشرح</p>"
+        },
+        {
+          "paragraphId": 508386664,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1058\">197 تاريخ الفاضل المؤرخ السيد محمد الحسينى الحلى لطبعه</p>"
+        },
+        {
+          "paragraphId": 508386665,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1059\">198 مراجع الكتاب</p>"
+        },
+        {
+          "paragraphId": 508386666,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"1060\">199 الفهرس</p>"
+        },
+        {
+          "paragraphId": 508386667,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"1061\"><format class=\"EndIntroduction\" type=\"5\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "200",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1041\" paragraph-id=\"1041\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo200\">200</span>129 رد على منكرى القصد فى الخلقة</p>\n  <p id=\"p1042\" paragraph-id=\"1042\" class=\" G\">134 الطبيعة تسير وراء الحكمة و التقدير</p>\n  <p id=\"p1043\" paragraph-id=\"1043\" class=\" G\">136 خاتمة المجالس الاربعة</p>\n  <p id=\"p1044\" paragraph-id=\"1044\" class=\" G\">142 مسك الختام فى اضمامة من حياة الامام عليه السّلام</p>\n  <p id=\"p1045\" paragraph-id=\"1045\" class=\" G\">143 تمهيد</p>\n  <p id=\"p1046\" paragraph-id=\"1046\" class=\" G\">147 ولادته و نشأته و وفاته</p>\n  <p id=\"p1047\" paragraph-id=\"1047\" class=\" G\">150 ملامحه و شمائله</p>\n  <p id=\"p1048\" paragraph-id=\"1048\" class=\" G\">152 حياته فى المجتمع</p>\n  <p id=\"p1049\" paragraph-id=\"1049\" class=\" G\">156 الصادق فى انظار العلماء</p>\n  <p id=\"p1050\" paragraph-id=\"1050\" class=\" G\">161 مدرسته</p>\n  <p id=\"p1051\" paragraph-id=\"1051\" class=\" G\">165 مناظراته عليه السّلام</p>\n  <p id=\"p1052\" paragraph-id=\"1052\" class=\" G\">173 جوامع كلمه و حكمه</p>\n  <p id=\"p1053\" paragraph-id=\"1053\" class=\" G\">177 اشهر المؤلفين من تلامذته</p>\n  <p id=\"p1054\" paragraph-id=\"1054\" class=\" G\">179 علومه عليه السّلام</p>\n  <p id=\"p1055\" paragraph-id=\"1055\" class=\" G\">185 وصاياه عليه السّلام</p>\n  <p id=\"p1056\" paragraph-id=\"1056\" class=\" G\">190 محنته و وفاته بالسم</p>\n  <p id=\"p1057\" paragraph-id=\"1057\" class=\" G\">196 تاريخ المؤلف لاتمام طبع الشرح</p>\n  <p id=\"p1058\" paragraph-id=\"1058\" class=\" G\">197 تاريخ الفاضل المؤرخ السيد محمد الحسينى الحلى لطبعه</p>\n  <p id=\"p1059\" paragraph-id=\"1059\" class=\" G\">198 مراجع الكتاب</p>\n  <p id=\"p1060\" paragraph-id=\"1060\" class=\" G\">199 الفهرس</p>\n  <p id=\"p1061\" paragraph-id=\"1061\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n  <span />\n  <span />\n</div>",
+      "bookPageVisitLogId": "772A6DCE-488E-48BD-B356-A760BD2FC562",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

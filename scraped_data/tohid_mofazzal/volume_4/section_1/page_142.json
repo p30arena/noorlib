@@ -1,0 +1,44 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 142,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386293,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"687\"><page number=\"142\"/><heading level=\"2\">مسك الختام في إضمامة من حياة الإمام عليه السلام</heading></p>"
+        },
+        {
+          "paragraphId": 508386294,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"688\"><page number=\"143\"/> بسم اللّه الرّحمن الرّحيم</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "142",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p687\" paragraph-id=\"687\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo142\">142</span>\n    <strong style=\"0\" class=\"h-2 02\">مسك الختام في إضمامة من حياة الإمام عليه السلام</strong>\n  </p>\n  <p id=\"p688\" paragraph-id=\"688\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "8E96DB17-A1D7-43CA-96B9-383575F54666",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

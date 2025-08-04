@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 150,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386327,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"721\"><page number=\"150\"/><heading level=\"3\">ملامحه و شمائله</heading></p>"
+        },
+        {
+          "paragraphId": 508386328,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"722\"><format class=\"sharh\">ان بيان ملامح الامام و هيأته الجسمية ليس مما يلزم الباحث ذكرها لانه هو الامام و الامام عندنا يجب ان يكون جسمه مصانا من النقائص و التشويه الخلقى و مع ذلك فقد اجمع المؤرخون انه كان عليه السلام ربع القامة ازهر الوجه حالك الشعر جعدا اشم الانف انزع رقيق البشرة على خده خال اسود و بالجملة فقد كان له من جمال الخلقة و كمال التكوين و تناسب التركيب حظ كبير و من الاوصاف ما كانت كلها جمالا و كمالا.</format></p>"
+        },
+        {
+          "paragraphId": 508386329,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"723\"><format class=\"sharh\">و ليس الغرض هنا بيان ما خلق عليه من جمال الصورة و اعتدال الهيكل و تناسب الاعضاء و انما المقصود ذكر ما منح عليه السلام من بصيرة نافذة و علم جم و خبرة كاملة بموارد الحياة و مصادرها.</format></p>"
+        },
+        {
+          "paragraphId": 508386330,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"724\"><format class=\"sharh\">و ما جبل عليه من اخلاق اسلامية عالية و اخلاص حقيقى فى بث الدعوة و اعلاء كلمة التوحيد و افهام الناس معالم دينهم و تعليمهم نظم الاسلام و احكام الدين بكل وسيلة و بالتى هى احسن و اقوم.</format></p>"
+        },
+        {
+          "paragraphId": 508386331,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"725\"><format class=\"sharh\">هذا مع ما اختص به من المعرفة الواقعية بالتشريع حتى كان الفقه الجعفرى كله ماخوذ منه و مروى عنه.</format></p>"
+        },
+        {
+          "paragraphId": 508386332,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"726\"><format class=\"sharh\">و هو هو فقه النبى (ص) و الائمه من بعده و من قبله لم ينطق عن هوى و لم يقل الا ما قاله النبى (ص).</format></p>"
+        },
+        {
+          "paragraphId": 508386333,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"727\"><page number=\"151\"/><format class=\"sharh\">فحلال محمد حلال الى يوم القيامة و حرامه حرام الى يوم القيامة.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "150",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p721\" paragraph-id=\"721\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo150\">150</span>\n    <strong style=\"0\" class=\"h-3 03\">ملامحه و شمائله</strong>\n  </p>\n  <p id=\"p722\" paragraph-id=\"722\" class=\" G\">\n    <span class=\"sharh\">ان بيان ملامح الامام و هيأته الجسمية ليس مما يلزم الباحث ذكرها لانه هو الامام و الامام عندنا يجب ان يكون جسمه مصانا من النقائص و التشويه الخلقى و مع ذلك فقد اجمع المؤرخون انه كان عليه السلام ربع القامة ازهر الوجه حالك الشعر جعدا اشم الانف انزع رقيق البشرة على خده خال اسود و بالجملة فقد كان له من جمال الخلقة و كمال التكوين و تناسب التركيب حظ كبير و من الاوصاف ما كانت كلها جمالا و كمالا.</span>\n  </p>\n  <p id=\"p723\" paragraph-id=\"723\" class=\" G\">\n    <span class=\"sharh\">و ليس الغرض هنا بيان ما خلق عليه من جمال الصورة و اعتدال الهيكل و تناسب الاعضاء و انما المقصود ذكر ما منح عليه السلام من بصيرة نافذة و علم جم و خبرة كاملة بموارد الحياة و مصادرها.</span>\n  </p>\n  <p id=\"p724\" paragraph-id=\"724\" class=\" G\">\n    <span class=\"sharh\">و ما جبل عليه من اخلاق اسلامية عالية و اخلاص حقيقى فى بث الدعوة و اعلاء كلمة التوحيد و افهام الناس معالم دينهم و تعليمهم نظم الاسلام و احكام الدين بكل وسيلة و بالتى هى احسن و اقوم.</span>\n  </p>\n  <p id=\"p725\" paragraph-id=\"725\" class=\" G\">\n    <span class=\"sharh\">هذا مع ما اختص به من المعرفة الواقعية بالتشريع حتى كان الفقه الجعفرى كله ماخوذ منه و مروى عنه.</span>\n  </p>\n  <p id=\"p726\" paragraph-id=\"726\" class=\" G\">\n    <span class=\"sharh\">و هو هو فقه النبى (ص) و الائمه من بعده و من قبله لم ينطق عن هوى و لم يقل الا ما قاله النبى (ص).</span>\n  </p>\n  <p id=\"p727\" paragraph-id=\"727\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "D2AB0812-4D42-42D1-8945-223C58AFB238",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

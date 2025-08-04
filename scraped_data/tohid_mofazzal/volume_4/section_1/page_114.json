@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 114,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386163,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"557\"><format class=\"sharh\">و لا هو من المجردات التى يشعر بها الوهم ليدرك بالحواس الباطنه، فجاز لنا ان نقول انه استتر و ارتفع و لطف عن مدى ما تبلغه الاوهام، اذ هو شىء لا كالاشياء، خالق كل مخلوق، و صانع غير مصنوع و واجب غير حادث، قد </format><page number=\"114\"/><format class=\"M\">من خلقه و ارتفعت عن ادراكها بالنظر.</format></p>"
+        },
+        {
+          "paragraphId": 508386164,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"558\"><format class=\"sharh\">جل عن مشابهة مخلوقاته.</format></p>"
+        },
+        {
+          "paragraphId": 508386165,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"559\"><format class=\"sharh\">و المراد هنا من لطف اي ارتفع و تعالى عن ان تبلغ الاوهام معرفته و وصفه:</format></p>"
+        },
+        {
+          "paragraphId": 508386166,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"560\"><format class=\"sharh\">و لتقريب المعنى الى الاذهان شبه الامام عليه السلام ذلك بالنفس المجردة التى لطفت و ارتفعت عن ان تدرك بالنظر على انها خلق من خلق اللّه العظيم.</format></p>"
+        },
+        {
+          "paragraphId": 508386167,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"561\"><format class=\"sharh\">فكيف بصانعها المبدع الذي خلق نفس الحواس المدركة الظاهرة و الباطنة، و خلق العقل و ما يميزه من دقيق المعانى و جليل المباني.</format></p>"
+        },
+        {
+          "paragraphId": 508386168,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"562\"><format class=\"sharh\">فتعالى عما يقول الجاهلون علوا كبيرا.</format></p>"
+        },
+        {
+          "paragraphId": 508386169,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"563\"><page number=\"115\"/><heading level=\"3\">اللّه متعال على كل شيء مباين لكل شيء</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "114",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p557\" paragraph-id=\"557\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo114\">114</span>\n    <span class=\"M\">من خلقه و ارتفعت عن ادراكها بالنظر.</span>\n  </p>\n  <p id=\"p558\" paragraph-id=\"558\" class=\" G\">\n    <span class=\"sharh\">جل عن مشابهة مخلوقاته.</span>\n  </p>\n  <p id=\"p559\" paragraph-id=\"559\" class=\" G\">\n    <span class=\"sharh\">و المراد هنا من لطف اي ارتفع و تعالى عن ان تبلغ الاوهام معرفته و وصفه:</span>\n  </p>\n  <p id=\"p560\" paragraph-id=\"560\" class=\" G\">\n    <span class=\"sharh\">و لتقريب المعنى الى الاذهان شبه الامام عليه السلام ذلك بالنفس المجردة التى لطفت و ارتفعت عن ان تدرك بالنظر على انها خلق من خلق اللّه العظيم.</span>\n  </p>\n  <p id=\"p561\" paragraph-id=\"561\" class=\" G\">\n    <span class=\"sharh\">فكيف بصانعها المبدع الذي خلق نفس الحواس المدركة الظاهرة و الباطنة، و خلق العقل و ما يميزه من دقيق المعانى و جليل المباني.</span>\n  </p>\n  <p id=\"p562\" paragraph-id=\"562\" class=\" G\">\n    <span class=\"sharh\">فتعالى عما يقول الجاهلون علوا كبيرا.</span>\n  </p>\n  <p id=\"p563\" paragraph-id=\"563\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "D29D3438-DCBB-460B-8CAC-4B48E57FA997",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

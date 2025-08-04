@@ -1,0 +1,92 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 99,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385666,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"479\"><format class=\"sharh\">هذه هي الكلمات التي اردنا بيانها و معرفتها، و قد تلخص من ذلك ان </format><page number=\"99\"/><format class=\"sharh\">للعقل دائرة محدودة و مرقى فى ادراكه معين لا يمكنه ان يرقى فوق مستواه و يدرك فوق مرتبته.</format></p>"
+        },
+        {
+          "paragraphId": 508385667,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"480\"><format class=\"sharh\">فانه مهما بلغ من الرفعة و العظمة فى الانسان لم يكن الا مصنوعا مخلوقا محدثا، و يستحيل ان يعرف المصنوع كنه صانعه لانه لا يماثله و لا يجانسه.</format></p>"
+        },
+        {
+          "paragraphId": 508385668,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"481\"><format class=\"sharh\">و على هذا فكيف يقال: لم لا يدرك الخالق بالعقل?</format></p>"
+        },
+        {
+          "paragraphId": 508385669,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"482\"><format class=\"sharh\">اليس هذا سؤال سخيف و استفهام صبيانى.</format></p>"
+        },
+        {
+          "paragraphId": 508385670,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"483\"><format class=\"sharh\">على انا نجاري المنتقد و نقول له: انظر الى حاسة البصر اى العين التى ينطبع بها كل مرئي يقابلها فانها ترى الاجسام و لا تدرك المعنويات المتعلقة بالمرئى.</format></p>"
+        },
+        {
+          "paragraphId": 508385671,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"484\"><format class=\"sharh\">فمثلا اذا رأيت حجرا يرتفع فى الهواء فانك دون شك تعتقد بان هناك راميا رمى به الى الاعلى.</format></p>"
+        },
+        {
+          "paragraphId": 508385672,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"485\"><format class=\"sharh\">فهل هذا العلم حصل من قبل البصر?</format></p>"
+        },
+        {
+          "paragraphId": 508385673,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"486\"><format class=\"sharh\">كلا. فان ادراك امثال هذه الامور المعنوية هى فوق مرتبة البصر، و انما يكون من قبل العقل لانه هو الذي يميزها و من هذا التمييز يعلم ان الحجر لا يرتفع عاليا من تلقاء نفسه بل لا بد و ان يكون له رام يرميه الى فوق بقصد و ارادة.</format></p>"
+        },
+        {
+          "paragraphId": 508385674,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"487\"><format class=\"sharh\">لذلك فان البصر يقف عند حده من الرؤية و لا يتجاوزه بل لا يمكنه ان يتجاوزها لان عمله محدود.</format></p>"
+        },
+        {
+          "paragraphId": 508385675,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"488\"><format class=\"sharh\">و كذلك العقل فانه هو ايضا له حد في معرفة الخالق تعالى لا يتعداه بل</format><page number=\"100\"/><format class=\"sharh\">لا يستطيع ان يتعداه، لان قدرته و ادراكه و وظيفته محدودة كالبصر، و من كانت قدرتة مقدرة محددة كيف يمكنه ان يعرف ما فوق مرتبته.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "99",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p479\" paragraph-id=\"479\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo99\">99</span>\n    <span class=\"sharh\">للعقل دائرة محدودة و مرقى فى ادراكه معين لا يمكنه ان يرقى فوق مستواه و يدرك فوق مرتبته.</span>\n  </p>\n  <p id=\"p480\" paragraph-id=\"480\" class=\" G\">\n    <span class=\"sharh\">فانه مهما بلغ من الرفعة و العظمة فى الانسان لم يكن الا مصنوعا مخلوقا محدثا، و يستحيل ان يعرف المصنوع كنه صانعه لانه لا يماثله و لا يجانسه.</span>\n  </p>\n  <p id=\"p481\" paragraph-id=\"481\" class=\" G\">\n    <span class=\"sharh\">و على هذا فكيف يقال: لم لا يدرك الخالق بالعقل?</span>\n  </p>\n  <p id=\"p482\" paragraph-id=\"482\" class=\" G\">\n    <span class=\"sharh\">اليس هذا سؤال سخيف و استفهام صبيانى.</span>\n  </p>\n  <p id=\"p483\" paragraph-id=\"483\" class=\" G\">\n    <span class=\"sharh\">على انا نجاري المنتقد و نقول له: انظر الى حاسة البصر اى العين التى ينطبع بها كل مرئي يقابلها فانها ترى الاجسام و لا تدرك المعنويات المتعلقة بالمرئى.</span>\n  </p>\n  <p id=\"p484\" paragraph-id=\"484\" class=\" G\">\n    <span class=\"sharh\">فمثلا اذا رأيت حجرا يرتفع فى الهواء فانك دون شك تعتقد بان هناك راميا رمى به الى الاعلى.</span>\n  </p>\n  <p id=\"p485\" paragraph-id=\"485\" class=\" G\">\n    <span class=\"sharh\">فهل هذا العلم حصل من قبل البصر?</span>\n  </p>\n  <p id=\"p486\" paragraph-id=\"486\" class=\" G\">\n    <span class=\"sharh\">كلا. فان ادراك امثال هذه الامور المعنوية هى فوق مرتبة البصر، و انما يكون من قبل العقل لانه هو الذي يميزها و من هذا التمييز يعلم ان الحجر لا يرتفع عاليا من تلقاء نفسه بل لا بد و ان يكون له رام يرميه الى فوق بقصد و ارادة.</span>\n  </p>\n  <p id=\"p487\" paragraph-id=\"487\" class=\" G\">\n    <span class=\"sharh\">لذلك فان البصر يقف عند حده من الرؤية و لا يتجاوزه بل لا يمكنه ان يتجاوزها لان عمله محدود.</span>\n  </p>\n  <p id=\"p488\" paragraph-id=\"488\" class=\" G\">\n    <span class=\"sharh\">و كذلك العقل فانه هو ايضا له حد في معرفة الخالق تعالى لا يتعداه بل</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "7F8C2B7F-B782-4FB7-BB6C-35C1297B873F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

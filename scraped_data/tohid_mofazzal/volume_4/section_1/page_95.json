@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 95,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385634,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"447\"><format class=\"sharh\"><format class=\"ayah\" surah=\"22\" ayah=\"46\" toAyah=\"\">(لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهٰا)<format class=\"ayahWord\" fromWord=\"7\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"22\" ayah=\"46\" toAyah=\"\"/></format> و السبب في تعيين محله فى الدماغ دون غيره من الاعضاء لانهم راؤا ان هذا العضو إذا اصيب بشىء اختلت احكام العقل و لم تصب </format><page number=\"95\"/><format class=\"M\">الخالق فلا يعدوه، و لكن يعقله بعقل اقرّ ان فيه نفسا و لم يعاينها و لم يدركها بحاسة من الحواس. و على حسب هذا ايضا نقول ان العقل </format><format class=\"sharh\">قياساتة و احكامه.</format></p>"
+        },
+        {
+          "paragraphId": 508385635,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"448\"><format class=\"sharh\">و لان الدماغ هو منبع الحس و الحركة و مصدر الادراك و الشعور و كل هذه خدام العقل و آلائه.</format></p>"
+        },
+        {
+          "paragraphId": 508385636,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"449\"><format class=\"sharh\">فالعقل اذا محدود الادراك فى نطاق الحواس و لا يستطيع ان يدرك خارج هذا النطاق كما ان كل عضو له عمل خاص و وظيفة محدودة لا يمكنه ان يتعداها الى غيرها او ما فوقها.</format></p>"
+        },
+        {
+          "paragraphId": 508385637,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"450\"><format class=\"sharh\">اما النفس فقد قال افلاطون: انها جوهر مجرد له ذاتية الجسم و وجودها ازلى ابدي.</format></p>"
+        },
+        {
+          "paragraphId": 508385638,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"451\"><format class=\"sharh\">و قال ارسطو: هي مجموع الوظائف العضوية التي امتاز بها الكائن الحى.</format></p>"
+        },
+        {
+          "paragraphId": 508385639,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"452\"><format class=\"sharh\">ثم قسمها الى ناطقة تختص بالانسان، و حاسة يشترك فيها الانسان و الحيوان و غادية توجد في الانسان و الحيوان و النبات.</format></p>"
+        },
+        {
+          "paragraphId": 508385640,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"453\"><format class=\"sharh\">و قال ابن سينا: ان النفس لا تنشأ من امتزاج العناصر و لا هي صورة لازمة للجسم و لكنها عارضة عليه، و ان لكل جسد نفسا خاصة به لا تصلح الا له و هى تفاض عليه من واهب الصور.</format></p>"
+        },
+        {
+          "paragraphId": 508385641,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"454\"><format class=\"sharh\">و قال ابن مسكويه: النفس جوهر بسيط غير محسوس بشىء من الحواس، و هى تدرك وجود ذاتها و تعلم انها تعلم، و هي ليست بجسم لانها تقبل صور الاشياء المتناقضة اشد التناقض فى وقت واحد معا كقبولها للاسود و الابيض فى آن واحد مثلا و تقبل صور المحسوسات و المعقولات على السوية، </format><page number=\"96\"/><format class=\"M\">يعرف الخالق من جهة توجب عليه الاقرار و لا يعرفه بما يوجب له الاحاطة بصفته.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "95",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p447\" paragraph-id=\"447\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo95\">95</span>\n    <span class=\"M\">الخالق فلا يعدوه، و لكن يعقله بعقل اقرّ ان فيه نفسا و لم يعاينها و لم يدركها بحاسة من الحواس. و على حسب هذا ايضا نقول ان العقل </span>\n    <span class=\"sharh\">قياساتة و احكامه.</span>\n  </p>\n  <p id=\"p448\" paragraph-id=\"448\" class=\" G\">\n    <span class=\"sharh\">و لان الدماغ هو منبع الحس و الحركة و مصدر الادراك و الشعور و كل هذه خدام العقل و آلائه.</span>\n  </p>\n  <p id=\"p449\" paragraph-id=\"449\" class=\" G\">\n    <span class=\"sharh\">فالعقل اذا محدود الادراك فى نطاق الحواس و لا يستطيع ان يدرك خارج هذا النطاق كما ان كل عضو له عمل خاص و وظيفة محدودة لا يمكنه ان يتعداها الى غيرها او ما فوقها.</span>\n  </p>\n  <p id=\"p450\" paragraph-id=\"450\" class=\" G\">\n    <span class=\"sharh\">اما النفس فقد قال افلاطون: انها جوهر مجرد له ذاتية الجسم و وجودها ازلى ابدي.</span>\n  </p>\n  <p id=\"p451\" paragraph-id=\"451\" class=\" G\">\n    <span class=\"sharh\">و قال ارسطو: هي مجموع الوظائف العضوية التي امتاز بها الكائن الحى.</span>\n  </p>\n  <p id=\"p452\" paragraph-id=\"452\" class=\" G\">\n    <span class=\"sharh\">ثم قسمها الى ناطقة تختص بالانسان، و حاسة يشترك فيها الانسان و الحيوان و غادية توجد في الانسان و الحيوان و النبات.</span>\n  </p>\n  <p id=\"p453\" paragraph-id=\"453\" class=\" G\">\n    <span class=\"sharh\">و قال ابن سينا: ان النفس لا تنشأ من امتزاج العناصر و لا هي صورة لازمة للجسم و لكنها عارضة عليه، و ان لكل جسد نفسا خاصة به لا تصلح الا له و هى تفاض عليه من واهب الصور.</span>\n  </p>\n  <p id=\"p454\" paragraph-id=\"454\" class=\" G\">\n    <span class=\"sharh\">و قال ابن مسكويه: النفس جوهر بسيط غير محسوس بشىء من الحواس، و هى تدرك وجود ذاتها و تعلم انها تعلم، و هي ليست بجسم لانها تقبل صور الاشياء المتناقضة اشد التناقض فى وقت واحد معا كقبولها للاسود و الابيض فى آن واحد مثلا و تقبل صور المحسوسات و المعقولات على السوية، </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "DFA8EFBE-4B0A-417A-B8D9-23EE5E54D3DB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

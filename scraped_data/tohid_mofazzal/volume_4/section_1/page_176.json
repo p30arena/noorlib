@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 176,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386477,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"871\"><page number=\"176\"/>(18) ضمنت لمن اقتصد ان لا يفتقر</p>"
+        },
+        {
+          "paragraphId": 508386478,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"872\">(19) لو اقتصد الناس فى المطعم لاستقامت ابدانهم</p>"
+        },
+        {
+          "paragraphId": 508386479,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"873\">(20) لا عيش احسن من حسن الخلق و لا مال انفع من القناعة باليسير المجزى و لا جهل اضر من العجب</p>"
+        },
+        {
+          "paragraphId": 508386480,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"874\">هذه بعض كلمه الطيب و جوامع كلمه نكتفى بها و لو اردنا بيان كلما ذكرته الكتب و تحلت به الصحائف لضاق بنا مجال هذه الكراسة فان كنوز حكمه لا تعادل بثمن و لئالي بحر علومه لا تنال كلها لبعد غورها سلام اللّه عليه</p>"
+        },
+        {
+          "paragraphId": 508386481,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"875\"><page number=\"177\"/><heading level=\"3\">أشهر المؤلفين من تلامذته </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "176",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p871\" paragraph-id=\"871\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo176\">176</span>(18) ضمنت لمن اقتصد ان لا يفتقر</p>\n  <p id=\"p872\" paragraph-id=\"872\" class=\" G\">(19) لو اقتصد الناس فى المطعم لاستقامت ابدانهم</p>\n  <p id=\"p873\" paragraph-id=\"873\" class=\" G\">(20) لا عيش احسن من حسن الخلق و لا مال انفع من القناعة باليسير المجزى و لا جهل اضر من العجب</p>\n  <p id=\"p874\" paragraph-id=\"874\" class=\" G\">هذه بعض كلمه الطيب و جوامع كلمه نكتفى بها و لو اردنا بيان كلما ذكرته الكتب و تحلت به الصحائف لضاق بنا مجال هذه الكراسة فان كنوز حكمه لا تعادل بثمن و لئالي بحر علومه لا تنال كلها لبعد غورها سلام اللّه عليه</p>\n  <p id=\"p875\" paragraph-id=\"875\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "4F18CC12-90BB-425A-95D9-309600102B51",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

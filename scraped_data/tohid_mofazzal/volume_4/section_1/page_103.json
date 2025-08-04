@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 103,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385686,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"499\"><format class=\"sharh\">فلو فرض ان اتاه احد رعاياه و طلب عنه ان يعرض عليه نفسه لينظر الي شكله و يحيط باوصافه قائلا له انى لا اطيعك و لا اعترف لك بملوكية و سلطان </format><page number=\"103\"/><format class=\"M\">ترى ان رجلا لو اتى باب الملك فقال: اعرض على نفسك حتى انقصى معرفتك و الا لم اسمع لك. كان قد احل نفسه بالعقوبة فكذا القائل انه لا يقر بالخالق سبحانه حتى يحيط بكنهه متعرضا لسخطه </format><format class=\"sharh\">حتى اتقصى معرفتك.</format></p>"
+        },
+        {
+          "paragraphId": 508385687,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"500\"><format class=\"sharh\">فان مثل هذا الرجل بدون شك كان قد احل نفسه بالعقوبة اذ طلب من الملك ما لم يكلفه به و تجاسر بهذا الطلب على مقامه السامي و كذلك يكون القائل من العباد بالنسبة الى اللّه تعالى: انى لا اقر بالخالق حتى احيط بكنه ذاته او جليل صفاته فانه كان متعرضا لسخطه و عقابه.</format></p>"
+        },
+        {
+          "paragraphId": 508386107,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"501\"><format class=\"sharh\">ثم ان هذا الطلب و ان كان تجاسرا من العبد بالنسبة للّه تعالى فانه فوق ذلك مستحيل عليه سبحانه اذ لم يكن جسما و لا هو كالملك مخلوقا حادتا محتاجا فان كان الملك لا تطلب معرفته بذاته و مخصصاته و هو بشر مثلنا و مخلوق حادث محتاج فكيف بواجب الوجود الخلاق العظيم.</format></p>"
+        },
+        {
+          "paragraphId": 508386108,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"502\"><format class=\"sharh\">تعالى اللّه عن ذلك علوا كبيرا.</format></p>"
+        },
+        {
+          "paragraphId": 508386109,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"503\"><page number=\"104\"/><heading level=\"3\">الأمثال تقود العقل الى معرفة اللّه</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "103",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p499\" paragraph-id=\"499\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo103\">103</span>\n    <span class=\"M\">ترى ان رجلا لو اتى باب الملك فقال: اعرض على نفسك حتى انقصى معرفتك و الا لم اسمع لك. كان قد احل نفسه بالعقوبة فكذا القائل انه لا يقر بالخالق سبحانه حتى يحيط بكنهه متعرضا لسخطه </span>\n    <span class=\"sharh\">حتى اتقصى معرفتك.</span>\n  </p>\n  <p id=\"p500\" paragraph-id=\"500\" class=\" G\">\n    <span class=\"sharh\">فان مثل هذا الرجل بدون شك كان قد احل نفسه بالعقوبة اذ طلب من الملك ما لم يكلفه به و تجاسر بهذا الطلب على مقامه السامي و كذلك يكون القائل من العباد بالنسبة الى اللّه تعالى: انى لا اقر بالخالق حتى احيط بكنه ذاته او جليل صفاته فانه كان متعرضا لسخطه و عقابه.</span>\n  </p>\n  <p id=\"p501\" paragraph-id=\"501\" class=\" G\">\n    <span class=\"sharh\">ثم ان هذا الطلب و ان كان تجاسرا من العبد بالنسبة للّه تعالى فانه فوق ذلك مستحيل عليه سبحانه اذ لم يكن جسما و لا هو كالملك مخلوقا حادتا محتاجا فان كان الملك لا تطلب معرفته بذاته و مخصصاته و هو بشر مثلنا و مخلوق حادث محتاج فكيف بواجب الوجود الخلاق العظيم.</span>\n  </p>\n  <p id=\"p502\" paragraph-id=\"502\" class=\" G\">\n    <span class=\"sharh\">تعالى اللّه عن ذلك علوا كبيرا.</span>\n  </p>\n  <p id=\"p503\" paragraph-id=\"503\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "913D17D7-9A6F-42B9-8E87-1CD05D60A779",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

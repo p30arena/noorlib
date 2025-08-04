@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 141,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386288,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"682\"><format class=\"sharh\">اي كل ما يسكن جوف الارض من المخلوق لكى تدرك عظمة الخالق و حكمة الصانع و علم الباريء و سلطنة المالك المطلق رب العالمين حتى يكون ما وعيته جزءا من اجزاء و غيضا من فيض و قليلا من كثير و قطرة من بحر </format><page number=\"141\"/><format class=\"sharh\">عظمته و جبروته جل و علا.</format></p>"
+        },
+        {
+          "paragraphId": 508386289,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"683\"><format class=\"sharh\">و الان انصرف اذا شئت مصاحبا للسلامة و العافية مكلؤا محفوظا بعين عناية اللّه فانت منا بالمكان الرفيع لانك سمعت فوعيت و وعيت فاعتبرت حتى وضح لك الحق فآمنت و واليت و عرفت الباطل فعاديت لذلك اصبحت و موضعك من قلوب المؤمنين موضع الماء من الصدى يتلهفون لرؤيتك و يطلبون الاجتماع بك للاستفادة منك و ختاما لا تسألن عما اوعدتك حتى احدث لك منه ذكرا.</format></p>"
+        },
+        {
+          "paragraphId": 508386290,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"684\"><format class=\"sharh\">و السلام على من اتبع الهدى:</format></p>"
+        },
+        {
+          "paragraphId": 508386291,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"685\"><format class=\"sharh\">قال المفضل فانصرفت من عند مولاى بما لم ينصرف احد بمثله. و آخر دعوانا الحمد للّه رب العالمين.</format></p>"
+        },
+        {
+          "paragraphId": 508386292,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"686\"><format class=\"sharh\">و الصلاة على محمد صلى اللّه عليه و آله و على آله الطاهرين و صحبه الميامين.</format></p>"
+        },
+        {
+          "paragraphId": 508386293,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"687\"><page number=\"142\"/><heading level=\"2\">مسك الختام في إضمامة من حياة الإمام عليه السلام</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "141",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p682\" paragraph-id=\"682\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo141\">141</span>\n    <span class=\"sharh\">عظمته و جبروته جل و علا.</span>\n  </p>\n  <p id=\"p683\" paragraph-id=\"683\" class=\" G\">\n    <span class=\"sharh\">و الان انصرف اذا شئت مصاحبا للسلامة و العافية مكلؤا محفوظا بعين عناية اللّه فانت منا بالمكان الرفيع لانك سمعت فوعيت و وعيت فاعتبرت حتى وضح لك الحق فآمنت و واليت و عرفت الباطل فعاديت لذلك اصبحت و موضعك من قلوب المؤمنين موضع الماء من الصدى يتلهفون لرؤيتك و يطلبون الاجتماع بك للاستفادة منك و ختاما لا تسألن عما اوعدتك حتى احدث لك منه ذكرا.</span>\n  </p>\n  <p id=\"p684\" paragraph-id=\"684\" class=\" G\">\n    <span class=\"sharh\">و السلام على من اتبع الهدى:</span>\n  </p>\n  <p id=\"p685\" paragraph-id=\"685\" class=\" G\">\n    <span class=\"sharh\">قال المفضل فانصرفت من عند مولاى بما لم ينصرف احد بمثله. و آخر دعوانا الحمد للّه رب العالمين.</span>\n  </p>\n  <p id=\"p686\" paragraph-id=\"686\" class=\" G\">\n    <span class=\"sharh\">و الصلاة على محمد صلى اللّه عليه و آله و على آله الطاهرين و صحبه الميامين.</span>\n  </p>\n  <p id=\"p687\" paragraph-id=\"687\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "E7928DC5-A896-48F0-8085-8C38ABB690FC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

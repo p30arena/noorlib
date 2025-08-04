@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 160,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386383,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"777\"><page number=\"160\"/><format class=\"sharh\">نور قسماته شاهد انه من سلالة النبوة و طهارة افعاله تصدع بانه من ورثة الرسالة الخ.</format></p>"
+        },
+        {
+          "paragraphId": 508386384,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"778\"><format class=\"sharh\">الى كثير غيرها مما لا يسع ذكره هذه الكراسة المختصرة فان ما ذكرته الكتب و نطق به العلماء و ذوو الفضل و حتى الاعداء و المناوؤن له لا يحويه كتاب.</format></p>"
+        },
+        {
+          "paragraphId": 508386385,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"779\"><format class=\"sharh\">و انما اردنا هنا ان نعطيك نموذجا مما له فى القلوب من المكانة ولدى ذوى العلوم و العقول من الاكبار و الاعظام صلى الله عليه و سلم.</format></p>"
+        },
+        {
+          "paragraphId": 508386386,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"780\"><page number=\"161\"/><heading level=\"3\">مدرسته</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "160",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p777\" paragraph-id=\"777\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo160\">160</span>\n    <span class=\"sharh\">نور قسماته شاهد انه من سلالة النبوة و طهارة افعاله تصدع بانه من ورثة الرسالة الخ.</span>\n  </p>\n  <p id=\"p778\" paragraph-id=\"778\" class=\" G\">\n    <span class=\"sharh\">الى كثير غيرها مما لا يسع ذكره هذه الكراسة المختصرة فان ما ذكرته الكتب و نطق به العلماء و ذوو الفضل و حتى الاعداء و المناوؤن له لا يحويه كتاب.</span>\n  </p>\n  <p id=\"p779\" paragraph-id=\"779\" class=\" G\">\n    <span class=\"sharh\">و انما اردنا هنا ان نعطيك نموذجا مما له فى القلوب من المكانة ولدى ذوى العلوم و العقول من الاكبار و الاعظام صلى الله عليه و سلم.</span>\n  </p>\n  <p id=\"p780\" paragraph-id=\"780\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "A1AC3390-F3F5-4B7A-8A33-635D7ABBD80A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 87,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386099,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"412\"><format class=\"sharh\">ثم ان هؤلاء المنتقدين الذين يحسبون انهم يدركون كنه الامور و حقيقة الاشياء و يرون فى بعض الاشياء المخلوقه ما يوافق حكمتهم و صوابهم المزعوم و ينطبق على قياسهم الذي جعلوه معيارا لتدبيرهم لو كانوا واجدين بالتحري </format><page number=\"87\"/><format class=\"sharh\">ان نصف العالم و ما فيه مشكلا صوابه فهل من حزم الرأي او سمت الادب ان يقضى على العالم كله بالاهمال محتجا بان في النصف الاخر لم تدرك حكمة ما يقع فيه و ما يصدر على اهله.</format></p>"
+        },
+        {
+          "paragraphId": 508386100,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"413\"><format class=\"sharh\">الم يردعهم عن امثال هذه الآنتقادات الواهية ما وجدوه فى النصف الاول من الصواب و الاتقان.</format></p>"
+        },
+        {
+          "paragraphId": 508386101,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"414\"><format class=\"sharh\">الم يمنعهم ذلك الوهم عن التسرع فى الحكم على العالم بانه لا حكمة فيه و لا تدبير، على انه في الحقيقة و الواقع لو فتش العالم لوجد دون ريب انه على غاية الصواب و لرؤى ان في كل كلى و جزئى منه شاهد جلى ينطق مصرحا بالصواب و التدبير.</format></p>"
+        },
+        {
+          "paragraphId": 508386102,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"415\"><format class=\"sharh\">بل و لن يخطر فى بال اى انسان شىء من هذه المخلوقات الا كان ما هو عليه هو الاصوب الا حكم الاصح الاتقن مما يتصوره الجاحدون و يتخيله المنكرون. اجارنا اللّه من الجهل المقيت.</format></p>"
+        },
+        {
+          "paragraphId": 508386103,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"416\"><page number=\"88\"/><heading level=\"3\">العالم زينة</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "87",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p412\" paragraph-id=\"412\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo87\">87</span>\n    <span class=\"sharh\">ان نصف العالم و ما فيه مشكلا صوابه فهل من حزم الرأي او سمت الادب ان يقضى على العالم كله بالاهمال محتجا بان في النصف الاخر لم تدرك حكمة ما يقع فيه و ما يصدر على اهله.</span>\n  </p>\n  <p id=\"p413\" paragraph-id=\"413\" class=\" G\">\n    <span class=\"sharh\">الم يردعهم عن امثال هذه الآنتقادات الواهية ما وجدوه فى النصف الاول من الصواب و الاتقان.</span>\n  </p>\n  <p id=\"p414\" paragraph-id=\"414\" class=\" G\">\n    <span class=\"sharh\">الم يمنعهم ذلك الوهم عن التسرع فى الحكم على العالم بانه لا حكمة فيه و لا تدبير، على انه في الحقيقة و الواقع لو فتش العالم لوجد دون ريب انه على غاية الصواب و لرؤى ان في كل كلى و جزئى منه شاهد جلى ينطق مصرحا بالصواب و التدبير.</span>\n  </p>\n  <p id=\"p415\" paragraph-id=\"415\" class=\" G\">\n    <span class=\"sharh\">بل و لن يخطر فى بال اى انسان شىء من هذه المخلوقات الا كان ما هو عليه هو الاصوب الا حكم الاصح الاتقن مما يتصوره الجاحدون و يتخيله المنكرون. اجارنا اللّه من الجهل المقيت.</span>\n  </p>\n  <p id=\"p416\" paragraph-id=\"416\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "DB44A534-BD84-467C-A5A0-8F35D9E5017A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

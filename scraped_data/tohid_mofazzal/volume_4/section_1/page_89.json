@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 89,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385607,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"420\"><format class=\"sharh\">ثم ان هؤلاء الفلاسفة و الذين هم دونهم من مدعى الحكمة لما نظروا الى هذا العالم بعين العلم و العقل و تفكروا ببصيرتهم فى ابداعه و اتقانه و نظامه و احكامه ادركوا ان حقيقة هذا العالم بما فيه من جزئي و كلى لم يكن مشتملا </format><page number=\"89\"/><format class=\"M\">حتى سموه زينة ليخبروا انه مع ما هو عليه من الصواب و الاتقان على غاية الحسن و البهاء.</format></p>"
+        },
+        {
+          "paragraphId": 508385608,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"421\"><format class=\"sharh\">على الابداع و القدير و النظام و الاتقان فحسب بل ان كل ما حوى مع ذلك ذو بهاء و حسن و جمال.</format></p>"
+        },
+        {
+          "paragraphId": 508385609,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"422\"><format class=\"sharh\">لذلك فقد اطلقوا عليه اسم (الزينه) او (قوسموس) باليونانية و السبب فى ذلك انهم علموا ان هذا النظام و الاتقان و غيرهما ظاهر و معلوم لدى كل متأمل ذى شعور و لكن ارادوا ان يعلموا الناس ايضا و يفهموهم ان العالم كله مخلوق بالقصد و التدبير و الارادة و التقدير و هو مع ذلك ذو بهاء و جمال فهو في الحقيقة زينة ايضا.</format></p>"
+        },
+        {
+          "paragraphId": 508385610,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"423\"><format class=\"sharh\">فسبحان اللّه احسن الخالقين</format></p>"
+        },
+        {
+          "paragraphId": 508385611,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"424\"><page number=\"90\"/><heading level=\"3\">اصناف الجاحدين</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "89",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p420\" paragraph-id=\"420\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo89\">89</span>\n    <span class=\"M\">حتى سموه زينة ليخبروا انه مع ما هو عليه من الصواب و الاتقان على غاية الحسن و البهاء.</span>\n  </p>\n  <p id=\"p421\" paragraph-id=\"421\" class=\" G\">\n    <span class=\"sharh\">على الابداع و القدير و النظام و الاتقان فحسب بل ان كل ما حوى مع ذلك ذو بهاء و حسن و جمال.</span>\n  </p>\n  <p id=\"p422\" paragraph-id=\"422\" class=\" G\">\n    <span class=\"sharh\">لذلك فقد اطلقوا عليه اسم (الزينه) او (قوسموس) باليونانية و السبب فى ذلك انهم علموا ان هذا النظام و الاتقان و غيرهما ظاهر و معلوم لدى كل متأمل ذى شعور و لكن ارادوا ان يعلموا الناس ايضا و يفهموهم ان العالم كله مخلوق بالقصد و التدبير و الارادة و التقدير و هو مع ذلك ذو بهاء و جمال فهو في الحقيقة زينة ايضا.</span>\n  </p>\n  <p id=\"p423\" paragraph-id=\"423\" class=\" G\">\n    <span class=\"sharh\">فسبحان اللّه احسن الخالقين</span>\n  </p>\n  <p id=\"p424\" paragraph-id=\"424\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "7A610B3D-ED32-450C-9C2F-F2A874293383",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

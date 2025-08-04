@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 155,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386349,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"743\"><page number=\"155\"/><format class=\"sharh\">لذلك فقد وقف عليه السلام في ذلك المجتمع الذي جمع الرذائل باسم الفضائل و حارب الدين باسم الدين امام ذلك السيل الجارف سدا منيعا فكانت سياسته الرشيدة نشر العلوم و المعارف و بث الاحكام و الحكم و افشاء الفضائل و كبح الضلالات.</format></p>"
+        },
+        {
+          "paragraphId": 508386350,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"744\"><format class=\"sharh\">كما كانت تعاليمه خدمة للشريعة و اقواله ارشادا للناس و مناظراته قلعا للبدع كل هذا و السلطتان كانتا له بالمرصاد.</format></p>"
+        },
+        {
+          "paragraphId": 508386351,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"745\"><format class=\"sharh\">و لا عجب فى ما كان يلاقيه الامام عليه السلام من تلك المكاره فان المحن تاتي على قدر ما في المرء من فضيلة و كرامة و على قدر مقامه بين الناس و محله من القلوب و النفوس.</format></p>"
+        },
+        {
+          "paragraphId": 508386352,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"746\"><page number=\"156\"/><heading level=\"3\">الصادق في انظار العلماء</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "155",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p743\" paragraph-id=\"743\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo155\">155</span>\n    <span class=\"sharh\">لذلك فقد وقف عليه السلام في ذلك المجتمع الذي جمع الرذائل باسم الفضائل و حارب الدين باسم الدين امام ذلك السيل الجارف سدا منيعا فكانت سياسته الرشيدة نشر العلوم و المعارف و بث الاحكام و الحكم و افشاء الفضائل و كبح الضلالات.</span>\n  </p>\n  <p id=\"p744\" paragraph-id=\"744\" class=\" G\">\n    <span class=\"sharh\">كما كانت تعاليمه خدمة للشريعة و اقواله ارشادا للناس و مناظراته قلعا للبدع كل هذا و السلطتان كانتا له بالمرصاد.</span>\n  </p>\n  <p id=\"p745\" paragraph-id=\"745\" class=\" G\">\n    <span class=\"sharh\">و لا عجب فى ما كان يلاقيه الامام عليه السلام من تلك المكاره فان المحن تاتي على قدر ما في المرء من فضيلة و كرامة و على قدر مقامه بين الناس و محله من القلوب و النفوس.</span>\n  </p>\n  <p id=\"p746\" paragraph-id=\"746\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "421F5F0A-454E-4B2F-8415-395FB888C4F7",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

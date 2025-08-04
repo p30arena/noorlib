@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 133,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386257,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"651\"><format class=\"sharh\">هذه كلها او بعضها قد تحدث فتحدث توقفا في نمو الجنين او بقعا مختلفة</format><page number=\"133\"/><page number=\"134\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "133",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p651\" paragraph-id=\"651\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo133\">133</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "B196D4B2-FFD5-4869-9BF8-0269AA742053",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}
