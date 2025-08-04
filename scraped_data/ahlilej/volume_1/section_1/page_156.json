@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 156,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129789,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1758\"><page number=\"156\"/><page number=\"157\"/><format class=\"q\"><format class=\"a\">بسم اللٰه الرحمٰن الرحيم</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "156",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1758\" paragraph-id=\"1758\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo156\">156</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "F9F96F09-B022-46DB-8776-CE6174595152",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

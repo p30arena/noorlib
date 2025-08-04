@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 167,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129343,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1812\"><page number=\"167\"/>[32] قوله عليه السلام: «من نبات»<lfootnote noteId=\"854\">1</lfootnote> بالإضافة على أن يكون مصدرا، أو بالتنوين ليكون «عشب» بدل بعض له.</p>"
+        },
+        {
+          "paragraphId": 704129344,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1813\">و الإقلاع<lfootnote noteId=\"855\">2</lfootnote> عن الأمر: الكف عنه.</p>"
+        },
+        {
+          "paragraphId": 704129345,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1814\">و الكر<lfootnote noteId=\"856\">3</lfootnote>: الرجوع.</p>"
+        },
+        {
+          "paragraphId": 704129346,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1815\">[33] قوله عليه السلام: «مع سكون من يسكن في الليل»<lfootnote noteId=\"857\">4</lfootnote> أي جعل في معظم المعمورة طول كل منهما و قصره على حد محدود لا يتجاوزه لئلا تفوت مصلحة كل منهما من السكون في الليل و الانتشار في النهار، و يحتمل أن يكون إشارة إلى أصل الحكمة في حصول الليل و النهار.</p>"
+        },
+        {
+          "paragraphId": 704129347,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1816\">[34] قوله عليه السلام: «و انتشار من ينتشر في الليل»<lfootnote noteId=\"858\">5</lfootnote> كالخفاش و البعوضة و سائر ما ينتشر في الليل من الهوام، و كالخائف و المسافر الذي تصلحه حركة الليل.</p>"
+        },
+        {
+          "paragraphId": 704129348,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1817\">[35] قوله تعالى: «إذا لذهب»<lfootnote noteId=\"859\">6</lfootnote> أي لو كٰان معه آلهة كمٰا يقولون لذهب كل إله منهم بما خلقه و استبد به و امتاز ملكه عن ملك الآخرين، و وقع بينهم التجاذب و التغالب كما هو حال ملوك الدنيا إذ يستحيل كونهما واجبين كاملين، و هذا شأن الناقص.</p>"
+        },
+        {
+          "paragraphId": 704129349,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1818\"><page number=\"168\"/>و يحتمل أن يكون الغرض نفي الآلهة الناقصة الممكنة التي جعلوها شريكا للواجب تعالى شأنه.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130677,
+          "text": "<footnote id=\"854\"><page number=\"167\"/><mnote>(1)</mnote> الصفحة 93، السطر 2.</footnote>"
+        },
+        {
+          "footnoteId": 704130678,
+          "text": "<footnote id=\"855\"><mnote>(2)</mnote> في قوله عليه السلام: «أقلع»، الصفحة 93، السطر 3.</footnote>"
+        },
+        {
+          "footnoteId": 704130679,
+          "text": "<footnote id=\"856\"><mnote>(3)</mnote> في قوله عليه السلام: في طول كرهما، الصفحة 94، السطر 4-5.</footnote>"
+        },
+        {
+          "footnoteId": 704130680,
+          "text": "<footnote id=\"857\"><mnote>(4)</mnote> الصفحة 94، السطر 9.</footnote>"
+        },
+        {
+          "footnoteId": 704130681,
+          "text": "<footnote id=\"858\"><mnote>(5)</mnote> الصفحة 94، السطر 10.</footnote>"
+        },
+        {
+          "footnoteId": 704130682,
+          "text": "<footnote id=\"859\"><mnote>(6)</mnote> الصفحة 94، السطر 15.</footnote>"
+        }
+      ],
+      "pageValue": "167",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1812\" paragraph-id=\"1812\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo167\">167</span>[32] قوله عليه السلام: «من نبات»<span><sup><a class=\"NewFn\" href=\"#footnote854\" title=\"(1)  الصفحة 93، السطر 2.\">1</a></sup></span> بالإضافة على أن يكون مصدرا، أو بالتنوين ليكون «عشب» بدل بعض له.</p>\n  <p id=\"p1813\" paragraph-id=\"1813\" class=\" G\">و الإقلاع<span><sup><a class=\"NewFn\" href=\"#footnote855\" title=\"(2)  في قوله عليه السلام: «أقلع»، الصفحة 93، السطر 3.\">2</a></sup></span> عن الأمر: الكف عنه.</p>\n  <p id=\"p1814\" paragraph-id=\"1814\" class=\" G\">و الكر<span><sup><a class=\"NewFn\" href=\"#footnote856\" title=\"(3)  في قوله عليه السلام: في طول كرهما، الصفحة 94، السطر 4-5.\">3</a></sup></span>: الرجوع.</p>\n  <p id=\"p1815\" paragraph-id=\"1815\" class=\" G\">[33] قوله عليه السلام: «مع سكون من يسكن في الليل»<span><sup><a class=\"NewFn\" href=\"#footnote857\" title=\"(4)  الصفحة 94، السطر 9.\">4</a></sup></span> أي جعل في معظم المعمورة طول كل منهما و قصره على حد محدود لا يتجاوزه لئلا تفوت مصلحة كل منهما من السكون في الليل و الانتشار في النهار، و يحتمل أن يكون إشارة إلى أصل الحكمة في حصول الليل و النهار.</p>\n  <p id=\"p1816\" paragraph-id=\"1816\" class=\" G\">[34] قوله عليه السلام: «و انتشار من ينتشر في الليل»<span><sup><a class=\"NewFn\" href=\"#footnote858\" title=\"(5)  الصفحة 94، السطر 10.\">5</a></sup></span> كالخفاش و البعوضة و سائر ما ينتشر في الليل من الهوام، و كالخائف و المسافر الذي تصلحه حركة الليل.</p>\n  <p id=\"p1817\" paragraph-id=\"1817\" class=\" G\">[35] قوله تعالى: «إذا لذهب»<span><sup><a class=\"NewFn\" href=\"#footnote859\" title=\"(6)  الصفحة 94، السطر 15.\">6</a></sup></span> أي لو كٰان معه آلهة كمٰا يقولون لذهب كل إله منهم بما خلقه و استبد به و امتاز ملكه عن ملك الآخرين، و وقع بينهم التجاذب و التغالب كما هو حال ملوك الدنيا إذ يستحيل كونهما واجبين كاملين، و هذا شأن الناقص.</p>\n  <p id=\"p1818\" paragraph-id=\"1818\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote854\" footnote-id=\"854\">(1) <page number=\"167\" /> الصفحة 93، السطر 2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote855\" footnote-id=\"855\">(2)  في قوله عليه السلام: «أقلع»، الصفحة 93، السطر 3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote856\" footnote-id=\"856\">(3)  في قوله عليه السلام: في طول كرهما، الصفحة 94، السطر 4-5.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote857\" footnote-id=\"857\">(4)  الصفحة 94، السطر 9.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote858\" footnote-id=\"858\">(5)  الصفحة 94، السطر 10.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote859\" footnote-id=\"859\">(6)  الصفحة 94، السطر 15.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "BE672C73-F5BE-40D4-9F69-66F3C6E2BB72",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

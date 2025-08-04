@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 177,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129394,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1863\"><page number=\"177\"/>[60] قوله: «و مستقر»<lfootnote noteId=\"895\">1</lfootnote> اسم مكان معطوف على الأدواء.</p>"
+        },
+        {
+          "paragraphId": 704129395,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1864\">[61] قوله عليه السلام: «هو الأول بلا كيف»<lfootnote noteId=\"896\">2</lfootnote> أي كان أزليا من غير اتصاف بكيفية، أو من غير أن تعرف كيفية أوليته بمقارنة زمان قديم بل بلا زمان.</p>"
+        },
+        {
+          "paragraphId": 704129396,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1865\">[62] قوله عليه السلام: «لا من شيء و لا كيف»<lfootnote noteId=\"897\">3</lfootnote> أي لا من مادة و لا من شبه و مثال و تصور و خيال تمثل فيه كيفية الخلق ثم خلق على مثال ذلك كما في المخلوقين.</p>"
+        },
+        {
+          "paragraphId": 704129397,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1866\">قوله عليه السلام ثانيا: «و لا كيف» أي ليس لخلقه و إيجاده كيفية كما في المخلوقين من حركة و مزاولة عمل، فكما أنه لا كيف لذاته لا كيف لإيجاده، و إذا وصف خلقه و إيجاده بالكيف فهو يرجع إلى كيفية مخلوقه، فإذا قيل: </p>"
+        },
+        {
+          "paragraphId": 704129398,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1867\">كيف خلق الأشياء فالمعنى الصحيح له «كيف مخلوقاته»، لا أنه «كيف كان فعله و إيجاده»، و إليه أشار عليه السلام بقوله: «و إنما الكيف بكيفية<lfootnote noteId=\"898\">4</lfootnote> المخلوق»<lfootnote noteId=\"899\">5</lfootnote>ثم علل ذلك بأن هذه صفات المحدثين، و هو الأول لا بدء له و لا شبه فكيف يتصف بها.</p>"
+        },
+        {
+          "paragraphId": 704129399,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1868\">[63] قوله عليه السلام: «الذي خلق»<lfootnote noteId=\"900\">6</lfootnote> خبر مبتدأ محذوف أي هو الذي.</p>"
+        },
+        {
+          "paragraphId": 704129400,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1869\">[64] و قوله عليه السلام: «و تصريف الرياح»<lfootnote noteId=\"901\">7</lfootnote> هو عطف على الخلق العظيم، </p>"
+        },
+        {
+          "paragraphId": 704129401,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1870\"><page number=\"178\"/>و يحتمل العطف على قوله: «مثل الأرض».</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130718,
+          "text": "<footnote id=\"895\"><page number=\"177\"/><mnote>(1)</mnote> الصفحة 149، السطر 3.</footnote>"
+        },
+        {
+          "footnoteId": 704130719,
+          "text": "<footnote id=\"896\"><mnote>(2)</mnote> الصفحة 149، السطر 10.</footnote>"
+        },
+        {
+          "footnoteId": 704130720,
+          "text": "<footnote id=\"897\"><mnote>(3)</mnote> الصفحة 149، السطر 11.</footnote>"
+        },
+        {
+          "footnoteId": 704130721,
+          "text": "<footnote id=\"898\"><mnote>(4)</mnote> في النسخة: كيفية. و المثبت بمقتضى ما مر من المتن.</footnote>"
+        },
+        {
+          "footnoteId": 704130722,
+          "text": "<footnote id=\"899\"><mnote>(5)</mnote> الصفحة 149، السطر 12.</footnote>"
+        },
+        {
+          "footnoteId": 704130723,
+          "text": "<footnote id=\"900\"><mnote>(6)</mnote> الصفحة 149، السطر 16.</footnote>"
+        },
+        {
+          "footnoteId": 704130724,
+          "text": "<footnote id=\"901\"><mnote>(7)</mnote> الصفحة 150، السطر 1.</footnote>"
+        }
+      ],
+      "pageValue": "177",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1863\" paragraph-id=\"1863\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo177\">177</span>[60] قوله: «و مستقر»<span><sup><a class=\"NewFn\" href=\"#footnote895\" title=\"(1)  الصفحة 149، السطر 3.\">1</a></sup></span> اسم مكان معطوف على الأدواء.</p>\n  <p id=\"p1864\" paragraph-id=\"1864\" class=\" G\">[61] قوله عليه السلام: «هو الأول بلا كيف»<span><sup><a class=\"NewFn\" href=\"#footnote896\" title=\"(2)  الصفحة 149، السطر 10.\">2</a></sup></span> أي كان أزليا من غير اتصاف بكيفية، أو من غير أن تعرف كيفية أوليته بمقارنة زمان قديم بل بلا زمان.</p>\n  <p id=\"p1865\" paragraph-id=\"1865\" class=\" G\">[62] قوله عليه السلام: «لا من شيء و لا كيف»<span><sup><a class=\"NewFn\" href=\"#footnote897\" title=\"(3)  الصفحة 149، السطر 11.\">3</a></sup></span> أي لا من مادة و لا من شبه و مثال و تصور و خيال تمثل فيه كيفية الخلق ثم خلق على مثال ذلك كما في المخلوقين.</p>\n  <p id=\"p1866\" paragraph-id=\"1866\" class=\" G\">قوله عليه السلام ثانيا: «و لا كيف» أي ليس لخلقه و إيجاده كيفية كما في المخلوقين من حركة و مزاولة عمل، فكما أنه لا كيف لذاته لا كيف لإيجاده، و إذا وصف خلقه و إيجاده بالكيف فهو يرجع إلى كيفية مخلوقه، فإذا قيل: </p>\n  <p id=\"p1867\" paragraph-id=\"1867\" class=\" G\">كيف خلق الأشياء فالمعنى الصحيح له «كيف مخلوقاته»، لا أنه «كيف كان فعله و إيجاده»، و إليه أشار عليه السلام بقوله: «و إنما الكيف بكيفية<span><sup><a class=\"NewFn\" href=\"#footnote898\" title=\"(4)  في النسخة: كيفية. و المثبت بمقتضى ما مر من المتن.\">4</a></sup></span> المخلوق»<span><sup><a class=\"NewFn\" href=\"#footnote899\" title=\"(5)  الصفحة 149، السطر 12.\">5</a></sup></span>ثم علل ذلك بأن هذه صفات المحدثين، و هو الأول لا بدء له و لا شبه فكيف يتصف بها.</p>\n  <p id=\"p1868\" paragraph-id=\"1868\" class=\" G\">[63] قوله عليه السلام: «الذي خلق»<span><sup><a class=\"NewFn\" href=\"#footnote900\" title=\"(6)  الصفحة 149، السطر 16.\">6</a></sup></span> خبر مبتدأ محذوف أي هو الذي.</p>\n  <p id=\"p1869\" paragraph-id=\"1869\" class=\" G\">[64] و قوله عليه السلام: «و تصريف الرياح»<span><sup><a class=\"NewFn\" href=\"#footnote901\" title=\"(7)  الصفحة 150، السطر 1.\">7</a></sup></span> هو عطف على الخلق العظيم، </p>\n  <p id=\"p1870\" paragraph-id=\"1870\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote895\" footnote-id=\"895\">(1) <page number=\"177\" /> الصفحة 149، السطر 3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote896\" footnote-id=\"896\">(2)  الصفحة 149، السطر 10.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote897\" footnote-id=\"897\">(3)  الصفحة 149، السطر 11.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote898\" footnote-id=\"898\">(4)  في النسخة: كيفية. و المثبت بمقتضى ما مر من المتن.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote899\" footnote-id=\"899\">(5)  الصفحة 149، السطر 12.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote900\" footnote-id=\"900\">(6)  الصفحة 149، السطر 16.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote901\" footnote-id=\"901\">(7)  الصفحة 150، السطر 1.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "B0CEF637-5A9B-4275-A318-50C583F11FFD",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

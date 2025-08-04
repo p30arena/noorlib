@@ -1,0 +1,111 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 98,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129458,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1427\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\"><page number=\"98\"/>قَالَ‌: إِنَّ هَذَا لَشَيْ‌ءٌ مَا لَكَ فِيهِ حُجَّةٌ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129459,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1428\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قُلْتُ‌: و كَيْفَ ذَلِكَ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129460,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1429\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قَالَ‌: وَ هَل اَلَّذِي رَأَيْتُ فِي مَنَامِي إلاَّ)<lfootnote noteId=\"441\">1</lfootnote> بِمَنْزِلَةِ اَلسَّرَابِ اَلَّذِي يُعَايِنُهُ صَاحِبُهُ و يَنْظُرُ إِلَيْهِ لاَ يَشُكُّ فِيهِ أَنَّهُ مَاءٌ‌، فَإِذَا<lfootnote noteId=\"442\">2</lfootnote> اِنْتَهَى إِلَى مَكَانِهِ لَمْ يَجِدْهُ شَيْئاً؟! فَمَا رَأَيْتُ فِي مَنَامِي فَبِهَذِهِ المَنْزِلَةِ‌!</format></p>"
+        },
+        {
+          "paragraphId": 704129461,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1430\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قُلْتُ‌: كَيْفَ شَبَّهْتَ اَلسَّرَابَ بِمَا رَأَيْتَ فِي مَنَامِكَ مِنْ أَكْلِكَ اَلطَّعَامَ اَلْحُلْوَ و اَلْحَامِضَ‌، و مَا رَأَيْتَ مِنَ اَلْفَرَحِ و اَلْحَزَنِ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129462,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1431\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قَالَ‌: لِأَنَّ اَلسَّرَابَ حَيْثُ اِنْتَهَيْتُ إِلَى مَوْضِعِهِ صَارَ لاَ شَيْ‌ءَ‌، و كَذَلِكَ صَارَ مَا رَأَيْتُ فِي مَنَامِي حِينَ اِنْتَبَهْتُ‌!</format></p>"
+        },
+        {
+          "paragraphId": 704129463,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1432\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قُلْتُ‌: فَأَخْبِرْنِي إِنْ أَتَيْتُكَ بِأَمْرٍ وَجَدْتَ لَذَّتَهُ فِي مَنَامِكَ (و خَفَقَ لِذَلِكَ‌)<lfootnote noteId=\"443\">3</lfootnote>قَلْبُكَ‌، أ لَسْتَ تَعْلَمُ ان اَلْأَمْرَ عَلَى مَا وَصَفْتُ لَكَ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129464,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1433\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قَالَ‌: بَلَى.</format></p>"
+        },
+        {
+          "paragraphId": 704129465,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1434\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قُلْتُ‌: فَأَخْبِرْنِي هَلْ اِحْتَلَمْتَ قَطُّ حَتَّى قَضَيْتَ فِي اِمْرَأَةٍ نَهْمَتَكَ‌، عَرَفْتَهَا أَمْ لَم تَعْرِفْهَا؟</format></p>"
+        },
+        {
+          "paragraphId": 704129466,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1435\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قَالَ‌: بَلَى مَا لاَ أُحْصِيهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129467,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1436\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قُلْتُ‌: أَ لَسْتَ وَجَدْتَ لِذَلِكَ لَذَّةً عَلَى قَدْرِ لَذَّتِكَ فِي يَقَظَتِكَ (فَتَنْتَبِهَ و قَدْ أَنْزَلْتَ </format></p>"
+        },
+        {
+          "paragraphId": 704129468,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1437\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\"><page number=\"99\"/>اَلشَّهْوَةَ‌<lfootnote noteId=\"444\">1</lfootnote> حَتَّى تَخْرُجَ مِنْكَ بِقَدْرِ مَا تَخْرُجُ مِنْكَ فِي اَلْيَقَظَةِ‌، هَذَا كَسْرٌ لِحُجَّتِكَ فِي السَّرَاب)<lfootnote noteId=\"445\">2</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130264,
+          "text": "<footnote id=\"441\"><page number=\"98\"/><mnote>(1)</mnote> في «ب» «د»: إن الذي رأيت في منامي ليس بشيء إنما هو.</footnote>"
+        },
+        {
+          "footnoteId": 704130265,
+          "text": "<footnote id=\"442\"><mnote>(2)</mnote> في «أ»: إذا.</footnote>"
+        },
+        {
+          "footnoteId": 704130266,
+          "text": "<footnote id=\"443\"><mnote>(3)</mnote> في «أ» «ج‍»: و تحقق ذلك في. </footnote>"
+        }
+      ],
+      "pageValue": "98",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1427\" paragraph-id=\"1427\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo98\">98</span>قَالَ‌: إِنَّ هَذَا لَشَيْ‌ءٌ مَا لَكَ فِيهِ حُجَّةٌ‌.</span>\n  </p>\n  <p id=\"p1428\" paragraph-id=\"1428\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: و كَيْفَ ذَلِكَ؟</span>\n  </p>\n  <p id=\"p1429\" paragraph-id=\"1429\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: وَ هَل اَلَّذِي رَأَيْتُ فِي مَنَامِي إلاَّ)<span><sup><a class=\"NewFn\" href=\"#footnote441\" title=\"(1)  في «ب» «د»: إن الذي رأيت في منامي ليس بشيء إنما هو.\">1</a></sup></span> بِمَنْزِلَةِ اَلسَّرَابِ اَلَّذِي يُعَايِنُهُ صَاحِبُهُ و يَنْظُرُ إِلَيْهِ لاَ يَشُكُّ فِيهِ أَنَّهُ مَاءٌ‌، فَإِذَا<span><sup><a class=\"NewFn\" href=\"#footnote442\" title=\"(2)  في «أ»: إذا.\">2</a></sup></span> اِنْتَهَى إِلَى مَكَانِهِ لَمْ يَجِدْهُ شَيْئاً؟! فَمَا رَأَيْتُ فِي مَنَامِي فَبِهَذِهِ المَنْزِلَةِ‌!</span>\n  </p>\n  <p id=\"p1430\" paragraph-id=\"1430\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: كَيْفَ شَبَّهْتَ اَلسَّرَابَ بِمَا رَأَيْتَ فِي مَنَامِكَ مِنْ أَكْلِكَ اَلطَّعَامَ اَلْحُلْوَ و اَلْحَامِضَ‌، و مَا رَأَيْتَ مِنَ اَلْفَرَحِ و اَلْحَزَنِ؟</span>\n  </p>\n  <p id=\"p1431\" paragraph-id=\"1431\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لِأَنَّ اَلسَّرَابَ حَيْثُ اِنْتَهَيْتُ إِلَى مَوْضِعِهِ صَارَ لاَ شَيْ‌ءَ‌، و كَذَلِكَ صَارَ مَا رَأَيْتُ فِي مَنَامِي حِينَ اِنْتَبَهْتُ‌!</span>\n  </p>\n  <p id=\"p1432\" paragraph-id=\"1432\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَأَخْبِرْنِي إِنْ أَتَيْتُكَ بِأَمْرٍ وَجَدْتَ لَذَّتَهُ فِي مَنَامِكَ (و خَفَقَ لِذَلِكَ‌)<span><sup><a class=\"NewFn\" href=\"#footnote443\" title=\"(3)  في «أ» «ج‍»: و تحقق ذلك في. \">3</a></sup></span>قَلْبُكَ‌، أ لَسْتَ تَعْلَمُ ان اَلْأَمْرَ عَلَى مَا وَصَفْتُ لَكَ؟</span>\n  </p>\n  <p id=\"p1433\" paragraph-id=\"1433\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: بَلَى.</span>\n  </p>\n  <p id=\"p1434\" paragraph-id=\"1434\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَأَخْبِرْنِي هَلْ اِحْتَلَمْتَ قَطُّ حَتَّى قَضَيْتَ فِي اِمْرَأَةٍ نَهْمَتَكَ‌، عَرَفْتَهَا أَمْ لَم تَعْرِفْهَا؟</span>\n  </p>\n  <p id=\"p1435\" paragraph-id=\"1435\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: بَلَى مَا لاَ أُحْصِيهِ‌.</span>\n  </p>\n  <p id=\"p1436\" paragraph-id=\"1436\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أَ لَسْتَ وَجَدْتَ لِذَلِكَ لَذَّةً عَلَى قَدْرِ لَذَّتِكَ فِي يَقَظَتِكَ (فَتَنْتَبِهَ و قَدْ أَنْزَلْتَ </span>\n  </p>\n  <p id=\"p1437\" paragraph-id=\"1437\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote441\" footnote-id=\"441\">(1) <page number=\"98\" /> في «ب» «د»: إن الذي رأيت في منامي ليس بشيء إنما هو.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote442\" footnote-id=\"442\">(2)  في «أ»: إذا.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote443\" footnote-id=\"443\">(3)  في «أ» «ج‍»: و تحقق ذلك في. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "DF6E5E22-AFAF-4A84-A9F9-350359BBE595",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

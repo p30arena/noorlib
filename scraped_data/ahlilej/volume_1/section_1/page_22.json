@@ -1,0 +1,113 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 22,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129017,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1051\"><page number=\"22\"/>ج‍ - مسائل. رواها محمد بن الريان بن الصلت الأشعري القمي<lfootnote noteId=\"109\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129018,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1052\">د - مسائل. رواها أبو طاهر محمد بن سليمان الزراري، جد أبي غالب الزراري<lfootnote noteId=\"110\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129019,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1053\">ه‍ - مسائل. رواها محمد بن علي بن عيسى القمي<lfootnote noteId=\"111\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129020,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1054\">و - نسخة. رواها عبد الله بن محمد، أبو معاذ الحويمي<lfootnote noteId=\"112\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129021,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1055\"><heading level=\"3\">و أما الإمام الحجة بن الحسن عليه السلام.</heading></p>"
+        },
+        {
+          "paragraphId": 704129022,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1056\"> فإن توقيعاته الخارجة من ناحيته المقدسة و مكاتبات الشيعة له و مكاتباته لهم، أشهر من أن تخفى. و كان قد جمعها أبو العباس الحميري رحمه الله المتوفى سنة 299 ه‍<lfootnote noteId=\"113\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129023,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1057\"><heading level=\"2\">كتاب الإهليلجة: </heading></p>"
+        },
+        {
+          "paragraphId": 704129024,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1058\">و الذي يهمنا من هذا التسلسل الذهبي في المكتوبات و المدونات هو بيان أهميتها عند أهل البيت عليهم السلام، و أنهم كانوا يكتبون و يملون على أصحابهم و يحثونهم على الكتابة و التدوين.</p>"
+        },
+        {
+          "paragraphId": 704129025,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1059\">و بملاحظة سريعة يمكن للقارئ الوقوف على أن عددا ضخما من مؤلفات الأئمة عليهم السلام لم يصلنا، أو وصل ناقصا، أو وصل ضمن المجاميع و المسانيد، و ذلك </p>"
+        },
+        {
+          "paragraphId": 704129026,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1060\"><page number=\"23\"/>لظروف مختلفة و أسباب عديدة ليس هنا محل تفصيلها، لكن حسبك منها ما مر عليك من قول الراوي للإمام الجواد عليه السلام «إن مشايخنا رووا عن أبي جعفر و أبي عبد الله عليهما السلام و كانت التقية شديدة فكتموا كتبهم فلم ترو عنهم، فلما ماتوا صارت الكتب إلينا...»</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129932,
+          "text": "<footnote id=\"109\"><page number=\"22\"/><mnote>(1)</mnote> رجال النجاشي: 370 /رقم 1009.</footnote>"
+        },
+        {
+          "footnoteId": 704129933,
+          "text": "<footnote id=\"110\"><mnote>(2)</mnote> رجال النجاشي: 347 /رقم 937.</footnote>"
+        },
+        {
+          "footnoteId": 704129934,
+          "text": "<footnote id=\"111\"><mnote>(3)</mnote> رجال النجاشي: 371 /رقم 1010.</footnote>"
+        },
+        {
+          "footnoteId": 704129935,
+          "text": "<footnote id=\"112\"><mnote>(4)</mnote> الذريعة 152:24. و قد أفدنا في قائمة مكتوبات الأئمة من كتاب تدوين السنة الشريفة للعلامة السيد الجلالي، و من أعيان الشيعة للسيد الأمين رحمه الله.</footnote>"
+        },
+        {
+          "footnoteId": 704129936,
+          "text": "<footnote id=\"113\"><mnote>(5)</mnote> رجال النجاشي: 220 /رقم 573.</footnote>"
+        }
+      ],
+      "pageValue": "22",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1051\" paragraph-id=\"1051\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo22\">22</span>ج‍ - مسائل. رواها محمد بن الريان بن الصلت الأشعري القمي<span><sup><a class=\"NewFn\" href=\"#footnote109\" title=\"(1)  رجال النجاشي: 370 /رقم 1009.\">1</a></sup></span>.</p>\n  <p id=\"p1052\" paragraph-id=\"1052\" class=\" G\">د - مسائل. رواها أبو طاهر محمد بن سليمان الزراري، جد أبي غالب الزراري<span><sup><a class=\"NewFn\" href=\"#footnote110\" title=\"(2)  رجال النجاشي: 347 /رقم 937.\">2</a></sup></span>.</p>\n  <p id=\"p1053\" paragraph-id=\"1053\" class=\" G\">ه‍ - مسائل. رواها محمد بن علي بن عيسى القمي<span><sup><a class=\"NewFn\" href=\"#footnote111\" title=\"(3)  رجال النجاشي: 371 /رقم 1010.\">3</a></sup></span>.</p>\n  <p id=\"p1054\" paragraph-id=\"1054\" class=\" G\">و - نسخة. رواها عبد الله بن محمد، أبو معاذ الحويمي<span><sup><a class=\"NewFn\" href=\"#footnote112\" title=\"(4)  الذريعة 152:24. و قد أفدنا في قائمة مكتوبات الأئمة من كتاب تدوين السنة الشريفة للعلامة السيد الجلالي، و من أعيان الشيعة للسيد الأمين رحمه الله.\">4</a></sup></span>.</p>\n  <p id=\"p1055\" paragraph-id=\"1055\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">و أما الإمام الحجة بن الحسن عليه السلام.</strong>\n  </p>\n  <p id=\"p1056\" paragraph-id=\"1056\" class=\" G\"> فإن توقيعاته الخارجة من ناحيته المقدسة و مكاتبات الشيعة له و مكاتباته لهم، أشهر من أن تخفى. و كان قد جمعها أبو العباس الحميري رحمه الله المتوفى سنة 299 ه‍<span><sup><a class=\"NewFn\" href=\"#footnote113\" title=\"(5)  رجال النجاشي: 220 /رقم 573.\">5</a></sup></span>.</p>\n  <p id=\"p1057\" paragraph-id=\"1057\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">كتاب الإهليلجة: </strong>\n  </p>\n  <p id=\"p1058\" paragraph-id=\"1058\" class=\" G\">و الذي يهمنا من هذا التسلسل الذهبي في المكتوبات و المدونات هو بيان أهميتها عند أهل البيت عليهم السلام، و أنهم كانوا يكتبون و يملون على أصحابهم و يحثونهم على الكتابة و التدوين.</p>\n  <p id=\"p1059\" paragraph-id=\"1059\" class=\" G\">و بملاحظة سريعة يمكن للقارئ الوقوف على أن عددا ضخما من مؤلفات الأئمة عليهم السلام لم يصلنا، أو وصل ناقصا، أو وصل ضمن المجاميع و المسانيد، و ذلك </p>\n  <p id=\"p1060\" paragraph-id=\"1060\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote109\" footnote-id=\"109\">(1) <page number=\"22\" /> رجال النجاشي: 370 /رقم 1009.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote110\" footnote-id=\"110\">(2)  رجال النجاشي: 347 /رقم 937.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote111\" footnote-id=\"111\">(3)  رجال النجاشي: 371 /رقم 1010.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote112\" footnote-id=\"112\">(4)  الذريعة 152:24. و قد أفدنا في قائمة مكتوبات الأئمة من كتاب تدوين السنة الشريفة للعلامة السيد الجلالي، و من أعيان الشيعة للسيد الأمين رحمه الله.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote113\" footnote-id=\"113\">(5)  رجال النجاشي: 220 /رقم 573.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "1803CCF5-50D1-45DB-ADAB-4435B3DB326D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

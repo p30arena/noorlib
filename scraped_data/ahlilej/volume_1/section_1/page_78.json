@@ -1,0 +1,119 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 78,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128800,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1326\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"6\"><page number=\"78\"/>قَالَ‌: مَا يَحْتَمِلُ هَذَا اَلْعَقْلُ و لاَ يَقْبَلُهُ اَلْقَلْبُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704128801,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1327\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"6\">قُلْتُ‌: أَقْرَرْتَ أَنَّهَا حَدَثَتْ فِي اَلشَّجَرَةِ؟</format></p>"
+        },
+        {
+          "paragraphId": 704128802,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1328\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"6\">قَالَ‌: نَعَمْ‌، و لَكِنِّي لاَ أَعْرِفُ‌<lfootnote noteId=\"277\">1</lfootnote> أَنَّهَا مَصْنُوعَةٌ‌، فَهَلْ تَقْدِرُ أَنْ تُقَرِّرَنِي بِذَلِكَ؟</format></p>"
+        },
+        {
+          "paragraphId": 704128803,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1329\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"6\">قُلْتُ‌: نَعَمْ‌، أ رَأَيْتَ أَنِّي<lfootnote noteId=\"278\">2</lfootnote> إِنْ أَرَيْتُكَ تَدْبِيراً أ تُقِرُّ أَنَّ لَهُ مُدَبِّراً، و<lfootnote noteId=\"279\">3</lfootnote> تَصْوِيراً أَنَّ لَهُ مُصَوِّرَاً؟</format></p>"
+        },
+        {
+          "paragraphId": 704128804,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1330\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"6\">قَالَ‌: لاَ بُدَّ مِنْ ذَلِكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704128805,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1331\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"6\">قُلْتُ‌: أَ لَسْتَ تَعْلَمُ أَنَّ هَذِهِ اَلْإِهْلِيلَجَةَ لَحْمٌ رَكِبَ عَلَى عَظْمٍ فَوُضِعَ‌<lfootnote noteId=\"280\">4</lfootnote> (فِي جَوْفٍ مُتَّصِلٍ بِغُصْنٍ مُرَكَّبٍ عَلَى سَاقٍ يَقُومُ عَلَى أَصْلٍ فَيَقْوَى بِعُرُوقٍ مِنْ تَحْتِهَا)<lfootnote noteId=\"281\">5</lfootnote> عَلَى جِرْمٍ مُتَّصِلٍ بَعْضٌ‌<lfootnote noteId=\"282\">6</lfootnote> بِبَعْضٍ؟</format></p>"
+        },
+        {
+          "paragraphId": 704128806,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1332\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"6\">قَالَ‌: بَلَى.</format></p>"
+        },
+        {
+          "paragraphId": 704128807,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1333\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"6\">قُلْتُ‌: أ لَسْتَ تَعْلَمُ أَنَّ هَذِهِ اَلْإِهْلِيلَجَةَ مُصَوَّرَةٌ بِتَقْدِيرٍ و تَخْطِيطٍ، و تَأْلِيفٍ و تَرْكِيبٍ و تَفْصِيلٍ مُتَدَاخِلٍ‌<lfootnote noteId=\"283\">7</lfootnote> بِتَأْلِيفِ شَيْ‌ءٍ فِي بَعْضِ شَيْ‌ءٍ‌<lfootnote noteId=\"284\">8</lfootnote>، بِهِ طَبَقٌ بَعْدَ طَبَقٍ‌، </format></p>"
+        },
+        {
+          "paragraphId": 704128808,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1334\"><format class=\"hadith\" who=\"6\" Id=\"6\" RevayatIndex=\"6\"><page number=\"79\"/>و جِسْمٌ عَلَى جِسْمٍ‌، و لَوْنٌ مَعَ لَوْنٍ‌، أَبْيَضُ فِي صُفْرَةٍ‌، و لَيِّنٌ عَلَى شَدِيدٍ<lfootnote noteId=\"285\">1</lfootnote>، فِي طَبَائِعَ مُتَفَرِّقَةٍ‌، و طَرَائِقَ مُخْتَلِفَةٍ‌، و أَجْزَاءٍ‌<lfootnote noteId=\"286\">2</lfootnote> مُؤْتَلِفَةٍ (مَعَ لِحَاءٍ يسقيها، و عُرُوقٍ يَجْرِي فِيهَا اَلْمَاءُ‌، و وَرَقٍ يَسْتُرُهَا)<lfootnote noteId=\"287\">3</lfootnote> و يقيها مِنَ اَلشَّمْسِ أَنْ تُحْرِقَهَا، و مِنَ اَلْبَرْدِ أَنْ يُهْلِكَهُا، و اَلرِّيحِ أَنْ تَذْبِلَهَا؟</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130100,
+          "text": "<footnote id=\"277\"><page number=\"78\"/><mnote>(1)</mnote> في «ج‍»: و لكن لا أعلم.</footnote>"
+        },
+        {
+          "footnoteId": 704130101,
+          "text": "<footnote id=\"278\"><mnote>(2)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130102,
+          "text": "<footnote id=\"279\"><mnote>(3)</mnote> في «ج‍»: أو تصويرا.</footnote>"
+        },
+        {
+          "footnoteId": 704130103,
+          "text": "<footnote id=\"280\"><mnote>(4)</mnote> في نسخة بدل من «ب»: موضوع.</footnote>"
+        },
+        {
+          "footnoteId": 704130104,
+          "text": "<footnote id=\"281\"><mnote>(5)</mnote> ما بين القوسين عن نسخة بدل من «ب». لكن بناء على هذه النسخة البدل لا يوجد قوله عليه السلام: «على جرم متصل بعض ببعض». فالنص المثبت إذن ملفق عن متن النسخ و النسخة البدل من «ب».</footnote>"
+        },
+        {
+          "footnoteId": 704130105,
+          "text": "<footnote id=\"282\"><mnote>(6)</mnote> في «ج‍»: بعضها.</footnote>"
+        },
+        {
+          "footnoteId": 704130106,
+          "text": "<footnote id=\"283\"><mnote>(7)</mnote> في «أ»: مداخل.</footnote>"
+        },
+        {
+          "footnoteId": 704130107,
+          "text": "<footnote id=\"284\"><mnote>(8)</mnote> في نسخة بدل من «ب»: بتأليف شيء بعد شيء.</footnote>"
+        }
+      ],
+      "pageValue": "78",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1326\" paragraph-id=\"1326\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo78\">78</span>قَالَ‌: مَا يَحْتَمِلُ هَذَا اَلْعَقْلُ و لاَ يَقْبَلُهُ اَلْقَلْبُ‌.</span>\n  </p>\n  <p id=\"p1327\" paragraph-id=\"1327\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أَقْرَرْتَ أَنَّهَا حَدَثَتْ فِي اَلشَّجَرَةِ؟</span>\n  </p>\n  <p id=\"p1328\" paragraph-id=\"1328\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: نَعَمْ‌، و لَكِنِّي لاَ أَعْرِفُ‌<span><sup><a class=\"NewFn\" href=\"#footnote277\" title=\"(1)  في «ج‍»: و لكن لا أعلم.\">1</a></sup></span> أَنَّهَا مَصْنُوعَةٌ‌، فَهَلْ تَقْدِرُ أَنْ تُقَرِّرَنِي بِذَلِكَ؟</span>\n  </p>\n  <p id=\"p1329\" paragraph-id=\"1329\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: نَعَمْ‌، أ رَأَيْتَ أَنِّي<span><sup><a class=\"NewFn\" href=\"#footnote278\" title=\"(2)  ليست في «أ».\">2</a></sup></span> إِنْ أَرَيْتُكَ تَدْبِيراً أ تُقِرُّ أَنَّ لَهُ مُدَبِّراً، و<span><sup><a class=\"NewFn\" href=\"#footnote279\" title=\"(3)  في «ج‍»: أو تصويرا.\">3</a></sup></span> تَصْوِيراً أَنَّ لَهُ مُصَوِّرَاً؟</span>\n  </p>\n  <p id=\"p1330\" paragraph-id=\"1330\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لاَ بُدَّ مِنْ ذَلِكَ‌.</span>\n  </p>\n  <p id=\"p1331\" paragraph-id=\"1331\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أَ لَسْتَ تَعْلَمُ أَنَّ هَذِهِ اَلْإِهْلِيلَجَةَ لَحْمٌ رَكِبَ عَلَى عَظْمٍ فَوُضِعَ‌<span><sup><a class=\"NewFn\" href=\"#footnote280\" title=\"(4)  في نسخة بدل من «ب»: موضوع.\">4</a></sup></span> (فِي جَوْفٍ مُتَّصِلٍ بِغُصْنٍ مُرَكَّبٍ عَلَى سَاقٍ يَقُومُ عَلَى أَصْلٍ فَيَقْوَى بِعُرُوقٍ مِنْ تَحْتِهَا)<span><sup><a class=\"NewFn\" href=\"#footnote281\" title=\"(5)  ما بين القوسين عن نسخة بدل من «ب». لكن بناء على هذه النسخة البدل لا يوجد قوله عليه السلام: «على جرم متصل بعض ببعض». فالنص المثبت إذن ملفق عن متن النسخ و النسخة البدل من «ب».\">5</a></sup></span> عَلَى جِرْمٍ مُتَّصِلٍ بَعْضٌ‌<span><sup><a class=\"NewFn\" href=\"#footnote282\" title=\"(6)  في «ج‍»: بعضها.\">6</a></sup></span> بِبَعْضٍ؟</span>\n  </p>\n  <p id=\"p1332\" paragraph-id=\"1332\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: بَلَى.</span>\n  </p>\n  <p id=\"p1333\" paragraph-id=\"1333\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أ لَسْتَ تَعْلَمُ أَنَّ هَذِهِ اَلْإِهْلِيلَجَةَ مُصَوَّرَةٌ بِتَقْدِيرٍ و تَخْطِيطٍ، و تَأْلِيفٍ و تَرْكِيبٍ و تَفْصِيلٍ مُتَدَاخِلٍ‌<span><sup><a class=\"NewFn\" href=\"#footnote283\" title=\"(7)  في «أ»: مداخل.\">7</a></sup></span> بِتَأْلِيفِ شَيْ‌ءٍ فِي بَعْضِ شَيْ‌ءٍ‌<span><sup><a class=\"NewFn\" href=\"#footnote284\" title=\"(8)  في نسخة بدل من «ب»: بتأليف شيء بعد شيء.\">8</a></sup></span>، بِهِ طَبَقٌ بَعْدَ طَبَقٍ‌، </span>\n  </p>\n  <p id=\"p1334\" paragraph-id=\"1334\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote277\" footnote-id=\"277\">(1) <page number=\"78\" /> في «ج‍»: و لكن لا أعلم.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote278\" footnote-id=\"278\">(2)  ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote279\" footnote-id=\"279\">(3)  في «ج‍»: أو تصويرا.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote280\" footnote-id=\"280\">(4)  في نسخة بدل من «ب»: موضوع.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote281\" footnote-id=\"281\">(5)  ما بين القوسين عن نسخة بدل من «ب». لكن بناء على هذه النسخة البدل لا يوجد قوله عليه السلام: «على جرم متصل بعض ببعض». فالنص المثبت إذن ملفق عن متن النسخ و النسخة البدل من «ب».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote282\" footnote-id=\"282\">(6)  في «ج‍»: بعضها.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote283\" footnote-id=\"283\">(7)  في «أ»: مداخل.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote284\" footnote-id=\"284\">(8)  في نسخة بدل من «ب»: بتأليف شيء بعد شيء.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "07EFD6BE-08AD-4F7F-BD20-3832BC2AE9B3",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

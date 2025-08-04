@@ -1,0 +1,91 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 164,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129324,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1793\"><page number=\"164\"/>[22] قوله عليه السلام: «ألا النزوع إلى الحواس»<lfootnote noteId=\"828\">1</lfootnote> أي الاشتياق إليها، و الحاصل أنا نوافقك و نستدل لك بما تدل عليه الحواس، و إن كنت رفضتها و تركتها و سلمت فيما مضى كونها معزولة عن بعض الأشياء، فنقول: إن حكم العقل بوجود الصانع إنما هو من جهة ما دلته الحواس عليه مما نشاهده من آثار صنعه تعالى.</p>"
+        },
+        {
+          "paragraphId": 704129325,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1794\">[23] قوله عليه السلام: «فتنكشط»<lfootnote noteId=\"829\">2</lfootnote> الانكشاط: الانكشاف. و قوله تعالى: <format class=\"ayah\" surah=\"81\" ayah=\"11\" toAyah=\"\">وَ إِذَا اَلسَّمٰاءُ كُشِطَتْ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"81\" ayah=\"11\" toAyah=\"\"/></format><lfootnote noteId=\"830\">3</lfootnote> أي قلعت كما يقلع السقف، و لعل المراد بالتأخر تأخر ما يحاذي رءوسنا بحيث يرى ما وراءه، و بالتقدم أن يتحرك جميعها حركة أينية حتى يخرج من بينها، و يحتمل أن يكون المراد فيهما معا أما الأول أو الثاني، و يكون التعبير عن أحدهما بالانكشاط و عن الآخر بالزوال لمحض تفنن العبارة، و على التقادير المراد بالزوال الزوال عنا و عن محاذاتنا.</p>"
+        },
+        {
+          "paragraphId": 704129326,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1795\">[24] قوله عليه السلام: «و لا يتداعى»<lfootnote noteId=\"831\">4</lfootnote>. قال الجوهري: تداعت الحيطان للخراب، أي تهادمت<lfootnote noteId=\"832\">5</lfootnote>. و قال: انهار أي انهدم<lfootnote noteId=\"833\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129327,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1796\">[25] قوله عليه السلام: «ثم رجوعها»<lfootnote noteId=\"834\">7</lfootnote> إشارة إلى ما يعرض للمتحيرة من الرجعة و الاستقامة و الإقامة.</p>"
+        },
+        {
+          "paragraphId": 704129328,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1797\"><page number=\"165\"/>[26] و قوله عليه السلام: «و أخذها عرضا و طولا»<lfootnote noteId=\"835\">1</lfootnote> إشارة إلى كونها تارة عن جنوب المعدل، و تارة عن شمالها، و كون بعضها تارة عن جنوب منطقة البروج و تارة عن شمالها، و إلى حركة المائل في السفليين و عرض الوراب و الانحراف و الاستواء فيهما، و إلى ميل الذروة و الحضيض في المتحيرة. </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130651,
+          "text": "<footnote id=\"828\"><page number=\"164\"/><mnote>(1)</mnote> الصفحة 87، السطر 3.</footnote>"
+        },
+        {
+          "footnoteId": 704130652,
+          "text": "<footnote id=\"829\"><mnote>(2)</mnote> الصفحة 87، السطر 11.</footnote>"
+        },
+        {
+          "footnoteId": 704130653,
+          "text": "<footnote id=\"830\"><mnote>(3)</mnote> التكوير: 11.</footnote>"
+        },
+        {
+          "footnoteId": 704130654,
+          "text": "<footnote id=\"831\"><mnote>(4)</mnote> الصفحة 88، السطر 2.</footnote>"
+        },
+        {
+          "footnoteId": 704130655,
+          "text": "<footnote id=\"832\"><mnote>(5)</mnote> الصحاح 2337:6.</footnote>"
+        },
+        {
+          "footnoteId": 704130656,
+          "text": "<footnote id=\"833\"><mnote>(6)</mnote> الصحاح 856:2.</footnote>"
+        },
+        {
+          "footnoteId": 704130657,
+          "text": "<footnote id=\"834\"><mnote>(7)</mnote> الصفحة 88، السطر 5.</footnote>"
+        }
+      ],
+      "pageValue": "164",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1793\" paragraph-id=\"1793\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo164\">164</span>[22] قوله عليه السلام: «ألا النزوع إلى الحواس»<span><sup><a class=\"NewFn\" href=\"#footnote828\" title=\"(1)  الصفحة 87، السطر 3.\">1</a></sup></span> أي الاشتياق إليها، و الحاصل أنا نوافقك و نستدل لك بما تدل عليه الحواس، و إن كنت رفضتها و تركتها و سلمت فيما مضى كونها معزولة عن بعض الأشياء، فنقول: إن حكم العقل بوجود الصانع إنما هو من جهة ما دلته الحواس عليه مما نشاهده من آثار صنعه تعالى.</p>\n  <p id=\"p1794\" paragraph-id=\"1794\" class=\" G\">[23] قوله عليه السلام: «فتنكشط»<span><sup><a class=\"NewFn\" href=\"#footnote829\" title=\"(2)  الصفحة 87، السطر 11.\">2</a></sup></span> الانكشاط: الانكشاف. و قوله تعالى: <span style=\"0\" class=\"ayah\" surah=\"81\" ayah=\"11\">وَ إِذَا اَلسَّمٰاءُ كُشِطَتْ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/81/11\"></a></span></span><span><sup><a class=\"NewFn\" href=\"#footnote830\" title=\"(3)  التكوير: 11.\">3</a></sup></span> أي قلعت كما يقلع السقف، و لعل المراد بالتأخر تأخر ما يحاذي رءوسنا بحيث يرى ما وراءه، و بالتقدم أن يتحرك جميعها حركة أينية حتى يخرج من بينها، و يحتمل أن يكون المراد فيهما معا أما الأول أو الثاني، و يكون التعبير عن أحدهما بالانكشاط و عن الآخر بالزوال لمحض تفنن العبارة، و على التقادير المراد بالزوال الزوال عنا و عن محاذاتنا.</p>\n  <p id=\"p1795\" paragraph-id=\"1795\" class=\" G\">[24] قوله عليه السلام: «و لا يتداعى»<span><sup><a class=\"NewFn\" href=\"#footnote831\" title=\"(4)  الصفحة 88، السطر 2.\">4</a></sup></span>. قال الجوهري: تداعت الحيطان للخراب، أي تهادمت<span><sup><a class=\"NewFn\" href=\"#footnote832\" title=\"(5)  الصحاح 2337:6.\">5</a></sup></span>. و قال: انهار أي انهدم<span><sup><a class=\"NewFn\" href=\"#footnote833\" title=\"(6)  الصحاح 856:2.\">6</a></sup></span>.</p>\n  <p id=\"p1796\" paragraph-id=\"1796\" class=\" G\">[25] قوله عليه السلام: «ثم رجوعها»<span><sup><a class=\"NewFn\" href=\"#footnote834\" title=\"(7)  الصفحة 88، السطر 5.\">7</a></sup></span> إشارة إلى ما يعرض للمتحيرة من الرجعة و الاستقامة و الإقامة.</p>\n  <p id=\"p1797\" paragraph-id=\"1797\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote828\" footnote-id=\"828\">(1) <page number=\"164\" /> الصفحة 87، السطر 3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote829\" footnote-id=\"829\">(2)  الصفحة 87، السطر 11.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote830\" footnote-id=\"830\">(3)  التكوير: 11.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote831\" footnote-id=\"831\">(4)  الصفحة 88، السطر 2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote832\" footnote-id=\"832\">(5)  الصحاح 2337:6.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote833\" footnote-id=\"833\">(6)  الصحاح 856:2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote834\" footnote-id=\"834\">(7)  الصفحة 88، السطر 5.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "08FD688F-FC43-472D-89D0-6F1BE39D51A1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

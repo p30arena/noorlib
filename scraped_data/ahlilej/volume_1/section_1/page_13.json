@@ -1,0 +1,111 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 13,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128936,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"970\"><page number=\"13\"/>و - نسخة أحاديث. رواها خالد بن أبي كريمة<lfootnote noteId=\"36\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128937,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"971\">ز - نسخة. رواها خالد بن طهمان، أبو العلاء الخفاف<lfootnote noteId=\"37\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128938,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"972\"><heading level=\"3\">7 - الإمام الصادق عليه السلام. </heading></p>"
+        },
+        {
+          "paragraphId": 704128939,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"973\">أ - الاهليلجة. و هو الكتاب الماثل بين يديك.</p>"
+        },
+        {
+          "paragraphId": 704128940,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"974\">ب - الأهوازية. و هي رسالة كتبها الإمام عليه السلام جوابا لأسئلة عبد الله النجاشي والي الأهواز<lfootnote noteId=\"38\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128941,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"975\">ج‍ - التوحيد. و هو المعروف بتوحيد المفضل، حيث أملاه الإمام عليه السلام عليه<lfootnote noteId=\"39\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128942,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"976\">د - الجعفريات. و هو مجموعة من أحاديث الأحكام مرتبة على أبواب الفقه، رواها محمد بن الأشعث الكوفي، عن موسى بن إسماعيل، عن أبيه إسماعيل، عن الإمام الكاظم عليه السلام، عن الإمام الصادق عليه السلام. و قد تسمى بالأشعثيات نسبة إلى راويها محمد بن الاشعث<lfootnote noteId=\"40\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128943,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"977\">ه‍ - حديث الحج. قال يحيى بن سعيد: أملى علي جعفر عليه السلام الحديث الطويل، يعني في الحج<lfootnote noteId=\"41\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128944,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"978\"><page number=\"14\"/>و - رسالة إلى أصحابه عليه السلام. أوردها الكليني في الكافي<lfootnote noteId=\"42\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129859,
+          "text": "<footnote id=\"36\"><page number=\"13\"/><mnote>(1)</mnote> رجال النجاشي: 151 /رقم 396.</footnote>"
+        },
+        {
+          "footnoteId": 704129860,
+          "text": "<footnote id=\"37\"><mnote>(2)</mnote> رجال النجاشي: 151 /رقم 397.</footnote>"
+        },
+        {
+          "footnoteId": 704129861,
+          "text": "<footnote id=\"38\"><mnote>(3)</mnote> أوردها السيد ابن زهرة الحلبي في أربعينه: 46-47.</footnote>"
+        },
+        {
+          "footnoteId": 704129862,
+          "text": "<footnote id=\"39\"><mnote>(4)</mnote> و هو مطبوع عدة طبعات. و أورده النجاشي في رجاله: 416 باسم «كتاب فكر».</footnote>"
+        },
+        {
+          "footnoteId": 704129863,
+          "text": "<footnote id=\"40\"><mnote>(5)</mnote> و هو مطبوع. حيث أمر سيد الطائفة في وقته السيد البروجردي قدس سره بطبعه.</footnote>"
+        },
+        {
+          "footnoteId": 704129864,
+          "text": "<footnote id=\"41\"><mnote>(6)</mnote> تهذيب التهذيب 103:2.</footnote>"
+        }
+      ],
+      "pageValue": "13",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p970\" paragraph-id=\"970\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo13\">13</span>و - نسخة أحاديث. رواها خالد بن أبي كريمة<span><sup><a class=\"NewFn\" href=\"#footnote36\" title=\"(1)  رجال النجاشي: 151 /رقم 396.\">1</a></sup></span>.</p>\n  <p id=\"p971\" paragraph-id=\"971\" class=\" G\">ز - نسخة. رواها خالد بن طهمان، أبو العلاء الخفاف<span><sup><a class=\"NewFn\" href=\"#footnote37\" title=\"(2)  رجال النجاشي: 151 /رقم 397.\">2</a></sup></span>.</p>\n  <p id=\"p972\" paragraph-id=\"972\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">7 - الإمام الصادق عليه السلام. </strong>\n  </p>\n  <p id=\"p973\" paragraph-id=\"973\" class=\" G\">أ - الاهليلجة. و هو الكتاب الماثل بين يديك.</p>\n  <p id=\"p974\" paragraph-id=\"974\" class=\" G\">ب - الأهوازية. و هي رسالة كتبها الإمام عليه السلام جوابا لأسئلة عبد الله النجاشي والي الأهواز<span><sup><a class=\"NewFn\" href=\"#footnote38\" title=\"(3)  أوردها السيد ابن زهرة الحلبي في أربعينه: 46-47.\">3</a></sup></span>.</p>\n  <p id=\"p975\" paragraph-id=\"975\" class=\" G\">ج‍ - التوحيد. و هو المعروف بتوحيد المفضل، حيث أملاه الإمام عليه السلام عليه<span><sup><a class=\"NewFn\" href=\"#footnote39\" title=\"(4)  و هو مطبوع عدة طبعات. و أورده النجاشي في رجاله: 416 باسم «كتاب فكر».\">4</a></sup></span>.</p>\n  <p id=\"p976\" paragraph-id=\"976\" class=\" G\">د - الجعفريات. و هو مجموعة من أحاديث الأحكام مرتبة على أبواب الفقه، رواها محمد بن الأشعث الكوفي، عن موسى بن إسماعيل، عن أبيه إسماعيل، عن الإمام الكاظم عليه السلام، عن الإمام الصادق عليه السلام. و قد تسمى بالأشعثيات نسبة إلى راويها محمد بن الاشعث<span><sup><a class=\"NewFn\" href=\"#footnote40\" title=\"(5)  و هو مطبوع. حيث أمر سيد الطائفة في وقته السيد البروجردي قدس سره بطبعه.\">5</a></sup></span>.</p>\n  <p id=\"p977\" paragraph-id=\"977\" class=\" G\">ه‍ - حديث الحج. قال يحيى بن سعيد: أملى علي جعفر عليه السلام الحديث الطويل، يعني في الحج<span><sup><a class=\"NewFn\" href=\"#footnote41\" title=\"(6)  تهذيب التهذيب 103:2.\">6</a></sup></span>.</p>\n  <p id=\"p978\" paragraph-id=\"978\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote36\" footnote-id=\"36\">(1) <page number=\"13\" /> رجال النجاشي: 151 /رقم 396.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote37\" footnote-id=\"37\">(2)  رجال النجاشي: 151 /رقم 397.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote38\" footnote-id=\"38\">(3)  أوردها السيد ابن زهرة الحلبي في أربعينه: 46-47.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote39\" footnote-id=\"39\">(4)  و هو مطبوع عدة طبعات. و أورده النجاشي في رجاله: 416 باسم «كتاب فكر».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote40\" footnote-id=\"40\">(5)  و هو مطبوع. حيث أمر سيد الطائفة في وقته السيد البروجردي قدس سره بطبعه.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote41\" footnote-id=\"41\">(6)  تهذيب التهذيب 103:2.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C442C476-58DF-4967-8404-11C9E88A3E96",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

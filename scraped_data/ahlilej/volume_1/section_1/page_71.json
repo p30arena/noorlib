@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 71,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129229,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1263\"><format class=\"hadith\" who=\"6\" Id=\"3\" RevayatIndex=\"3\"><page number=\"71\"/>اَلْجَوَارِحِ‌؛ ثُمَّ قَادَ مَنْطِقُهُ عَلَى اَلْأَصْلِ اَلَّذِي وَضَعَهُ‌<lfootnote noteId=\"238\">1</lfootnote> فَقَالَ‌: لَمْ يَقَعْ شَيْ‌ءٌ مِنْ حَوَاسِّي عَلَى خَالِقٍ يُؤَدِّيهِ‌<lfootnote noteId=\"239\">2</lfootnote> إِلَى قَلْبِي، إِنْكَاراً لِلَّهِ تَعَالَى.</format></p>"
+        },
+        {
+          "paragraphId": 704129230,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1264\"><heading level=\"2\">[حصر الهندي الاستدلال بالحواس الخمس و جواب الإمام عليه السلام]</heading></p>"
+        },
+        {
+          "paragraphId": 704129231,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1265\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"4\"><format class=\"sanadHadith\"/> ثُمَّ قَالَ‌: أَخْبِرْنِي بِمَ تَحْتَجُّ فِي مَعْرِفَةِ رَبِّكَ اَلَّذِي تَصِفُ قُدْرَتَهُ و رُبُوبِيَّتَهُ‌، و إِنَّمَا يَعْرِفُ اَلْقَلْبُ اَلْأَشْيَاءَ كُلَّهَا بِالدَّلاَلاَتِ اَلْخَمْسِ اَلَّتِي وَصَفْتُ لَكَ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129232,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1266\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"4\">قُلْتُ‌: عَرَفْتُهُ‌<lfootnote noteId=\"240\">3</lfootnote> بِالْعَقْلِ اَلَّذِي فِي قَلْبِي، و اَلدَّلِيلِ اَلَّذِي أَحْتَجُّ بِهِ فِي مَعْرِفَتِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129233,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1267\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"4\">قَالَ‌: فَأَنَّى يَكُونُ مَا تَقُولُ و أَنْتَ تَعْرِفُ أَنَّ اَلْقَلْبَ لاَ يَعْرِفُ شَيْئاً بِغَيْرِ اَلْحَوَاسِّ اَلْخَمْسِ؟ فَهَلْ عَايَنْتَ رَبَّكَ بِبَصَرٍ، أَوْ سَمِعْتَ صَوْتَهُ بِأُذُنٍ‌، أَوْ شَمِمْتَهُ بِنَسِيمٍ‌، أَوْ ذُقْتَهُ بِفَمٍ‌، أَوْ مَسِسْتَهُ بِيَدٍ، فَأَدَّى ذَلِكَ اَلْمَعْرِفَةَ إِلَى قَلْبِكَ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129234,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1268\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"4\">قُلْتُ‌: أ رَأَيْتَ إِذْ<lfootnote noteId=\"241\">4</lfootnote> أَنْكَرْتَ اَللَّهَ و جَحَدْتَهُ - لِأَنَّكَ زَعَمْتَ أَنَّكَ لاَ تُحِسُّهُ‌<lfootnote noteId=\"242\">5</lfootnote>بِحَوَاسِّكَ اَلَّتِي تَعْرِفُ بِهَا اَلْأَشْيَاءَ - و أَقْرَرْتُ أَنَا بِهِ‌، هَلْ بُدٌّ مِنْ أَنْ يَكُونَ أَحَدُنَا صَادِقاً و اَلْآخَرُ كَاذِباً؟</format></p>"
+        },
+        {
+          "paragraphId": 704129235,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1269\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"4\">قَالَ‌: لاَ.</format></p>"
+        },
+        {
+          "paragraphId": 704129236,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1270\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"4\">قُلْتُ‌: أَ رَأَيْتَ إِنْ كَانَ اَلْقَوْلُ قَوْلَكَ فَهَلْ يُخَافُ عَلَيَّ شَيْ‌ءٌ مِمَّا أُخَوِّفُكَ بِهِ مِنْ عِقَابِ اللّٰهِ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129237,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1271\"><format class=\"hadith\" who=\"6\" Id=\"4\" RevayatIndex=\"4\"><page number=\"72\"/>قال: لا.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130061,
+          "text": "<footnote id=\"238\"><page number=\"71\"/><mnote>(1)</mnote> في «ج‍»: وصفه.</footnote>"
+        },
+        {
+          "footnoteId": 704130062,
+          "text": "<footnote id=\"239\"><mnote>(2)</mnote> في «ب» «ج‍» «د»: يؤدي.</footnote>"
+        },
+        {
+          "footnoteId": 704130063,
+          "text": "<footnote id=\"240\"><mnote>(3)</mnote> ليست في «ب» «د».</footnote>"
+        },
+        {
+          "footnoteId": 704130064,
+          "text": "<footnote id=\"241\"><mnote>(4)</mnote> في «ب»: إذا. و أدخلت الألف في متنها عن نسخة.</footnote>"
+        },
+        {
+          "footnoteId": 704130065,
+          "text": "<footnote id=\"242\"><mnote>(5)</mnote> في «أ»: لا تمسه.</footnote>"
+        }
+      ],
+      "pageValue": "71",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1263\" paragraph-id=\"1263\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo71\">71</span>اَلْجَوَارِحِ‌؛ ثُمَّ قَادَ مَنْطِقُهُ عَلَى اَلْأَصْلِ اَلَّذِي وَضَعَهُ‌<span><sup><a class=\"NewFn\" href=\"#footnote238\" title=\"(1)  في «ج‍»: وصفه.\">1</a></sup></span> فَقَالَ‌: لَمْ يَقَعْ شَيْ‌ءٌ مِنْ حَوَاسِّي عَلَى خَالِقٍ يُؤَدِّيهِ‌<span><sup><a class=\"NewFn\" href=\"#footnote239\" title=\"(2)  في «ب» «ج‍» «د»: يؤدي.\">2</a></sup></span> إِلَى قَلْبِي، إِنْكَاراً لِلَّهِ تَعَالَى.</span>\n  </p>\n  <p id=\"p1264\" paragraph-id=\"1264\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[حصر الهندي الاستدلال بالحواس الخمس و جواب الإمام عليه السلام]</strong>\n  </p>\n  <p id=\"p1265\" paragraph-id=\"1265\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\"></span> ثُمَّ قَالَ‌: أَخْبِرْنِي بِمَ تَحْتَجُّ فِي مَعْرِفَةِ رَبِّكَ اَلَّذِي تَصِفُ قُدْرَتَهُ و رُبُوبِيَّتَهُ‌، و إِنَّمَا يَعْرِفُ اَلْقَلْبُ اَلْأَشْيَاءَ كُلَّهَا بِالدَّلاَلاَتِ اَلْخَمْسِ اَلَّتِي وَصَفْتُ لَكَ؟</span>\n  </p>\n  <p id=\"p1266\" paragraph-id=\"1266\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: عَرَفْتُهُ‌<span><sup><a class=\"NewFn\" href=\"#footnote240\" title=\"(3)  ليست في «ب» «د».\">3</a></sup></span> بِالْعَقْلِ اَلَّذِي فِي قَلْبِي، و اَلدَّلِيلِ اَلَّذِي أَحْتَجُّ بِهِ فِي مَعْرِفَتِهِ‌.</span>\n  </p>\n  <p id=\"p1267\" paragraph-id=\"1267\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَأَنَّى يَكُونُ مَا تَقُولُ و أَنْتَ تَعْرِفُ أَنَّ اَلْقَلْبَ لاَ يَعْرِفُ شَيْئاً بِغَيْرِ اَلْحَوَاسِّ اَلْخَمْسِ؟ فَهَلْ عَايَنْتَ رَبَّكَ بِبَصَرٍ، أَوْ سَمِعْتَ صَوْتَهُ بِأُذُنٍ‌، أَوْ شَمِمْتَهُ بِنَسِيمٍ‌، أَوْ ذُقْتَهُ بِفَمٍ‌، أَوْ مَسِسْتَهُ بِيَدٍ، فَأَدَّى ذَلِكَ اَلْمَعْرِفَةَ إِلَى قَلْبِكَ؟</span>\n  </p>\n  <p id=\"p1268\" paragraph-id=\"1268\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أ رَأَيْتَ إِذْ<span><sup><a class=\"NewFn\" href=\"#footnote241\" title=\"(4)  في «ب»: إذا. و أدخلت الألف في متنها عن نسخة.\">4</a></sup></span> أَنْكَرْتَ اَللَّهَ و جَحَدْتَهُ - لِأَنَّكَ زَعَمْتَ أَنَّكَ لاَ تُحِسُّهُ‌<span><sup><a class=\"NewFn\" href=\"#footnote242\" title=\"(5)  في «أ»: لا تمسه.\">5</a></sup></span>بِحَوَاسِّكَ اَلَّتِي تَعْرِفُ بِهَا اَلْأَشْيَاءَ - و أَقْرَرْتُ أَنَا بِهِ‌، هَلْ بُدٌّ مِنْ أَنْ يَكُونَ أَحَدُنَا صَادِقاً و اَلْآخَرُ كَاذِباً؟</span>\n  </p>\n  <p id=\"p1269\" paragraph-id=\"1269\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لاَ.</span>\n  </p>\n  <p id=\"p1270\" paragraph-id=\"1270\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أَ رَأَيْتَ إِنْ كَانَ اَلْقَوْلُ قَوْلَكَ فَهَلْ يُخَافُ عَلَيَّ شَيْ‌ءٌ مِمَّا أُخَوِّفُكَ بِهِ مِنْ عِقَابِ اللّٰهِ؟</span>\n  </p>\n  <p id=\"p1271\" paragraph-id=\"1271\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote238\" footnote-id=\"238\">(1) <page number=\"71\" /> في «ج‍»: وصفه.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote239\" footnote-id=\"239\">(2)  في «ب» «ج‍» «د»: يؤدي.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote240\" footnote-id=\"240\">(3)  ليست في «ب» «د».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote241\" footnote-id=\"241\">(4)  في «ب»: إذا. و أدخلت الألف في متنها عن نسخة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote242\" footnote-id=\"242\">(5)  في «أ»: لا تمسه.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "17E21247-1543-41E3-AFB2-0A26D289BD91",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

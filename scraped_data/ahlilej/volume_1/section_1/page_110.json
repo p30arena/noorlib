@@ -1,0 +1,121 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 110,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129526,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1495\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\"><page number=\"110\"/>قُلْتُ‌: أَسْأَلُكَ كَيْفَ يَكُونُ بَعْضُهَا (سَعْداً و بَعْضُهَا نَحْساً، و بَعْضُهَا)<lfootnote noteId=\"535\">1</lfootnote> مُضِيئاً و بَعْضُهَا مُظْلِماً، و بَعْضُهَا صَغِيراً و بَعْضُهَا كَبِيراً؟</format></p>"
+        },
+        {
+          "paragraphId": 704129527,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1496\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">قَالَ‌: كَذَلِكَ أَرَادَتْ أَنْ تَكُونَ بِمَنْزِلَةِ اَلنَّاسِ‌، فَإِنَّ بَعْضَهُمْ جَمِيلٌ‌، و بَعْضَهُمْ قَبِيحٌ‌، و بَعْضَهُمْ قَصِيرٌ، و بَعْضَهُمْ طَوِيلٌ‌، و بَعْضَهُمْ أَبْيَضُ‌، و بَعْضَهُمْ أَسْوَدُ، و بَعْضَهُمْ صَالِحٌ‌، و بَعضُهُم طَالِحٌ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129528,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1497\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">قُلْتُ‌: فَالْعَجَبُ‌<lfootnote noteId=\"536\">2</lfootnote> مِنْكَ‌!! إِنِّي أُرَاوِدُكَ‌<lfootnote noteId=\"537\">3</lfootnote> مُنْذُ اَلْيَوْمِ عَلَى أَنْ تُقِرَّ بِصَانِعٍ فَلَمْ تُجِبْنِي إِلَى ذَلِكَ‌، حَتَّى كَانَ اَلْآنَ فَأَقرَرْتَ‌<lfootnote noteId=\"538\">4</lfootnote> بِأَنَّ اَلْقِرَدَةَ و اَلْخَنَازِيرَ خَلَقْنَ أَنْفُسَهُنَّ‌!</format></p>"
+        },
+        {
+          "paragraphId": 704129529,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1498\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">قَالَ‌: لَقَدْ بَهَتَّنِي<lfootnote noteId=\"539\">5</lfootnote> بِمَا لَمْ يَسْمَعِ اَلنَّاسُ مِنِّي!</format></p>"
+        },
+        {
+          "paragraphId": 704129530,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1499\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">قُلْتُ‌: أ فَمُنْكِرٌ أَنْتَ لِذَلِكَ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129531,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1500\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">قَالَ‌<lfootnote noteId=\"540\">6</lfootnote>: أَشَدُّ الإِنْكَارِ<lfootnote noteId=\"541\">7</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 704129532,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1501\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">قُلْتُ‌: فَمَنْ خَلَقَ اَلْقِرَدَةَ و اَلْخَنَازِيرَ إِنْ كَانَ اَلنَّاسُ و اَلنُّجُومُ خَلَقْنَ أَنْفُسَهُنَّ؟ فَلاَ بُدَّ مِنْ أَنْ تَقُولَ‌: إِنَّهُنَّ مِنْ خَلْقِ اَلنَّاسِ‌، أَوْ خَلَقْنَ أَنْفُسَهُنَّ‌، أ فَتَقُولُ‌: إِنَّهَا مِنْ خَلقِ النَّاسِ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129533,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1502\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">قَالَ‌: لا.</format></p>"
+        },
+        {
+          "paragraphId": 704129534,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1503\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">قُلْتُ‌: فَلاَ بُدَّ مِنْ أَنْ يَكُونَ لَهَا خَالِقٌ أَوْ هِيَ خَلَقَتْ أَنْفُسَهَا؛ فَإِنْ قُلْتَ‌: إِنَّهَا مِنْ </format></p>"
+        },
+        {
+          "paragraphId": 704129535,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1504\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\"><page number=\"111\"/>خَلْقِ اَلنَّاسِ‌، أَقْرَرْتَ أَنَّ لَهَا خَالِقاً، و إِن قُلْتَ‌: لاَ بُدَّ مِنْ‌<lfootnote noteId=\"542\">1</lfootnote> أَنْ يَكُونَ لَهَا خَالِقٌ‌، فَقَدْ<lfootnote noteId=\"543\">2</lfootnote> صَدَقْتَ و مَا أَعْرَفَنَا<lfootnote noteId=\"544\">3</lfootnote> بِهِ‌، و لَئِنْ‌<lfootnote noteId=\"545\">4</lfootnote> قُلْتَ‌: إِنَّهُنَّ خَلَقْنَ أَنْفُسَهُنَّ (رجعت إلى ما أنكرت.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130358,
+          "text": "<footnote id=\"535\"><page number=\"110\"/><mnote>(1)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130359,
+          "text": "<footnote id=\"536\"><mnote>(2)</mnote> في «أ» «ج‍»: و العجب.</footnote>"
+        },
+        {
+          "footnoteId": 704130360,
+          "text": "<footnote id=\"537\"><mnote>(3)</mnote> في «أ» «ج‍»: أديرك.</footnote>"
+        },
+        {
+          "footnoteId": 704130361,
+          "text": "<footnote id=\"538\"><mnote>(4)</mnote> في «ب» «ج‍»: أقررت.</footnote>"
+        },
+        {
+          "footnoteId": 704130362,
+          "text": "<footnote id=\"539\"><mnote>(5)</mnote> في «أ»: نبهتني.</footnote>"
+        },
+        {
+          "footnoteId": 704130363,
+          "text": "<footnote id=\"540\"><mnote>(6)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130364,
+          "text": "<footnote id=\"541\"><mnote>(7)</mnote> في «ب»: إنكار.</footnote>"
+        }
+      ],
+      "pageValue": "110",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1495\" paragraph-id=\"1495\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo110\">110</span>قُلْتُ‌: أَسْأَلُكَ كَيْفَ يَكُونُ بَعْضُهَا (سَعْداً و بَعْضُهَا نَحْساً، و بَعْضُهَا)<span><sup><a class=\"NewFn\" href=\"#footnote535\" title=\"(1)  ليست في «أ».\">1</a></sup></span> مُضِيئاً و بَعْضُهَا مُظْلِماً، و بَعْضُهَا صَغِيراً و بَعْضُهَا كَبِيراً؟</span>\n  </p>\n  <p id=\"p1496\" paragraph-id=\"1496\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: كَذَلِكَ أَرَادَتْ أَنْ تَكُونَ بِمَنْزِلَةِ اَلنَّاسِ‌، فَإِنَّ بَعْضَهُمْ جَمِيلٌ‌، و بَعْضَهُمْ قَبِيحٌ‌، و بَعْضَهُمْ قَصِيرٌ، و بَعْضَهُمْ طَوِيلٌ‌، و بَعْضَهُمْ أَبْيَضُ‌، و بَعْضَهُمْ أَسْوَدُ، و بَعْضَهُمْ صَالِحٌ‌، و بَعضُهُم طَالِحٌ‌.</span>\n  </p>\n  <p id=\"p1497\" paragraph-id=\"1497\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَالْعَجَبُ‌<span><sup><a class=\"NewFn\" href=\"#footnote536\" title=\"(2)  في «أ» «ج‍»: و العجب.\">2</a></sup></span> مِنْكَ‌!! إِنِّي أُرَاوِدُكَ‌<span><sup><a class=\"NewFn\" href=\"#footnote537\" title=\"(3)  في «أ» «ج‍»: أديرك.\">3</a></sup></span> مُنْذُ اَلْيَوْمِ عَلَى أَنْ تُقِرَّ بِصَانِعٍ فَلَمْ تُجِبْنِي إِلَى ذَلِكَ‌، حَتَّى كَانَ اَلْآنَ فَأَقرَرْتَ‌<span><sup><a class=\"NewFn\" href=\"#footnote538\" title=\"(4)  في «ب» «ج‍»: أقررت.\">4</a></sup></span> بِأَنَّ اَلْقِرَدَةَ و اَلْخَنَازِيرَ خَلَقْنَ أَنْفُسَهُنَّ‌!</span>\n  </p>\n  <p id=\"p1498\" paragraph-id=\"1498\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لَقَدْ بَهَتَّنِي<span><sup><a class=\"NewFn\" href=\"#footnote539\" title=\"(5)  في «أ»: نبهتني.\">5</a></sup></span> بِمَا لَمْ يَسْمَعِ اَلنَّاسُ مِنِّي!</span>\n  </p>\n  <p id=\"p1499\" paragraph-id=\"1499\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أ فَمُنْكِرٌ أَنْتَ لِذَلِكَ؟</span>\n  </p>\n  <p id=\"p1500\" paragraph-id=\"1500\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌<span><sup><a class=\"NewFn\" href=\"#footnote540\" title=\"(6)  ليست في «أ».\">6</a></sup></span>: أَشَدُّ الإِنْكَارِ<span><sup><a class=\"NewFn\" href=\"#footnote541\" title=\"(7)  في «ب»: إنكار.\">7</a></sup></span>.</span>\n  </p>\n  <p id=\"p1501\" paragraph-id=\"1501\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَمَنْ خَلَقَ اَلْقِرَدَةَ و اَلْخَنَازِيرَ إِنْ كَانَ اَلنَّاسُ و اَلنُّجُومُ خَلَقْنَ أَنْفُسَهُنَّ؟ فَلاَ بُدَّ مِنْ أَنْ تَقُولَ‌: إِنَّهُنَّ مِنْ خَلْقِ اَلنَّاسِ‌، أَوْ خَلَقْنَ أَنْفُسَهُنَّ‌، أ فَتَقُولُ‌: إِنَّهَا مِنْ خَلقِ النَّاسِ؟</span>\n  </p>\n  <p id=\"p1502\" paragraph-id=\"1502\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لا.</span>\n  </p>\n  <p id=\"p1503\" paragraph-id=\"1503\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَلاَ بُدَّ مِنْ أَنْ يَكُونَ لَهَا خَالِقٌ أَوْ هِيَ خَلَقَتْ أَنْفُسَهَا؛ فَإِنْ قُلْتَ‌: إِنَّهَا مِنْ </span>\n  </p>\n  <p id=\"p1504\" paragraph-id=\"1504\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote535\" footnote-id=\"535\">(1) <page number=\"110\" /> ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote536\" footnote-id=\"536\">(2)  في «أ» «ج‍»: و العجب.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote537\" footnote-id=\"537\">(3)  في «أ» «ج‍»: أديرك.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote538\" footnote-id=\"538\">(4)  في «ب» «ج‍»: أقررت.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote539\" footnote-id=\"539\">(5)  في «أ»: نبهتني.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote540\" footnote-id=\"540\">(6)  ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote541\" footnote-id=\"541\">(7)  في «ب»: إنكار.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D7CC0754-BC70-4750-A5EF-9434341F5726",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

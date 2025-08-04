@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 74,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129251,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1285\"><format class=\"hadith\" who=\"6\" Id=\"5\" RevayatIndex=\"5\"><page number=\"74\"/>اَلنُّبُوَّةِ و اَلْحُجَّةَ اَلْوَاضِحَةَ و عِبْتَهَا عَلَيَّ؟ أَخْبِرْنِي<lfootnote noteId=\"257\">1</lfootnote> هَلْ أَحَطْتَ بِالْجِهَاتِ كُلِّهَا و بَلَغْتَ مُنتَهَاهَا؟</format></p>"
+        },
+        {
+          "paragraphId": 704129252,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1286\"><format class=\"hadith\" who=\"6\" Id=\"5\" RevayatIndex=\"5\">قَالَ‌: لاَ.</format></p>"
+        },
+        {
+          "paragraphId": 704129253,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1287\"><format class=\"hadith\" who=\"6\" Id=\"5\" RevayatIndex=\"5\">قُلْتُ‌: فَهَلْ رَقِيتَ إِلَى اَلسَّمَاءِ اَلَّتِي تَرَى‌؟ أَوِ اِنْحَدَرْتَ إِلَى اَلْأَرْضِ اَلسُّفْلَى فَجُلْتَ‌<lfootnote noteId=\"258\">2</lfootnote> فِي أَقْطَارِهَا؟ أَوْ هَلْ غُصْتَ‌<lfootnote noteId=\"259\">3</lfootnote> فِي غَمَرَاتِ اَلْبُحُورِ، و اِخْتَرَقْتَ نَوَاحِيَ اَلْهَوَاءِ فِيمَا فَوْقَ اَلسَّمَاءِ و تَحْتَهَا<lfootnote noteId=\"260\">4</lfootnote> إِلَى اَلْأَرْضِ و مَا أَسْفَلَ مِنْهَا، فَوَجَدْتَ ذَلِكَ خَلاَءً مِنْ مُدَبِّرٍ حَكِيمٍ عَالِمٍ بَصِيرٍ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129254,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1288\"><format class=\"hadith\" who=\"6\" Id=\"5\" RevayatIndex=\"5\">قَالَ‌: لاَ.</format></p>"
+        },
+        {
+          "paragraphId": 704129255,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1289\"><format class=\"hadith\" who=\"6\" Id=\"5\" RevayatIndex=\"5\">قُلْتُ‌: فَمَا يُدْرِيكَ لَعَلَّ اَلَّذِي أَنْكَرَهُ قَلْبُكَ هُوَ فِي بَعْضِ مَا لَمْ تُدْرِكْهُ حَوَاسُّكَ و لَمْ يُحِطْ بِهِ عِلْمُكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129256,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1290\"><format class=\"hadith\" who=\"6\" Id=\"5\" RevayatIndex=\"5\">قَالَ‌: لاَ أَدْرِي لَعَلَّ فِي بَعْضِ مَا ذَكَرْتَ مُدَبِّراً، و مَا أَدْرِي لَعَلَّهُ لَيْسَ فِي شَيْ‌ءٍ مِنْ ذَلِكَ شَي!</format></p>"
+        },
+        {
+          "paragraphId": 704129257,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1291\"><format class=\"hadith\" who=\"6\" Id=\"5\" RevayatIndex=\"5\">قُلْتُ‌: أَمَّا إِذْ<lfootnote noteId=\"261\">5</lfootnote> خَرَجْتَ مِنْ حَدِّ اَلْإِنْكَارِ إِلَى مَنْزِلَةِ اَلشَّكِّ فَإِنِّي أَرْجُو أَنْ تَخْرُجَ إِلَى المَعْرِفَة.</format></p>"
+        },
+        {
+          "paragraphId": 704129258,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1292\"><page number=\"75\"/><heading level=\"2\">[استدلال الإمام عليه السلام بالإهليلجة]</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130080,
+          "text": "<footnote id=\"257\"><page number=\"74\"/><mnote>(1)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130081,
+          "text": "<footnote id=\"258\"><mnote>(2)</mnote> في نسخة بدل من «ب»: فدرت.</footnote>"
+        },
+        {
+          "footnoteId": 704130082,
+          "text": "<footnote id=\"259\"><mnote>(3)</mnote> في «أ» «ب» «د»: خضت. و في نسخة بدل من «ب» كالمثبت.</footnote>"
+        },
+        {
+          "footnoteId": 704130083,
+          "text": "<footnote id=\"260\"><mnote>(4)</mnote> في «ب»: أو تحتها.</footnote>"
+        },
+        {
+          "footnoteId": 704130084,
+          "text": "<footnote id=\"261\"><mnote>(5)</mnote> في «ج‍»: إذا.</footnote>"
+        }
+      ],
+      "pageValue": "74",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1285\" paragraph-id=\"1285\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo74\">74</span>اَلنُّبُوَّةِ و اَلْحُجَّةَ اَلْوَاضِحَةَ و عِبْتَهَا عَلَيَّ؟ أَخْبِرْنِي<span><sup><a class=\"NewFn\" href=\"#footnote257\" title=\"(1)  ليست في «أ».\">1</a></sup></span> هَلْ أَحَطْتَ بِالْجِهَاتِ كُلِّهَا و بَلَغْتَ مُنتَهَاهَا؟</span>\n  </p>\n  <p id=\"p1286\" paragraph-id=\"1286\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لاَ.</span>\n  </p>\n  <p id=\"p1287\" paragraph-id=\"1287\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَهَلْ رَقِيتَ إِلَى اَلسَّمَاءِ اَلَّتِي تَرَى‌؟ أَوِ اِنْحَدَرْتَ إِلَى اَلْأَرْضِ اَلسُّفْلَى فَجُلْتَ‌<span><sup><a class=\"NewFn\" href=\"#footnote258\" title=\"(2)  في نسخة بدل من «ب»: فدرت.\">2</a></sup></span> فِي أَقْطَارِهَا؟ أَوْ هَلْ غُصْتَ‌<span><sup><a class=\"NewFn\" href=\"#footnote259\" title=\"(3)  في «أ» «ب» «د»: خضت. و في نسخة بدل من «ب» كالمثبت.\">3</a></sup></span> فِي غَمَرَاتِ اَلْبُحُورِ، و اِخْتَرَقْتَ نَوَاحِيَ اَلْهَوَاءِ فِيمَا فَوْقَ اَلسَّمَاءِ و تَحْتَهَا<span><sup><a class=\"NewFn\" href=\"#footnote260\" title=\"(4)  في «ب»: أو تحتها.\">4</a></sup></span> إِلَى اَلْأَرْضِ و مَا أَسْفَلَ مِنْهَا، فَوَجَدْتَ ذَلِكَ خَلاَءً مِنْ مُدَبِّرٍ حَكِيمٍ عَالِمٍ بَصِيرٍ؟</span>\n  </p>\n  <p id=\"p1288\" paragraph-id=\"1288\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لاَ.</span>\n  </p>\n  <p id=\"p1289\" paragraph-id=\"1289\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَمَا يُدْرِيكَ لَعَلَّ اَلَّذِي أَنْكَرَهُ قَلْبُكَ هُوَ فِي بَعْضِ مَا لَمْ تُدْرِكْهُ حَوَاسُّكَ و لَمْ يُحِطْ بِهِ عِلْمُكَ‌.</span>\n  </p>\n  <p id=\"p1290\" paragraph-id=\"1290\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لاَ أَدْرِي لَعَلَّ فِي بَعْضِ مَا ذَكَرْتَ مُدَبِّراً، و مَا أَدْرِي لَعَلَّهُ لَيْسَ فِي شَيْ‌ءٍ مِنْ ذَلِكَ شَي!</span>\n  </p>\n  <p id=\"p1291\" paragraph-id=\"1291\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أَمَّا إِذْ<span><sup><a class=\"NewFn\" href=\"#footnote261\" title=\"(5)  في «ج‍»: إذا.\">5</a></sup></span> خَرَجْتَ مِنْ حَدِّ اَلْإِنْكَارِ إِلَى مَنْزِلَةِ اَلشَّكِّ فَإِنِّي أَرْجُو أَنْ تَخْرُجَ إِلَى المَعْرِفَة.</span>\n  </p>\n  <p id=\"p1292\" paragraph-id=\"1292\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote257\" footnote-id=\"257\">(1) <page number=\"74\" /> ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote258\" footnote-id=\"258\">(2)  في نسخة بدل من «ب»: فدرت.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote259\" footnote-id=\"259\">(3)  في «أ» «ب» «د»: خضت. و في نسخة بدل من «ب» كالمثبت.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote260\" footnote-id=\"260\">(4)  في «ب»: أو تحتها.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote261\" footnote-id=\"261\">(5)  في «ج‍»: إذا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "EC39BB02-411C-4112-9917-803EFDCB33F4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

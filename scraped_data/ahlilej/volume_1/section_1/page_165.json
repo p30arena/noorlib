@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 165,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129328,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1797\"><page number=\"165\"/>[26] و قوله عليه السلام: «و أخذها عرضا و طولا»<lfootnote noteId=\"835\">1</lfootnote> إشارة إلى كونها تارة عن جنوب المعدل، و تارة عن شمالها، و كون بعضها تارة عن جنوب منطقة البروج و تارة عن شمالها، و إلى حركة المائل في السفليين و عرض الوراب و الانحراف و الاستواء فيهما، و إلى ميل الذروة و الحضيض في المتحيرة. </p>"
+        },
+        {
+          "paragraphId": 704129329,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1798\">و خنوسها<lfootnote noteId=\"836\">2</lfootnote>: غيبتها و استتارها تحت شعاع الشمس.</p>"
+        },
+        {
+          "paragraphId": 704129330,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1799\">[27] قوله عليه السلام: «المنطبقة»<lfootnote noteId=\"837\">3</lfootnote> أي المحيطة بجميع الخلق، و في بعض النسخ: المظلة<lfootnote noteId=\"838\">4</lfootnote>. و «استقلها»<lfootnote noteId=\"839\">5</lfootnote> أي حملها و رفعها.</p>"
+        },
+        {
+          "paragraphId": 704129331,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1800\">[28] قوله عليه السلام: «متصلة بالسماء»<lfootnote noteId=\"840\">6</lfootnote> أي داخلة في ذلك النظام شبيهة بها فيه.</p>"
+        },
+        {
+          "paragraphId": 704129332,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1801\">[29] قوله عليه السلام: «يلمس بشيء»<lfootnote noteId=\"841\">7</lfootnote> لعل المراد الاصطكاك الذي يحصل منه صوت، و في بعض النسخ: كشيء، و يحتمل أن يكون تصحيف «يشبه بشيء».</p>"
+        },
+        {
+          "paragraphId": 704129333,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1802\">و قال الفيروزآبادي: الهصر<lfootnote noteId=\"842\">8</lfootnote>: الجذب، و الإمالة، و الكسر، و الدفع، </p>"
+        },
+        {
+          "paragraphId": 704129334,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1803\"><page number=\"166\"/>و الإدناء، و عطف شيء رطب كغصن و نحوه و كسره من غير بينونة<lfootnote noteId=\"843\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130658,
+          "text": "<footnote id=\"835\"><page number=\"165\"/><mnote>(1)</mnote> الصفحة 88، السطر 5-6.</footnote>"
+        },
+        {
+          "footnoteId": 704130659,
+          "text": "<footnote id=\"836\"><mnote>(2)</mnote> الصفحة 88، السطر 6.</footnote>"
+        },
+        {
+          "footnoteId": 704130660,
+          "text": "<footnote id=\"837\"><mnote>(3)</mnote> الصفحة 88، السطر 11.</footnote>"
+        },
+        {
+          "footnoteId": 704130661,
+          "text": "<footnote id=\"838\"><mnote>(4)</mnote> لم ترد هذه النسخة في نسخنا فلاحظ.</footnote>"
+        },
+        {
+          "footnoteId": 704130662,
+          "text": "<footnote id=\"839\"><mnote>(5)</mnote> الصفحة 89، السطر 1، و فيه «استقبلها» فلاحظ.</footnote>"
+        },
+        {
+          "footnoteId": 704130663,
+          "text": "<footnote id=\"840\"><mnote>(6)</mnote> الصفحة 90، السطر 6.</footnote>"
+        },
+        {
+          "footnoteId": 704130664,
+          "text": "<footnote id=\"841\"><mnote>(7)</mnote> الصفحة 91، السطر 5.</footnote>"
+        },
+        {
+          "footnoteId": 704130665,
+          "text": "<footnote id=\"842\"><mnote>(8)</mnote> في قوله عليه السلام «و لا يهصر»، الصفحة 91، السطر 6.</footnote>"
+        }
+      ],
+      "pageValue": "165",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1797\" paragraph-id=\"1797\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo165\">165</span>[26] و قوله عليه السلام: «و أخذها عرضا و طولا»<span><sup><a class=\"NewFn\" href=\"#footnote835\" title=\"(1)  الصفحة 88، السطر 5-6.\">1</a></sup></span> إشارة إلى كونها تارة عن جنوب المعدل، و تارة عن شمالها، و كون بعضها تارة عن جنوب منطقة البروج و تارة عن شمالها، و إلى حركة المائل في السفليين و عرض الوراب و الانحراف و الاستواء فيهما، و إلى ميل الذروة و الحضيض في المتحيرة. </p>\n  <p id=\"p1798\" paragraph-id=\"1798\" class=\" G\">و خنوسها<span><sup><a class=\"NewFn\" href=\"#footnote836\" title=\"(2)  الصفحة 88، السطر 6.\">2</a></sup></span>: غيبتها و استتارها تحت شعاع الشمس.</p>\n  <p id=\"p1799\" paragraph-id=\"1799\" class=\" G\">[27] قوله عليه السلام: «المنطبقة»<span><sup><a class=\"NewFn\" href=\"#footnote837\" title=\"(3)  الصفحة 88، السطر 11.\">3</a></sup></span> أي المحيطة بجميع الخلق، و في بعض النسخ: المظلة<span><sup><a class=\"NewFn\" href=\"#footnote838\" title=\"(4)  لم ترد هذه النسخة في نسخنا فلاحظ.\">4</a></sup></span>. و «استقلها»<span><sup><a class=\"NewFn\" href=\"#footnote839\" title=\"(5)  الصفحة 89، السطر 1، و فيه «استقبلها» فلاحظ.\">5</a></sup></span> أي حملها و رفعها.</p>\n  <p id=\"p1800\" paragraph-id=\"1800\" class=\" G\">[28] قوله عليه السلام: «متصلة بالسماء»<span><sup><a class=\"NewFn\" href=\"#footnote840\" title=\"(6)  الصفحة 90، السطر 6.\">6</a></sup></span> أي داخلة في ذلك النظام شبيهة بها فيه.</p>\n  <p id=\"p1801\" paragraph-id=\"1801\" class=\" G\">[29] قوله عليه السلام: «يلمس بشيء»<span><sup><a class=\"NewFn\" href=\"#footnote841\" title=\"(7)  الصفحة 91، السطر 5.\">7</a></sup></span> لعل المراد الاصطكاك الذي يحصل منه صوت، و في بعض النسخ: كشيء، و يحتمل أن يكون تصحيف «يشبه بشيء».</p>\n  <p id=\"p1802\" paragraph-id=\"1802\" class=\" G\">و قال الفيروزآبادي: الهصر<span><sup><a class=\"NewFn\" href=\"#footnote842\" title=\"(8)  في قوله عليه السلام «و لا يهصر»، الصفحة 91، السطر 6.\">8</a></sup></span>: الجذب، و الإمالة، و الكسر، و الدفع، </p>\n  <p id=\"p1803\" paragraph-id=\"1803\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote835\" footnote-id=\"835\">(1) <page number=\"165\" /> الصفحة 88، السطر 5-6.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote836\" footnote-id=\"836\">(2)  الصفحة 88، السطر 6.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote837\" footnote-id=\"837\">(3)  الصفحة 88، السطر 11.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote838\" footnote-id=\"838\">(4)  لم ترد هذه النسخة في نسخنا فلاحظ.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote839\" footnote-id=\"839\">(5)  الصفحة 89، السطر 1، و فيه «استقبلها» فلاحظ.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote840\" footnote-id=\"840\">(6)  الصفحة 90، السطر 6.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote841\" footnote-id=\"841\">(7)  الصفحة 91، السطر 5.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote842\" footnote-id=\"842\">(8)  في قوله عليه السلام «و لا يهصر»، الصفحة 91، السطر 6.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "1BE11056-19FB-428A-931D-9FE50B7EDAC1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

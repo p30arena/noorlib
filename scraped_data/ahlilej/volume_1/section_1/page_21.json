@@ -1,0 +1,125 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 21,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129008,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1042\"><page number=\"21\"/>ج‍ - رسالة في الرد على أهل الجبر و التفويض و إثبات العدل و المنزلة بين المنزلتين<lfootnote noteId=\"101\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129009,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1043\">د - كتاب في أحكام الدين<lfootnote noteId=\"102\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129010,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1044\">ه‍ - مسائل رواها علي بن جعفر الهماني البرمكي<lfootnote noteId=\"103\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129011,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1045\">و - نسخة. رواها أبو طاهر ابن حمزة بن اليسع<lfootnote noteId=\"104\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129012,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1046\">ز - نسخة. رواها علي بن الريان بن الصلت الأشعري القمي<lfootnote noteId=\"105\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129013,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1047\">ح - نسخة. رواها عيسى بن أحمد بن عيسى بن المنصور السرمن‌رءائي<lfootnote noteId=\"106\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129014,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1048\"><heading level=\"3\">12 - الإمام العسكري عليه السلام. </heading></p>"
+        },
+        {
+          "paragraphId": 704129015,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1049\">أ - تفسير الإمام العسكري عليه السلام<lfootnote noteId=\"107\">7</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129016,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1050\">ب - كتاب المنقبة. و هو يشتمل على أكثر الأحكام و مسائل الحلال و الحرام<lfootnote noteId=\"108\">8</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129017,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1051\"><page number=\"22\"/>ج‍ - مسائل. رواها محمد بن الريان بن الصلت الأشعري القمي<lfootnote noteId=\"109\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129924,
+          "text": "<footnote id=\"101\"><page number=\"21\"/><mnote>(1)</mnote> أعيان الشيعة 39:2، تحف العقول: 341-356.</footnote>"
+        },
+        {
+          "footnoteId": 704129925,
+          "text": "<footnote id=\"102\"><mnote>(2)</mnote> أعيان الشيعة 39:2 قال: «قطعة من أحكام الدين ذكرها ابن شهرآشوب في المناقب عن الخيبري أو الحميري في كتاب مكاتبات الرجال عن العسكريين».</footnote>"
+        },
+        {
+          "footnoteId": 704129926,
+          "text": "<footnote id=\"103\"><mnote>(3)</mnote> رجال النجاشي: 280 /رقم 740.</footnote>"
+        },
+        {
+          "footnoteId": 704129927,
+          "text": "<footnote id=\"104\"><mnote>(4)</mnote> رجال النجاشي: 460 /رقم 1256.</footnote>"
+        },
+        {
+          "footnoteId": 704129928,
+          "text": "<footnote id=\"105\"><mnote>(5)</mnote> رجال النجاشي: 278 /رقم 731.</footnote>"
+        },
+        {
+          "footnoteId": 704129929,
+          "text": "<footnote id=\"106\"><mnote>(6)</mnote> رجال النجاشي: 297 /رقم 806.</footnote>"
+        },
+        {
+          "footnoteId": 704129930,
+          "text": "<footnote id=\"107\"><mnote>(7)</mnote> و هو مطبوع متداول. و انظر ما مر بعنوان «الامالي في تفسير القرآن».</footnote>"
+        },
+        {
+          "footnoteId": 704129931,
+          "text": "<footnote id=\"108\"><mnote>(8)</mnote> الذريعة 149:23. و نص على أنه للإمام العسكري ابن شهرآشوب في مناقبه و النباطي في الصراط المستقيم.</footnote>"
+        }
+      ],
+      "pageValue": "21",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1042\" paragraph-id=\"1042\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo21\">21</span>ج‍ - رسالة في الرد على أهل الجبر و التفويض و إثبات العدل و المنزلة بين المنزلتين<span><sup><a class=\"NewFn\" href=\"#footnote101\" title=\"(1)  أعيان الشيعة 39:2، تحف العقول: 341-356.\">1</a></sup></span>.</p>\n  <p id=\"p1043\" paragraph-id=\"1043\" class=\" G\">د - كتاب في أحكام الدين<span><sup><a class=\"NewFn\" href=\"#footnote102\" title=\"(2)  أعيان الشيعة 39:2 قال: «قطعة من أحكام الدين ذكرها ابن شهرآشوب في المناقب عن الخيبري أو الحميري في كتاب مكاتبات الرجال عن العسكريين».\">2</a></sup></span>.</p>\n  <p id=\"p1044\" paragraph-id=\"1044\" class=\" G\">ه‍ - مسائل رواها علي بن جعفر الهماني البرمكي<span><sup><a class=\"NewFn\" href=\"#footnote103\" title=\"(3)  رجال النجاشي: 280 /رقم 740.\">3</a></sup></span>.</p>\n  <p id=\"p1045\" paragraph-id=\"1045\" class=\" G\">و - نسخة. رواها أبو طاهر ابن حمزة بن اليسع<span><sup><a class=\"NewFn\" href=\"#footnote104\" title=\"(4)  رجال النجاشي: 460 /رقم 1256.\">4</a></sup></span>.</p>\n  <p id=\"p1046\" paragraph-id=\"1046\" class=\" G\">ز - نسخة. رواها علي بن الريان بن الصلت الأشعري القمي<span><sup><a class=\"NewFn\" href=\"#footnote105\" title=\"(5)  رجال النجاشي: 278 /رقم 731.\">5</a></sup></span>.</p>\n  <p id=\"p1047\" paragraph-id=\"1047\" class=\" G\">ح - نسخة. رواها عيسى بن أحمد بن عيسى بن المنصور السرمن‌رءائي<span><sup><a class=\"NewFn\" href=\"#footnote106\" title=\"(6)  رجال النجاشي: 297 /رقم 806.\">6</a></sup></span>.</p>\n  <p id=\"p1048\" paragraph-id=\"1048\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">12 - الإمام العسكري عليه السلام. </strong>\n  </p>\n  <p id=\"p1049\" paragraph-id=\"1049\" class=\" G\">أ - تفسير الإمام العسكري عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote107\" title=\"(7)  و هو مطبوع متداول. و انظر ما مر بعنوان «الامالي في تفسير القرآن».\">7</a></sup></span>.</p>\n  <p id=\"p1050\" paragraph-id=\"1050\" class=\" G\">ب - كتاب المنقبة. و هو يشتمل على أكثر الأحكام و مسائل الحلال و الحرام<span><sup><a class=\"NewFn\" href=\"#footnote108\" title=\"(8)  الذريعة 149:23. و نص على أنه للإمام العسكري ابن شهرآشوب في مناقبه و النباطي في الصراط المستقيم.\">8</a></sup></span>.</p>\n  <p id=\"p1051\" paragraph-id=\"1051\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote101\" footnote-id=\"101\">(1) <page number=\"21\" /> أعيان الشيعة 39:2، تحف العقول: 341-356.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote102\" footnote-id=\"102\">(2)  أعيان الشيعة 39:2 قال: «قطعة من أحكام الدين ذكرها ابن شهرآشوب في المناقب عن الخيبري أو الحميري في كتاب مكاتبات الرجال عن العسكريين».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote103\" footnote-id=\"103\">(3)  رجال النجاشي: 280 /رقم 740.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote104\" footnote-id=\"104\">(4)  رجال النجاشي: 460 /رقم 1256.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote105\" footnote-id=\"105\">(5)  رجال النجاشي: 278 /رقم 731.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote106\" footnote-id=\"106\">(6)  رجال النجاشي: 297 /رقم 806.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote107\" footnote-id=\"107\">(7)  و هو مطبوع متداول. و انظر ما مر بعنوان «الامالي في تفسير القرآن».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote108\" footnote-id=\"108\">(8)  الذريعة 149:23. و نص على أنه للإمام العسكري ابن شهرآشوب في مناقبه و النباطي في الصراط المستقيم.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "1E6F2EAC-9A8F-44C9-83AA-FE283557B83C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

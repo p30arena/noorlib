@@ -1,0 +1,99 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 32,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129081,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1115\"><page number=\"32\"/>من أبيه عليه السلام<lfootnote noteId=\"144\">1</lfootnote>، كما ذكر أن المفضل بن عمر الجعفي كان باب موسى بن جعفر عليه السلام<lfootnote noteId=\"145\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129082,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1116\">و عده الشيخ في رجاله، تارة في أصحاب الصادق عليه السلام<lfootnote noteId=\"146\">3</lfootnote>، و اخرى في أصحاب الكاظم عليه السلام<lfootnote noteId=\"147\">4</lfootnote>، كما ذكره في الفهرست قائلا: المفضل بن عمر، له وصية يرويها<lfootnote noteId=\"148\">5</lfootnote>...</p>"
+        },
+        {
+          "paragraphId": 704129083,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1117\">و عده البرقي في أصحاب الصادق عليه السلام، قائلا: المفضل بن عمر الجعفي، مولى، كوفي<lfootnote noteId=\"149\">6</lfootnote>...</p>"
+        },
+        {
+          "paragraphId": 704129084,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1118\">و هذا كله لا تقاومه بعض الطعون الواردة فيه، إذ أنها مضافة إلى انحصارها في زمان الصادق عليه السلام - مما يدل على أنها صدرت تقية و حفاظا عليه، شأنها شأن الطعون الصادرة في حق زرارة و أمثاله - لا تتعدى رميه بالخطابية و الإسماعيلية و الغلو، و كلها مردودة غير ثابتة، فقد نفى الأعلام هذه المنسوبات إليه، و احتمل بعضهم أنه صار خطابيا مدة ثم رجع عن ذلك، و هذا غير قادح فيه.</p>"
+        },
+        {
+          "paragraphId": 704129085,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1119\">على أن القدح فيه جاء عن ابن الغضائري الذي لا اعتداد بكتابه و لا بقدوحه، و عن النجاشي و هو لا يقاوم التوثيقات المارة الذكر.</p>"
+        },
+        {
+          "paragraphId": 704129086,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1120\">قال أبو علي في منتهى المقال: و يظهر من أخباره أنه كان في الغالب على حسن العقيدة، و على تقدير كونه خطابيا يكون ذلك في وقت ما فلا يضر، نظير نظرائه من البزنطي و ابن المغيرة و ابن الوشاء، فظهر الجواب عن سائر ما ورد في ذمه بوروده في تلك الأوقات.</p>"
+        },
+        {
+          "paragraphId": 704129087,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1121\"><page number=\"33\"/>و في الكافي في باب الصبر في الصحيح عن يونس بن يعقوب، قال: أمرني أبو عبد الله عليه السلام أن آتي المفضل و أعزيه بإسماعيل، و قال: أقرئ المفضل السلام و قل له: </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129967,
+          "text": "<footnote id=\"144\"><page number=\"32\"/><mnote>(1)</mnote> مناقب ابن شهرآشوب 436:3 /فصل في معالي أموره عليه السلام.</footnote>"
+        },
+        {
+          "footnoteId": 704129968,
+          "text": "<footnote id=\"145\"><mnote>(2)</mnote> مناقب ابن شهرآشوب 438:3 /فصل في أحواله و تواريخه عليه السلام.</footnote>"
+        },
+        {
+          "footnoteId": 704129969,
+          "text": "<footnote id=\"146\"><mnote>(3)</mnote> رجال الطوسي: 554/314.</footnote>"
+        },
+        {
+          "footnoteId": 704129970,
+          "text": "<footnote id=\"147\"><mnote>(4)</mnote> رجال الطوسي: 23/360.</footnote>"
+        },
+        {
+          "footnoteId": 704129971,
+          "text": "<footnote id=\"148\"><mnote>(5)</mnote> الفهرست: 758/251.</footnote>"
+        },
+        {
+          "footnoteId": 704129972,
+          "text": "<footnote id=\"149\"><mnote>(6)</mnote> رجال البرقي: 90 /رقم 867.</footnote>"
+        }
+      ],
+      "pageValue": "32",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1115\" paragraph-id=\"1115\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo32\">32</span>من أبيه عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote144\" title=\"(1)  مناقب ابن شهرآشوب 436:3 /فصل في معالي أموره عليه السلام.\">1</a></sup></span>، كما ذكر أن المفضل بن عمر الجعفي كان باب موسى بن جعفر عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote145\" title=\"(2)  مناقب ابن شهرآشوب 438:3 /فصل في أحواله و تواريخه عليه السلام.\">2</a></sup></span>.</p>\n  <p id=\"p1116\" paragraph-id=\"1116\" class=\" G\">و عده الشيخ في رجاله، تارة في أصحاب الصادق عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote146\" title=\"(3)  رجال الطوسي: 554/314.\">3</a></sup></span>، و اخرى في أصحاب الكاظم عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote147\" title=\"(4)  رجال الطوسي: 23/360.\">4</a></sup></span>، كما ذكره في الفهرست قائلا: المفضل بن عمر، له وصية يرويها<span><sup><a class=\"NewFn\" href=\"#footnote148\" title=\"(5)  الفهرست: 758/251.\">5</a></sup></span>...</p>\n  <p id=\"p1117\" paragraph-id=\"1117\" class=\" G\">و عده البرقي في أصحاب الصادق عليه السلام، قائلا: المفضل بن عمر الجعفي، مولى، كوفي<span><sup><a class=\"NewFn\" href=\"#footnote149\" title=\"(6)  رجال البرقي: 90 /رقم 867.\">6</a></sup></span>...</p>\n  <p id=\"p1118\" paragraph-id=\"1118\" class=\" G\">و هذا كله لا تقاومه بعض الطعون الواردة فيه، إذ أنها مضافة إلى انحصارها في زمان الصادق عليه السلام - مما يدل على أنها صدرت تقية و حفاظا عليه، شأنها شأن الطعون الصادرة في حق زرارة و أمثاله - لا تتعدى رميه بالخطابية و الإسماعيلية و الغلو، و كلها مردودة غير ثابتة، فقد نفى الأعلام هذه المنسوبات إليه، و احتمل بعضهم أنه صار خطابيا مدة ثم رجع عن ذلك، و هذا غير قادح فيه.</p>\n  <p id=\"p1119\" paragraph-id=\"1119\" class=\" G\">على أن القدح فيه جاء عن ابن الغضائري الذي لا اعتداد بكتابه و لا بقدوحه، و عن النجاشي و هو لا يقاوم التوثيقات المارة الذكر.</p>\n  <p id=\"p1120\" paragraph-id=\"1120\" class=\" G\">قال أبو علي في منتهى المقال: و يظهر من أخباره أنه كان في الغالب على حسن العقيدة، و على تقدير كونه خطابيا يكون ذلك في وقت ما فلا يضر، نظير نظرائه من البزنطي و ابن المغيرة و ابن الوشاء، فظهر الجواب عن سائر ما ورد في ذمه بوروده في تلك الأوقات.</p>\n  <p id=\"p1121\" paragraph-id=\"1121\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote144\" footnote-id=\"144\">(1) <page number=\"32\" /> مناقب ابن شهرآشوب 436:3 /فصل في معالي أموره عليه السلام.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote145\" footnote-id=\"145\">(2)  مناقب ابن شهرآشوب 438:3 /فصل في أحواله و تواريخه عليه السلام.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote146\" footnote-id=\"146\">(3)  رجال الطوسي: 554/314.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote147\" footnote-id=\"147\">(4)  رجال الطوسي: 23/360.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote148\" footnote-id=\"148\">(5)  الفهرست: 758/251.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote149\" footnote-id=\"149\">(6)  رجال البرقي: 90 /رقم 867.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "B665B363-BA7E-4F50-A1CA-5417B048A2CB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

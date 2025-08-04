@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 16,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128965,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"999\"><page number=\"16\"/>و قال الأستاذ عبد الحليم الجندي: و تآليف الإمام الصادق عليه السلام كثيرة، منها رسالة في شرائع الدين، و وصاياه للإمام الكاظم عليه السلام، و رسالة في الغنائم و وجوب الخمس، و توحيد المفضل، و كتاب الإهليلجة، و كتاب مصباح الشريعة و مفتاح الحقيقة، و رسالة إلى أصحابه، و رسالة إلى أصحاب الرأي و القياس، و رسالة لمحمد بن النعمان الأحول، و أخرى لعبد الله بن جندب، و رسالة في وجوه المعايش للعباد و وجوه إخراج الأموال، و رسالة في احتجاجه على الصوفية فيما ينهون عنه من طلب الرزق، و رسالة حكم قصيرة<lfootnote noteId=\"63\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128966,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1000\"><heading level=\"3\">8 - الإمام الكاظم عليه السلام. </heading></p>"
+        },
+        {
+          "paragraphId": 704128967,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1001\">أ - رسالة كتبها عليه السلام إلى علي بن سويد السائي<lfootnote noteId=\"64\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128968,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1002\">ب - كتاب. رواه بكر بن الأشعث، أبو إسماعيل الكوفي<lfootnote noteId=\"65\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128969,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1003\">ج‍ - كتاب. رواه خلف بن حماد بن ياسر الكوفي<lfootnote noteId=\"66\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128970,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1004\">د - كتاب. رواه محمد بن صدقة العنبري البصري<lfootnote noteId=\"67\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128971,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1005\">ه‍ - مسائل. رواها الحسن بن علي بن يقطين<lfootnote noteId=\"68\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128972,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1006\"><page number=\"17\"/>و - مسائل. رواها علي بن يقطين<lfootnote noteId=\"69\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129886,
+          "text": "<footnote id=\"63\"><page number=\"16\"/><mnote>(1)</mnote> الإمام جعفر الصادق: 206. و انظر اعيان الشيعة 668:1-669 فإنه عد أربعة و عشرين مؤلفا للامام عليه السلام.</footnote>"
+        },
+        {
+          "footnoteId": 704129887,
+          "text": "<footnote id=\"64\"><mnote>(2)</mnote> رجال النجاشي: 276 /رقم 724. و أوردها الكليني في الكافي 124:8-126.</footnote>"
+        },
+        {
+          "footnoteId": 704129888,
+          "text": "<footnote id=\"65\"><mnote>(3)</mnote> رجال النجاشي: 109 /رقم 275.</footnote>"
+        },
+        {
+          "footnoteId": 704129889,
+          "text": "<footnote id=\"66\"><mnote>(4)</mnote> رجال النجاشي: 152 /رقم 399.</footnote>"
+        },
+        {
+          "footnoteId": 704129890,
+          "text": "<footnote id=\"67\"><mnote>(5)</mnote> رجال النجاشي: 364 /رقم 983.</footnote>"
+        },
+        {
+          "footnoteId": 704129891,
+          "text": "<footnote id=\"68\"><mnote>(6)</mnote> رجال النجاشي: 45 /رقم 91.</footnote>"
+        }
+      ],
+      "pageValue": "16",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p999\" paragraph-id=\"999\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo16\">16</span>و قال الأستاذ عبد الحليم الجندي: و تآليف الإمام الصادق عليه السلام كثيرة، منها رسالة في شرائع الدين، و وصاياه للإمام الكاظم عليه السلام، و رسالة في الغنائم و وجوب الخمس، و توحيد المفضل، و كتاب الإهليلجة، و كتاب مصباح الشريعة و مفتاح الحقيقة، و رسالة إلى أصحابه، و رسالة إلى أصحاب الرأي و القياس، و رسالة لمحمد بن النعمان الأحول، و أخرى لعبد الله بن جندب، و رسالة في وجوه المعايش للعباد و وجوه إخراج الأموال، و رسالة في احتجاجه على الصوفية فيما ينهون عنه من طلب الرزق، و رسالة حكم قصيرة<span><sup><a class=\"NewFn\" href=\"#footnote63\" title=\"(1)  الإمام جعفر الصادق: 206. و انظر اعيان الشيعة 668:1-669 فإنه عد أربعة و عشرين مؤلفا للامام عليه السلام.\">1</a></sup></span>.</p>\n  <p id=\"p1000\" paragraph-id=\"1000\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">8 - الإمام الكاظم عليه السلام. </strong>\n  </p>\n  <p id=\"p1001\" paragraph-id=\"1001\" class=\" G\">أ - رسالة كتبها عليه السلام إلى علي بن سويد السائي<span><sup><a class=\"NewFn\" href=\"#footnote64\" title=\"(2)  رجال النجاشي: 276 /رقم 724. و أوردها الكليني في الكافي 124:8-126.\">2</a></sup></span>.</p>\n  <p id=\"p1002\" paragraph-id=\"1002\" class=\" G\">ب - كتاب. رواه بكر بن الأشعث، أبو إسماعيل الكوفي<span><sup><a class=\"NewFn\" href=\"#footnote65\" title=\"(3)  رجال النجاشي: 109 /رقم 275.\">3</a></sup></span>.</p>\n  <p id=\"p1003\" paragraph-id=\"1003\" class=\" G\">ج‍ - كتاب. رواه خلف بن حماد بن ياسر الكوفي<span><sup><a class=\"NewFn\" href=\"#footnote66\" title=\"(4)  رجال النجاشي: 152 /رقم 399.\">4</a></sup></span>.</p>\n  <p id=\"p1004\" paragraph-id=\"1004\" class=\" G\">د - كتاب. رواه محمد بن صدقة العنبري البصري<span><sup><a class=\"NewFn\" href=\"#footnote67\" title=\"(5)  رجال النجاشي: 364 /رقم 983.\">5</a></sup></span>.</p>\n  <p id=\"p1005\" paragraph-id=\"1005\" class=\" G\">ه‍ - مسائل. رواها الحسن بن علي بن يقطين<span><sup><a class=\"NewFn\" href=\"#footnote68\" title=\"(6)  رجال النجاشي: 45 /رقم 91.\">6</a></sup></span>.</p>\n  <p id=\"p1006\" paragraph-id=\"1006\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote63\" footnote-id=\"63\">(1) <page number=\"16\" /> الإمام جعفر الصادق: 206. و انظر اعيان الشيعة 668:1-669 فإنه عد أربعة و عشرين مؤلفا للامام عليه السلام.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote64\" footnote-id=\"64\">(2)  رجال النجاشي: 276 /رقم 724. و أوردها الكليني في الكافي 124:8-126.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote65\" footnote-id=\"65\">(3)  رجال النجاشي: 109 /رقم 275.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote66\" footnote-id=\"66\">(4)  رجال النجاشي: 152 /رقم 399.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote67\" footnote-id=\"67\">(5)  رجال النجاشي: 364 /رقم 983.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote68\" footnote-id=\"68\">(6)  رجال النجاشي: 45 /رقم 91.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "228E4A02-6941-4C0F-B645-C8FA995B6F12",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

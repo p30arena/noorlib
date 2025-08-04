@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 175,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129382,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1851\"><page number=\"175\"/>يريده و إن كانت موافقة له في الصفات؛ فإن كثيرا من العقاقير تشتبه بغيرها لاتفاقهما في كثير من الصفات.</p>"
+        },
+        {
+          "paragraphId": 704129383,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1852\">[52] قوله عليه السلام: «فكيف بقيت»<lfootnote noteId=\"881\">1</lfootnote> لعل المفروض أن ذلك كان في مبادي خلق العالم لقدم ذلك العلم فيلزم من التجارب الكثيرة فناء الحيوانات لقلتها في تلك الأزمنة.</p>"
+        },
+        {
+          "paragraphId": 704129384,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1853\">[53] قوله عليه السلام: «ليس بأمشاج»<lfootnote noteId=\"882\">2</lfootnote> أي أشياء مختلطة متمايزة.</p>"
+        },
+        {
+          "paragraphId": 704129385,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1854\">أقول: كلامه عليه السلام يدل على أن خواص الأدوية و أجناسها و منافعها و مناسبتها للأمراض إنما وصل إلى الخلق بأخبار الرسل عليهم الصلاة و السلام، و لم يصل الخلق إليها بعقولهم و تجاربهم.</p>"
+        },
+        {
+          "paragraphId": 704129386,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1855\">[54] قوله عليه السلام: «دفعت إليه»<lfootnote noteId=\"883\">3</lfootnote> على بناء المجهول أي دفعتك الحاجة و الضرورة إليه. و في الأساس: دفع فلان إلى فلان: انتهى إليه<lfootnote noteId=\"884\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129387,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1856\">[55] قوله عليه السلام: «مغيض»<lfootnote noteId=\"885\">5</lfootnote> هو بفتح الميم و كسر الغين المعجمة: موضع يجري إليه الماء و يغيب أو يجتمع فيه، و في الثاني<lfootnote noteId=\"886\">6</lfootnote> مصدر ميمي.</p>"
+        },
+        {
+          "paragraphId": 704129388,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1857\">[56] قوله عليه السلام: «في الجهات الأربع»<lfootnote noteId=\"887\">7</lfootnote> أي الشمال و الجنوب و الصبا </p>"
+        },
+        {
+          "paragraphId": 704129389,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1858\"><page number=\"176\"/>و الدبور، و يحتمل أن يكون المراد المتغيرة بسبب الصفات الأربع التي فسرها عليه السلام.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130704,
+          "text": "<footnote id=\"881\"><page number=\"175\"/><mnote>(1)</mnote> الصفحة 125، السطر 4.</footnote>"
+        },
+        {
+          "footnoteId": 704130705,
+          "text": "<footnote id=\"882\"><mnote>(2)</mnote> الصفحة 127-128، السطر 13-1.</footnote>"
+        },
+        {
+          "footnoteId": 704130706,
+          "text": "<footnote id=\"883\"><mnote>(3)</mnote> الصفحة 129، السطر 6.</footnote>"
+        },
+        {
+          "footnoteId": 704130707,
+          "text": "<footnote id=\"884\"><mnote>(4)</mnote> أساس البلاغة: 129.</footnote>"
+        },
+        {
+          "footnoteId": 704130708,
+          "text": "<footnote id=\"885\"><mnote>(5)</mnote> الصفحة 133، السطر 15.</footnote>"
+        },
+        {
+          "footnoteId": 704130709,
+          "text": "<footnote id=\"886\"><mnote>(6)</mnote> الصفحة 134، السطر 4.</footnote>"
+        },
+        {
+          "footnoteId": 704130710,
+          "text": "<footnote id=\"887\"><mnote>(7)</mnote> الصفحة 140، السطر 2.</footnote>"
+        }
+      ],
+      "pageValue": "175",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1851\" paragraph-id=\"1851\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo175\">175</span>يريده و إن كانت موافقة له في الصفات؛ فإن كثيرا من العقاقير تشتبه بغيرها لاتفاقهما في كثير من الصفات.</p>\n  <p id=\"p1852\" paragraph-id=\"1852\" class=\" G\">[52] قوله عليه السلام: «فكيف بقيت»<span><sup><a class=\"NewFn\" href=\"#footnote881\" title=\"(1)  الصفحة 125، السطر 4.\">1</a></sup></span> لعل المفروض أن ذلك كان في مبادي خلق العالم لقدم ذلك العلم فيلزم من التجارب الكثيرة فناء الحيوانات لقلتها في تلك الأزمنة.</p>\n  <p id=\"p1853\" paragraph-id=\"1853\" class=\" G\">[53] قوله عليه السلام: «ليس بأمشاج»<span><sup><a class=\"NewFn\" href=\"#footnote882\" title=\"(2)  الصفحة 127-128، السطر 13-1.\">2</a></sup></span> أي أشياء مختلطة متمايزة.</p>\n  <p id=\"p1854\" paragraph-id=\"1854\" class=\" G\">أقول: كلامه عليه السلام يدل على أن خواص الأدوية و أجناسها و منافعها و مناسبتها للأمراض إنما وصل إلى الخلق بأخبار الرسل عليهم الصلاة و السلام، و لم يصل الخلق إليها بعقولهم و تجاربهم.</p>\n  <p id=\"p1855\" paragraph-id=\"1855\" class=\" G\">[54] قوله عليه السلام: «دفعت إليه»<span><sup><a class=\"NewFn\" href=\"#footnote883\" title=\"(3)  الصفحة 129، السطر 6.\">3</a></sup></span> على بناء المجهول أي دفعتك الحاجة و الضرورة إليه. و في الأساس: دفع فلان إلى فلان: انتهى إليه<span><sup><a class=\"NewFn\" href=\"#footnote884\" title=\"(4)  أساس البلاغة: 129.\">4</a></sup></span>.</p>\n  <p id=\"p1856\" paragraph-id=\"1856\" class=\" G\">[55] قوله عليه السلام: «مغيض»<span><sup><a class=\"NewFn\" href=\"#footnote885\" title=\"(5)  الصفحة 133، السطر 15.\">5</a></sup></span> هو بفتح الميم و كسر الغين المعجمة: موضع يجري إليه الماء و يغيب أو يجتمع فيه، و في الثاني<span><sup><a class=\"NewFn\" href=\"#footnote886\" title=\"(6)  الصفحة 134، السطر 4.\">6</a></sup></span> مصدر ميمي.</p>\n  <p id=\"p1857\" paragraph-id=\"1857\" class=\" G\">[56] قوله عليه السلام: «في الجهات الأربع»<span><sup><a class=\"NewFn\" href=\"#footnote887\" title=\"(7)  الصفحة 140، السطر 2.\">7</a></sup></span> أي الشمال و الجنوب و الصبا </p>\n  <p id=\"p1858\" paragraph-id=\"1858\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote881\" footnote-id=\"881\">(1) <page number=\"175\" /> الصفحة 125، السطر 4.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote882\" footnote-id=\"882\">(2)  الصفحة 127-128، السطر 13-1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote883\" footnote-id=\"883\">(3)  الصفحة 129، السطر 6.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote884\" footnote-id=\"884\">(4)  أساس البلاغة: 129.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote885\" footnote-id=\"885\">(5)  الصفحة 133، السطر 15.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote886\" footnote-id=\"886\">(6)  الصفحة 134، السطر 4.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote887\" footnote-id=\"887\">(7)  الصفحة 140، السطر 2.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "B2F833B3-67D5-4C39-8900-3CF41DE66F2E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,149 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 14,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128944,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"978\"><page number=\"14\"/>و - رسالة إلى أصحابه عليه السلام. أوردها الكليني في الكافي<lfootnote noteId=\"42\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128945,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"979\">ز - كتاب. رواه طلاب بن حوشب، أبو رويم الشيباني<lfootnote noteId=\"43\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128946,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"980\">ح - كتاب. رواه عباد بن صهيب اليربوعي البصري<lfootnote noteId=\"44\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128947,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"981\">ط - كتاب. رواه ابنه الإمام موسى الكاظم عليه السلام<lfootnote noteId=\"45\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128948,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"982\">ي - كتاب. رواه خالد بن صبيح الكوفي<lfootnote noteId=\"46\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128949,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"983\">ك - كتاب مبوب في الحلال و الحرام. رواه أبو إسحاق إبراهيم بن محمد المدني<lfootnote noteId=\"47\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128950,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"984\">ل - كتاب نسب إليه عليه السلام. رواية حفيده الإمام علي الرضا عليه السلام<lfootnote noteId=\"48\">7</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128951,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"985\">م - كتاب نوادر. رواه خالد بن يزيد العكلي الكوفي<lfootnote noteId=\"49\">8</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128952,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"986\">ن - كتاب نوادر. رواه خضر بن عمرو النخعي<lfootnote noteId=\"50\">9</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128953,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"987\">س - كتاب نوادر. رواه داود بن عطاء المدني<lfootnote noteId=\"51\">10</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128954,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"988\">ع - مصباح الشريعة و مفتاح الحقيقة. و هو منسوب للإمام عليه السلام<lfootnote noteId=\"52\">11</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128955,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"989\"><page number=\"15\"/>ف - مناسك الحج و فرائضه، و ما هو مسنون في ذلك<lfootnote noteId=\"53\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129865,
+          "text": "<footnote id=\"42\"><page number=\"14\"/><mnote>(1)</mnote> الكافي 2:8-14.</footnote>"
+        },
+        {
+          "footnoteId": 704129866,
+          "text": "<footnote id=\"43\"><mnote>(2)</mnote> رجال النجاشي: 207 /رقم 549.</footnote>"
+        },
+        {
+          "footnoteId": 704129867,
+          "text": "<footnote id=\"44\"><mnote>(3)</mnote> رجال النجاشي: 293 /رقم 791.</footnote>"
+        },
+        {
+          "footnoteId": 704129868,
+          "text": "<footnote id=\"45\"><mnote>(4)</mnote> رجال النجاشي: 314 /رقم 859.</footnote>"
+        },
+        {
+          "footnoteId": 704129869,
+          "text": "<footnote id=\"46\"><mnote>(5)</mnote> رجال النجاشي: 150 /رقم 393.</footnote>"
+        },
+        {
+          "footnoteId": 704129870,
+          "text": "<footnote id=\"47\"><mnote>(6)</mnote> رجال النجاشي: 15 /رقم 12.</footnote>"
+        },
+        {
+          "footnoteId": 704129871,
+          "text": "<footnote id=\"48\"><mnote>(7)</mnote> ذكر في ترجمة الوشاء جعفر بن بشير البجلي. الفهرست للطوسي: 68 /رقم 142.</footnote>"
+        },
+        {
+          "footnoteId": 704129872,
+          "text": "<footnote id=\"49\"><mnote>(8)</mnote> رجال النجاشي: 152 /رقم 398.</footnote>"
+        },
+        {
+          "footnoteId": 704129873,
+          "text": "<footnote id=\"50\"><mnote>(9)</mnote> رجال النجاشي: 153 /رقم 402.</footnote>"
+        },
+        {
+          "footnoteId": 704129874,
+          "text": "<footnote id=\"51\"><mnote>(10)</mnote> رجال النجاشي: 157 /رقم 412.</footnote>"
+        },
+        {
+          "footnoteId": 704129875,
+          "text": "<footnote id=\"52\"><mnote>(11)</mnote> انظر الأمان من أخطار الأسفار و الأزمان لابن طاوس: 91، و الذريعة 110:21-111.</footnote>"
+        }
+      ],
+      "pageValue": "14",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p978\" paragraph-id=\"978\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo14\">14</span>و - رسالة إلى أصحابه عليه السلام. أوردها الكليني في الكافي<span><sup><a class=\"NewFn\" href=\"#footnote42\" title=\"(1)  الكافي 2:8-14.\">1</a></sup></span>.</p>\n  <p id=\"p979\" paragraph-id=\"979\" class=\" G\">ز - كتاب. رواه طلاب بن حوشب، أبو رويم الشيباني<span><sup><a class=\"NewFn\" href=\"#footnote43\" title=\"(2)  رجال النجاشي: 207 /رقم 549.\">2</a></sup></span>.</p>\n  <p id=\"p980\" paragraph-id=\"980\" class=\" G\">ح - كتاب. رواه عباد بن صهيب اليربوعي البصري<span><sup><a class=\"NewFn\" href=\"#footnote44\" title=\"(3)  رجال النجاشي: 293 /رقم 791.\">3</a></sup></span>.</p>\n  <p id=\"p981\" paragraph-id=\"981\" class=\" G\">ط - كتاب. رواه ابنه الإمام موسى الكاظم عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote45\" title=\"(4)  رجال النجاشي: 314 /رقم 859.\">4</a></sup></span>.</p>\n  <p id=\"p982\" paragraph-id=\"982\" class=\" G\">ي - كتاب. رواه خالد بن صبيح الكوفي<span><sup><a class=\"NewFn\" href=\"#footnote46\" title=\"(5)  رجال النجاشي: 150 /رقم 393.\">5</a></sup></span>.</p>\n  <p id=\"p983\" paragraph-id=\"983\" class=\" G\">ك - كتاب مبوب في الحلال و الحرام. رواه أبو إسحاق إبراهيم بن محمد المدني<span><sup><a class=\"NewFn\" href=\"#footnote47\" title=\"(6)  رجال النجاشي: 15 /رقم 12.\">6</a></sup></span>.</p>\n  <p id=\"p984\" paragraph-id=\"984\" class=\" G\">ل - كتاب نسب إليه عليه السلام. رواية حفيده الإمام علي الرضا عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote48\" title=\"(7)  ذكر في ترجمة الوشاء جعفر بن بشير البجلي. الفهرست للطوسي: 68 /رقم 142.\">7</a></sup></span>.</p>\n  <p id=\"p985\" paragraph-id=\"985\" class=\" G\">م - كتاب نوادر. رواه خالد بن يزيد العكلي الكوفي<span><sup><a class=\"NewFn\" href=\"#footnote49\" title=\"(8)  رجال النجاشي: 152 /رقم 398.\">8</a></sup></span>.</p>\n  <p id=\"p986\" paragraph-id=\"986\" class=\" G\">ن - كتاب نوادر. رواه خضر بن عمرو النخعي<span><sup><a class=\"NewFn\" href=\"#footnote50\" title=\"(9)  رجال النجاشي: 153 /رقم 402.\">9</a></sup></span>.</p>\n  <p id=\"p987\" paragraph-id=\"987\" class=\" G\">س - كتاب نوادر. رواه داود بن عطاء المدني<span><sup><a class=\"NewFn\" href=\"#footnote51\" title=\"(10)  رجال النجاشي: 157 /رقم 412.\">10</a></sup></span>.</p>\n  <p id=\"p988\" paragraph-id=\"988\" class=\" G\">ع - مصباح الشريعة و مفتاح الحقيقة. و هو منسوب للإمام عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote52\" title=\"(11)  انظر الأمان من أخطار الأسفار و الأزمان لابن طاوس: 91، و الذريعة 110:21-111.\">11</a></sup></span>.</p>\n  <p id=\"p989\" paragraph-id=\"989\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote42\" footnote-id=\"42\">(1) <page number=\"14\" /> الكافي 2:8-14.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote43\" footnote-id=\"43\">(2)  رجال النجاشي: 207 /رقم 549.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote44\" footnote-id=\"44\">(3)  رجال النجاشي: 293 /رقم 791.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote45\" footnote-id=\"45\">(4)  رجال النجاشي: 314 /رقم 859.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote46\" footnote-id=\"46\">(5)  رجال النجاشي: 150 /رقم 393.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote47\" footnote-id=\"47\">(6)  رجال النجاشي: 15 /رقم 12.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote48\" footnote-id=\"48\">(7)  ذكر في ترجمة الوشاء جعفر بن بشير البجلي. الفهرست للطوسي: 68 /رقم 142.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote49\" footnote-id=\"49\">(8)  رجال النجاشي: 152 /رقم 398.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote50\" footnote-id=\"50\">(9)  رجال النجاشي: 153 /رقم 402.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote51\" footnote-id=\"51\">(10)  رجال النجاشي: 157 /رقم 412.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote52\" footnote-id=\"52\">(11)  انظر الأمان من أخطار الأسفار و الأزمان لابن طاوس: 91، و الذريعة 110:21-111.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "EB1C1F5C-4DBB-42BE-B850-00568FE72E5F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

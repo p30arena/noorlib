@@ -1,0 +1,111 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 24,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129029,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1063\"><page number=\"24\"/><heading level=\"3\">رواة الكتاب: </heading></p>"
+        },
+        {
+          "paragraphId": 704129030,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1064\">و كيف كان، فإن السند المذكور في صدر كتاب الإهليلجة هو «حدثني محرز بن سعيد النحوي بدمشق، قال: حدثني محمد بن أبي مسهر بالرملة، عن أبيه، عن جده».</p>"
+        },
+        {
+          "paragraphId": 704129031,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1065\">فأما </p>"
+        },
+        {
+          "paragraphId": 704129032,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1066\"><heading level=\"4\">محرز بن سعيد،</heading></p>"
+        },
+        {
+          "paragraphId": 704129033,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1067\"> فقد ورد في تاريخ دمشق قوله: أبو عطية عبد الرحيم بن محرز بن عبد الله بن محرز بن سعيد بن حيان بن مدرك بن زياد الفزاري. و مدرك بن زياد صاحب رسول الله صلى الله عليه و آله، قدم مع أبي عبيدة فتوفي بدمشق بقرية يقال لها: </p>"
+        },
+        {
+          "paragraphId": 704129034,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1068\">راوية، و كان أول مسلم دفن بها<lfootnote noteId=\"115\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129035,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1069\">و ذكر في تهذيب الكمال رواية عن أبي زرعة الدمشقي، قال: عن محرز بن عبد الله بن محرز، عن أبيه، قال: زريق بن حيان كان اسمه سعيد بن حيان، فلقبه عبد الملك بن مروان زريقا<lfootnote noteId=\"116\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129036,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1070\">و أما </p>"
+        },
+        {
+          "paragraphId": 704129037,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1071\"><heading level=\"4\">محمد بن أبي مسهر،</heading></p>"
+        },
+        {
+          "paragraphId": 704129038,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1072\"> فلعله مصحف عن «أبي محمد مسهر بن عبد الملك بن سلع الهمداني الخيواني الكوفي»، و مسهر من أصحاب الإمام الصادق عليه السلام و أسند عنه<lfootnote noteId=\"117\">3</lfootnote>. و قد وثقه بعض العامة و لم يحمده بعضهم، و قال ابن حبان بعد أن ذكره في ثقاته: يخطئ و يهم. و قال ابن حجر في تقريب التهذيب: لين الحديث من كبار </p>"
+        },
+        {
+          "paragraphId": 704129039,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1073\"><page number=\"25\"/>التاسعة<lfootnote noteId=\"118\">1</lfootnote>. و هو من رواه حديث الطائر المشوي<lfootnote noteId=\"119\">2</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129938,
+          "text": "<footnote id=\"115\"><page number=\"24\"/><mnote>(1)</mnote> تاريخ دمشق 138:36. و بناء عليه ترجم ابن حجر في الإصابة 48:6 لمدرك بن زياد في الصحابة.</footnote>"
+        },
+        {
+          "footnoteId": 704129939,
+          "text": "<footnote id=\"116\"><mnote>(2)</mnote> تهذيب الكمال 182:9.</footnote>"
+        },
+        {
+          "footnoteId": 704129940,
+          "text": "<footnote id=\"117\"><mnote>(3)</mnote> انظر رجال الطوسي: 313 /رقم 666، و جامع الرواة 232:2، و معجم رجال الحديث 179:19 /رقم 12389.</footnote>"
+        }
+      ],
+      "pageValue": "24",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1063\" paragraph-id=\"1063\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo24\">24</span>\n    <strong style=\"0\" class=\"h-3 03\">رواة الكتاب: </strong>\n  </p>\n  <p id=\"p1064\" paragraph-id=\"1064\" class=\" G\">و كيف كان، فإن السند المذكور في صدر كتاب الإهليلجة هو «حدثني محرز بن سعيد النحوي بدمشق، قال: حدثني محمد بن أبي مسهر بالرملة، عن أبيه، عن جده».</p>\n  <p id=\"p1065\" paragraph-id=\"1065\" class=\" G\">فأما </p>\n  <p id=\"p1066\" paragraph-id=\"1066\" class=\" G\">\n    <strong style=\"0\" class=\"h-4 04\">محرز بن سعيد،</strong>\n  </p>\n  <p id=\"p1067\" paragraph-id=\"1067\" class=\" G\"> فقد ورد في تاريخ دمشق قوله: أبو عطية عبد الرحيم بن محرز بن عبد الله بن محرز بن سعيد بن حيان بن مدرك بن زياد الفزاري. و مدرك بن زياد صاحب رسول الله صلى الله عليه و آله، قدم مع أبي عبيدة فتوفي بدمشق بقرية يقال لها: </p>\n  <p id=\"p1068\" paragraph-id=\"1068\" class=\" G\">راوية، و كان أول مسلم دفن بها<span><sup><a class=\"NewFn\" href=\"#footnote115\" title=\"(1)  تاريخ دمشق 138:36. و بناء عليه ترجم ابن حجر في الإصابة 48:6 لمدرك بن زياد في الصحابة.\">1</a></sup></span>.</p>\n  <p id=\"p1069\" paragraph-id=\"1069\" class=\" G\">و ذكر في تهذيب الكمال رواية عن أبي زرعة الدمشقي، قال: عن محرز بن عبد الله بن محرز، عن أبيه، قال: زريق بن حيان كان اسمه سعيد بن حيان، فلقبه عبد الملك بن مروان زريقا<span><sup><a class=\"NewFn\" href=\"#footnote116\" title=\"(2)  تهذيب الكمال 182:9.\">2</a></sup></span>.</p>\n  <p id=\"p1070\" paragraph-id=\"1070\" class=\" G\">و أما </p>\n  <p id=\"p1071\" paragraph-id=\"1071\" class=\" G\">\n    <strong style=\"0\" class=\"h-4 04\">محمد بن أبي مسهر،</strong>\n  </p>\n  <p id=\"p1072\" paragraph-id=\"1072\" class=\" G\"> فلعله مصحف عن «أبي محمد مسهر بن عبد الملك بن سلع الهمداني الخيواني الكوفي»، و مسهر من أصحاب الإمام الصادق عليه السلام و أسند عنه<span><sup><a class=\"NewFn\" href=\"#footnote117\" title=\"(3)  انظر رجال الطوسي: 313 /رقم 666، و جامع الرواة 232:2، و معجم رجال الحديث 179:19 /رقم 12389.\">3</a></sup></span>. و قد وثقه بعض العامة و لم يحمده بعضهم، و قال ابن حبان بعد أن ذكره في ثقاته: يخطئ و يهم. و قال ابن حجر في تقريب التهذيب: لين الحديث من كبار </p>\n  <p id=\"p1073\" paragraph-id=\"1073\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote115\" footnote-id=\"115\">(1) <page number=\"24\" /> تاريخ دمشق 138:36. و بناء عليه ترجم ابن حجر في الإصابة 48:6 لمدرك بن زياد في الصحابة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote116\" footnote-id=\"116\">(2)  تهذيب الكمال 182:9.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote117\" footnote-id=\"117\">(3)  انظر رجال الطوسي: 313 /رقم 666، و جامع الرواة 232:2، و معجم رجال الحديث 179:19 /رقم 12389.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "2D2B4038-A684-4B59-8BBE-D974254F9415",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

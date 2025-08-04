@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 11,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128919,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"953\"><page number=\"11\"/><heading level=\"3\">4 - الإمام الحسين عليه السلام: </heading></p>"
+        },
+        {
+          "paragraphId": 704128920,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"954\">كانت عنده عليه السلام كتب علي عليه السلام<lfootnote noteId=\"22\">1</lfootnote>، و لما حضره الذي حضره دعا ابنته الكبرى فاطمة بنت الحسين فدفع إليها كتابا ملفوفا<lfootnote noteId=\"23\">2</lfootnote>...</p>"
+        },
+        {
+          "paragraphId": 704128921,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"955\"><heading level=\"3\">5 - الإمام السجاد عليه السلام: </heading></p>"
+        },
+        {
+          "paragraphId": 704128922,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"956\">أ - الصحيفة السجادية. و هي منشآت الإمام عليه السلام في الأدعية و المناجاة<lfootnote noteId=\"24\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128923,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"957\">ب - رسالة الحقوق<lfootnote noteId=\"25\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128924,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"958\">ج‍ - مناسك الحج. و هي رسالة حاوية لأحكام الحج، رواها عن الإمام السجاد عليه السلام أبناؤه الإمام محمد الباقر عليه السلام، و زيد الشهيد، و حسين الأصغر<lfootnote noteId=\"26\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128925,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"959\">د - صحيفة الزهد. قال أبو حمزة الثمالي. قرأت صحيفة فيها كلام زهد من كلام علي بن الحسين عليه السلام، و كتبت ما فيها، ثم أتيت علي بن الحسين عليه السلام </p>"
+        },
+        {
+          "paragraphId": 704128926,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"960\"><page number=\"12\"/>فعرضت ما فيها عليه، فعرفه و صححه<lfootnote noteId=\"27\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129845,
+          "text": "<footnote id=\"22\"><page number=\"11\"/><mnote>(1)</mnote> بصائر الدرجات: 182 و 187.</footnote>"
+        },
+        {
+          "footnoteId": 704129846,
+          "text": "<footnote id=\"23\"><mnote>(2)</mnote> بصائر الدرجات: 168 /ح 9، الكافي 290:1.</footnote>"
+        },
+        {
+          "footnoteId": 704129847,
+          "text": "<footnote id=\"24\"><mnote>(3)</mnote> و هي متواترة عنه، و مطبوعة عدة طبعات، أملاها الإمام السجاد عليه السلام على ولديه الإمام الباقر عليه السلام و زيد الشهيد، و قد أملاها الإمام الباقر عليه السلام على ولده الإمام الصادق عليه السلام، و أملاها الإمام الصادق عليه السلام على الرواة.</footnote>"
+        },
+        {
+          "footnoteId": 704129848,
+          "text": "<footnote id=\"25\"><mnote>(4)</mnote> و هي رسالة جامعة لآداب الدنيا و الدين، و ما يجب للفرد و ما يجب عليه. و هي مطبوعة مستقلة، كما طبعت مشروحة.</footnote>"
+        },
+        {
+          "footnoteId": 704129849,
+          "text": "<footnote id=\"26\"><mnote>(5)</mnote> طبعت في بغداد بتقديم السيد هبة الدين الشهرستاني.</footnote>"
+        }
+      ],
+      "pageValue": "11",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p953\" paragraph-id=\"953\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo11\">11</span>\n    <strong style=\"0\" class=\"h-3 03\">4 - الإمام الحسين عليه السلام: </strong>\n  </p>\n  <p id=\"p954\" paragraph-id=\"954\" class=\" G\">كانت عنده عليه السلام كتب علي عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote22\" title=\"(1)  بصائر الدرجات: 182 و 187.\">1</a></sup></span>، و لما حضره الذي حضره دعا ابنته الكبرى فاطمة بنت الحسين فدفع إليها كتابا ملفوفا<span><sup><a class=\"NewFn\" href=\"#footnote23\" title=\"(2)  بصائر الدرجات: 168 /ح 9، الكافي 290:1.\">2</a></sup></span>...</p>\n  <p id=\"p955\" paragraph-id=\"955\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">5 - الإمام السجاد عليه السلام: </strong>\n  </p>\n  <p id=\"p956\" paragraph-id=\"956\" class=\" G\">أ - الصحيفة السجادية. و هي منشآت الإمام عليه السلام في الأدعية و المناجاة<span><sup><a class=\"NewFn\" href=\"#footnote24\" title=\"(3)  و هي متواترة عنه، و مطبوعة عدة طبعات، أملاها الإمام السجاد عليه السلام على ولديه الإمام الباقر عليه السلام و زيد الشهيد، و قد أملاها الإمام الباقر عليه السلام على ولده الإمام الصادق عليه السلام، و أملاها الإمام الصادق عليه السلام على الرواة.\">3</a></sup></span>.</p>\n  <p id=\"p957\" paragraph-id=\"957\" class=\" G\">ب - رسالة الحقوق<span><sup><a class=\"NewFn\" href=\"#footnote25\" title=\"(4)  و هي رسالة جامعة لآداب الدنيا و الدين، و ما يجب للفرد و ما يجب عليه. و هي مطبوعة مستقلة، كما طبعت مشروحة.\">4</a></sup></span>.</p>\n  <p id=\"p958\" paragraph-id=\"958\" class=\" G\">ج‍ - مناسك الحج. و هي رسالة حاوية لأحكام الحج، رواها عن الإمام السجاد عليه السلام أبناؤه الإمام محمد الباقر عليه السلام، و زيد الشهيد، و حسين الأصغر<span><sup><a class=\"NewFn\" href=\"#footnote26\" title=\"(5)  طبعت في بغداد بتقديم السيد هبة الدين الشهرستاني.\">5</a></sup></span>.</p>\n  <p id=\"p959\" paragraph-id=\"959\" class=\" G\">د - صحيفة الزهد. قال أبو حمزة الثمالي. قرأت صحيفة فيها كلام زهد من كلام علي بن الحسين عليه السلام، و كتبت ما فيها، ثم أتيت علي بن الحسين عليه السلام </p>\n  <p id=\"p960\" paragraph-id=\"960\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote22\" footnote-id=\"22\">(1) <page number=\"11\" /> بصائر الدرجات: 182 و 187.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote23\" footnote-id=\"23\">(2)  بصائر الدرجات: 168 /ح 9، الكافي 290:1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote24\" footnote-id=\"24\">(3)  و هي متواترة عنه، و مطبوعة عدة طبعات، أملاها الإمام السجاد عليه السلام على ولديه الإمام الباقر عليه السلام و زيد الشهيد، و قد أملاها الإمام الباقر عليه السلام على ولده الإمام الصادق عليه السلام، و أملاها الإمام الصادق عليه السلام على الرواة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote25\" footnote-id=\"25\">(4)  و هي رسالة جامعة لآداب الدنيا و الدين، و ما يجب للفرد و ما يجب عليه. و هي مطبوعة مستقلة، كما طبعت مشروحة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote26\" footnote-id=\"26\">(5)  طبعت في بغداد بتقديم السيد هبة الدين الشهرستاني.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E6C1D76E-243B-49D3-83D9-04B28867501D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

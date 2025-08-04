@@ -1,0 +1,125 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 17,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128972,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1006\"><page number=\"17\"/>و - مسائل. رواها علي بن يقطين<lfootnote noteId=\"69\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128973,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1007\">ز - مسند الإمام موسى بن جعفر<lfootnote noteId=\"70\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128974,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1008\">ح - نسخة. رواها علي بن حمزة بن الحسن العلوي<lfootnote noteId=\"71\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128975,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1009\">ط - نسخة. رواها محمد بن ثابت<lfootnote noteId=\"72\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128976,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1010\">ي - نسخة. رواها محمد بن زرقان بن الحباب<lfootnote noteId=\"73\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128977,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1011\"><heading level=\"3\">9 - الإمام الرضا عليه السلام. </heading></p>"
+        },
+        {
+          "paragraphId": 704128978,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1012\">أ - أمالي الإمام الرضا عليه السلام. رواه علي بن علي الخزاعي، أخو دعبل الخزاعي رحمه الله<lfootnote noteId=\"74\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128979,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1013\">ب - أمالي الإمام الرضا عليه السلام. رواه الفضل بن شاذان<lfootnote noteId=\"75\">7</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128980,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1014\">ج‍ - الرسالة الذهبية. رسالة طبية كتبها الإمام عليه السلام للمأمون، فأمر بكتابتها بماء الذهب، فسميت الذهبية<lfootnote noteId=\"76\">8</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128981,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1015\"><page number=\"18\"/>د - صحيفة الرضا عليه السلام. و هي صحيفة مشهورة، و لها نسخ كثيرة<lfootnote noteId=\"77\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129892,
+          "text": "<footnote id=\"69\"><page number=\"17\"/><mnote>(1)</mnote> رجال النجاشي: 273 /رقم 715.</footnote>"
+        },
+        {
+          "footnoteId": 704129893,
+          "text": "<footnote id=\"70\"><mnote>(2)</mnote> رجال النجاشي: 407 /رقم 1082. الفهرست للطوسي: 191 /رقم 721. و قد طبع عن نسخة المكتبة الظاهرية بدمشق، بتحقيق السيد محمد حسين الحسيني الجلالي.</footnote>"
+        },
+        {
+          "footnoteId": 704129894,
+          "text": "<footnote id=\"71\"><mnote>(3)</mnote> رجال النجاشي: 273 /رقم 714.</footnote>"
+        },
+        {
+          "footnoteId": 704129895,
+          "text": "<footnote id=\"72\"><mnote>(4)</mnote> رجال النجاشي: 369 /رقم 1003.</footnote>"
+        },
+        {
+          "footnoteId": 704129896,
+          "text": "<footnote id=\"73\"><mnote>(5)</mnote> رجال النجاشي: 370 /رقم 1006.</footnote>"
+        },
+        {
+          "footnoteId": 704129897,
+          "text": "<footnote id=\"74\"><mnote>(6)</mnote> أمالي الطوسي 370:1-382.</footnote>"
+        },
+        {
+          "footnoteId": 704129898,
+          "text": "<footnote id=\"75\"><mnote>(7)</mnote> مقدمة أمالي الصدوق: 21 بقلم السيد محمد مهدي الموسوي الخرسان.</footnote>"
+        },
+        {
+          "footnoteId": 704129899,
+          "text": "<footnote id=\"76\"><mnote>(8)</mnote> و هي مطبوعة متداولة، و عندنا منها مصورتان عن نسختين قديمتين تعودان إلى أوائل القرن الثامن، كما أن لها ترجمة إلى اللغة الفارسية تاريخ كتابتها 614 ه‍. و انظر أعيان الشيعة 26:2.</footnote>"
+        }
+      ],
+      "pageValue": "17",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1006\" paragraph-id=\"1006\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo17\">17</span>و - مسائل. رواها علي بن يقطين<span><sup><a class=\"NewFn\" href=\"#footnote69\" title=\"(1)  رجال النجاشي: 273 /رقم 715.\">1</a></sup></span>.</p>\n  <p id=\"p1007\" paragraph-id=\"1007\" class=\" G\">ز - مسند الإمام موسى بن جعفر<span><sup><a class=\"NewFn\" href=\"#footnote70\" title=\"(2)  رجال النجاشي: 407 /رقم 1082. الفهرست للطوسي: 191 /رقم 721. و قد طبع عن نسخة المكتبة الظاهرية بدمشق، بتحقيق السيد محمد حسين الحسيني الجلالي.\">2</a></sup></span>.</p>\n  <p id=\"p1008\" paragraph-id=\"1008\" class=\" G\">ح - نسخة. رواها علي بن حمزة بن الحسن العلوي<span><sup><a class=\"NewFn\" href=\"#footnote71\" title=\"(3)  رجال النجاشي: 273 /رقم 714.\">3</a></sup></span>.</p>\n  <p id=\"p1009\" paragraph-id=\"1009\" class=\" G\">ط - نسخة. رواها محمد بن ثابت<span><sup><a class=\"NewFn\" href=\"#footnote72\" title=\"(4)  رجال النجاشي: 369 /رقم 1003.\">4</a></sup></span>.</p>\n  <p id=\"p1010\" paragraph-id=\"1010\" class=\" G\">ي - نسخة. رواها محمد بن زرقان بن الحباب<span><sup><a class=\"NewFn\" href=\"#footnote73\" title=\"(5)  رجال النجاشي: 370 /رقم 1006.\">5</a></sup></span>.</p>\n  <p id=\"p1011\" paragraph-id=\"1011\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">9 - الإمام الرضا عليه السلام. </strong>\n  </p>\n  <p id=\"p1012\" paragraph-id=\"1012\" class=\" G\">أ - أمالي الإمام الرضا عليه السلام. رواه علي بن علي الخزاعي، أخو دعبل الخزاعي رحمه الله<span><sup><a class=\"NewFn\" href=\"#footnote74\" title=\"(6)  أمالي الطوسي 370:1-382.\">6</a></sup></span>.</p>\n  <p id=\"p1013\" paragraph-id=\"1013\" class=\" G\">ب - أمالي الإمام الرضا عليه السلام. رواه الفضل بن شاذان<span><sup><a class=\"NewFn\" href=\"#footnote75\" title=\"(7)  مقدمة أمالي الصدوق: 21 بقلم السيد محمد مهدي الموسوي الخرسان.\">7</a></sup></span>.</p>\n  <p id=\"p1014\" paragraph-id=\"1014\" class=\" G\">ج‍ - الرسالة الذهبية. رسالة طبية كتبها الإمام عليه السلام للمأمون، فأمر بكتابتها بماء الذهب، فسميت الذهبية<span><sup><a class=\"NewFn\" href=\"#footnote76\" title=\"(8)  و هي مطبوعة متداولة، و عندنا منها مصورتان عن نسختين قديمتين تعودان إلى أوائل القرن الثامن، كما أن لها ترجمة إلى اللغة الفارسية تاريخ كتابتها 614 ه‍. و انظر أعيان الشيعة 26:2.\">8</a></sup></span>.</p>\n  <p id=\"p1015\" paragraph-id=\"1015\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote69\" footnote-id=\"69\">(1) <page number=\"17\" /> رجال النجاشي: 273 /رقم 715.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote70\" footnote-id=\"70\">(2)  رجال النجاشي: 407 /رقم 1082. الفهرست للطوسي: 191 /رقم 721. و قد طبع عن نسخة المكتبة الظاهرية بدمشق، بتحقيق السيد محمد حسين الحسيني الجلالي.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote71\" footnote-id=\"71\">(3)  رجال النجاشي: 273 /رقم 714.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote72\" footnote-id=\"72\">(4)  رجال النجاشي: 369 /رقم 1003.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote73\" footnote-id=\"73\">(5)  رجال النجاشي: 370 /رقم 1006.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote74\" footnote-id=\"74\">(6)  أمالي الطوسي 370:1-382.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote75\" footnote-id=\"75\">(7)  مقدمة أمالي الصدوق: 21 بقلم السيد محمد مهدي الموسوي الخرسان.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote76\" footnote-id=\"76\">(8)  و هي مطبوعة متداولة، و عندنا منها مصورتان عن نسختين قديمتين تعودان إلى أوائل القرن الثامن، كما أن لها ترجمة إلى اللغة الفارسية تاريخ كتابتها 614 ه‍. و انظر أعيان الشيعة 26:2.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "98512E66-14FF-4625-8F05-67254332B550",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

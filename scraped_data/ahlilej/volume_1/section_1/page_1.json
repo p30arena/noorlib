@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 1,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128875,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"909\"><page number=\"1\"/><heading level=\"1\"><format class=\"H\">[هوية الكتاب]</format></heading></p>"
+        },
+        {
+          "paragraphId": 704128876,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"910\"><format class=\"q\"><format class=\"a\">بسم الله الرحمن الرحيم</format></format></p>"
+        },
+        {
+          "paragraphId": 704128877,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"911\"><page number=\"2\"/><page number=\"3\"/><img src=\"BK14785G001S1P3\" alt=\"\" imgtype=\"Scan\"/><page number=\"4\"/><img src=\"BK14785G001S1P4\" alt=\"\" imgtype=\"Scan\"/><page number=\"5\"/><heading level=\"1\"><format class=\"BeginIntroduction\" type=\"2\"/> مقدمة المحقق</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "1",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p909\" paragraph-id=\"909\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo1\">1</span>\n    <strong style=\"0\" class=\"h-1 01\">\n      <span class=\"H\">[هوية الكتاب]</span>\n    </strong>\n  </p>\n  <p id=\"p910\" paragraph-id=\"910\" class=\" G\">\n    <span class=\"q\">\n      <span class=\"a\">بسم الله الرحمن الرحيم</span>\n    </span>\n  </p>\n  <p id=\"p911\" paragraph-id=\"911\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "FEEC6579-D661-4AE8-B343-884B2B7F166C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

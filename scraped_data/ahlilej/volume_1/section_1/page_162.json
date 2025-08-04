@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 162,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129312,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1781\"><page number=\"162\"/>محتاجا في العلم و سائر الأمور إلى غيره، إلا أن يفيض عليه من العالم بالذات و هو إقرار بالصانع.</p>"
+        },
+        {
+          "paragraphId": 704129313,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1782\">[16] قوله: «و لم أعطك»<lfootnote noteId=\"822\">1</lfootnote> غفل الهندي عما كان يلزم من اعترافه.</p>"
+        },
+        {
+          "paragraphId": 704129314,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1783\">[17] قوله عليه السلام: «و إن رجعت»<lfootnote noteId=\"823\">2</lfootnote> أي إن قلت: إن الصانع القديم الحكيم هو طبيعة الإهليلجة صنعت هذا الشخص منها فقد أقررت بالصانع و سميته الطبيعة، إذ هي غير حكيم و لا ذات إرادة فقد أقررت بالصانع و أخطأت في التسمية.</p>"
+        },
+        {
+          "paragraphId": 704129315,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1784\">أو المراد أنك بعد الاعتراف بالخالق الحكيم القديم لو قلت: إنه هذه الإهليلجة، فقد أقررت بما أنكرت، أي نقضت قولك الأول، و قلت بالنقيضين، و لا محمل لتصحيحه إلا أن تقول: سميت ما أقررت به بهذا الاسم، و هذا لا يضرنا بعد ما تيسر لنا من إقرارك.</p>"
+        },
+        {
+          "paragraphId": 704129316,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1785\">و يحتمل أن يكون هذا كلاما على سبيل الاستظهار في المجادلة أي إن تنزلنا عما أقررت به من قدم الحكيم و حدوث الإهليلجة يكفينا إقرارك بكون الخالق حكيما، إذ معلوم أنها ليست كذلك، فقد سميت الصانع الحكيم بهذا الاسم.</p>"
+        },
+        {
+          "paragraphId": 704129317,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1786\">[18] قوله عليه السلام: «مفضولة»<lfootnote noteId=\"824\">3</lfootnote> إذ ظاهر أن كثيرا من المخلوقات أفضل و أشرف منها.</p>"
+        },
+        {
+          "paragraphId": 704129318,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1787\"><page number=\"163\"/>[19] قوله عليه السلام: «هو الذي خلقها»<lfootnote noteId=\"825\">1</lfootnote> أي لا بد أن يكون مربيها هو خالقها. </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130645,
+          "text": "<footnote id=\"822\"><page number=\"162\"/><mnote>(1)</mnote> الصفحة 81، السطر 9.</footnote>"
+        },
+        {
+          "footnoteId": 704130646,
+          "text": "<footnote id=\"823\"><mnote>(2)</mnote> الصفحة 81، السطر 13.</footnote>"
+        },
+        {
+          "footnoteId": 704130647,
+          "text": "<footnote id=\"824\"><mnote>(3)</mnote> الصفحة 82، السطر 9.</footnote>"
+        }
+      ],
+      "pageValue": "162",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1781\" paragraph-id=\"1781\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo162\">162</span>محتاجا في العلم و سائر الأمور إلى غيره، إلا أن يفيض عليه من العالم بالذات و هو إقرار بالصانع.</p>\n  <p id=\"p1782\" paragraph-id=\"1782\" class=\" G\">[16] قوله: «و لم أعطك»<span><sup><a class=\"NewFn\" href=\"#footnote822\" title=\"(1)  الصفحة 81، السطر 9.\">1</a></sup></span> غفل الهندي عما كان يلزم من اعترافه.</p>\n  <p id=\"p1783\" paragraph-id=\"1783\" class=\" G\">[17] قوله عليه السلام: «و إن رجعت»<span><sup><a class=\"NewFn\" href=\"#footnote823\" title=\"(2)  الصفحة 81، السطر 13.\">2</a></sup></span> أي إن قلت: إن الصانع القديم الحكيم هو طبيعة الإهليلجة صنعت هذا الشخص منها فقد أقررت بالصانع و سميته الطبيعة، إذ هي غير حكيم و لا ذات إرادة فقد أقررت بالصانع و أخطأت في التسمية.</p>\n  <p id=\"p1784\" paragraph-id=\"1784\" class=\" G\">أو المراد أنك بعد الاعتراف بالخالق الحكيم القديم لو قلت: إنه هذه الإهليلجة، فقد أقررت بما أنكرت، أي نقضت قولك الأول، و قلت بالنقيضين، و لا محمل لتصحيحه إلا أن تقول: سميت ما أقررت به بهذا الاسم، و هذا لا يضرنا بعد ما تيسر لنا من إقرارك.</p>\n  <p id=\"p1785\" paragraph-id=\"1785\" class=\" G\">و يحتمل أن يكون هذا كلاما على سبيل الاستظهار في المجادلة أي إن تنزلنا عما أقررت به من قدم الحكيم و حدوث الإهليلجة يكفينا إقرارك بكون الخالق حكيما، إذ معلوم أنها ليست كذلك، فقد سميت الصانع الحكيم بهذا الاسم.</p>\n  <p id=\"p1786\" paragraph-id=\"1786\" class=\" G\">[18] قوله عليه السلام: «مفضولة»<span><sup><a class=\"NewFn\" href=\"#footnote824\" title=\"(3)  الصفحة 82، السطر 9.\">3</a></sup></span> إذ ظاهر أن كثيرا من المخلوقات أفضل و أشرف منها.</p>\n  <p id=\"p1787\" paragraph-id=\"1787\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote822\" footnote-id=\"822\">(1) <page number=\"162\" /> الصفحة 81، السطر 9.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote823\" footnote-id=\"823\">(2)  الصفحة 81، السطر 13.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote824\" footnote-id=\"824\">(3)  الصفحة 82، السطر 9.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "378D20BA-65A6-43BF-86B3-FB3A4051DE95",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

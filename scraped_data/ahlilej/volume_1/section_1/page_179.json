@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 179,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129408,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1877\"><page number=\"179\"/><heading level=\"1\">الفهارس الفنية </heading></p>"
+        },
+        {
+          "paragraphId": 704129409,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1878\">فهرس الآيات القرآنية فهرس الأحاديث فهرس الأعلام فهرس الأماكن و البلدان فهرس المحتويات</p>"
+        },
+        {
+          "paragraphId": 704129410,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1879\"><page number=\"180\"/><page number=\"181\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"7\"/>فهرس الآيات القرآنية </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "179",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1877\" paragraph-id=\"1877\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo179\">179</span>\n    <strong style=\"0\" class=\"h-1 01\">الفهارس الفنية </strong>\n  </p>\n  <p id=\"p1878\" paragraph-id=\"1878\" class=\" G\">فهرس الآيات القرآنية فهرس الأحاديث فهرس الأعلام فهرس الأماكن و البلدان فهرس المحتويات</p>\n  <p id=\"p1879\" paragraph-id=\"1879\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "FA743DC8-5C97-432D-B636-B99694C98199",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

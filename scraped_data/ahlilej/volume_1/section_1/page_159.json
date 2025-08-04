@@ -1,0 +1,93 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 159,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129295,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1764\"><page number=\"159\"/>[1] قوله عليه السلام: «و البلاء المحمود عند الخاصة و العامة»<lfootnote noteId=\"800\">1</lfootnote> أي النعمة التي يحمدها و يقر بها الخاص و العام لنا و هو العلم، أو النعم التي شملت الخاص و العام كما سيفصله عليه السلام بعد ذلك.</p>"
+        },
+        {
+          "paragraphId": 704129296,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1765\">[2] قوله عليه السلام: «ما أتى الجهال»<lfootnote noteId=\"801\">2</lfootnote> أي ما أتاهم الضرر و الهلاك إلا من قبلهم. قال الفيروزآبادي: أتي كعني أشرف عليه العدو<lfootnote noteId=\"802\">3</lfootnote>. و قال الجزري: </p>"
+        },
+        {
+          "paragraphId": 704129297,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1766\">في حديث أبي هريرة في العدوى: أنى قلت أتيت، أي دهيت و تغير عليك حسك فتوهمت ما ليس بصحيح صحيحا<lfootnote noteId=\"803\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129298,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1767\">[3] قوله عليه السلام: «استحوذ الشيطان»<lfootnote noteId=\"804\">5</lfootnote> أي غلب و استولى.</p>"
+        },
+        {
+          "paragraphId": 704129299,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1768\">[4] قوله عليه السلام: «و صنيعة»<lfootnote noteId=\"805\">6</lfootnote> أي إحسان، و يحتمل أن يراد بها هنا الخلقة المصنوعة.</p>"
+        },
+        {
+          "paragraphId": 704129300,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1769\"><page number=\"160\"/>[5] قوله عليه السلام: «لجسم»<lfootnote noteId=\"806\">1</lfootnote> بفتح اللام أي البتة هو جسم. و كذا قوله عليه السلام: </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130623,
+          "text": "<footnote id=\"800\"><page number=\"159\"/><mnote>(1)</mnote> الصفحة 68، السطر 4-5.</footnote>"
+        },
+        {
+          "footnoteId": 704130624,
+          "text": "<footnote id=\"801\"><mnote>(2)</mnote> الصفحة 68، السطر 9.</footnote>"
+        },
+        {
+          "footnoteId": 704130625,
+          "text": "<footnote id=\"802\"><mnote>(3)</mnote> القاموس المحيط 298:4.</footnote>"
+        },
+        {
+          "footnoteId": 704130626,
+          "text": "<footnote id=\"803\"><mnote>(4)</mnote> النهاية الأثيرية 22:1.</footnote>"
+        },
+        {
+          "footnoteId": 704130627,
+          "text": "<footnote id=\"804\"><mnote>(5)</mnote> الصفحة 69، السطر 1.</footnote>"
+        },
+        {
+          "footnoteId": 704130628,
+          "text": "<footnote id=\"805\"><mnote>(6)</mnote> الصفحة 69، السطر 7.</footnote>"
+        }
+      ],
+      "pageValue": "159",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1764\" paragraph-id=\"1764\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo159\">159</span>[1] قوله عليه السلام: «و البلاء المحمود عند الخاصة و العامة»<span><sup><a class=\"NewFn\" href=\"#footnote800\" title=\"(1)  الصفحة 68، السطر 4-5.\">1</a></sup></span> أي النعمة التي يحمدها و يقر بها الخاص و العام لنا و هو العلم، أو النعم التي شملت الخاص و العام كما سيفصله عليه السلام بعد ذلك.</p>\n  <p id=\"p1765\" paragraph-id=\"1765\" class=\" G\">[2] قوله عليه السلام: «ما أتى الجهال»<span><sup><a class=\"NewFn\" href=\"#footnote801\" title=\"(2)  الصفحة 68، السطر 9.\">2</a></sup></span> أي ما أتاهم الضرر و الهلاك إلا من قبلهم. قال الفيروزآبادي: أتي كعني أشرف عليه العدو<span><sup><a class=\"NewFn\" href=\"#footnote802\" title=\"(3)  القاموس المحيط 298:4.\">3</a></sup></span>. و قال الجزري: </p>\n  <p id=\"p1766\" paragraph-id=\"1766\" class=\" G\">في حديث أبي هريرة في العدوى: أنى قلت أتيت، أي دهيت و تغير عليك حسك فتوهمت ما ليس بصحيح صحيحا<span><sup><a class=\"NewFn\" href=\"#footnote803\" title=\"(4)  النهاية الأثيرية 22:1.\">4</a></sup></span>.</p>\n  <p id=\"p1767\" paragraph-id=\"1767\" class=\" G\">[3] قوله عليه السلام: «استحوذ الشيطان»<span><sup><a class=\"NewFn\" href=\"#footnote804\" title=\"(5)  الصفحة 69، السطر 1.\">5</a></sup></span> أي غلب و استولى.</p>\n  <p id=\"p1768\" paragraph-id=\"1768\" class=\" G\">[4] قوله عليه السلام: «و صنيعة»<span><sup><a class=\"NewFn\" href=\"#footnote805\" title=\"(6)  الصفحة 69، السطر 7.\">6</a></sup></span> أي إحسان، و يحتمل أن يراد بها هنا الخلقة المصنوعة.</p>\n  <p id=\"p1769\" paragraph-id=\"1769\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote800\" footnote-id=\"800\">(1) <page number=\"159\" /> الصفحة 68، السطر 4-5.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote801\" footnote-id=\"801\">(2)  الصفحة 68، السطر 9.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote802\" footnote-id=\"802\">(3)  القاموس المحيط 298:4.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote803\" footnote-id=\"803\">(4)  النهاية الأثيرية 22:1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote804\" footnote-id=\"804\">(5)  الصفحة 69، السطر 1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote805\" footnote-id=\"805\">(6)  الصفحة 69، السطر 7.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "35F1028C-9A56-414E-BC02-2503848520D3",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

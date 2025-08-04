@@ -1,0 +1,134 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 185,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129797,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1913\"><format class=\"EndIntroduction\" type=\"11\"/><page number=\"185\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"5\"/>فهرس المحتويات </heading></p>"
+        },
+        {
+          "paragraphId": 704129798,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1914\">مقدمة المحقق 5</p>"
+        },
+        {
+          "paragraphId": 704129799,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1915\">طلب المفضل من الإمام عليه السلام الرد على الجاحدين 67</p>"
+        },
+        {
+          "paragraphId": 704129800,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1916\">متن ما كتبه الإمام عليه السلام و النقاش في وجود البارئ عز و جل 67</p>"
+        },
+        {
+          "paragraphId": 704129801,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1917\">حضور الطبيب الهندي عند الإمام عليه السلام 69</p>"
+        },
+        {
+          "paragraphId": 704129802,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1918\">حصر الهندي الاستدلال بالحواس الخمس و جواب الإمام عليه السلام 71</p>"
+        },
+        {
+          "paragraphId": 704129803,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1919\">دليل نقضي 73</p>"
+        },
+        {
+          "paragraphId": 704129804,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1920\">استدلال الإمام عليه السلام بالإهليلجة 75</p>"
+        },
+        {
+          "paragraphId": 704129805,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1921\">رد شبهة أن الأشياء خلقت نفسها 80</p>"
+        },
+        {
+          "paragraphId": 704129806,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1922\">بطلان التسلسل في الخلقة 83</p>"
+        },
+        {
+          "paragraphId": 704129807,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1923\">بيان أنه ليس للحواس دلالة على الأشياء 84</p>"
+        },
+        {
+          "paragraphId": 704129808,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1924\">أن الحواس لا تعرف إلا ظواهر الأشياء 87</p>"
+        },
+        {
+          "paragraphId": 704129809,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1925\">زيادة إيضاح في أن الحواس لا تعرف شيئا إلا بالقلب 96</p>"
+        },
+        {
+          "paragraphId": 704129810,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1926\">علم النجوم و كيفية وقوعه للناس 101</p>"
+        },
+        {
+          "paragraphId": 704129811,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"1927\">بطلان أزلية البروج و أنها هي خلقت أنفسها 109</p>"
+        },
+        {
+          "paragraphId": 704129812,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"1928\">إن واضع علم النجوم هو الباري سبحانه 114</p>"
+        },
+        {
+          "paragraphId": 704129813,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"1929\"><page number=\"186\"/>بطلان أن معرفة علم الطب بالتجربة 119</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "185",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1913\" paragraph-id=\"1913\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo185\">185</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span>فهرس المحتويات </strong>\n  </p>\n  <p id=\"p1914\" paragraph-id=\"1914\" class=\" G\">مقدمة المحقق 5</p>\n  <p id=\"p1915\" paragraph-id=\"1915\" class=\" G\">طلب المفضل من الإمام عليه السلام الرد على الجاحدين 67</p>\n  <p id=\"p1916\" paragraph-id=\"1916\" class=\" G\">متن ما كتبه الإمام عليه السلام و النقاش في وجود البارئ عز و جل 67</p>\n  <p id=\"p1917\" paragraph-id=\"1917\" class=\" G\">حضور الطبيب الهندي عند الإمام عليه السلام 69</p>\n  <p id=\"p1918\" paragraph-id=\"1918\" class=\" G\">حصر الهندي الاستدلال بالحواس الخمس و جواب الإمام عليه السلام 71</p>\n  <p id=\"p1919\" paragraph-id=\"1919\" class=\" G\">دليل نقضي 73</p>\n  <p id=\"p1920\" paragraph-id=\"1920\" class=\" G\">استدلال الإمام عليه السلام بالإهليلجة 75</p>\n  <p id=\"p1921\" paragraph-id=\"1921\" class=\" G\">رد شبهة أن الأشياء خلقت نفسها 80</p>\n  <p id=\"p1922\" paragraph-id=\"1922\" class=\" G\">بطلان التسلسل في الخلقة 83</p>\n  <p id=\"p1923\" paragraph-id=\"1923\" class=\" G\">بيان أنه ليس للحواس دلالة على الأشياء 84</p>\n  <p id=\"p1924\" paragraph-id=\"1924\" class=\" G\">أن الحواس لا تعرف إلا ظواهر الأشياء 87</p>\n  <p id=\"p1925\" paragraph-id=\"1925\" class=\" G\">زيادة إيضاح في أن الحواس لا تعرف شيئا إلا بالقلب 96</p>\n  <p id=\"p1926\" paragraph-id=\"1926\" class=\" G\">علم النجوم و كيفية وقوعه للناس 101</p>\n  <p id=\"p1927\" paragraph-id=\"1927\" class=\" G\">بطلان أزلية البروج و أنها هي خلقت أنفسها 109</p>\n  <p id=\"p1928\" paragraph-id=\"1928\" class=\" G\">إن واضع علم النجوم هو الباري سبحانه 114</p>\n  <p id=\"p1929\" paragraph-id=\"1929\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "A152E4B8-326F-42A0-A008-C92356FEBEC0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

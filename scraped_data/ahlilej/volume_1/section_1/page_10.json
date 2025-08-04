@@ -1,0 +1,111 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 10,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128911,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"945\"><page number=\"10\"/>ز - كتابه عليه السلام إلى والي الأهواز<lfootnote noteId=\"16\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128912,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"946\">ح - عهده عليه السلام إلى مالك الاشتر<lfootnote noteId=\"17\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128913,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"947\">ط - التعليقة النحوية<lfootnote noteId=\"18\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128914,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"948\">ي - كتابه عليه السلام لمحمد بن أبي بكر في السنة و شرائع الدين<lfootnote noteId=\"19\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128915,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"949\"><heading level=\"3\">2 - فاطمة الزهراء عليها السلام: </heading></p>"
+        },
+        {
+          "paragraphId": 704128916,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"950\">كتاب فاطمة عليها السلام، أو مصحف فاطمة عليها السلام. و هو كتاب كان عند فاطمة الزهراء عليها السلام عن أبيها رسول الله صلى الله عليه و آله، و هو كتاب من إملاء رسول الله صلى الله عليه و آله و خط علي عليه السلام، كتبه لفاطمة عليها السلام<lfootnote noteId=\"20\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128917,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"951\"><heading level=\"3\">3 - الإمام الحسن عليه السلام: </heading></p>"
+        },
+        {
+          "paragraphId": 704128918,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"952\">كانت عنده صحيفة أمير المؤمنين عليه السلام<lfootnote noteId=\"21\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128919,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"953\"><page number=\"11\"/><heading level=\"3\">4 - الإمام الحسين عليه السلام: </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129839,
+          "text": "<footnote id=\"16\"><page number=\"10\"/><mnote>(1)</mnote> طبع بتحقيق السيد محمد رضا الحسيني الجلالي في العدد 17 من مجلة علوم الحديث.</footnote>"
+        },
+        {
+          "footnoteId": 704129840,
+          "text": "<footnote id=\"17\"><mnote>(2)</mnote> و هو مطبوع لوحده، و طبع مشروحا، و هو موجود في نهج البلاغة.</footnote>"
+        },
+        {
+          "footnoteId": 704129841,
+          "text": "<footnote id=\"18\"><mnote>(3)</mnote> قال ابن عساكر: ان بعض النحاة كان يذكر أن عنده تعليقة أبي الأسود التي ألقاها إليه علي عليه السلام. و قال السيوطي: رأيت بمصر في زمن الطلب بأيدي الوراقين جزءا فيه أبواب من النحو، يجمعون على أنها مقدمة علي بن أبي طالب التي أخذها عنه أبو الاسود الدؤلي. انظر إنباه الرواة للقفطي 39:1، و الأشباه و النظائر للسيوطي 12:1-14، و تاريخ دمشق 55:7.</footnote>"
+        },
+        {
+          "footnoteId": 704129842,
+          "text": "<footnote id=\"19\"><mnote>(4)</mnote> انظر الغارات 251:1-254، و شرح النهج 73:6.</footnote>"
+        },
+        {
+          "footnoteId": 704129843,
+          "text": "<footnote id=\"20\"><mnote>(5)</mnote> انظر مكارم الأخلاق للخرائطي: 43، و الكافي 242:1، و الامامة و التبصرة: 180، و أعيان الشيعة 97:1-98، و الذريعة 126:21.</footnote>"
+        },
+        {
+          "footnoteId": 704129844,
+          "text": "<footnote id=\"21\"><mnote>(6)</mnote> العلل لأحمد بن حنبل 346:1.</footnote>"
+        }
+      ],
+      "pageValue": "10",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p945\" paragraph-id=\"945\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo10\">10</span>ز - كتابه عليه السلام إلى والي الأهواز<span><sup><a class=\"NewFn\" href=\"#footnote16\" title=\"(1)  طبع بتحقيق السيد محمد رضا الحسيني الجلالي في العدد 17 من مجلة علوم الحديث.\">1</a></sup></span>.</p>\n  <p id=\"p946\" paragraph-id=\"946\" class=\" G\">ح - عهده عليه السلام إلى مالك الاشتر<span><sup><a class=\"NewFn\" href=\"#footnote17\" title=\"(2)  و هو مطبوع لوحده، و طبع مشروحا، و هو موجود في نهج البلاغة.\">2</a></sup></span>.</p>\n  <p id=\"p947\" paragraph-id=\"947\" class=\" G\">ط - التعليقة النحوية<span><sup><a class=\"NewFn\" href=\"#footnote18\" title=\"(3)  قال ابن عساكر: ان بعض النحاة كان يذكر أن عنده تعليقة أبي الأسود التي ألقاها إليه علي عليه السلام. و قال السيوطي: رأيت بمصر في زمن الطلب بأيدي الوراقين جزءا فيه أبواب من النحو، يجمعون على أنها مقدمة علي بن أبي طالب التي أخذها عنه أبو الاسود الدؤلي. انظر إنباه الرواة للقفطي 39:1، و الأشباه و النظائر للسيوطي 12:1-14، و تاريخ دمشق 55:7.\">3</a></sup></span>.</p>\n  <p id=\"p948\" paragraph-id=\"948\" class=\" G\">ي - كتابه عليه السلام لمحمد بن أبي بكر في السنة و شرائع الدين<span><sup><a class=\"NewFn\" href=\"#footnote19\" title=\"(4)  انظر الغارات 251:1-254، و شرح النهج 73:6.\">4</a></sup></span>.</p>\n  <p id=\"p949\" paragraph-id=\"949\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">2 - فاطمة الزهراء عليها السلام: </strong>\n  </p>\n  <p id=\"p950\" paragraph-id=\"950\" class=\" G\">كتاب فاطمة عليها السلام، أو مصحف فاطمة عليها السلام. و هو كتاب كان عند فاطمة الزهراء عليها السلام عن أبيها رسول الله صلى الله عليه و آله، و هو كتاب من إملاء رسول الله صلى الله عليه و آله و خط علي عليه السلام، كتبه لفاطمة عليها السلام<span><sup><a class=\"NewFn\" href=\"#footnote20\" title=\"(5)  انظر مكارم الأخلاق للخرائطي: 43، و الكافي 242:1، و الامامة و التبصرة: 180، و أعيان الشيعة 97:1-98، و الذريعة 126:21.\">5</a></sup></span>.</p>\n  <p id=\"p951\" paragraph-id=\"951\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">3 - الإمام الحسن عليه السلام: </strong>\n  </p>\n  <p id=\"p952\" paragraph-id=\"952\" class=\" G\">كانت عنده صحيفة أمير المؤمنين عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote21\" title=\"(6)  العلل لأحمد بن حنبل 346:1.\">6</a></sup></span>.</p>\n  <p id=\"p953\" paragraph-id=\"953\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote16\" footnote-id=\"16\">(1) <page number=\"10\" /> طبع بتحقيق السيد محمد رضا الحسيني الجلالي في العدد 17 من مجلة علوم الحديث.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote17\" footnote-id=\"17\">(2)  و هو مطبوع لوحده، و طبع مشروحا، و هو موجود في نهج البلاغة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote18\" footnote-id=\"18\">(3)  قال ابن عساكر: ان بعض النحاة كان يذكر أن عنده تعليقة أبي الأسود التي ألقاها إليه علي عليه السلام. و قال السيوطي: رأيت بمصر في زمن الطلب بأيدي الوراقين جزءا فيه أبواب من النحو، يجمعون على أنها مقدمة علي بن أبي طالب التي أخذها عنه أبو الاسود الدؤلي. انظر إنباه الرواة للقفطي 39:1، و الأشباه و النظائر للسيوطي 12:1-14، و تاريخ دمشق 55:7.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote19\" footnote-id=\"19\">(4)  انظر الغارات 251:1-254، و شرح النهج 73:6.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote20\" footnote-id=\"20\">(5)  انظر مكارم الأخلاق للخرائطي: 43، و الكافي 242:1، و الامامة و التبصرة: 180، و أعيان الشيعة 97:1-98، و الذريعة 126:21.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote21\" footnote-id=\"21\">(6)  العلل لأحمد بن حنبل 346:1.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "16EA5BC5-8A19-4462-B3E5-42755629E069",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

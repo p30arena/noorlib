@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 57,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129209,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1243\"><page number=\"57\"/><heading level=\"3\">ختاما: </heading></p>"
+        },
+        {
+          "paragraphId": 704129210,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1244\">لقد بذلنا قصارى جهودنا في تحقيق هذه الرسالة الشريفة، و إخراجها إلى المكتبة الإسلامية بحلة زاهية، و سعينا إلى ضبط المتن قدر الاستطاعة، فما كان من خطأ أو زلل فهو عن قصور لا عن تقصير، فلتسعه عين الرضا، غير ناسين أن نتقدم بالشكر الجزيل لسماحة السيد حسن الموسوي البروجردي الذي أتحفنا بمصورات نسخ هذه الرسالة، و لمساعيه الجليلة في إحياء هذا الأثر و جملة من آثار آل محمد عليهم السلام. هذا و آخر دعوانا أن الحمد للٰه رب العٰالمين، و الصلاة و السلام على أشرف الأنبياء و المرسلين محمد و آله الطيبين الطاهرين.</p>"
+        },
+        {
+          "paragraphId": 704129211,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1245\">تم بحمد الله في التاسع من ربيع الأول</p>"
+        },
+        {
+          "paragraphId": 704129212,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1246\">من سنة 1426 ه‍. ق</p>"
+        },
+        {
+          "paragraphId": 704129213,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1247\">قيس العطار</p>"
+        },
+        {
+          "paragraphId": 704129214,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1248\"><format class=\"EndIntroduction\" type=\"2\"/><page number=\"58\"/><heading level=\"3\"><format class=\"H\">[نماذج من صور النسخة الخطية]</format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "57",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1243\" paragraph-id=\"1243\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo57\">57</span>\n    <strong style=\"0\" class=\"h-3 03\">ختاما: </strong>\n  </p>\n  <p id=\"p1244\" paragraph-id=\"1244\" class=\" G\">لقد بذلنا قصارى جهودنا في تحقيق هذه الرسالة الشريفة، و إخراجها إلى المكتبة الإسلامية بحلة زاهية، و سعينا إلى ضبط المتن قدر الاستطاعة، فما كان من خطأ أو زلل فهو عن قصور لا عن تقصير، فلتسعه عين الرضا، غير ناسين أن نتقدم بالشكر الجزيل لسماحة السيد حسن الموسوي البروجردي الذي أتحفنا بمصورات نسخ هذه الرسالة، و لمساعيه الجليلة في إحياء هذا الأثر و جملة من آثار آل محمد عليهم السلام. هذا و آخر دعوانا أن الحمد للٰه رب العٰالمين، و الصلاة و السلام على أشرف الأنبياء و المرسلين محمد و آله الطيبين الطاهرين.</p>\n  <p id=\"p1245\" paragraph-id=\"1245\" class=\" G\">تم بحمد الله في التاسع من ربيع الأول</p>\n  <p id=\"p1246\" paragraph-id=\"1246\" class=\" G\">من سنة 1426 ه‍. ق</p>\n  <p id=\"p1247\" paragraph-id=\"1247\" class=\" G\">قيس العطار</p>\n  <p id=\"p1248\" paragraph-id=\"1248\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "97B8026E-94DC-4D12-ADFD-2C5CAA5D6444",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

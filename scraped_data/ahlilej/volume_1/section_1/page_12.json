@@ -1,0 +1,135 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 12,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128926,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"960\"><page number=\"12\"/>فعرضت ما فيها عليه، فعرفه و صححه<lfootnote noteId=\"27\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128927,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"961\">ه‍ - الجامع في الفقه. رواه أبو حمزه الثمالي، عن الإمام السجاد عليه السلام<lfootnote noteId=\"28\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128928,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"962\">و - نسخة. رواها عبد الله بن إبراهيم بن الحسين الأصغر بن الإمام السجاد عليه السلام، عن آبائه عليهم السلام<lfootnote noteId=\"29\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128929,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"963\">ز - كتاب حديثه عليه السلام. جمعه داود بن يحيى بن بشير، أبو سليمان الدهقان الكوفي عليه السلام<lfootnote noteId=\"30\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128930,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"964\"><heading level=\"3\">6 - الإمام الباقر عليه السلام. </heading></p>"
+        },
+        {
+          "paragraphId": 704128931,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"965\">أ - تفسير القرآن. رواه أبو الجارود العبدي<lfootnote noteId=\"31\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128932,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"966\">ب - رسالته عليه السلام إلى سعد الاسكاف. رواها سعد بن طريف الحنظلي<lfootnote noteId=\"32\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128933,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"967\">ج‍ - رسالته عليه السلام إلى سعيد الخير<lfootnote noteId=\"33\">7</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128934,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"968\">د - كتاب. رواه زرارة بن أعين الشيباني الكوفي<lfootnote noteId=\"34\">8</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128935,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"969\">ه‍ - كتاب. رواه عبد المؤمن بن القاسم الأنصاري الكوفي<lfootnote noteId=\"35\">9</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128936,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"970\"><page number=\"13\"/>و - نسخة أحاديث. رواها خالد بن أبي كريمة<lfootnote noteId=\"36\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129850,
+          "text": "<footnote id=\"27\"><page number=\"12\"/><mnote>(1)</mnote> الكافي 14:8-17، الفهرست للطوسي: / 67 رقم 138.</footnote>"
+        },
+        {
+          "footnoteId": 704129851,
+          "text": "<footnote id=\"28\"><mnote>(2)</mnote> رجال النجاشي: 116 /رقم 298.</footnote>"
+        },
+        {
+          "footnoteId": 704129852,
+          "text": "<footnote id=\"29\"><mnote>(3)</mnote> رجال النجاشي: 224 /رقم 587.</footnote>"
+        },
+        {
+          "footnoteId": 704129853,
+          "text": "<footnote id=\"30\"><mnote>(4)</mnote> رجال النجاشي: 157 /رقم 415.</footnote>"
+        },
+        {
+          "footnoteId": 704129854,
+          "text": "<footnote id=\"31\"><mnote>(5)</mnote> الفهرست للنديم: 36.</footnote>"
+        },
+        {
+          "footnoteId": 704129855,
+          "text": "<footnote id=\"32\"><mnote>(6)</mnote> رجال النجاشي: 178 /رقم 468.</footnote>"
+        },
+        {
+          "footnoteId": 704129856,
+          "text": "<footnote id=\"33\"><mnote>(7)</mnote> رواها الكليني في الكافي 52:8-55.</footnote>"
+        },
+        {
+          "footnoteId": 704129857,
+          "text": "<footnote id=\"34\"><mnote>(8)</mnote> تأسيس الشيعة لعلوم الاسلام: 286.</footnote>"
+        },
+        {
+          "footnoteId": 704129858,
+          "text": "<footnote id=\"35\"><mnote>(9)</mnote> تأسيس الشيعة لعلوم الاسلام: 285.</footnote>"
+        }
+      ],
+      "pageValue": "12",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p960\" paragraph-id=\"960\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo12\">12</span>فعرضت ما فيها عليه، فعرفه و صححه<span><sup><a class=\"NewFn\" href=\"#footnote27\" title=\"(1)  الكافي 14:8-17، الفهرست للطوسي: / 67 رقم 138.\">1</a></sup></span>.</p>\n  <p id=\"p961\" paragraph-id=\"961\" class=\" G\">ه‍ - الجامع في الفقه. رواه أبو حمزه الثمالي، عن الإمام السجاد عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote28\" title=\"(2)  رجال النجاشي: 116 /رقم 298.\">2</a></sup></span>.</p>\n  <p id=\"p962\" paragraph-id=\"962\" class=\" G\">و - نسخة. رواها عبد الله بن إبراهيم بن الحسين الأصغر بن الإمام السجاد عليه السلام، عن آبائه عليهم السلام<span><sup><a class=\"NewFn\" href=\"#footnote29\" title=\"(3)  رجال النجاشي: 224 /رقم 587.\">3</a></sup></span>.</p>\n  <p id=\"p963\" paragraph-id=\"963\" class=\" G\">ز - كتاب حديثه عليه السلام. جمعه داود بن يحيى بن بشير، أبو سليمان الدهقان الكوفي عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote30\" title=\"(4)  رجال النجاشي: 157 /رقم 415.\">4</a></sup></span>.</p>\n  <p id=\"p964\" paragraph-id=\"964\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">6 - الإمام الباقر عليه السلام. </strong>\n  </p>\n  <p id=\"p965\" paragraph-id=\"965\" class=\" G\">أ - تفسير القرآن. رواه أبو الجارود العبدي<span><sup><a class=\"NewFn\" href=\"#footnote31\" title=\"(5)  الفهرست للنديم: 36.\">5</a></sup></span>.</p>\n  <p id=\"p966\" paragraph-id=\"966\" class=\" G\">ب - رسالته عليه السلام إلى سعد الاسكاف. رواها سعد بن طريف الحنظلي<span><sup><a class=\"NewFn\" href=\"#footnote32\" title=\"(6)  رجال النجاشي: 178 /رقم 468.\">6</a></sup></span>.</p>\n  <p id=\"p967\" paragraph-id=\"967\" class=\" G\">ج‍ - رسالته عليه السلام إلى سعيد الخير<span><sup><a class=\"NewFn\" href=\"#footnote33\" title=\"(7)  رواها الكليني في الكافي 52:8-55.\">7</a></sup></span>.</p>\n  <p id=\"p968\" paragraph-id=\"968\" class=\" G\">د - كتاب. رواه زرارة بن أعين الشيباني الكوفي<span><sup><a class=\"NewFn\" href=\"#footnote34\" title=\"(8)  تأسيس الشيعة لعلوم الاسلام: 286.\">8</a></sup></span>.</p>\n  <p id=\"p969\" paragraph-id=\"969\" class=\" G\">ه‍ - كتاب. رواه عبد المؤمن بن القاسم الأنصاري الكوفي<span><sup><a class=\"NewFn\" href=\"#footnote35\" title=\"(9)  تأسيس الشيعة لعلوم الاسلام: 285.\">9</a></sup></span>.</p>\n  <p id=\"p970\" paragraph-id=\"970\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote27\" footnote-id=\"27\">(1) <page number=\"12\" /> الكافي 14:8-17، الفهرست للطوسي: / 67 رقم 138.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote28\" footnote-id=\"28\">(2)  رجال النجاشي: 116 /رقم 298.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote29\" footnote-id=\"29\">(3)  رجال النجاشي: 224 /رقم 587.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote30\" footnote-id=\"30\">(4)  رجال النجاشي: 157 /رقم 415.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote31\" footnote-id=\"31\">(5)  الفهرست للنديم: 36.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote32\" footnote-id=\"32\">(6)  رجال النجاشي: 178 /رقم 468.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote33\" footnote-id=\"33\">(7)  رواها الكليني في الكافي 52:8-55.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote34\" footnote-id=\"34\">(8)  تأسيس الشيعة لعلوم الاسلام: 286.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote35\" footnote-id=\"35\">(9)  تأسيس الشيعة لعلوم الاسلام: 285.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4A46BC3F-652C-4A01-B35B-FA560A5A7E94",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

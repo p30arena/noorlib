@@ -1,0 +1,73 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 154,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129785,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1754\"><format class=\"hadith\" who=\"6\" Id=\"23\" RevayatIndex=\"23\"><page number=\"154\"/>قَالَ‌: فَأَخْبِرْنِي عَنْ إِرَادَتِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129786,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1755\"><format class=\"hadith\" who=\"6\" Id=\"23\" RevayatIndex=\"23\">قُلْتُ‌: إِنَّ‌<lfootnote noteId=\"796\">1</lfootnote> اَلْإِرَادَةَ مِنَ اَلْعِبَادِ<lfootnote noteId=\"797\">2</lfootnote> اَلضَّمِيرُ و مَا يَبْدُو بَعْدَ ذَلِكَ مِنَ اَلْفِعْلِ‌، و أَمَّا مِنَ اَللَّهِ عَزَّ و جَلَّ فَالْإِرَادَةُ لِلْفِعْلِ إِحْدَاثُهُ إِنَّمَا يَقُولُ لَهُ‌: كُنْ‌، فَيَكُونُ بِلاَ تَعَبٍ و لاَ<lfootnote noteId=\"798\">3</lfootnote> كَيْفٍ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129787,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1756\"><format class=\"hadith\" who=\"6\" Id=\"23\" RevayatIndex=\"23\">قَالَ‌: قَدْ بَلَّغْتَ‌، حَسْبُكَ‌، فَهَذِهِ كَافِيَةٌ لِمَنْ عَقَلَ‌؛ و اَلْحَمْدُ لِلّٰهِ رَبِّ اَلْعٰالَمِينَ‌، اَلَّذِي هَدَانَا مِنَ اَلضَّلاَلِ‌، و عَصَمَنَا عن أَنْ نُشَبِّهَهُ بِشَيْ‌ءٍ مِنْ خَلْقِهِ‌، و أَنْ نَشُكَّ فِي عَظَمَتِهِ و قُدْرَتِهِ و لَطِيفِ صُنْعِهِ و جَبَرُوتِهِ‌، جَلَّ عَنِ اَلْأَشْبَاهِ و اَلْأَضْدَادِ، و تَكَبَّرَ عَنِ اَلشُّرَكَاءِ و الأَنْدَاد<lfootnote noteId=\"799\">4</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 704129788,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1757\"><page number=\"155\"/><heading level=\"1\">شروح و تعليقات العلامة المجلسي رحمه الله</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130619,
+          "text": "<footnote id=\"796\"><page number=\"154\"/><mnote>(1)</mnote> ليست في «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130620,
+          "text": "<footnote id=\"797\"><mnote>(2)</mnote> في «د»: الضمير.</footnote>"
+        },
+        {
+          "footnoteId": 704130621,
+          "text": "<footnote id=\"798\"><mnote>(3)</mnote> «لا» ليست في «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130622,
+          "text": "<footnote id=\"799\"><mnote>(4)</mnote> في «د»: تم ذلك و صلى الله على سيدنا محمد و آله و سلم، و الحمد لله على كل حال من الأحوال. تم.</footnote>"
+        }
+      ],
+      "pageValue": "154",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1754\" paragraph-id=\"1754\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo154\">154</span>قَالَ‌: فَأَخْبِرْنِي عَنْ إِرَادَتِهِ‌.</span>\n  </p>\n  <p id=\"p1755\" paragraph-id=\"1755\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: إِنَّ‌<span><sup><a class=\"NewFn\" href=\"#footnote796\" title=\"(1)  ليست في «ج‍».\">1</a></sup></span> اَلْإِرَادَةَ مِنَ اَلْعِبَادِ<span><sup><a class=\"NewFn\" href=\"#footnote797\" title=\"(2)  في «د»: الضمير.\">2</a></sup></span> اَلضَّمِيرُ و مَا يَبْدُو بَعْدَ ذَلِكَ مِنَ اَلْفِعْلِ‌، و أَمَّا مِنَ اَللَّهِ عَزَّ و جَلَّ فَالْإِرَادَةُ لِلْفِعْلِ إِحْدَاثُهُ إِنَّمَا يَقُولُ لَهُ‌: كُنْ‌، فَيَكُونُ بِلاَ تَعَبٍ و لاَ<span><sup><a class=\"NewFn\" href=\"#footnote798\" title=\"(3)  «لا» ليست في «ج‍».\">3</a></sup></span> كَيْفٍ‌.</span>\n  </p>\n  <p id=\"p1756\" paragraph-id=\"1756\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: قَدْ بَلَّغْتَ‌، حَسْبُكَ‌، فَهَذِهِ كَافِيَةٌ لِمَنْ عَقَلَ‌؛ و اَلْحَمْدُ لِلّٰهِ رَبِّ اَلْعٰالَمِينَ‌، اَلَّذِي هَدَانَا مِنَ اَلضَّلاَلِ‌، و عَصَمَنَا عن أَنْ نُشَبِّهَهُ بِشَيْ‌ءٍ مِنْ خَلْقِهِ‌، و أَنْ نَشُكَّ فِي عَظَمَتِهِ و قُدْرَتِهِ و لَطِيفِ صُنْعِهِ و جَبَرُوتِهِ‌، جَلَّ عَنِ اَلْأَشْبَاهِ و اَلْأَضْدَادِ، و تَكَبَّرَ عَنِ اَلشُّرَكَاءِ و الأَنْدَاد<span><sup><a class=\"NewFn\" href=\"#footnote799\" title=\"(4)  في «د»: تم ذلك و صلى الله على سيدنا محمد و آله و سلم، و الحمد لله على كل حال من الأحوال. تم.\">4</a></sup></span>.</span>\n  </p>\n  <p id=\"p1757\" paragraph-id=\"1757\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote796\" footnote-id=\"796\">(1) <page number=\"154\" /> ليست في «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote797\" footnote-id=\"797\">(2)  في «د»: الضمير.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote798\" footnote-id=\"798\">(3)  «لا» ليست في «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote799\" footnote-id=\"799\">(4)  في «د»: تم ذلك و صلى الله على سيدنا محمد و آله و سلم، و الحمد لله على كل حال من الأحوال. تم.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "2F08BE17-0577-4969-941B-23695A8FC3E1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

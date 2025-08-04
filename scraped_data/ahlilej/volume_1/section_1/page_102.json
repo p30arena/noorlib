@@ -1,0 +1,113 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 102,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129492,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1461\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\"><page number=\"102\"/>اَلشَّمْسَ و حَسَبَ فَأَخْبَرَهُ بِمَا يَحْدُثُ فِي يَوْمِهِ ذَلِكَ‌، و مَا<lfootnote noteId=\"462\">1</lfootnote> حَدَثَ فِي لَيْلَتِهِ اَلَّتِي كَانَ‌<lfootnote noteId=\"463\">2</lfootnote>فِيهَا، فَإِنْ كَانَتِ اِمْرَأَةٌ مِنْ نِسَائِهِ قَارَفَتْ شَيْئاً يَكْرَهُهُ‌<lfootnote noteId=\"464\">3</lfootnote> أَخْبَرَهُ‌، فَقَالَ‌: فُلاَنٌ‌<lfootnote noteId=\"465\">4</lfootnote>قَارَفَ كَذَا و كَذَا مَعَ فُلاَنَةَ‌، و يَحْدُثُ فِي هَذَا اَلْيَوْمِ كَذَا و كَذَا.</format></p>"
+        },
+        {
+          "paragraphId": 704129493,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1462\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\">قُلْتُ‌: فَأَخْبِرْنِي عَنِ اَلْخَصْلَةِ اَلْأُخْرَى.</format></p>"
+        },
+        {
+          "paragraphId": 704129494,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1463\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\">قَالَ‌: قَوْمٌ بِالْهِنْدِ بِمَنْزِلَةِ اَلْخَنَّاقِينَ عِنْدَكُمْ يَقْتُلُونَ اَلنَّاسَ بِلاَ سِلاَحٍ و لاَ خَنْقٍ و يَأخُذُونَ أَمْوَالَهُم.</format></p>"
+        },
+        {
+          "paragraphId": 704129495,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1464\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\">قُلْتُ‌: و كَيْفَ يَكُونُ هَذَا؟</format></p>"
+        },
+        {
+          "paragraphId": 704129496,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1465\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\">قَالَ‌: يَخْرُجُونَ مَعَ اَلرِّفْقَةِ و اَلتُّجَّارِ بِقَدْرِ مَا فِيهَا مِنَ اَلرَّجَّال<lfootnote noteId=\"466\">5</lfootnote> فَيَمشُونَ مَعَهُم (أَيَّاماً لَيْسَ مَعَهُمْ‌)<lfootnote noteId=\"467\">6</lfootnote> سِلاَحٌ‌، و يُحَدِّثُونَ اَلرِّجَالَ‌<lfootnote noteId=\"468\">7</lfootnote> و يَحْسُبُونَ حِسَابَ‌<lfootnote noteId=\"469\">8</lfootnote> كُلِّ رَجُلٍ مِنَ اَلتُّجَّارِ، فَإِذَا عَرَفَ أَجْمَعُهُمْ مَوْضِعَ اَلنَّفْسِ مِنْ صَاحِبِهِ (وَكَزَ كُلُّ وَاحِدٍ مِنْهُمْ صَاحِبه)<lfootnote noteId=\"470\">9</lfootnote> الَّذِي حَسَبَ لَهُ‌<lfootnote noteId=\"471\">10</lfootnote> فِي ذَلِكَ اَلْمَوْضِعِ‌<lfootnote noteId=\"472\">11</lfootnote> فَيَقَعُ جَمِيعُ اَلتُّجَّارِ مَوْتَى!</format></p>"
+        },
+        {
+          "paragraphId": 704129497,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1466\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\"><page number=\"103\"/>قُلْتُ‌: إِنَّ‌<lfootnote noteId=\"473\">1</lfootnote> هَذَا أَرْفَعُ مِنَ اَلْبَابِ اَلْأَوَّلِ إِنْ كَانَ مَا تَقُولُ حَقّاً!</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130285,
+          "text": "<footnote id=\"462\"><page number=\"102\"/><mnote>(1)</mnote> في «أ» «ج‍»: و بما.</footnote>"
+        },
+        {
+          "footnoteId": 704130286,
+          "text": "<footnote id=\"463\"><mnote>(2)</mnote> في «أ»: «لها» بدل «كان» و هي ليست في «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130287,
+          "text": "<footnote id=\"464\"><mnote>(3)</mnote> في «أ»: شيئا لم يكرهه.</footnote>"
+        },
+        {
+          "footnoteId": 704130288,
+          "text": "<footnote id=\"465\"><mnote>(4)</mnote> في «أ» «ج‍»: فلانة قارفت.</footnote>"
+        },
+        {
+          "footnoteId": 704130289,
+          "text": "<footnote id=\"466\"><mnote>(5)</mnote> في «ب»: الرجالة.</footnote>"
+        },
+        {
+          "footnoteId": 704130290,
+          "text": "<footnote id=\"467\"><mnote>(6)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130291,
+          "text": "<footnote id=\"468\"><mnote>(7)</mnote> في «ج‍»: التجار.</footnote>"
+        },
+        {
+          "footnoteId": 704130292,
+          "text": "<footnote id=\"469\"><mnote>(8)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130293,
+          "text": "<footnote id=\"470\"><mnote>(9)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130294,
+          "text": "<footnote id=\"471\"><mnote>(10)</mnote> في «ب»: به.</footnote>"
+        },
+        {
+          "footnoteId": 704130295,
+          "text": "<footnote id=\"472\"><mnote>(11)</mnote> ليست في «أ» «ج‍».</footnote>"
+        }
+      ],
+      "pageValue": "102",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1461\" paragraph-id=\"1461\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo102\">102</span>اَلشَّمْسَ و حَسَبَ فَأَخْبَرَهُ بِمَا يَحْدُثُ فِي يَوْمِهِ ذَلِكَ‌، و مَا<span><sup><a class=\"NewFn\" href=\"#footnote462\" title=\"(1)  في «أ» «ج‍»: و بما.\">1</a></sup></span> حَدَثَ فِي لَيْلَتِهِ اَلَّتِي كَانَ‌<span><sup><a class=\"NewFn\" href=\"#footnote463\" title=\"(2)  في «أ»: «لها» بدل «كان» و هي ليست في «ج‍».\">2</a></sup></span>فِيهَا، فَإِنْ كَانَتِ اِمْرَأَةٌ مِنْ نِسَائِهِ قَارَفَتْ شَيْئاً يَكْرَهُهُ‌<span><sup><a class=\"NewFn\" href=\"#footnote464\" title=\"(3)  في «أ»: شيئا لم يكرهه.\">3</a></sup></span> أَخْبَرَهُ‌، فَقَالَ‌: فُلاَنٌ‌<span><sup><a class=\"NewFn\" href=\"#footnote465\" title=\"(4)  في «أ» «ج‍»: فلانة قارفت.\">4</a></sup></span>قَارَفَ كَذَا و كَذَا مَعَ فُلاَنَةَ‌، و يَحْدُثُ فِي هَذَا اَلْيَوْمِ كَذَا و كَذَا.</span>\n  </p>\n  <p id=\"p1462\" paragraph-id=\"1462\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَأَخْبِرْنِي عَنِ اَلْخَصْلَةِ اَلْأُخْرَى.</span>\n  </p>\n  <p id=\"p1463\" paragraph-id=\"1463\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: قَوْمٌ بِالْهِنْدِ بِمَنْزِلَةِ اَلْخَنَّاقِينَ عِنْدَكُمْ يَقْتُلُونَ اَلنَّاسَ بِلاَ سِلاَحٍ و لاَ خَنْقٍ و يَأخُذُونَ أَمْوَالَهُم.</span>\n  </p>\n  <p id=\"p1464\" paragraph-id=\"1464\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: و كَيْفَ يَكُونُ هَذَا؟</span>\n  </p>\n  <p id=\"p1465\" paragraph-id=\"1465\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: يَخْرُجُونَ مَعَ اَلرِّفْقَةِ و اَلتُّجَّارِ بِقَدْرِ مَا فِيهَا مِنَ اَلرَّجَّال<span><sup><a class=\"NewFn\" href=\"#footnote466\" title=\"(5)  في «ب»: الرجالة.\">5</a></sup></span> فَيَمشُونَ مَعَهُم (أَيَّاماً لَيْسَ مَعَهُمْ‌)<span><sup><a class=\"NewFn\" href=\"#footnote467\" title=\"(6)  ليست في «أ».\">6</a></sup></span> سِلاَحٌ‌، و يُحَدِّثُونَ اَلرِّجَالَ‌<span><sup><a class=\"NewFn\" href=\"#footnote468\" title=\"(7)  في «ج‍»: التجار.\">7</a></sup></span> و يَحْسُبُونَ حِسَابَ‌<span><sup><a class=\"NewFn\" href=\"#footnote469\" title=\"(8)  ليست في «أ».\">8</a></sup></span> كُلِّ رَجُلٍ مِنَ اَلتُّجَّارِ، فَإِذَا عَرَفَ أَجْمَعُهُمْ مَوْضِعَ اَلنَّفْسِ مِنْ صَاحِبِهِ (وَكَزَ كُلُّ وَاحِدٍ مِنْهُمْ صَاحِبه)<span><sup><a class=\"NewFn\" href=\"#footnote470\" title=\"(9)  ليست في «أ».\">9</a></sup></span> الَّذِي حَسَبَ لَهُ‌<span><sup><a class=\"NewFn\" href=\"#footnote471\" title=\"(10)  في «ب»: به.\">10</a></sup></span> فِي ذَلِكَ اَلْمَوْضِعِ‌<span><sup><a class=\"NewFn\" href=\"#footnote472\" title=\"(11)  ليست في «أ» «ج‍».\">11</a></sup></span> فَيَقَعُ جَمِيعُ اَلتُّجَّارِ مَوْتَى!</span>\n  </p>\n  <p id=\"p1466\" paragraph-id=\"1466\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote462\" footnote-id=\"462\">(1) <page number=\"102\" /> في «أ» «ج‍»: و بما.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote463\" footnote-id=\"463\">(2)  في «أ»: «لها» بدل «كان» و هي ليست في «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote464\" footnote-id=\"464\">(3)  في «أ»: شيئا لم يكرهه.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote465\" footnote-id=\"465\">(4)  في «أ» «ج‍»: فلانة قارفت.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote466\" footnote-id=\"466\">(5)  في «ب»: الرجالة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote467\" footnote-id=\"467\">(6)  ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote468\" footnote-id=\"468\">(7)  في «ج‍»: التجار.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote469\" footnote-id=\"469\">(8)  ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote470\" footnote-id=\"470\">(9)  ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote471\" footnote-id=\"471\">(10)  في «ب»: به.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote472\" footnote-id=\"472\">(11)  ليست في «أ» «ج‍».</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A11D28F9-B2B7-479E-8F62-0D2A9A8F52C9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,89 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 172,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129367,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1836\"><page number=\"172\"/>و ما ذكره عليه السلام من أن خالق الحياة و الموت لا بد أن يكون واحدا<lfootnote noteId=\"872\">1</lfootnote> مما يحكم به الوجدان مع أن الظاهر من خالق الحياة من يكون مستقلا فيه، و الموت ليس إلا رفع الحياة، فلو كان مستندا إلى غيره لم يكن خالق الحياة مستقلا فيه.</p>"
+        },
+        {
+          "paragraphId": 704129368,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1837\">[46] قوله عليه السلام: «دون هذا»<lfootnote noteId=\"873\">2</lfootnote> أي أنا أنكر الصعود إلى السماء الذي هو أسهل مما ذكرت فكيف أقر به، أو المراد أن الصعود إلى السماء أسهل علي من الإقرار بما ذكرت.</p>"
+        },
+        {
+          "paragraphId": 704129369,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1838\">[47] قوله عليه السلام: «أنهن كن قبل الناس»<lfootnote noteId=\"874\">3</lfootnote> أي بالعلية و السببية كما ظن السائل، أو بالزمان أي تقدمها على كل شخص، أو على الجميع بناء على لزوم التقدم على كل من الأشخاص التقدم على الجميع كما قيل، أو على أنه عليه السلام كان يعلم أن السائل كان قائلا بذلك فذكره عليه السلام إلزاما عليه كما اعترف به.</p>"
+        },
+        {
+          "paragraphId": 704129370,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1839\">و على الأول يكون المراد بقوله: «لم يزالوا و لا يزالون»<lfootnote noteId=\"875\">4</lfootnote> عدم استنادهم إلى علة، و على الثاني فالمراد إما قدم مادتهم أو صورهم أيضا بناء على القول بالكمون، و على الثالث فالمراد قدم نوعهم.</p>"
+        },
+        {
+          "paragraphId": 704129371,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1840\">[48] قوله عليه السلام: «بعد هذا الفلك»<lfootnote noteId=\"876\">5</lfootnote> أي هي محتاجة إلى الفلك، و الفلك </p>"
+        },
+        {
+          "paragraphId": 704129372,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1841\"><page number=\"173\"/>متقدمة عليها بالعلية، فلا يصح كون النجوم علة لها للزوم الدور.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130695,
+          "text": "<footnote id=\"872\"><page number=\"172\"/><mnote>(1)</mnote> انظر الصفحة 113، السطر 4-5.</footnote>"
+        },
+        {
+          "footnoteId": 704130696,
+          "text": "<footnote id=\"873\"><mnote>(2)</mnote> الصفحة 115، السطر 7.</footnote>"
+        },
+        {
+          "footnoteId": 704130697,
+          "text": "<footnote id=\"874\"><mnote>(3)</mnote> الصفحة 116، السطر 8.</footnote>"
+        },
+        {
+          "footnoteId": 704130698,
+          "text": "<footnote id=\"875\"><mnote>(4)</mnote> الصفحة 117، السطر 1.</footnote>"
+        },
+        {
+          "footnoteId": 704130699,
+          "text": "<footnote id=\"876\"><mnote>(5)</mnote> الصفحة 118، السطر 4-5.</footnote>"
+        }
+      ],
+      "pageValue": "172",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1836\" paragraph-id=\"1836\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo172\">172</span>و ما ذكره عليه السلام من أن خالق الحياة و الموت لا بد أن يكون واحدا<span><sup><a class=\"NewFn\" href=\"#footnote872\" title=\"(1)  انظر الصفحة 113، السطر 4-5.\">1</a></sup></span> مما يحكم به الوجدان مع أن الظاهر من خالق الحياة من يكون مستقلا فيه، و الموت ليس إلا رفع الحياة، فلو كان مستندا إلى غيره لم يكن خالق الحياة مستقلا فيه.</p>\n  <p id=\"p1837\" paragraph-id=\"1837\" class=\" G\">[46] قوله عليه السلام: «دون هذا»<span><sup><a class=\"NewFn\" href=\"#footnote873\" title=\"(2)  الصفحة 115، السطر 7.\">2</a></sup></span> أي أنا أنكر الصعود إلى السماء الذي هو أسهل مما ذكرت فكيف أقر به، أو المراد أن الصعود إلى السماء أسهل علي من الإقرار بما ذكرت.</p>\n  <p id=\"p1838\" paragraph-id=\"1838\" class=\" G\">[47] قوله عليه السلام: «أنهن كن قبل الناس»<span><sup><a class=\"NewFn\" href=\"#footnote874\" title=\"(3)  الصفحة 116، السطر 8.\">3</a></sup></span> أي بالعلية و السببية كما ظن السائل، أو بالزمان أي تقدمها على كل شخص، أو على الجميع بناء على لزوم التقدم على كل من الأشخاص التقدم على الجميع كما قيل، أو على أنه عليه السلام كان يعلم أن السائل كان قائلا بذلك فذكره عليه السلام إلزاما عليه كما اعترف به.</p>\n  <p id=\"p1839\" paragraph-id=\"1839\" class=\" G\">و على الأول يكون المراد بقوله: «لم يزالوا و لا يزالون»<span><sup><a class=\"NewFn\" href=\"#footnote875\" title=\"(4)  الصفحة 117، السطر 1.\">4</a></sup></span> عدم استنادهم إلى علة، و على الثاني فالمراد إما قدم مادتهم أو صورهم أيضا بناء على القول بالكمون، و على الثالث فالمراد قدم نوعهم.</p>\n  <p id=\"p1840\" paragraph-id=\"1840\" class=\" G\">[48] قوله عليه السلام: «بعد هذا الفلك»<span><sup><a class=\"NewFn\" href=\"#footnote876\" title=\"(5)  الصفحة 118، السطر 4-5.\">5</a></sup></span> أي هي محتاجة إلى الفلك، و الفلك </p>\n  <p id=\"p1841\" paragraph-id=\"1841\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote872\" footnote-id=\"872\">(1) <page number=\"172\" /> انظر الصفحة 113، السطر 4-5.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote873\" footnote-id=\"873\">(2)  الصفحة 115، السطر 7.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote874\" footnote-id=\"874\">(3)  الصفحة 116، السطر 8.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote875\" footnote-id=\"875\">(4)  الصفحة 117، السطر 1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote876\" footnote-id=\"876\">(5)  الصفحة 118، السطر 4-5.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "02846C48-45DA-46A5-B975-A3F4370E2F60",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

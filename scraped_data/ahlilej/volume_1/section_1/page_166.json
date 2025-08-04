@@ -1,0 +1,137 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 166,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129334,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1803\"><page number=\"166\"/>و الإدناء، و عطف شيء رطب كغصن و نحوه و كسره من غير بينونة<lfootnote noteId=\"843\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129335,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1804\">و قال: الجليد<lfootnote noteId=\"844\">2</lfootnote>: ما يسقط على الأرض من الندى فيجمد<lfootnote noteId=\"845\">3</lfootnote>، انتهى.</p>"
+        },
+        {
+          "paragraphId": 704129336,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1805\">[30] و قوله عليه السلام: «أزجاه»<lfootnote noteId=\"846\">4</lfootnote> أي دفعه.</p>"
+        },
+        {
+          "paragraphId": 704129337,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1806\">و الرسل<lfootnote noteId=\"847\">5</lfootnote> - بالكسر -: التأني و الرفق.</p>"
+        },
+        {
+          "paragraphId": 704129338,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1807\">و ينقع<lfootnote noteId=\"848\">6</lfootnote> بالياء على المعلوم أو بالتاء على المجهول.</p>"
+        },
+        {
+          "paragraphId": 704129339,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1808\">و البرك<lfootnote noteId=\"849\">7</lfootnote> - كعنب -: جمع بركة و هي معروفة.</p>"
+        },
+        {
+          "paragraphId": 704129340,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1809\">و الفجاج<lfootnote noteId=\"850\">8</lfootnote> - بالضم -: الطريق الواسع بين جبلين، و بالكسر جمع الفج بمعناه.</p>"
+        },
+        {
+          "paragraphId": 704129341,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1810\">و الاعتلاء<lfootnote noteId=\"851\">9</lfootnote>: الارتفاع.</p>"
+        },
+        {
+          "paragraphId": 704129342,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1811\">[31] و قوله عليه السلام: «غاصة»<lfootnote noteId=\"852\">10</lfootnote> أي ممتلئة. و المصمخة<lfootnote noteId=\"853\">11</lfootnote> لعلها مشتقة من الصماخ أي تؤذي الصماخ؛ و الأظهر مصممة.</p>"
+        },
+        {
+          "paragraphId": 704129343,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1812\"><page number=\"167\"/>[32] قوله عليه السلام: «من نبات»<lfootnote noteId=\"854\">1</lfootnote> بالإضافة على أن يكون مصدرا، أو بالتنوين ليكون «عشب» بدل بعض له.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130666,
+          "text": "<footnote id=\"843\"><page number=\"166\"/><mnote>(1)</mnote> القاموس المحيط 161:2.</footnote>"
+        },
+        {
+          "footnoteId": 704130667,
+          "text": "<footnote id=\"844\"><mnote>(2)</mnote> في قوله عليه السلام «و الجليد»، الصفحة 91، السطر 9.</footnote>"
+        },
+        {
+          "footnoteId": 704130668,
+          "text": "<footnote id=\"845\"><mnote>(3)</mnote> القاموس المحيط 284:1.</footnote>"
+        },
+        {
+          "footnoteId": 704130669,
+          "text": "<footnote id=\"846\"><mnote>(4)</mnote> الصفحة 92، السطر 4.</footnote>"
+        },
+        {
+          "footnoteId": 704130670,
+          "text": "<footnote id=\"847\"><mnote>(5)</mnote> الصفحة 92، السطر 7.</footnote>"
+        },
+        {
+          "footnoteId": 704130671,
+          "text": "<footnote id=\"848\"><mnote>(6)</mnote> الصفحة 92، السطر 7.</footnote>"
+        },
+        {
+          "footnoteId": 704130672,
+          "text": "<footnote id=\"849\"><mnote>(7)</mnote> الصفحة 92، السطر 7، و فيه «البر» فلاحظ.</footnote>"
+        },
+        {
+          "footnoteId": 704130673,
+          "text": "<footnote id=\"850\"><mnote>(8)</mnote> الصفحة 92، السطر 7.</footnote>"
+        },
+        {
+          "footnoteId": 704130674,
+          "text": "<footnote id=\"851\"><mnote>(9)</mnote> في قوله عليه السلام: و تعتلي الأودية. الصفحة 92، السطر 7.</footnote>"
+        },
+        {
+          "footnoteId": 704130675,
+          "text": "<footnote id=\"852\"><mnote>(10)</mnote> الصفحة 92، السطر 8.</footnote>"
+        },
+        {
+          "footnoteId": 704130676,
+          "text": "<footnote id=\"853\"><mnote>(11)</mnote> استظهرنا في المتن أنها «مصيخة»، الصفحة 92، السطر 8.</footnote>"
+        }
+      ],
+      "pageValue": "166",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1803\" paragraph-id=\"1803\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo166\">166</span>و الإدناء، و عطف شيء رطب كغصن و نحوه و كسره من غير بينونة<span><sup><a class=\"NewFn\" href=\"#footnote843\" title=\"(1)  القاموس المحيط 161:2.\">1</a></sup></span>.</p>\n  <p id=\"p1804\" paragraph-id=\"1804\" class=\" G\">و قال: الجليد<span><sup><a class=\"NewFn\" href=\"#footnote844\" title=\"(2)  في قوله عليه السلام «و الجليد»، الصفحة 91، السطر 9.\">2</a></sup></span>: ما يسقط على الأرض من الندى فيجمد<span><sup><a class=\"NewFn\" href=\"#footnote845\" title=\"(3)  القاموس المحيط 284:1.\">3</a></sup></span>، انتهى.</p>\n  <p id=\"p1805\" paragraph-id=\"1805\" class=\" G\">[30] و قوله عليه السلام: «أزجاه»<span><sup><a class=\"NewFn\" href=\"#footnote846\" title=\"(4)  الصفحة 92، السطر 4.\">4</a></sup></span> أي دفعه.</p>\n  <p id=\"p1806\" paragraph-id=\"1806\" class=\" G\">و الرسل<span><sup><a class=\"NewFn\" href=\"#footnote847\" title=\"(5)  الصفحة 92، السطر 7.\">5</a></sup></span> - بالكسر -: التأني و الرفق.</p>\n  <p id=\"p1807\" paragraph-id=\"1807\" class=\" G\">و ينقع<span><sup><a class=\"NewFn\" href=\"#footnote848\" title=\"(6)  الصفحة 92، السطر 7.\">6</a></sup></span> بالياء على المعلوم أو بالتاء على المجهول.</p>\n  <p id=\"p1808\" paragraph-id=\"1808\" class=\" G\">و البرك<span><sup><a class=\"NewFn\" href=\"#footnote849\" title=\"(7)  الصفحة 92، السطر 7، و فيه «البر» فلاحظ.\">7</a></sup></span> - كعنب -: جمع بركة و هي معروفة.</p>\n  <p id=\"p1809\" paragraph-id=\"1809\" class=\" G\">و الفجاج<span><sup><a class=\"NewFn\" href=\"#footnote850\" title=\"(8)  الصفحة 92، السطر 7.\">8</a></sup></span> - بالضم -: الطريق الواسع بين جبلين، و بالكسر جمع الفج بمعناه.</p>\n  <p id=\"p1810\" paragraph-id=\"1810\" class=\" G\">و الاعتلاء<span><sup><a class=\"NewFn\" href=\"#footnote851\" title=\"(9)  في قوله عليه السلام: و تعتلي الأودية. الصفحة 92، السطر 7.\">9</a></sup></span>: الارتفاع.</p>\n  <p id=\"p1811\" paragraph-id=\"1811\" class=\" G\">[31] و قوله عليه السلام: «غاصة»<span><sup><a class=\"NewFn\" href=\"#footnote852\" title=\"(10)  الصفحة 92، السطر 8.\">10</a></sup></span> أي ممتلئة. و المصمخة<span><sup><a class=\"NewFn\" href=\"#footnote853\" title=\"(11)  استظهرنا في المتن أنها «مصيخة»، الصفحة 92، السطر 8.\">11</a></sup></span> لعلها مشتقة من الصماخ أي تؤذي الصماخ؛ و الأظهر مصممة.</p>\n  <p id=\"p1812\" paragraph-id=\"1812\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote843\" footnote-id=\"843\">(1) <page number=\"166\" /> القاموس المحيط 161:2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote844\" footnote-id=\"844\">(2)  في قوله عليه السلام «و الجليد»، الصفحة 91، السطر 9.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote845\" footnote-id=\"845\">(3)  القاموس المحيط 284:1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote846\" footnote-id=\"846\">(4)  الصفحة 92، السطر 4.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote847\" footnote-id=\"847\">(5)  الصفحة 92، السطر 7.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote848\" footnote-id=\"848\">(6)  الصفحة 92، السطر 7.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote849\" footnote-id=\"849\">(7)  الصفحة 92، السطر 7، و فيه «البر» فلاحظ.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote850\" footnote-id=\"850\">(8)  الصفحة 92، السطر 7.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote851\" footnote-id=\"851\">(9)  في قوله عليه السلام: و تعتلي الأودية. الصفحة 92، السطر 7.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote852\" footnote-id=\"852\">(10)  الصفحة 92، السطر 8.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote853\" footnote-id=\"853\">(11)  استظهرنا في المتن أنها «مصيخة»، الصفحة 92، السطر 8.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F94693AF-DF6A-4EA0-AB8E-CB1B201D9214",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

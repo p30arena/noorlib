@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 186,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129813,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1929\"><page number=\"186\"/>بطلان أن معرفة علم الطب بالتجربة 119</p>"
+        },
+        {
+          "paragraphId": 704129814,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1930\">إن واضع الأدوية و الدال عليها هو البارئ سبحانه 128</p>"
+        },
+        {
+          "paragraphId": 704129815,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1931\">في أن الكون متصل بعضه ببعض و أن خالقه واحد 132</p>"
+        },
+        {
+          "paragraphId": 704129816,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1932\">دلالة الإهليلجة على وحدة النظام و أن المدبر عليم حكيم 136</p>"
+        },
+        {
+          "paragraphId": 704129817,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1933\">في أن الخلق المتقن كله مسخر للناس 138</p>"
+        },
+        {
+          "paragraphId": 704129818,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1934\">دفع شبهة أن الأشياء الضارة ليست من خلق الله 141</p>"
+        },
+        {
+          "paragraphId": 704129819,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1935\">إن الله علم الناس هذه العلوم 143</p>"
+        },
+        {
+          "paragraphId": 704129820,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1936\">النقاش حول نفي الشريك 146</p>"
+        },
+        {
+          "paragraphId": 704129821,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1937\">النقاش في صفات البارئ عز و جل 149</p>"
+        },
+        {
+          "paragraphId": 704129822,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1938\">شروح و تعليقات العلامة المجلسي رحمه الله 155</p>"
+        },
+        {
+          "paragraphId": 704129823,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1939\"><format class=\"EndIntroduction\" type=\"5\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "186",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1929\" paragraph-id=\"1929\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo186\">186</span>بطلان أن معرفة علم الطب بالتجربة 119</p>\n  <p id=\"p1930\" paragraph-id=\"1930\" class=\" G\">إن واضع الأدوية و الدال عليها هو البارئ سبحانه 128</p>\n  <p id=\"p1931\" paragraph-id=\"1931\" class=\" G\">في أن الكون متصل بعضه ببعض و أن خالقه واحد 132</p>\n  <p id=\"p1932\" paragraph-id=\"1932\" class=\" G\">دلالة الإهليلجة على وحدة النظام و أن المدبر عليم حكيم 136</p>\n  <p id=\"p1933\" paragraph-id=\"1933\" class=\" G\">في أن الخلق المتقن كله مسخر للناس 138</p>\n  <p id=\"p1934\" paragraph-id=\"1934\" class=\" G\">دفع شبهة أن الأشياء الضارة ليست من خلق الله 141</p>\n  <p id=\"p1935\" paragraph-id=\"1935\" class=\" G\">إن الله علم الناس هذه العلوم 143</p>\n  <p id=\"p1936\" paragraph-id=\"1936\" class=\" G\">النقاش حول نفي الشريك 146</p>\n  <p id=\"p1937\" paragraph-id=\"1937\" class=\" G\">النقاش في صفات البارئ عز و جل 149</p>\n  <p id=\"p1938\" paragraph-id=\"1938\" class=\" G\">شروح و تعليقات العلامة المجلسي رحمه الله 155</p>\n  <p id=\"p1939\" paragraph-id=\"1939\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n  <span />\n  <span />\n</div>",
+      "bookPageVisitLogId": "CC644079-55B1-49BE-86AB-BD675199EB1E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

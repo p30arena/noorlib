@@ -1,0 +1,149 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 18,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128981,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1015\"><page number=\"18\"/>د - صحيفة الرضا عليه السلام. و هي صحيفة مشهورة، و لها نسخ كثيرة<lfootnote noteId=\"77\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128982,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1016\">ه‍ - فقه الرضا عليه السلام. و هو كتاب في أبواب الفقه<lfootnote noteId=\"78\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128983,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1017\">و - كتاب. رواه علي بن مهدي بن صدقة، أبو الحسن الرقي الأنصاري<lfootnote noteId=\"79\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128984,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1018\">ز - كتاب. رواه موسى بن سلمة الكوفي<lfootnote noteId=\"80\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128985,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1019\">ح - كتاب. رواه وريزة بن محمد الغساني<lfootnote noteId=\"81\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128986,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1020\">ط - مجالس الرضا عليه السلام مع أهل الأديان. صنفه الحسين بن محمد بن الفضل بن يعقوب، أبو محمد الهاشمي<lfootnote noteId=\"82\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128987,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1021\">ي - مسائل. رواها الحسن بن علي الوشاء<lfootnote noteId=\"83\">7</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128988,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1022\">ك - مسائل. رواها سعد خادم أبي دلف العجلي<lfootnote noteId=\"84\">8</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128989,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1023\">ل - مسائل. رواها صباح بن نصر الهندي<lfootnote noteId=\"85\">9</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128990,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1024\">م - مسائل. رواها عبد الله بن محمد بن حصين الأهوازي<lfootnote noteId=\"86\">10</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128991,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1025\">ن - مسائل. رواها عيسى بن عبد الله بن سعد بن مالك الأشعري<lfootnote noteId=\"87\">11</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128992,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1026\"><page number=\"19\"/>س - مسائل. رواها معاوية بن سعيد<lfootnote noteId=\"88\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129900,
+          "text": "<footnote id=\"77\"><page number=\"18\"/><mnote>(1)</mnote> و هي مطبوعة متداولة. و انظر رجال النجاشي: 100 /رقم 250، و أعيان الشيعة 27:2.</footnote>"
+        },
+        {
+          "footnoteId": 704129901,
+          "text": "<footnote id=\"78\"><mnote>(2)</mnote> و هو مطبوع متداول. و انظر أعيان الشيعة 27:2.</footnote>"
+        },
+        {
+          "footnoteId": 704129902,
+          "text": "<footnote id=\"79\"><mnote>(3)</mnote> رجال النجاشي: 277 /رقم 728.</footnote>"
+        },
+        {
+          "footnoteId": 704129903,
+          "text": "<footnote id=\"80\"><mnote>(4)</mnote> رجال النجاشي: 409 /رقم 1090.</footnote>"
+        },
+        {
+          "footnoteId": 704129904,
+          "text": "<footnote id=\"81\"><mnote>(5)</mnote> رجال النجاشي: 432 /رقم 1163.</footnote>"
+        },
+        {
+          "footnoteId": 704129905,
+          "text": "<footnote id=\"82\"><mnote>(6)</mnote> رجال النجاشي: 56 /رقم 131.</footnote>"
+        },
+        {
+          "footnoteId": 704129906,
+          "text": "<footnote id=\"83\"><mnote>(7)</mnote> رجال النجاشي: 39 /رقم 80.</footnote>"
+        },
+        {
+          "footnoteId": 704129907,
+          "text": "<footnote id=\"84\"><mnote>(8)</mnote> رجال النجاشي: 179 /رقم 471.</footnote>"
+        },
+        {
+          "footnoteId": 704129908,
+          "text": "<footnote id=\"85\"><mnote>(9)</mnote> رجال النجاشي: 202 /رقم 539.</footnote>"
+        },
+        {
+          "footnoteId": 704129909,
+          "text": "<footnote id=\"86\"><mnote>(10)</mnote> رجال النجاشي: 227 /رقم 597.</footnote>"
+        },
+        {
+          "footnoteId": 704129910,
+          "text": "<footnote id=\"87\"><mnote>(11)</mnote> رجال النجاشي: 410 /رقم 1094.</footnote>"
+        }
+      ],
+      "pageValue": "18",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1015\" paragraph-id=\"1015\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo18\">18</span>د - صحيفة الرضا عليه السلام. و هي صحيفة مشهورة، و لها نسخ كثيرة<span><sup><a class=\"NewFn\" href=\"#footnote77\" title=\"(1)  و هي مطبوعة متداولة. و انظر رجال النجاشي: 100 /رقم 250، و أعيان الشيعة 27:2.\">1</a></sup></span>.</p>\n  <p id=\"p1016\" paragraph-id=\"1016\" class=\" G\">ه‍ - فقه الرضا عليه السلام. و هو كتاب في أبواب الفقه<span><sup><a class=\"NewFn\" href=\"#footnote78\" title=\"(2)  و هو مطبوع متداول. و انظر أعيان الشيعة 27:2.\">2</a></sup></span>.</p>\n  <p id=\"p1017\" paragraph-id=\"1017\" class=\" G\">و - كتاب. رواه علي بن مهدي بن صدقة، أبو الحسن الرقي الأنصاري<span><sup><a class=\"NewFn\" href=\"#footnote79\" title=\"(3)  رجال النجاشي: 277 /رقم 728.\">3</a></sup></span>.</p>\n  <p id=\"p1018\" paragraph-id=\"1018\" class=\" G\">ز - كتاب. رواه موسى بن سلمة الكوفي<span><sup><a class=\"NewFn\" href=\"#footnote80\" title=\"(4)  رجال النجاشي: 409 /رقم 1090.\">4</a></sup></span>.</p>\n  <p id=\"p1019\" paragraph-id=\"1019\" class=\" G\">ح - كتاب. رواه وريزة بن محمد الغساني<span><sup><a class=\"NewFn\" href=\"#footnote81\" title=\"(5)  رجال النجاشي: 432 /رقم 1163.\">5</a></sup></span>.</p>\n  <p id=\"p1020\" paragraph-id=\"1020\" class=\" G\">ط - مجالس الرضا عليه السلام مع أهل الأديان. صنفه الحسين بن محمد بن الفضل بن يعقوب، أبو محمد الهاشمي<span><sup><a class=\"NewFn\" href=\"#footnote82\" title=\"(6)  رجال النجاشي: 56 /رقم 131.\">6</a></sup></span>.</p>\n  <p id=\"p1021\" paragraph-id=\"1021\" class=\" G\">ي - مسائل. رواها الحسن بن علي الوشاء<span><sup><a class=\"NewFn\" href=\"#footnote83\" title=\"(7)  رجال النجاشي: 39 /رقم 80.\">7</a></sup></span>.</p>\n  <p id=\"p1022\" paragraph-id=\"1022\" class=\" G\">ك - مسائل. رواها سعد خادم أبي دلف العجلي<span><sup><a class=\"NewFn\" href=\"#footnote84\" title=\"(8)  رجال النجاشي: 179 /رقم 471.\">8</a></sup></span>.</p>\n  <p id=\"p1023\" paragraph-id=\"1023\" class=\" G\">ل - مسائل. رواها صباح بن نصر الهندي<span><sup><a class=\"NewFn\" href=\"#footnote85\" title=\"(9)  رجال النجاشي: 202 /رقم 539.\">9</a></sup></span>.</p>\n  <p id=\"p1024\" paragraph-id=\"1024\" class=\" G\">م - مسائل. رواها عبد الله بن محمد بن حصين الأهوازي<span><sup><a class=\"NewFn\" href=\"#footnote86\" title=\"(10)  رجال النجاشي: 227 /رقم 597.\">10</a></sup></span>.</p>\n  <p id=\"p1025\" paragraph-id=\"1025\" class=\" G\">ن - مسائل. رواها عيسى بن عبد الله بن سعد بن مالك الأشعري<span><sup><a class=\"NewFn\" href=\"#footnote87\" title=\"(11)  رجال النجاشي: 410 /رقم 1094.\">11</a></sup></span>.</p>\n  <p id=\"p1026\" paragraph-id=\"1026\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote77\" footnote-id=\"77\">(1) <page number=\"18\" /> و هي مطبوعة متداولة. و انظر رجال النجاشي: 100 /رقم 250، و أعيان الشيعة 27:2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote78\" footnote-id=\"78\">(2)  و هو مطبوع متداول. و انظر أعيان الشيعة 27:2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote79\" footnote-id=\"79\">(3)  رجال النجاشي: 277 /رقم 728.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote80\" footnote-id=\"80\">(4)  رجال النجاشي: 409 /رقم 1090.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote81\" footnote-id=\"81\">(5)  رجال النجاشي: 432 /رقم 1163.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote82\" footnote-id=\"82\">(6)  رجال النجاشي: 56 /رقم 131.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote83\" footnote-id=\"83\">(7)  رجال النجاشي: 39 /رقم 80.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote84\" footnote-id=\"84\">(8)  رجال النجاشي: 179 /رقم 471.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote85\" footnote-id=\"85\">(9)  رجال النجاشي: 202 /رقم 539.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote86\" footnote-id=\"86\">(10)  رجال النجاشي: 227 /رقم 597.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote87\" footnote-id=\"87\">(11)  رجال النجاشي: 410 /رقم 1094.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "58418592-F053-424C-A58E-A4588C398B85",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

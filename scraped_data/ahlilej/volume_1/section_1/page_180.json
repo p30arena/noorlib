@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 180,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129410,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1879\"><page number=\"180\"/><page number=\"181\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"7\"/>فهرس الآيات القرآنية </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "180",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1879\" paragraph-id=\"1879\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo180\">180</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "A8BEACA7-1C0D-4AF1-BD9B-2EA5DE2B99F1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

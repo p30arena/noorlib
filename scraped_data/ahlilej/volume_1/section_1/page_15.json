@@ -1,0 +1,139 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 15,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128955,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"989\"><page number=\"15\"/>ف - مناسك الحج و فرائضه، و ما هو مسنون في ذلك<lfootnote noteId=\"53\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128956,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"990\">ص - نسخة. رواها إبراهيم بن رجاء الشيباني الجحدري<lfootnote noteId=\"54\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128957,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"991\">ق - نسخة. رواها سفيان بن عيينة الهلالي<lfootnote noteId=\"55\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128958,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"992\">ر - نسخة. رواها عباس بن زيد المدني، مولاه عليه السلام<lfootnote noteId=\"56\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128959,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"993\">ش - نسخة. رواها عبد الله بن أويس الأصبحي<lfootnote noteId=\"57\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128960,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"994\">ت - نسخة. رواها الفضيل بن عياض البصري<lfootnote noteId=\"58\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128961,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"995\">ث - نسخة. رواها محمد بن عبد الله بن محمد بن عمر بن علي بن أبي طالب عليه السلام<lfootnote noteId=\"59\">7</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128962,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"996\">خ - نسخة. رواها مطلب بن زياد الزهري القرشي المدني<lfootnote noteId=\"60\">8</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128963,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"997\">ذ - نسخة كبيرة. رواها محمد بن إبراهيم الإمام<lfootnote noteId=\"61\">9</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128964,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"998\">ض - وصية النبي صلى الله عليه و آله. ذكرها أبو غالب الزراري، و الصدوق، و الاشبيلي، و البيهقي، و الطيبي<lfootnote noteId=\"62\">10</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128965,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"999\"><page number=\"16\"/>و قال الأستاذ عبد الحليم الجندي: و تآليف الإمام الصادق عليه السلام كثيرة، منها رسالة في شرائع الدين، و وصاياه للإمام الكاظم عليه السلام، و رسالة في الغنائم و وجوب الخمس، و توحيد المفضل، و كتاب الإهليلجة، و كتاب مصباح الشريعة و مفتاح الحقيقة، و رسالة إلى أصحابه، و رسالة إلى أصحاب الرأي و القياس، و رسالة لمحمد بن النعمان الأحول، و أخرى لعبد الله بن جندب، و رسالة في وجوه المعايش للعباد و وجوه إخراج الأموال، و رسالة في احتجاجه على الصوفية فيما ينهون عنه من طلب الرزق، و رسالة حكم قصيرة<lfootnote noteId=\"63\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129876,
+          "text": "<footnote id=\"53\"><page number=\"15\"/><mnote>(1)</mnote> رجال النجاشي: 283 /رقم 751.</footnote>"
+        },
+        {
+          "footnoteId": 704129877,
+          "text": "<footnote id=\"54\"><mnote>(2)</mnote> رجال النجاشي: 16 /رقم 16.</footnote>"
+        },
+        {
+          "footnoteId": 704129878,
+          "text": "<footnote id=\"55\"><mnote>(3)</mnote> رجال النجاشي: 190 /رقم 506.</footnote>"
+        },
+        {
+          "footnoteId": 704129879,
+          "text": "<footnote id=\"56\"><mnote>(4)</mnote> رجال النجاشي: 282 /رقم 750.</footnote>"
+        },
+        {
+          "footnoteId": 704129880,
+          "text": "<footnote id=\"57\"><mnote>(5)</mnote> رجال النجاشي: 224 /رقم 586.</footnote>"
+        },
+        {
+          "footnoteId": 704129881,
+          "text": "<footnote id=\"58\"><mnote>(6)</mnote> رجال النجاشي: 310 /رقم 847.</footnote>"
+        },
+        {
+          "footnoteId": 704129882,
+          "text": "<footnote id=\"59\"><mnote>(7)</mnote> رجال النجاشي: 385 /رقم 962.</footnote>"
+        },
+        {
+          "footnoteId": 704129883,
+          "text": "<footnote id=\"60\"><mnote>(8)</mnote> رجال النجاشي: 423 /رقم 1136.</footnote>"
+        },
+        {
+          "footnoteId": 704129884,
+          "text": "<footnote id=\"61\"><mnote>(9)</mnote> رجال النجاشي: 355 /رقم 951.</footnote>"
+        },
+        {
+          "footnoteId": 704129885,
+          "text": "<footnote id=\"62\"><mnote>(10)</mnote> انظر رسالة أبي غالب الزراري: 181، و من لا يحضره الفقيه 134:4، و الفهرسة لأبي خير الاندلسي: 277-278، و دلائل النبوة 22:7، و الخلاصة في علم الحديث: 10.</footnote>"
+        }
+      ],
+      "pageValue": "15",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p989\" paragraph-id=\"989\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo15\">15</span>ف - مناسك الحج و فرائضه، و ما هو مسنون في ذلك<span><sup><a class=\"NewFn\" href=\"#footnote53\" title=\"(1)  رجال النجاشي: 283 /رقم 751.\">1</a></sup></span>.</p>\n  <p id=\"p990\" paragraph-id=\"990\" class=\" G\">ص - نسخة. رواها إبراهيم بن رجاء الشيباني الجحدري<span><sup><a class=\"NewFn\" href=\"#footnote54\" title=\"(2)  رجال النجاشي: 16 /رقم 16.\">2</a></sup></span>.</p>\n  <p id=\"p991\" paragraph-id=\"991\" class=\" G\">ق - نسخة. رواها سفيان بن عيينة الهلالي<span><sup><a class=\"NewFn\" href=\"#footnote55\" title=\"(3)  رجال النجاشي: 190 /رقم 506.\">3</a></sup></span>.</p>\n  <p id=\"p992\" paragraph-id=\"992\" class=\" G\">ر - نسخة. رواها عباس بن زيد المدني، مولاه عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote56\" title=\"(4)  رجال النجاشي: 282 /رقم 750.\">4</a></sup></span>.</p>\n  <p id=\"p993\" paragraph-id=\"993\" class=\" G\">ش - نسخة. رواها عبد الله بن أويس الأصبحي<span><sup><a class=\"NewFn\" href=\"#footnote57\" title=\"(5)  رجال النجاشي: 224 /رقم 586.\">5</a></sup></span>.</p>\n  <p id=\"p994\" paragraph-id=\"994\" class=\" G\">ت - نسخة. رواها الفضيل بن عياض البصري<span><sup><a class=\"NewFn\" href=\"#footnote58\" title=\"(6)  رجال النجاشي: 310 /رقم 847.\">6</a></sup></span>.</p>\n  <p id=\"p995\" paragraph-id=\"995\" class=\" G\">ث - نسخة. رواها محمد بن عبد الله بن محمد بن عمر بن علي بن أبي طالب عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote59\" title=\"(7)  رجال النجاشي: 385 /رقم 962.\">7</a></sup></span>.</p>\n  <p id=\"p996\" paragraph-id=\"996\" class=\" G\">خ - نسخة. رواها مطلب بن زياد الزهري القرشي المدني<span><sup><a class=\"NewFn\" href=\"#footnote60\" title=\"(8)  رجال النجاشي: 423 /رقم 1136.\">8</a></sup></span>.</p>\n  <p id=\"p997\" paragraph-id=\"997\" class=\" G\">ذ - نسخة كبيرة. رواها محمد بن إبراهيم الإمام<span><sup><a class=\"NewFn\" href=\"#footnote61\" title=\"(9)  رجال النجاشي: 355 /رقم 951.\">9</a></sup></span>.</p>\n  <p id=\"p998\" paragraph-id=\"998\" class=\" G\">ض - وصية النبي صلى الله عليه و آله. ذكرها أبو غالب الزراري، و الصدوق، و الاشبيلي، و البيهقي، و الطيبي<span><sup><a class=\"NewFn\" href=\"#footnote62\" title=\"(10)  انظر رسالة أبي غالب الزراري: 181، و من لا يحضره الفقيه 134:4، و الفهرسة لأبي خير الاندلسي: 277-278، و دلائل النبوة 22:7، و الخلاصة في علم الحديث: 10.\">10</a></sup></span>.</p>\n  <p id=\"p999\" paragraph-id=\"999\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote53\" footnote-id=\"53\">(1) <page number=\"15\" /> رجال النجاشي: 283 /رقم 751.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote54\" footnote-id=\"54\">(2)  رجال النجاشي: 16 /رقم 16.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote55\" footnote-id=\"55\">(3)  رجال النجاشي: 190 /رقم 506.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote56\" footnote-id=\"56\">(4)  رجال النجاشي: 282 /رقم 750.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote57\" footnote-id=\"57\">(5)  رجال النجاشي: 224 /رقم 586.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote58\" footnote-id=\"58\">(6)  رجال النجاشي: 310 /رقم 847.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote59\" footnote-id=\"59\">(7)  رجال النجاشي: 385 /رقم 962.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote60\" footnote-id=\"60\">(8)  رجال النجاشي: 423 /رقم 1136.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote61\" footnote-id=\"61\">(9)  رجال النجاشي: 355 /رقم 951.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote62\" footnote-id=\"62\">(10)  انظر رسالة أبي غالب الزراري: 181، و من لا يحضره الفقيه 134:4، و الفهرسة لأبي خير الاندلسي: 277-278، و دلائل النبوة 22:7، و الخلاصة في علم الحديث: 10.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "BD47AAC2-4E63-487C-A384-11000D67FCD5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

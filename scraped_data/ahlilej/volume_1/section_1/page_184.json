@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 184,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129434,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1903\"><format class=\"EndIntroduction\" type=\"6\"/><page number=\"184\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"11\"/>فهرس الأماكن و البلدان </heading></p>"
+        },
+        {
+          "paragraphId": 704129435,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1904\">إرمينية: 122.</p>"
+        },
+        {
+          "paragraphId": 704129436,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1905\">التبت: 121.</p>"
+        },
+        {
+          "paragraphId": 704129437,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1906\">الترك: 122.</p>"
+        },
+        {
+          "paragraphId": 704129438,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1907\">دمشق: 67.</p>"
+        },
+        {
+          "paragraphId": 704129439,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1908\">الرملة: 67.</p>"
+        },
+        {
+          "paragraphId": 704129793,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1909\">الروم: 121.</p>"
+        },
+        {
+          "paragraphId": 704129794,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1910\">الصين: 121.</p>"
+        },
+        {
+          "paragraphId": 704129795,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1911\">فارس: 121.</p>"
+        },
+        {
+          "paragraphId": 704129796,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1912\">مصر: 122.</p>"
+        },
+        {
+          "paragraphId": 704129797,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1913\"><format class=\"EndIntroduction\" type=\"11\"/><page number=\"185\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"5\"/>فهرس المحتويات </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "184",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1903\" paragraph-id=\"1903\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo184\">184</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span>فهرس الأماكن و البلدان </strong>\n  </p>\n  <p id=\"p1904\" paragraph-id=\"1904\" class=\" G\">إرمينية: 122.</p>\n  <p id=\"p1905\" paragraph-id=\"1905\" class=\" G\">التبت: 121.</p>\n  <p id=\"p1906\" paragraph-id=\"1906\" class=\" G\">الترك: 122.</p>\n  <p id=\"p1907\" paragraph-id=\"1907\" class=\" G\">دمشق: 67.</p>\n  <p id=\"p1908\" paragraph-id=\"1908\" class=\" G\">الرملة: 67.</p>\n  <p id=\"p1909\" paragraph-id=\"1909\" class=\" G\">الروم: 121.</p>\n  <p id=\"p1910\" paragraph-id=\"1910\" class=\" G\">الصين: 121.</p>\n  <p id=\"p1911\" paragraph-id=\"1911\" class=\" G\">فارس: 121.</p>\n  <p id=\"p1912\" paragraph-id=\"1912\" class=\" G\">مصر: 122.</p>\n  <p id=\"p1913\" paragraph-id=\"1913\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "3CFF9AB1-E8AE-4495-960D-8686DBAFA6D4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

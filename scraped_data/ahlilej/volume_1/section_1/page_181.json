@@ -1,0 +1,104 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 181,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129410,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1879\"><page number=\"180\"/><page number=\"181\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"7\"/>فهرس الآيات القرآنية </heading></p>"
+        },
+        {
+          "paragraphId": 704129411,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1880\"><format class=\"a\">الآية\\السورة/الآية\\الصفحة</format></p>"
+        },
+        {
+          "paragraphId": 704129412,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1881\"><format class=\"ayah\" surah=\"16\" ayah=\"80\" toAyah=\"\">أصوافِها وَ أوبارِها وَ أشعارِها أَثٰاثاً... <format class=\"ayahWord\" fromWord=\"23\" toWord=\"28\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"80\" toAyah=\"\"/></format></p>"
+        },
+        {
+          "paragraphId": 704129413,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1882\">\\النحل: 80\\141</p>"
+        },
+        {
+          "paragraphId": 704129414,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1883\"><format class=\"ayah\" surah=\"80\" ayah=\"27\" toAyah=\"29\">حَبّاً * <format class=\"AyahSeprator\"/>وَ عِنَباً وَ قَضباً * <format class=\"AyahSeprator\"/>وَ زيتوناً... <format class=\"ayahWord\" fromWord=\"3\" toWord=\"9\"/><format class=\"ayahAddress\" surah=\"80\" ayah=\"27\" toAyah=\"29\"/></format></p>"
+        },
+        {
+          "paragraphId": 704129415,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1884\">\\عبس: 27-31\\141</p>"
+        },
+        {
+          "paragraphId": 704129416,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1885\"><format class=\"ayah\" surah=\"23\" ayah=\"91\" toAyah=\"\">لَذَهَبَ كُلُّ إِلَهٍ بِمَا خَلَقَ وَ لَعَلاَ... <format class=\"ayahWord\" fromWord=\"13\" toWord=\"19\"/><format class=\"ayahAddress\" surah=\"23\" ayah=\"91\" toAyah=\"\"/></format></p>"
+        },
+        {
+          "paragraphId": 704129417,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1886\">\\المؤمنون: 91\\94</p>"
+        },
+        {
+          "paragraphId": 704129418,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1887\"><format class=\"ayah\" surah=\"58\" ayah=\"7\" toAyah=\"\">ما يَكونُ مِن نَجوى ثلاثَةٍ إلا هُوَ... <format class=\"ayahWord\" fromWord=\"14\" toWord=\"20\"/><format class=\"ayahAddress\" surah=\"58\" ayah=\"7\" toAyah=\"\"/></format></p>"
+        },
+        {
+          "paragraphId": 704129419,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1888\">\\المجادلة: 7\\150</p>"
+        },
+        {
+          "paragraphId": 704129420,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1889\"><format class=\"ayah\" surah=\"30\" ayah=\"48\" toAyah=\"\">يَجعَلُهُ كِسَفاً فَتَرى الوَدقَ يَخرُجُ مِن خِلالِهِ‌<format class=\"ayahWord\" fromWord=\"13\" toWord=\"19\"/><format class=\"ayahAddress\" surah=\"30\" ayah=\"48\" toAyah=\"\"/></format>\\الروم: 48\\140</p>"
+        },
+        {
+          "paragraphId": 704129421,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1890\"><format class=\"EndIntroduction\" type=\"7\"/><page number=\"182\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"8\"/>فهرس الأحاديث </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "181",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1879\" paragraph-id=\"1879\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo181\">181</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span>فهرس الآيات القرآنية </strong>\n  </p>\n  <p id=\"p1880\" paragraph-id=\"1880\" class=\" G\">\n    <span class=\"a\">الآية\\السورة/الآية\\الصفحة</span>\n  </p>\n  <p id=\"p1881\" paragraph-id=\"1881\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"16\" ayah=\"80\">أصوافِها وَ أوبارِها وَ أشعارِها أَثٰاثاً... <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/16/80\"></a></span></span>\n  </p>\n  <p id=\"p1882\" paragraph-id=\"1882\" class=\" G\">\\النحل: 80\\141</p>\n  <p id=\"p1883\" paragraph-id=\"1883\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"80\" ayah=\"27\">حَبّاً * <span class=\"AyahSeprator\"></span>وَ عِنَباً وَ قَضباً * <span class=\"AyahSeprator\"></span>وَ زيتوناً... <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/80/27\"></a></span></span>\n  </p>\n  <p id=\"p1884\" paragraph-id=\"1884\" class=\" G\">\\عبس: 27-31\\141</p>\n  <p id=\"p1885\" paragraph-id=\"1885\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"23\" ayah=\"91\">لَذَهَبَ كُلُّ إِلَهٍ بِمَا خَلَقَ وَ لَعَلاَ... <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/23/91\"></a></span></span>\n  </p>\n  <p id=\"p1886\" paragraph-id=\"1886\" class=\" G\">\\المؤمنون: 91\\94</p>\n  <p id=\"p1887\" paragraph-id=\"1887\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"58\" ayah=\"7\">ما يَكونُ مِن نَجوى ثلاثَةٍ إلا هُوَ... <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/58/7\"></a></span></span>\n  </p>\n  <p id=\"p1888\" paragraph-id=\"1888\" class=\" G\">\\المجادلة: 7\\150</p>\n  <p id=\"p1889\" paragraph-id=\"1889\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"30\" ayah=\"48\">يَجعَلُهُ كِسَفاً فَتَرى الوَدقَ يَخرُجُ مِن خِلالِهِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/30/48\"></a></span></span>\\الروم: 48\\140</p>\n  <p id=\"p1890\" paragraph-id=\"1890\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "10FF660F-7757-42A2-A313-9B92C58D45AE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

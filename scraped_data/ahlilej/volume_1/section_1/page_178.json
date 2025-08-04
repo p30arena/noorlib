@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 178,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129401,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1870\"><page number=\"178\"/>و يحتمل العطف على قوله: «مثل الأرض».</p>"
+        },
+        {
+          "paragraphId": 704129402,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1871\">[65] قوله عليه السلام: «بلوغا و لا منتهى»<lfootnote noteId=\"902\">1</lfootnote> لعل المراد أنه لا يبلغ الأبصار إليهما، و لا إلى منتهى نورهما، أو منتهى جسمهما.</p>"
+        },
+        {
+          "paragraphId": 704129403,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1872\">[66] قوله عليه السلام: «و عظم الخلق العظيم»<lfootnote noteId=\"903\">2</lfootnote> أي السماء أو ما عليها من الملائكة.</p>"
+        },
+        {
+          "paragraphId": 704129404,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1873\">[67] قوله عليه السلام: «و لا يشبه بهذه الأسماء»<lfootnote noteId=\"904\">3</lfootnote> على بناء المجهول من باب التفعيل أي لا يصير إطلاق هذه الأسماء عليه سببا لأن يظن أنه شبيه بخلقه.</p>"
+        },
+        {
+          "paragraphId": 704129405,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1874\">[68] قوله: «إنما غرضي»<lfootnote noteId=\"905\">4</lfootnote> أي غرضي من السؤال أن تجيب عما يعرض لي من إشكال يصرفني عن الحق، يسنح و يظهر عني. و في بعض النسخ: </p>"
+        },
+        {
+          "paragraphId": 704129406,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1875\">عن رد الجواب فيه عند متعرف غبي<lfootnote noteId=\"906\">5</lfootnote>. أي إني قد آمنت و أيقنت، و إنما المقصود من السؤال أن أقدر على أن أجيب عن سؤال متعرف غبي جاهل أحمق لأهديه إلى الحق؛ و هو أظهر.</p>"
+        },
+        {
+          "paragraphId": 704129407,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1876\">[69] و الحدب<lfootnote noteId=\"907\">6</lfootnote>: العطف و الشفقة، و لعل المراد بما في أعنان السماء<lfootnote noteId=\"908\">7</lfootnote>ما يطير في الهواء.</p>"
+        },
+        {
+          "paragraphId": 704129408,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1877\"><page number=\"179\"/><heading level=\"1\">الفهارس الفنية </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130725,
+          "text": "<footnote id=\"902\"><page number=\"178\"/><mnote>(1)</mnote> الصفحة 150، السطر 3.</footnote>"
+        },
+        {
+          "footnoteId": 704130726,
+          "text": "<footnote id=\"903\"><mnote>(2)</mnote> الصفحة 150، السطر 3-4.</footnote>"
+        },
+        {
+          "footnoteId": 704130727,
+          "text": "<footnote id=\"904\"><mnote>(3)</mnote> الصفحة 150، السطر 11.</footnote>"
+        },
+        {
+          "footnoteId": 704130728,
+          "text": "<footnote id=\"905\"><mnote>(4)</mnote> الصفحة 151، السطر 9.</footnote>"
+        },
+        {
+          "footnoteId": 704130729,
+          "text": "<footnote id=\"906\"><mnote>(5)</mnote> هذه النسخة لم تذكر في نسخنا، فلاحظ.</footnote>"
+        },
+        {
+          "footnoteId": 704130730,
+          "text": "<footnote id=\"907\"><mnote>(6)</mnote> الصفحة 152، السطر 1.</footnote>"
+        },
+        {
+          "footnoteId": 704130731,
+          "text": "<footnote id=\"908\"><mnote>(7)</mnote> الصفحة 152، السطر 2.</footnote>"
+        }
+      ],
+      "pageValue": "178",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1870\" paragraph-id=\"1870\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo178\">178</span>و يحتمل العطف على قوله: «مثل الأرض».</p>\n  <p id=\"p1871\" paragraph-id=\"1871\" class=\" G\">[65] قوله عليه السلام: «بلوغا و لا منتهى»<span><sup><a class=\"NewFn\" href=\"#footnote902\" title=\"(1)  الصفحة 150، السطر 3.\">1</a></sup></span> لعل المراد أنه لا يبلغ الأبصار إليهما، و لا إلى منتهى نورهما، أو منتهى جسمهما.</p>\n  <p id=\"p1872\" paragraph-id=\"1872\" class=\" G\">[66] قوله عليه السلام: «و عظم الخلق العظيم»<span><sup><a class=\"NewFn\" href=\"#footnote903\" title=\"(2)  الصفحة 150، السطر 3-4.\">2</a></sup></span> أي السماء أو ما عليها من الملائكة.</p>\n  <p id=\"p1873\" paragraph-id=\"1873\" class=\" G\">[67] قوله عليه السلام: «و لا يشبه بهذه الأسماء»<span><sup><a class=\"NewFn\" href=\"#footnote904\" title=\"(3)  الصفحة 150، السطر 11.\">3</a></sup></span> على بناء المجهول من باب التفعيل أي لا يصير إطلاق هذه الأسماء عليه سببا لأن يظن أنه شبيه بخلقه.</p>\n  <p id=\"p1874\" paragraph-id=\"1874\" class=\" G\">[68] قوله: «إنما غرضي»<span><sup><a class=\"NewFn\" href=\"#footnote905\" title=\"(4)  الصفحة 151، السطر 9.\">4</a></sup></span> أي غرضي من السؤال أن تجيب عما يعرض لي من إشكال يصرفني عن الحق، يسنح و يظهر عني. و في بعض النسخ: </p>\n  <p id=\"p1875\" paragraph-id=\"1875\" class=\" G\">عن رد الجواب فيه عند متعرف غبي<span><sup><a class=\"NewFn\" href=\"#footnote906\" title=\"(5)  هذه النسخة لم تذكر في نسخنا، فلاحظ.\">5</a></sup></span>. أي إني قد آمنت و أيقنت، و إنما المقصود من السؤال أن أقدر على أن أجيب عن سؤال متعرف غبي جاهل أحمق لأهديه إلى الحق؛ و هو أظهر.</p>\n  <p id=\"p1876\" paragraph-id=\"1876\" class=\" G\">[69] و الحدب<span><sup><a class=\"NewFn\" href=\"#footnote907\" title=\"(6)  الصفحة 152، السطر 1.\">6</a></sup></span>: العطف و الشفقة، و لعل المراد بما في أعنان السماء<span><sup><a class=\"NewFn\" href=\"#footnote908\" title=\"(7)  الصفحة 152، السطر 2.\">7</a></sup></span>ما يطير في الهواء.</p>\n  <p id=\"p1877\" paragraph-id=\"1877\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote902\" footnote-id=\"902\">(1) <page number=\"178\" /> الصفحة 150، السطر 3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote903\" footnote-id=\"903\">(2)  الصفحة 150، السطر 3-4.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote904\" footnote-id=\"904\">(3)  الصفحة 150، السطر 11.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote905\" footnote-id=\"905\">(4)  الصفحة 151، السطر 9.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote906\" footnote-id=\"906\">(5)  هذه النسخة لم تذكر في نسخنا، فلاحظ.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote907\" footnote-id=\"907\">(6)  الصفحة 152، السطر 1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote908\" footnote-id=\"908\">(7)  الصفحة 152، السطر 2.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D09FFB05-37F8-4C86-8C79-2C2FB158F1D8",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

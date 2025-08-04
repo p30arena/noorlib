@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 120,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129591,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1560\"><format class=\"hadith\" who=\"6\" Id=\"15\" RevayatIndex=\"15\"><page number=\"120\"/>قُلْتُ‌: فَمِنْ أَيْنَ اِهْتَدَوْا لَهُ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129592,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1561\"><format class=\"hadith\" who=\"6\" Id=\"15\" RevayatIndex=\"15\">قَالَ‌: بِالتَّجْرِبَةِ‌<lfootnote noteId=\"614\">1</lfootnote> و طُولِ اَلْمُقَايَسَةِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129593,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1562\"><format class=\"hadith\" who=\"6\" Id=\"15\" RevayatIndex=\"15\">قُلْتُ‌: فَكَيْفَ خَطَرَ عَلَى أَوْهَامِهِمْ حَتَّى هَمُّوا بِتَجْرِبَتِهِ؟ و كَيْفَ ظَنُّوا أَنَّهُ‌<lfootnote noteId=\"615\">2</lfootnote>مَصْلَحَةٌ لِلْأَجْسَادِ و هُمْ لاَ يَرَوْنَ فِيهِ إِلاَّ اَلْمَضَرَّةَ؟ أَوْ كَيْفَ عَزَمُوا عَلَى طَلَبِ مَا لاَ يَعْرِفُونَ مِمَّا لاَ تَدُلُّهُمْ‌<lfootnote noteId=\"616\">3</lfootnote> عَلَيْهِ اَلْحَوَاسُّ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129594,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1563\"><format class=\"hadith\" who=\"6\" Id=\"15\" RevayatIndex=\"15\">قَالَ‌: بِالتَّجَارُبِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129595,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1564\"><format class=\"hadith\" who=\"6\" Id=\"15\" RevayatIndex=\"15\">قُلْتُ‌: أَخْبِرْنِي عَنْ وَاضِعِ هَذَا اَلطِّبِّ و وَاصِفِ هَذِهِ اَلْعَقَاقِيرِ اَلْمُتَفَرِّقَةِ بَيْنَ اَلْمَشْرِقِ و اَلْمَغْرِبِ‌، هَلْ كَانَ بُدٌّ مِنْ أَنْ يَكُونَ اَلَّذِي وَضَعَ ذَلِكَ و دَلَّ عَلَى هَذِهِ اَلْعَقَاقِيرِ رَجُلاً حَكِيماً مِنْ بَعْضِ أَهْلِ‌<lfootnote noteId=\"617\">4</lfootnote> هَذِهِ اَلْبُلْدَانِ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129596,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1565\"><format class=\"hadith\" who=\"6\" Id=\"15\" RevayatIndex=\"15\">قَالَ‌: لاَ بُدَّ أَنْ يَكُونَ كَذَلِكَ‌، و أَنْ يَكُونَ رَجُلاً حَكِيماً وَضَعَ ذَلِكَ و جَمَعَ عَلَيْهِ اَلْحُكَمَاءُ‌، فَنَظَرُوا فِي ذَلِكَ و فَكَّرُوا فِيهِ بِعُقُولِهِمْ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129597,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1566\"><format class=\"hadith\" who=\"6\" Id=\"15\" RevayatIndex=\"15\">قُلْتُ‌: كَأَنَّكَ تُرِيدُ اَلْإِنْصَافَ مِنْ نَفْسِكَ و اَلْوَفَاءَ بِمَا أُعْطِيتَ مِنْ مِيثَاقِكَ‌<lfootnote noteId=\"618\">5</lfootnote>، فَأَعْلِمْنِي كَيْفَ عَرَفَ اَلْحَكِيمُ ذَلِكَ؟ وهبه قَدْ عَرَفَ بِمَا فِي بِلاَدِهِ مِنَ اَلدَّوَاءِ‌، و اَلزَّعْفَرَانِ اَلَّذِي بِأَرْضِ فَارِسَ‌، أ تَرَاهُ تتبع<lfootnote noteId=\"619\">6</lfootnote> جَمِيعَ نَبَاتِ اَلْأَرْضِ فَذَاقَهُ شَجَرَةً شَجَرَةً حَتَّى ظَهَرَ عَلَى جَمِيعِ ذَلِكَ؟ و هَلْ يَدُلُّكَ عَقْلُكَ عَلَى أَنَّ رِجَالاً حُكَمَاءَ قَدَرُوا </format></p>"
+        },
+        {
+          "paragraphId": 704129598,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1567\"><format class=\"hadith\" who=\"6\" Id=\"15\" RevayatIndex=\"15\"><page number=\"121\"/>عَلَى أَن يَتَتَبَّعُوا<lfootnote noteId=\"620\">1</lfootnote> جَمِيعَ بِلاَدِ فَارِسَ و نَبَاتِهَا شَجَرَةً شَجَرَةً حَتَّى عَرَفُوا ذَلِكَ بِحَوَاسِّهِمْ‌، و ظَهَرُوا عَلَى تِلْكَ اَلشَّجَرَةِ اَلَّتِي يَكُونُ فِيهَا خِلْطُ بَعْضِ هَذِهِ اَلْأَدْوِيَةِ اَلَّتِي لَمْ تُدْرِكْ حَوَاسُّهُمْ شَيْئاً مِنْهَا؟</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130437,
+          "text": "<footnote id=\"614\"><page number=\"120\"/><mnote>(1)</mnote> في «أ»: التجربة.</footnote>"
+        },
+        {
+          "footnoteId": 704130438,
+          "text": "<footnote id=\"615\"><mnote>(2)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130439,
+          "text": "<footnote id=\"616\"><mnote>(3)</mnote> في «أ»: تدل.</footnote>"
+        },
+        {
+          "footnoteId": 704130440,
+          "text": "<footnote id=\"617\"><mnote>(4)</mnote> ليست في «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130441,
+          "text": "<footnote id=\"618\"><mnote>(5)</mnote> في «أ»: ضمانك.</footnote>"
+        },
+        {
+          "footnoteId": 704130442,
+          "text": "<footnote id=\"619\"><mnote>(6)</mnote> في «أ» «ب» «د»: اتبع.</footnote>"
+        }
+      ],
+      "pageValue": "120",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1560\" paragraph-id=\"1560\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo120\">120</span>قُلْتُ‌: فَمِنْ أَيْنَ اِهْتَدَوْا لَهُ؟</span>\n  </p>\n  <p id=\"p1561\" paragraph-id=\"1561\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: بِالتَّجْرِبَةِ‌<span><sup><a class=\"NewFn\" href=\"#footnote614\" title=\"(1)  في «أ»: التجربة.\">1</a></sup></span> و طُولِ اَلْمُقَايَسَةِ‌.</span>\n  </p>\n  <p id=\"p1562\" paragraph-id=\"1562\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَكَيْفَ خَطَرَ عَلَى أَوْهَامِهِمْ حَتَّى هَمُّوا بِتَجْرِبَتِهِ؟ و كَيْفَ ظَنُّوا أَنَّهُ‌<span><sup><a class=\"NewFn\" href=\"#footnote615\" title=\"(2)  ليست في «أ».\">2</a></sup></span>مَصْلَحَةٌ لِلْأَجْسَادِ و هُمْ لاَ يَرَوْنَ فِيهِ إِلاَّ اَلْمَضَرَّةَ؟ أَوْ كَيْفَ عَزَمُوا عَلَى طَلَبِ مَا لاَ يَعْرِفُونَ مِمَّا لاَ تَدُلُّهُمْ‌<span><sup><a class=\"NewFn\" href=\"#footnote616\" title=\"(3)  في «أ»: تدل.\">3</a></sup></span> عَلَيْهِ اَلْحَوَاسُّ؟</span>\n  </p>\n  <p id=\"p1563\" paragraph-id=\"1563\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: بِالتَّجَارُبِ‌.</span>\n  </p>\n  <p id=\"p1564\" paragraph-id=\"1564\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أَخْبِرْنِي عَنْ وَاضِعِ هَذَا اَلطِّبِّ و وَاصِفِ هَذِهِ اَلْعَقَاقِيرِ اَلْمُتَفَرِّقَةِ بَيْنَ اَلْمَشْرِقِ و اَلْمَغْرِبِ‌، هَلْ كَانَ بُدٌّ مِنْ أَنْ يَكُونَ اَلَّذِي وَضَعَ ذَلِكَ و دَلَّ عَلَى هَذِهِ اَلْعَقَاقِيرِ رَجُلاً حَكِيماً مِنْ بَعْضِ أَهْلِ‌<span><sup><a class=\"NewFn\" href=\"#footnote617\" title=\"(4)  ليست في «ج‍».\">4</a></sup></span> هَذِهِ اَلْبُلْدَانِ؟</span>\n  </p>\n  <p id=\"p1565\" paragraph-id=\"1565\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لاَ بُدَّ أَنْ يَكُونَ كَذَلِكَ‌، و أَنْ يَكُونَ رَجُلاً حَكِيماً وَضَعَ ذَلِكَ و جَمَعَ عَلَيْهِ اَلْحُكَمَاءُ‌، فَنَظَرُوا فِي ذَلِكَ و فَكَّرُوا فِيهِ بِعُقُولِهِمْ‌.</span>\n  </p>\n  <p id=\"p1566\" paragraph-id=\"1566\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: كَأَنَّكَ تُرِيدُ اَلْإِنْصَافَ مِنْ نَفْسِكَ و اَلْوَفَاءَ بِمَا أُعْطِيتَ مِنْ مِيثَاقِكَ‌<span><sup><a class=\"NewFn\" href=\"#footnote618\" title=\"(5)  في «أ»: ضمانك.\">5</a></sup></span>، فَأَعْلِمْنِي كَيْفَ عَرَفَ اَلْحَكِيمُ ذَلِكَ؟ وهبه قَدْ عَرَفَ بِمَا فِي بِلاَدِهِ مِنَ اَلدَّوَاءِ‌، و اَلزَّعْفَرَانِ اَلَّذِي بِأَرْضِ فَارِسَ‌، أ تَرَاهُ تتبع<span><sup><a class=\"NewFn\" href=\"#footnote619\" title=\"(6)  في «أ» «ب» «د»: اتبع.\">6</a></sup></span> جَمِيعَ نَبَاتِ اَلْأَرْضِ فَذَاقَهُ شَجَرَةً شَجَرَةً حَتَّى ظَهَرَ عَلَى جَمِيعِ ذَلِكَ؟ و هَلْ يَدُلُّكَ عَقْلُكَ عَلَى أَنَّ رِجَالاً حُكَمَاءَ قَدَرُوا </span>\n  </p>\n  <p id=\"p1567\" paragraph-id=\"1567\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote614\" footnote-id=\"614\">(1) <page number=\"120\" /> في «أ»: التجربة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote615\" footnote-id=\"615\">(2)  ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote616\" footnote-id=\"616\">(3)  في «أ»: تدل.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote617\" footnote-id=\"617\">(4)  ليست في «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote618\" footnote-id=\"618\">(5)  في «أ»: ضمانك.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote619\" footnote-id=\"619\">(6)  في «أ» «ب» «د»: اتبع.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "1C4BC375-0766-4FAE-80F8-7A196D842D7B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

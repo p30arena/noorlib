@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 103,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129497,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1466\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\"><page number=\"103\"/>قُلْتُ‌: إِنَّ‌<lfootnote noteId=\"473\">1</lfootnote> هَذَا أَرْفَعُ مِنَ اَلْبَابِ اَلْأَوَّلِ إِنْ كَانَ مَا تَقُولُ حَقّاً!</format></p>"
+        },
+        {
+          "paragraphId": 704129498,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1467\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\">قَالَ‌: أَحْلِفُ لَكَ بِدِينِي أَنَّهُ حَقٌّ‌<lfootnote noteId=\"474\">2</lfootnote>، و لَرُبَّمَا رَأَيْتُ بِبِلاَدِ اَلْهِنْدِ قَدْ أُخِذَ بَعْضُهُمْ و أُمِرَ بِقَتلِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129499,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1468\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\">قُلْتُ‌: فَأَخْبِرْنِي كَيْفَ كَانَ هَذَا حَتَّى اِطَّلَعُوا عَلَيْهِ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129500,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1469\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\">قَالَ‌: بِحِسَابِ النُّجُومِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129501,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1470\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\">قُلتُ‌: فَمَا سَمِعْتُ بِهَذَا عِلْماً<lfootnote noteId=\"475\">3</lfootnote> قَطُّ، و مَا أَشُكُّ أَنَّ وَاضِعَهُ اَلْحَكِيمُ اَلْعَلِيمُ‌، فَأَخْبِرْنِي<lfootnote noteId=\"476\">4</lfootnote> مَنْ وَضَعَ هَذَا اَلْعِلْمَ اَلدَّقِيقَ اَلَّذِي لاَ يُدْرَكُ بِالْحَوَاسِّ و لاَ بِالْعُقُولِ و لاَ باِلفِكَرِ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129502,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1471\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\">قَالَ‌: حِسَابُ اَلنُّجُومِ‌<lfootnote noteId=\"477\">5</lfootnote> وَضَعَتْهُ اَلْحُكَمَاءُ و تَوَارَثَهُ اَلنَّاسُ‌<lfootnote noteId=\"478\">6</lfootnote>، فَإذَا سَأَلتُ الرَّجُلَ مِنْهُمْ (عَنْ شَيْ‌ءٍ‌)<lfootnote noteId=\"479\">7</lfootnote> قَاسَ اَلشَّمْسَ و نَظَرَ فِي مَنَازِلِ اَلشَّمْسِ و اَلْقَمَرِ و مَا لِلطَّالِعِ‌<lfootnote noteId=\"480\">8</lfootnote> مِنَ </format></p>"
+        },
+        {
+          "paragraphId": 704129503,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1472\"><format class=\"hadith\" who=\"6\" Id=\"12\" RevayatIndex=\"12\"><page number=\"104\"/>اَلنُّحُوسِ‌<lfootnote noteId=\"481\">1</lfootnote>، و مَا لِلْبَاطِنِ‌<lfootnote noteId=\"482\">2</lfootnote> مِنَ اَلسُّعُودِ، ثُمَّ يَحْسُبُ و لاَ يُخْطِئُ‌؛ و يُحْمَلُ إِلَيْهِ اَلْمَوْلُودُ فَيَحْسُبُ لَهُ و يُخْبِرُ<lfootnote noteId=\"483\">3</lfootnote> بِكُلِّ عَلاَمَةٍ فِيهِ و مَا هُوَ مُصِيبُهُ إِلَى يَوْمِ يَمُوتُ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130296,
+          "text": "<footnote id=\"473\"><page number=\"103\"/><mnote>(1)</mnote> ليست في «أ» «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130297,
+          "text": "<footnote id=\"474\"><mnote>(2)</mnote> في «ج‍»: لحق.</footnote>"
+        },
+        {
+          "footnoteId": 704130298,
+          "text": "<footnote id=\"475\"><mnote>(3)</mnote> ليست في «ج‍». و أدخلت في متن «ب» عن نسخة.</footnote>"
+        },
+        {
+          "footnoteId": 704130299,
+          "text": "<footnote id=\"476\"><mnote>(4)</mnote> في «أ» «ج‍»: قلت فأخبرني.</footnote>"
+        },
+        {
+          "footnoteId": 704130300,
+          "text": "<footnote id=\"477\"><mnote>(5)</mnote> ليست في «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130301,
+          "text": "<footnote id=\"478\"><mnote>(6)</mnote> من قوله «قلت أخبرني هل يعرف» إلى هنا لم يكن في نسخ المجلسي من الإهليلجة فنقله من كتاب النجوم لابن طاوس، و هو ليس في «د». و بدله في «ب» «د» قوله: «قلت: أخبرني هل يعلم أهل بلادك علم النجوم‌؟ قال: إنك لغافل عن علم أهل بلادي بالنجوم، فليس أحد أعلم بذلك منهم. قلت: أخبرني كيف وقع علمهم بالنجوم و هي مما لا يدرك بالحواس و لا بالفكر؟ قال: حساب وضعته الحكماء و توارثته الناس».</footnote>"
+        },
+        {
+          "footnoteId": 704130302,
+          "text": "<footnote id=\"479\"><mnote>(7)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130303,
+          "text": "<footnote id=\"480\"><mnote>(8)</mnote> في نسخة بدل من «ب»: الطالع.</footnote>"
+        }
+      ],
+      "pageValue": "103",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1466\" paragraph-id=\"1466\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo103\">103</span>قُلْتُ‌: إِنَّ‌<span><sup><a class=\"NewFn\" href=\"#footnote473\" title=\"(1)  ليست في «أ» «ج‍».\">1</a></sup></span> هَذَا أَرْفَعُ مِنَ اَلْبَابِ اَلْأَوَّلِ إِنْ كَانَ مَا تَقُولُ حَقّاً!</span>\n  </p>\n  <p id=\"p1467\" paragraph-id=\"1467\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: أَحْلِفُ لَكَ بِدِينِي أَنَّهُ حَقٌّ‌<span><sup><a class=\"NewFn\" href=\"#footnote474\" title=\"(2)  في «ج‍»: لحق.\">2</a></sup></span>، و لَرُبَّمَا رَأَيْتُ بِبِلاَدِ اَلْهِنْدِ قَدْ أُخِذَ بَعْضُهُمْ و أُمِرَ بِقَتلِهِ‌.</span>\n  </p>\n  <p id=\"p1468\" paragraph-id=\"1468\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَأَخْبِرْنِي كَيْفَ كَانَ هَذَا حَتَّى اِطَّلَعُوا عَلَيْهِ؟</span>\n  </p>\n  <p id=\"p1469\" paragraph-id=\"1469\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: بِحِسَابِ النُّجُومِ‌.</span>\n  </p>\n  <p id=\"p1470\" paragraph-id=\"1470\" class=\" G\">\n    <span class=\"hadith\">قُلتُ‌: فَمَا سَمِعْتُ بِهَذَا عِلْماً<span><sup><a class=\"NewFn\" href=\"#footnote475\" title=\"(3)  ليست في «ج‍». و أدخلت في متن «ب» عن نسخة.\">3</a></sup></span> قَطُّ، و مَا أَشُكُّ أَنَّ وَاضِعَهُ اَلْحَكِيمُ اَلْعَلِيمُ‌، فَأَخْبِرْنِي<span><sup><a class=\"NewFn\" href=\"#footnote476\" title=\"(4)  في «أ» «ج‍»: قلت فأخبرني.\">4</a></sup></span> مَنْ وَضَعَ هَذَا اَلْعِلْمَ اَلدَّقِيقَ اَلَّذِي لاَ يُدْرَكُ بِالْحَوَاسِّ و لاَ بِالْعُقُولِ و لاَ باِلفِكَرِ؟</span>\n  </p>\n  <p id=\"p1471\" paragraph-id=\"1471\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: حِسَابُ اَلنُّجُومِ‌<span><sup><a class=\"NewFn\" href=\"#footnote477\" title=\"(5)  ليست في «ج‍».\">5</a></sup></span> وَضَعَتْهُ اَلْحُكَمَاءُ و تَوَارَثَهُ اَلنَّاسُ‌<span><sup><a class=\"NewFn\" href=\"#footnote478\" title=\"(6)  من قوله «قلت أخبرني هل يعرف» إلى هنا لم يكن في نسخ المجلسي من الإهليلجة فنقله من كتاب النجوم لابن طاوس، و هو ليس في «د». و بدله في «ب» «د» قوله: «قلت: أخبرني هل يعلم أهل بلادك علم النجوم‌؟ قال: إنك لغافل عن علم أهل بلادي بالنجوم، فليس أحد أعلم بذلك منهم. قلت: أخبرني كيف وقع علمهم بالنجوم و هي مما لا يدرك بالحواس و لا بالفكر؟ قال: حساب وضعته الحكماء و توارثته الناس».\">6</a></sup></span>، فَإذَا سَأَلتُ الرَّجُلَ مِنْهُمْ (عَنْ شَيْ‌ءٍ‌)<span><sup><a class=\"NewFn\" href=\"#footnote479\" title=\"(7)  ليست في «أ».\">7</a></sup></span> قَاسَ اَلشَّمْسَ و نَظَرَ فِي مَنَازِلِ اَلشَّمْسِ و اَلْقَمَرِ و مَا لِلطَّالِعِ‌<span><sup><a class=\"NewFn\" href=\"#footnote480\" title=\"(8)  في نسخة بدل من «ب»: الطالع.\">8</a></sup></span> مِنَ </span>\n  </p>\n  <p id=\"p1472\" paragraph-id=\"1472\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote473\" footnote-id=\"473\">(1) <page number=\"103\" /> ليست في «أ» «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote474\" footnote-id=\"474\">(2)  في «ج‍»: لحق.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote475\" footnote-id=\"475\">(3)  ليست في «ج‍». و أدخلت في متن «ب» عن نسخة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote476\" footnote-id=\"476\">(4)  في «أ» «ج‍»: قلت فأخبرني.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote477\" footnote-id=\"477\">(5)  ليست في «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote478\" footnote-id=\"478\">(6)  من قوله «قلت أخبرني هل يعرف» إلى هنا لم يكن في نسخ المجلسي من الإهليلجة فنقله من كتاب النجوم لابن طاوس، و هو ليس في «د». و بدله في «ب» «د» قوله: «قلت: أخبرني هل يعلم أهل بلادك علم النجوم‌؟ قال: إنك لغافل عن علم أهل بلادي بالنجوم، فليس أحد أعلم بذلك منهم. قلت: أخبرني كيف وقع علمهم بالنجوم و هي مما لا يدرك بالحواس و لا بالفكر؟ قال: حساب وضعته الحكماء و توارثته الناس».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote479\" footnote-id=\"479\">(7)  ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote480\" footnote-id=\"480\">(8)  في نسخة بدل من «ب»: الطالع.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E29EED14-D185-4FF0-8207-8B1FA03150E6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

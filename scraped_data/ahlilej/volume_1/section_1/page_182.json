@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 182,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129421,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1890\"><format class=\"EndIntroduction\" type=\"7\"/><page number=\"182\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"8\"/>فهرس الأحاديث </heading></p>"
+        },
+        {
+          "paragraphId": 704129422,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1891\"><format class=\"a\">الحديث\\القائل\\الصفحة</format></p>"
+        },
+        {
+          "paragraphId": 704129423,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1892\">إنما سمي ربنا جل جلاله قويا للخلق العظيم القوي... \\الإمام الصادق عليه السلام\\ 149</p>"
+        },
+        {
+          "paragraphId": 704129424,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1893\">إنما سمي سميعا لأنه... \\الإمام الصادق عليه السلام\\ 150</p>"
+        },
+        {
+          "paragraphId": 704129425,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1894\">الرحمة من العباد شيئان: أحدهما ما يحدث... \\الإمام الصادق عليه السلام\\ 153</p>"
+        },
+        {
+          "paragraphId": 704129426,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1895\">فما أدركته الأبصار و نالته الحواس فهو غير الله... \\الإمام الصادق عليه السلام\\ 73</p>"
+        },
+        {
+          "paragraphId": 704129427,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1896\">هو الأول بلا كيف، و هو الآخر بلا نهاية، ليس له مثل... \\الإمام الصادق عليه السلام\\ 149</p>"
+        },
+        {
+          "paragraphId": 704129428,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1897\"><format class=\"EndIntroduction\" type=\"8\"/><page number=\"183\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"6\"/>فهرس الأعلام </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "182",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1890\" paragraph-id=\"1890\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo182\">182</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span>فهرس الأحاديث </strong>\n  </p>\n  <p id=\"p1891\" paragraph-id=\"1891\" class=\" G\">\n    <span class=\"a\">الحديث\\القائل\\الصفحة</span>\n  </p>\n  <p id=\"p1892\" paragraph-id=\"1892\" class=\" G\">إنما سمي ربنا جل جلاله قويا للخلق العظيم القوي... \\الإمام الصادق عليه السلام\\ 149</p>\n  <p id=\"p1893\" paragraph-id=\"1893\" class=\" G\">إنما سمي سميعا لأنه... \\الإمام الصادق عليه السلام\\ 150</p>\n  <p id=\"p1894\" paragraph-id=\"1894\" class=\" G\">الرحمة من العباد شيئان: أحدهما ما يحدث... \\الإمام الصادق عليه السلام\\ 153</p>\n  <p id=\"p1895\" paragraph-id=\"1895\" class=\" G\">فما أدركته الأبصار و نالته الحواس فهو غير الله... \\الإمام الصادق عليه السلام\\ 73</p>\n  <p id=\"p1896\" paragraph-id=\"1896\" class=\" G\">هو الأول بلا كيف، و هو الآخر بلا نهاية، ليس له مثل... \\الإمام الصادق عليه السلام\\ 149</p>\n  <p id=\"p1897\" paragraph-id=\"1897\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "1A13EE38-9575-4F28-AE8F-A8C6140BCF3E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

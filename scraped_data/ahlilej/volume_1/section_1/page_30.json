@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 30,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129068,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1102\"><page number=\"30\"/>و روى الكشي و الطوسي بسنديهما عن موسى بن بكر، قال: كنت في خدمة أبي الحسن عليه السلام و لم أكن أرى شيئا يصل إليه إلا من ناحية المفضل بن عمر، و لربما رأيت الرجل يجيء بالشيء فلا يقبله منه و يقول: أوصله إلى المفضل<lfootnote noteId=\"135\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129069,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1103\">و روى الكشي و الكليني و الصدوق بأسانيدهم عن محمد بن سنان، قال: </p>"
+        },
+        {
+          "paragraphId": 704129070,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1104\">دخلت على أبي الحسن موسى عليه السلام قبل أن يحمل إلى العراق بسنة، و علي ابنه عليه السلام بين يديه، فقال لي: يا محمد، قلت: لبيك، قال: إنه سيكون في هذه السنة حركة و لا تخرج منها... ثم قال: يا محمد إن المفضل أنسي و مستراحي<lfootnote noteId=\"136\">2</lfootnote>...</p>"
+        },
+        {
+          "paragraphId": 704129071,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1105\">و روى الكشي بسنده عن عيسى بن سليمان، عن أبي إبراهيم عليه السلام، قال: قلت: </p>"
+        },
+        {
+          "paragraphId": 704129072,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1106\">جعلني الله فداك، خلفت مولاك المفضل عليلا، فلو دعوت له، قال عليه السلام: رحم الله المفضل قد استراح، قال: فخرجت إلى أصحابنا فقلت لهم: قد - و الله - مات المفضل، قال: ثم دخلت الكوفة و إذا هو قد مات قبل ذلك بثلاثة أيام<lfootnote noteId=\"137\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129073,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1107\">و روى بسنده عن موسى بن بكر، قال: سمعت أبا الحسن عليه السلام يقول لما أتاه موت المفضل بن عمر: رحمه الله كان الوالد بعد الوالد<lfootnote noteId=\"138\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129074,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1108\"><heading level=\"5\">ما روي عن الرضا عليه السلام في حقه: </heading></p>"
+        },
+        {
+          "paragraphId": 704129075,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1109\">روى الكشي بسنده عن محمد بن حبيب، قال: حدثني بعض أصحابنا ممن </p>"
+        },
+        {
+          "paragraphId": 704129076,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1110\"><page number=\"31\"/>كان عند أبي الحسن الرضا عليه السلام جالسا، فلما نهضوا قال لهم: القوا أبا جعفر عليه السلام فسلموا عليه و أحدثوا به عهدا، فلما نهض القوم التفت إلي و قال: يرحم الله المفضل، إن كان ليكتفي بدون هذا<lfootnote noteId=\"139\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129958,
+          "text": "<footnote id=\"135\"><page number=\"30\"/><mnote>(1)</mnote> اختيار معرفة الرجال 620:2-595/621، الغيبة للطوسي: 347 /ح 299.</footnote>"
+        },
+        {
+          "footnoteId": 704129959,
+          "text": "<footnote id=\"136\"><mnote>(2)</mnote> اختيار معرفة الرجال 796:2-982/797، الكافي 319:1 /ح 16، عيون أخبار الرضا 40:2 / ح 29.</footnote>"
+        },
+        {
+          "footnoteId": 704129960,
+          "text": "<footnote id=\"137\"><mnote>(3)</mnote> اختيار معرفة الرجال 597/621:2.</footnote>"
+        },
+        {
+          "footnoteId": 704129961,
+          "text": "<footnote id=\"138\"><mnote>(4)</mnote> اختيار معرفة الرجال 582/612:2.</footnote>"
+        }
+      ],
+      "pageValue": "30",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1102\" paragraph-id=\"1102\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo30\">30</span>و روى الكشي و الطوسي بسنديهما عن موسى بن بكر، قال: كنت في خدمة أبي الحسن عليه السلام و لم أكن أرى شيئا يصل إليه إلا من ناحية المفضل بن عمر، و لربما رأيت الرجل يجيء بالشيء فلا يقبله منه و يقول: أوصله إلى المفضل<span><sup><a class=\"NewFn\" href=\"#footnote135\" title=\"(1)  اختيار معرفة الرجال 620:2-595/621، الغيبة للطوسي: 347 /ح 299.\">1</a></sup></span>.</p>\n  <p id=\"p1103\" paragraph-id=\"1103\" class=\" G\">و روى الكشي و الكليني و الصدوق بأسانيدهم عن محمد بن سنان، قال: </p>\n  <p id=\"p1104\" paragraph-id=\"1104\" class=\" G\">دخلت على أبي الحسن موسى عليه السلام قبل أن يحمل إلى العراق بسنة، و علي ابنه عليه السلام بين يديه، فقال لي: يا محمد، قلت: لبيك، قال: إنه سيكون في هذه السنة حركة و لا تخرج منها... ثم قال: يا محمد إن المفضل أنسي و مستراحي<span><sup><a class=\"NewFn\" href=\"#footnote136\" title=\"(2)  اختيار معرفة الرجال 796:2-982/797، الكافي 319:1 /ح 16، عيون أخبار الرضا 40:2 / ح 29.\">2</a></sup></span>...</p>\n  <p id=\"p1105\" paragraph-id=\"1105\" class=\" G\">و روى الكشي بسنده عن عيسى بن سليمان، عن أبي إبراهيم عليه السلام، قال: قلت: </p>\n  <p id=\"p1106\" paragraph-id=\"1106\" class=\" G\">جعلني الله فداك، خلفت مولاك المفضل عليلا، فلو دعوت له، قال عليه السلام: رحم الله المفضل قد استراح، قال: فخرجت إلى أصحابنا فقلت لهم: قد - و الله - مات المفضل، قال: ثم دخلت الكوفة و إذا هو قد مات قبل ذلك بثلاثة أيام<span><sup><a class=\"NewFn\" href=\"#footnote137\" title=\"(3)  اختيار معرفة الرجال 597/621:2.\">3</a></sup></span>.</p>\n  <p id=\"p1107\" paragraph-id=\"1107\" class=\" G\">و روى بسنده عن موسى بن بكر، قال: سمعت أبا الحسن عليه السلام يقول لما أتاه موت المفضل بن عمر: رحمه الله كان الوالد بعد الوالد<span><sup><a class=\"NewFn\" href=\"#footnote138\" title=\"(4)  اختيار معرفة الرجال 582/612:2.\">4</a></sup></span>.</p>\n  <p id=\"p1108\" paragraph-id=\"1108\" class=\" G\">\n    <strong style=\"0\" class=\"h-5 05\">ما روي عن الرضا عليه السلام في حقه: </strong>\n  </p>\n  <p id=\"p1109\" paragraph-id=\"1109\" class=\" G\">روى الكشي بسنده عن محمد بن حبيب، قال: حدثني بعض أصحابنا ممن </p>\n  <p id=\"p1110\" paragraph-id=\"1110\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote135\" footnote-id=\"135\">(1) <page number=\"30\" /> اختيار معرفة الرجال 620:2-595/621، الغيبة للطوسي: 347 /ح 299.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote136\" footnote-id=\"136\">(2)  اختيار معرفة الرجال 796:2-982/797، الكافي 319:1 /ح 16، عيون أخبار الرضا 40:2 / ح 29.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote137\" footnote-id=\"137\">(3)  اختيار معرفة الرجال 597/621:2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote138\" footnote-id=\"138\">(4)  اختيار معرفة الرجال 582/612:2.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "B3EF308A-B454-43FC-B13C-AF4F1EF42F4F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

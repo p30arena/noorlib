@@ -1,0 +1,125 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 19,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128992,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1026\"><page number=\"19\"/>س - مسائل. رواها معاوية بن سعيد<lfootnote noteId=\"88\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128993,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1027\">ع - نسخة. رواها أبو أحمد داود بن سليمان الغازي<lfootnote noteId=\"89\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128994,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1028\">ف - نسخة. رواها عباس بن هلال الشامي<lfootnote noteId=\"90\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128995,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1029\">ص - نسخة. رواها عبد الله بن علي بن الحسين بن زيد الشهيد<lfootnote noteId=\"91\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128996,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1030\">ق - نسخة. رواها عبد الله بن محمد بن علي بن العباس التميمي الرازي<lfootnote noteId=\"92\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128997,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1031\">ر - نسخة. رواها محمد بن علي بن الحسين بن زيد الشهيد<lfootnote noteId=\"93\">6</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128998,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1032\">ش - نسخة مبوبة كبيرة. رواها محمد بن عبد الله اللاحقي<lfootnote noteId=\"94\">7</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128999,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1033\">و قال السيد الأمين: له مؤلفات كثيرة ذكرها العلماء إجمالا و تفصيلا، ففي خلاصة تهذيب الكمال عن سنن ابن ماجة عنه: عبد السلام بن صالح و جماعة عدة نسخ. و في تهذيب التهذيب: عنه علي بن مهدي له عنه نسخة، و داود بن سليمان له عنه نسخة، و عامر بن سليمان الطائي، له عنه نسخة كبيرة.</p>"
+        },
+        {
+          "paragraphId": 704129000,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1034\">أما مؤلفاته على التفصيل فهي هذه: 1 - ما كتبه إلى محمد بن سنان في جواب مسائله عن علل الأحكام الشرعية. 2 - العلل التي ذكر الفضل بن شاذان أنه سمعها من الرضا عليه السلام<lfootnote noteId=\"95\">8</lfootnote>... 3 - ما كتبه إلى المأمون من محض الإسلام و شرائع الدين... </p>"
+        },
+        {
+          "paragraphId": 704129001,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1035\"><page number=\"20\"/>4 - ما كتبه إلى المأمون في جوامع الشريعة 5 - الرسالة المذهبة أو الرسالة الذهبية في الطب... 6 - كتاب فقه الرضا عليه السلام... 7 - صحيفة الرضا عليه السلام<lfootnote noteId=\"96\">1</lfootnote>...</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129911,
+          "text": "<footnote id=\"88\"><page number=\"19\"/><mnote>(1)</mnote> رجال النجاشي: 410 /رقم 1094.</footnote>"
+        },
+        {
+          "footnoteId": 704129912,
+          "text": "<footnote id=\"89\"><mnote>(2)</mnote> تدوين السنة الشريفة: 181، عن أعيان الشيعة 26:2.</footnote>"
+        },
+        {
+          "footnoteId": 704129913,
+          "text": "<footnote id=\"90\"><mnote>(3)</mnote> رجال النجاشي: 282 /رقم 749.</footnote>"
+        },
+        {
+          "footnoteId": 704129914,
+          "text": "<footnote id=\"91\"><mnote>(4)</mnote> رجال النجاشي: 227 /رقم 599.</footnote>"
+        },
+        {
+          "footnoteId": 704129915,
+          "text": "<footnote id=\"92\"><mnote>(5)</mnote> رجال النجاشي: 228 /رقم 603. عيون أخبار الرضا 58:2-67 /الاحاديث 214-314.</footnote>"
+        },
+        {
+          "footnoteId": 704129916,
+          "text": "<footnote id=\"93\"><mnote>(6)</mnote> رجال النجاشي: 396 /رقم 992.</footnote>"
+        },
+        {
+          "footnoteId": 704129917,
+          "text": "<footnote id=\"94\"><mnote>(7)</mnote> رجال النجاشي: 396 /رقم 990.</footnote>"
+        },
+        {
+          "footnoteId": 704129918,
+          "text": "<footnote id=\"95\"><mnote>(8)</mnote> و قد مرت بعنوان أمالي الإمام الرضا عليه السلام.</footnote>"
+        }
+      ],
+      "pageValue": "19",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1026\" paragraph-id=\"1026\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo19\">19</span>س - مسائل. رواها معاوية بن سعيد<span><sup><a class=\"NewFn\" href=\"#footnote88\" title=\"(1)  رجال النجاشي: 410 /رقم 1094.\">1</a></sup></span>.</p>\n  <p id=\"p1027\" paragraph-id=\"1027\" class=\" G\">ع - نسخة. رواها أبو أحمد داود بن سليمان الغازي<span><sup><a class=\"NewFn\" href=\"#footnote89\" title=\"(2)  تدوين السنة الشريفة: 181، عن أعيان الشيعة 26:2.\">2</a></sup></span>.</p>\n  <p id=\"p1028\" paragraph-id=\"1028\" class=\" G\">ف - نسخة. رواها عباس بن هلال الشامي<span><sup><a class=\"NewFn\" href=\"#footnote90\" title=\"(3)  رجال النجاشي: 282 /رقم 749.\">3</a></sup></span>.</p>\n  <p id=\"p1029\" paragraph-id=\"1029\" class=\" G\">ص - نسخة. رواها عبد الله بن علي بن الحسين بن زيد الشهيد<span><sup><a class=\"NewFn\" href=\"#footnote91\" title=\"(4)  رجال النجاشي: 227 /رقم 599.\">4</a></sup></span>.</p>\n  <p id=\"p1030\" paragraph-id=\"1030\" class=\" G\">ق - نسخة. رواها عبد الله بن محمد بن علي بن العباس التميمي الرازي<span><sup><a class=\"NewFn\" href=\"#footnote92\" title=\"(5)  رجال النجاشي: 228 /رقم 603. عيون أخبار الرضا 58:2-67 /الاحاديث 214-314.\">5</a></sup></span>.</p>\n  <p id=\"p1031\" paragraph-id=\"1031\" class=\" G\">ر - نسخة. رواها محمد بن علي بن الحسين بن زيد الشهيد<span><sup><a class=\"NewFn\" href=\"#footnote93\" title=\"(6)  رجال النجاشي: 396 /رقم 992.\">6</a></sup></span>.</p>\n  <p id=\"p1032\" paragraph-id=\"1032\" class=\" G\">ش - نسخة مبوبة كبيرة. رواها محمد بن عبد الله اللاحقي<span><sup><a class=\"NewFn\" href=\"#footnote94\" title=\"(7)  رجال النجاشي: 396 /رقم 990.\">7</a></sup></span>.</p>\n  <p id=\"p1033\" paragraph-id=\"1033\" class=\" G\">و قال السيد الأمين: له مؤلفات كثيرة ذكرها العلماء إجمالا و تفصيلا، ففي خلاصة تهذيب الكمال عن سنن ابن ماجة عنه: عبد السلام بن صالح و جماعة عدة نسخ. و في تهذيب التهذيب: عنه علي بن مهدي له عنه نسخة، و داود بن سليمان له عنه نسخة، و عامر بن سليمان الطائي، له عنه نسخة كبيرة.</p>\n  <p id=\"p1034\" paragraph-id=\"1034\" class=\" G\">أما مؤلفاته على التفصيل فهي هذه: 1 - ما كتبه إلى محمد بن سنان في جواب مسائله عن علل الأحكام الشرعية. 2 - العلل التي ذكر الفضل بن شاذان أنه سمعها من الرضا عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote95\" title=\"(8)  و قد مرت بعنوان أمالي الإمام الرضا عليه السلام.\">8</a></sup></span>... 3 - ما كتبه إلى المأمون من محض الإسلام و شرائع الدين... </p>\n  <p id=\"p1035\" paragraph-id=\"1035\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote88\" footnote-id=\"88\">(1) <page number=\"19\" /> رجال النجاشي: 410 /رقم 1094.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote89\" footnote-id=\"89\">(2)  تدوين السنة الشريفة: 181، عن أعيان الشيعة 26:2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote90\" footnote-id=\"90\">(3)  رجال النجاشي: 282 /رقم 749.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote91\" footnote-id=\"91\">(4)  رجال النجاشي: 227 /رقم 599.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote92\" footnote-id=\"92\">(5)  رجال النجاشي: 228 /رقم 603. عيون أخبار الرضا 58:2-67 /الاحاديث 214-314.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote93\" footnote-id=\"93\">(6)  رجال النجاشي: 396 /رقم 992.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote94\" footnote-id=\"94\">(7)  رجال النجاشي: 396 /رقم 990.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote95\" footnote-id=\"95\">(8)  و قد مرت بعنوان أمالي الإمام الرضا عليه السلام.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "97D8B0AC-1147-4593-A57F-6CA04A47A236",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

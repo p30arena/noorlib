@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 20,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129001,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1035\"><page number=\"20\"/>4 - ما كتبه إلى المأمون في جوامع الشريعة 5 - الرسالة المذهبة أو الرسالة الذهبية في الطب... 6 - كتاب فقه الرضا عليه السلام... 7 - صحيفة الرضا عليه السلام<lfootnote noteId=\"96\">1</lfootnote>...</p>"
+        },
+        {
+          "paragraphId": 704129002,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1036\"><heading level=\"3\">10 - الإمام الجواد عليه السلام. </heading></p>"
+        },
+        {
+          "paragraphId": 704129003,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1037\">كان الإمام عليه السلام يتعهد كتب آبائه عليهم السلام و يوثقها للشيعة، فعن محمد بن الحسن بن أبي خالد، قال: قلت لأبي جعفر الثاني عليه السلام: جعلت فداك؛ إن مشايخنا رووا عن أبي جعفر و أبي عبد الله عليهما السلام، و كانت التقية شديدة فكتموا كتبهم فلم ترو عنهم، فلما ماتوا صارت الكتب إلينا، فقال عليه السلام: حدثوا بها فإنها حق<lfootnote noteId=\"97\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129004,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1038\">و قال إبراهيم بن أبي محمود: دخلت على أبي جعفر عليه السلام و معي كتب إليه من أبيه، فجعل يقرؤها و يضع كتابا كبيرا على عينيه و يقول: خط أبي و الله، و يبكي حتى سالت دموعه<lfootnote noteId=\"98\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129005,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1039\"><heading level=\"3\">11 - الإمام الهادي عليه السلام. </heading></p>"
+        },
+        {
+          "paragraphId": 704129006,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1040\">أ - أجوبته عليه السلام ليحيى بن أكثم عن مسائله<lfootnote noteId=\"99\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129007,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1041\">ب - الأمالي في تفسير القرآن<lfootnote noteId=\"100\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129008,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1042\"><page number=\"21\"/>ج‍ - رسالة في الرد على أهل الجبر و التفويض و إثبات العدل و المنزلة بين المنزلتين<lfootnote noteId=\"101\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129919,
+          "text": "<footnote id=\"96\"><page number=\"20\"/><mnote>(1)</mnote> أعيان الشيعة 26:2-28.</footnote>"
+        },
+        {
+          "footnoteId": 704129920,
+          "text": "<footnote id=\"97\"><mnote>(2)</mnote> الكافي 53:1 /باب النوادر - الحديث 15.</footnote>"
+        },
+        {
+          "footnoteId": 704129921,
+          "text": "<footnote id=\"98\"><mnote>(3)</mnote> رجال الكشي 475:1.</footnote>"
+        },
+        {
+          "footnoteId": 704129922,
+          "text": "<footnote id=\"99\"><mnote>(4)</mnote> أعيان الشيعة 39:2، تحف العقول: 356-360.</footnote>"
+        },
+        {
+          "footnoteId": 704129923,
+          "text": "<footnote id=\"100\"><mnote>(5)</mnote> و هو المعروف بتفسير الإمام العسكري. انظر الذريعة 283:4 و 285.</footnote>"
+        }
+      ],
+      "pageValue": "20",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1035\" paragraph-id=\"1035\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo20\">20</span>4 - ما كتبه إلى المأمون في جوامع الشريعة 5 - الرسالة المذهبة أو الرسالة الذهبية في الطب... 6 - كتاب فقه الرضا عليه السلام... 7 - صحيفة الرضا عليه السلام<span><sup><a class=\"NewFn\" href=\"#footnote96\" title=\"(1)  أعيان الشيعة 26:2-28.\">1</a></sup></span>...</p>\n  <p id=\"p1036\" paragraph-id=\"1036\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">10 - الإمام الجواد عليه السلام. </strong>\n  </p>\n  <p id=\"p1037\" paragraph-id=\"1037\" class=\" G\">كان الإمام عليه السلام يتعهد كتب آبائه عليهم السلام و يوثقها للشيعة، فعن محمد بن الحسن بن أبي خالد، قال: قلت لأبي جعفر الثاني عليه السلام: جعلت فداك؛ إن مشايخنا رووا عن أبي جعفر و أبي عبد الله عليهما السلام، و كانت التقية شديدة فكتموا كتبهم فلم ترو عنهم، فلما ماتوا صارت الكتب إلينا، فقال عليه السلام: حدثوا بها فإنها حق<span><sup><a class=\"NewFn\" href=\"#footnote97\" title=\"(2)  الكافي 53:1 /باب النوادر - الحديث 15.\">2</a></sup></span>.</p>\n  <p id=\"p1038\" paragraph-id=\"1038\" class=\" G\">و قال إبراهيم بن أبي محمود: دخلت على أبي جعفر عليه السلام و معي كتب إليه من أبيه، فجعل يقرؤها و يضع كتابا كبيرا على عينيه و يقول: خط أبي و الله، و يبكي حتى سالت دموعه<span><sup><a class=\"NewFn\" href=\"#footnote98\" title=\"(3)  رجال الكشي 475:1.\">3</a></sup></span>.</p>\n  <p id=\"p1039\" paragraph-id=\"1039\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">11 - الإمام الهادي عليه السلام. </strong>\n  </p>\n  <p id=\"p1040\" paragraph-id=\"1040\" class=\" G\">أ - أجوبته عليه السلام ليحيى بن أكثم عن مسائله<span><sup><a class=\"NewFn\" href=\"#footnote99\" title=\"(4)  أعيان الشيعة 39:2، تحف العقول: 356-360.\">4</a></sup></span>.</p>\n  <p id=\"p1041\" paragraph-id=\"1041\" class=\" G\">ب - الأمالي في تفسير القرآن<span><sup><a class=\"NewFn\" href=\"#footnote100\" title=\"(5)  و هو المعروف بتفسير الإمام العسكري. انظر الذريعة 283:4 و 285.\">5</a></sup></span>.</p>\n  <p id=\"p1042\" paragraph-id=\"1042\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote96\" footnote-id=\"96\">(1) <page number=\"20\" /> أعيان الشيعة 26:2-28.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote97\" footnote-id=\"97\">(2)  الكافي 53:1 /باب النوادر - الحديث 15.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote98\" footnote-id=\"98\">(3)  رجال الكشي 475:1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote99\" footnote-id=\"99\">(4)  أعيان الشيعة 39:2، تحف العقول: 356-360.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote100\" footnote-id=\"100\">(5)  و هو المعروف بتفسير الإمام العسكري. انظر الذريعة 283:4 و 285.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5BE15F24-EBF6-4C40-8684-7659DB0FB24B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

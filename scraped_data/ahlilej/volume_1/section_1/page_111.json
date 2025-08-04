@@ -1,0 +1,111 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 111,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129535,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1504\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\"><page number=\"111\"/>خَلْقِ اَلنَّاسِ‌، أَقْرَرْتَ أَنَّ لَهَا خَالِقاً، و إِن قُلْتَ‌: لاَ بُدَّ مِنْ‌<lfootnote noteId=\"542\">1</lfootnote> أَنْ يَكُونَ لَهَا خَالِقٌ‌، فَقَدْ<lfootnote noteId=\"543\">2</lfootnote> صَدَقْتَ و مَا أَعْرَفَنَا<lfootnote noteId=\"544\">3</lfootnote> بِهِ‌، و لَئِنْ‌<lfootnote noteId=\"545\">4</lfootnote> قُلْتَ‌: إِنَّهُنَّ خَلَقْنَ أَنْفُسَهُنَّ (رجعت إلى ما أنكرت.</format></p>"
+        },
+        {
+          "paragraphId": 704129536,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1505\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">قال: ما أجد بدّاً من أن أقول إنهن خلقن أنفسهن كما أقول إن البروج و الناس خلقوا أنفسهم.</format></p>"
+        },
+        {
+          "paragraphId": 704129537,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1506\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">قلت: فكيف لا تَجِدُ بُدّاً مِنْ أَنْ تقول إن الأرض و السماء و الذر خلقوا أنفسهم)<lfootnote noteId=\"546\">5</lfootnote>، فَقَدْ أَعْطَيْتَنِي فَوْقَ مَا طَلَبْتُ‌<lfootnote noteId=\"547\">6</lfootnote> مِنْكَ مِنَ اَلْإِقْرَارِ بِصَانِعٍ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129538,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1507\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\">ثُمَّ‌<lfootnote noteId=\"548\">7</lfootnote> قُلْتُ‌: فَأَخْبِرْنِي، بَعْضُهُنَّ‌<lfootnote noteId=\"549\">8</lfootnote> قَبْلَ بَعْضٍ خَلَقْنَ أَنْفُسَهُنَّ أَمْ كَانَ ذَلِكَ فِي يَوْمٍ وَاحِدٍ؟ فَإِنْ قُلْتَ‌: بَعْضُهُنَّ‌<lfootnote noteId=\"550\">9</lfootnote> قَبْلَ بَعْضٍ فَأَخْبِرْنِي أن<lfootnote noteId=\"551\">10</lfootnote> اَلسَّمَاوَاتُ و مَا فِيهِنَّ (و اَلنُّجُومُ قَبْلَ اَلْأَرْضِ‌)<lfootnote noteId=\"552\">11</lfootnote> و اَلْإِنْسِ و اَلذَّرِّ خُلِقْنَ‌<lfootnote noteId=\"553\">12</lfootnote> أَمْ بَعْدَ ذَلِكَ؟ فَإِنْ قُلْتَ‌: إِنَّ </format></p>"
+        },
+        {
+          "paragraphId": 704129539,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1508\"><format class=\"hadith\" who=\"6\" Id=\"13\" RevayatIndex=\"13\"><page number=\"112\"/>الأَرض قَبل ذَلِكَ‌<lfootnote noteId=\"554\">1</lfootnote> أَ فَلاَ تَرَى أَنَّ‌<lfootnote noteId=\"555\">2</lfootnote> قَوْلَكَ‌: إِنَّ اَلْأَشْيَاءَ لَمْ تَزَلْ‌، قَدْ بَطَلَ‌؛ حَيْثُ كَانَتِ اَلسَّمَاءُ بَعْدَ اَلْأَرْضِ؟</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130365,
+          "text": "<footnote id=\"542\"><page number=\"111\"/><mnote>(1)</mnote> عن «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130366,
+          "text": "<footnote id=\"543\"><mnote>(2)</mnote> ليست في «أ» «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130367,
+          "text": "<footnote id=\"544\"><mnote>(3)</mnote> في «أ»: و ما اعترفنا. و في «ج‍»: بما اعترفنا.</footnote>"
+        },
+        {
+          "footnoteId": 704130368,
+          "text": "<footnote id=\"545\"><mnote>(4)</mnote> في «أ» «ج‍»: و إن.</footnote>"
+        },
+        {
+          "footnoteId": 704130369,
+          "text": "<footnote id=\"546\"><mnote>(5)</mnote> ليست في «ب».</footnote>"
+        },
+        {
+          "footnoteId": 704130370,
+          "text": "<footnote id=\"547\"><mnote>(6)</mnote> في «ب»: أطلب.</footnote>"
+        },
+        {
+          "footnoteId": 704130371,
+          "text": "<footnote id=\"548\"><mnote>(7)</mnote> في «أ» «ج‍»: «و قلت» بدل «ثم قلت».</footnote>"
+        },
+        {
+          "footnoteId": 704130372,
+          "text": "<footnote id=\"549\"><mnote>(8)</mnote> في «أ» «ج‍»: بعضهم.</footnote>"
+        },
+        {
+          "footnoteId": 704130373,
+          "text": "<footnote id=\"550\"><mnote>(9)</mnote> في «أ» «ج‍»: بعضهم.</footnote>"
+        },
+        {
+          "footnoteId": 704130374,
+          "text": "<footnote id=\"551\"><mnote>(10)</mnote> عن «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130375,
+          "text": "<footnote id=\"552\"><mnote>(11)</mnote> في «أ» «ج‍»: قبل الأرض و النجوم.</footnote>"
+        },
+        {
+          "footnoteId": 704130376,
+          "text": "<footnote id=\"553\"><mnote>(12)</mnote> في «أ»: خلقن قبل أم بعد.</footnote>"
+        }
+      ],
+      "pageValue": "111",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1504\" paragraph-id=\"1504\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo111\">111</span>خَلْقِ اَلنَّاسِ‌، أَقْرَرْتَ أَنَّ لَهَا خَالِقاً، و إِن قُلْتَ‌: لاَ بُدَّ مِنْ‌<span><sup><a class=\"NewFn\" href=\"#footnote542\" title=\"(1)  عن «ج‍».\">1</a></sup></span> أَنْ يَكُونَ لَهَا خَالِقٌ‌، فَقَدْ<span><sup><a class=\"NewFn\" href=\"#footnote543\" title=\"(2)  ليست في «أ» «ج‍».\">2</a></sup></span> صَدَقْتَ و مَا أَعْرَفَنَا<span><sup><a class=\"NewFn\" href=\"#footnote544\" title=\"(3)  في «أ»: و ما اعترفنا. و في «ج‍»: بما اعترفنا.\">3</a></sup></span> بِهِ‌، و لَئِنْ‌<span><sup><a class=\"NewFn\" href=\"#footnote545\" title=\"(4)  في «أ» «ج‍»: و إن.\">4</a></sup></span> قُلْتَ‌: إِنَّهُنَّ خَلَقْنَ أَنْفُسَهُنَّ (رجعت إلى ما أنكرت.</span>\n  </p>\n  <p id=\"p1505\" paragraph-id=\"1505\" class=\" G\">\n    <span class=\"hadith\">قال: ما أجد بدّاً من أن أقول إنهن خلقن أنفسهن كما أقول إن البروج و الناس خلقوا أنفسهم.</span>\n  </p>\n  <p id=\"p1506\" paragraph-id=\"1506\" class=\" G\">\n    <span class=\"hadith\">قلت: فكيف لا تَجِدُ بُدّاً مِنْ أَنْ تقول إن الأرض و السماء و الذر خلقوا أنفسهم)<span><sup><a class=\"NewFn\" href=\"#footnote546\" title=\"(5)  ليست في «ب».\">5</a></sup></span>، فَقَدْ أَعْطَيْتَنِي فَوْقَ مَا طَلَبْتُ‌<span><sup><a class=\"NewFn\" href=\"#footnote547\" title=\"(6)  في «ب»: أطلب.\">6</a></sup></span> مِنْكَ مِنَ اَلْإِقْرَارِ بِصَانِعٍ‌.</span>\n  </p>\n  <p id=\"p1507\" paragraph-id=\"1507\" class=\" G\">\n    <span class=\"hadith\">ثُمَّ‌<span><sup><a class=\"NewFn\" href=\"#footnote548\" title=\"(7)  في «أ» «ج‍»: «و قلت» بدل «ثم قلت».\">7</a></sup></span> قُلْتُ‌: فَأَخْبِرْنِي، بَعْضُهُنَّ‌<span><sup><a class=\"NewFn\" href=\"#footnote549\" title=\"(8)  في «أ» «ج‍»: بعضهم.\">8</a></sup></span> قَبْلَ بَعْضٍ خَلَقْنَ أَنْفُسَهُنَّ أَمْ كَانَ ذَلِكَ فِي يَوْمٍ وَاحِدٍ؟ فَإِنْ قُلْتَ‌: بَعْضُهُنَّ‌<span><sup><a class=\"NewFn\" href=\"#footnote550\" title=\"(9)  في «أ» «ج‍»: بعضهم.\">9</a></sup></span> قَبْلَ بَعْضٍ فَأَخْبِرْنِي أن<span><sup><a class=\"NewFn\" href=\"#footnote551\" title=\"(10)  عن «ج‍».\">10</a></sup></span> اَلسَّمَاوَاتُ و مَا فِيهِنَّ (و اَلنُّجُومُ قَبْلَ اَلْأَرْضِ‌)<span><sup><a class=\"NewFn\" href=\"#footnote552\" title=\"(11)  في «أ» «ج‍»: قبل الأرض و النجوم.\">11</a></sup></span> و اَلْإِنْسِ و اَلذَّرِّ خُلِقْنَ‌<span><sup><a class=\"NewFn\" href=\"#footnote553\" title=\"(12)  في «أ»: خلقن قبل أم بعد.\">12</a></sup></span> أَمْ بَعْدَ ذَلِكَ؟ فَإِنْ قُلْتَ‌: إِنَّ </span>\n  </p>\n  <p id=\"p1508\" paragraph-id=\"1508\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote542\" footnote-id=\"542\">(1) <page number=\"111\" /> عن «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote543\" footnote-id=\"543\">(2)  ليست في «أ» «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote544\" footnote-id=\"544\">(3)  في «أ»: و ما اعترفنا. و في «ج‍»: بما اعترفنا.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote545\" footnote-id=\"545\">(4)  في «أ» «ج‍»: و إن.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote546\" footnote-id=\"546\">(5)  ليست في «ب».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote547\" footnote-id=\"547\">(6)  في «ب»: أطلب.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote548\" footnote-id=\"548\">(7)  في «أ» «ج‍»: «و قلت» بدل «ثم قلت».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote549\" footnote-id=\"549\">(8)  في «أ» «ج‍»: بعضهم.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote550\" footnote-id=\"550\">(9)  في «أ» «ج‍»: بعضهم.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote551\" footnote-id=\"551\">(10)  عن «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote552\" footnote-id=\"552\">(11)  في «أ» «ج‍»: قبل الأرض و النجوم.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote553\" footnote-id=\"553\">(12)  في «أ»: خلقن قبل أم بعد.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D7569BBD-E813-4B24-B92F-9B035DE35AA0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 66,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129216,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1250\"><page number=\"66\"/><page number=\"67\"/><heading level=\"2\">[طلب المفضل من الإمام عليه السلام الرد على الجاحدين]</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "66",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1250\" paragraph-id=\"1250\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo66\">66</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "94FDA0C4-0A39-40BC-A9C7-04769CB941D5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

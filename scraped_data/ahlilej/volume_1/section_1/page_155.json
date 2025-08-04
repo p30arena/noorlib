@@ -1,0 +1,44 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 155,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129788,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1757\"><page number=\"155\"/><heading level=\"1\">شروح و تعليقات العلامة المجلسي رحمه الله</heading></p>"
+        },
+        {
+          "paragraphId": 704129789,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1758\"><page number=\"156\"/><page number=\"157\"/><format class=\"q\"><format class=\"a\">بسم اللٰه الرحمٰن الرحيم</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "155",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1757\" paragraph-id=\"1757\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo155\">155</span>\n    <strong style=\"0\" class=\"h-1 01\">شروح و تعليقات العلامة المجلسي رحمه الله</strong>\n  </p>\n  <p id=\"p1758\" paragraph-id=\"1758\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "5CE114ED-2DED-4EEF-8CC6-8292DD9518C9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

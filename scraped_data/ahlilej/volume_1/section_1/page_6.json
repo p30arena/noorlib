@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 6,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128883,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"917\"><page number=\"6\"/>و أمر الصحابة أن لا يحدثوا عن الرسول صلى الله عليه و آله و أن يكتفوا بالقرآن وحده!!</p>"
+        },
+        {
+          "paragraphId": 704128884,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"918\">فقد روت عائشة قائلة: جمع أبي الحديث عن رسول الله صلى الله عليه و آله و كانت خمسمائة حديث، فبات ليلته يتقلب كثيرا... فلما أصبح قال: أي بنية هلمي الأحاديث التي عندك، فجئته بها، فدعا بنار فأحرقها<lfootnote noteId=\"2\">1</lfootnote>...</p>"
+        },
+        {
+          "paragraphId": 704128885,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"919\">و قال ابن أبي مليكة: إن أبا بكر جمع الناس بعد وفاة نبيهم، فقال: إنكم تحدثون عن رسول الله صلى الله عليه و آله أحاديث تختلفون فيها، و الناس بعدكم أشد اختلافا، فلا تحدثوا عن رسول الله صلى الله عليه و آله شيئا، فمن سألكم فقولوا: بيننا و بينكم كتاب الله فاستحلوا حلاله و حرموا حرامه<lfootnote noteId=\"3\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128886,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"920\">و لما خلفه عمر في منصبه كانت الطامة الكبرى، فقام المنع و الحرق على قدم و ساق، و صار حبس الصحابة المحدثين عن رسول الله صلى الله عليه و آله أمرا يستأنس به عمر.</p>"
+        },
+        {
+          "paragraphId": 704128887,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"921\">فعن القاسم بن محمد بن أبي بكر: إن عمر بن الخطاب بلغه أنه قد ظهرت في أيدي الناس كتب، فاستنكرها و كرهها، و قال: أيها الناس، إنه قد بلغني أنه قد ظهرت في أيديكم كتب... فلا يبقين أحد عنده كتابا إلا أتاني به فأرى فيه رأيي... </p>"
+        },
+        {
+          "paragraphId": 704128888,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"922\">فأتوه بكتبهم فأحرقها بالنار<lfootnote noteId=\"4\">3</lfootnote>!!</p>"
+        },
+        {
+          "paragraphId": 704128889,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"923\">و روي عن يحيى بن جعدة: أن عمر بن الخطاب أراد أن يكتب السنة ثم بدا له أن لا يكتبها، ثم كتب في الأمصار: من كان عنده منها شيء فليمحه<lfootnote noteId=\"5\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128890,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"924\">و بعد ذلك حبس عمر عبد الله بن مسعود، و أبا الدرداء، و أبا مسعود </p>"
+        },
+        {
+          "paragraphId": 704128891,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"925\"><page number=\"7\"/>الأنصاري، و عقبة بن عامر، و أبا ذر الغفاري، و حذيفة، و جمعا آخرين من الصحابة، حبسهم و منعهم من التحديث عن رسول الله صلى الله عليه و آله<lfootnote noteId=\"6\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129825,
+          "text": "<footnote id=\"2\"><page number=\"6\"/><mnote>(1)</mnote> تذكرة الحفاظ 5:1، الرياض النضرة 144:2.</footnote>"
+        },
+        {
+          "footnoteId": 704129826,
+          "text": "<footnote id=\"3\"><mnote>(2)</mnote> تذكرة الحفاظ 2:1.</footnote>"
+        },
+        {
+          "footnoteId": 704129827,
+          "text": "<footnote id=\"4\"><mnote>(3)</mnote> الطبقات الكبرى 140:1، حجية السنة: 395.</footnote>"
+        },
+        {
+          "footnoteId": 704129828,
+          "text": "<footnote id=\"5\"><mnote>(4)</mnote> كنز العمال 292:10، تقييد العلم: 53.</footnote>"
+        }
+      ],
+      "pageValue": "6",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p917\" paragraph-id=\"917\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo6\">6</span>و أمر الصحابة أن لا يحدثوا عن الرسول صلى الله عليه و آله و أن يكتفوا بالقرآن وحده!!</p>\n  <p id=\"p918\" paragraph-id=\"918\" class=\" G\">فقد روت عائشة قائلة: جمع أبي الحديث عن رسول الله صلى الله عليه و آله و كانت خمسمائة حديث، فبات ليلته يتقلب كثيرا... فلما أصبح قال: أي بنية هلمي الأحاديث التي عندك، فجئته بها، فدعا بنار فأحرقها<span><sup><a class=\"NewFn\" href=\"#footnote2\" title=\"(1)  تذكرة الحفاظ 5:1، الرياض النضرة 144:2.\">1</a></sup></span>...</p>\n  <p id=\"p919\" paragraph-id=\"919\" class=\" G\">و قال ابن أبي مليكة: إن أبا بكر جمع الناس بعد وفاة نبيهم، فقال: إنكم تحدثون عن رسول الله صلى الله عليه و آله أحاديث تختلفون فيها، و الناس بعدكم أشد اختلافا، فلا تحدثوا عن رسول الله صلى الله عليه و آله شيئا، فمن سألكم فقولوا: بيننا و بينكم كتاب الله فاستحلوا حلاله و حرموا حرامه<span><sup><a class=\"NewFn\" href=\"#footnote3\" title=\"(2)  تذكرة الحفاظ 2:1.\">2</a></sup></span>.</p>\n  <p id=\"p920\" paragraph-id=\"920\" class=\" G\">و لما خلفه عمر في منصبه كانت الطامة الكبرى، فقام المنع و الحرق على قدم و ساق، و صار حبس الصحابة المحدثين عن رسول الله صلى الله عليه و آله أمرا يستأنس به عمر.</p>\n  <p id=\"p921\" paragraph-id=\"921\" class=\" G\">فعن القاسم بن محمد بن أبي بكر: إن عمر بن الخطاب بلغه أنه قد ظهرت في أيدي الناس كتب، فاستنكرها و كرهها، و قال: أيها الناس، إنه قد بلغني أنه قد ظهرت في أيديكم كتب... فلا يبقين أحد عنده كتابا إلا أتاني به فأرى فيه رأيي... </p>\n  <p id=\"p922\" paragraph-id=\"922\" class=\" G\">فأتوه بكتبهم فأحرقها بالنار<span><sup><a class=\"NewFn\" href=\"#footnote4\" title=\"(3)  الطبقات الكبرى 140:1، حجية السنة: 395.\">3</a></sup></span>!!</p>\n  <p id=\"p923\" paragraph-id=\"923\" class=\" G\">و روي عن يحيى بن جعدة: أن عمر بن الخطاب أراد أن يكتب السنة ثم بدا له أن لا يكتبها، ثم كتب في الأمصار: من كان عنده منها شيء فليمحه<span><sup><a class=\"NewFn\" href=\"#footnote5\" title=\"(4)  كنز العمال 292:10، تقييد العلم: 53.\">4</a></sup></span>.</p>\n  <p id=\"p924\" paragraph-id=\"924\" class=\" G\">و بعد ذلك حبس عمر عبد الله بن مسعود، و أبا الدرداء، و أبا مسعود </p>\n  <p id=\"p925\" paragraph-id=\"925\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote2\" footnote-id=\"2\">(1) <page number=\"6\" /> تذكرة الحفاظ 5:1، الرياض النضرة 144:2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote3\" footnote-id=\"3\">(2)  تذكرة الحفاظ 2:1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote4\" footnote-id=\"4\">(3)  الطبقات الكبرى 140:1، حجية السنة: 395.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote5\" footnote-id=\"5\">(4)  كنز العمال 292:10، تقييد العلم: 53.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4D0D1D25-E152-4A33-B82C-8E285740D296",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

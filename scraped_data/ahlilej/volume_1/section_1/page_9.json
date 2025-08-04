@@ -1,0 +1,111 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 9,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128901,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"935\"><page number=\"9\"/>تلك المدينة‌؟! و من حاول إغلاق بابها؟!</p>"
+        },
+        {
+          "paragraphId": 704128902,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"936\"><heading level=\"2\"><format class=\"H\">[بيان الاتجاه و النهج الأصيل الذي سار عليه أهل البيت عليهم السلام في حفظ آثار رسول الله صلى الله عليه و آله]</format></heading></p>"
+        },
+        {
+          "paragraphId": 704128903,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"937\"> و الذي يهمنا هنا هو الاتجاه و النهج الأصيل الذي سار عليه أهل البيت عليهم السلام في حفظ آثار رسول الله صلى الله عليه و آله فقها و حديثا و سنة و عقائد و و و... عبر التحديث و الكتابة، إذ جد أهل البيت عليهم السلام و أتباعهم في حفظ تلك الآثار في مدونات و مكتوبات و صحف لتكون حجة بالغة لله عز و جل و للرسول صلى الله عليه و آله و لهم عليهم السلام على العالمين.</p>"
+        },
+        {
+          "paragraphId": 704128904,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"938\"><heading level=\"3\">1 - أمير المؤمنين عليه السلام: </heading></p>"
+        },
+        {
+          "paragraphId": 704128905,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"939\">أ - «كتاب علي عليه السلام»، و هو كتاب كبير جدا، و أول كتاب جمع فيه العلم، أملاه رسول الله صلى الله عليه و آله على علي عليه السلام و كتبه عليه السلام بخط يده.</p>"
+        },
+        {
+          "paragraphId": 704128906,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"940\">ب - الصحيفة، و هي صحيفة علي عليه السلام.</p>"
+        },
+        {
+          "paragraphId": 704128907,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"941\">ج‍ - الجفر.</p>"
+        },
+        {
+          "paragraphId": 704128908,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"942\">د - الجامعة<lfootnote noteId=\"13\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128909,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"943\">ه‍ - كتاب في علوم القرآن، أو ناسخ القرآن و منسوخة، أو المحكم و المتشابه في القرآن<lfootnote noteId=\"14\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128910,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"944\">و - كتاب السنن و القضايا و الأحكام<lfootnote noteId=\"15\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704128911,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"945\"><page number=\"10\"/>ز - كتابه عليه السلام إلى والي الأهواز<lfootnote noteId=\"16\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129836,
+          "text": "<footnote id=\"13\"><page number=\"9\"/><mnote>(1)</mnote> انظر كتاب تدوين السنة الشريفة: 52-76، و أعيان الشيعة 93:1-94.</footnote>"
+        },
+        {
+          "footnoteId": 704129837,
+          "text": "<footnote id=\"14\"><mnote>(2)</mnote> انظر أعيان الشيعة 90:1، و رجال النجاشي: 177، و الذريعة 154:20، و بحار الأنوار 3:93.</footnote>"
+        },
+        {
+          "footnoteId": 704129838,
+          "text": "<footnote id=\"15\"><mnote>(3)</mnote> انظر أعيان الشيعة 97:1. و قد روى عنه أكثر من عشرة من التابعين، انظر تدوين السنة الشريفة: 138-142.</footnote>"
+        }
+      ],
+      "pageValue": "9",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p935\" paragraph-id=\"935\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo9\">9</span>تلك المدينة‌؟! و من حاول إغلاق بابها؟!</p>\n  <p id=\"p936\" paragraph-id=\"936\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"H\">[بيان الاتجاه و النهج الأصيل الذي سار عليه أهل البيت عليهم السلام في حفظ آثار رسول الله صلى الله عليه و آله]</span>\n    </strong>\n  </p>\n  <p id=\"p937\" paragraph-id=\"937\" class=\" G\"> و الذي يهمنا هنا هو الاتجاه و النهج الأصيل الذي سار عليه أهل البيت عليهم السلام في حفظ آثار رسول الله صلى الله عليه و آله فقها و حديثا و سنة و عقائد و و و... عبر التحديث و الكتابة، إذ جد أهل البيت عليهم السلام و أتباعهم في حفظ تلك الآثار في مدونات و مكتوبات و صحف لتكون حجة بالغة لله عز و جل و للرسول صلى الله عليه و آله و لهم عليهم السلام على العالمين.</p>\n  <p id=\"p938\" paragraph-id=\"938\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">1 - أمير المؤمنين عليه السلام: </strong>\n  </p>\n  <p id=\"p939\" paragraph-id=\"939\" class=\" G\">أ - «كتاب علي عليه السلام»، و هو كتاب كبير جدا، و أول كتاب جمع فيه العلم، أملاه رسول الله صلى الله عليه و آله على علي عليه السلام و كتبه عليه السلام بخط يده.</p>\n  <p id=\"p940\" paragraph-id=\"940\" class=\" G\">ب - الصحيفة، و هي صحيفة علي عليه السلام.</p>\n  <p id=\"p941\" paragraph-id=\"941\" class=\" G\">ج‍ - الجفر.</p>\n  <p id=\"p942\" paragraph-id=\"942\" class=\" G\">د - الجامعة<span><sup><a class=\"NewFn\" href=\"#footnote13\" title=\"(1)  انظر كتاب تدوين السنة الشريفة: 52-76، و أعيان الشيعة 93:1-94.\">1</a></sup></span>.</p>\n  <p id=\"p943\" paragraph-id=\"943\" class=\" G\">ه‍ - كتاب في علوم القرآن، أو ناسخ القرآن و منسوخة، أو المحكم و المتشابه في القرآن<span><sup><a class=\"NewFn\" href=\"#footnote14\" title=\"(2)  انظر أعيان الشيعة 90:1، و رجال النجاشي: 177، و الذريعة 154:20، و بحار الأنوار 3:93.\">2</a></sup></span>.</p>\n  <p id=\"p944\" paragraph-id=\"944\" class=\" G\">و - كتاب السنن و القضايا و الأحكام<span><sup><a class=\"NewFn\" href=\"#footnote15\" title=\"(3)  انظر أعيان الشيعة 97:1. و قد روى عنه أكثر من عشرة من التابعين، انظر تدوين السنة الشريفة: 138-142.\">3</a></sup></span>.</p>\n  <p id=\"p945\" paragraph-id=\"945\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote13\" footnote-id=\"13\">(1) <page number=\"9\" /> انظر كتاب تدوين السنة الشريفة: 52-76، و أعيان الشيعة 93:1-94.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote14\" footnote-id=\"14\">(2)  انظر أعيان الشيعة 90:1، و رجال النجاشي: 177، و الذريعة 154:20، و بحار الأنوار 3:93.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote15\" footnote-id=\"15\">(3)  انظر أعيان الشيعة 97:1. و قد روى عنه أكثر من عشرة من التابعين، انظر تدوين السنة الشريفة: 138-142.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "60BF78EE-0FFE-483E-8983-6F8157DF74AE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

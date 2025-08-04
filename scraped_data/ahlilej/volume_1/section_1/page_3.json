@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 3,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704128877,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"911\"><page number=\"2\"/><page number=\"3\"/><img src=\"BK14785G001S1P3\" alt=\"\" imgtype=\"Scan\"/><page number=\"4\"/><img src=\"BK14785G001S1P4\" alt=\"\" imgtype=\"Scan\"/><page number=\"5\"/><heading level=\"1\"><format class=\"BeginIntroduction\" type=\"2\"/> مقدمة المحقق</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "3",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p911\" paragraph-id=\"911\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo3\">3</span>\n    <img src=\"/file/book/page/Hw9Eriov-3VbLKUvoBATTDI_24rv-bNDQOJZ0c8oLaHawcX6VJ917QdKWX5DapkD\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "62418A04-CBDC-4BBE-AC6C-B3AE8B765CF9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

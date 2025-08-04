@@ -1,0 +1,115 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 96,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129441,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1410\"><format class=\"hadith\" who=\"6\" Id=\"10\" RevayatIndex=\"10\"><page number=\"96\"/>مِنْ‌)<lfootnote noteId=\"430\">1</lfootnote> تَرْكِ مَا فِي يَدِي إِلاَّ (اَلْإِيضَاحُ و اَلْحُجَّةُ اَلْقَوِيَّةُ بِمَا)<lfootnote noteId=\"431\">2</lfootnote> وَصَفْتَ لِي و فَسَّرْتَ‌<lfootnote noteId=\"432\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 704129442,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1411\"><heading level=\"2\">[زيادة إيضاح في أن الحواس لا تعرف شيئا إلا بالقلب]</heading></p>"
+        },
+        {
+          "paragraphId": 704129443,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1412\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\"><format class=\"sanadHadith\"/> قُلتُ‌: أَمَّا إِذ حَجَبْتَ عَنِ اَلْجَوَابِ‌<lfootnote noteId=\"433\">4</lfootnote> و اِخْتَلَفَ مِنْكَ اَلْمَقَالُ‌، فَسَيَأْتِيكَ‌<lfootnote noteId=\"434\">5</lfootnote> مِنَ اَلدَّلاَلَةِ مِنْ قِبَلِ نَفْسِكَ خَاصَّةً مَا يَسْتَبِينُ لَكَ (فيه إِنْ شَاءَ اَللَّهُ تَعَالَى)<lfootnote noteId=\"435\">6</lfootnote> أَنَّ الحَوَاسَّ لاَ تَعْرِفُ شَيْئاً إِلاَّ بِالْقَلْبِ‌؛ فَهَلْ رَأَيْتَ فِي اَلْمَنَامِ أَنَّكَ تَأْكُلُ و تَشْرَبُ حَتَّى وَصَلَتْ لَذَّةُ ذَلِكَ إِلَى قَلبِكَ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129444,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1413\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قَالَ‌: نَعَمْ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129445,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1414\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قُلْتُ‌: فَهَلْ رَأَيْتَ أَنَّكَ تَضْحَكُ و تَبْكِي و تَجُولُ فِي اَلْبُلْدَانِ اَلَّتِي لَمْ تَرَهَا و اَلَّتِي قَدْ رَأَيْتَهَا حَتَّى تَعْلَمَ مَعَالِمَ مَا رَأَيْتَ مِنْهَا؟</format></p>"
+        },
+        {
+          "paragraphId": 704129446,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1415\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قَالَ‌: نَعَمْ مَا لاَ أُحْصِي.</format></p>"
+        },
+        {
+          "paragraphId": 704129447,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1416\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قُلْتُ‌: هَلْ رَأَيْتَ أَحَداً مِنْ أَقَارِبِكَ مِنْ أَخٍ أَوْ أَبٍ أَوْ ذِي رَحِمٍ قَدْ مَاتَ قَبْلَ ذَلِكَ حَتَّى تَعْلَمَهُ و تَعْرِفَهُ كَمَعْرِفَتِكَ‌<lfootnote noteId=\"436\">7</lfootnote> إِيَّاهُ قَبْلَ أَنْ يَمُوتَ؟</format></p>"
+        },
+        {
+          "paragraphId": 704129448,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1417\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\">قَالَ‌: أَكْثَرَ مِنَ اَلْكَثِيرِ.</format></p>"
+        },
+        {
+          "paragraphId": 704129449,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1418\"><format class=\"hadith\" who=\"6\" Id=\"11\" RevayatIndex=\"11\"><page number=\"97\"/>قُلْتُ‌: فَأَخْبِرْنِي أَيُّ حَوَاسِّكَ أَدْرَكَ‌<lfootnote noteId=\"437\">1</lfootnote> هَذِهِ اَلْأَشْيَاءَ فِي مَنَامِكَ حَتَّى دَلَّتْ‌<lfootnote noteId=\"438\">2</lfootnote>قَلْبَكَ عَلَى مُعَايَنَةِ اَلْمَوْتَى و كَلاَمِهِمْ‌، و أَكْلِ طَعَامِهِمْ‌، و اَلْجَوَلاَنِ فِي اَلْبُلْدَانِ‌، و اَلضَّحِكِ و اَلْبُكَاءِ و غَيْرِ ذَلِكَ؟</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130253,
+          "text": "<footnote id=\"430\"><page number=\"96\"/><mnote>(1)</mnote> في «أ» «ج‍»: لم يمنعني بما جئت به لي.</footnote>"
+        },
+        {
+          "footnoteId": 704130254,
+          "text": "<footnote id=\"431\"><mnote>(2)</mnote> في «أ»: بعد التمديد لما وصفت. و في «ج‍»: بعد التهدية لما وصفت.</footnote>"
+        },
+        {
+          "footnoteId": 704130255,
+          "text": "<footnote id=\"432\"><mnote>(3)</mnote> قوله «و فسرت» ليس في «أ» «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130256,
+          "text": "<footnote id=\"433\"><mnote>(4)</mnote> في «أ» أما إذا احتججت عن الجواب. و في «ب» «ج‍»: أما إذا حجبت عن الجواب. و ادخلت ألف «إذا» في «ب» عن نسخة.</footnote>"
+        },
+        {
+          "footnoteId": 704130257,
+          "text": "<footnote id=\"434\"><mnote>(5)</mnote> في «أ»: فساتيك. و لعلها فسآتيك. و في «ج‍»: فأنا آتيك.</footnote>"
+        },
+        {
+          "footnoteId": 704130258,
+          "text": "<footnote id=\"435\"><mnote>(6)</mnote> ليست في «ب» «د».</footnote>"
+        },
+        {
+          "footnoteId": 704130259,
+          "text": "<footnote id=\"436\"><mnote>(7)</mnote> في «أ»: بمعرفتك.</footnote>"
+        }
+      ],
+      "pageValue": "96",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1410\" paragraph-id=\"1410\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo96\">96</span>مِنْ‌)<span><sup><a class=\"NewFn\" href=\"#footnote430\" title=\"(1)  في «أ» «ج‍»: لم يمنعني بما جئت به لي.\">1</a></sup></span> تَرْكِ مَا فِي يَدِي إِلاَّ (اَلْإِيضَاحُ و اَلْحُجَّةُ اَلْقَوِيَّةُ بِمَا)<span><sup><a class=\"NewFn\" href=\"#footnote431\" title=\"(2)  في «أ»: بعد التمديد لما وصفت. و في «ج‍»: بعد التهدية لما وصفت.\">2</a></sup></span> وَصَفْتَ لِي و فَسَّرْتَ‌<span><sup><a class=\"NewFn\" href=\"#footnote432\" title=\"(3)  قوله «و فسرت» ليس في «أ» «ج‍».\">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p1411\" paragraph-id=\"1411\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">[زيادة إيضاح في أن الحواس لا تعرف شيئا إلا بالقلب]</strong>\n  </p>\n  <p id=\"p1412\" paragraph-id=\"1412\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\"></span> قُلتُ‌: أَمَّا إِذ حَجَبْتَ عَنِ اَلْجَوَابِ‌<span><sup><a class=\"NewFn\" href=\"#footnote433\" title=\"(4)  في «أ» أما إذا احتججت عن الجواب. و في «ب» «ج‍»: أما إذا حجبت عن الجواب. و ادخلت ألف «إذا» في «ب» عن نسخة.\">4</a></sup></span> و اِخْتَلَفَ مِنْكَ اَلْمَقَالُ‌، فَسَيَأْتِيكَ‌<span><sup><a class=\"NewFn\" href=\"#footnote434\" title=\"(5)  في «أ»: فساتيك. و لعلها فسآتيك. و في «ج‍»: فأنا آتيك.\">5</a></sup></span> مِنَ اَلدَّلاَلَةِ مِنْ قِبَلِ نَفْسِكَ خَاصَّةً مَا يَسْتَبِينُ لَكَ (فيه إِنْ شَاءَ اَللَّهُ تَعَالَى)<span><sup><a class=\"NewFn\" href=\"#footnote435\" title=\"(6)  ليست في «ب» «د».\">6</a></sup></span> أَنَّ الحَوَاسَّ لاَ تَعْرِفُ شَيْئاً إِلاَّ بِالْقَلْبِ‌؛ فَهَلْ رَأَيْتَ فِي اَلْمَنَامِ أَنَّكَ تَأْكُلُ و تَشْرَبُ حَتَّى وَصَلَتْ لَذَّةُ ذَلِكَ إِلَى قَلبِكَ؟</span>\n  </p>\n  <p id=\"p1413\" paragraph-id=\"1413\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: نَعَمْ‌.</span>\n  </p>\n  <p id=\"p1414\" paragraph-id=\"1414\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: فَهَلْ رَأَيْتَ أَنَّكَ تَضْحَكُ و تَبْكِي و تَجُولُ فِي اَلْبُلْدَانِ اَلَّتِي لَمْ تَرَهَا و اَلَّتِي قَدْ رَأَيْتَهَا حَتَّى تَعْلَمَ مَعَالِمَ مَا رَأَيْتَ مِنْهَا؟</span>\n  </p>\n  <p id=\"p1415\" paragraph-id=\"1415\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: نَعَمْ مَا لاَ أُحْصِي.</span>\n  </p>\n  <p id=\"p1416\" paragraph-id=\"1416\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: هَلْ رَأَيْتَ أَحَداً مِنْ أَقَارِبِكَ مِنْ أَخٍ أَوْ أَبٍ أَوْ ذِي رَحِمٍ قَدْ مَاتَ قَبْلَ ذَلِكَ حَتَّى تَعْلَمَهُ و تَعْرِفَهُ كَمَعْرِفَتِكَ‌<span><sup><a class=\"NewFn\" href=\"#footnote436\" title=\"(7)  في «أ»: بمعرفتك.\">7</a></sup></span> إِيَّاهُ قَبْلَ أَنْ يَمُوتَ؟</span>\n  </p>\n  <p id=\"p1417\" paragraph-id=\"1417\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: أَكْثَرَ مِنَ اَلْكَثِيرِ.</span>\n  </p>\n  <p id=\"p1418\" paragraph-id=\"1418\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote430\" footnote-id=\"430\">(1) <page number=\"96\" /> في «أ» «ج‍»: لم يمنعني بما جئت به لي.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote431\" footnote-id=\"431\">(2)  في «أ»: بعد التمديد لما وصفت. و في «ج‍»: بعد التهدية لما وصفت.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote432\" footnote-id=\"432\">(3)  قوله «و فسرت» ليس في «أ» «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote433\" footnote-id=\"433\">(4)  في «أ» أما إذا احتججت عن الجواب. و في «ب» «ج‍»: أما إذا حجبت عن الجواب. و ادخلت ألف «إذا» في «ب» عن نسخة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote434\" footnote-id=\"434\">(5)  في «أ»: فساتيك. و لعلها فسآتيك. و في «ج‍»: فأنا آتيك.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote435\" footnote-id=\"435\">(6)  ليست في «ب» «د».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote436\" footnote-id=\"436\">(7)  في «أ»: بمعرفتك.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D2573B33-C178-403E-8BD8-70A054D18131",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

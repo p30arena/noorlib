@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 161,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129308,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1777\"><page number=\"161\"/>[12] قوله عليه السلام: «في قمعها»<lfootnote noteId=\"816\">1</lfootnote>. قال الفيروزآبادي: القمع - محركة - بثرة تخرج في أصول الأشفار<lfootnote noteId=\"817\">2</lfootnote>. و قال: القمع - بالفتح الكسر و كعنب - ما التزق بأسفل التمرة و البسرة و نحوهما<lfootnote noteId=\"818\">3</lfootnote>، انتهى. و على التقديرين استعير لما يبدو من الإهليلجة ابتداء في شجرها من القشرة الرقيقة الصغيرة التي بينها ماء، و الأول أبلغ.</p>"
+        },
+        {
+          "paragraphId": 704129309,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1778\">[13] قوله عليه السلام: «غير مجموع بجسم»<lfootnote noteId=\"819\">4</lfootnote> أي هل كان يزيد بغير أن يضم إليه جسم آخر من خارج، أو قمع آخر مثله، أو بغير قمعه أي قلعه و تفصيله أي تفريقه ليدخل فيه شيء أو يضم إلى شيء.</p>"
+        },
+        {
+          "paragraphId": 704129310,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1779\">[14] قوله عليه السلام: «فإن زاد»<lfootnote noteId=\"820\">5</lfootnote> أي فإن سلم أنه كان يمكن أن يزيد بطبيعته بغير ما ذكر كانت زيادته ماء متراكبا بعضه فوق بعض فقط كما كان أولا لا بتخطيط و تصوير و تدبير و تأليف إذ يحكم العقل بديهة أن مثل تلك الأفاعيل المختلفة المنطبقة على قانون الحكمة لا تصدر عن طبيعة عادمة للشعور و الإرادة.</p>"
+        },
+        {
+          "paragraphId": 704129311,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1780\">[15] قوله عليه السلام: «فهل ينبغي»<lfootnote noteId=\"821\">6</lfootnote> إشارة إلى ما يحكم به الوجدان من أن من كان على هذا المبلغ من العلم و الحكمة و التدبير لا يكون ممكنا محدثا </p>"
+        },
+        {
+          "paragraphId": 704129312,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1781\"><page number=\"162\"/>محتاجا في العلم و سائر الأمور إلى غيره، إلا أن يفيض عليه من العالم بالذات و هو إقرار بالصانع.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130639,
+          "text": "<footnote id=\"816\"><page number=\"161\"/><mnote>(1)</mnote> الصفحة 79، السطر 11.</footnote>"
+        },
+        {
+          "footnoteId": 704130640,
+          "text": "<footnote id=\"817\"><mnote>(2)</mnote> القاموس المحيط 74:3.</footnote>"
+        },
+        {
+          "footnoteId": 704130641,
+          "text": "<footnote id=\"818\"><mnote>(3)</mnote> القاموس المحيط 75:3.</footnote>"
+        },
+        {
+          "footnoteId": 704130642,
+          "text": "<footnote id=\"819\"><mnote>(4)</mnote> الصفحة 80، السطر 5.</footnote>"
+        },
+        {
+          "footnoteId": 704130643,
+          "text": "<footnote id=\"820\"><mnote>(5)</mnote> الصفحة 80، السطر 5.</footnote>"
+        },
+        {
+          "footnoteId": 704130644,
+          "text": "<footnote id=\"821\"><mnote>(6)</mnote> الصفحة 81، السطر 5. </footnote>"
+        }
+      ],
+      "pageValue": "161",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1777\" paragraph-id=\"1777\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo161\">161</span>[12] قوله عليه السلام: «في قمعها»<span><sup><a class=\"NewFn\" href=\"#footnote816\" title=\"(1)  الصفحة 79، السطر 11.\">1</a></sup></span>. قال الفيروزآبادي: القمع - محركة - بثرة تخرج في أصول الأشفار<span><sup><a class=\"NewFn\" href=\"#footnote817\" title=\"(2)  القاموس المحيط 74:3.\">2</a></sup></span>. و قال: القمع - بالفتح الكسر و كعنب - ما التزق بأسفل التمرة و البسرة و نحوهما<span><sup><a class=\"NewFn\" href=\"#footnote818\" title=\"(3)  القاموس المحيط 75:3.\">3</a></sup></span>، انتهى. و على التقديرين استعير لما يبدو من الإهليلجة ابتداء في شجرها من القشرة الرقيقة الصغيرة التي بينها ماء، و الأول أبلغ.</p>\n  <p id=\"p1778\" paragraph-id=\"1778\" class=\" G\">[13] قوله عليه السلام: «غير مجموع بجسم»<span><sup><a class=\"NewFn\" href=\"#footnote819\" title=\"(4)  الصفحة 80، السطر 5.\">4</a></sup></span> أي هل كان يزيد بغير أن يضم إليه جسم آخر من خارج، أو قمع آخر مثله، أو بغير قمعه أي قلعه و تفصيله أي تفريقه ليدخل فيه شيء أو يضم إلى شيء.</p>\n  <p id=\"p1779\" paragraph-id=\"1779\" class=\" G\">[14] قوله عليه السلام: «فإن زاد»<span><sup><a class=\"NewFn\" href=\"#footnote820\" title=\"(5)  الصفحة 80، السطر 5.\">5</a></sup></span> أي فإن سلم أنه كان يمكن أن يزيد بطبيعته بغير ما ذكر كانت زيادته ماء متراكبا بعضه فوق بعض فقط كما كان أولا لا بتخطيط و تصوير و تدبير و تأليف إذ يحكم العقل بديهة أن مثل تلك الأفاعيل المختلفة المنطبقة على قانون الحكمة لا تصدر عن طبيعة عادمة للشعور و الإرادة.</p>\n  <p id=\"p1780\" paragraph-id=\"1780\" class=\" G\">[15] قوله عليه السلام: «فهل ينبغي»<span><sup><a class=\"NewFn\" href=\"#footnote821\" title=\"(6)  الصفحة 81، السطر 5. \">6</a></sup></span> إشارة إلى ما يحكم به الوجدان من أن من كان على هذا المبلغ من العلم و الحكمة و التدبير لا يكون ممكنا محدثا </p>\n  <p id=\"p1781\" paragraph-id=\"1781\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote816\" footnote-id=\"816\">(1) <page number=\"161\" /> الصفحة 79، السطر 11.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote817\" footnote-id=\"817\">(2)  القاموس المحيط 74:3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote818\" footnote-id=\"818\">(3)  القاموس المحيط 75:3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote819\" footnote-id=\"819\">(4)  الصفحة 80، السطر 5.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote820\" footnote-id=\"820\">(5)  الصفحة 80، السطر 5.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote821\" footnote-id=\"821\">(6)  الصفحة 81، السطر 5. </div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0CEB43ED-E96D-4B0D-8CB9-E66273447252",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

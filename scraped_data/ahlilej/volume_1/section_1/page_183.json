@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 183,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129428,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1897\"><format class=\"EndIntroduction\" type=\"8\"/><page number=\"183\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"6\"/>فهرس الأعلام </heading></p>"
+        },
+        {
+          "paragraphId": 704129429,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1898\">رسول الله صلى الله عليه و آله: 148.</p>"
+        },
+        {
+          "paragraphId": 704129430,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1899\">جعفر بن محمد الصادق عليه السلام: 67.</p>"
+        },
+        {
+          "paragraphId": 704129431,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1900\">محرز بن سعيد النحوي: 67.</p>"
+        },
+        {
+          "paragraphId": 704129432,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1901\">محمد بن أبي مسهر: 67.</p>"
+        },
+        {
+          "paragraphId": 704129433,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1902\">المفضل بن عمر الجعفي: 67.</p>"
+        },
+        {
+          "paragraphId": 704129434,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1903\"><format class=\"EndIntroduction\" type=\"6\"/><page number=\"184\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"11\"/>فهرس الأماكن و البلدان </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "183",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1897\" paragraph-id=\"1897\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo183\">183</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span>فهرس الأعلام </strong>\n  </p>\n  <p id=\"p1898\" paragraph-id=\"1898\" class=\" G\">رسول الله صلى الله عليه و آله: 148.</p>\n  <p id=\"p1899\" paragraph-id=\"1899\" class=\" G\">جعفر بن محمد الصادق عليه السلام: 67.</p>\n  <p id=\"p1900\" paragraph-id=\"1900\" class=\" G\">محرز بن سعيد النحوي: 67.</p>\n  <p id=\"p1901\" paragraph-id=\"1901\" class=\" G\">محمد بن أبي مسهر: 67.</p>\n  <p id=\"p1902\" paragraph-id=\"1902\" class=\" G\">المفضل بن عمر الجعفي: 67.</p>\n  <p id=\"p1903\" paragraph-id=\"1903\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "67569DF9-EC22-4073-BA0C-99841C5046B5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

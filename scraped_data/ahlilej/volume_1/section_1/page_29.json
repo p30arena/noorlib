@@ -1,0 +1,95 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 29,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129062,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1096\"><page number=\"29\"/>أصحابه لا يصلون و يشربون النبيذ و هم أصحاب الحمام و يقطعون الطريق، و المفضل يقربهم و يدنيهم<lfootnote noteId=\"130\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129063,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1097\">و روى الكليني بسنده عن يونس بن يعقوب، قال: أمرني أبو عبد الله عليه السلام أن آتي المفضل و أعزيه بإسماعيل، و قال: أقرئ المفضل السلام و قل له: إنا قد أصبنا بإسماعيل فصبرنا، فاصبر كما صبرنا، إنا أردنا أمرا و أراد الله أمرا، فسلمنا لأمر الله<lfootnote noteId=\"131\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129064,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1098\">قال السيد الخوئي رحمه الله: هذه الرواية تدل على شدة علاقة الصادق عليه السلام بالمفضل ابن عمر، و الرواية صحيحة<lfootnote noteId=\"132\">3</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129065,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1099\"><heading level=\"5\">ما روي عن الكاظم عليه السلام في حقه: </heading></p>"
+        },
+        {
+          "paragraphId": 704129066,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1100\">روى الكشي بسنده عن صفوان، قال: بلغ من شفقة المفضل أنه كان يشتري لأبي الحسن عليه السلام الحيتان، فيأخذ رءوسها و يبيعها و يشتري له حيتانا؛ شفقة عليه<lfootnote noteId=\"133\">4</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129067,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1101\">و روى بسنده عن خالد بن نجيح الجوان، قال: قال لي أبو الحسن عليه السلام: ما يقولون في المفضل بن عمر؟ قلت: يقولون فيه هبه يهوديا أو نصرانيا و هو يقوم بأمر صاحبكم، قال: ويلهم ما أخبث ما أنزلوه، ما عندي كذلك، و ما لي فيهم مثله<lfootnote noteId=\"134\">5</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 704129068,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1102\"><page number=\"30\"/>و روى الكشي و الطوسي بسنديهما عن موسى بن بكر، قال: كنت في خدمة أبي الحسن عليه السلام و لم أكن أرى شيئا يصل إليه إلا من ناحية المفضل بن عمر، و لربما رأيت الرجل يجيء بالشيء فلا يقبله منه و يقول: أوصله إلى المفضل<lfootnote noteId=\"135\">1</lfootnote>.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704129953,
+          "text": "<footnote id=\"130\"><page number=\"29\"/><mnote>(1)</mnote> اختيار معرفة الرجال 592/620:2.</footnote>"
+        },
+        {
+          "footnoteId": 704129954,
+          "text": "<footnote id=\"131\"><mnote>(2)</mnote> الكافي 92:2 /ح 16.</footnote>"
+        },
+        {
+          "footnoteId": 704129955,
+          "text": "<footnote id=\"132\"><mnote>(3)</mnote> معجم رجال الحديث 326:19.</footnote>"
+        },
+        {
+          "footnoteId": 704129956,
+          "text": "<footnote id=\"133\"><mnote>(4)</mnote> اختيار معرفة الرجال 596/621:2.</footnote>"
+        },
+        {
+          "footnoteId": 704129957,
+          "text": "<footnote id=\"134\"><mnote>(5)</mnote> اختيار معرفة الرجال 594/620:2.</footnote>"
+        }
+      ],
+      "pageValue": "29",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1096\" paragraph-id=\"1096\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo29\">29</span>أصحابه لا يصلون و يشربون النبيذ و هم أصحاب الحمام و يقطعون الطريق، و المفضل يقربهم و يدنيهم<span><sup><a class=\"NewFn\" href=\"#footnote130\" title=\"(1)  اختيار معرفة الرجال 592/620:2.\">1</a></sup></span>.</p>\n  <p id=\"p1097\" paragraph-id=\"1097\" class=\" G\">و روى الكليني بسنده عن يونس بن يعقوب، قال: أمرني أبو عبد الله عليه السلام أن آتي المفضل و أعزيه بإسماعيل، و قال: أقرئ المفضل السلام و قل له: إنا قد أصبنا بإسماعيل فصبرنا، فاصبر كما صبرنا، إنا أردنا أمرا و أراد الله أمرا، فسلمنا لأمر الله<span><sup><a class=\"NewFn\" href=\"#footnote131\" title=\"(2)  الكافي 92:2 /ح 16.\">2</a></sup></span>.</p>\n  <p id=\"p1098\" paragraph-id=\"1098\" class=\" G\">قال السيد الخوئي رحمه الله: هذه الرواية تدل على شدة علاقة الصادق عليه السلام بالمفضل ابن عمر، و الرواية صحيحة<span><sup><a class=\"NewFn\" href=\"#footnote132\" title=\"(3)  معجم رجال الحديث 326:19.\">3</a></sup></span>.</p>\n  <p id=\"p1099\" paragraph-id=\"1099\" class=\" G\">\n    <strong style=\"0\" class=\"h-5 05\">ما روي عن الكاظم عليه السلام في حقه: </strong>\n  </p>\n  <p id=\"p1100\" paragraph-id=\"1100\" class=\" G\">روى الكشي بسنده عن صفوان، قال: بلغ من شفقة المفضل أنه كان يشتري لأبي الحسن عليه السلام الحيتان، فيأخذ رءوسها و يبيعها و يشتري له حيتانا؛ شفقة عليه<span><sup><a class=\"NewFn\" href=\"#footnote133\" title=\"(4)  اختيار معرفة الرجال 596/621:2.\">4</a></sup></span>.</p>\n  <p id=\"p1101\" paragraph-id=\"1101\" class=\" G\">و روى بسنده عن خالد بن نجيح الجوان، قال: قال لي أبو الحسن عليه السلام: ما يقولون في المفضل بن عمر؟ قلت: يقولون فيه هبه يهوديا أو نصرانيا و هو يقوم بأمر صاحبكم، قال: ويلهم ما أخبث ما أنزلوه، ما عندي كذلك، و ما لي فيهم مثله<span><sup><a class=\"NewFn\" href=\"#footnote134\" title=\"(5)  اختيار معرفة الرجال 594/620:2.\">5</a></sup></span>.</p>\n  <p id=\"p1102\" paragraph-id=\"1102\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote130\" footnote-id=\"130\">(1) <page number=\"29\" /> اختيار معرفة الرجال 592/620:2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote131\" footnote-id=\"131\">(2)  الكافي 92:2 /ح 16.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote132\" footnote-id=\"132\">(3)  معجم رجال الحديث 326:19.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote133\" footnote-id=\"133\">(4)  اختيار معرفة الرجال 596/621:2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote134\" footnote-id=\"134\">(5)  اختيار معرفة الرجال 594/620:2.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "617EF2A3-2FC3-450E-ADC1-8DF50FE61BE9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

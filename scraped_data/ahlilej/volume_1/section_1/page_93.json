@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 93,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129286,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1402\"><format class=\"hadith\" who=\"6\" Id=\"10\" RevayatIndex=\"10\"><page number=\"93\"/>اَلْأَرْضُ اَلْمَيْتَةُ‌، (فَتُصْبِحُ مُخْضَرَّةً بَعْدَ أَنْ كَانَتْ مُغْبَرَّةً‌، و مُعْشِبَةً بَعْدَ أَنْ كَانَتْ مُجْدِبَةً‌، قَدْ كُسِيَتْ أَلْوَاناً مِنْ نَبَاتٍ عُشْبٍ‌، نَاضِرَةٍ زَاهِرَةٍ مُزَيَّنَةٍ‌، مَعَاشاً لِلنَّاسِ‌)<lfootnote noteId=\"409\">1</lfootnote> و اَلْأَنْعَامِ‌، فَإِذَا أَفْرَغَ اَلْغَمَامُ‌<lfootnote noteId=\"410\">2</lfootnote> مَاءَهُ أَقْلَعَ و تَفَرَّقَ و ذَهَبَ حَيْثُ لاَ يُعَايَنُ و لاَ يُدْرَى أَيْنَ تَوَارَى - فَأَدَّتِ اَلْعَيْنُ ذَلِكَ إِلَى اَلْقَلْبِ‌، فَعَرَفَ اَلْقَلْبُ أَنَّ ذَلِكَ اَلسَّحَابَ لَوْ كَانَ بِغَيْرِ مُدَبِّرٍ، و كَانَ مَا<lfootnote noteId=\"411\">3</lfootnote> وَصَفْتُ مِنْ تِلْقَاءِ نَفْسِهِ‌، مَا اِحْتَمَلَ نِصْفَ ذَلِكَ مِنَ اَلثِّقْلِ مِنَ اَلْمَاءِ‌، و<lfootnote noteId=\"412\">4</lfootnote> إِنْ كَانَ هُوَ اَلَّذِي يُرْسِلُهُ (لِمَا اِحْتَمَلَهُ‌)<lfootnote noteId=\"413\">5</lfootnote> أَلْفَيْ فَرْسَخٍ أَوْ أَكْثَرَ، و لَأَرْسَلَهُ فِيمَا هُوَ أَقْرَبُ مِنْ ذَلِكَ‌، و لَمَا أَرْسَلَهُ قَطْرَةً بَعْدَ<lfootnote noteId=\"414\">6</lfootnote> قَطْرَةٍ‌، بَلْ كَانَ يُرْسِلُهُ إِرْسَالاً فَكَانَ يَهْدِمُ اَلْبُنْيَانَ و يُفْسِدُ اَلنَّبَاتَ‌، و لَمَا جَازَ إِلَى بَلَدٍ و تَرَكَ آخَرَ دُونَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 704129287,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1403\"><format class=\"hadith\" who=\"6\" Id=\"10\" RevayatIndex=\"10\">فَعَرَفَ القَلبُ بِالأَعْلاَمِ اَلْمُنِيرَةِ اَلْوَاضِحَةِ أَنَّ مُدَبِّرَ اَلْأُمُورِ وَاحِدٌ، و أَنَّهُ لَوْ كَانَ اِثْنَيْنِ أَوْ ثَلاَثَةً لَكَانَ فِي طُولِ هَذِهِ اَلْأَزْمِنَةِ و اَلْأَبَدِ و اَلدَّهْرِ اِخْتِلاَفٌ فِي اَلتَّدْبِيرِ و تَنَاقُضٌ فِي اَلْأُمُورِ، و لَتَأَخَّرَ بَعْضٌ و تَقَدَّمَ بَعْضٌ‌، و لَكَانَ سَفَّلَ‌<lfootnote noteId=\"415\">7</lfootnote> بَعْضُ مَا قَدْ عَلاَ، و لَعَلاَ بَعْضُ مَا قَدْ<lfootnote noteId=\"416\">8</lfootnote> سَفَلَ‌، و لَطَلَعَ شَيْ‌ءٌ و غَابَ فَتَأَخَّرَ عَنْ وَقْتِهِ أَوْ تَقَدَّمَ‌<lfootnote noteId=\"417\">9</lfootnote> مَا قَبْلَهُ‌، </format></p>"
+        },
+        {
+          "paragraphId": 704129288,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1404\"><format class=\"hadith\" who=\"6\" Id=\"10\" RevayatIndex=\"10\"><page number=\"94\"/>فَعَرَفَ اَلْقَلْبُ بِذَلِكَ‌<lfootnote noteId=\"418\">1</lfootnote> أَنَّ مُدَبِّرَ اَلْأَشْيَاءِ - مَا غَابَ مِنْهَا و مَا ظَهَرَ - هُوَ اَللَّهُ اَلْأَوَّلُ‌، خَالِقُ اَلسَّمَاءِ و مُمْسِكُهَا، و فَارِشُ اَلْأَرْضِ و دَاحِيهَا، و صَانِعُ مَا بَيْنَ ذَلِكَ مِمَّا عَدَدْنَا و غَيْرِ ذَلِكَ مِمَّا لَمْ يُحْصَ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 704130232,
+          "text": "<footnote id=\"409\"><page number=\"93\"/><mnote>(1)</mnote> في «أ» «ج‍»: و يخرج منها أقواتا و يلبسها كسوة مونقة من ألوان العشب و معاش الناس.</footnote>"
+        },
+        {
+          "footnoteId": 704130233,
+          "text": "<footnote id=\"410\"><mnote>(2)</mnote> في «أ»: الأعلام.</footnote>"
+        },
+        {
+          "footnoteId": 704130234,
+          "text": "<footnote id=\"411\"><mnote>(3)</mnote> ساقطة من «ج‍».</footnote>"
+        },
+        {
+          "footnoteId": 704130235,
+          "text": "<footnote id=\"412\"><mnote>(4)</mnote> الواو ليست في «أ» «ج‍» «د».</footnote>"
+        },
+        {
+          "footnoteId": 704130236,
+          "text": "<footnote id=\"413\"><mnote>(5)</mnote> في «أ»: كما أحكمه. و في «د»: و لا أحكمه.</footnote>"
+        },
+        {
+          "footnoteId": 704130237,
+          "text": "<footnote id=\"414\"><mnote>(6)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130238,
+          "text": "<footnote id=\"415\"><mnote>(7)</mnote> في «أ»: يسفل. و في «ب» «د»: تسفل.</footnote>"
+        },
+        {
+          "footnoteId": 704130239,
+          "text": "<footnote id=\"416\"><mnote>(8)</mnote> ليست في «أ».</footnote>"
+        },
+        {
+          "footnoteId": 704130240,
+          "text": "<footnote id=\"417\"><mnote>(9)</mnote> في «ج‍»: فيتأخر عن وقته أو يتقدم. و في «أ»: إذ يتقدم.</footnote>"
+        }
+      ],
+      "pageValue": "93",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1402\" paragraph-id=\"1402\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo93\">93</span>اَلْأَرْضُ اَلْمَيْتَةُ‌، (فَتُصْبِحُ مُخْضَرَّةً بَعْدَ أَنْ كَانَتْ مُغْبَرَّةً‌، و مُعْشِبَةً بَعْدَ أَنْ كَانَتْ مُجْدِبَةً‌، قَدْ كُسِيَتْ أَلْوَاناً مِنْ نَبَاتٍ عُشْبٍ‌، نَاضِرَةٍ زَاهِرَةٍ مُزَيَّنَةٍ‌، مَعَاشاً لِلنَّاسِ‌)<span><sup><a class=\"NewFn\" href=\"#footnote409\" title=\"(1)  في «أ» «ج‍»: و يخرج منها أقواتا و يلبسها كسوة مونقة من ألوان العشب و معاش الناس.\">1</a></sup></span> و اَلْأَنْعَامِ‌، فَإِذَا أَفْرَغَ اَلْغَمَامُ‌<span><sup><a class=\"NewFn\" href=\"#footnote410\" title=\"(2)  في «أ»: الأعلام.\">2</a></sup></span> مَاءَهُ أَقْلَعَ و تَفَرَّقَ و ذَهَبَ حَيْثُ لاَ يُعَايَنُ و لاَ يُدْرَى أَيْنَ تَوَارَى - فَأَدَّتِ اَلْعَيْنُ ذَلِكَ إِلَى اَلْقَلْبِ‌، فَعَرَفَ اَلْقَلْبُ أَنَّ ذَلِكَ اَلسَّحَابَ لَوْ كَانَ بِغَيْرِ مُدَبِّرٍ، و كَانَ مَا<span><sup><a class=\"NewFn\" href=\"#footnote411\" title=\"(3)  ساقطة من «ج‍».\">3</a></sup></span> وَصَفْتُ مِنْ تِلْقَاءِ نَفْسِهِ‌، مَا اِحْتَمَلَ نِصْفَ ذَلِكَ مِنَ اَلثِّقْلِ مِنَ اَلْمَاءِ‌، و<span><sup><a class=\"NewFn\" href=\"#footnote412\" title=\"(4)  الواو ليست في «أ» «ج‍» «د».\">4</a></sup></span> إِنْ كَانَ هُوَ اَلَّذِي يُرْسِلُهُ (لِمَا اِحْتَمَلَهُ‌)<span><sup><a class=\"NewFn\" href=\"#footnote413\" title=\"(5)  في «أ»: كما أحكمه. و في «د»: و لا أحكمه.\">5</a></sup></span> أَلْفَيْ فَرْسَخٍ أَوْ أَكْثَرَ، و لَأَرْسَلَهُ فِيمَا هُوَ أَقْرَبُ مِنْ ذَلِكَ‌، و لَمَا أَرْسَلَهُ قَطْرَةً بَعْدَ<span><sup><a class=\"NewFn\" href=\"#footnote414\" title=\"(6)  ليست في «أ».\">6</a></sup></span> قَطْرَةٍ‌، بَلْ كَانَ يُرْسِلُهُ إِرْسَالاً فَكَانَ يَهْدِمُ اَلْبُنْيَانَ و يُفْسِدُ اَلنَّبَاتَ‌، و لَمَا جَازَ إِلَى بَلَدٍ و تَرَكَ آخَرَ دُونَهُ‌.</span>\n  </p>\n  <p id=\"p1403\" paragraph-id=\"1403\" class=\" G\">\n    <span class=\"hadith\">فَعَرَفَ القَلبُ بِالأَعْلاَمِ اَلْمُنِيرَةِ اَلْوَاضِحَةِ أَنَّ مُدَبِّرَ اَلْأُمُورِ وَاحِدٌ، و أَنَّهُ لَوْ كَانَ اِثْنَيْنِ أَوْ ثَلاَثَةً لَكَانَ فِي طُولِ هَذِهِ اَلْأَزْمِنَةِ و اَلْأَبَدِ و اَلدَّهْرِ اِخْتِلاَفٌ فِي اَلتَّدْبِيرِ و تَنَاقُضٌ فِي اَلْأُمُورِ، و لَتَأَخَّرَ بَعْضٌ و تَقَدَّمَ بَعْضٌ‌، و لَكَانَ سَفَّلَ‌<span><sup><a class=\"NewFn\" href=\"#footnote415\" title=\"(7)  في «أ»: يسفل. و في «ب» «د»: تسفل.\">7</a></sup></span> بَعْضُ مَا قَدْ عَلاَ، و لَعَلاَ بَعْضُ مَا قَدْ<span><sup><a class=\"NewFn\" href=\"#footnote416\" title=\"(8)  ليست في «أ».\">8</a></sup></span> سَفَلَ‌، و لَطَلَعَ شَيْ‌ءٌ و غَابَ فَتَأَخَّرَ عَنْ وَقْتِهِ أَوْ تَقَدَّمَ‌<span><sup><a class=\"NewFn\" href=\"#footnote417\" title=\"(9)  في «ج‍»: فيتأخر عن وقته أو يتقدم. و في «أ»: إذ يتقدم.\">9</a></sup></span> مَا قَبْلَهُ‌، </span>\n  </p>\n  <p id=\"p1404\" paragraph-id=\"1404\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote409\" footnote-id=\"409\">(1) <page number=\"93\" /> في «أ» «ج‍»: و يخرج منها أقواتا و يلبسها كسوة مونقة من ألوان العشب و معاش الناس.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote410\" footnote-id=\"410\">(2)  في «أ»: الأعلام.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote411\" footnote-id=\"411\">(3)  ساقطة من «ج‍».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote412\" footnote-id=\"412\">(4)  الواو ليست في «أ» «ج‍» «د».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote413\" footnote-id=\"413\">(5)  في «أ»: كما أحكمه. و في «د»: و لا أحكمه.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote414\" footnote-id=\"414\">(6)  ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote415\" footnote-id=\"415\">(7)  في «أ»: يسفل. و في «ب» «د»: تسفل.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote416\" footnote-id=\"416\">(8)  ليست في «أ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote417\" footnote-id=\"417\">(9)  في «ج‍»: فيتأخر عن وقته أو يتقدم. و في «أ»: إذ يتقدم.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5A4FFD5E-A3DF-47BF-8369-51F68D058873",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 60,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 704129215,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1249\"><img src=\"BK14785G001S1P58\" alt=\"\" imgtype=\"Scan\"/><page number=\"59\"/><img src=\"BK14785G001S1P59\" alt=\"\" imgtype=\"Scan\"/><page number=\"60\"/><img src=\"BK14785G001S1P60\" alt=\"\" imgtype=\"Scan\"/><page number=\"61\"/><img src=\"BK14785G001S1P61\" alt=\"\" imgtype=\"Scan\"/><page number=\"62\"/><img src=\"BK14785G001S1P62\" alt=\"\" imgtype=\"Scan\"/><page number=\"63\"/><img src=\"BK14785G001S1P63\" alt=\"\" imgtype=\"Scan\"/><page number=\"64\"/><img src=\"BK14785G001S1P64\" alt=\"\" imgtype=\"Scan\"/><page number=\"65\"/><heading level=\"1\"><format class=\"H\">[نص كتاب]</format> الاهليلجة</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "60",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1249\" paragraph-id=\"1249\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo60\">60</span>\n    <img src=\"/file/book/page/1iWYMsOoIaSMRZmiaRfdFHctsoevqhlYLWkt2MeY7fs1682EDiFVdIRIrUIAQQjK\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "1F2A2A07-DFF7-4516-AADB-A6168B7355E0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}
