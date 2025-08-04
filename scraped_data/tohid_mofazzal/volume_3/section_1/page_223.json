@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 223,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645287,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"853\"><format class=\"sharh\">و بهذا يبقى اكثر الحبوب لصاحبها الفلاح الذي كدح في الحرث و السقي </format><page number=\"223\"/><format class=\"M\">و شقى به و كان الذي يحتاج اليه اكثر مما يحتاج اليه الطير</format>.</p>"
+        },
+        {
+          "paragraphId": 631645288,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"854\"><format class=\"sharh\">و المحافظة و ساير الاتعاب طول السنة ليلا و نهارا منذ حرث الارض حتى حصادها عند بلوغها النضج المطلوب.</format></p>"
+        },
+        {
+          "paragraphId": 631645289,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"855\"><format class=\"sharh\">و معلوم ان ما يحتاجه الانسان الكادح اكثر بكثير مما يحتاج اليه الطير فهو اذن احق بهذا القدر الباقي له و لبذوره في الارض للمستقبل.</format></p>"
+        },
+        {
+          "paragraphId": 631645290,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"856\"><page number=\"224\"/><heading level=\"3\">الصناعة مأخوذة من الخلقة</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "223",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p853\" paragraph-id=\"853\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo223\">223</span>\n    <span class=\"M\">و شقى به و كان الذي يحتاج اليه اكثر مما يحتاج اليه الطير</span>.</p>\n  <p id=\"p854\" paragraph-id=\"854\" class=\" G\">\n    <span class=\"sharh\">و المحافظة و ساير الاتعاب طول السنة ليلا و نهارا منذ حرث الارض حتى حصادها عند بلوغها النضج المطلوب.</span>\n  </p>\n  <p id=\"p855\" paragraph-id=\"855\" class=\" G\">\n    <span class=\"sharh\">و معلوم ان ما يحتاجه الانسان الكادح اكثر بكثير مما يحتاج اليه الطير فهو اذن احق بهذا القدر الباقي له و لبذوره في الارض للمستقبل.</span>\n  </p>\n  <p id=\"p856\" paragraph-id=\"856\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "632B8579-A1B1-47DB-A25E-C38928E715F0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

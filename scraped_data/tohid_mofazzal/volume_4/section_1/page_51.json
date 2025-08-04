@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 51,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385933,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"246\"><page number=\"51\"/><format class=\"M\">العدل و الحكمة معا و موضع للطعن على التدبير بخلاف الصواب في وضع الامور في غير مواضعها.</format></p>"
+        },
+        {
+          "paragraphId": 508385934,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"247\"><format class=\"sharh\">ثم لو فرض ان يكون الامر كما يريد المعترض فمن يا ترى يأمن على نفسه او ماله او اهله ممن لم يخف العقاب و لا الحساب في حين انه تابع في اعماله و افعاله مع الهوى و الميول النفسية البشرية الخبيثة.</format></p>"
+        },
+        {
+          "paragraphId": 508385935,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"248\"><format class=\"sharh\">هذا لعمرى هو الفوضى و الهمجية و هذه الحال هى الوحشية المقلقة للناس و المكدرة للعيش، فهل تبقى للحياة لذة او راحة.</format></p>"
+        },
+        {
+          "paragraphId": 508385936,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"249\"><format class=\"sharh\">اللهم ان كل ذلك خلاف للحكمة مناف للعدل من الخالق العدل الحكيم سبحانه، كما إنه سيكون موضع طعن المعترض و نقده مرة اخرى.</format></p>"
+        },
+        {
+          "paragraphId": 508385937,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"250\"><format class=\"sharh\">قائل اللّه الجهل و العناد.</format></p>"
+        },
+        {
+          "paragraphId": 508385938,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"251\"><page number=\"52\"/><heading level=\"3\">لماذا تعم الآفات البر و الفاجر؟</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "51",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p246\" paragraph-id=\"246\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo51\">51</span>\n    <span class=\"M\">العدل و الحكمة معا و موضع للطعن على التدبير بخلاف الصواب في وضع الامور في غير مواضعها.</span>\n  </p>\n  <p id=\"p247\" paragraph-id=\"247\" class=\" G\">\n    <span class=\"sharh\">ثم لو فرض ان يكون الامر كما يريد المعترض فمن يا ترى يأمن على نفسه او ماله او اهله ممن لم يخف العقاب و لا الحساب في حين انه تابع في اعماله و افعاله مع الهوى و الميول النفسية البشرية الخبيثة.</span>\n  </p>\n  <p id=\"p248\" paragraph-id=\"248\" class=\" G\">\n    <span class=\"sharh\">هذا لعمرى هو الفوضى و الهمجية و هذه الحال هى الوحشية المقلقة للناس و المكدرة للعيش، فهل تبقى للحياة لذة او راحة.</span>\n  </p>\n  <p id=\"p249\" paragraph-id=\"249\" class=\" G\">\n    <span class=\"sharh\">اللهم ان كل ذلك خلاف للحكمة مناف للعدل من الخالق العدل الحكيم سبحانه، كما إنه سيكون موضع طعن المعترض و نقده مرة اخرى.</span>\n  </p>\n  <p id=\"p250\" paragraph-id=\"250\" class=\" G\">\n    <span class=\"sharh\">قائل اللّه الجهل و العناد.</span>\n  </p>\n  <p id=\"p251\" paragraph-id=\"251\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "857A413D-F469-4A37-BF7F-1FD8E40BAF30",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

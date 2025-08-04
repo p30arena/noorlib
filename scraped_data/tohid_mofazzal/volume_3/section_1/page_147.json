@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 147,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645067,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"534\"><page number=\"147\"/><heading level=\"3\">الارض راكنة غير رجراجة</heading></p>"
+        },
+        {
+          "paragraphId": 631645068,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"535\"><format class=\"M\">قال عليه السلام: ثم فكر فى خلق هذه الارض على ما هى عليه حين خلقت راقبه راكنة فتكون موطنا مستقرا للاشياء. فيتمكن الناس من السعى عليها في مآربهم و الجلوس عليها</format></p>"
+        },
+        {
+          "paragraphId": 631645069,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"536\"><format class=\"sharh\">مما لا ريب فيه ان الارض خلقت متحركة لا ساكنة بل لها حركتان وضعية حول نفسها و انتقالية حول الشمس كما سبق بيانه مفصلا و لكن لما كانت حركتها غير محسوسة لدى الناس و لا مقلقة لساكنى الارض حيث جعلها خالقها كالمهد لذي يصنع للرضيع ليهتز به بنعومة فينام هادئا مستريحا اذ قال تعالى <format class=\"ayah\" surah=\"20\" ayah=\"53\" toAyah=\"\">(اَلَّذِي جَعَلَ لَكُمُ اَلْأَرْضَ مَهْداً)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"53\" toAyah=\"\"/></format> فكما ان الطفل يربى و ينعم بمهده كذلك الارض يربى من عليها و ينعم يهدو حركتها و نعومة سيرها مع السرعة اللتين جعلتاها ذلولا <format class=\"ayah\" surah=\"67\" ayah=\"15\" toAyah=\"\">(هُوَ اَلَّذِي جَعَلَ لَكُمُ اَلْأَرْضَ ذَلُولاً)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"6\"/><format class=\"ayahAddress\" surah=\"67\" ayah=\"15\" toAyah=\"\"/></format> و الذلول صنف من الابل ناعم الحركة سريع السير سهل الركوب بحيث تكاد ان لا تحس بمشيه و سيره.</format></p>"
+        },
+        {
+          "paragraphId": 631645070,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"537\"><format class=\"sharh\">اقول: و لما كانت الارض هكذا متحركة سريعة السير و كانت حركتها غير محسوسة لساكنيها فقد.</format></p>"
+        },
+        {
+          "paragraphId": 631645071,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"538\"><format class=\"sharh\">قال عليه السلام: فكر فى خلق هذه الارض على ما هي عليه حين خلقت راتبة اي ثابتة و راكنة اي ساكنة غير متحركة فى نظر الناس و لدى شعورهم </format><page number=\"148\"/><format class=\"M\">لراحتهم و النوم لهدؤهم و الاتقان لاعمالهم. فانها لو كانت رجراجة </format><format class=\"sharh\">و ادراكهم اياها. ثم ذكر الحكمة فى هذا الوضع و هى لتكون موطنا ثابتا و مستقرا غير مقلق للاشياء لتعم الراحة جميع من عليها و ما عليها من مدن و منازل و نبات و جماد، و بذلك يستطيع الانسان السعى فى اعماله و يتمكن من الوصول الى مآربه و انجاز مطاليبه بكل راحة و هدو كما يتمكن من الجلوس عليها و المشى و النوم على سطحها و ليتقن اعماله عند ما يستقر و يطمئن.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "147",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p534\" paragraph-id=\"534\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo147\">147</span>\n    <strong style=\"0\" class=\"h-3 03\">الارض راكنة غير رجراجة</strong>\n  </p>\n  <p id=\"p535\" paragraph-id=\"535\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: ثم فكر فى خلق هذه الارض على ما هى عليه حين خلقت راقبه راكنة فتكون موطنا مستقرا للاشياء. فيتمكن الناس من السعى عليها في مآربهم و الجلوس عليها</span>\n  </p>\n  <p id=\"p536\" paragraph-id=\"536\" class=\" G\">\n    <span class=\"sharh\">مما لا ريب فيه ان الارض خلقت متحركة لا ساكنة بل لها حركتان وضعية حول نفسها و انتقالية حول الشمس كما سبق بيانه مفصلا و لكن لما كانت حركتها غير محسوسة لدى الناس و لا مقلقة لساكنى الارض حيث جعلها خالقها كالمهد لذي يصنع للرضيع ليهتز به بنعومة فينام هادئا مستريحا اذ قال تعالى <span style=\"0\" class=\"ayah\" surah=\"20\" ayah=\"53\">(اَلَّذِي جَعَلَ لَكُمُ اَلْأَرْضَ مَهْداً)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/20/53\"></a></span></span> فكما ان الطفل يربى و ينعم بمهده كذلك الارض يربى من عليها و ينعم يهدو حركتها و نعومة سيرها مع السرعة اللتين جعلتاها ذلولا <span style=\"0\" class=\"ayah\" surah=\"67\" ayah=\"15\">(هُوَ اَلَّذِي جَعَلَ لَكُمُ اَلْأَرْضَ ذَلُولاً)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/67/15\"></a></span></span> و الذلول صنف من الابل ناعم الحركة سريع السير سهل الركوب بحيث تكاد ان لا تحس بمشيه و سيره.</span>\n  </p>\n  <p id=\"p537\" paragraph-id=\"537\" class=\" G\">\n    <span class=\"sharh\">اقول: و لما كانت الارض هكذا متحركة سريعة السير و كانت حركتها غير محسوسة لساكنيها فقد.</span>\n  </p>\n  <p id=\"p538\" paragraph-id=\"538\" class=\" G\">\n    <span class=\"sharh\">قال عليه السلام: فكر فى خلق هذه الارض على ما هي عليه حين خلقت راتبة اي ثابتة و راكنة اي ساكنة غير متحركة فى نظر الناس و لدى شعورهم </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "DFEE8210-12A6-461E-AF73-B52A5C5A3AEC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

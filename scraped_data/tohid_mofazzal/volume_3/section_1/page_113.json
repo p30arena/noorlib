@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 113,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644929,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"412\"><format class=\"sharh\">و لكن اللّه تعالى من لطفه و عنايته بعباده لم يحرمنا من نورها بل جعلها ترسل الى الارض يسيرا من الضوء ليلا لتسد مسد ما نفقده من ضوء الشمس نهارا و من نور القمر ليلا اذا لم يطلع فى بعض الليالى و السر فى ذلك اللطف هو انه ربما تحدث للناس احيانا بعض الاعمال الضرورية في جوف الليل او مفاجأة حادث يوجب الخروج في تلك الظلمة الدامسة فاذا لم يكن شىء من الضوء و لو كان قليلا لتهتدى به نحو حاجتها و ترى طريقها لم تستطع ان تبرح مكانها لتذهب الى </format><page number=\"113\"/><format class=\"M\">الضوء للمآرب التى وصفنا.</format></p>"
+        },
+        {
+          "paragraphId": 631644930,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"413\"><format class=\"sharh\">قضاء حاجتها.</format></p>"
+        },
+        {
+          "paragraphId": 631644931,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"414\"><format class=\"sharh\">و لأجل هذا و امثاله اقتضت الحكمة الالهية من اللطيف الخبير ان يجعل لهم فى تلك الظلمة التى كان يجب ان تسيطر دولتها على العالم للمصالح و المنافع التى ذكرناها آنفا نورا قليلا لا هو يصدع بالظلام المقصود و لا هو يحرم الناس من الانتفاع به لاداء واجباتهم الضرورية التى تحدث فى الليل و التى تحتاج الى شيء من النور عند فقد نور القمر فى ليالى تأخره او محاقه.</format></p>"
+        },
+        {
+          "paragraphId": 631644932,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"415\"><format class=\"sharh\">فسبحان الحكيم اللطيف.</format></p>"
+        },
+        {
+          "paragraphId": 631644933,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"416\"><page number=\"114\"/><heading level=\"3\">دوران الفلك</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "113",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p412\" paragraph-id=\"412\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo113\">113</span>\n    <span class=\"M\">الضوء للمآرب التى وصفنا.</span>\n  </p>\n  <p id=\"p413\" paragraph-id=\"413\" class=\" G\">\n    <span class=\"sharh\">قضاء حاجتها.</span>\n  </p>\n  <p id=\"p414\" paragraph-id=\"414\" class=\" G\">\n    <span class=\"sharh\">و لأجل هذا و امثاله اقتضت الحكمة الالهية من اللطيف الخبير ان يجعل لهم فى تلك الظلمة التى كان يجب ان تسيطر دولتها على العالم للمصالح و المنافع التى ذكرناها آنفا نورا قليلا لا هو يصدع بالظلام المقصود و لا هو يحرم الناس من الانتفاع به لاداء واجباتهم الضرورية التى تحدث فى الليل و التى تحتاج الى شيء من النور عند فقد نور القمر فى ليالى تأخره او محاقه.</span>\n  </p>\n  <p id=\"p415\" paragraph-id=\"415\" class=\" G\">\n    <span class=\"sharh\">فسبحان الحكيم اللطيف.</span>\n  </p>\n  <p id=\"p416\" paragraph-id=\"416\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "89067FC5-773E-4421-B03C-AA265E63BE13",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

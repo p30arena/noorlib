@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 58,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644806,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"212\"><page number=\"58\"/><format class=\"M\">يكن الناس يسعون فى معايشهم و ينصرفون في امورهم</format></p>"
+        },
+        {
+          "paragraphId": 631644807,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"213\"><format class=\"sharh\">اولا - لان اشعتها المرسلة عند طلوعها الى الارض لتنظم ما تفرق من شتاتها أي شتات عناصر الارض و تودع فيها الطاقة و القوة و هما عين الحياة.</format></p>"
+        },
+        {
+          "paragraphId": 631644808,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"214\"><format class=\"sharh\">ثانيا - ان من جملة ما تودع فيه القوة و الطاقة في الارض هو النبات و من هذا النبات يأكل الحيوان و يعيش الانسان و ينمو جسمهما بما يستمدانه منها من قوة و طاقة.</format></p>"
+        },
+        {
+          "paragraphId": 631644809,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"215\"><format class=\"sharh\">ثالثا - ان جميع هذه البقول و الحبوب بل و كل ما يخضر على وجه الارض لا ينمو و لا ينضج و لا يصلح ان يكون غذاء ما لم تشع عليه اشعة الشمس الحارة،</format></p>"
+        },
+        {
+          "paragraphId": 631644810,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"216\"><format class=\"sharh\">رابعا - ان من المسلم المعلوم ان الماء هو الحياة لكل حي <format class=\"ayah\" surah=\"21\" ayah=\"30\" toAyah=\"\">(وَ جَعَلْنٰا مِنَ اَلْمٰاءِ كُلَّ شَيْ‌ءٍ حَيٍّ‌)<format class=\"ayahWord\" fromWord=\"14\" toWord=\"20\"/><format class=\"ayahAddress\" surah=\"21\" ayah=\"30\" toAyah=\"\"/></format> و هذه مياه البحار كلها مالحة و لكن الشمس الحارة قد تكفلت بتبخيره و تصعيده بعد تنقيته من الملح و ساير المواد المضرة لينزل مطرا ماء عذبا سائغا يسقى الارض للزرع و تملى الانهار العذبة للشرب و الطبخ و ساير الحاجيات اللازمة.</format></p>"
+        },
+        {
+          "paragraphId": 631644811,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"217\"><format class=\"sharh\">خامسا - ان الشمس هي التي تدفيء الاجسام و تحفظها من اضرار البرد و الثلوج الممرضة.</format></p>"
+        },
+        {
+          "paragraphId": 631644812,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"218\"><format class=\"sharh\">سادسا - ان الاخشاب و الاحطاب و كل ما اودع فيه الطاقة الوقودية التي يحرقها الانسان فى طبخه و نضج غذائه و التي لولاها لما اكل و عاش و لا دفىء فى الشتاء فانها كلها من اشعة الشمس التى تودع كل ذلك باشعاعها في هذه المواد.</format></p>"
+        },
+        {
+          "paragraphId": 631644813,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"219\"><format class=\"sharh\">سابعا - انه لو لا اشعة الشمس لما حصلت فى الارض حركة و لا تحريك لان الحركة من الحيوان و الانسان تحتاج الى طاقة من مأكول ينهضها و حرارة تزيل </format><page number=\"59\"/><format class=\"M\">و الدنيا مظلمة عليهم، و لم يكونوا يتهنون بالعيش مع فقد لذة النور و روحه و الارب فى طلوعها ظاهر مستغن بظهوره عن الاطناب فى </format><format class=\"sharh\">عنها كسل البرد و الدعة، و هذا يحصل من اكل النبات و الحيوان و كلاهما من الشمس باشعاعها.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "58",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p212\" paragraph-id=\"212\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo58\">58</span>\n    <span class=\"M\">يكن الناس يسعون فى معايشهم و ينصرفون في امورهم</span>\n  </p>\n  <p id=\"p213\" paragraph-id=\"213\" class=\" G\">\n    <span class=\"sharh\">اولا - لان اشعتها المرسلة عند طلوعها الى الارض لتنظم ما تفرق من شتاتها أي شتات عناصر الارض و تودع فيها الطاقة و القوة و هما عين الحياة.</span>\n  </p>\n  <p id=\"p214\" paragraph-id=\"214\" class=\" G\">\n    <span class=\"sharh\">ثانيا - ان من جملة ما تودع فيه القوة و الطاقة في الارض هو النبات و من هذا النبات يأكل الحيوان و يعيش الانسان و ينمو جسمهما بما يستمدانه منها من قوة و طاقة.</span>\n  </p>\n  <p id=\"p215\" paragraph-id=\"215\" class=\" G\">\n    <span class=\"sharh\">ثالثا - ان جميع هذه البقول و الحبوب بل و كل ما يخضر على وجه الارض لا ينمو و لا ينضج و لا يصلح ان يكون غذاء ما لم تشع عليه اشعة الشمس الحارة،</span>\n  </p>\n  <p id=\"p216\" paragraph-id=\"216\" class=\" G\">\n    <span class=\"sharh\">رابعا - ان من المسلم المعلوم ان الماء هو الحياة لكل حي <span style=\"0\" class=\"ayah\" surah=\"21\" ayah=\"30\">(وَ جَعَلْنٰا مِنَ اَلْمٰاءِ كُلَّ شَيْ‌ءٍ حَيٍّ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/21/30\"></a></span></span> و هذه مياه البحار كلها مالحة و لكن الشمس الحارة قد تكفلت بتبخيره و تصعيده بعد تنقيته من الملح و ساير المواد المضرة لينزل مطرا ماء عذبا سائغا يسقى الارض للزرع و تملى الانهار العذبة للشرب و الطبخ و ساير الحاجيات اللازمة.</span>\n  </p>\n  <p id=\"p217\" paragraph-id=\"217\" class=\" G\">\n    <span class=\"sharh\">خامسا - ان الشمس هي التي تدفيء الاجسام و تحفظها من اضرار البرد و الثلوج الممرضة.</span>\n  </p>\n  <p id=\"p218\" paragraph-id=\"218\" class=\" G\">\n    <span class=\"sharh\">سادسا - ان الاخشاب و الاحطاب و كل ما اودع فيه الطاقة الوقودية التي يحرقها الانسان فى طبخه و نضج غذائه و التي لولاها لما اكل و عاش و لا دفىء فى الشتاء فانها كلها من اشعة الشمس التى تودع كل ذلك باشعاعها في هذه المواد.</span>\n  </p>\n  <p id=\"p219\" paragraph-id=\"219\" class=\" G\">\n    <span class=\"sharh\">سابعا - انه لو لا اشعة الشمس لما حصلت فى الارض حركة و لا تحريك لان الحركة من الحيوان و الانسان تحتاج الى طاقة من مأكول ينهضها و حرارة تزيل </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "88E558B2-5880-4165-BE06-1DF1B0991D9E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

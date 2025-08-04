@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 146,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645064,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"531\"><format class=\"sharh\">و هنا لا مجل المعترض ان يقول: ما هي منفعة هذه القفار الموحشة و الفلوات الخاوية و ما الحكمة في وجودها، إذ لو فكر متأملا لعرف انها مأوى للوحوش الضارية و الحيوانات الوحشية و لو لا هذه القفار و الفلوات لهجمت على الحواضر </format><page number=\"146\"/><format class=\"sharh\">و المدن و اقلقت الناس و نغصت العيش و لكنها هناك لا تقرب الناس و لا يقربونها فالناس في مأمن منها و هى فى مكامنها يأتيها رزقها من حيث تدرى و لا تدرى و علاوة على ذلك ان هذه البراري و الصحاري قد تكون محل تنفس و استراحة لبعض الناس عند ما يضطرون الى استبدال اوطانهم أحيانا، فكثيرا ما نجد بعض الفدافد و البوادي بعد مدة قد اصبحت مدنا عامرة ذات قصور عالية و جنان زاهية و انهار جارية كانها لم تكن من ذي قبل صحراء قفراء موحشة.</format></p>"
+        },
+        {
+          "paragraphId": 631645065,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"532\"><format class=\"sharh\">و هذا هو من بعض اسرار سعة الارض و امتدادها.</format></p>"
+        },
+        {
+          "paragraphId": 631645066,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"533\"><format class=\"sharh\">فسبحان العالم القادر.</format></p>"
+        },
+        {
+          "paragraphId": 631645067,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"534\"><page number=\"147\"/><heading level=\"3\">الارض راكنة غير رجراجة</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "146",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p531\" paragraph-id=\"531\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo146\">146</span>\n    <span class=\"sharh\">و المدن و اقلقت الناس و نغصت العيش و لكنها هناك لا تقرب الناس و لا يقربونها فالناس في مأمن منها و هى فى مكامنها يأتيها رزقها من حيث تدرى و لا تدرى و علاوة على ذلك ان هذه البراري و الصحاري قد تكون محل تنفس و استراحة لبعض الناس عند ما يضطرون الى استبدال اوطانهم أحيانا، فكثيرا ما نجد بعض الفدافد و البوادي بعد مدة قد اصبحت مدنا عامرة ذات قصور عالية و جنان زاهية و انهار جارية كانها لم تكن من ذي قبل صحراء قفراء موحشة.</span>\n  </p>\n  <p id=\"p532\" paragraph-id=\"532\" class=\" G\">\n    <span class=\"sharh\">و هذا هو من بعض اسرار سعة الارض و امتدادها.</span>\n  </p>\n  <p id=\"p533\" paragraph-id=\"533\" class=\" G\">\n    <span class=\"sharh\">فسبحان العالم القادر.</span>\n  </p>\n  <p id=\"p534\" paragraph-id=\"534\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "7E518256-A9D9-411F-B752-FD278EB533C1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

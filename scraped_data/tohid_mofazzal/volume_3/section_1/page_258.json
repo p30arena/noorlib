@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 258,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645438,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1004\"><format class=\"sharh\">و منها ان له في الطب منافع كثيرة فان رماده يجلو الاسنان و يلحم الجراح </format><page number=\"258\"/><format class=\"M\">في صغير الخلق و كبيره و بما له قيمة و ما لا قيمة له.</format></p>"
+        },
+        {
+          "paragraphId": 631645439,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1005\"><format class=\"sharh\">و يقطع نزف الدم اين ما كان الى غيرها من المنافع التي تظهر لدى الحاحة</format></p>"
+        },
+        {
+          "paragraphId": 631645440,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1006\"><format class=\"sharh\">فتأمل فى هذه المنافع الكثيرة و ضروب المآرب المختلفة كيف حصلت من نبات حقير لا قيمة له.</format></p>"
+        },
+        {
+          "paragraphId": 631645441,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1007\"><format class=\"sharh\">و فكر فيه معتبرا بما اودع الصانع فى مخلوقاته و ان حقرت فى نظر الانسان من المصالح دون فرق بين كبيرها و صغيرها و بغير تفاوت بين ما لا قيمة له و ما له قيمة فان الحكمة الالهية لا توجد شيئا بلا فائدة و بلا قصد مصلحة فسبحانه.</format></p>"
+        },
+        {
+          "paragraphId": 631645442,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1008\"><page number=\"259\"/><heading level=\"3\">الزبل و العذرة</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "258",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1004\" paragraph-id=\"1004\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo258\">258</span>\n    <span class=\"M\">في صغير الخلق و كبيره و بما له قيمة و ما لا قيمة له.</span>\n  </p>\n  <p id=\"p1005\" paragraph-id=\"1005\" class=\" G\">\n    <span class=\"sharh\">و يقطع نزف الدم اين ما كان الى غيرها من المنافع التي تظهر لدى الحاحة</span>\n  </p>\n  <p id=\"p1006\" paragraph-id=\"1006\" class=\" G\">\n    <span class=\"sharh\">فتأمل فى هذه المنافع الكثيرة و ضروب المآرب المختلفة كيف حصلت من نبات حقير لا قيمة له.</span>\n  </p>\n  <p id=\"p1007\" paragraph-id=\"1007\" class=\" G\">\n    <span class=\"sharh\">و فكر فيه معتبرا بما اودع الصانع فى مخلوقاته و ان حقرت فى نظر الانسان من المصالح دون فرق بين كبيرها و صغيرها و بغير تفاوت بين ما لا قيمة له و ما له قيمة فان الحكمة الالهية لا توجد شيئا بلا فائدة و بلا قصد مصلحة فسبحانه.</span>\n  </p>\n  <p id=\"p1008\" paragraph-id=\"1008\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "3EE462B4-C34E-4CEE-AF29-80416FA775F5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

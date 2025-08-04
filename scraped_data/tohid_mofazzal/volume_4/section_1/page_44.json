@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 44,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385904,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"217\"><format class=\"sharh\">كما انهم لم يمتنعوا من اكل الاطعمة و الاشربة التي تضرهم لانهم يرغبون اليها، و لا يحبون الادب بل يريدون ان يتفرغوا للهو و البطالة و اللعب دون ان </format><page number=\"44\"/><format class=\"M\">المنفعة و ان شاب ذلك بعض الكراهة.</format></p>"
+        },
+        {
+          "paragraphId": 508385905,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"218\"><format class=\"sharh\">يشعروا بمغبة العاقبة و ما يخلفه لهم سوء الادب و التربية و اعوجاج السليقة و النشو الفاسد و العادات المضرة.</format></p>"
+        },
+        {
+          "paragraphId": 508385906,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"219\"><format class=\"sharh\">او ما يعقب اكل الاطعمة و الاشربة الضارة من الاسقام و الامراض، حتى يصبحوا و هم محرومون من كل ما يصلحهم و يصلح لهم فى حياتهم.</format></p>"
+        },
+        {
+          "paragraphId": 508385907,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"220\"><format class=\"sharh\">و ما ذلك الا لجهلهم بصالحهم و اذعانهم لغير الواقع، و بديهى انهم بذلك قد ظلموا انفسهم اختيارا دون اتباع فكر او عقل او روية.</format></p>"
+        },
+        {
+          "paragraphId": 508385908,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"221\"><format class=\"sharh\"><format class=\"ayah\" surah=\"16\" ayah=\"118\" toAyah=\"\">(وَ مٰا ظَلَمْنٰاهُمْ وَ لٰكِنْ كٰانُوا أَنْفُسَهُمْ يَظْلِمُونَ‌)<format class=\"ayahWord\" fromWord=\"11\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"118\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 508385909,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"222\"><page number=\"45\"/><heading level=\"3\">ليس الإنسان بمعصوم</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "44",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p217\" paragraph-id=\"217\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo44\">44</span>\n    <span class=\"M\">المنفعة و ان شاب ذلك بعض الكراهة.</span>\n  </p>\n  <p id=\"p218\" paragraph-id=\"218\" class=\" G\">\n    <span class=\"sharh\">يشعروا بمغبة العاقبة و ما يخلفه لهم سوء الادب و التربية و اعوجاج السليقة و النشو الفاسد و العادات المضرة.</span>\n  </p>\n  <p id=\"p219\" paragraph-id=\"219\" class=\" G\">\n    <span class=\"sharh\">او ما يعقب اكل الاطعمة و الاشربة الضارة من الاسقام و الامراض، حتى يصبحوا و هم محرومون من كل ما يصلحهم و يصلح لهم فى حياتهم.</span>\n  </p>\n  <p id=\"p220\" paragraph-id=\"220\" class=\" G\">\n    <span class=\"sharh\">و ما ذلك الا لجهلهم بصالحهم و اذعانهم لغير الواقع، و بديهى انهم بذلك قد ظلموا انفسهم اختيارا دون اتباع فكر او عقل او روية.</span>\n  </p>\n  <p id=\"p221\" paragraph-id=\"221\" class=\" G\">\n    <span class=\"sharh\">\n      <span style=\"0\" class=\"ayah\" surah=\"16\" ayah=\"118\">(وَ مٰا ظَلَمْنٰاهُمْ وَ لٰكِنْ كٰانُوا أَنْفُسَهُمْ يَظْلِمُونَ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/16/118\"></a></span></span>.</span>\n  </p>\n  <p id=\"p222\" paragraph-id=\"222\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "D4FE574D-0A5F-4297-9D98-E338C3ECBAED",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

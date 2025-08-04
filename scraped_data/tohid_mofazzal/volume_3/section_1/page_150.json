@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 150,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645078,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"545\"><format class=\"sharh\">اما الاعاصير و العواصف فانها تحدث من دوران الهواء حول الاماكن </format><page number=\"150\"/><format class=\"M\">اشبه ذلك بل كانوا لا يهنأون بالعيش و الارض ترتج من تحتهم.</format></p>"
+        },
+        {
+          "paragraphId": 631645079,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"546\"><format class=\"sharh\">المنخفضة من الارض حيث تصادف تلك التيارات الهوائية ضغطا من هاتيك المنخفضات عند اتجاهاتها مثل دوامات البحار عند ما يحصل لها ما يسمى (برصات) و اشباهها.</format></p>"
+        },
+        {
+          "paragraphId": 631645080,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"547\"><format class=\"sharh\">و بالجملة فان هذه السرعة المعينة فى دوران الارض و فى المدة المعينة و هي (24) ساعة مع تكافؤ هاتين القوتين (الجاذبة و الطاردة) لمن لوازم حفظ الحياة العامة و الخاصة على سطح الارض، و ان هذا الاتقان فى النظام و هذه الحكمة المقصودة ليست الا لتكون الناس و المدن و المنازل و كل مخلوق على وجه البسيطة فى مأمن و اطمينان حيث لم تكن الارض تحتهم رجراجة مع حركتها السريعة المنتظمة المتقنة و لا واقفة ثابتة لتحصل بعض الاضرار التى ذكرناها.</format></p>"
+        },
+        {
+          "paragraphId": 631645081,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"548\"><format class=\"sharh\">و اخيرا تأمل ايها العاقل المنصف اذا عرفت ما ذكرناه و تعقلته فهل تجد ان مثل هذا بل و اقل من هذا يحصل بالمصادفة و الاهمال.</format></p>"
+        },
+        {
+          "paragraphId": 631645082,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"549\"><page number=\"151\"/><heading level=\"3\">الزلازل و العبرة بها</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "150",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p545\" paragraph-id=\"545\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo150\">150</span>\n    <span class=\"M\">اشبه ذلك بل كانوا لا يهنأون بالعيش و الارض ترتج من تحتهم.</span>\n  </p>\n  <p id=\"p546\" paragraph-id=\"546\" class=\" G\">\n    <span class=\"sharh\">المنخفضة من الارض حيث تصادف تلك التيارات الهوائية ضغطا من هاتيك المنخفضات عند اتجاهاتها مثل دوامات البحار عند ما يحصل لها ما يسمى (برصات) و اشباهها.</span>\n  </p>\n  <p id=\"p547\" paragraph-id=\"547\" class=\" G\">\n    <span class=\"sharh\">و بالجملة فان هذه السرعة المعينة فى دوران الارض و فى المدة المعينة و هي (24) ساعة مع تكافؤ هاتين القوتين (الجاذبة و الطاردة) لمن لوازم حفظ الحياة العامة و الخاصة على سطح الارض، و ان هذا الاتقان فى النظام و هذه الحكمة المقصودة ليست الا لتكون الناس و المدن و المنازل و كل مخلوق على وجه البسيطة فى مأمن و اطمينان حيث لم تكن الارض تحتهم رجراجة مع حركتها السريعة المنتظمة المتقنة و لا واقفة ثابتة لتحصل بعض الاضرار التى ذكرناها.</span>\n  </p>\n  <p id=\"p548\" paragraph-id=\"548\" class=\" G\">\n    <span class=\"sharh\">و اخيرا تأمل ايها العاقل المنصف اذا عرفت ما ذكرناه و تعقلته فهل تجد ان مثل هذا بل و اقل من هذا يحصل بالمصادفة و الاهمال.</span>\n  </p>\n  <p id=\"p549\" paragraph-id=\"549\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "B94EB975-D91F-44CF-9C8C-017FF0E3C7FD",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 136,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644668,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"484\"><format class=\"sharh\">جعل الهواء قرطاسا لحفظ الاثر و لكنه قرطاس خفي خفيف يحمل تلك </format><page number=\"136\"/><format class=\"M\">نقيا و يحمل ما حمل ابدا و بلا انقطاع.</format></p>"
+        },
+        {
+          "paragraphId": 631644669,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"485\"><format class=\"sharh\">الاثار الكثيرة مدة الحاجة لها.</format></p>"
+        },
+        {
+          "paragraphId": 631644670,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"486\"><format class=\"sharh\">و ريثما تبلغ الناس مآربها منها تمحى من الهواء تماما بحركاته و تنقلاته فيعود بعد قضاء الحاجة جديدا نقيا مستعدا قابلا لان يحمل سواها مما يحمل من الاثار و التموجات الى الابد و بلا انقطاع.</format></p>"
+        },
+        {
+          "paragraphId": 631644671,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"487\"><format class=\"sharh\">فسبحان الحكيم العظيم</format></p>"
+        },
+        {
+          "paragraphId": 631644672,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"488\"><page number=\"137\"/><heading level=\"3\">فوائد الهواء الأخرى</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "136",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p484\" paragraph-id=\"484\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo136\">136</span>\n    <span class=\"M\">نقيا و يحمل ما حمل ابدا و بلا انقطاع.</span>\n  </p>\n  <p id=\"p485\" paragraph-id=\"485\" class=\" G\">\n    <span class=\"sharh\">الاثار الكثيرة مدة الحاجة لها.</span>\n  </p>\n  <p id=\"p486\" paragraph-id=\"486\" class=\" G\">\n    <span class=\"sharh\">و ريثما تبلغ الناس مآربها منها تمحى من الهواء تماما بحركاته و تنقلاته فيعود بعد قضاء الحاجة جديدا نقيا مستعدا قابلا لان يحمل سواها مما يحمل من الاثار و التموجات الى الابد و بلا انقطاع.</span>\n  </p>\n  <p id=\"p487\" paragraph-id=\"487\" class=\" G\">\n    <span class=\"sharh\">فسبحان الحكيم العظيم</span>\n  </p>\n  <p id=\"p488\" paragraph-id=\"488\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "87216937-F645-4809-A5B7-C001D7EEF71D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

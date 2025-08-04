@@ -1,0 +1,86 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 141,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645041,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"508\"><format class=\"sharh\">الثالثة عشرة - انها تجفف الاشياء الندية بتبخيرها الاجزاء المائية التى </format><page number=\"141\"/><format class=\"M\">الماء. و تشب النار و تجفف الاشياء الندية و بالجملة انها تحي كلما في </format><format class=\"sharh\">تكون في خللها و فرجها بحرارتها و هبوبها.</format></p>"
+        },
+        {
+          "paragraphId": 631645042,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"509\"><format class=\"sharh\">الرابعة عشرة - انها تدور الدواليب فى الطاحونات و المضخات الهوائية بتحريك عجلاتها التى توضع بحيث يمكن للريح ان تمر عليها و تدفعها و تدورها فتبقى متحركة ما دام الهواء يتحرك.</format></p>"
+        },
+        {
+          "paragraphId": 631645043,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"510\"><format class=\"sharh\">الخامسة عشرة - انها تساعد الطائرات و المناطيد على تحليقها في الجو و الهبوط منها بواسطة المظلات.</format></p>"
+        },
+        {
+          "paragraphId": 631645044,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"511\"><format class=\"sharh\">السادسة عشرة - حملها للطيور و تمكينها من الطيران فى الفضاء بكل حرية و سهولة.</format></p>"
+        },
+        {
+          "paragraphId": 631645045,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"512\"><format class=\"sharh\">السابعة عشرة - تمكين الاسماك في البحار و الانهار من الهبوط و الارتفاع في الماء بمساعدة زعانفها التى تنفتح و تغلق بجذب الهواء و دفعه من رآتها متى ما ارادت الارتفاع و الهبوط.</format></p>"
+        },
+        {
+          "paragraphId": 631645046,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"513\"><format class=\"sharh\">الثامنة عشرة - استعمال الهواء المضغوط فى نفخ اطارات السيارات و العجلات و الدراجات و تسهيل حركات وسائل النقل مطلقا بواسطتها.</format></p>"
+        },
+        {
+          "paragraphId": 631645047,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"514\"><format class=\"sharh\">التاسعة عشرة - انها تساعد على توليد القوة الكهربائية و الكثير من الاعمال الميكانيكية الى غيرها من الفوائد و المصالح التى لا يمكننا حصرها او عدّها.</format></p>"
+        },
+        {
+          "paragraphId": 631645048,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"515\"><format class=\"sharh\">و بالجملة فان الريح عظيم فى نفعه مهم فى وجوده حيث لولاه لذوى النبات و لمات الحيوان و لحمت الاشياء كلها و لفسدت دون شك.</format></p>"
+        },
+        {
+          "paragraphId": 631645049,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"516\"><page number=\"142\"/><format class=\"M\">الارض. فلو لا الريح لذوى النبات و لمات الحيوان و حمت الاشياء و فسدت.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "141",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p508\" paragraph-id=\"508\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo141\">141</span>\n    <span class=\"M\">الماء. و تشب النار و تجفف الاشياء الندية و بالجملة انها تحي كلما في </span>\n    <span class=\"sharh\">تكون في خللها و فرجها بحرارتها و هبوبها.</span>\n  </p>\n  <p id=\"p509\" paragraph-id=\"509\" class=\" G\">\n    <span class=\"sharh\">الرابعة عشرة - انها تدور الدواليب فى الطاحونات و المضخات الهوائية بتحريك عجلاتها التى توضع بحيث يمكن للريح ان تمر عليها و تدفعها و تدورها فتبقى متحركة ما دام الهواء يتحرك.</span>\n  </p>\n  <p id=\"p510\" paragraph-id=\"510\" class=\" G\">\n    <span class=\"sharh\">الخامسة عشرة - انها تساعد الطائرات و المناطيد على تحليقها في الجو و الهبوط منها بواسطة المظلات.</span>\n  </p>\n  <p id=\"p511\" paragraph-id=\"511\" class=\" G\">\n    <span class=\"sharh\">السادسة عشرة - حملها للطيور و تمكينها من الطيران فى الفضاء بكل حرية و سهولة.</span>\n  </p>\n  <p id=\"p512\" paragraph-id=\"512\" class=\" G\">\n    <span class=\"sharh\">السابعة عشرة - تمكين الاسماك في البحار و الانهار من الهبوط و الارتفاع في الماء بمساعدة زعانفها التى تنفتح و تغلق بجذب الهواء و دفعه من رآتها متى ما ارادت الارتفاع و الهبوط.</span>\n  </p>\n  <p id=\"p513\" paragraph-id=\"513\" class=\" G\">\n    <span class=\"sharh\">الثامنة عشرة - استعمال الهواء المضغوط فى نفخ اطارات السيارات و العجلات و الدراجات و تسهيل حركات وسائل النقل مطلقا بواسطتها.</span>\n  </p>\n  <p id=\"p514\" paragraph-id=\"514\" class=\" G\">\n    <span class=\"sharh\">التاسعة عشرة - انها تساعد على توليد القوة الكهربائية و الكثير من الاعمال الميكانيكية الى غيرها من الفوائد و المصالح التى لا يمكننا حصرها او عدّها.</span>\n  </p>\n  <p id=\"p515\" paragraph-id=\"515\" class=\" G\">\n    <span class=\"sharh\">و بالجملة فان الريح عظيم فى نفعه مهم فى وجوده حيث لولاه لذوى النبات و لمات الحيوان و لحمت الاشياء كلها و لفسدت دون شك.</span>\n  </p>\n  <p id=\"p516\" paragraph-id=\"516\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "261DB4A8-089F-4B34-86D0-0ACB2124FF75",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

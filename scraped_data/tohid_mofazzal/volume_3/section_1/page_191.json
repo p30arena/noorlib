@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 191,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644955,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"708\"><page number=\"191\"/><heading level=\"3\">الجبال و الحكمة في خلقها</heading></p>"
+        },
+        {
+          "paragraphId": 631644956,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"709\"><format class=\"M\">قال عليه السلام: انظر يا مفضل الى هذه الجبال المركومة من الطين و الحجارة التى يحبها الغافلون فضلا لا حاجة اليها و المنافع فيها كثيرة، فمن ذلك ان تسقط عليها الثلوج فتبقى فى قلالها لمن يحتاج اليه و يذوب ما ذاب منه فتجرى منه العيون الغزيرة التى تجتمع منها الانهار المظام</format></p>"
+        },
+        {
+          "paragraphId": 631644957,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"710\"><format class=\"sharh\">ان البر او القسم اليابس من الارض الذي يعيش عليه الحيوان و الانسان و ينبت فوقه النبات عبارة عن قشرة جامدة واقفة على مايع مذاب من مواد معدنية ملتهبة كما بيناه آنفا.</format></p>"
+        },
+        {
+          "paragraphId": 631644958,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"711\"><format class=\"sharh\">و هذا المايع لم يزل فى اضطراب و غليان فى جوف الارض لحرارته الهائلة و لو لا هذه الجبال التي اثقلتها و اشتبكت اصولها و هى من الاحجار الصلبة لكانت الزلازل دائمة الخسف و الشق و هلاك آلاف من النفوس فى كل يوم متواترا. و لكن الحكمة الالهية اقتضت تصلب القشرة الارضية بالاحجار كى لا تميد باهلها.</format></p>"
+        },
+        {
+          "paragraphId": 631644959,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"712\"><format class=\"sharh\">قال تعالى: <format class=\"ayah\" surah=\"78\" ayah=\"6\" toAyah=\"7\">(أَ لَمْ نَجْعَلِ اَلْأَرْضَ مِهٰاداً <format class=\"AyahSeprator\"/>وَ اَلْجِبٰالَ أَوْتٰاداً)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"8\"/><format class=\"ayahAddress\" surah=\"78\" ayah=\"6\" toAyah=\"7\"/></format> و قال تعالى: <format class=\"ayah\" surah=\"16\" ayah=\"15\" toAyah=\"\">(وَ أَلْقىٰ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"15\" toAyah=\"\"/></format></format><page number=\"192\"/><format class=\"M\">و ينبت فيها ضروب من النبات و العقاقير التى لا ينبت مثلها فى السهل و يكون فيها كهوف و معاقل للوحوش من السباع العادية. و يتخذ منها الحصون و القلاع المنيعة للتحرز من الاعداء و ينحت منها الحجارة للبناء و الارحاء و يوجد فيها معادن لضروب من الجواهر و فيها خلال اخر لا يعرفها الا المقدر لها فى سابق علمه.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "191",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p708\" paragraph-id=\"708\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo191\">191</span>\n    <strong style=\"0\" class=\"h-3 03\">الجبال و الحكمة في خلقها</strong>\n  </p>\n  <p id=\"p709\" paragraph-id=\"709\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: انظر يا مفضل الى هذه الجبال المركومة من الطين و الحجارة التى يحبها الغافلون فضلا لا حاجة اليها و المنافع فيها كثيرة، فمن ذلك ان تسقط عليها الثلوج فتبقى فى قلالها لمن يحتاج اليه و يذوب ما ذاب منه فتجرى منه العيون الغزيرة التى تجتمع منها الانهار المظام</span>\n  </p>\n  <p id=\"p710\" paragraph-id=\"710\" class=\" G\">\n    <span class=\"sharh\">ان البر او القسم اليابس من الارض الذي يعيش عليه الحيوان و الانسان و ينبت فوقه النبات عبارة عن قشرة جامدة واقفة على مايع مذاب من مواد معدنية ملتهبة كما بيناه آنفا.</span>\n  </p>\n  <p id=\"p711\" paragraph-id=\"711\" class=\" G\">\n    <span class=\"sharh\">و هذا المايع لم يزل فى اضطراب و غليان فى جوف الارض لحرارته الهائلة و لو لا هذه الجبال التي اثقلتها و اشتبكت اصولها و هى من الاحجار الصلبة لكانت الزلازل دائمة الخسف و الشق و هلاك آلاف من النفوس فى كل يوم متواترا. و لكن الحكمة الالهية اقتضت تصلب القشرة الارضية بالاحجار كى لا تميد باهلها.</span>\n  </p>\n  <p id=\"p712\" paragraph-id=\"712\" class=\" G\">\n    <span class=\"sharh\">قال تعالى: <span style=\"0\" class=\"ayah\" surah=\"78\" ayah=\"6\">(أَ لَمْ نَجْعَلِ اَلْأَرْضَ مِهٰاداً <span class=\"AyahSeprator\"></span>وَ اَلْجِبٰالَ أَوْتٰاداً)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/78/6\"></a></span></span> و قال تعالى: <span style=\"0\" class=\"ayah\" surah=\"16\" ayah=\"15\">(وَ أَلْقىٰ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/16/15\"></a></span></span></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "AF77CB4C-E9B5-4117-A256-D3CFD4785A66",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

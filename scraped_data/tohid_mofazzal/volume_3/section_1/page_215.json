@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 215,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645251,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"817\"><page number=\"215\"/><heading level=\"3\">ريع الزرع</heading></p>"
+        },
+        {
+          "paragraphId": 631645252,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"818\"><format class=\"M\">قال عليه السلام فكر يا مفضل في هذا الريع الذى جعل فى الزرع فصارت الحبة الواحدة تخلف مائة حبة و اكثر و اقل و كان يجوز للحبة ان تأتى بمثلها، فلم صارت تريع هذا الريع الا ليكون فى الغلة متسع </format><format class=\"sharh\">الريع هو الاخصاب و كثرة النتاج، اما فى النبات فان اخصابها و ريعها هو ان تخلف الحبة الواحدة المزروعة في الارض فى سنبلها (100) حبة او اكثر او اقل حسب التربة و السقى و الطوارى قلة و كثرة.</format></p>"
+        },
+        {
+          "paragraphId": 631645253,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"819\"><format class=\"sharh\">و هناك البركة التى يجعلها اللّه تعالى في الحبة لمن ينفقون اموالهم في سبيل اللّه كما قال تعالى <format class=\"ayah\" surah=\"2\" ayah=\"261\" toAyah=\"\">(مَثَلُ اَلَّذِينَ يُنْفِقُونَ أَمْوٰالَهُمْ فِي سَبِيلِ اَللّٰهِ كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنٰابِلَ فِي كُلِّ سُنْبُلَةٍ مِائَةُ حَبَّةٍ وَ اَللّٰهُ يُضٰاعِفُ لِمَنْ يَشٰاءُ وَ اَللّٰهُ وٰاسِعٌ عَلِيمٌ‌).<format class=\"ayahWord\" fromWord=\"1\" toWord=\"26\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"261\" toAyah=\"\"/></format></format></p>"
+        },
+        {
+          "paragraphId": 631645254,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"820\"><format class=\"sharh\">و لمعرفة ذلك نذكر لك الحنطة التى هى اظهر انواع الغلات و اكثرها انتشارا و اعمها نفعا ثم نقيس عليها غيرها من الغلات فنقول.</format></p>"
+        },
+        {
+          "paragraphId": 631645255,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"821\"><format class=\"sharh\">الحنطة يتألف نباتها من جذور ليفية و ساق و اوراق و عند ما تصل دور البلوغ تكون ازهارها مؤلفة من ثلاثة اسدية و مدقة واحدة مع اجزاء اخرى ملحقة بها.</format></p>"
+        },
+        {
+          "paragraphId": 631645256,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"822\"><page number=\"216\"/><format class=\"M\">لما يرد في الارض من البذور و ما يتقوت الزراع الى ادراك زرعها المستقبل، الا ترى الملك لو اراد عمارة بلد من البلدان كان السبيل في ذلك ان يعطى اهله ما يبذرونه فى ارضهم و ما يقوتهم الى</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "215",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p817\" paragraph-id=\"817\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo215\">215</span>\n    <strong style=\"0\" class=\"h-3 03\">ريع الزرع</strong>\n  </p>\n  <p id=\"p818\" paragraph-id=\"818\" class=\" G\">\n    <span class=\"M\">قال عليه السلام فكر يا مفضل في هذا الريع الذى جعل فى الزرع فصارت الحبة الواحدة تخلف مائة حبة و اكثر و اقل و كان يجوز للحبة ان تأتى بمثلها، فلم صارت تريع هذا الريع الا ليكون فى الغلة متسع </span>\n    <span class=\"sharh\">الريع هو الاخصاب و كثرة النتاج، اما فى النبات فان اخصابها و ريعها هو ان تخلف الحبة الواحدة المزروعة في الارض فى سنبلها (100) حبة او اكثر او اقل حسب التربة و السقى و الطوارى قلة و كثرة.</span>\n  </p>\n  <p id=\"p819\" paragraph-id=\"819\" class=\" G\">\n    <span class=\"sharh\">و هناك البركة التى يجعلها اللّه تعالى في الحبة لمن ينفقون اموالهم في سبيل اللّه كما قال تعالى <span style=\"0\" class=\"ayah\" surah=\"2\" ayah=\"261\">(مَثَلُ اَلَّذِينَ يُنْفِقُونَ أَمْوٰالَهُمْ فِي سَبِيلِ اَللّٰهِ كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنٰابِلَ فِي كُلِّ سُنْبُلَةٍ مِائَةُ حَبَّةٍ وَ اَللّٰهُ يُضٰاعِفُ لِمَنْ يَشٰاءُ وَ اَللّٰهُ وٰاسِعٌ عَلِيمٌ‌).<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/2/261\"></a></span></span></span>\n  </p>\n  <p id=\"p820\" paragraph-id=\"820\" class=\" G\">\n    <span class=\"sharh\">و لمعرفة ذلك نذكر لك الحنطة التى هى اظهر انواع الغلات و اكثرها انتشارا و اعمها نفعا ثم نقيس عليها غيرها من الغلات فنقول.</span>\n  </p>\n  <p id=\"p821\" paragraph-id=\"821\" class=\" G\">\n    <span class=\"sharh\">الحنطة يتألف نباتها من جذور ليفية و ساق و اوراق و عند ما تصل دور البلوغ تكون ازهارها مؤلفة من ثلاثة اسدية و مدقة واحدة مع اجزاء اخرى ملحقة بها.</span>\n  </p>\n  <p id=\"p822\" paragraph-id=\"822\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "7D4EE586-2DD0-4FFD-841E-34F5237D79DA",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

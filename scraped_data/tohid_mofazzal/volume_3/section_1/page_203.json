@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 203,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645015,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"768\"><page number=\"203\"/><format class=\"M\">يدخرهما احد للاعقاب.</format></p>"
+        },
+        {
+          "paragraphId": 631645016,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"769\"><format class=\"sharh\">و اذا كثرت و هى المدار لاستقامة الاعمال و المعاملات و التجارات سقط اعتبارهما لدى الناس و لم تبق لهما قيمة فبطل الانتفاع بهما فى البيع و الشراء بل و كل المعاملات.</format></p>"
+        },
+        {
+          "paragraphId": 631645017,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"770\"><format class=\"sharh\">ثم كان السلطان لا ينتفع من جبابة الاموال الى الخزانة اذ لا قيمة لها فلا يستقيم له بذلك جنداو موظفون، كما لا يتصور احد ان يدخرها لعقبة نظرا لرخصها و كثرتها و عدم تقديرها.</format></p>"
+        },
+        {
+          "paragraphId": 631645018,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"771\"><format class=\"sharh\">فانظر الى هذا التدبير الحكيم و تأمل هذا النظام البديع ثم اعتبر و اذا خاطبك الجاهلون فقل سلاما.</format></p>"
+        },
+        {
+          "paragraphId": 631645019,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"772\"><page number=\"204\"/><heading level=\"3\">نفاسة الأشياء من عزتها</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "203",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p768\" paragraph-id=\"768\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo203\">203</span>\n    <span class=\"M\">يدخرهما احد للاعقاب.</span>\n  </p>\n  <p id=\"p769\" paragraph-id=\"769\" class=\" G\">\n    <span class=\"sharh\">و اذا كثرت و هى المدار لاستقامة الاعمال و المعاملات و التجارات سقط اعتبارهما لدى الناس و لم تبق لهما قيمة فبطل الانتفاع بهما فى البيع و الشراء بل و كل المعاملات.</span>\n  </p>\n  <p id=\"p770\" paragraph-id=\"770\" class=\" G\">\n    <span class=\"sharh\">ثم كان السلطان لا ينتفع من جبابة الاموال الى الخزانة اذ لا قيمة لها فلا يستقيم له بذلك جنداو موظفون، كما لا يتصور احد ان يدخرها لعقبة نظرا لرخصها و كثرتها و عدم تقديرها.</span>\n  </p>\n  <p id=\"p771\" paragraph-id=\"771\" class=\" G\">\n    <span class=\"sharh\">فانظر الى هذا التدبير الحكيم و تأمل هذا النظام البديع ثم اعتبر و اذا خاطبك الجاهلون فقل سلاما.</span>\n  </p>\n  <p id=\"p772\" paragraph-id=\"772\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "4074D828-2875-453E-8A4F-5AAD54150CD1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

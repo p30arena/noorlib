@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 35,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385863,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"176\"><page number=\"35\"/><heading level=\"3\">ذريعة الجهال الى جحودهم</heading></p>"
+        },
+        {
+          "paragraphId": 508385864,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"177\"><format class=\"M\">قال عليه السلام: اتخذ اناس من الجهال هذه الآفات الحادثة في بعض الازمان كمثل الوباء و اليرقان و البرد و الجراد ذريعة الى جحود الخالق و التدبير فى الخلقة، فيقال في جواب ذلك انه ان لم يكن خالق </format><format class=\"sharh\">قبل الشروع فى الموضوع علينا ان نذكر معنى بعض الكلمات في هذه العبارة ليتسنى لنا معرفة مراد الامام عليه السلام منها ثم ندخل في صلب الموضوع فنقول:</format></p>"
+        },
+        {
+          "paragraphId": 508385865,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"178\"><format class=\"sharh\">الجهال جمع جاهل، و الجهل هو خلو النفس عن العلم و اذعانها لما هو خلاف الواقع دون ادراك و هي صفة تحصل لبعض افراد البشر تخرجه عن دائرة الانسانية و تدخله فى زمرة البهائم و الانعام.</format></p>"
+        },
+        {
+          "paragraphId": 508385866,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"179\"><format class=\"sharh\">قال تعالى: <format class=\"ayah\" surah=\"39\" ayah=\"9\" toAyah=\"\">(هَلْ يَسْتَوِي اَلَّذِينَ يَعْلَمُونَ وَ اَلَّذِينَ لاٰ يَعْلَمُونَ‌)<format class=\"ayahWord\" fromWord=\"16\" toWord=\"23\"/><format class=\"ayahAddress\" surah=\"39\" ayah=\"9\" toAyah=\"\"/></format> - <format class=\"ayah\" surah=\"25\" ayah=\"44\" toAyah=\"\">(أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ إِنْ هُمْ إِلاّٰ كَالْأَنْعٰامِ بَلْ هُمْ أَضَلُّ سَبِيلاً)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"15\"/><format class=\"ayahAddress\" surah=\"25\" ayah=\"44\" toAyah=\"\"/></format> - <format class=\"ayah\" surah=\"7\" ayah=\"179\" toAyah=\"\">(لَهُمْ قُلُوبٌ لاٰ يَفْقَهُونَ بِهٰا وَ لَهُمْ أَعْيُنٌ لاٰ يُبْصِرُونَ بِهٰا وَ لَهُمْ آذٰانٌ لاٰ يَسْمَعُونَ بِهٰا أُولٰئِكَ كَالْأَنْعٰامِ بَلْ هُمْ أَضَلُّ أُولٰئِكَ هُمُ اَلْغٰافِلُونَ‌).<format class=\"ayahWord\" fromWord=\"10\" toWord=\"34\"/><format class=\"ayahAddress\" surah=\"7\" ayah=\"179\" toAyah=\"\"/></format></format></p>"
+        },
+        {
+          "paragraphId": 508385867,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"180\"><format class=\"sharh\">و السر فى ذلك ان هذا الجاهل مع قصور عقله عن هذا الاعتقاد الفاسد فانه لا ينتبه للنقص الذي فيه فلا يتحرك لطلب الحقيقة فلا يرشد بل يبقى في </format><page number=\"36\"/><format class=\"M\">و مدبر فلم لا يكون ما هو اكثر من هذا و افظع فمن ذلك ان تسقط السماء على الارض و تهوى الارض فتذهب سغلا و تتخلف الشمس عن الطلوع اصلا و تجف الانهار و العيون حتي لا يوجد ماء للشفه و يركد الريح </format><format class=\"sharh\">الضلالة و الغى فهو كالبهيمة و النعم لا يدرك شيئا بل هو اضل منهما لان الانعام و البهائم لا بد ان تهتدى الى صالحها الخاص فى حياتها الحيوانية بمقدار ادراكها المحدود.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "35",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p176\" paragraph-id=\"176\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo35\">35</span>\n    <strong style=\"0\" class=\"h-3 03\">ذريعة الجهال الى جحودهم</strong>\n  </p>\n  <p id=\"p177\" paragraph-id=\"177\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: اتخذ اناس من الجهال هذه الآفات الحادثة في بعض الازمان كمثل الوباء و اليرقان و البرد و الجراد ذريعة الى جحود الخالق و التدبير فى الخلقة، فيقال في جواب ذلك انه ان لم يكن خالق </span>\n    <span class=\"sharh\">قبل الشروع فى الموضوع علينا ان نذكر معنى بعض الكلمات في هذه العبارة ليتسنى لنا معرفة مراد الامام عليه السلام منها ثم ندخل في صلب الموضوع فنقول:</span>\n  </p>\n  <p id=\"p178\" paragraph-id=\"178\" class=\" G\">\n    <span class=\"sharh\">الجهال جمع جاهل، و الجهل هو خلو النفس عن العلم و اذعانها لما هو خلاف الواقع دون ادراك و هي صفة تحصل لبعض افراد البشر تخرجه عن دائرة الانسانية و تدخله فى زمرة البهائم و الانعام.</span>\n  </p>\n  <p id=\"p179\" paragraph-id=\"179\" class=\" G\">\n    <span class=\"sharh\">قال تعالى: <span style=\"0\" class=\"ayah\" surah=\"39\" ayah=\"9\">(هَلْ يَسْتَوِي اَلَّذِينَ يَعْلَمُونَ وَ اَلَّذِينَ لاٰ يَعْلَمُونَ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/39/9\"></a></span></span> - <span style=\"0\" class=\"ayah\" surah=\"25\" ayah=\"44\">(أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ إِنْ هُمْ إِلاّٰ كَالْأَنْعٰامِ بَلْ هُمْ أَضَلُّ سَبِيلاً)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/25/44\"></a></span></span> - <span style=\"0\" class=\"ayah\" surah=\"7\" ayah=\"179\">(لَهُمْ قُلُوبٌ لاٰ يَفْقَهُونَ بِهٰا وَ لَهُمْ أَعْيُنٌ لاٰ يُبْصِرُونَ بِهٰا وَ لَهُمْ آذٰانٌ لاٰ يَسْمَعُونَ بِهٰا أُولٰئِكَ كَالْأَنْعٰامِ بَلْ هُمْ أَضَلُّ أُولٰئِكَ هُمُ اَلْغٰافِلُونَ‌).<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/7/179\"></a></span></span></span>\n  </p>\n  <p id=\"p180\" paragraph-id=\"180\" class=\" G\">\n    <span class=\"sharh\">و السر فى ذلك ان هذا الجاهل مع قصور عقله عن هذا الاعتقاد الفاسد فانه لا ينتبه للنقص الذي فيه فلا يتحرك لطلب الحقيقة فلا يرشد بل يبقى في </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "A98D36A6-5DFA-438B-9E5B-D40564CCCFFD",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

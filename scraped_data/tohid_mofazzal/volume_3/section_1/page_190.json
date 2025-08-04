@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 190,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644952,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"705\"><page number=\"190\"/><format class=\"M\">مما عسى أن يزرأ في ماله.</format></p>"
+        },
+        {
+          "paragraphId": 631644953,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"706\"><format class=\"sharh\">و يبعتدون عن الشيطان خوفا من اللّه تعالى.</format></p>"
+        },
+        {
+          "paragraphId": 631644954,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"707\"><format class=\"sharh\">اما اذا صاروا الى الدعة و الامن مالوا الى الشر و الفساد و خلعوا عذار التحفظ عن العصيان حتى يهوون فى هوة الاجرام و يصادون فى شرك الشيطان و ما اعسر ان يكون مع رخاء البال حياة العقول بل ان ذلك ليذهب بالعقل و يذهله، و عليه فتكون المنفعة فيما يصلح له من دينه ارجح مما عسى ان يرزا بماله او بدنه فسبحان الرحمن الرحيم.</format></p>"
+        },
+        {
+          "paragraphId": 631644955,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"708\"><page number=\"191\"/><heading level=\"3\">الجبال و الحكمة في خلقها</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "190",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p705\" paragraph-id=\"705\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo190\">190</span>\n    <span class=\"M\">مما عسى أن يزرأ في ماله.</span>\n  </p>\n  <p id=\"p706\" paragraph-id=\"706\" class=\" G\">\n    <span class=\"sharh\">و يبعتدون عن الشيطان خوفا من اللّه تعالى.</span>\n  </p>\n  <p id=\"p707\" paragraph-id=\"707\" class=\" G\">\n    <span class=\"sharh\">اما اذا صاروا الى الدعة و الامن مالوا الى الشر و الفساد و خلعوا عذار التحفظ عن العصيان حتى يهوون فى هوة الاجرام و يصادون فى شرك الشيطان و ما اعسر ان يكون مع رخاء البال حياة العقول بل ان ذلك ليذهب بالعقل و يذهله، و عليه فتكون المنفعة فيما يصلح له من دينه ارجح مما عسى ان يرزا بماله او بدنه فسبحان الرحمن الرحيم.</span>\n  </p>\n  <p id=\"p708\" paragraph-id=\"708\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "372ADD2F-696C-462F-90B0-7A8248269EBB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

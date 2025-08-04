@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 261,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645453,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1019\"><format class=\"sharh\">اما الزبل فقد ذكرنا ما فيه من المواد و كذلك العذرة المحتوية على الاملاح و غيرها و لكن زرق الطير و سلحه يكون اقوى تأثيرا من ارواث الحيوانات السائمة الاخرى و ابوالها لاعتذآء الطير بالحبوب و الحشرات و لان ابوالها تختلط مع موادها البرازية لاتحاد طريقيهما و لانها خالية من التبن و ممزوجة ببقايا الريش المحتوى على جوهر آزوتي قوى و لان ما يخرج من الطير يتراكم في محال مصونة </format><page number=\"261\"/><format class=\"sharh\">عن تأثير الشمس و الهواء و المطر.</format></p>"
+        },
+        {
+          "paragraphId": 631645454,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1020\"><format class=\"sharh\">اما ابوال ساير الحيوانات الاخرى فاثرها ايضا كبير في تخصيب الارض لما فيها من الاملاح و المواد الآلية الآزوتية و الكبريتات و البوتاز و الصودا و كلرور الصديوم و كلوريدرات النشادر و كرنبات الجير و المغنيسيا و السليكاوشى من الحديد.</format></p>"
+        },
+        {
+          "paragraphId": 631645455,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1021\"><format class=\"sharh\">و كل هذه المواد المذكورة هي مواد غذاء النبات الكامل التى تنمو بها ساير النباتات و تنشط نموا و نتاجا و كثرة و نضارة.</format></p>"
+        },
+        {
+          "paragraphId": 631645456,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1022\"><format class=\"sharh\">هذه هى فوائد هذا الشىء الحقير بل الاحقر من البردى و غيره و الذي تنفر منه الطباع و تأباه النفوس بل تكره القرب منه و الدنو اليه.</format></p>"
+        },
+        {
+          "paragraphId": 631645457,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1023\"><format class=\"sharh\">فاعتبر و اتعظ و اعرف ما تتغذى به و تقيم جسمك بواسطته لكي لا تطغى و اعرف نفسك لتعرف ربك و اللّه الموفق.</format></p>"
+        },
+        {
+          "paragraphId": 631645458,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1024\"><page number=\"262\"/><heading level=\"3\">ليس منزلة الشيء على حسب قيمته</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "261",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1019\" paragraph-id=\"1019\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo261\">261</span>\n    <span class=\"sharh\">عن تأثير الشمس و الهواء و المطر.</span>\n  </p>\n  <p id=\"p1020\" paragraph-id=\"1020\" class=\" G\">\n    <span class=\"sharh\">اما ابوال ساير الحيوانات الاخرى فاثرها ايضا كبير في تخصيب الارض لما فيها من الاملاح و المواد الآلية الآزوتية و الكبريتات و البوتاز و الصودا و كلرور الصديوم و كلوريدرات النشادر و كرنبات الجير و المغنيسيا و السليكاوشى من الحديد.</span>\n  </p>\n  <p id=\"p1021\" paragraph-id=\"1021\" class=\" G\">\n    <span class=\"sharh\">و كل هذه المواد المذكورة هي مواد غذاء النبات الكامل التى تنمو بها ساير النباتات و تنشط نموا و نتاجا و كثرة و نضارة.</span>\n  </p>\n  <p id=\"p1022\" paragraph-id=\"1022\" class=\" G\">\n    <span class=\"sharh\">هذه هى فوائد هذا الشىء الحقير بل الاحقر من البردى و غيره و الذي تنفر منه الطباع و تأباه النفوس بل تكره القرب منه و الدنو اليه.</span>\n  </p>\n  <p id=\"p1023\" paragraph-id=\"1023\" class=\" G\">\n    <span class=\"sharh\">فاعتبر و اتعظ و اعرف ما تتغذى به و تقيم جسمك بواسطته لكي لا تطغى و اعرف نفسك لتعرف ربك و اللّه الموفق.</span>\n  </p>\n  <p id=\"p1024\" paragraph-id=\"1024\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "952AD966-0CB6-45FF-B87C-5CFA0DAE4A22",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

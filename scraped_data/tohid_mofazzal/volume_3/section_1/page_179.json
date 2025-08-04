@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 179,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645199,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"666\"><page number=\"179\"/><format class=\"M\">من ان تحصى و اظهر من ان تخفى.</format></p>"
+        },
+        {
+          "paragraphId": 631645200,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"667\"><format class=\"sharh\">اما الحوادث او الاعمال المستمرة او شبه المستمرة لدى بعض الناس فهى مثل الكتابة او الحفظ او النسخ، فانها امور قد تكون لبعض الاشخاص مستمرة كطلاب العلوم و الكتاب و الخطباء و النساخ بالاجرة و غير الاجرة كالمؤلفين مثلا و قد تحصل لاخرين اتفاقا ككتابة مكتوب او استنساخ ورقة و امثال ذلك و كلها لا يمكن عملها في الليل الا بوجود المصباح ليعينهم على انجازها على ضوئه.</format></p>"
+        },
+        {
+          "paragraphId": 631645201,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"668\"><format class=\"sharh\">فانظر الى رحمة ربك و فكر فى حكمة اللطيف الخبير كيف لم يخلق شيئا الا لحاجة و لم يوجد حاجة دون ان يوجد لها ما يقضيها لطفا بعباده و ارادة لاسعادهم و راحتهم فهل منا من يشكر النعمة و يقدر الجميل فيطيع و يعبد مخلصا و لا يطغى على ان في ذلك سعادة الدارين و الفوز برضاه.</format></p>"
+        },
+        {
+          "paragraphId": 631645202,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"669\"><format class=\"sharh\">اللهم اوزعنا ان نشكرك</format></p>"
+        },
+        {
+          "paragraphId": 631645203,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"670\"><page number=\"180\"/><heading level=\"3\">تعاقب الصحو و المطر</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "179",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p666\" paragraph-id=\"666\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo179\">179</span>\n    <span class=\"M\">من ان تحصى و اظهر من ان تخفى.</span>\n  </p>\n  <p id=\"p667\" paragraph-id=\"667\" class=\" G\">\n    <span class=\"sharh\">اما الحوادث او الاعمال المستمرة او شبه المستمرة لدى بعض الناس فهى مثل الكتابة او الحفظ او النسخ، فانها امور قد تكون لبعض الاشخاص مستمرة كطلاب العلوم و الكتاب و الخطباء و النساخ بالاجرة و غير الاجرة كالمؤلفين مثلا و قد تحصل لاخرين اتفاقا ككتابة مكتوب او استنساخ ورقة و امثال ذلك و كلها لا يمكن عملها في الليل الا بوجود المصباح ليعينهم على انجازها على ضوئه.</span>\n  </p>\n  <p id=\"p668\" paragraph-id=\"668\" class=\" G\">\n    <span class=\"sharh\">فانظر الى رحمة ربك و فكر فى حكمة اللطيف الخبير كيف لم يخلق شيئا الا لحاجة و لم يوجد حاجة دون ان يوجد لها ما يقضيها لطفا بعباده و ارادة لاسعادهم و راحتهم فهل منا من يشكر النعمة و يقدر الجميل فيطيع و يعبد مخلصا و لا يطغى على ان في ذلك سعادة الدارين و الفوز برضاه.</span>\n  </p>\n  <p id=\"p669\" paragraph-id=\"669\" class=\" G\">\n    <span class=\"sharh\">اللهم اوزعنا ان نشكرك</span>\n  </p>\n  <p id=\"p670\" paragraph-id=\"670\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "E145B64C-8206-4FB6-8FF9-BF1DC3568A24",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 7,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385707,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"20\"><page number=\"7\"/>مقدما خالص ولائى للنبي الكريم (ص) و حبى لآل بيته الطاهرين سيما سيدى و مولاى الامام جعفر بن محمد الصادق عليه السلام الذي ارجو ان يكون لى شفيعا عند اللّه تعالى في قبول هذا العمل المتواضع و البضاعة المزجاة.</p>"
+        },
+        {
+          "paragraphId": 508385708,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"21\">مصليا على رسول التوحيد خاتم الانبياء محمد بن عبد اللّه صلى اللّه عليه و آله و صحبه و سلم.</p>"
+        },
+        {
+          "paragraphId": 508385709,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"22\">محمد الخليلى</p>"
+        },
+        {
+          "paragraphId": 508385710,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"23\"><format class=\"EndIntroduction\" type=\"3\"/><page number=\"8\"/><heading level=\"2\"><format class=\"H\">[المجلس الرابع]</format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "7",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p20\" paragraph-id=\"20\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo7\">7</span>مقدما خالص ولائى للنبي الكريم (ص) و حبى لآل بيته الطاهرين سيما سيدى و مولاى الامام جعفر بن محمد الصادق عليه السلام الذي ارجو ان يكون لى شفيعا عند اللّه تعالى في قبول هذا العمل المتواضع و البضاعة المزجاة.</p>\n  <p id=\"p21\" paragraph-id=\"21\" class=\" G\">مصليا على رسول التوحيد خاتم الانبياء محمد بن عبد اللّه صلى اللّه عليه و آله و صحبه و سلم.</p>\n  <p id=\"p22\" paragraph-id=\"22\" class=\" G\">محمد الخليلى</p>\n  <p id=\"p23\" paragraph-id=\"23\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "DBBD09D2-3A16-4C89-ABC4-D666BEE63F50",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

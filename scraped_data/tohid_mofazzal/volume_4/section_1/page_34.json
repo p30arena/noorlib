@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 34,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385857,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"170\"><format class=\"sharh\">قال (ص) فوجب ان لا يختلط النور مع الظلمة لذهاب كل واحد منهما </format><page number=\"34\"/><format class=\"sharh\">في غير جهة الاخر فكيف حدث هذا العالم من امتزاج ما يحال ان يمتزج، بل هما جميعا مخلوقان.</format></p>"
+        },
+        {
+          "paragraphId": 508385858,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"171\"><format class=\"sharh\">فقالوا: اجل سننظر في امرنا و لم يجيبوا بل افلجوا و قاموا من المجلس خائبين.</format></p>"
+        },
+        {
+          "paragraphId": 508385859,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"172\"><format class=\"sharh\">هذه الفرق التي ذكرناها لك و التي اشار اليها الامام عليه السلام هى من اشهر فرق الملاحدة و اظهر اصنافها.</format></p>"
+        },
+        {
+          "paragraphId": 508385860,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"173\"><format class=\"sharh\">و هناك غيرها كثير مثل الديصانية و المزدكية و المرقوتية و النظامية و الجبائية و اشباهها مما تفصله كتب الملل و النحل.</format></p>"
+        },
+        {
+          "paragraphId": 508385861,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"174\"><format class=\"sharh\">و ليس فى ذكرها فائدة يعتد بها على ان هذا المختصر لا يسع بيانها.</format></p>"
+        },
+        {
+          "paragraphId": 508385862,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"175\"><format class=\"sharh\">و قد جمع اكثرها الامام عليه السلام بقوله ما انكرت المعطلة و المنانية الخ.</format></p>"
+        },
+        {
+          "paragraphId": 508385863,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"176\"><page number=\"35\"/><heading level=\"3\">ذريعة الجهال الى جحودهم</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "34",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p170\" paragraph-id=\"170\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo34\">34</span>\n    <span class=\"sharh\">في غير جهة الاخر فكيف حدث هذا العالم من امتزاج ما يحال ان يمتزج، بل هما جميعا مخلوقان.</span>\n  </p>\n  <p id=\"p171\" paragraph-id=\"171\" class=\" G\">\n    <span class=\"sharh\">فقالوا: اجل سننظر في امرنا و لم يجيبوا بل افلجوا و قاموا من المجلس خائبين.</span>\n  </p>\n  <p id=\"p172\" paragraph-id=\"172\" class=\" G\">\n    <span class=\"sharh\">هذه الفرق التي ذكرناها لك و التي اشار اليها الامام عليه السلام هى من اشهر فرق الملاحدة و اظهر اصنافها.</span>\n  </p>\n  <p id=\"p173\" paragraph-id=\"173\" class=\" G\">\n    <span class=\"sharh\">و هناك غيرها كثير مثل الديصانية و المزدكية و المرقوتية و النظامية و الجبائية و اشباهها مما تفصله كتب الملل و النحل.</span>\n  </p>\n  <p id=\"p174\" paragraph-id=\"174\" class=\" G\">\n    <span class=\"sharh\">و ليس فى ذكرها فائدة يعتد بها على ان هذا المختصر لا يسع بيانها.</span>\n  </p>\n  <p id=\"p175\" paragraph-id=\"175\" class=\" G\">\n    <span class=\"sharh\">و قد جمع اكثرها الامام عليه السلام بقوله ما انكرت المعطلة و المنانية الخ.</span>\n  </p>\n  <p id=\"p176\" paragraph-id=\"176\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "3D9D0080-A45C-4492-B66F-8E430ABFD0D9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

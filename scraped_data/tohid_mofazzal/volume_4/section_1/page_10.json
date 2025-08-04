@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 10,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385725,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"38\"><page number=\"10\"/><format class=\"M\">الجلال و الاكرام منشىء الانام و مغني العوالم و الدهور و صاحب السر </format><format class=\"sharh\"><format class=\"ayah\" surah=\"35\" ayah=\"28\" toAyah=\"\">(إِنَّمٰا يَخْشَى اَللّٰهَ مِنْ عِبٰادِهِ اَلْعُلَمٰاءُ‌).<format class=\"ayahWord\" fromWord=\"11\" toWord=\"16\"/><format class=\"ayahAddress\" surah=\"35\" ayah=\"28\" toAyah=\"\"/></format></format></p>"
+        },
+        {
+          "paragraphId": 508385726,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"39\"><format class=\"sharh\">لان العلماء هم احذر الناس من عقاب اللّه لمعرفتهم الحقيقية بحقيقة التوحيد و العدل و تصديقهم بالبعث و الحساب و الجنة و النار عن شعور و معرفة، و لا كذلك الجاهل.</format></p>"
+        },
+        {
+          "paragraphId": 508385727,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"40\"><format class=\"sharh\">و التقديس: هو تنزيه اللّه تعالى و وصفه بكونه قدوسا بعيدا عن السوء اما فى الذات و يحصل بنفي الامكان المستلزم لنفى الكثرة و التجسيم و العرضية و الضد و الند.</format></p>"
+        },
+        {
+          "paragraphId": 508385728,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"41\"><format class=\"sharh\">و اما فى الصفات فذلك بان يكون مبرأ عن الجهل و العجز و كل تغيير، محيطا بكل المعلومات، قادرا على كل المقدورات.</format></p>"
+        },
+        {
+          "paragraphId": 508385729,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"42\"><format class=\"sharh\">و اما في الافعال و ذلك بان لا تكون افعاله عبثا و لا تكون لجلب منفعة لنفسه او دفع ضرر عنها و بالجملة فان التقديس هو تنزيه الواجب عما لا يليق به و عما يستلزم النقصان و الافتقار.</format></p>"
+        },
+        {
+          "paragraphId": 508385730,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"43\"><format class=\"sharh\">اما الاسم الاقدم: فالاسم اولا هو ما دل على الذات، و لفظ الجلالة (اللّه) اسم لذات واجب الوجود الجامع لجميع الخصال و الكمال دون ساير الاسماء الحسنى مثل الخالق و الرازق و العليم و نحوها فانها معان و صفات، و ليس التبرك و الاستعانة به الا تعظيما للمسمى. و هذا المعنى لا يدل على اتحاد الاسم و المسمى خلافا للبعض القائل بان اسماء اللّه تعالى عين ذاته.</format></p>"
+        },
+        {
+          "paragraphId": 508385731,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"44\"><format class=\"sharh\">و قد روى الكلينى في الكافي عن هشام بن الحكم انه سأل الصادق عليه السلام عن اسماء اللّه تعالى و اشتقاقها و عن اللّه مم يشتق?</format></p>"
+        },
+        {
+          "paragraphId": 508385732,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"45\"><page number=\"11\"/><format class=\"M\">المستور و الغيب المحظور و الاسم المخزون و العلم المكنون.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "10",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p38\" paragraph-id=\"38\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo10\">10</span>\n    <span class=\"M\">الجلال و الاكرام منشىء الانام و مغني العوالم و الدهور و صاحب السر </span>\n    <span class=\"sharh\">\n      <span style=\"0\" class=\"ayah\" surah=\"35\" ayah=\"28\">(إِنَّمٰا يَخْشَى اَللّٰهَ مِنْ عِبٰادِهِ اَلْعُلَمٰاءُ‌).<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/35/28\"></a></span></span>\n    </span>\n  </p>\n  <p id=\"p39\" paragraph-id=\"39\" class=\" G\">\n    <span class=\"sharh\">لان العلماء هم احذر الناس من عقاب اللّه لمعرفتهم الحقيقية بحقيقة التوحيد و العدل و تصديقهم بالبعث و الحساب و الجنة و النار عن شعور و معرفة، و لا كذلك الجاهل.</span>\n  </p>\n  <p id=\"p40\" paragraph-id=\"40\" class=\" G\">\n    <span class=\"sharh\">و التقديس: هو تنزيه اللّه تعالى و وصفه بكونه قدوسا بعيدا عن السوء اما فى الذات و يحصل بنفي الامكان المستلزم لنفى الكثرة و التجسيم و العرضية و الضد و الند.</span>\n  </p>\n  <p id=\"p41\" paragraph-id=\"41\" class=\" G\">\n    <span class=\"sharh\">و اما فى الصفات فذلك بان يكون مبرأ عن الجهل و العجز و كل تغيير، محيطا بكل المعلومات، قادرا على كل المقدورات.</span>\n  </p>\n  <p id=\"p42\" paragraph-id=\"42\" class=\" G\">\n    <span class=\"sharh\">و اما في الافعال و ذلك بان لا تكون افعاله عبثا و لا تكون لجلب منفعة لنفسه او دفع ضرر عنها و بالجملة فان التقديس هو تنزيه الواجب عما لا يليق به و عما يستلزم النقصان و الافتقار.</span>\n  </p>\n  <p id=\"p43\" paragraph-id=\"43\" class=\" G\">\n    <span class=\"sharh\">اما الاسم الاقدم: فالاسم اولا هو ما دل على الذات، و لفظ الجلالة (اللّه) اسم لذات واجب الوجود الجامع لجميع الخصال و الكمال دون ساير الاسماء الحسنى مثل الخالق و الرازق و العليم و نحوها فانها معان و صفات، و ليس التبرك و الاستعانة به الا تعظيما للمسمى. و هذا المعنى لا يدل على اتحاد الاسم و المسمى خلافا للبعض القائل بان اسماء اللّه تعالى عين ذاته.</span>\n  </p>\n  <p id=\"p44\" paragraph-id=\"44\" class=\" G\">\n    <span class=\"sharh\">و قد روى الكلينى في الكافي عن هشام بن الحكم انه سأل الصادق عليه السلام عن اسماء اللّه تعالى و اشتقاقها و عن اللّه مم يشتق?</span>\n  </p>\n  <p id=\"p45\" paragraph-id=\"45\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "1ED7FC72-D244-4C53-859D-2799127B2F03",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

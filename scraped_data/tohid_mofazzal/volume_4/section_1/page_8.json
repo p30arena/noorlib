@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 8,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385710,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"23\"><format class=\"EndIntroduction\" type=\"3\"/><page number=\"8\"/><heading level=\"2\"><format class=\"H\">[المجلس الرابع]</format></heading></p>"
+        },
+        {
+          "paragraphId": 508385711,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"24\"><heading level=\"3\">الشروع في الكلام</heading></p>"
+        },
+        {
+          "paragraphId": 508385712,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"25\"><format class=\"M\">قال المفضل: فلما كان اليوم الرابع بكرت الى مولاى فاستؤذن لى فامرني بالجلوس فجلست فقال عليه السلام منا التحميد و التسبيح </format><format class=\"sharh\">يقول المفضل: و لما اصبح الصباح من اليوم الرابع من الايام التي كان الامام عليه السلام يلقى علي فيها محاضراته الحكيمة القيمة في اثبات التوحيد، و قد كنت قضيت ليلتي فى اشد الانتظار لما سيمليه علي سيدي من العبر و العظات و يلقيه على مسامعى من الآيات البينات التي تزيدني ايمانا و تقوى حجتي على الخصم الملحد و المعاند المنحرف.</format></p>"
+        },
+        {
+          "paragraphId": 508385713,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"26\"><format class=\"sharh\">فبكرت الى دار مولاي و طلبت الاذن بالدخول عليه، فاستؤذن لى فاذن عليه السلام و لما دخلت امرني بالجلوس فجلست امتثالا لامره و انتظارا لكلامه و كلى شوق و اقبال على ما سيتكلم به.</format></p>"
+        },
+        {
+          "paragraphId": 508385714,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"27\"><format class=\"sharh\">فقال عليه السلام: (منا التحميد و التسبيح و التعظيم).</format></p>"
+        },
+        {
+          "paragraphId": 508385715,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"28\"><format class=\"sharh\">اقول: التحميد مصدر تحمد (بتشديد الميم) و هو الثناء مرة بعد مرة اى قول الحمد للّه متكررا.</format></p>"
+        },
+        {
+          "paragraphId": 508385716,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"29\"><format class=\"sharh\">و فى الاساس للزمخشرى تحمد بمعنى استحمد اي طلب الحمد فيقال استحمد اللّه الى خلقه اي طلب اليهم ان يحمدوه ليجزيهم على الحمد و يثيبهم على ثنائهم المتكرر قال تعالى: <format class=\"ayah\" surah=\"17\" ayah=\"111\" toAyah=\"\">وَ قُلِ اَلْحَمْدُ لِلّٰهِ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"17\" ayah=\"111\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"2\" ayah=\"152\" toAyah=\"\">وَ اُشْكُرُوا لِي وَ لاٰ تَكْفُرُونِ <format class=\"ayahWord\" fromWord=\"3\" toWord=\"8\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"152\" toAyah=\"\"/></format>- و فى الصحيفة السجادية </format><page number=\"9\"/><format class=\"M\">و التعظيم و التقديس للاسم الاقدم و النور الاعظم العلى العلام ذى </format><format class=\"sharh\">(يامن تحمد الى خلقه بحسن التجاوز)</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "8",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p23\" paragraph-id=\"23\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo8\">8</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"H\">[المجلس الرابع]</span>\n    </strong>\n  </p>\n  <p id=\"p24\" paragraph-id=\"24\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">الشروع في الكلام</strong>\n  </p>\n  <p id=\"p25\" paragraph-id=\"25\" class=\" G\">\n    <span class=\"M\">قال المفضل: فلما كان اليوم الرابع بكرت الى مولاى فاستؤذن لى فامرني بالجلوس فجلست فقال عليه السلام منا التحميد و التسبيح </span>\n    <span class=\"sharh\">يقول المفضل: و لما اصبح الصباح من اليوم الرابع من الايام التي كان الامام عليه السلام يلقى علي فيها محاضراته الحكيمة القيمة في اثبات التوحيد، و قد كنت قضيت ليلتي فى اشد الانتظار لما سيمليه علي سيدي من العبر و العظات و يلقيه على مسامعى من الآيات البينات التي تزيدني ايمانا و تقوى حجتي على الخصم الملحد و المعاند المنحرف.</span>\n  </p>\n  <p id=\"p26\" paragraph-id=\"26\" class=\" G\">\n    <span class=\"sharh\">فبكرت الى دار مولاي و طلبت الاذن بالدخول عليه، فاستؤذن لى فاذن عليه السلام و لما دخلت امرني بالجلوس فجلست امتثالا لامره و انتظارا لكلامه و كلى شوق و اقبال على ما سيتكلم به.</span>\n  </p>\n  <p id=\"p27\" paragraph-id=\"27\" class=\" G\">\n    <span class=\"sharh\">فقال عليه السلام: (منا التحميد و التسبيح و التعظيم).</span>\n  </p>\n  <p id=\"p28\" paragraph-id=\"28\" class=\" G\">\n    <span class=\"sharh\">اقول: التحميد مصدر تحمد (بتشديد الميم) و هو الثناء مرة بعد مرة اى قول الحمد للّه متكررا.</span>\n  </p>\n  <p id=\"p29\" paragraph-id=\"29\" class=\" G\">\n    <span class=\"sharh\">و فى الاساس للزمخشرى تحمد بمعنى استحمد اي طلب الحمد فيقال استحمد اللّه الى خلقه اي طلب اليهم ان يحمدوه ليجزيهم على الحمد و يثيبهم على ثنائهم المتكرر قال تعالى: <span style=\"0\" class=\"ayah\" surah=\"17\" ayah=\"111\">وَ قُلِ اَلْحَمْدُ لِلّٰهِ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/17/111\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"2\" ayah=\"152\">وَ اُشْكُرُوا لِي وَ لاٰ تَكْفُرُونِ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/2/152\"></a></span></span>- و فى الصحيفة السجادية </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "4B0AAADC-D258-47F7-84C7-9877C10A5530",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

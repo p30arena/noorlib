@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 173,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645179,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"646\"><format class=\"sharh\">فانه لو كان قليلا ضيق المجال لما امكنه تصريف جميع ما يتصاعد منهما اليه </format><page number=\"173\"/><format class=\"sharh\">و لاجله يتكاثران فيتحيران فى الجو «يتكائفان فى الهواء و بذلك قد يحولان دون تكوين السحاب و الضباب و يفسدان الهواء فلا يصلح للتنفس و هذا ان دام اهلك العالم بالتدريج و لكن كثرته وسعته بهذه الصورة التي عرفت و احتوائه على كل محل من محال الارض و الجو.</format></p>"
+        },
+        {
+          "paragraphId": 631645180,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"647\"><format class=\"sharh\">جعله قادرا على تصريف و تبديد كلما يصل اليه و يرد فيه فى هذا الفضاء اللانهائي لا سيما و قد خلق خفيفا سريع الحركة فى مجالاته الواسعة.</format></p>"
+        },
+        {
+          "paragraphId": 631645181,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"648\"><format class=\"sharh\">و هذا قليل من كثير مصالحه و منافعه الجمة.</format></p>"
+        },
+        {
+          "paragraphId": 631645182,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"649\"><format class=\"sharh\">و اللّه اعلم بما خلق و ما اودع فى خلقه.</format></p>"
+        },
+        {
+          "paragraphId": 631645183,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"650\"><page number=\"174\"/><heading level=\"3\">النار</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "173",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p646\" paragraph-id=\"646\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo173\">173</span>\n    <span class=\"sharh\">و لاجله يتكاثران فيتحيران فى الجو «يتكائفان فى الهواء و بذلك قد يحولان دون تكوين السحاب و الضباب و يفسدان الهواء فلا يصلح للتنفس و هذا ان دام اهلك العالم بالتدريج و لكن كثرته وسعته بهذه الصورة التي عرفت و احتوائه على كل محل من محال الارض و الجو.</span>\n  </p>\n  <p id=\"p647\" paragraph-id=\"647\" class=\" G\">\n    <span class=\"sharh\">جعله قادرا على تصريف و تبديد كلما يصل اليه و يرد فيه فى هذا الفضاء اللانهائي لا سيما و قد خلق خفيفا سريع الحركة فى مجالاته الواسعة.</span>\n  </p>\n  <p id=\"p648\" paragraph-id=\"648\" class=\" G\">\n    <span class=\"sharh\">و هذا قليل من كثير مصالحه و منافعه الجمة.</span>\n  </p>\n  <p id=\"p649\" paragraph-id=\"649\" class=\" G\">\n    <span class=\"sharh\">و اللّه اعلم بما خلق و ما اودع فى خلقه.</span>\n  </p>\n  <p id=\"p650\" paragraph-id=\"650\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "C5FC9609-AF69-4517-A754-913E33623720",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

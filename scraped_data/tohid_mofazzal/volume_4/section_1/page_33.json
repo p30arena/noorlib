@@ -1,0 +1,86 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 33,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385849,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"162\"><page number=\"33\"/><format class=\"sharh\">و بودي هنا ان اذكر كلام النبي صلى اللّه عليه و آله فى احتجاجه مع المنانية حين اجتمع اهل الاديان المختلفة عنده ليحاجوه و يفلجوه في رأيهم فرد (ص) اهل كل دين بما فند حججهم ثم التفت الى الوفد المناني (المانوى) و قال (ص) مخاطبا لهم.</format></p>"
+        },
+        {
+          "paragraphId": 508385850,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"163\"><format class=\"sharh\">ما الذي دعاكم الى ما قلتموه من هذا? قالوا: لانا وجدنا العالم صنفين خيرا و شريرا و وجدنا الخير ضد الشر فاما ان يكون فاعل واحد يفعل الشىء و ضده فلا يمكن، بل لكل واحد منهما فاعل.</format></p>"
+        },
+        {
+          "paragraphId": 508385851,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"164\"><format class=\"sharh\">الا ترى ان الثلج محال ان يسخن، كما ان النار محال ان تبرد، فاثبتنا لذلك صانعين قديمين ظلمة و نورا.</format></p>"
+        },
+        {
+          "paragraphId": 508385852,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"165\"><format class=\"sharh\">فقال لهم رسول اللّه (ص): الستم وجدتم سوادا و بياضا و حمرة و صفرة و خضرة و زرقة?</format></p>"
+        },
+        {
+          "paragraphId": 508385853,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"166\"><format class=\"sharh\">و كل واحد ضد لسائرها، لاستحالة اجتماع اثنين منها فى محل واحد، كما كان الحر و البرد ضدين لاستحالة إجتماعهما معا في محل واحد?</format></p>"
+        },
+        {
+          "paragraphId": 508385854,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"167\"><format class=\"sharh\">قالوا نعم، قال (ص). فهلا اثبتم بعدد كل لون صانعا قديما ليكون فاعلا لكل ضد من هذه الالوان غير فاعل للضد الاخر. فسكتوا.</format></p>"
+        },
+        {
+          "paragraphId": 508385855,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"168\"><format class=\"sharh\">ثم قال (ص): و كيف اختلط هذا النور و الظلمة، و هذا من طبعه الصعود و هذا من طبعه النزول.</format></p>"
+        },
+        {
+          "paragraphId": 508385856,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"169\"><format class=\"sharh\">ارأيتم لو ان رجلا اخذ شرقا يمشى اليه و الاخر غربا بضده، اكان يجوز ان يلتقيا ماداما سائرين على جهتيهما? قالوا لا.</format></p>"
+        },
+        {
+          "paragraphId": 508385857,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"170\"><format class=\"sharh\">قال (ص) فوجب ان لا يختلط النور مع الظلمة لذهاب كل واحد منهما </format><page number=\"34\"/><format class=\"sharh\">في غير جهة الاخر فكيف حدث هذا العالم من امتزاج ما يحال ان يمتزج، بل هما جميعا مخلوقان.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "33",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p162\" paragraph-id=\"162\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo33\">33</span>\n    <span class=\"sharh\">و بودي هنا ان اذكر كلام النبي صلى اللّه عليه و آله فى احتجاجه مع المنانية حين اجتمع اهل الاديان المختلفة عنده ليحاجوه و يفلجوه في رأيهم فرد (ص) اهل كل دين بما فند حججهم ثم التفت الى الوفد المناني (المانوى) و قال (ص) مخاطبا لهم.</span>\n  </p>\n  <p id=\"p163\" paragraph-id=\"163\" class=\" G\">\n    <span class=\"sharh\">ما الذي دعاكم الى ما قلتموه من هذا? قالوا: لانا وجدنا العالم صنفين خيرا و شريرا و وجدنا الخير ضد الشر فاما ان يكون فاعل واحد يفعل الشىء و ضده فلا يمكن، بل لكل واحد منهما فاعل.</span>\n  </p>\n  <p id=\"p164\" paragraph-id=\"164\" class=\" G\">\n    <span class=\"sharh\">الا ترى ان الثلج محال ان يسخن، كما ان النار محال ان تبرد، فاثبتنا لذلك صانعين قديمين ظلمة و نورا.</span>\n  </p>\n  <p id=\"p165\" paragraph-id=\"165\" class=\" G\">\n    <span class=\"sharh\">فقال لهم رسول اللّه (ص): الستم وجدتم سوادا و بياضا و حمرة و صفرة و خضرة و زرقة?</span>\n  </p>\n  <p id=\"p166\" paragraph-id=\"166\" class=\" G\">\n    <span class=\"sharh\">و كل واحد ضد لسائرها، لاستحالة اجتماع اثنين منها فى محل واحد، كما كان الحر و البرد ضدين لاستحالة إجتماعهما معا في محل واحد?</span>\n  </p>\n  <p id=\"p167\" paragraph-id=\"167\" class=\" G\">\n    <span class=\"sharh\">قالوا نعم، قال (ص). فهلا اثبتم بعدد كل لون صانعا قديما ليكون فاعلا لكل ضد من هذه الالوان غير فاعل للضد الاخر. فسكتوا.</span>\n  </p>\n  <p id=\"p168\" paragraph-id=\"168\" class=\" G\">\n    <span class=\"sharh\">ثم قال (ص): و كيف اختلط هذا النور و الظلمة، و هذا من طبعه الصعود و هذا من طبعه النزول.</span>\n  </p>\n  <p id=\"p169\" paragraph-id=\"169\" class=\" G\">\n    <span class=\"sharh\">ارأيتم لو ان رجلا اخذ شرقا يمشى اليه و الاخر غربا بضده، اكان يجوز ان يلتقيا ماداما سائرين على جهتيهما? قالوا لا.</span>\n  </p>\n  <p id=\"p170\" paragraph-id=\"170\" class=\" G\">\n    <span class=\"sharh\">قال (ص) فوجب ان لا يختلط النور مع الظلمة لذهاب كل واحد منهما </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "0199CC85-02B5-44CF-A430-7ACF963540CD",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

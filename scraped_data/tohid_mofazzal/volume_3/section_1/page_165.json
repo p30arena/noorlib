@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 165,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645148,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"615\"><page number=\"165\"/><format class=\"M\">وقت الحاجة اليها.</format></p>"
+        },
+        {
+          "paragraphId": 631645149,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"616\"><format class=\"sharh\">الى غير هذه المنافع الجليلة و المآرب النافعة التي لا تعرف الا اذا مست الحاجة اليها فيعرف المحتاج هناك لزوم الماء و ضرورته.</format></p>"
+        },
+        {
+          "paragraphId": 631645150,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"617\"><format class=\"sharh\">لهذه و امثالها اقتضت الحكمة الالهية ان يكون الماء متوفرا كثيرا على سطح الارض حتى صار يشغل ثلاثة ارباع سطح الكرة.</format></p>"
+        },
+        {
+          "paragraphId": 631645151,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"618\"><format class=\"sharh\">و للّه في خلقه شؤن.</format></p>"
+        },
+        {
+          "paragraphId": 631645152,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"619\"><page number=\"166\"/><heading level=\"3\">المآرب في كثرة مياه البحار</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "165",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p615\" paragraph-id=\"615\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo165\">165</span>\n    <span class=\"M\">وقت الحاجة اليها.</span>\n  </p>\n  <p id=\"p616\" paragraph-id=\"616\" class=\" G\">\n    <span class=\"sharh\">الى غير هذه المنافع الجليلة و المآرب النافعة التي لا تعرف الا اذا مست الحاجة اليها فيعرف المحتاج هناك لزوم الماء و ضرورته.</span>\n  </p>\n  <p id=\"p617\" paragraph-id=\"617\" class=\" G\">\n    <span class=\"sharh\">لهذه و امثالها اقتضت الحكمة الالهية ان يكون الماء متوفرا كثيرا على سطح الارض حتى صار يشغل ثلاثة ارباع سطح الكرة.</span>\n  </p>\n  <p id=\"p618\" paragraph-id=\"618\" class=\" G\">\n    <span class=\"sharh\">و للّه في خلقه شؤن.</span>\n  </p>\n  <p id=\"p619\" paragraph-id=\"619\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "A1720187-CA3C-405F-A50F-773A1626FAF6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

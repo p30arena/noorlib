@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 192,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644959,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"712\"><format class=\"sharh\">قال تعالى: <format class=\"ayah\" surah=\"78\" ayah=\"6\" toAyah=\"7\">(أَ لَمْ نَجْعَلِ اَلْأَرْضَ مِهٰاداً <format class=\"AyahSeprator\"/>وَ اَلْجِبٰالَ أَوْتٰاداً)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"8\"/><format class=\"ayahAddress\" surah=\"78\" ayah=\"6\" toAyah=\"7\"/></format> و قال تعالى: <format class=\"ayah\" surah=\"16\" ayah=\"15\" toAyah=\"\">(وَ أَلْقىٰ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"15\" toAyah=\"\"/></format></format><page number=\"192\"/><format class=\"M\">و ينبت فيها ضروب من النبات و العقاقير التى لا ينبت مثلها فى السهل و يكون فيها كهوف و معاقل للوحوش من السباع العادية. و يتخذ منها الحصون و القلاع المنيعة للتحرز من الاعداء و ينحت منها الحجارة للبناء و الارحاء و يوجد فيها معادن لضروب من الجواهر و فيها خلال اخر لا يعرفها الا المقدر لها فى سابق علمه.</format></p>"
+        },
+        {
+          "paragraphId": 631644960,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"713\"><format class=\"sharh\"><format class=\"ayah\" surah=\"16\" ayah=\"15\" toAyah=\"\">فِي اَلْأَرْضِ رَوٰاسِيَ أَنْ تَمِيدَ بِكُمْ وَ أَنْهٰاراً وَ سُبُلاً لَعَلَّكُمْ تَهْتَدُونَ‌).<format class=\"ayahWord\" fromWord=\"3\" toWord=\"14\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"15\" toAyah=\"\"/></format></format></p>"
+        },
+        {
+          "paragraphId": 631644961,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"714\"><format class=\"sharh\">و قد دلت هاتان الآيتان و غيرهما من الآيات الكثيرة في القرآن على ان للجبال منافع كثيرة.</format></p>"
+        },
+        {
+          "paragraphId": 631644962,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"715\"><format class=\"sharh\">(منها) انها رواسى تثقل الارض فتحفظها من الاضطراب و الانشقاق الحادث من الزلازل.</format></p>"
+        },
+        {
+          "paragraphId": 631644963,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"716\"><format class=\"sharh\">و (و منها) انه بواسطتها تكون المياه النازلة منها الى السفوح سببا لحصول الانهار و طرقها التي تجري فيها المياه على وجه الارض.</format></p>"
+        },
+        {
+          "paragraphId": 631644964,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"717\"><format class=\"sharh\">(و منها) ما ذكرها الامام عليه السلام ان الثلوج تسقط على قللها و تبقى محفوظة لوقت الحاجة و بذوب ما ذاب منها فتجرى منه العيون الغزيرة التى تجتمع فتكون الانهار الصغار ثم العظام و ينبت فيها ضروب من العقاقير التى تنبت منها فى السهل، و بعبارة اوضح ان المطر اذا نزل فى الشتاء حفظت الجبال قسما كبيرا منه بصورة ثلج او برد على قممها و قللها الى فصل الصيف فاذا سخن الهواء ياخذ بالذوبان و يسيل بالتدريج بسبب حرارة الشمس فيسقى الارض الظامية و قد يتحلل بعض هذا الثلج او البرد فيغور فى شقوق الجبال و ثقابها ثم يخرج منها </format><page number=\"193\"/><format class=\"sharh\">بصورة عيون يجرى منها الماء انهارا و اودية يرتوى بها الحيوان و الانسان و ينبت بها الزرع و هكذا حتى يأتي الشتاء و تعود الامطار و الثلج و البرد على رؤس الجبال، فعرف من هنا انه لو لا الجبال لكانت هذه المياه النازله مطرا لم تجر على سطح الارض الا ريثما يهدأ المطر ثم تنشفه الارض و الاهوية و عندئذ يعدم الحيوان و النبات في صميم الصيف عند الحاجة الشديدة للماء.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "192",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p712\" paragraph-id=\"712\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo192\">192</span>\n    <span class=\"M\">و ينبت فيها ضروب من النبات و العقاقير التى لا ينبت مثلها فى السهل و يكون فيها كهوف و معاقل للوحوش من السباع العادية. و يتخذ منها الحصون و القلاع المنيعة للتحرز من الاعداء و ينحت منها الحجارة للبناء و الارحاء و يوجد فيها معادن لضروب من الجواهر و فيها خلال اخر لا يعرفها الا المقدر لها فى سابق علمه.</span>\n  </p>\n  <p id=\"p713\" paragraph-id=\"713\" class=\" G\">\n    <span class=\"sharh\">\n      <span style=\"0\" class=\"ayah\" surah=\"16\" ayah=\"15\">فِي اَلْأَرْضِ رَوٰاسِيَ أَنْ تَمِيدَ بِكُمْ وَ أَنْهٰاراً وَ سُبُلاً لَعَلَّكُمْ تَهْتَدُونَ‌).<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/16/15\"></a></span></span>\n    </span>\n  </p>\n  <p id=\"p714\" paragraph-id=\"714\" class=\" G\">\n    <span class=\"sharh\">و قد دلت هاتان الآيتان و غيرهما من الآيات الكثيرة في القرآن على ان للجبال منافع كثيرة.</span>\n  </p>\n  <p id=\"p715\" paragraph-id=\"715\" class=\" G\">\n    <span class=\"sharh\">(منها) انها رواسى تثقل الارض فتحفظها من الاضطراب و الانشقاق الحادث من الزلازل.</span>\n  </p>\n  <p id=\"p716\" paragraph-id=\"716\" class=\" G\">\n    <span class=\"sharh\">و (و منها) انه بواسطتها تكون المياه النازلة منها الى السفوح سببا لحصول الانهار و طرقها التي تجري فيها المياه على وجه الارض.</span>\n  </p>\n  <p id=\"p717\" paragraph-id=\"717\" class=\" G\">\n    <span class=\"sharh\">(و منها) ما ذكرها الامام عليه السلام ان الثلوج تسقط على قللها و تبقى محفوظة لوقت الحاجة و بذوب ما ذاب منها فتجرى منه العيون الغزيرة التى تجتمع فتكون الانهار الصغار ثم العظام و ينبت فيها ضروب من العقاقير التى تنبت منها فى السهل، و بعبارة اوضح ان المطر اذا نزل فى الشتاء حفظت الجبال قسما كبيرا منه بصورة ثلج او برد على قممها و قللها الى فصل الصيف فاذا سخن الهواء ياخذ بالذوبان و يسيل بالتدريج بسبب حرارة الشمس فيسقى الارض الظامية و قد يتحلل بعض هذا الثلج او البرد فيغور فى شقوق الجبال و ثقابها ثم يخرج منها </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "8C29738C-8542-48F0-8CB2-5C75554A6F58",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

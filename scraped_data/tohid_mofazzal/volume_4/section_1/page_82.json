@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 82,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386078,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"391\"><page number=\"82\"/><format class=\"sharh\">و اما ما حصل فيهم بعد الاسلام فذلك شاهد آخر على تعجيل عقوبتهم فى الدنيا.</format></p>"
+        },
+        {
+          "paragraphId": 508386079,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"392\"><format class=\"sharh\">و اما امهال بعد الاشرار في عقوبتهم عند ما يوغلون فى المعاصى و كذلك تاخير ثواب بعض الاخيار فى الدنيا الى الاخرة و هم لا يفترون عن البر و الاحسان و الطاعة للّه.</format></p>"
+        },
+        {
+          "paragraphId": 508386080,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"393\"><format class=\"sharh\">فذلك لحكم و اسباب خفيت على العباد و لا بد ان تخفى بل لا بد ان نعتقد فيها إنها من التدبير و التقدير و ان ذلك لا يبطل التدبير و لا ينافى الحكمة ما دمنا نحن نعتقد ان الخالق مدبر حكيم و عالم قادر و غني عن خلقه لطيف بهم و ان له في خلقه شؤن.</format></p>"
+        },
+        {
+          "paragraphId": 508386081,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"394\"><page number=\"83\"/><heading level=\"3\">من تدبير الملوك تاجيل العقاب و الجزاء او تعجيلهما</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "82",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p391\" paragraph-id=\"391\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo82\">82</span>\n    <span class=\"sharh\">و اما ما حصل فيهم بعد الاسلام فذلك شاهد آخر على تعجيل عقوبتهم فى الدنيا.</span>\n  </p>\n  <p id=\"p392\" paragraph-id=\"392\" class=\" G\">\n    <span class=\"sharh\">و اما امهال بعد الاشرار في عقوبتهم عند ما يوغلون فى المعاصى و كذلك تاخير ثواب بعض الاخيار فى الدنيا الى الاخرة و هم لا يفترون عن البر و الاحسان و الطاعة للّه.</span>\n  </p>\n  <p id=\"p393\" paragraph-id=\"393\" class=\" G\">\n    <span class=\"sharh\">فذلك لحكم و اسباب خفيت على العباد و لا بد ان تخفى بل لا بد ان نعتقد فيها إنها من التدبير و التقدير و ان ذلك لا يبطل التدبير و لا ينافى الحكمة ما دمنا نحن نعتقد ان الخالق مدبر حكيم و عالم قادر و غني عن خلقه لطيف بهم و ان له في خلقه شؤن.</span>\n  </p>\n  <p id=\"p394\" paragraph-id=\"394\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "F21A77A0-0D02-46A3-ACE6-24D3BE6DF385",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

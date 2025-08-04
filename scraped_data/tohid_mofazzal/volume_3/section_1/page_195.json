@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 195,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644974,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"727\"><page number=\"195\"/><heading level=\"3\">المعادن</heading></p>"
+        },
+        {
+          "paragraphId": 631644975,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"728\"><format class=\"M\">قال عليه السلام: فكر يا مفضل في هذه المعادن و ما يخرج منها من الجواهر المختلفة مثل الجص و الكلس و الجبسين</format></p>"
+        },
+        {
+          "paragraphId": 631644976,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"729\"><format class=\"sharh\">خلق اللّه تعالى الانسان بعد خلق الارض و هيأ له فيها كل ما يحتاجه من نبات و حيوان على ظاهرها و من ذخائر و كنوز في باطنها فكما نرى ما على وجه الارض من ضروريات عيشه و راحته نجد فى جوفها اكثروا كثر و كلها خلقت لمصالح الانسان و مآربه و حاجياته.</format></p>"
+        },
+        {
+          "paragraphId": 631644977,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"730\"><format class=\"sharh\">و مما لا يخفى ان المواد الآولية التى يستمدها الانسان من الارض و يستعملها فى الصناعات هي فى الغالب من الصخور و المعادن.</format></p>"
+        },
+        {
+          "paragraphId": 631644978,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"731\"><format class=\"sharh\">فالمعدن يتكون من عنصر واحد او عدة عناصر كما ذكره علماء الفن و اما الصخر فيتكون عادة من مركبين معدنيين او اكثر او من خليط من العناصر بصورة لم يتحد بعضها مع بعض.</format></p>"
+        },
+        {
+          "paragraphId": 631644979,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"732\"><format class=\"sharh\">و المعدن الخام المستخرج من جوف الارض هو صخرة او معدن مؤلف من عدة عناصر او مركباتها بصورة يمكن استثماره صناعيا لاستخراج مادة معينة منه و قد قسموا المعادن الى قسمين فلزية و لا فلزية (شبيهة بالفلز).</format></p>"
+        },
+        {
+          "paragraphId": 631644980,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"733\"><format class=\"sharh\">فالفلز مثل الحديد و الزئبق و الذهب و الفضة و امثالها و شبه الفلز مثل الكلس </format><page number=\"196\"/><format class=\"M\">و الزرانيخ و المرتك و التوتيا و الزئبق و النحاس و الرصاص و الفضة و الذهب و الزبرجد و الياقوت و الزمرد</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "195",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p727\" paragraph-id=\"727\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo195\">195</span>\n    <strong style=\"0\" class=\"h-3 03\">المعادن</strong>\n  </p>\n  <p id=\"p728\" paragraph-id=\"728\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: فكر يا مفضل في هذه المعادن و ما يخرج منها من الجواهر المختلفة مثل الجص و الكلس و الجبسين</span>\n  </p>\n  <p id=\"p729\" paragraph-id=\"729\" class=\" G\">\n    <span class=\"sharh\">خلق اللّه تعالى الانسان بعد خلق الارض و هيأ له فيها كل ما يحتاجه من نبات و حيوان على ظاهرها و من ذخائر و كنوز في باطنها فكما نرى ما على وجه الارض من ضروريات عيشه و راحته نجد فى جوفها اكثروا كثر و كلها خلقت لمصالح الانسان و مآربه و حاجياته.</span>\n  </p>\n  <p id=\"p730\" paragraph-id=\"730\" class=\" G\">\n    <span class=\"sharh\">و مما لا يخفى ان المواد الآولية التى يستمدها الانسان من الارض و يستعملها فى الصناعات هي فى الغالب من الصخور و المعادن.</span>\n  </p>\n  <p id=\"p731\" paragraph-id=\"731\" class=\" G\">\n    <span class=\"sharh\">فالمعدن يتكون من عنصر واحد او عدة عناصر كما ذكره علماء الفن و اما الصخر فيتكون عادة من مركبين معدنيين او اكثر او من خليط من العناصر بصورة لم يتحد بعضها مع بعض.</span>\n  </p>\n  <p id=\"p732\" paragraph-id=\"732\" class=\" G\">\n    <span class=\"sharh\">و المعدن الخام المستخرج من جوف الارض هو صخرة او معدن مؤلف من عدة عناصر او مركباتها بصورة يمكن استثماره صناعيا لاستخراج مادة معينة منه و قد قسموا المعادن الى قسمين فلزية و لا فلزية (شبيهة بالفلز).</span>\n  </p>\n  <p id=\"p733\" paragraph-id=\"733\" class=\" G\">\n    <span class=\"sharh\">فالفلز مثل الحديد و الزئبق و الذهب و الفضة و امثالها و شبه الفلز مثل الكلس </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "4697EEAE-DD61-4FAE-B337-4B5AD87828DB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

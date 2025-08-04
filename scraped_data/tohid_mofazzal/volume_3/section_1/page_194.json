@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 194,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644971,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"724\"><format class=\"sharh\">(و منها) ان الجبال بشهوقها تمنع حركة الهواء الشديدة فى اغوار الارض </format><page number=\"194\"/><format class=\"sharh\">لكيلا تجفف ما دخل فيها من المياه و تحفظ البخار المتصاعد الى السماء من التبدد.</format></p>"
+        },
+        {
+          "paragraphId": 631644972,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"725\"><format class=\"sharh\">(و منها) انها تكون محلا للمعادن بانواعها من فلز و شبه فلز كما سنفصله لك فى الفصل الاتي.</format></p>"
+        },
+        {
+          "paragraphId": 631644973,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"726\"><format class=\"sharh\">هذه بعض منافع الجبال التى ندركها و قد ذكر الامام عليه السلام اكثرها للمفضل لتكون عبرة و عظة للمتفكرين و هناك لها منافع كثيرة اخرى لا يعلمها الا المقدر لها في سابق علمه جلت قدرته.</format></p>"
+        },
+        {
+          "paragraphId": 631644974,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"727\"><page number=\"195\"/><heading level=\"3\">المعادن</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "194",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p724\" paragraph-id=\"724\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo194\">194</span>\n    <span class=\"sharh\">لكيلا تجفف ما دخل فيها من المياه و تحفظ البخار المتصاعد الى السماء من التبدد.</span>\n  </p>\n  <p id=\"p725\" paragraph-id=\"725\" class=\" G\">\n    <span class=\"sharh\">(و منها) انها تكون محلا للمعادن بانواعها من فلز و شبه فلز كما سنفصله لك فى الفصل الاتي.</span>\n  </p>\n  <p id=\"p726\" paragraph-id=\"726\" class=\" G\">\n    <span class=\"sharh\">هذه بعض منافع الجبال التى ندركها و قد ذكر الامام عليه السلام اكثرها للمفضل لتكون عبرة و عظة للمتفكرين و هناك لها منافع كثيرة اخرى لا يعلمها الا المقدر لها في سابق علمه جلت قدرته.</span>\n  </p>\n  <p id=\"p727\" paragraph-id=\"727\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "816B31DC-40C3-495C-B085-330C35D84572",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 65,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385993,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"306\"><page number=\"65\"/><format class=\"M\">الدنيا كما قد يمل الحياة من طال عمره حتى يتمنى الموت و الراحة من الدنيا </format><format class=\"sharh\">و هذا النوع من الناس قليل نادر لان الدنيا.</format></p>"
+        },
+        {
+          "paragraphId": 508385994,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"307\"><format class=\"sharh\"><br/><poem>طبعت على كدر و نحن نريدها <gap/>صفوا من الاكدار و الاقذار </poem>نعم ان المؤمن باللّه و اليوم الآخر ليعتقد بان الحياة بعد الموت هى الحيوان و نعيمها افضل و ادوم من نعيم الدنيا لذلك فهو يرجو باعماله الصالحة و توجهه الى رحمة ربه و غفرانه ان يحصل على ذلك، فاذا طلب الموت فلا عن جزع لانه يرى نفسه ينتقل من العدم الى الوجود.</format></p>"
+        },
+        {
+          "paragraphId": 508385995,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"308\"><format class=\"sharh\">و لا كذلك الملحد المنكر للبعث و اليوم الاخر فانه انما يجزع من الموت لانه ينتقل من وجود الى عدم و تنقطع عنه بالموت كل لذاته و شهواته و هذا هو السبب في جزع المرء من الموت.</format></p>"
+        },
+        {
+          "paragraphId": 508385996,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"309\"><format class=\"sharh\">و الخلاصة ان الجزع من الموت يكون لاعتقاد الجازع بان ما قبله خير مما بعده اما الاسترسال اليه اى طلبه و الجزع من الدنيا فلاعتقاد الطالب بان ما بعد الموت خير مما قبله و على كل حال.</format></p>"
+        },
+        {
+          "paragraphId": 508385997,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"310\"><format class=\"sharh\"><format class=\"ayah\" surah=\"7\" ayah=\"34\" toAyah=\"\">(فَإِذٰا جٰاءَ أَجَلُهُمْ لاٰ يَسْتَأْخِرُونَ سٰاعَةً وَ لاٰ يَسْتَقْدِمُونَ‌)<format class=\"ayahWord\" fromWord=\"5\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"7\" ayah=\"34\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 508385998,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"311\"><page number=\"66\"/><heading level=\"3\">إنتقادان آخران</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "65",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p306\" paragraph-id=\"306\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo65\">65</span>\n    <span class=\"M\">الدنيا كما قد يمل الحياة من طال عمره حتى يتمنى الموت و الراحة من الدنيا </span>\n    <span class=\"sharh\">و هذا النوع من الناس قليل نادر لان الدنيا.</span>\n  </p>\n  <p id=\"p307\" paragraph-id=\"307\" class=\" G\">\n    <span class=\"sharh\">\n      <br />\n      <span class=\"pome\">\n        <span class=\"rightpome\">طبعت على كدر و نحن نريدها </span>\n        <span class=\"leftpome\">صفوا من الاكدار و الاقذار </span>\n        <br style=\"clear:both\" />\n      </span>نعم ان المؤمن باللّه و اليوم الآخر ليعتقد بان الحياة بعد الموت هى الحيوان و نعيمها افضل و ادوم من نعيم الدنيا لذلك فهو يرجو باعماله الصالحة و توجهه الى رحمة ربه و غفرانه ان يحصل على ذلك، فاذا طلب الموت فلا عن جزع لانه يرى نفسه ينتقل من العدم الى الوجود.</span>\n  </p>\n  <p id=\"p308\" paragraph-id=\"308\" class=\" G\">\n    <span class=\"sharh\">و لا كذلك الملحد المنكر للبعث و اليوم الاخر فانه انما يجزع من الموت لانه ينتقل من وجود الى عدم و تنقطع عنه بالموت كل لذاته و شهواته و هذا هو السبب في جزع المرء من الموت.</span>\n  </p>\n  <p id=\"p309\" paragraph-id=\"309\" class=\" G\">\n    <span class=\"sharh\">و الخلاصة ان الجزع من الموت يكون لاعتقاد الجازع بان ما قبله خير مما بعده اما الاسترسال اليه اى طلبه و الجزع من الدنيا فلاعتقاد الطالب بان ما بعد الموت خير مما قبله و على كل حال.</span>\n  </p>\n  <p id=\"p310\" paragraph-id=\"310\" class=\" G\">\n    <span class=\"sharh\">\n      <span style=\"0\" class=\"ayah\" surah=\"7\" ayah=\"34\">(فَإِذٰا جٰاءَ أَجَلُهُمْ لاٰ يَسْتَأْخِرُونَ سٰاعَةً وَ لاٰ يَسْتَقْدِمُونَ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/7/34\"></a></span></span>.</span>\n  </p>\n  <p id=\"p311\" paragraph-id=\"311\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "07654DDB-BE38-4572-9D0A-0663CF88A80E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

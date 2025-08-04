@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 81,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386071,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"384\"><page number=\"81\"/><format class=\"M\">نصر بالتيه و بلبيس بالقتل. و ان امهل بعض الاشرار بالعقوبة و اخر بعض الاخبار بالثواب الى الدار الاخرة لاسباب تخفى على العباد لم يكن هذا مما يبطل التدبير.</format></p>"
+        },
+        {
+          "paragraphId": 508386072,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"385\"><format class=\"sharh\">ثم ضمهم فيه و وكل بهم حرسا ثم نادى بالناس للغزو، فاخذ يغزو و يقتل و يأسر كل من صادفه فى طريقه و هو قاصد بيت المقدس.</format></p>"
+        },
+        {
+          "paragraphId": 508386073,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"386\"><format class=\"sharh\">و لما وصل بعد الفتك الذريع في طريقه هدم القدس و ساق نحوا من (70) الف يهودى اسارى، و يقال انه اخذ التوراة و اتلفه.</format></p>"
+        },
+        {
+          "paragraphId": 508386074,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"387\"><format class=\"sharh\">و هكذا صار يعبث في الارض قسادا حتى تفاقم طغيانه و عظم ضرره فعوجل بالعقوبة اذ تنحى عن جنده للصيد فتاه في الصحراء حيث لا يعلم مصيره اما بلبيس - فالظاهر انها مدينة او قرية فى شمال مصر على نهر (ابى منجا) فرع من النيل.</format></p>"
+        },
+        {
+          "paragraphId": 508386075,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"388\"><format class=\"sharh\">قال المتنبي:</format></p>"
+        },
+        {
+          "paragraphId": 508386076,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"389\"><format class=\"sharh\"><br/><poem>جزى عريا امست ببلبيس ربها <gap/>بمسعاتها تقرر بذاك عيونها </poem>و قد كانت ذات زهو و نعمة في الايام السالفة فطغى اهلها و تجبر ملكها فكان ذلك سبب غزو الغزاة لهم و القتل العام فبهم و قتل ملكهم لعتوة و عناده و في دائرة معارف البستاني: ان امورى الفرنجى ملك اورشليم اخذها ايضا في سنة 559 و قتل اهلها مقتلة عظيمة ثم ملكها الافرنج في سنة 564 و سبوا اهلها و قتلوا منهم جمهورا غفيرا الى غيرها مما وقع فيهم لطغيانهم.</format></p>"
+        },
+        {
+          "paragraphId": 508386077,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"390\"><format class=\"sharh\">و لذلك استشهد الامام عليه السلام بالقتل الذي وقع فيها عند ما تفاقم عنوهم و طغيانهم و ضررهم بالناس هذا قبل الاسلام.</format></p>"
+        },
+        {
+          "paragraphId": 508386078,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"391\"><page number=\"82\"/><format class=\"sharh\">و اما ما حصل فيهم بعد الاسلام فذلك شاهد آخر على تعجيل عقوبتهم فى الدنيا.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "81",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p384\" paragraph-id=\"384\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo81\">81</span>\n    <span class=\"M\">نصر بالتيه و بلبيس بالقتل. و ان امهل بعض الاشرار بالعقوبة و اخر بعض الاخبار بالثواب الى الدار الاخرة لاسباب تخفى على العباد لم يكن هذا مما يبطل التدبير.</span>\n  </p>\n  <p id=\"p385\" paragraph-id=\"385\" class=\" G\">\n    <span class=\"sharh\">ثم ضمهم فيه و وكل بهم حرسا ثم نادى بالناس للغزو، فاخذ يغزو و يقتل و يأسر كل من صادفه فى طريقه و هو قاصد بيت المقدس.</span>\n  </p>\n  <p id=\"p386\" paragraph-id=\"386\" class=\" G\">\n    <span class=\"sharh\">و لما وصل بعد الفتك الذريع في طريقه هدم القدس و ساق نحوا من (70) الف يهودى اسارى، و يقال انه اخذ التوراة و اتلفه.</span>\n  </p>\n  <p id=\"p387\" paragraph-id=\"387\" class=\" G\">\n    <span class=\"sharh\">و هكذا صار يعبث في الارض قسادا حتى تفاقم طغيانه و عظم ضرره فعوجل بالعقوبة اذ تنحى عن جنده للصيد فتاه في الصحراء حيث لا يعلم مصيره اما بلبيس - فالظاهر انها مدينة او قرية فى شمال مصر على نهر (ابى منجا) فرع من النيل.</span>\n  </p>\n  <p id=\"p388\" paragraph-id=\"388\" class=\" G\">\n    <span class=\"sharh\">قال المتنبي:</span>\n  </p>\n  <p id=\"p389\" paragraph-id=\"389\" class=\" G\">\n    <span class=\"sharh\">\n      <br />\n      <span class=\"pome\">\n        <span class=\"rightpome\">جزى عريا امست ببلبيس ربها </span>\n        <span class=\"leftpome\">بمسعاتها تقرر بذاك عيونها </span>\n        <br style=\"clear:both\" />\n      </span>و قد كانت ذات زهو و نعمة في الايام السالفة فطغى اهلها و تجبر ملكها فكان ذلك سبب غزو الغزاة لهم و القتل العام فبهم و قتل ملكهم لعتوة و عناده و في دائرة معارف البستاني: ان امورى الفرنجى ملك اورشليم اخذها ايضا في سنة 559 و قتل اهلها مقتلة عظيمة ثم ملكها الافرنج في سنة 564 و سبوا اهلها و قتلوا منهم جمهورا غفيرا الى غيرها مما وقع فيهم لطغيانهم.</span>\n  </p>\n  <p id=\"p390\" paragraph-id=\"390\" class=\" G\">\n    <span class=\"sharh\">و لذلك استشهد الامام عليه السلام بالقتل الذي وقع فيها عند ما تفاقم عنوهم و طغيانهم و ضررهم بالناس هذا قبل الاسلام.</span>\n  </p>\n  <p id=\"p391\" paragraph-id=\"391\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "D48A6D81-A692-4417-B03D-60CE90336458",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

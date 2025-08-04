@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 20,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385782,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"95\"><format class=\"sharh\">و من فوائد الصلاة على النبي (ص) ان دعاء العبد اذا اقترن بها حصل للعبد امران اولهما ان النبي و آله هم الوسائط بين اللّه و عباده في قضاء حوائجهم فلا بد اذن من التوسل بذكرهم و ثانيهما ان الصلاة و الدعاء يعرضان مجموعا على </format><page number=\"20\"/><format class=\"sharh\">اللّه تعالى و حيث ان الصلاة لا تحجب فالدعاء ايضا لا يحجب، و اللّه اكرم من ان يقبل الصلاة و لا يقبل الدعاء المقترن بها فلا بد ان يقبل كله و هو المطلوب.</format></p>"
+        },
+        {
+          "paragraphId": 508385783,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"96\"><format class=\"sharh\">اما البركات فهى جمع بركة و معناها الخير و القدسية و الطهر و الكرم و اتساع الرحمة و كثرة النعمة.</format></p>"
+        },
+        {
+          "paragraphId": 508385784,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"97\"><format class=\"sharh\">اما التبليغ فهو الايصال كقوله تعالى <format class=\"ayah\" surah=\"5\" ayah=\"67\" toAyah=\"\">(يٰا أَيُّهَا اَلرَّسُولُ بَلِّغْ‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"5\" ayah=\"67\" toAyah=\"\"/></format> اي اوصل الى الناس ما انزل اليك من ربك، و قد يراد منه الانتهاء الى اقصى الحقيقة كالبلوغ و منها اشتق لفظ البلاغة.</format></p>"
+        },
+        {
+          "paragraphId": 508385785,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"98\"><format class=\"sharh\">و الوحى هو الالهام و القذف فى القلوب <format class=\"ayah\" surah=\"16\" ayah=\"68\" toAyah=\"\">(وَ أَوْحىٰ رَبُّكَ إِلَى اَلنَّحْلِ‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"68\" toAyah=\"\"/></format> و قد يطلق على الوسوسة <format class=\"ayah\" surah=\"6\" ayah=\"121\" toAyah=\"\">(وَ إِنَّ اَلشَّيٰاطِينَ لَيُوحُونَ إِلىٰ أَوْلِيٰائِهِمْ‌)<format class=\"ayahWord\" fromWord=\"13\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"6\" ayah=\"121\" toAyah=\"\"/></format> اي يوسوسون، و فى القاموس: الوحى هو الاشارة و الرسالة و الالهام و الكلام الخفي، و قد غلب استعماله فيما يلقى على الانبياء من اللّه.</format></p>"
+        },
+        {
+          "paragraphId": 508385786,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"99\"><format class=\"sharh\">و قيل الالهام ما يلقى في القلب بطريق الفيض، فما كان من عمل الخير فهو الهام و ما كان من عمل الشر فهو وسوسه و من الخوف ايحاش، و من تقدير نيل الخير فاعل، و مما لا هو للانسان و لا عليه فخاطر و الفرق بين الوحى و الالهام هو ان الالهام ما يحصل من الحق بلا واسطة ملك و الوحى يكون بواسطة ملك و الالهام من خواص الولاية و الوحى من خواص الرسالة، و الوحى مشروط بالتبليغ و لا كذلك الالهام.</format></p>"
+        },
+        {
+          "paragraphId": 508385787,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"100\"><format class=\"sharh\">اما البشير فهو المبالغ بالبشارة التي هي الاخبار بما يسر و يفرح المخبر به.</format></p>"
+        },
+        {
+          "paragraphId": 508385788,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"101\"><format class=\"sharh\">و النذير هو المحذر و المخوف من عواقب المخالفة و العصيان لا سيما من اللّه تعالى لان الانذار هو الابلاغ و لا يكون الابلاغ الا في التخويف (و انذرهم </format><page number=\"21\"/><format class=\"sharh\">يوم الآزفة).</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "20",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p95\" paragraph-id=\"95\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo20\">20</span>\n    <span class=\"sharh\">اللّه تعالى و حيث ان الصلاة لا تحجب فالدعاء ايضا لا يحجب، و اللّه اكرم من ان يقبل الصلاة و لا يقبل الدعاء المقترن بها فلا بد ان يقبل كله و هو المطلوب.</span>\n  </p>\n  <p id=\"p96\" paragraph-id=\"96\" class=\" G\">\n    <span class=\"sharh\">اما البركات فهى جمع بركة و معناها الخير و القدسية و الطهر و الكرم و اتساع الرحمة و كثرة النعمة.</span>\n  </p>\n  <p id=\"p97\" paragraph-id=\"97\" class=\" G\">\n    <span class=\"sharh\">اما التبليغ فهو الايصال كقوله تعالى <span style=\"0\" class=\"ayah\" surah=\"5\" ayah=\"67\">(يٰا أَيُّهَا اَلرَّسُولُ بَلِّغْ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/5/67\"></a></span></span> اي اوصل الى الناس ما انزل اليك من ربك، و قد يراد منه الانتهاء الى اقصى الحقيقة كالبلوغ و منها اشتق لفظ البلاغة.</span>\n  </p>\n  <p id=\"p98\" paragraph-id=\"98\" class=\" G\">\n    <span class=\"sharh\">و الوحى هو الالهام و القذف فى القلوب <span style=\"0\" class=\"ayah\" surah=\"16\" ayah=\"68\">(وَ أَوْحىٰ رَبُّكَ إِلَى اَلنَّحْلِ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/16/68\"></a></span></span> و قد يطلق على الوسوسة <span style=\"0\" class=\"ayah\" surah=\"6\" ayah=\"121\">(وَ إِنَّ اَلشَّيٰاطِينَ لَيُوحُونَ إِلىٰ أَوْلِيٰائِهِمْ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/6/121\"></a></span></span> اي يوسوسون، و فى القاموس: الوحى هو الاشارة و الرسالة و الالهام و الكلام الخفي، و قد غلب استعماله فيما يلقى على الانبياء من اللّه.</span>\n  </p>\n  <p id=\"p99\" paragraph-id=\"99\" class=\" G\">\n    <span class=\"sharh\">و قيل الالهام ما يلقى في القلب بطريق الفيض، فما كان من عمل الخير فهو الهام و ما كان من عمل الشر فهو وسوسه و من الخوف ايحاش، و من تقدير نيل الخير فاعل، و مما لا هو للانسان و لا عليه فخاطر و الفرق بين الوحى و الالهام هو ان الالهام ما يحصل من الحق بلا واسطة ملك و الوحى يكون بواسطة ملك و الالهام من خواص الولاية و الوحى من خواص الرسالة، و الوحى مشروط بالتبليغ و لا كذلك الالهام.</span>\n  </p>\n  <p id=\"p100\" paragraph-id=\"100\" class=\" G\">\n    <span class=\"sharh\">اما البشير فهو المبالغ بالبشارة التي هي الاخبار بما يسر و يفرح المخبر به.</span>\n  </p>\n  <p id=\"p101\" paragraph-id=\"101\" class=\" G\">\n    <span class=\"sharh\">و النذير هو المحذر و المخوف من عواقب المخالفة و العصيان لا سيما من اللّه تعالى لان الانذار هو الابلاغ و لا يكون الابلاغ الا في التخويف (و انذرهم </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "CDF7453B-C58E-492E-B1B6-0085E0D1A08A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

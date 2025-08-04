@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 85,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644485,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"309\"><page number=\"85\"/><heading level=\"3\">إنارة القمر</heading></p>"
+        },
+        {
+          "paragraphId": 631644486,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"310\"><format class=\"M\">قال عليه السلام: فكر في انارته فى ظلمة الليل و الارب في ذلك فانه مع الحاجة الى الظلمه لهدو الحيوان و برد الهواء على النبات لم يكن صلاح في ان يكون لليل ظلمة داجية لا ضياء فيها</format></p>"
+        },
+        {
+          "paragraphId": 631644487,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"311\"><format class=\"sharh\">القمر جرم مظلم غير منير لذاته و ما نشاهده من نوره ليس الا نتيجة انعكاس الاشعة الشمسية المتساقطة عليه بالمقابلة. اما شكله و وضعه في خلال الليالى المتعاقبة في الشهر القمري فانا نراه يتبدل في كل ليلة عن سابقتها فيبدو هلالا الى بدر الى محاق و هذه الاختلافات فى مظاهر القمر تدعى (اوجه القمر). </format></p>"
+        },
+        {
+          "paragraphId": 631644488,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"312\"><format class=\"sharh\"><format class=\"ayah\" surah=\"36\" ayah=\"39\" toAyah=\"\">(وَ اَلْقَمَرَ قَدَّرْنٰاهُ مَنٰازِلَ حَتّٰى عٰادَ كَالْعُرْجُونِ اَلْقَدِيمِ‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"8\"/><format class=\"ayahAddress\" surah=\"36\" ayah=\"39\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 631644489,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"313\"><format class=\"sharh\">اما سبب التغيير هذا فى وضعه و شكله فهو ان الجزء المضىء من جرمه الكروي دائما يكون متجها نحو الشمس، و حيث انه يدور هو حول الارض كان مقدار ما نراه من جزئه المضىء يختلف علينا بالنسبة لمواقعه من مداره حولها بمعنى انه اذا كان بين الشمس و الارض تماما فانا لا نرى من هذا الجزء المضىء شيئا و هو (المحاق) ثم ياخذ هذا المضىء بالظهور فى اليوم الثاني بعد المحاق فنراه هلالا دقيقا جدا و يكبر تدريجيا يوما بعد يوم حتى يصبح شكله نصف دائري بعد </format><page number=\"86\"/><format class=\"M\">فلا يمكن فيه شىء من العمل، لانه ربما احتاج الناس الى العمل بالليل لضيق الوقت عليهم في بعض الاعمال في النهار و لشدة الحر و افراطه فيعمل فى ضوء القمر اعمالا شتى كحرث الارض</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "85",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p309\" paragraph-id=\"309\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo85\">85</span>\n    <strong style=\"0\" class=\"h-3 03\">إنارة القمر</strong>\n  </p>\n  <p id=\"p310\" paragraph-id=\"310\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: فكر في انارته فى ظلمة الليل و الارب في ذلك فانه مع الحاجة الى الظلمه لهدو الحيوان و برد الهواء على النبات لم يكن صلاح في ان يكون لليل ظلمة داجية لا ضياء فيها</span>\n  </p>\n  <p id=\"p311\" paragraph-id=\"311\" class=\" G\">\n    <span class=\"sharh\">القمر جرم مظلم غير منير لذاته و ما نشاهده من نوره ليس الا نتيجة انعكاس الاشعة الشمسية المتساقطة عليه بالمقابلة. اما شكله و وضعه في خلال الليالى المتعاقبة في الشهر القمري فانا نراه يتبدل في كل ليلة عن سابقتها فيبدو هلالا الى بدر الى محاق و هذه الاختلافات فى مظاهر القمر تدعى (اوجه القمر). </span>\n  </p>\n  <p id=\"p312\" paragraph-id=\"312\" class=\" G\">\n    <span class=\"sharh\">\n      <span style=\"0\" class=\"ayah\" surah=\"36\" ayah=\"39\">(وَ اَلْقَمَرَ قَدَّرْنٰاهُ مَنٰازِلَ حَتّٰى عٰادَ كَالْعُرْجُونِ اَلْقَدِيمِ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/36/39\"></a></span></span>.</span>\n  </p>\n  <p id=\"p313\" paragraph-id=\"313\" class=\" G\">\n    <span class=\"sharh\">اما سبب التغيير هذا فى وضعه و شكله فهو ان الجزء المضىء من جرمه الكروي دائما يكون متجها نحو الشمس، و حيث انه يدور هو حول الارض كان مقدار ما نراه من جزئه المضىء يختلف علينا بالنسبة لمواقعه من مداره حولها بمعنى انه اذا كان بين الشمس و الارض تماما فانا لا نرى من هذا الجزء المضىء شيئا و هو (المحاق) ثم ياخذ هذا المضىء بالظهور فى اليوم الثاني بعد المحاق فنراه هلالا دقيقا جدا و يكبر تدريجيا يوما بعد يوم حتى يصبح شكله نصف دائري بعد </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "54CB428F-3C61-453A-8725-65FCDE07220F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

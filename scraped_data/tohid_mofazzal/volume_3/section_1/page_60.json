@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 60,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644819,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"225\"><page number=\"60\"/><format class=\"M\">ذكره و الزيادة في شرحه</format></p>"
+        },
+        {
+          "paragraphId": 631644820,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"226\"><format class=\"sharh\">نعم يجب علينا بعد ادراكها ان نفكر فيها متأملين و نعى ما فيها من الحكمة و العظمة معتبرين و نعتقد فى خالقها القصد و الارادة و التقدير فى خلقها صاغرين.</format></p>"
+        },
+        {
+          "paragraphId": 631644821,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"227\"><format class=\"sharh\">فسبحان اللّه رب العالمين.</format></p>"
+        },
+        {
+          "paragraphId": 631644822,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"228\"><page number=\"61\"/><heading level=\"3\">منافع غروب الشمس</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "60",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p225\" paragraph-id=\"225\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo60\">60</span>\n    <span class=\"M\">ذكره و الزيادة في شرحه</span>\n  </p>\n  <p id=\"p226\" paragraph-id=\"226\" class=\" G\">\n    <span class=\"sharh\">نعم يجب علينا بعد ادراكها ان نفكر فيها متأملين و نعى ما فيها من الحكمة و العظمة معتبرين و نعتقد فى خالقها القصد و الارادة و التقدير فى خلقها صاغرين.</span>\n  </p>\n  <p id=\"p227\" paragraph-id=\"227\" class=\" G\">\n    <span class=\"sharh\">فسبحان اللّه رب العالمين.</span>\n  </p>\n  <p id=\"p228\" paragraph-id=\"228\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "3F0B3DE9-D523-4DE6-BED2-CC50C0E8C4AF",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

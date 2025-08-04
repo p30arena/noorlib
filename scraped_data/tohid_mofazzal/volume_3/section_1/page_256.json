@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 256,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645425,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"991\"><page number=\"256\"/><heading level=\"3\">البردى</heading></p>"
+        },
+        {
+          "paragraphId": 631645426,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"992\"><format class=\"M\">قال عليه السلام: الست تعلم ان من اخس النبات و احقره هذا البردى و ما اشبهه، ففيه مع هذا من ضروب المنافع.</format></p>"
+        },
+        {
+          "paragraphId": 631645427,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"993\"><format class=\"M\">فقد يتخذ من البردى القراطيس التى يحتاج اليها الملوك و السوقة </format><format class=\"sharh\">البردى و يسمى (الحلفا) و (البابير) نبات كالقصب ينبت في المستنقمات و المياه الراكدة و شواطى الانهر و البحيرات.</format></p>"
+        },
+        {
+          "paragraphId": 631645428,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"994\"><format class=\"sharh\">و هو من فصيلة السعدية، يطول ساقه فوق الذراع و هو رهيف هش و زهره ابيض و بذره هش مر صغير دون حبة الحلبة، و له سنابل مضاعفة الازهار مركبة من فلوس متراكمة مصفوفة صفين، و في اصول سيقانه زغب ناعم كالقطن ذو حلاوة قد يصنع منه اقراص تباع و تؤكل.</format></p>"
+        },
+        {
+          "paragraphId": 631645429,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"995\"><format class=\"sharh\">و هو مع حقارته و خسته بالنسبة لساير النباتات فان له من المنافع العظيمة ما لا يخطر ببال.</format></p>"
+        },
+        {
+          "paragraphId": 631645430,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"996\"><format class=\"sharh\">منها ان المصريين القدماء كانوا يستعملون قشرة للكتابة، ثم اخذت الناس تصنع من لب ساقه الابيض الناعم اوراقا و قراطيس تحتاجها الملوك و السوقة للكتابة و بقيت الناس مدة غير قصيرة مكتفية به في لوازمها الكتابية بل و حتى اليوم لم تتركه على انه اكتشف القطن و الكتان فكانا من احسن ما يصنع منهما </format><page number=\"257\"/><format class=\"M\">و الحصر التى يستعملها كل صنف من الناس، و يعمل منه الغلف التى توقى بها الاوانى، يجمل حشوا بين الظروف في الاسقاط لكيلا تصاب و تنكسر. و اشباه هذا من المنافع فاعتبر بما ترى من ضروب المآرب </format><format class=\"sharh\">القراطيس بانواعها.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "256",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p991\" paragraph-id=\"991\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo256\">256</span>\n    <strong style=\"0\" class=\"h-3 03\">البردى</strong>\n  </p>\n  <p id=\"p992\" paragraph-id=\"992\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: الست تعلم ان من اخس النبات و احقره هذا البردى و ما اشبهه، ففيه مع هذا من ضروب المنافع.</span>\n  </p>\n  <p id=\"p993\" paragraph-id=\"993\" class=\" G\">\n    <span class=\"M\">فقد يتخذ من البردى القراطيس التى يحتاج اليها الملوك و السوقة </span>\n    <span class=\"sharh\">البردى و يسمى (الحلفا) و (البابير) نبات كالقصب ينبت في المستنقمات و المياه الراكدة و شواطى الانهر و البحيرات.</span>\n  </p>\n  <p id=\"p994\" paragraph-id=\"994\" class=\" G\">\n    <span class=\"sharh\">و هو من فصيلة السعدية، يطول ساقه فوق الذراع و هو رهيف هش و زهره ابيض و بذره هش مر صغير دون حبة الحلبة، و له سنابل مضاعفة الازهار مركبة من فلوس متراكمة مصفوفة صفين، و في اصول سيقانه زغب ناعم كالقطن ذو حلاوة قد يصنع منه اقراص تباع و تؤكل.</span>\n  </p>\n  <p id=\"p995\" paragraph-id=\"995\" class=\" G\">\n    <span class=\"sharh\">و هو مع حقارته و خسته بالنسبة لساير النباتات فان له من المنافع العظيمة ما لا يخطر ببال.</span>\n  </p>\n  <p id=\"p996\" paragraph-id=\"996\" class=\" G\">\n    <span class=\"sharh\">منها ان المصريين القدماء كانوا يستعملون قشرة للكتابة، ثم اخذت الناس تصنع من لب ساقه الابيض الناعم اوراقا و قراطيس تحتاجها الملوك و السوقة للكتابة و بقيت الناس مدة غير قصيرة مكتفية به في لوازمها الكتابية بل و حتى اليوم لم تتركه على انه اكتشف القطن و الكتان فكانا من احسن ما يصنع منهما </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "CEED7F24-3C59-4414-ADA1-472847EF1707",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

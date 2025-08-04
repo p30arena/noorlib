@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 155,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645101,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"568\"><page number=\"155\"/><format class=\"M\">للعامة و الخاصة.</format></p>"
+        },
+        {
+          "paragraphId": 631645102,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"569\"><format class=\"sharh\">و ربما يعجل بهذا العوض في الدنيا لامرين فاما ان المبتلى لم يكن من الصلحاء ليعوض في الأخرة و اللّه تعالى لا يضيع عمل عامل فهو يعطيه اجره في الدنيا من مال و راحة و سعادة.</format></p>"
+        },
+        {
+          "paragraphId": 631645103,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"570\"><format class=\"sharh\">و اما يكون في تعجيله صلاحا للعامة او الخاصة كما انه تعالى اذا ابتلى الكافر و المشرك ببلاء و اعطاه المال و الاولاد و الراحة عوضا عن البلاء في الدنيا فذلك صلاح له خاصة بتحصيله على السعادة و الراحة و صلاح لعامة الناس بتشغيله هو للايدي العاملة في التجارة مثلا او البناء او الصناعة او غيرها.</format></p>"
+        },
+        {
+          "paragraphId": 631645104,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"571\"><format class=\"sharh\">و ربما عمل اعمالا نافعة للعموم كبناء مصانع او معامل لنفعه الخاص و لكنها تنفع العامة ايضا بالاشتغال و العمل و امثال ذلك.</format></p>"
+        },
+        {
+          "paragraphId": 631645105,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"572\"><page number=\"156\"/><heading level=\"3\">الأرض باردة يابسة</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "155",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p568\" paragraph-id=\"568\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo155\">155</span>\n    <span class=\"M\">للعامة و الخاصة.</span>\n  </p>\n  <p id=\"p569\" paragraph-id=\"569\" class=\" G\">\n    <span class=\"sharh\">و ربما يعجل بهذا العوض في الدنيا لامرين فاما ان المبتلى لم يكن من الصلحاء ليعوض في الأخرة و اللّه تعالى لا يضيع عمل عامل فهو يعطيه اجره في الدنيا من مال و راحة و سعادة.</span>\n  </p>\n  <p id=\"p570\" paragraph-id=\"570\" class=\" G\">\n    <span class=\"sharh\">و اما يكون في تعجيله صلاحا للعامة او الخاصة كما انه تعالى اذا ابتلى الكافر و المشرك ببلاء و اعطاه المال و الاولاد و الراحة عوضا عن البلاء في الدنيا فذلك صلاح له خاصة بتحصيله على السعادة و الراحة و صلاح لعامة الناس بتشغيله هو للايدي العاملة في التجارة مثلا او البناء او الصناعة او غيرها.</span>\n  </p>\n  <p id=\"p571\" paragraph-id=\"571\" class=\" G\">\n    <span class=\"sharh\">و ربما عمل اعمالا نافعة للعموم كبناء مصانع او معامل لنفعه الخاص و لكنها تنفع العامة ايضا بالاشتغال و العمل و امثال ذلك.</span>\n  </p>\n  <p id=\"p572\" paragraph-id=\"572\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "6A353E29-BEC6-4367-9718-C0B96A9E0788",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 219,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645269,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"835\"><format class=\"sharh\">هذا ما ادركناه فى الغلات و مثلها ما يحدث للشجر و النبت و النخل و امثالها فانها كلها تريع الريع الكثير الوافر لهذه الغاية كما انه لهذا الغرض ايضا تجد الاصل الواحد من الشجر و النخل واقفا و حوله من فراخه العدد الكثير و الشىء العظيم و ذلك ليكون بعده خلفا له فلا ينقطع نسله و لا ينعدم اصله، و الناس محتاجون الى اخشاب الاشجار و احطابها و جذوع النخيل و سعفها و ليفها و كربها فى اكثر مآربهم علاوة علي ما يحتاجونه للغرس في الارض مرة اخرى، فاذا كان وحده لا فروع له و لا فراخ و لا ريع كيف كان يمكن للانسان ان يأخذ منها لقضاء </format><page number=\"219\"/><format class=\"M\">منه شىء لعمل و لا لغرس ثم كان ان اصابته آفة انقطع اصله فلم يكن منه خلف.</format></p>"
+        },
+        {
+          "paragraphId": 631645270,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"836\"><format class=\"sharh\">لوازمه، و بهذا سينعدم من الوجود و بانعدامه يتعطل كثير من الاعمال و تشل كثير من الحركات كما في الشجر فان الناس اذا اعرضوا عن اخذ شىء منها باعتبار انهم يحتفظون بوجودها فلا تنعدم.</format></p>"
+        },
+        {
+          "paragraphId": 631645271,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"837\"><format class=\"sharh\">فهل هذا يمنع نزول آفة سماوية او ارضية عليها فتعدمها و لم يبق لها خلف، لهذا و اشباهه كثرت فروع الشجر و النخل و افراخها و ازداد ريعهما و نتاجهما بتدبير مدير حكيم قبل ان يكون الزرع ذا ريع و قبل ان يحصل للشجر و النبت فروع او افراخ.</format></p>"
+        },
+        {
+          "paragraphId": 631645272,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"838\"><format class=\"sharh\">كل ذلك لقضاء حاجيات الانسان و مصالحه فسبحان المنعم الحكيم.</format></p>"
+        },
+        {
+          "paragraphId": 631645273,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"839\"><page number=\"220\"/><heading level=\"3\">حبوب الماش و العدس و أمثالهما</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "219",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p835\" paragraph-id=\"835\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo219\">219</span>\n    <span class=\"M\">منه شىء لعمل و لا لغرس ثم كان ان اصابته آفة انقطع اصله فلم يكن منه خلف.</span>\n  </p>\n  <p id=\"p836\" paragraph-id=\"836\" class=\" G\">\n    <span class=\"sharh\">لوازمه، و بهذا سينعدم من الوجود و بانعدامه يتعطل كثير من الاعمال و تشل كثير من الحركات كما في الشجر فان الناس اذا اعرضوا عن اخذ شىء منها باعتبار انهم يحتفظون بوجودها فلا تنعدم.</span>\n  </p>\n  <p id=\"p837\" paragraph-id=\"837\" class=\" G\">\n    <span class=\"sharh\">فهل هذا يمنع نزول آفة سماوية او ارضية عليها فتعدمها و لم يبق لها خلف، لهذا و اشباهه كثرت فروع الشجر و النخل و افراخها و ازداد ريعهما و نتاجهما بتدبير مدير حكيم قبل ان يكون الزرع ذا ريع و قبل ان يحصل للشجر و النبت فروع او افراخ.</span>\n  </p>\n  <p id=\"p838\" paragraph-id=\"838\" class=\" G\">\n    <span class=\"sharh\">كل ذلك لقضاء حاجيات الانسان و مصالحه فسبحان المنعم الحكيم.</span>\n  </p>\n  <p id=\"p839\" paragraph-id=\"839\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "759868D8-2522-4559-9B9D-1496D7EB06F5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

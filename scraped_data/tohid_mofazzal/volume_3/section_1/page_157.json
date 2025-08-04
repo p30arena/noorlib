@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 157,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645108,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"575\"><format class=\"sharh\">اما الارض فانما خلقت ليعيش عليها الحيوان بما فيه الانسان و حيث ان الحيوان لا حياة له الا بالنبات، و النبات لا ينبت فى الحجر الصلد و لا الحجارة </format><page number=\"157\"/><format class=\"M\">و كان يمكن بها حرث او بناء، افلا ترى كيف نقصت من يبس الحجارة و جعلت على ما هى عليه من اللين و الرخاوة لتتهيأ للاعتماد.</format></p>"
+        },
+        {
+          "paragraphId": 631645109,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"576\"><format class=\"sharh\">و اذا لم ينبت نبات مات الحيوان، و هذا مما ينافي حكمة الخلقة لذلك كانت الارض على ما هي عليه الان من اللين و الرخاوة المعتدلة الممتزجتين بصلابة قليلة تمسك اجزاءها لتكون مهيأة للاعتماد عليها فى الحرث و حفظ البذور و انبات الزرع و كل ما يلزم لنمائه و اثماره، و معلوم ان النبات هو القوام لحياة كل حى عليها.</format></p>"
+        },
+        {
+          "paragraphId": 631645110,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"577\"><format class=\"sharh\">و كيف لا تكون كذلك و هى موطن الانسان و ينبوع معاشه و ميدان اعماله و مأوى حركاته و سكناته و اخيرا مثواه الاخير بعد مماته.</format></p>"
+        },
+        {
+          "paragraphId": 631645111,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"578\"><format class=\"sharh\">فسبحان المبدع الحكيم.</format></p>"
+        },
+        {
+          "paragraphId": 631645112,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"579\"><page number=\"158\"/><heading level=\"3\">توزيع المياه بالعدل على سطح الأرض</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "157",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p575\" paragraph-id=\"575\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo157\">157</span>\n    <span class=\"M\">و كان يمكن بها حرث او بناء، افلا ترى كيف نقصت من يبس الحجارة و جعلت على ما هى عليه من اللين و الرخاوة لتتهيأ للاعتماد.</span>\n  </p>\n  <p id=\"p576\" paragraph-id=\"576\" class=\" G\">\n    <span class=\"sharh\">و اذا لم ينبت نبات مات الحيوان، و هذا مما ينافي حكمة الخلقة لذلك كانت الارض على ما هي عليه الان من اللين و الرخاوة المعتدلة الممتزجتين بصلابة قليلة تمسك اجزاءها لتكون مهيأة للاعتماد عليها فى الحرث و حفظ البذور و انبات الزرع و كل ما يلزم لنمائه و اثماره، و معلوم ان النبات هو القوام لحياة كل حى عليها.</span>\n  </p>\n  <p id=\"p577\" paragraph-id=\"577\" class=\" G\">\n    <span class=\"sharh\">و كيف لا تكون كذلك و هى موطن الانسان و ينبوع معاشه و ميدان اعماله و مأوى حركاته و سكناته و اخيرا مثواه الاخير بعد مماته.</span>\n  </p>\n  <p id=\"p578\" paragraph-id=\"578\" class=\" G\">\n    <span class=\"sharh\">فسبحان المبدع الحكيم.</span>\n  </p>\n  <p id=\"p579\" paragraph-id=\"579\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "821C5A42-CA83-4C7B-9CEE-25BFDFE665AB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

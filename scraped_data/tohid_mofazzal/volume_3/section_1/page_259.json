@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 259,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645442,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1008\"><page number=\"259\"/><heading level=\"3\">الزبل و العذرة</heading></p>"
+        },
+        {
+          "paragraphId": 631645443,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1009\"><format class=\"M\">قال عليه السلام: و اخس من هذا و احقره الزبل و العذرة التى اجتمعت فيها الخساسة و النجاسة معا و موقعها من الزروع و البقول و الخضر اجمع الموقع الذى لا يعدله شىء حتى ان كل شىء من الخضر لا يصلح و لا يزكو الا بالزبل و السماد الذى يستقذره الناس و يكرهون الدنو منه.</format></p>"
+        },
+        {
+          "paragraphId": 631645444,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1010\"><format class=\"sharh\">الزبل هو الروث من الحيوانات و قد يشمل ما يخرج من الكنيف.</format></p>"
+        },
+        {
+          "paragraphId": 631645445,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1011\"><format class=\"sharh\">اما الممزوج مع بعض المواد الحيوانية و الركام فهو المسمى (سرقين) او (سرجين) و هي كلمة فارسية معربة و يعرف باسم (سبلة).</format></p>"
+        },
+        {
+          "paragraphId": 631645446,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1012\"><format class=\"sharh\">و المقصود من الركام هو ما تحلل من المواد النباتية على سطح الارض حتى صار اسمر يميل الى السواد.</format></p>"
+        },
+        {
+          "paragraphId": 631645447,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1013\"><format class=\"sharh\">و هذا الزبل يكون مطقا مزيجا من الصفراء و المفرزات المعدية و المعوية و كثير من الماء مع ما لم يهضم من الاغذية الآلية.</format></p>"
+        },
+        {
+          "paragraphId": 631645448,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1014\"><format class=\"sharh\">و تختلف مقادير تركيبه منها باختلاف نوع الحيوان و ما يتغذى به. و ان من اهم المواد العنصرية الموجودة فيه هو الآزوت و حمض الفسفوريك.</format></p>"
+        },
+        {
+          "paragraphId": 631645449,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1015\"><format class=\"sharh\">و ان احسن طرق احضار هذا السرقين او السبلة هو ان يبسط في الاصطبل و مرابط الحيوانات البيتية فان له تأثيرا عظيما على جودته و المعروف خلطه مع التبن </format><page number=\"260\"/><format class=\"sharh\">و ان احسن تبن يستعمل هو تبن الحبوب و اجوده تبن الحنطة لان آزوته و املاحه اكثر من غيره.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "259",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1008\" paragraph-id=\"1008\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo259\">259</span>\n    <strong style=\"0\" class=\"h-3 03\">الزبل و العذرة</strong>\n  </p>\n  <p id=\"p1009\" paragraph-id=\"1009\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: و اخس من هذا و احقره الزبل و العذرة التى اجتمعت فيها الخساسة و النجاسة معا و موقعها من الزروع و البقول و الخضر اجمع الموقع الذى لا يعدله شىء حتى ان كل شىء من الخضر لا يصلح و لا يزكو الا بالزبل و السماد الذى يستقذره الناس و يكرهون الدنو منه.</span>\n  </p>\n  <p id=\"p1010\" paragraph-id=\"1010\" class=\" G\">\n    <span class=\"sharh\">الزبل هو الروث من الحيوانات و قد يشمل ما يخرج من الكنيف.</span>\n  </p>\n  <p id=\"p1011\" paragraph-id=\"1011\" class=\" G\">\n    <span class=\"sharh\">اما الممزوج مع بعض المواد الحيوانية و الركام فهو المسمى (سرقين) او (سرجين) و هي كلمة فارسية معربة و يعرف باسم (سبلة).</span>\n  </p>\n  <p id=\"p1012\" paragraph-id=\"1012\" class=\" G\">\n    <span class=\"sharh\">و المقصود من الركام هو ما تحلل من المواد النباتية على سطح الارض حتى صار اسمر يميل الى السواد.</span>\n  </p>\n  <p id=\"p1013\" paragraph-id=\"1013\" class=\" G\">\n    <span class=\"sharh\">و هذا الزبل يكون مطقا مزيجا من الصفراء و المفرزات المعدية و المعوية و كثير من الماء مع ما لم يهضم من الاغذية الآلية.</span>\n  </p>\n  <p id=\"p1014\" paragraph-id=\"1014\" class=\" G\">\n    <span class=\"sharh\">و تختلف مقادير تركيبه منها باختلاف نوع الحيوان و ما يتغذى به. و ان من اهم المواد العنصرية الموجودة فيه هو الآزوت و حمض الفسفوريك.</span>\n  </p>\n  <p id=\"p1015\" paragraph-id=\"1015\" class=\" G\">\n    <span class=\"sharh\">و ان احسن طرق احضار هذا السرقين او السبلة هو ان يبسط في الاصطبل و مرابط الحيوانات البيتية فان له تأثيرا عظيما على جودته و المعروف خلطه مع التبن </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "45597861-220F-4A7A-BFCD-7990E1F975BC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

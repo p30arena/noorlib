@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 66,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644841,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"247\"><format class=\"sharh\">فانظر و فكر و انصف دون ان تجنح الى العناد و المكابرة لترى ان هذه </format><page number=\"66\"/><format class=\"M\">منقادين متظاهرين على ما فيه صلاح العالم و قوامه.</format></p>"
+        },
+        {
+          "paragraphId": 631644842,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"248\"><format class=\"sharh\">الموافقة بين الظلمة و النور و هذا النظام المتقن في سير الشمس حسبما تتطلبه الحياة في هذا الكون و قد خلق قبل ان يبدأ بالحياة و ابدع فيه صانعه علما بما سيخلق و اقتضت حكمته ان يكون كذلك فكان كذلك فاذا ادركت بعض ذلك فهل تتصور انه يحصل بمجرد المصادفة لا ارادة فيه و لا تدبير و لا تقدير و لا قصد و لا غاية، سبحانك اجرنا من هذا الجهل و العناد و الالحاد المقيت.</format></p>"
+        },
+        {
+          "paragraphId": 631644843,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"249\"><page number=\"67\"/><heading level=\"3\">الفصول الاربعة</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "66",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p247\" paragraph-id=\"247\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo66\">66</span>\n    <span class=\"M\">منقادين متظاهرين على ما فيه صلاح العالم و قوامه.</span>\n  </p>\n  <p id=\"p248\" paragraph-id=\"248\" class=\" G\">\n    <span class=\"sharh\">الموافقة بين الظلمة و النور و هذا النظام المتقن في سير الشمس حسبما تتطلبه الحياة في هذا الكون و قد خلق قبل ان يبدأ بالحياة و ابدع فيه صانعه علما بما سيخلق و اقتضت حكمته ان يكون كذلك فكان كذلك فاذا ادركت بعض ذلك فهل تتصور انه يحصل بمجرد المصادفة لا ارادة فيه و لا تدبير و لا تقدير و لا قصد و لا غاية، سبحانك اجرنا من هذا الجهل و العناد و الالحاد المقيت.</span>\n  </p>\n  <p id=\"p249\" paragraph-id=\"249\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "61CE6419-9787-4FE5-886E-88E9F3F5A183",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 68,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386008,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"321\"><page number=\"68\"/><format class=\"sharh\">كما سيحرمون من نعيم الاخرة الذي لا يحصل عليه الا بالعمل الصالح في الدنيا لانها مزرعة الاخرة.</format></p>"
+        },
+        {
+          "paragraphId": 508386009,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"322\"><format class=\"sharh\">فكان طلب هذا الجاهل ينقده السخيف لا ينتج اذا حصل (و محال ان يحصل) الا حرمان من كان سيدخل العالم بالتوالد و التناسل.</format></p>"
+        },
+        {
+          "paragraphId": 508386010,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"323\"><format class=\"sharh\">و ليحل محل من يموت من سلفه الذين استمتعوا قبلهم بنعم اللّه تعالى و حصلوا على حظهم و نصيبهم من الدنيا ثم ذهبوا الى ما عملوا ان خيرا فخيرا و ان شرا قشرا.</format></p>"
+        },
+        {
+          "paragraphId": 508386011,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"324\"><format class=\"sharh\">و اللّه غفور رحيم شديد العقاب.</format></p>"
+        },
+        {
+          "paragraphId": 508386012,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"325\"><page number=\"69\"/><heading level=\"3\">إنتقاد أسخف</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "68",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p321\" paragraph-id=\"321\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo68\">68</span>\n    <span class=\"sharh\">كما سيحرمون من نعيم الاخرة الذي لا يحصل عليه الا بالعمل الصالح في الدنيا لانها مزرعة الاخرة.</span>\n  </p>\n  <p id=\"p322\" paragraph-id=\"322\" class=\" G\">\n    <span class=\"sharh\">فكان طلب هذا الجاهل ينقده السخيف لا ينتج اذا حصل (و محال ان يحصل) الا حرمان من كان سيدخل العالم بالتوالد و التناسل.</span>\n  </p>\n  <p id=\"p323\" paragraph-id=\"323\" class=\" G\">\n    <span class=\"sharh\">و ليحل محل من يموت من سلفه الذين استمتعوا قبلهم بنعم اللّه تعالى و حصلوا على حظهم و نصيبهم من الدنيا ثم ذهبوا الى ما عملوا ان خيرا فخيرا و ان شرا قشرا.</span>\n  </p>\n  <p id=\"p324\" paragraph-id=\"324\" class=\" G\">\n    <span class=\"sharh\">و اللّه غفور رحيم شديد العقاب.</span>\n  </p>\n  <p id=\"p325\" paragraph-id=\"325\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "724BB133-C4F7-4A13-87C4-01ACDB5B1DD3",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

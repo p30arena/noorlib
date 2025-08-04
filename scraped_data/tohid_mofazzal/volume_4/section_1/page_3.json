@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 3,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385689,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2\"><img src=\"BK14761G004S1P0\" alt=\"\" imgtype=\"Scan\"/><page number=\"1\"/><img src=\"BK14761G004S1P1\" alt=\"\" imgtype=\"Scan\"/><page number=\"2\"/><img src=\"BK14761G004S1P2\" alt=\"\" imgtype=\"Scan\"/><page number=\"3\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"3\"/> مقدمة الكتاب</heading></p>"
+        },
+        {
+          "paragraphId": 508385690,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3\"><format class=\"q\"><format class=\"a\">بسم اللّه الرحمن الرحيم</format></format></p>"
+        },
+        {
+          "paragraphId": 508385691,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"4\">رب اوزعنى ان اشكر شكرا بفى بنعمك الجليلة الجزيلة التى انعمت بها علىّ طيلة حياتى، فقد او ليتنيها تفضلا دون استحقاق منى لها على عمل اللهم الا رحمتك الواسعة و لطفك الشامل و كرمك العميم.</p>"
+        },
+        {
+          "paragraphId": 508385692,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"5\">احمدك حمدا على ان وفقتنى لشرح هذه الرسالة التوحيدية الجليلة، و هديتنى لبيان مقاصدها السامية و اهدافها العالية حسب مقدورى و استعدادى، ثم اعنتنى على اكمال شرح اجزائها الاربعة التى بها ينتهى البيان و يكمل الشرح.</p>"
+        },
+        {
+          "paragraphId": 508385693,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"6\">و اصلى و اسلم على رسولك البشير النذير و نبيك السراج المنير الذي بعثته منقذا للبشرية من براثن الشرك و الضلال، و منتشلا للانسانية من هوة الالحاد و الهمجية، و على آله سبل النجاة و مصابيح الهدى، و صحبه التابعين له و العاملين بشرعته.</p>"
+        },
+        {
+          "paragraphId": 508385694,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"7\">و بعد: فقد شاء القدر ان نعيش في عصر تزعزعت فيه اركان العقيدة الدينية و انطلقت فيه الافكار المريضة و الاهواء الفاسدة، و اخذت الفلسفة<page number=\"4\"/> المادية تلعب دورها فى العقول الساذجة من ضعاف الايمان قليلى التعقل و التروي.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "3",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2\" paragraph-id=\"2\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo3\">3</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span> مقدمة الكتاب</strong>\n  </p>\n  <p id=\"p3\" paragraph-id=\"3\" class=\" G\">\n    <span class=\"q\">\n      <span class=\"a\">بسم اللّه الرحمن الرحيم</span>\n    </span>\n  </p>\n  <p id=\"p4\" paragraph-id=\"4\" class=\" G\">رب اوزعنى ان اشكر شكرا بفى بنعمك الجليلة الجزيلة التى انعمت بها علىّ طيلة حياتى، فقد او ليتنيها تفضلا دون استحقاق منى لها على عمل اللهم الا رحمتك الواسعة و لطفك الشامل و كرمك العميم.</p>\n  <p id=\"p5\" paragraph-id=\"5\" class=\" G\">احمدك حمدا على ان وفقتنى لشرح هذه الرسالة التوحيدية الجليلة، و هديتنى لبيان مقاصدها السامية و اهدافها العالية حسب مقدورى و استعدادى، ثم اعنتنى على اكمال شرح اجزائها الاربعة التى بها ينتهى البيان و يكمل الشرح.</p>\n  <p id=\"p6\" paragraph-id=\"6\" class=\" G\">و اصلى و اسلم على رسولك البشير النذير و نبيك السراج المنير الذي بعثته منقذا للبشرية من براثن الشرك و الضلال، و منتشلا للانسانية من هوة الالحاد و الهمجية، و على آله سبل النجاة و مصابيح الهدى، و صحبه التابعين له و العاملين بشرعته.</p>\n  <p id=\"p7\" paragraph-id=\"7\" class=\" G\">و بعد: فقد شاء القدر ان نعيش في عصر تزعزعت فيه اركان العقيدة الدينية و انطلقت فيه الافكار المريضة و الاهواء الفاسدة، و اخذت الفلسفة</p>\n</div>",
+      "bookPageVisitLogId": "81D167E2-3193-4D6F-AA3B-51B5F4641699",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

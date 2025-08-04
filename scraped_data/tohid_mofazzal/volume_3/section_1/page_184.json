@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 184,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645214,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"681\"><format class=\"sharh\">ثم اليس من الانصاف ان ينظر بعين البصيرة الى هذه المطرة الواحدة فيرى </format><page number=\"184\"/><format class=\"M\">معرفة لعظيم الغناء و المنفعة فيها.</format></p>"
+        },
+        {
+          "paragraphId": 631645215,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"682\"><format class=\"sharh\">ما اكبر قدرها و اعظم النعمة بها على الناس و هم ساهون غافلون غير مقدرين لها و لا شاكرين منعهما.</format></p>"
+        },
+        {
+          "paragraphId": 631645216,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"683\"><format class=\"sharh\">و لا عجب من وجود مثل هذه الخلة في الانسان لانه يطغى ان رآه استغني على انه ان عيقت او تأخرت له حاجة من حوائج الدنيا قد لا يكون لها قدر و لا قيمة يعتد بها فى الحقيقة فتراه يتذمر لفقدها و ربما سخط و غضب و ما ذلك الا لانه يؤثر الشىء الخسيس قدره فى الدنيا على ما سيعوض عنه فى الاخرة مما يعظم نفعه استعجالا منه بتقديم الفانى على الباقى، فى حين ان هذا التأخير ربما كان من صالحه جميلا من اللّه محمود العاقبة و لكنه لقلة معرفته بالغناء العظيم و المنفعة الوافرة التى سيعطاها في يوم لا ينفع فيه مال و لا بنون الا من اتى اللّه بقلب سليم.</format></p>"
+        },
+        {
+          "paragraphId": 631645217,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"684\"><format class=\"sharh\">و هل كل هذا الا عن جهله بما يدبره اللّه له و غفلته عن هذه النعم الجليلة التى كان الواجب على الانسان التفكر فيها و شكرها.</format></p>"
+        },
+        {
+          "paragraphId": 631645218,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"685\"><format class=\"sharh\">و اللّه الموفق.</format></p>"
+        },
+        {
+          "paragraphId": 631645219,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"686\"><page number=\"185\"/><heading level=\"3\">ترتيب نزول المطر</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "184",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p681\" paragraph-id=\"681\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo184\">184</span>\n    <span class=\"M\">معرفة لعظيم الغناء و المنفعة فيها.</span>\n  </p>\n  <p id=\"p682\" paragraph-id=\"682\" class=\" G\">\n    <span class=\"sharh\">ما اكبر قدرها و اعظم النعمة بها على الناس و هم ساهون غافلون غير مقدرين لها و لا شاكرين منعهما.</span>\n  </p>\n  <p id=\"p683\" paragraph-id=\"683\" class=\" G\">\n    <span class=\"sharh\">و لا عجب من وجود مثل هذه الخلة في الانسان لانه يطغى ان رآه استغني على انه ان عيقت او تأخرت له حاجة من حوائج الدنيا قد لا يكون لها قدر و لا قيمة يعتد بها فى الحقيقة فتراه يتذمر لفقدها و ربما سخط و غضب و ما ذلك الا لانه يؤثر الشىء الخسيس قدره فى الدنيا على ما سيعوض عنه فى الاخرة مما يعظم نفعه استعجالا منه بتقديم الفانى على الباقى، فى حين ان هذا التأخير ربما كان من صالحه جميلا من اللّه محمود العاقبة و لكنه لقلة معرفته بالغناء العظيم و المنفعة الوافرة التى سيعطاها في يوم لا ينفع فيه مال و لا بنون الا من اتى اللّه بقلب سليم.</span>\n  </p>\n  <p id=\"p684\" paragraph-id=\"684\" class=\" G\">\n    <span class=\"sharh\">و هل كل هذا الا عن جهله بما يدبره اللّه له و غفلته عن هذه النعم الجليلة التى كان الواجب على الانسان التفكر فيها و شكرها.</span>\n  </p>\n  <p id=\"p685\" paragraph-id=\"685\" class=\" G\">\n    <span class=\"sharh\">و اللّه الموفق.</span>\n  </p>\n  <p id=\"p686\" paragraph-id=\"686\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "F59BF204-3F26-4530-A73A-753540566BB1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

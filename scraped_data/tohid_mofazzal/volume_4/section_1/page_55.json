@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 55,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385946,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"259\"><page number=\"55\"/><heading level=\"3\">إذا أصابت الأموال فلماذا تبتلى الأبدان</heading></p>"
+        },
+        {
+          "paragraphId": 508385947,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"260\"><format class=\"M\">قال عليه السلام: و لعل قائلا يقول: ان هذه الافات التي تصيب الناس فى اموالهم. فما قولك فيما يبتلون به فى ابدانهم فيكون فيه تلفهم كمثل الحرق و الغرق و السيل و الخسف. فيقال له: ان اللّه جعل فى هذا ايضا </format><format class=\"sharh\">الى هنا يعترف الخصم المعترض بان الحوادث و الافات العامه كالوباء و الطاعون و البرد و الجراد مثلا كلها تأني لصالح الناس عامه عظة و تنبيها و عبره ليقفوا في معاصيهم الى حد، فيخف عقابهم و هذا بالطبع لطف و تفضل من الخالق.</format></p>"
+        },
+        {
+          "paragraphId": 508385948,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"261\"><format class=\"sharh\">لكنه يعود فيقول لعل قائلا يقول ان هذه الافات التي تصيب الناس في اموالهم تأتي للصالح العام و الخاص.</format></p>"
+        },
+        {
+          "paragraphId": 508385949,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"262\"><format class=\"sharh\">و لكن ما قولك فيمن يبتلون به في ايدانهم من مرض او الم او شيء آخر يكون فيه تلفهم كمثل الحرق و الغرق و السل و الخسف و غيرها.</format></p>"
+        },
+        {
+          "paragraphId": 508385950,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"263\"><format class=\"sharh\">فيقال له ان اللّه تعالى لم يخلق هذا الخلق عبثا (سبحانك ما خلقت هذا باطلا) كما انه لم يترك ما خلق سدى دون ان يلحظهم بعين عنايته و تدبير حكمته و شمول لطفه.</format></p>"
+        },
+        {
+          "paragraphId": 508385951,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"264\"><format class=\"sharh\">اذن فلا حادث يحدث في العالم الا و ان يكون لغاية مطلوبة، و لا آفة </format><page number=\"56\"/><format class=\"M\">صلاحا للصفين جميعا. اما الابرار فلما لهم فى مفارقة الدنيا من الراحة من تكاليفها و النجاة من مكارهها. و اما الفجار فلما لهم في ذلك من تمحيص اوزارهم و حبسهم عن الازدياد منها. و جملة القول ان الخالق تعالى ذكره </format><format class=\"sharh\">تحصل للفرد او للمجتمع الا لحكمة مقصودة.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "55",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p259\" paragraph-id=\"259\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo55\">55</span>\n    <strong style=\"0\" class=\"h-3 03\">إذا أصابت الأموال فلماذا تبتلى الأبدان</strong>\n  </p>\n  <p id=\"p260\" paragraph-id=\"260\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: و لعل قائلا يقول: ان هذه الافات التي تصيب الناس فى اموالهم. فما قولك فيما يبتلون به فى ابدانهم فيكون فيه تلفهم كمثل الحرق و الغرق و السيل و الخسف. فيقال له: ان اللّه جعل فى هذا ايضا </span>\n    <span class=\"sharh\">الى هنا يعترف الخصم المعترض بان الحوادث و الافات العامه كالوباء و الطاعون و البرد و الجراد مثلا كلها تأني لصالح الناس عامه عظة و تنبيها و عبره ليقفوا في معاصيهم الى حد، فيخف عقابهم و هذا بالطبع لطف و تفضل من الخالق.</span>\n  </p>\n  <p id=\"p261\" paragraph-id=\"261\" class=\" G\">\n    <span class=\"sharh\">لكنه يعود فيقول لعل قائلا يقول ان هذه الافات التي تصيب الناس في اموالهم تأتي للصالح العام و الخاص.</span>\n  </p>\n  <p id=\"p262\" paragraph-id=\"262\" class=\" G\">\n    <span class=\"sharh\">و لكن ما قولك فيمن يبتلون به في ايدانهم من مرض او الم او شيء آخر يكون فيه تلفهم كمثل الحرق و الغرق و السل و الخسف و غيرها.</span>\n  </p>\n  <p id=\"p263\" paragraph-id=\"263\" class=\" G\">\n    <span class=\"sharh\">فيقال له ان اللّه تعالى لم يخلق هذا الخلق عبثا (سبحانك ما خلقت هذا باطلا) كما انه لم يترك ما خلق سدى دون ان يلحظهم بعين عنايته و تدبير حكمته و شمول لطفه.</span>\n  </p>\n  <p id=\"p264\" paragraph-id=\"264\" class=\" G\">\n    <span class=\"sharh\">اذن فلا حادث يحدث في العالم الا و ان يكون لغاية مطلوبة، و لا آفة </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "1CC9413C-9E07-47F3-A734-417583D0DAFE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

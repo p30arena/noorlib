@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 73,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508386028,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"341\"><page number=\"73\"/><heading level=\"3\">الطعن على التدبير</heading></p>"
+        },
+        {
+          "paragraphId": 508386029,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"342\"><format class=\"M\">قال عليه السلام: و لعل طاعنا يطعن على التدبير من جهة اخرى فيقول: كيف يكون ههنا تدبير و نحن نرى الناس في الدنيا من عزيز فالقوى يظلم و يغتصب. و الضعيف يظلم و يسام الخسف. و المصالح فقير مبتلى. و الفاسق معا في موسع عليه. و من ركب فاحشة او انتهك </format><format class=\"sharh\">الجهل جهلان بسيط و مركب، فالبسيط صاحبه من لا يعلم و يعلم انه لا يعلم، و المركب هو الذي لا يعلم و لا يعلم انه لا يعلم بل يخال انه ادرك كل شىء و وقف على كنه الامور.</format></p>"
+        },
+        {
+          "paragraphId": 508386030,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"343\"><format class=\"sharh\">لذلك تراه ينتقد بلا مستند و يطعن فى امور لم يشعر بحكمتها و لم يدرك ماهيتها، و هذا هو البلاء المبرم و الجهل الذى يعسر على العقلاء اصلاحه و يمتنع عليهم ارجاع صاحبه الى محجة الصواب.</format></p>"
+        },
+        {
+          "paragraphId": 508386031,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"344\"><format class=\"sharh\">و قد قيل: ان افلاطون و هو ذلك الفيلسوف العظيم و الحكيم المشهور الخالد لما سئل منه بعد ان بلغ ذروة العلم و الفلسفة:</format></p>"
+        },
+        {
+          "paragraphId": 508386032,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"345\"><format class=\"sharh\">الى اين بلغت من العلم?</format></p>"
+        },
+        {
+          "paragraphId": 508386033,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"346\"><format class=\"sharh\">اجاب: انى الان علمت باني لا اعلم، كنت جاهلا مركبا فاصبحت بفضل العلم جاهلا بسيطا.</format></p>"
+        },
+        {
+          "paragraphId": 508386034,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"347\"><page number=\"74\"/><format class=\"M\">محرما لم يعاجل بالعقوبة. فلو كان في العالم تدبير لجرت الامور على القياس القائم. فلو كان الصالح هو المرزوق و الطالح هو المحروم و كان القوى يمنع من ظلم الضعيف و المنتهك للمحارم يعاجل بالعقوبة فيقال في </format><format class=\"sharh\">و ان هؤلاء الجاحدين و منكرى الخالق و الخلقه حسبوا لجهلهم المركب انهم هم الذين يدركون حكمة الاشياء و العدل في التدبير فطعنوا في تدبير العالم قائلين كيف يكون تدبير في هذا العالم و نحن نرى الناس فيه - من عزيز - اى ان العزيز سابق غيره فى مضمار الحياة مالا و بدنا و عشيرة و جاها.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "73",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p341\" paragraph-id=\"341\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo73\">73</span>\n    <strong style=\"0\" class=\"h-3 03\">الطعن على التدبير</strong>\n  </p>\n  <p id=\"p342\" paragraph-id=\"342\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: و لعل طاعنا يطعن على التدبير من جهة اخرى فيقول: كيف يكون ههنا تدبير و نحن نرى الناس في الدنيا من عزيز فالقوى يظلم و يغتصب. و الضعيف يظلم و يسام الخسف. و المصالح فقير مبتلى. و الفاسق معا في موسع عليه. و من ركب فاحشة او انتهك </span>\n    <span class=\"sharh\">الجهل جهلان بسيط و مركب، فالبسيط صاحبه من لا يعلم و يعلم انه لا يعلم، و المركب هو الذي لا يعلم و لا يعلم انه لا يعلم بل يخال انه ادرك كل شىء و وقف على كنه الامور.</span>\n  </p>\n  <p id=\"p343\" paragraph-id=\"343\" class=\" G\">\n    <span class=\"sharh\">لذلك تراه ينتقد بلا مستند و يطعن فى امور لم يشعر بحكمتها و لم يدرك ماهيتها، و هذا هو البلاء المبرم و الجهل الذى يعسر على العقلاء اصلاحه و يمتنع عليهم ارجاع صاحبه الى محجة الصواب.</span>\n  </p>\n  <p id=\"p344\" paragraph-id=\"344\" class=\" G\">\n    <span class=\"sharh\">و قد قيل: ان افلاطون و هو ذلك الفيلسوف العظيم و الحكيم المشهور الخالد لما سئل منه بعد ان بلغ ذروة العلم و الفلسفة:</span>\n  </p>\n  <p id=\"p345\" paragraph-id=\"345\" class=\" G\">\n    <span class=\"sharh\">الى اين بلغت من العلم?</span>\n  </p>\n  <p id=\"p346\" paragraph-id=\"346\" class=\" G\">\n    <span class=\"sharh\">اجاب: انى الان علمت باني لا اعلم، كنت جاهلا مركبا فاصبحت بفضل العلم جاهلا بسيطا.</span>\n  </p>\n  <p id=\"p347\" paragraph-id=\"347\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "51E6067B-D2BF-4DD5-BFCC-49611B83AA67",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

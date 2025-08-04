@@ -1,0 +1,92 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 253,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645407,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"973\"><page number=\"253\"/><format class=\"M\">النابت فى الصحارى و البرارى حيث لا انس و لا انيس فتظن انه فضل لا حاجة اليه. و ليس كذلك بل هو طعم لهذه الوحوش و حبه علف </format><format class=\"sharh\">فان قال قائل ان معرفة الانسان بتلك الخواص حصلت له بالعرض و المصادفة و فطن لها بذهنه و تجاربه.</format></p>"
+        },
+        {
+          "paragraphId": 631645408,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"974\"><format class=\"sharh\">قلنا لو سلمنا بقوله بالنسبة للانسان فكيف فطن لها الحيوان و سائر البهائم و الوحوش.</format></p>"
+        },
+        {
+          "paragraphId": 631645409,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"975\"><format class=\"sharh\">فقد رؤى بعض السباع و الوحوش اذا اصابتها جراحة اسرعت الى بعض العقاقير فى الصحراء فتداوت بها.</format></p>"
+        },
+        {
+          "paragraphId": 631645410,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"976\"><format class=\"sharh\">و قد شاهدوا غزالا اصابه سهم صياد فهرع الى محل من الجبل و مسح جرحه بشىء فعاد صحيحا و هرب و لما فتش عن الشىء و اذابه (الموميا).</format></p>"
+        },
+        {
+          "paragraphId": 631645411,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"977\"><format class=\"sharh\">كما شوهد ايضا ان الاسد اذا حم (و كثيرا ما يحم) كسر اغصان شجرة الكنين التي عرفت بسببه و دخل تحتها مدة حتى عرق و برىء.</format></p>"
+        },
+        {
+          "paragraphId": 631645412,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"978\"><format class=\"sharh\">و مثلهما بعض الطيور البرية المائية اذا حصر و مسك بطنه ذهب الى البحر و اخذ بمنقاره شيئا من ماء البحر و احتقن به فتسهل بطنه و ببرأ، و اشباه هذا كثير.</format></p>"
+        },
+        {
+          "paragraphId": 631645413,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"979\"><format class=\"sharh\">و لكن جهل الانسان باسرار الخلقة و عدم اعتباره بما يرى جعله يشكك اذ لم يدرك الحكمة فيعترض قائلا:</format></p>"
+        },
+        {
+          "paragraphId": 631645414,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"980\"><format class=\"sharh\">ما الفائدة في هذا النبات الكثير فى الصحارى و ليس فيها انس او انيس يستفيد بها فهى اذن فضله.</format></p>"
+        },
+        {
+          "paragraphId": 631645415,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"981\"><format class=\"sharh\">و بديهى ان هذا ظن فاسد اذ لم يعلم بانها طعام الوحوش القاطنة فيها و حبها غذآء للطير المار بها.</format></p>"
+        },
+        {
+          "paragraphId": 631645416,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"982\"><page number=\"254\"/><format class=\"M\">للطير و عوده و افنانه حطب يستعمله الناس و فيه بعد اشياء تعالج بها </format><format class=\"sharh\">و لولاها لاضطرت الوحوش ان تهجم على ما يجاورها من القرى و البلدان طلبا لقوتها، و هذا مما يقلق راحة الناس و قد يسبب هلاكهم.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "253",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p973\" paragraph-id=\"973\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo253\">253</span>\n    <span class=\"M\">النابت فى الصحارى و البرارى حيث لا انس و لا انيس فتظن انه فضل لا حاجة اليه. و ليس كذلك بل هو طعم لهذه الوحوش و حبه علف </span>\n    <span class=\"sharh\">فان قال قائل ان معرفة الانسان بتلك الخواص حصلت له بالعرض و المصادفة و فطن لها بذهنه و تجاربه.</span>\n  </p>\n  <p id=\"p974\" paragraph-id=\"974\" class=\" G\">\n    <span class=\"sharh\">قلنا لو سلمنا بقوله بالنسبة للانسان فكيف فطن لها الحيوان و سائر البهائم و الوحوش.</span>\n  </p>\n  <p id=\"p975\" paragraph-id=\"975\" class=\" G\">\n    <span class=\"sharh\">فقد رؤى بعض السباع و الوحوش اذا اصابتها جراحة اسرعت الى بعض العقاقير فى الصحراء فتداوت بها.</span>\n  </p>\n  <p id=\"p976\" paragraph-id=\"976\" class=\" G\">\n    <span class=\"sharh\">و قد شاهدوا غزالا اصابه سهم صياد فهرع الى محل من الجبل و مسح جرحه بشىء فعاد صحيحا و هرب و لما فتش عن الشىء و اذابه (الموميا).</span>\n  </p>\n  <p id=\"p977\" paragraph-id=\"977\" class=\" G\">\n    <span class=\"sharh\">كما شوهد ايضا ان الاسد اذا حم (و كثيرا ما يحم) كسر اغصان شجرة الكنين التي عرفت بسببه و دخل تحتها مدة حتى عرق و برىء.</span>\n  </p>\n  <p id=\"p978\" paragraph-id=\"978\" class=\" G\">\n    <span class=\"sharh\">و مثلهما بعض الطيور البرية المائية اذا حصر و مسك بطنه ذهب الى البحر و اخذ بمنقاره شيئا من ماء البحر و احتقن به فتسهل بطنه و ببرأ، و اشباه هذا كثير.</span>\n  </p>\n  <p id=\"p979\" paragraph-id=\"979\" class=\" G\">\n    <span class=\"sharh\">و لكن جهل الانسان باسرار الخلقة و عدم اعتباره بما يرى جعله يشكك اذ لم يدرك الحكمة فيعترض قائلا:</span>\n  </p>\n  <p id=\"p980\" paragraph-id=\"980\" class=\" G\">\n    <span class=\"sharh\">ما الفائدة في هذا النبات الكثير فى الصحارى و ليس فيها انس او انيس يستفيد بها فهى اذن فضله.</span>\n  </p>\n  <p id=\"p981\" paragraph-id=\"981\" class=\" G\">\n    <span class=\"sharh\">و بديهى ان هذا ظن فاسد اذ لم يعلم بانها طعام الوحوش القاطنة فيها و حبها غذآء للطير المار بها.</span>\n  </p>\n  <p id=\"p982\" paragraph-id=\"982\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "15776CDD-1419-4B63-894E-A24A8B646749",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

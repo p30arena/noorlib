@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 142,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645049,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"516\"><page number=\"142\"/><format class=\"M\">الارض. فلو لا الريح لذوى النبات و لمات الحيوان و حمت الاشياء و فسدت.</format></p>"
+        },
+        {
+          "paragraphId": 631645050,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"517\"><format class=\"sharh\">اذن فالريح (الهواء) هو السبب العظيم في ادامة حياة الاحياء و القوم اللازم لعيش كل ذي روح بل و حتى الجماد.</format></p>"
+        },
+        {
+          "paragraphId": 631645051,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"518\"><format class=\"sharh\">فلا غرو اذا اعتقد القدماء فيه انه العنصر الاساسي فى الخلقة و ان يقول بعضهم انه هو الروح الذى لا يعرفه احد فان لم يكن هو فشيء مثله.</format></p>"
+        },
+        {
+          "paragraphId": 631645052,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"519\"><format class=\"sharh\">و اللّه العالم.</format></p>"
+        },
+        {
+          "paragraphId": 631645053,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"520\"><page number=\"143\"/><heading level=\"3\">سعة الأرض و امتدادها</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "142",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p516\" paragraph-id=\"516\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo142\">142</span>\n    <span class=\"M\">الارض. فلو لا الريح لذوى النبات و لمات الحيوان و حمت الاشياء و فسدت.</span>\n  </p>\n  <p id=\"p517\" paragraph-id=\"517\" class=\" G\">\n    <span class=\"sharh\">اذن فالريح (الهواء) هو السبب العظيم في ادامة حياة الاحياء و القوم اللازم لعيش كل ذي روح بل و حتى الجماد.</span>\n  </p>\n  <p id=\"p518\" paragraph-id=\"518\" class=\" G\">\n    <span class=\"sharh\">فلا غرو اذا اعتقد القدماء فيه انه العنصر الاساسي فى الخلقة و ان يقول بعضهم انه هو الروح الذى لا يعرفه احد فان لم يكن هو فشيء مثله.</span>\n  </p>\n  <p id=\"p519\" paragraph-id=\"519\" class=\" G\">\n    <span class=\"sharh\">و اللّه العالم.</span>\n  </p>\n  <p id=\"p520\" paragraph-id=\"520\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "E55E1C07-B661-4D0C-A29D-E44A136C7C0D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

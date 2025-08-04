@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 246,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631645374,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"940\"><page number=\"246\"/><format class=\"M\">و هز الرياح العواصف اذا صار نخلة و ليتهيأ للسقوف و الجسور و غير ذلك مما يتخذ منه اذا صار جذعا.</format></p>"
+        },
+        {
+          "paragraphId": 631645375,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"941\"><format class=\"sharh\">اما وجودها فى ايران و ساير الممالك الاخرى فقد كان من العراق ايضا و اليوم اكثر غرسها فى جنوب العراق (البصرة و نواحيها) كما انها هي الان مصدر كبير لتجهيز البساتين العراقية بانواع الفسائل النادرة الجيدة.</format></p>"
+        },
+        {
+          "paragraphId": 631645376,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"942\"><format class=\"sharh\">و قد قدسها الاقدمون تقديسا عظيما حتى عبدت عند بعض العرب و هم (تميم) فقيل فيها (اكلت تميم ربها).</format></p>"
+        },
+        {
+          "paragraphId": 631645377,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"943\"><format class=\"sharh\">و اعتبرها المصريون القدماء (شجرة الفردوس او الجنة) و سماها العراقيون يومذاك (الشجرة المقدسة).</format></p>"
+        },
+        {
+          "paragraphId": 631645378,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"944\"><format class=\"sharh\">و لم يهمل القرآن الكريم ذكرها حيث قال: <format class=\"ayah\" surah=\"55\" ayah=\"11\" toAyah=\"\">(فِيهٰا فٰاكِهَةٌ وَ اَلنَّخْلُ ذٰاتُ اَلْأَكْمٰامِ‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"6\"/><format class=\"ayahAddress\" surah=\"55\" ayah=\"11\" toAyah=\"\"/></format> و قال تعالى <format class=\"ayah\" surah=\"55\" ayah=\"68\" toAyah=\"\">(فِيهِمٰا فٰاكِهَةٌ وَ نَخْلٌ وَ رُمّٰانٌ‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"6\"/><format class=\"ayahAddress\" surah=\"55\" ayah=\"68\" toAyah=\"\"/></format> و قال تعالى <format class=\"ayah\" surah=\"13\" ayah=\"4\" toAyah=\"\">(جَنّٰاتٌ مِنْ أَعْنٰابٍ وَ زَرْعٌ وَ نَخِيلٌ‌)<format class=\"ayahWord\" fromWord=\"7\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"13\" ayah=\"4\" toAyah=\"\"/></format> و قال تعالى <format class=\"ayah\" surah=\"19\" ayah=\"25\" toAyah=\"\">(وَ هُزِّي إِلَيْكِ بِجِذْعِ اَلنَّخْلَةِ‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"19\" ayah=\"25\" toAyah=\"\"/></format> الى غيرها كما ورد في الاحاديث مدحها كالحديث الشريف: (ليس من الشجر شجرة اكرم على اللّه من شجرة ولدت تحتها مريم بنت عمران).</format></p>"
+        },
+        {
+          "paragraphId": 631645379,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"945\"><format class=\"sharh\">و لم يغفل عن وصفها الادب ايضا اذ قال المعري.</format></p>"
+        },
+        {
+          "paragraphId": 631645380,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"946\"><format class=\"sharh\"><br/><poem>شربنا ماء دجلة خير ماء <gap/>و زرنا اشرف الشجر النخيلا </poem>و ما ذلك الثناء كله الا لكثرة خيراتها وجودة ثمرها و دوام اثمارها و نفع كل جزء منها.</format></p>"
+        },
+        {
+          "paragraphId": 631645381,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"947\"><page number=\"247\"/><heading level=\"3\">الخشب</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "246",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p940\" paragraph-id=\"940\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo246\">246</span>\n    <span class=\"M\">و هز الرياح العواصف اذا صار نخلة و ليتهيأ للسقوف و الجسور و غير ذلك مما يتخذ منه اذا صار جذعا.</span>\n  </p>\n  <p id=\"p941\" paragraph-id=\"941\" class=\" G\">\n    <span class=\"sharh\">اما وجودها فى ايران و ساير الممالك الاخرى فقد كان من العراق ايضا و اليوم اكثر غرسها فى جنوب العراق (البصرة و نواحيها) كما انها هي الان مصدر كبير لتجهيز البساتين العراقية بانواع الفسائل النادرة الجيدة.</span>\n  </p>\n  <p id=\"p942\" paragraph-id=\"942\" class=\" G\">\n    <span class=\"sharh\">و قد قدسها الاقدمون تقديسا عظيما حتى عبدت عند بعض العرب و هم (تميم) فقيل فيها (اكلت تميم ربها).</span>\n  </p>\n  <p id=\"p943\" paragraph-id=\"943\" class=\" G\">\n    <span class=\"sharh\">و اعتبرها المصريون القدماء (شجرة الفردوس او الجنة) و سماها العراقيون يومذاك (الشجرة المقدسة).</span>\n  </p>\n  <p id=\"p944\" paragraph-id=\"944\" class=\" G\">\n    <span class=\"sharh\">و لم يهمل القرآن الكريم ذكرها حيث قال: <span style=\"0\" class=\"ayah\" surah=\"55\" ayah=\"11\">(فِيهٰا فٰاكِهَةٌ وَ اَلنَّخْلُ ذٰاتُ اَلْأَكْمٰامِ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/55/11\"></a></span></span> و قال تعالى <span style=\"0\" class=\"ayah\" surah=\"55\" ayah=\"68\">(فِيهِمٰا فٰاكِهَةٌ وَ نَخْلٌ وَ رُمّٰانٌ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/55/68\"></a></span></span> و قال تعالى <span style=\"0\" class=\"ayah\" surah=\"13\" ayah=\"4\">(جَنّٰاتٌ مِنْ أَعْنٰابٍ وَ زَرْعٌ وَ نَخِيلٌ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/13/4\"></a></span></span> و قال تعالى <span style=\"0\" class=\"ayah\" surah=\"19\" ayah=\"25\">(وَ هُزِّي إِلَيْكِ بِجِذْعِ اَلنَّخْلَةِ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/19/25\"></a></span></span> الى غيرها كما ورد في الاحاديث مدحها كالحديث الشريف: (ليس من الشجر شجرة اكرم على اللّه من شجرة ولدت تحتها مريم بنت عمران).</span>\n  </p>\n  <p id=\"p945\" paragraph-id=\"945\" class=\" G\">\n    <span class=\"sharh\">و لم يغفل عن وصفها الادب ايضا اذ قال المعري.</span>\n  </p>\n  <p id=\"p946\" paragraph-id=\"946\" class=\" G\">\n    <span class=\"sharh\">\n      <br />\n      <span class=\"pome\">\n        <span class=\"rightpome\">شربنا ماء دجلة خير ماء </span>\n        <span class=\"leftpome\">و زرنا اشرف الشجر النخيلا </span>\n        <br style=\"clear:both\" />\n      </span>و ما ذلك الثناء كله الا لكثرة خيراتها وجودة ثمرها و دوام اثمارها و نفع كل جزء منها.</span>\n  </p>\n  <p id=\"p947\" paragraph-id=\"947\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "68504789-F4B1-4589-82EC-62E3D1FC93BB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

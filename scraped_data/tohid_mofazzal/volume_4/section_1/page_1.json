@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 1,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385689,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2\"><img src=\"BK14761G004S1P0\" alt=\"\" imgtype=\"Scan\"/><page number=\"1\"/><img src=\"BK14761G004S1P1\" alt=\"\" imgtype=\"Scan\"/><page number=\"2\"/><img src=\"BK14761G004S1P2\" alt=\"\" imgtype=\"Scan\"/><page number=\"3\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"3\"/> مقدمة الكتاب</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "1",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2\" paragraph-id=\"2\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo1\">1</span>\n    <img src=\"/file/book/page/_Wa_snZoT_SA-L9DC2xOemk_4o4rUA4lF0ZuyYrpwEAMXUL5KUppEC6tuxq2oZ-W\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "469024AC-D746-4B02-94FE-A7939A9EEE75",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

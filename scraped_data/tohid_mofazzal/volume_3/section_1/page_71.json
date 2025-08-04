@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 71,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644439,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"263\"><format class=\"sharh\"><br/><poem>كانّ ضريحك نشر الربيع <gap/>يمر عليه نسيم الخريف </poem>و فيه ترتفع الامراض و تصلح الابدان و يمتد الليل بالنسبة للصيف فيتمكن فيه الانسان من قضاء بعض اعماله و مزاولة شىء من اشغاله الضرورية التى </format><page number=\"71\"/><format class=\"M\">الهواء فيه الى مصالح اخرى لو تقصيت ذكرها لطال فيها الكلام.</format></p>"
+        },
+        {
+          "paragraphId": 631644440,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"264\"><format class=\"sharh\">عاقه عن انجازها حر الصيف المنهك.</format></p>"
+        },
+        {
+          "paragraphId": 631644441,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"265\"><format class=\"sharh\">هذا و ان لاختلاف هذه الفصول و تغييرها حرارة و برودة و طول مدة و قصر مدة و اعتدالا فى كل سنة و ما دامت الارض و سكانها، لمصالح اخرى كثيرة غير ما ذكرنا كالمصالح بالنسبة للزرع و الحرث و الحصاد و كمعالجة بعض الامراض و انجاز بعض الاعمال التى تختص بفصل دون فصل و امثال ذلك ما لو اردنا بيانها وعدها و تقصينا ما ندرك منها او ما سمعنا من ذكرها و ما قرأنا من اوصافها فضلا عما خفى عن البشر لطال الكلام و ضاق المقال، و لعل الكتب المفصلة قد وفتها بحثا و اشبعتها تحقيقا و بيانا فلتراجع للاطلاع.</format></p>"
+        },
+        {
+          "paragraphId": 631644442,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"266\"><page number=\"72\"/><heading level=\"3\">تنقل الشمس في البروج</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "71",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p263\" paragraph-id=\"263\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo71\">71</span>\n    <span class=\"M\">الهواء فيه الى مصالح اخرى لو تقصيت ذكرها لطال فيها الكلام.</span>\n  </p>\n  <p id=\"p264\" paragraph-id=\"264\" class=\" G\">\n    <span class=\"sharh\">عاقه عن انجازها حر الصيف المنهك.</span>\n  </p>\n  <p id=\"p265\" paragraph-id=\"265\" class=\" G\">\n    <span class=\"sharh\">هذا و ان لاختلاف هذه الفصول و تغييرها حرارة و برودة و طول مدة و قصر مدة و اعتدالا فى كل سنة و ما دامت الارض و سكانها، لمصالح اخرى كثيرة غير ما ذكرنا كالمصالح بالنسبة للزرع و الحرث و الحصاد و كمعالجة بعض الامراض و انجاز بعض الاعمال التى تختص بفصل دون فصل و امثال ذلك ما لو اردنا بيانها وعدها و تقصينا ما ندرك منها او ما سمعنا من ذكرها و ما قرأنا من اوصافها فضلا عما خفى عن البشر لطال الكلام و ضاق المقال، و لعل الكتب المفصلة قد وفتها بحثا و اشبعتها تحقيقا و بيانا فلتراجع للاطلاع.</span>\n  </p>\n  <p id=\"p266\" paragraph-id=\"266\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "917B3629-3D80-414A-A003-9B2FAD82E931",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

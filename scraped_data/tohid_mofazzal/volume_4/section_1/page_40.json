@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 40,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 508385887,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"200\"><page number=\"40\"/><heading level=\"3\">الصنف الثاني من الجهال</heading></p>"
+        },
+        {
+          "paragraphId": 508385888,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"201\"><format class=\"M\">قال (ع): و قد انكرت المعطلة و المنانية من المكاره و المصائب التي تصيب الناس فكلاهما يقول: ان كان للعالم خالق رؤف رحيم فلم يحدث فيه هذه الامور المكروهة. و القائل بهذا القول يذهب الى انه ينبغى ان يكون عيش الانسان في هذه الدنيا صافيا من كل كدر. و لو كان هكذا كان الانسان يخرج من الاشر و العتوالى ما لا يصلح فى دين و دنيا </format><format class=\"sharh\">اتفق جمهور العقلاء و لم يختلف منهم اثنان على انه تعالى عالم على الاطلاق و لهم على ذلك أكثر من دليل غير ان اوضحها و امتنها ما قاله الصدوق (ر ه) في توحيده.</format></p>"
+        },
+        {
+          "paragraphId": 508385889,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"202\"><format class=\"sharh\">ان للافعال المختلفة التقدير المتضادة التدبير المتفاوتة الصنعة، لا تقع على ما ينبغى ان يكون عليه من الحكمة ممن لا يعلمها، و لا تستمر على منهاج منتظم ممن يجهلها.</format></p>"
+        },
+        {
+          "paragraphId": 508385890,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"203\"><format class=\"sharh\">الا ترى الصانع و الكاتب مثلا لا يحكمان الصناعة و الكتابة ما لم يعرفا نفس الصنعة و الصفة و العالم الطف صفة و ابدع تقديرا فكيف لا يكون خالقه عالما و صانعة حكيما، فانه تعالى لم يخلق هذا العالم الا بعلم و حكمة و لم يقدره و يدبره الا لغاية هى المخلوق لا لنفسه، و هو <format class=\"ayah\" surah=\"21\" ayah=\"23\" toAyah=\"\">(لاٰ يُسْئَلُ عَمّٰا يَفْعَلُ وَ هُمْ يُسْئَلُونَ‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"7\"/><format class=\"ayahAddress\" surah=\"21\" ayah=\"23\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 508385891,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"204\"><page number=\"41\"/><format class=\"M\">كالذى ترى كثيرا من المترفين و من نشأ في الجدة و الا من يخرجون اليه، حتى ان احدهم ينسى انه بشر و انه مربوب او ان ضررا يمسه او ان مكروها ينزل به او انه يجب عليه ان يرحم ضعيفا او يواسى فقيرا </format><format class=\"sharh\">و على هذا اجمع المسلمون كافة على انه لا يجوز ان يقال للّه تعالى، لم فعلت ابدا ثم اختلفوا فى سبب عدم جواز السؤال.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "40",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p200\" paragraph-id=\"200\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo40\">40</span>\n    <strong style=\"0\" class=\"h-3 03\">الصنف الثاني من الجهال</strong>\n  </p>\n  <p id=\"p201\" paragraph-id=\"201\" class=\" G\">\n    <span class=\"M\">قال (ع): و قد انكرت المعطلة و المنانية من المكاره و المصائب التي تصيب الناس فكلاهما يقول: ان كان للعالم خالق رؤف رحيم فلم يحدث فيه هذه الامور المكروهة. و القائل بهذا القول يذهب الى انه ينبغى ان يكون عيش الانسان في هذه الدنيا صافيا من كل كدر. و لو كان هكذا كان الانسان يخرج من الاشر و العتوالى ما لا يصلح فى دين و دنيا </span>\n    <span class=\"sharh\">اتفق جمهور العقلاء و لم يختلف منهم اثنان على انه تعالى عالم على الاطلاق و لهم على ذلك أكثر من دليل غير ان اوضحها و امتنها ما قاله الصدوق (ر ه) في توحيده.</span>\n  </p>\n  <p id=\"p202\" paragraph-id=\"202\" class=\" G\">\n    <span class=\"sharh\">ان للافعال المختلفة التقدير المتضادة التدبير المتفاوتة الصنعة، لا تقع على ما ينبغى ان يكون عليه من الحكمة ممن لا يعلمها، و لا تستمر على منهاج منتظم ممن يجهلها.</span>\n  </p>\n  <p id=\"p203\" paragraph-id=\"203\" class=\" G\">\n    <span class=\"sharh\">الا ترى الصانع و الكاتب مثلا لا يحكمان الصناعة و الكتابة ما لم يعرفا نفس الصنعة و الصفة و العالم الطف صفة و ابدع تقديرا فكيف لا يكون خالقه عالما و صانعة حكيما، فانه تعالى لم يخلق هذا العالم الا بعلم و حكمة و لم يقدره و يدبره الا لغاية هى المخلوق لا لنفسه، و هو <span style=\"0\" class=\"ayah\" surah=\"21\" ayah=\"23\">(لاٰ يُسْئَلُ عَمّٰا يَفْعَلُ وَ هُمْ يُسْئَلُونَ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/21/23\"></a></span></span>.</span>\n  </p>\n  <p id=\"p204\" paragraph-id=\"204\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "397CBE33-D859-4865-96DE-F395A07F5D4F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

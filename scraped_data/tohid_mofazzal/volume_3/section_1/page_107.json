@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 107,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644907,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"390\"><page number=\"107\"/><format class=\"M\">و مشرقة و مغربة من العبر فانها تسير اسرع السير و احثه.</format></p>"
+        },
+        {
+          "paragraphId": 631644908,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"391\"><format class=\"sharh\">هذه التي ذكرناها هي بعض النجوم المؤثرة فى الارض و التى جعلت دلائل و علامات يهتدى بها و هناك الوف و ملايين منها و لكل مجموعة او مفردة منها اثر لا يعلمه الا خالقها الحكيم القادر.</format></p>"
+        },
+        {
+          "paragraphId": 631644909,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"392\"><format class=\"sharh\">و ان فى ترددها فى كبد السماء مقبلة و مدبرة و مشرقة و مغربة كما تراها العيون لعظة و عبرة لمن اعتبرو لا سيما اذا عرف ان هذه الثوابت التى لا يدرك الانسان حركاتها هى فى الحقيقة تسير سيرا حثيثا سريعا منتظما غير ان بعدها الشاسع الذي لا يبلغ تقديره عقل او فكر هو الذي جعلنا نتخيل وقوفها و ثبوتها.</format></p>"
+        },
+        {
+          "paragraphId": 631644910,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"393\"><format class=\"sharh\">فسبحان عظيم القدرة العليم الحكيم.</format></p>"
+        },
+        {
+          "paragraphId": 631644911,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"394\"><page number=\"108\"/><heading level=\"3\">إقتراب الأجرام السماوية من الأرض</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "107",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p390\" paragraph-id=\"390\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo107\">107</span>\n    <span class=\"M\">و مشرقة و مغربة من العبر فانها تسير اسرع السير و احثه.</span>\n  </p>\n  <p id=\"p391\" paragraph-id=\"391\" class=\" G\">\n    <span class=\"sharh\">هذه التي ذكرناها هي بعض النجوم المؤثرة فى الارض و التى جعلت دلائل و علامات يهتدى بها و هناك الوف و ملايين منها و لكل مجموعة او مفردة منها اثر لا يعلمه الا خالقها الحكيم القادر.</span>\n  </p>\n  <p id=\"p392\" paragraph-id=\"392\" class=\" G\">\n    <span class=\"sharh\">و ان فى ترددها فى كبد السماء مقبلة و مدبرة و مشرقة و مغربة كما تراها العيون لعظة و عبرة لمن اعتبرو لا سيما اذا عرف ان هذه الثوابت التى لا يدرك الانسان حركاتها هى فى الحقيقة تسير سيرا حثيثا سريعا منتظما غير ان بعدها الشاسع الذي لا يبلغ تقديره عقل او فكر هو الذي جعلنا نتخيل وقوفها و ثبوتها.</span>\n  </p>\n  <p id=\"p393\" paragraph-id=\"393\" class=\" G\">\n    <span class=\"sharh\">فسبحان عظيم القدرة العليم الحكيم.</span>\n  </p>\n  <p id=\"p394\" paragraph-id=\"394\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "CD40BE83-5393-4977-A4F2-4EBDC327CF9C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}
