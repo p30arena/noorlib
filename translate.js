@@ -23,7 +23,8 @@ async function translateText(text, isTitle = false) {
   const prefix = "Translate the following Arabic text to Farsi:";
   const title_sufix = `
   ### Translation Helpers
-   - The word 'باب' stands for 'موضوع'.
+   - The word "باب" is "موضوع".
+   - The word "کراث" is "تره".
   `;
   const prompt = `${prefix} ${isTitle ? title_sufix : ""}\n---\n${text}`;
 
