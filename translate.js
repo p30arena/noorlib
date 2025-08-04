@@ -61,6 +61,20 @@ async function translateText(text, isTitle = false) {
   return text; // Return original text if all retries fail
 }
 
+async function fixTranslatedFile() {
+  const filePath = `${BOOK_DIR}/hadiths_translated.json`;
+  try {
+    const data = await fs.readFile(filePath, "utf8");
+    const fixedData = data
+      .replace(/\)ص\(/g, "صلوات الله علیه")
+      .replace(/\)ع\(/g, "سلام الله علیه");
+    await fs.writeFile(filePath, fixedData, "utf8");
+    console.log("Fixed special characters in the translated file.");
+  } catch (error) {
+    console.error("Error fixing the translated file:", error);
+  }
+}
+
 async function main() {
   try {
     const data = await fs.readFile(`${BOOK_DIR}/hadiths.json`, "utf8");
@@ -118,6 +132,8 @@ async function main() {
   } catch (error) {
     console.error("An error occurred:", error);
   }
+
+  await fixTranslatedFile();
 }
 
 main();
