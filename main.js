@@ -2,14 +2,14 @@ const { fetchBookPage } = require('./scraper');
 const fs = require('fs');
 const path = require('path');
 
-const OUTPUT_DIR = `./scraped_data/${process.env.BOOK_NAME}`;
-const PROGRESS_FILE = `./${process.env.BOOK_NAME}_progress.json`;
+const BOOK_DIR = `./scraped_data/${process.env.BOOK_NAME}`;
+const PROGRESS_FILE = `${BOOK_DIR}/progress.json`;
 const MAX_RETRIES = 3;
 const RETRY_DELAY_MS = 2000; // 2 seconds
 const TOO_MANY_REQUESTS_DELAY_MS = 10000; // 10 seconds for 429 errors
 
 async function saveJsonToFile(data, volume, section, page) {
-  const dirPath = path.join(OUTPUT_DIR, `volume_${volume}`, `section_${section}`);
+  const dirPath = path.join(BOOK_DIR, `volume_${volume}`, `section_${section}`);
   const filePath = path.join(dirPath, `page_${page}.json`);
 
   await fs.promises.mkdir(dirPath, { recursive: true });

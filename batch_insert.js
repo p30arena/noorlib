@@ -1,7 +1,7 @@
 require("dotenv").config();
 const { Client } = require("@elastic/elasticsearch");
 
-const hadiths = require(`./${process.env.BOOK_NAME}_hadiths_translated.json`);
+const hadiths = require(`./scraped_data/${process.env.BOOK_NAME}/hadiths_translated.json`);
 
 const irabRegex = /[\u0617-\u061A\u064B-\u065F\u0670]/g;
 

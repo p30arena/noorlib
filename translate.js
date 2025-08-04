@@ -4,6 +4,7 @@ const dotenv = require("dotenv");
 
 dotenv.config();
 
+const BOOK_DIR = `./scraped_data/${process.env.BOOK_NAME}`;
 const ai = new GoogleGenAI({});
 const titleCache = {};
 
@@ -64,13 +65,13 @@ async function translateText(text, isTitle = false) {
 
 async function main() {
   try {
-    const data = await fs.readFile(`./${process.env.BOOK_NAME}_hadiths.json`, "utf8");
+    const data = await fs.readFile(`${BOOK_DIR}/hadiths.json`, "utf8");
     const hadiths = JSON.parse(data);
     let translatedHadiths = [];
 
     // Load existing translations to resume progress
     try {
-      const translatedData = await fs.readFile(`./${process.env.BOOK_NAME}_hadiths_translated.json`, "utf8");
+      const translatedData = await fs.readFile(`${BOOK_DIR}/hadiths_translated.json`, "utf8");
       translatedHadiths = JSON.parse(translatedData);
       console.log(`Loaded ${translatedHadiths.length} existing translations.`);
     } catch (error) {
@@ -107,7 +108,7 @@ async function main() {
 
       // Save after each translation
       await fs.writeFile(
-        `./${process.env.BOOK_NAME}_hadiths_translated.json`,
+        `${BOOK_DIR}/hadiths_translated.json`,
         JSON.stringify(translatedHadiths, null, 2)
       );
       console.log(`Finished and saved hadith ID: ${hadith.id}`);

@@ -2,8 +2,8 @@ const fs = require('fs').promises;
 const path = require('path');
 const cheerio = require('cheerio');
 
-const SCRAPED_DATA_DIR = `./scraped_data/${process.env.BOOK_NAME}`;
-const OUTPUT_FILE = `./${process.env.BOOK_NAME}_hadiths.json`;
+const BOOK_DIR = `./scraped_data/${process.env.BOOK_NAME}`;
+const OUTPUT_FILE = `${BOOK_DIR}/hadiths.json`;
 
 async function getFilePaths(dir) {
   let allFiles = [];
@@ -22,7 +22,7 @@ async function getFilePaths(dir) {
 
 async function main() {
   console.log('Starting parser...');
-  const filePaths = await getFilePaths(SCRAPED_DATA_DIR);
+  const filePaths = await getFilePaths(BOOK_DIR);
 
   const groupedFiles = filePaths.reduce((acc, filePath) => {
     const match = filePath.match(/volume_(\d+)\/section_(\d+)\/page_(\d+)\.json$/);
