@@ -51,7 +51,7 @@ async function fetchBookPage(volumeNumber, sectionNumber, pageNumber) {
     return data;
   } catch (error) {
     console.error(`Error fetching data for V${volumeNumber} S${sectionNumber} P${pageNumber}:`, error);
-    return null;
+    throw error;
   }
 }
 
