@@ -6,6 +6,7 @@ const BOOK_DIR = `./scraped_data/${process.env.BOOK_NAME}`;
 const apiKeys = (process.env.GEMINI_API_KEY || "").split(",").filter(Boolean);
 let currentApiKeyIndex = 0;
 let consecutiveErrors = 0;
+let fullCycleCompleted = false;
 
 if (!apiKeys.length) {
   console.error("No Gemini API keys found. Please check your .env file.");
@@ -26,7 +27,7 @@ async function translateText(text, isTitle = false) {
   `;
   const prompt = `${prefix} ${isTitle ? title_sufix : ""}\n---\n${text}`;
 
-  const maxAttempts = apiKeys.length * 3; // Try each key up to 3 times
+  const maxAttempts = apiKeys.length * 3; // A generous number of attempts
   let attempt = 0;
 
   while (attempt < maxAttempts) {
@@ -68,11 +69,15 @@ async function translateText(text, isTitle = false) {
 
       // Switch to the next key
       currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
+      if (currentApiKeyIndex === 0) {
+        fullCycleCompleted = true;
+        console.log("Completed a full cycle through API keys.");
+      }
       console.log(`Switching to API key index ${currentApiKeyIndex}`);
 
-      if (consecutiveErrors >= 2) {
+      if (fullCycleCompleted && consecutiveErrors >= 2) {
         const delay = Math.pow(2, 3) * 1000;
-        console.log(`Two consecutive errors. Backing off for ${delay / 1000}s...`);
+        console.log(`Two consecutive errors after a full cycle. Backing off for ${delay / 1000}s...`);
         await new Promise((res) => setTimeout(res, delay));
         consecutiveErrors = 0; // Reset after backoff
       }
