@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 336,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479062872,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1097\"><page number=\"336\"/>(20) الملل و النحل للشهرستاني</p>"
+        },
+        {
+          "paragraphId": 479062873,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1098\">(21) على اطلال المذهب المادي للاستاذ فريد وجدى</p>"
+        },
+        {
+          "paragraphId": 479062874,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1099\">(22) حركات الشيعة المتطرفين للدكتور محمد جابر عبد العال</p>"
+        },
+        {
+          "paragraphId": 479062875,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1100\">(23) توحيد المفضل تعليق الكامل كاظم مظفر.</p>"
+        },
+        {
+          "paragraphId": 479062876,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1101\">***</p>"
+        },
+        {
+          "paragraphId": 479062877,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1102\"><page number=\"337\"/><heading level=\"2\">فهرست الكتاب</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "336",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1097\" paragraph-id=\"1097\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo336\">336</span>(20) الملل و النحل للشهرستاني</p>\n  <p id=\"p1098\" paragraph-id=\"1098\" class=\" G\">(21) على اطلال المذهب المادي للاستاذ فريد وجدى</p>\n  <p id=\"p1099\" paragraph-id=\"1099\" class=\" G\">(22) حركات الشيعة المتطرفين للدكتور محمد جابر عبد العال</p>\n  <p id=\"p1100\" paragraph-id=\"1100\" class=\" G\">(23) توحيد المفضل تعليق الكامل كاظم مظفر.</p>\n  <p id=\"p1101\" paragraph-id=\"1101\" class=\" G\">***</p>\n  <p id=\"p1102\" paragraph-id=\"1102\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "DD539E6A-C4BD-4F8E-A917-9FA38BBD6B0B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

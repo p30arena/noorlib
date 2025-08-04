@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 183,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884570,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"540\"><format class=\"sharh\">و الخلاصة أن هذه الضروب من الحشرات و امثالها تكون قوتا للطيور الليلية كما ذكرناه و قد أراد الامام عليه السّلام بذكرها ان تكون من جملة العبر التي يجب على المتأمل ان يفكر فيها و يعتبر بها ليرى كيف وجه اللّه تعالى الرزق لهذه الطيور التي </format><page number=\"183\"/><format class=\"sharh\">لا تستطيع ان تخرج نهارا و تخرج في وقت لم يوجد ما تقتات به الحيوانات الاخر مطلقا من طيور و غيرها فهيأ لها هذه الحشرات و جعلها منتشرة في الفضاء تلتقمها دون تعب او تفتيش عنها بالنور او الضياء.</format></p>"
+        },
+        {
+          "paragraphId": 552884571,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"541\"><format class=\"sharh\">فانظر الى غرائب الخلقة و عجائب الصنع و كلها صلاح و اصلاح لهذا العالم و ما فيه</format></p>"
+        },
+        {
+          "paragraphId": 552884572,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"542\"><page number=\"184\"/><heading level=\"3\">الخفاش</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "183",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p540\" paragraph-id=\"540\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo183\">183</span>\n    <span class=\"sharh\">لا تستطيع ان تخرج نهارا و تخرج في وقت لم يوجد ما تقتات به الحيوانات الاخر مطلقا من طيور و غيرها فهيأ لها هذه الحشرات و جعلها منتشرة في الفضاء تلتقمها دون تعب او تفتيش عنها بالنور او الضياء.</span>\n  </p>\n  <p id=\"p541\" paragraph-id=\"541\" class=\" G\">\n    <span class=\"sharh\">فانظر الى غرائب الخلقة و عجائب الصنع و كلها صلاح و اصلاح لهذا العالم و ما فيه</span>\n  </p>\n  <p id=\"p542\" paragraph-id=\"542\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "91C91733-E6F7-42C9-8734-BE0C55A176B0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

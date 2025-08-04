@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 31,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644706,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"112\"><format class=\"sharh\">ثم ان بين هذه الكتل سحبا كالغبار او البحار يصطلح عليه (سديم) </format><page number=\"31\"/><format class=\"sharh\">قد يرى بعضه منيرا لحرارته و اشتعاله الى حد الانارة حيث تشع عليه نجم او عدة نجوم. و بعضه معتما لا نور فيه اما لبعده الشاسع او لصغر نجومه و بعدها عنا و هذا السديم تختلف اشكاله فمنه حلقى و منه اهليلجى و منه حلزوني الى غيرها من الاشكال.</format></p>"
+        },
+        {
+          "paragraphId": 631644707,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"113\"><format class=\"sharh\">اما الشهب و النيازك و الرجوم فهل هي من النجوم الثوابت ام من شيء آخر فذلك ما يحتاج بيانه و اثباته الى تفصيل كثير لا يحتمله هذا المختصر فاذا شئت راجع الكتب المفصلة لتجد ذلك.</format></p>"
+        },
+        {
+          "paragraphId": 631644708,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"114\"><page number=\"32\"/><heading level=\"3\">و الفلك</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "31",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p112\" paragraph-id=\"112\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo31\">31</span>\n    <span class=\"sharh\">قد يرى بعضه منيرا لحرارته و اشتعاله الى حد الانارة حيث تشع عليه نجم او عدة نجوم. و بعضه معتما لا نور فيه اما لبعده الشاسع او لصغر نجومه و بعدها عنا و هذا السديم تختلف اشكاله فمنه حلقى و منه اهليلجى و منه حلزوني الى غيرها من الاشكال.</span>\n  </p>\n  <p id=\"p113\" paragraph-id=\"113\" class=\" G\">\n    <span class=\"sharh\">اما الشهب و النيازك و الرجوم فهل هي من النجوم الثوابت ام من شيء آخر فذلك ما يحتاج بيانه و اثباته الى تفصيل كثير لا يحتمله هذا المختصر فاذا شئت راجع الكتب المفصلة لتجد ذلك.</span>\n  </p>\n  <p id=\"p114\" paragraph-id=\"114\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "337798C4-3996-43AD-99F4-EAA1EAA43125",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

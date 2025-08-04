@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 93,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884459,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"301\"><format class=\"sharh\">ثم انه لما كانت الدابة في جميع أحوالها من وقوف أو حركة أو سير أو نوم أو غير ذلك مستقيمة الظهر على قوائمها الاربع بحيث لا تستطيع الانبطاح على ظهرها و لا على جوانبها، و على فرض استطاعتها على ذلك فانها لا تتمكن من فتح رجليها كالانثى من الانسان، تعذر على فحلها و طؤها و ضربها كفاحا أي مقابلة من الامام و كان من الضروري اذا اراد وطأها ان يطأها و هي واقفة، و من أجل هذا </format><page number=\"93\"/><format class=\"M\">ضربها، و لو كان أسفل البطن، كما كان الفرج من المرأة لم يتمكن الفحل منها ألا ترى انه لا يستطيع أن يأتيها كفاحا كما يأتي الرجل المرأة.</format></p>"
+        },
+        {
+          "paragraphId": 552884460,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"302\"><format class=\"sharh\">فقد اقتضت حكمة الصانع الحكيم ان يخلق حياها بارزا من ورائها، و لو لا ذلك لا متنع الوطىء و اذا امتنع الوطىء لم يحصل التناسل و اذا لم يحصل التناسل انعدم النوع و هذا ما لا تقصده الحكمة في الخلقة على ان النسل اذا انقطع من مثل هذه الحيوانات تعطلت اكثر حاجات البشر و مآرب الانسان التي تقضي بواسطتها فسبحان اللطيف الخبير.</format></p>"
+        },
+        {
+          "paragraphId": 552884461,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"303\"><page number=\"94\"/><heading level=\"3\">مشفر الفيل</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "93",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p301\" paragraph-id=\"301\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo93\">93</span>\n    <span class=\"M\">ضربها، و لو كان أسفل البطن، كما كان الفرج من المرأة لم يتمكن الفحل منها ألا ترى انه لا يستطيع أن يأتيها كفاحا كما يأتي الرجل المرأة.</span>\n  </p>\n  <p id=\"p302\" paragraph-id=\"302\" class=\" G\">\n    <span class=\"sharh\">فقد اقتضت حكمة الصانع الحكيم ان يخلق حياها بارزا من ورائها، و لو لا ذلك لا متنع الوطىء و اذا امتنع الوطىء لم يحصل التناسل و اذا لم يحصل التناسل انعدم النوع و هذا ما لا تقصده الحكمة في الخلقة على ان النسل اذا انقطع من مثل هذه الحيوانات تعطلت اكثر حاجات البشر و مآرب الانسان التي تقضي بواسطتها فسبحان اللطيف الخبير.</span>\n  </p>\n  <p id=\"p303\" paragraph-id=\"303\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "16162676-DD8A-495E-B021-679E33E5FEB5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 17,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644562,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"51\"><format class=\"sharh\">و كيف لا يكونون كذلك و قد جعلهم خالقهم الوسيلة الى النعيم بارشادهم العباد الى توحيده و اهدائهم الى سبيل مرضاته، و لاجل ذلك كان امتثال أوامرهم </format><page number=\"17\"/><format class=\"sharh\">و التجنب عن نواهيهم و التمسك بحبلهم و الاقتداء بتعاليمهم و الاعتراف بخصائصهم مستلزما للوصول الى الجنة.</format></p>"
+        },
+        {
+          "paragraphId": 631644563,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"52\"><format class=\"sharh\">قال الامام السجاد عليه السلام في دعائه يوم عرفه: اللهم انك ايدت دينك فى كل اوان بامام اقمته علما لعبادك و منارا في بلادك بعد أن وصلت حبله بحبلك و جعلته الذريعة الى رضوانك، و افترضت طاعته و حذرت معصيته و امرت بامتثال أمره و الانتهاء عند نهيه، و ان لا يتقدمه متقدم و لا يتأخر عنه متأخر، فهو عصمة اللائذين و كهف المؤمنين و عروة المتمسكين و بهاء الغافلين.</format></p>"
+        },
+        {
+          "paragraphId": 631644564,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"53\"><format class=\"sharh\">و معلوم ان قوله عليه السلام وصلت حبله بحبلك لم يكن مراده سوى الولاية بمعنى انك جعلت ولايته متصله بولايتك، فمن تولاه تولاك و من اطاعه اطاعك و من عصاه عصاك، و هذا بالطبع يستلزم ان يكون من زل عنه اي عن الامام هوى و من سار فى طريقه و منهجه وصل و نجا.</format></p>"
+        },
+        {
+          "paragraphId": 631644565,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"54\"><format class=\"sharh\">هذا هو المقصود من قول الامام عليه السلام.</format></p>"
+        },
+        {
+          "paragraphId": 631644566,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"55\"><format class=\"sharh\">من شذ عنا فالنار مأواه و من تفيأ بظل دوحتنا فالجنة مثواه فتأمل و فكر.</format></p>"
+        },
+        {
+          "paragraphId": 631644567,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"56\"><page number=\"18\"/><heading level=\"3\">بيان ما أملاه الإمام في اليومين السابقين</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "17",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p51\" paragraph-id=\"51\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo17\">17</span>\n    <span class=\"sharh\">و التجنب عن نواهيهم و التمسك بحبلهم و الاقتداء بتعاليمهم و الاعتراف بخصائصهم مستلزما للوصول الى الجنة.</span>\n  </p>\n  <p id=\"p52\" paragraph-id=\"52\" class=\" G\">\n    <span class=\"sharh\">قال الامام السجاد عليه السلام في دعائه يوم عرفه: اللهم انك ايدت دينك فى كل اوان بامام اقمته علما لعبادك و منارا في بلادك بعد أن وصلت حبله بحبلك و جعلته الذريعة الى رضوانك، و افترضت طاعته و حذرت معصيته و امرت بامتثال أمره و الانتهاء عند نهيه، و ان لا يتقدمه متقدم و لا يتأخر عنه متأخر، فهو عصمة اللائذين و كهف المؤمنين و عروة المتمسكين و بهاء الغافلين.</span>\n  </p>\n  <p id=\"p53\" paragraph-id=\"53\" class=\" G\">\n    <span class=\"sharh\">و معلوم ان قوله عليه السلام وصلت حبله بحبلك لم يكن مراده سوى الولاية بمعنى انك جعلت ولايته متصله بولايتك، فمن تولاه تولاك و من اطاعه اطاعك و من عصاه عصاك، و هذا بالطبع يستلزم ان يكون من زل عنه اي عن الامام هوى و من سار فى طريقه و منهجه وصل و نجا.</span>\n  </p>\n  <p id=\"p54\" paragraph-id=\"54\" class=\" G\">\n    <span class=\"sharh\">هذا هو المقصود من قول الامام عليه السلام.</span>\n  </p>\n  <p id=\"p55\" paragraph-id=\"55\" class=\" G\">\n    <span class=\"sharh\">من شذ عنا فالنار مأواه و من تفيأ بظل دوحتنا فالجنة مثواه فتأمل و فكر.</span>\n  </p>\n  <p id=\"p56\" paragraph-id=\"56\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "512A9A5C-EA15-4C18-ABF3-28411A9FB3D1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

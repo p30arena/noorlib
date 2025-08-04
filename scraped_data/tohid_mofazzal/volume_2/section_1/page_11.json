@@ -1,0 +1,44 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 11,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884194,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"36\"><format class=\"sharh\">و الى هذا المعنى أشار الامام أبو جعفر الباقر عليه السّلام كما في كشكول الميبدى ص 67 اذ قال: ففي توحيد الصدوق (رض عن جابر بن يزيد قال: سألت </format><page number=\"11\"/><format class=\"sharh\">أبا جعفر عليه السّلام عن قوله تعالى: <format class=\"ayah\" surah=\"50\" ayah=\"15\" toAyah=\"\">«أَ فَعَيِينٰا بِالْخَلْقِ اَلْأَوَّلِ بَلْ هُمْ فِي لَبْسٍ مِنْ خَلْقٍ جَدِيدٍ»<format class=\"ayahWord\" fromWord=\"1\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"50\" ayah=\"15\" toAyah=\"\"/></format> قال عليه السّلام: يا جابر تأويل ذلك ان اللّه عز و جل اذا أفتى الخلق و هذا العالم و سكن اهل الجنة الجنة و اهل النار النار جدّد اللّه عالما غير هذا العالم و جدّد خلقا من غير فحولة و لا اناث يعبدونه و يوحدونه و خلق لهم أرضا غير هذه الأرض تحملهم و سمآء غير هذه السمآء تظلهم، لعلك ترى ان اللّه انما خلق هذا العالم الواحد، لم يحلق بشرا غيركم، بلى و اللّه لقد خلق الف الف آدم و انت في آخر تلك العوالم و اولئك الآدميين، (انتهى) فسبحانه من عظيم مقتدر لا تدركه الابصار و هو يدرك الابصار.</format></p>"
+        },
+        {
+          "paragraphId": 552884195,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"37\"><page number=\"12\"/><heading level=\"3\">عدل الله في خلقه</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "11",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p36\" paragraph-id=\"36\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo11\">11</span>\n    <span class=\"sharh\">أبا جعفر عليه السّلام عن قوله تعالى: <span style=\"0\" class=\"ayah\" surah=\"50\" ayah=\"15\">«أَ فَعَيِينٰا بِالْخَلْقِ اَلْأَوَّلِ بَلْ هُمْ فِي لَبْسٍ مِنْ خَلْقٍ جَدِيدٍ»<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/50/15\"></a></span></span> قال عليه السّلام: يا جابر تأويل ذلك ان اللّه عز و جل اذا أفتى الخلق و هذا العالم و سكن اهل الجنة الجنة و اهل النار النار جدّد اللّه عالما غير هذا العالم و جدّد خلقا من غير فحولة و لا اناث يعبدونه و يوحدونه و خلق لهم أرضا غير هذه الأرض تحملهم و سمآء غير هذه السمآء تظلهم، لعلك ترى ان اللّه انما خلق هذا العالم الواحد، لم يحلق بشرا غيركم، بلى و اللّه لقد خلق الف الف آدم و انت في آخر تلك العوالم و اولئك الآدميين، (انتهى) فسبحانه من عظيم مقتدر لا تدركه الابصار و هو يدرك الابصار.</span>\n  </p>\n  <p id=\"p37\" paragraph-id=\"37\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "BC6E78B8-5B61-48C2-BB4E-7239BABA5A8A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

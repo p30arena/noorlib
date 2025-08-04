@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 61,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884367,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"209\"><format class=\"sharh\">و لما قدر ان لا تكون هذه المختبرات ذوات صناعة او زراعة او ما يماثلها </format><page number=\"61\"/><format class=\"sharh\">من الاعمال و لا صيد كالسباع خلق لبعضها اظلاف تقيها خشونة الارض و صلابتها لدى المرعى، و خلق لبعضها حوافر ململمة مجتمعة ذوات قعر كاخمص قدم الانسان لتنطبق على الارض و تمكنها من حمل الجسم مستقيما و حمل ما يوضع عليها و للركوب على ظهرها، و لو لا هذه الاقدام المخمصة لما امكنها عمل ذلك ابدا.</format></p>"
+        },
+        {
+          "paragraphId": 552884368,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"210\"><format class=\"sharh\">فانظر و تدبر و تأمل و اعتبر كيف اقتضت الحكمة الآلهية في خلق هذه الاصناف الثلاثة من الحيوان ان تكون على ما فيه صلاحها و ضرورتها بحيث لو لم تكن هكذا لما استطاعت أداء ما خلقت لاجله و لما حصلت على طعامها و قوتها المقدر لها لذلك فقد كان كلما ينبغي على ما ينبغي فسبحانه من حكيم قدير.</format></p>"
+        },
+        {
+          "paragraphId": 552884369,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"211\"><page number=\"62\"/><heading level=\"3\">آكلات اللحم من الحيوان</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "61",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p209\" paragraph-id=\"209\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo61\">61</span>\n    <span class=\"sharh\">من الاعمال و لا صيد كالسباع خلق لبعضها اظلاف تقيها خشونة الارض و صلابتها لدى المرعى، و خلق لبعضها حوافر ململمة مجتمعة ذوات قعر كاخمص قدم الانسان لتنطبق على الارض و تمكنها من حمل الجسم مستقيما و حمل ما يوضع عليها و للركوب على ظهرها، و لو لا هذه الاقدام المخمصة لما امكنها عمل ذلك ابدا.</span>\n  </p>\n  <p id=\"p210\" paragraph-id=\"210\" class=\" G\">\n    <span class=\"sharh\">فانظر و تدبر و تأمل و اعتبر كيف اقتضت الحكمة الآلهية في خلق هذه الاصناف الثلاثة من الحيوان ان تكون على ما فيه صلاحها و ضرورتها بحيث لو لم تكن هكذا لما استطاعت أداء ما خلقت لاجله و لما حصلت على طعامها و قوتها المقدر لها لذلك فقد كان كلما ينبغي على ما ينبغي فسبحانه من حكيم قدير.</span>\n  </p>\n  <p id=\"p211\" paragraph-id=\"211\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "B1AF1D0C-E680-41C5-8D19-AC72813E0F29",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

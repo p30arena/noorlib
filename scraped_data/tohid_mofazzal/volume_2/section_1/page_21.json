@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 21,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884032,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"74\"><page number=\"21\"/><heading level=\"3\">عظمة القرآن</heading></p>"
+        },
+        {
+          "paragraphId": 552884033,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"75\"><format class=\"M\">قال عليه السلام: الذي فيه تبيان كل شيء لا يأتيه الباطل من بين يديه </format><format class=\"sharh\">لما استشهد الامام عليه السّلام بالآية و اشار الى نظائرها فى الكتاب اخذ في بيان عظم هذا الكتاب و جلالته و في سبب استشهاده به، و ذلك لأنه قد جمع بين دفتيه تبيان كل شيء اشارة الى قوله تعالي: <format class=\"ayah\" surah=\"16\" ayah=\"89\" toAyah=\"\">وَ نَزَّلْنٰا عَلَيْكَ اَلْكِتٰابَ تِبْيٰاناً لِكُلِّ شَيْ‌ءٍ <format class=\"ayahWord\" fromWord=\"17\" toWord=\"23\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"89\" toAyah=\"\"/></format>- النحل - 91 اي يبين فيه كلما يحتاج اليه الخلق من امور الشرع و تعاليم الدين الذي ارسل به نبينا محمد صلى اللّه عليه و اله اما بالنص الصريح او بالأحالة الى ما يوجب العلم به من بيان النبي صلى اللّه عليه و اله و سائر الأئمة و الحجج أو من الاجماع، و بديهي ان كل ذلك مستفاد و مستقى من القرآن الحكيم قانون الاسلام و منهجه.</format></p>"
+        },
+        {
+          "paragraphId": 552884034,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"76\"><format class=\"sharh\">قال العلامة الطبرسي (ره) فى مجمع البيان، ان معنى الآية و هي قوله تعالى: </format></p>"
+        },
+        {
+          "paragraphId": 552884035,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"77\"><format class=\"sharh\"><format class=\"ayah\" surah=\"41\" ayah=\"42\" toAyah=\"\">(لاٰ يَأْتِيهِ اَلْبٰاطِلُ مِنْ بَيْنِ يَدَيْهِ وَ لاٰ مِنْ خَلْفِهِ‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"41\" ayah=\"42\" toAyah=\"\"/></format> هو انه لا يأتي لهذا القرآن ما يبطله من بين يديه مما تقدمته من الكتب التي سبقته بالنزول كالتوراة و الانجيل، و لا من خلفه أي و لا يجيء من بعده كتاب يبطله أو ينسخه فهو خاتمة الكتب السماوية كما ان النبي محمد صلى اللّه عليه و اله خاتمة الرسل و الأنبياء المبعوثين من اللّه تعالى. أو يقال في تفسيرها: انه ليس في اخباره عما مضى باطل و لا اخباره عما يكون في المستقبل باطل ايضا، بل اخباره كلها موافقة لمخبراتها صادقة غير كاذبة أو يقال: </format></p>"
+        },
+        {
+          "paragraphId": 552884036,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"78\"><format class=\"sharh\">انه لا يأتيه الباطل اى من جهة من الجهات فلا تناقض في ألفاظه و لا كذب في أخباره</format><page number=\"22\"/><format class=\"M\">و لا من خلفه تنزيل من حكيم حميد</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "21",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p74\" paragraph-id=\"74\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo21\">21</span>\n    <strong style=\"0\" class=\"h-3 03\">عظمة القرآن</strong>\n  </p>\n  <p id=\"p75\" paragraph-id=\"75\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: الذي فيه تبيان كل شيء لا يأتيه الباطل من بين يديه </span>\n    <span class=\"sharh\">لما استشهد الامام عليه السّلام بالآية و اشار الى نظائرها فى الكتاب اخذ في بيان عظم هذا الكتاب و جلالته و في سبب استشهاده به، و ذلك لأنه قد جمع بين دفتيه تبيان كل شيء اشارة الى قوله تعالي: <span style=\"0\" class=\"ayah\" surah=\"16\" ayah=\"89\">وَ نَزَّلْنٰا عَلَيْكَ اَلْكِتٰابَ تِبْيٰاناً لِكُلِّ شَيْ‌ءٍ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/16/89\"></a></span></span>- النحل - 91 اي يبين فيه كلما يحتاج اليه الخلق من امور الشرع و تعاليم الدين الذي ارسل به نبينا محمد صلى اللّه عليه و اله اما بالنص الصريح او بالأحالة الى ما يوجب العلم به من بيان النبي صلى اللّه عليه و اله و سائر الأئمة و الحجج أو من الاجماع، و بديهي ان كل ذلك مستفاد و مستقى من القرآن الحكيم قانون الاسلام و منهجه.</span>\n  </p>\n  <p id=\"p76\" paragraph-id=\"76\" class=\" G\">\n    <span class=\"sharh\">قال العلامة الطبرسي (ره) فى مجمع البيان، ان معنى الآية و هي قوله تعالى: </span>\n  </p>\n  <p id=\"p77\" paragraph-id=\"77\" class=\" G\">\n    <span class=\"sharh\">\n      <span style=\"0\" class=\"ayah\" surah=\"41\" ayah=\"42\">(لاٰ يَأْتِيهِ اَلْبٰاطِلُ مِنْ بَيْنِ يَدَيْهِ وَ لاٰ مِنْ خَلْفِهِ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/41/42\"></a></span></span> هو انه لا يأتي لهذا القرآن ما يبطله من بين يديه مما تقدمته من الكتب التي سبقته بالنزول كالتوراة و الانجيل، و لا من خلفه أي و لا يجيء من بعده كتاب يبطله أو ينسخه فهو خاتمة الكتب السماوية كما ان النبي محمد صلى اللّه عليه و اله خاتمة الرسل و الأنبياء المبعوثين من اللّه تعالى. أو يقال في تفسيرها: انه ليس في اخباره عما مضى باطل و لا اخباره عما يكون في المستقبل باطل ايضا، بل اخباره كلها موافقة لمخبراتها صادقة غير كاذبة أو يقال: </span>\n  </p>\n  <p id=\"p78\" paragraph-id=\"78\" class=\" G\">\n    <span class=\"sharh\">انه لا يأتيه الباطل اى من جهة من الجهات فلا تناقض في ألفاظه و لا كذب في أخباره</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "9BE87423-7A83-498C-86E0-C40975EBA03A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

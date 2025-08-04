@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 20,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884226,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"68\"><format class=\"sharh\">و قال بعض العرفاء: إياك ان تحتقر من الاعمال الصالحة شيئا ابدا صغيرا كان أو كبيرا إذ لا هاجس يهجس لك فى الطاعة إلا شكرك اللّه عليه. و كفى دليلا على ذلك قوله تعالى: <format class=\"ayah\" surah=\"99\" ayah=\"7\" toAyah=\"8\">فَمَنْ يَعْمَلْ مِثْقٰالَ ذَرَّةٍ خَيْراً يَرَهُ <format class=\"AyahSeprator\"/>وَ مَنْ يَعْمَلْ مِثْقٰالَ‌<page number=\"20\"/> ذَرَّةٍ شَرًّا يَرَهُ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"99\" ayah=\"7\" toAyah=\"8\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 552884227,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"69\"><format class=\"sharh\">و لهذه الآية الكريمة نظائر في القرآن الكريم كثيرة و هو قانون الاسلام و منهاج الشريعة المحمدية الغراء، و انا نذكر لك منها نزرا كنموذج لذاك.</format></p>"
+        },
+        {
+          "paragraphId": 552884228,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"70\"><format class=\"sharh\">قال تعالى: <format class=\"ayah\" surah=\"6\" ayah=\"160\" toAyah=\"\">مَنْ جٰاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثٰالِهٰا وَ مَنْ جٰاءَ بِالسَّيِّئَةِ فَلاٰ يُجْزىٰ إِلاّٰ مِثْلَهٰا وَ هُمْ لاٰ يُظْلَمُونَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"6\" ayah=\"160\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 552884229,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"71\"><format class=\"sharh\">و قال تعالى: <format class=\"ayah\" surah=\"3\" ayah=\"195\" toAyah=\"\">فَاسْتَجٰابَ لَهُمْ رَبُّهُمْ أَنِّي لاٰ أُضِيعُ عَمَلَ عٰامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثىٰ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"195\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 552884230,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"72\"><format class=\"sharh\">و قال تعالى: <format class=\"ayah\" surah=\"3\" ayah=\"106\" toAyah=\"107\">يَوْمَ تَبْيَضُّ وُجُوهٌ وَ تَسْوَدُّ وُجُوهٌ فَأَمَّا اَلَّذِينَ اِسْوَدَّتْ وُجُوهُهُمْ أَ كَفَرْتُمْ بَعْدَ إِيمٰانِكُمْ فَذُوقُوا اَلْعَذٰابَ بِمٰا كُنْتُمْ تَكْفُرُونَ‌، <format class=\"AyahSeprator\"/>وَ أَمَّا اَلَّذِينَ اِبْيَضَّتْ وُجُوهُهُمْ فَفِي رَحْمَتِ اَللّٰهِ هُمْ فِيهٰا خٰالِدُونَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"30\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"106\" toAyah=\"107\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 552884031,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"73\"><format class=\"sharh\">الى غيرها من الآيات البينات الكثيرة نكتفي منها بهذا القدر الكافي.</format></p>"
+        },
+        {
+          "paragraphId": 552884032,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"74\"><page number=\"21\"/><heading level=\"3\">عظمة القرآن</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "20",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p68\" paragraph-id=\"68\" class=\" G\">\n    <span class=\"sharh\">\n      <span style=\"0\" class=\"ayah\" surah=\"99\" ayah=\"7\">\n        <span class=\"GPA0 bookPage PageNo20\">20</span> ذَرَّةٍ شَرًّا يَرَهُ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/99/7\"></a></span></span>.</span>\n  </p>\n  <p id=\"p69\" paragraph-id=\"69\" class=\" G\">\n    <span class=\"sharh\">و لهذه الآية الكريمة نظائر في القرآن الكريم كثيرة و هو قانون الاسلام و منهاج الشريعة المحمدية الغراء، و انا نذكر لك منها نزرا كنموذج لذاك.</span>\n  </p>\n  <p id=\"p70\" paragraph-id=\"70\" class=\" G\">\n    <span class=\"sharh\">قال تعالى: <span style=\"0\" class=\"ayah\" surah=\"6\" ayah=\"160\">مَنْ جٰاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثٰالِهٰا وَ مَنْ جٰاءَ بِالسَّيِّئَةِ فَلاٰ يُجْزىٰ إِلاّٰ مِثْلَهٰا وَ هُمْ لاٰ يُظْلَمُونَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/6/160\"></a></span></span>.</span>\n  </p>\n  <p id=\"p71\" paragraph-id=\"71\" class=\" G\">\n    <span class=\"sharh\">و قال تعالى: <span style=\"0\" class=\"ayah\" surah=\"3\" ayah=\"195\">فَاسْتَجٰابَ لَهُمْ رَبُّهُمْ أَنِّي لاٰ أُضِيعُ عَمَلَ عٰامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثىٰ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/3/195\"></a></span></span>.</span>\n  </p>\n  <p id=\"p72\" paragraph-id=\"72\" class=\" G\">\n    <span class=\"sharh\">و قال تعالى: <span style=\"0\" class=\"ayah\" surah=\"3\" ayah=\"106\">يَوْمَ تَبْيَضُّ وُجُوهٌ وَ تَسْوَدُّ وُجُوهٌ فَأَمَّا اَلَّذِينَ اِسْوَدَّتْ وُجُوهُهُمْ أَ كَفَرْتُمْ بَعْدَ إِيمٰانِكُمْ فَذُوقُوا اَلْعَذٰابَ بِمٰا كُنْتُمْ تَكْفُرُونَ‌، <span class=\"AyahSeprator\"></span>وَ أَمَّا اَلَّذِينَ اِبْيَضَّتْ وُجُوهُهُمْ فَفِي رَحْمَتِ اَللّٰهِ هُمْ فِيهٰا خٰالِدُونَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/3/106\"></a></span></span>.</span>\n  </p>\n  <p id=\"p73\" paragraph-id=\"73\" class=\" G\">\n    <span class=\"sharh\">الى غيرها من الآيات البينات الكثيرة نكتفي منها بهذا القدر الكافي.</span>\n  </p>\n  <p id=\"p74\" paragraph-id=\"74\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "C0D8822F-CE46-42DA-9561-D2D8B533685D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

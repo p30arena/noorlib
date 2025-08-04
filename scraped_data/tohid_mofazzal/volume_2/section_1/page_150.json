@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 150,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884099,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"441\"><page number=\"150\"/><format class=\"M\">في جناحيه و ذنبه ريشات طوال متان لينهض بها للطيران و كسي كله الريش ليتداخله الهواء فيقله.</format></p>"
+        },
+        {
+          "paragraphId": 552884100,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"442\"><format class=\"sharh\">أما جهاز التناسل فقد ذكر فى تشريح بيضة الطير و تكوينها كما سيأتي فى محله من هذه الرسالة.</format></p>"
+        },
+        {
+          "paragraphId": 552884101,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"443\"><format class=\"sharh\">أما جهاز التنفس فهو الرئتان بمساعدة اكياس هوائية تتصل بشعب الرئتين و تمتلىء بالشهيق و الزفير كغيرها من الحيوانات الرئوية الاخرى.</format></p>"
+        },
+        {
+          "paragraphId": 552884102,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"444\"><format class=\"sharh\">أما الجهاز العصبي للحس و الادراك، فان دماغ الطير قصير و عريض و مخيخه كبير، و كذلك فصوص البصر بخلاف فصوص الشم الصغيرة جدا و التي لا تدرك الروائح بها ألا قليلا و مثلها حاسة الذوق، و لكن السمع و البصر حادتان عند الطير و بهما يستعين على أعماله الضرورية الحيوية.</format></p>"
+        },
+        {
+          "paragraphId": 552884103,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"445\"><format class=\"sharh\">و للطير كبد تتصل بالامعاء و طحال و زوج من الغدد الدرقية، كما ان له قلبا و للقلب بطينين و اذينين رقيقتى الجدران، بواسطتهما تحصل فى الطير الدورتان الدمويتان الصغرى و الكبرى غير ان دم البطين الايمن لا يختلط مع دم البطين الايسر</format></p>"
+        },
+        {
+          "paragraphId": 552884104,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"446\"><format class=\"sharh\">و كل هذا الجسم الخفيف المجوف العظام المليء فى جوفه بالهواء قد كسى بالريش لتخفيف بدنه و ليتداخله الهواء أيضا فيساعده على حركاته السريعة فى الفضاء</format></p>"
+        },
+        {
+          "paragraphId": 552884105,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"447\"><format class=\"sharh\">و هذا الريش كما سنذكره مجوف زيادة على خفته كما سيأتي.</format></p>"
+        },
+        {
+          "paragraphId": 552884106,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"448\"><page number=\"151\"/><heading level=\"3\">حرارة جوف الطير و منقاره</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "150",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p441\" paragraph-id=\"441\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo150\">150</span>\n    <span class=\"M\">في جناحيه و ذنبه ريشات طوال متان لينهض بها للطيران و كسي كله الريش ليتداخله الهواء فيقله.</span>\n  </p>\n  <p id=\"p442\" paragraph-id=\"442\" class=\" G\">\n    <span class=\"sharh\">أما جهاز التناسل فقد ذكر فى تشريح بيضة الطير و تكوينها كما سيأتي فى محله من هذه الرسالة.</span>\n  </p>\n  <p id=\"p443\" paragraph-id=\"443\" class=\" G\">\n    <span class=\"sharh\">أما جهاز التنفس فهو الرئتان بمساعدة اكياس هوائية تتصل بشعب الرئتين و تمتلىء بالشهيق و الزفير كغيرها من الحيوانات الرئوية الاخرى.</span>\n  </p>\n  <p id=\"p444\" paragraph-id=\"444\" class=\" G\">\n    <span class=\"sharh\">أما الجهاز العصبي للحس و الادراك، فان دماغ الطير قصير و عريض و مخيخه كبير، و كذلك فصوص البصر بخلاف فصوص الشم الصغيرة جدا و التي لا تدرك الروائح بها ألا قليلا و مثلها حاسة الذوق، و لكن السمع و البصر حادتان عند الطير و بهما يستعين على أعماله الضرورية الحيوية.</span>\n  </p>\n  <p id=\"p445\" paragraph-id=\"445\" class=\" G\">\n    <span class=\"sharh\">و للطير كبد تتصل بالامعاء و طحال و زوج من الغدد الدرقية، كما ان له قلبا و للقلب بطينين و اذينين رقيقتى الجدران، بواسطتهما تحصل فى الطير الدورتان الدمويتان الصغرى و الكبرى غير ان دم البطين الايمن لا يختلط مع دم البطين الايسر</span>\n  </p>\n  <p id=\"p446\" paragraph-id=\"446\" class=\" G\">\n    <span class=\"sharh\">و كل هذا الجسم الخفيف المجوف العظام المليء فى جوفه بالهواء قد كسى بالريش لتخفيف بدنه و ليتداخله الهواء أيضا فيساعده على حركاته السريعة فى الفضاء</span>\n  </p>\n  <p id=\"p447\" paragraph-id=\"447\" class=\" G\">\n    <span class=\"sharh\">و هذا الريش كما سنذكره مجوف زيادة على خفته كما سيأتي.</span>\n  </p>\n  <p id=\"p448\" paragraph-id=\"448\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "52919CC2-71B2-4721-84D3-BC2E2BD78790",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,92 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 51,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884323,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"165\"><page number=\"51\"/><format class=\"M\">غير صانع جاز ان يكون ذلك فى هذه التماثيل الميتة فان كان هذا غير جائز فى التماثيل فبالحري ان لا يجوز في الحيوان.</format></p>"
+        },
+        {
+          "paragraphId": 552884324,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"166\"><format class=\"sharh\">1 - الاكسجين 65%</format></p>"
+        },
+        {
+          "paragraphId": 552884325,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"167\"><format class=\"sharh\">2 - الكربون 5 ر 18%</format></p>"
+        },
+        {
+          "paragraphId": 552884326,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"168\"><format class=\"sharh\">3 - الهيدروجين 11%</format></p>"
+        },
+        {
+          "paragraphId": 552884327,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"169\"><format class=\"sharh\">4 - النيتروجين 5 ر 2%</format></p>"
+        },
+        {
+          "paragraphId": 552884328,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"170\"><format class=\"sharh\">أما الباقي و هو 3% فيحتوى على الفسفور و الحديد و الكلور و البوتاسيوم و المغنيسيوم و الصوديوم و الكالسيوم</format></p>"
+        },
+        {
+          "paragraphId": 552884329,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"171\"><format class=\"sharh\">أما القسم المحيط بالنواة فيعرف باسم (سايتوبلازم) و تتميز فيه طبقتان إحداهما خارجية و تدعى «اكيتو بلازم» و اخرى داخلية و تسمى «آيتوبلازم».</format></p>"
+        },
+        {
+          "paragraphId": 552884330,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"172\"><format class=\"sharh\">أما النواة: فهي ايضا ماده بروتوبلامية كثيفة القوام صلبة مفصولة عن السائل بغشاء رقيق، و يوجد فى داخلها سائل تسبح فيه شبكة من الالياف الدقيقة الحساسة كما يوجد فيها ايضا جسم كثيف نسبيا يسمى (نوية) مصغرة نواة، و هذا هو اهم ما فى النواة حيث به يحصل تكاثر النواة و تغذيتها الى كثير من الاعمال المنوطة بالنواة.</format></p>"
+        },
+        {
+          "paragraphId": 552884331,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"173\"><format class=\"sharh\">و على هذا الاساس العلمي الحاصل بالبحث العلمي و التتبعات التجربية قال علماء الحيوان اليوم.</format></p>"
+        },
+        {
+          "paragraphId": 552884332,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"174\"><format class=\"sharh\">ان المملكة الحيوانية الجبارة لتضم من الحيوانات ما يختلف بعضها عن البعض اختلافا جليا ظاهرا فى بناء اجسامها. فهناك ما يتألف جسمها من حجيرة واحدة مثل «الأميبيا» التي هي صغيرة جدا لدرجة انها لا يمكن ان تراها العين المجردة </format><page number=\"52\"/><format class=\"M\">او هناك في الوقت نفسه حيوانات ضخمة كبيرة يتألف جسمها من آلاف بل ملايين الحجيرات كالفيل و امثاله.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "51",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p165\" paragraph-id=\"165\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo51\">51</span>\n    <span class=\"M\">غير صانع جاز ان يكون ذلك فى هذه التماثيل الميتة فان كان هذا غير جائز فى التماثيل فبالحري ان لا يجوز في الحيوان.</span>\n  </p>\n  <p id=\"p166\" paragraph-id=\"166\" class=\" G\">\n    <span class=\"sharh\">1 - الاكسجين 65%</span>\n  </p>\n  <p id=\"p167\" paragraph-id=\"167\" class=\" G\">\n    <span class=\"sharh\">2 - الكربون 5 ر 18%</span>\n  </p>\n  <p id=\"p168\" paragraph-id=\"168\" class=\" G\">\n    <span class=\"sharh\">3 - الهيدروجين 11%</span>\n  </p>\n  <p id=\"p169\" paragraph-id=\"169\" class=\" G\">\n    <span class=\"sharh\">4 - النيتروجين 5 ر 2%</span>\n  </p>\n  <p id=\"p170\" paragraph-id=\"170\" class=\" G\">\n    <span class=\"sharh\">أما الباقي و هو 3% فيحتوى على الفسفور و الحديد و الكلور و البوتاسيوم و المغنيسيوم و الصوديوم و الكالسيوم</span>\n  </p>\n  <p id=\"p171\" paragraph-id=\"171\" class=\" G\">\n    <span class=\"sharh\">أما القسم المحيط بالنواة فيعرف باسم (سايتوبلازم) و تتميز فيه طبقتان إحداهما خارجية و تدعى «اكيتو بلازم» و اخرى داخلية و تسمى «آيتوبلازم».</span>\n  </p>\n  <p id=\"p172\" paragraph-id=\"172\" class=\" G\">\n    <span class=\"sharh\">أما النواة: فهي ايضا ماده بروتوبلامية كثيفة القوام صلبة مفصولة عن السائل بغشاء رقيق، و يوجد فى داخلها سائل تسبح فيه شبكة من الالياف الدقيقة الحساسة كما يوجد فيها ايضا جسم كثيف نسبيا يسمى (نوية) مصغرة نواة، و هذا هو اهم ما فى النواة حيث به يحصل تكاثر النواة و تغذيتها الى كثير من الاعمال المنوطة بالنواة.</span>\n  </p>\n  <p id=\"p173\" paragraph-id=\"173\" class=\" G\">\n    <span class=\"sharh\">و على هذا الاساس العلمي الحاصل بالبحث العلمي و التتبعات التجربية قال علماء الحيوان اليوم.</span>\n  </p>\n  <p id=\"p174\" paragraph-id=\"174\" class=\" G\">\n    <span class=\"sharh\">ان المملكة الحيوانية الجبارة لتضم من الحيوانات ما يختلف بعضها عن البعض اختلافا جليا ظاهرا فى بناء اجسامها. فهناك ما يتألف جسمها من حجيرة واحدة مثل «الأميبيا» التي هي صغيرة جدا لدرجة انها لا يمكن ان تراها العين المجردة </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "5CE08367-8457-4AC3-B8E2-0D59F503F6ED",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

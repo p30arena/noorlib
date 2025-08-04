@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 99,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884475,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"317\"><format class=\"sharh\">ثم لما كان العنق بهذه الصورة صار الفيل غير قادر على تنزيل رأسه إلى الأرض لتناول علفه و مائه و لا على تحريكه الى الاطراف لمآربه الاخرى، فخلق له </format><page number=\"99\"/><format class=\"M\">ما وصفناه، و خلق له مكان العنق هذا المشقر ليتناول به غذاءه فصار مع عدم العنق مستوفيا ما فيه بلوغ حاجته.</format></p>"
+        },
+        {
+          "paragraphId": 552884476,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"318\"><format class=\"sharh\">هذا المشفر العجيب الذي اصبح بمنزلة اليد و الأنف و آلة الشم و الاحساس بل اصبح كما تقدم سلاحه الذي به يهاجم و به يدافع و الذي جعل اللّه تعالى فيه من القوة ما يقلع به الشجرة القوية العالية من اصولها دون أي جهد او اهتمام لها. و بذلك استوفى كلما يحتاجه لقضاء حاجياته الضرورية و انجاز مآربه الحياتية.</format></p>"
+        },
+        {
+          "paragraphId": 552884477,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"319\"><format class=\"sharh\">فهل في هذا الاتقان و الابداع ما يبقى شكّا او اعتراضا لشاك او معترض لا سيما اذا انصف نفسه و عرف الحقيقة اللهم تعاليت عما يقولون و خسر هنالك المبطلون.</format></p>"
+        },
+        {
+          "paragraphId": 552884478,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"320\"><page number=\"100\"/><heading level=\"3\">حياء أنثى الفيل</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "99",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p317\" paragraph-id=\"317\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo99\">99</span>\n    <span class=\"M\">ما وصفناه، و خلق له مكان العنق هذا المشقر ليتناول به غذاءه فصار مع عدم العنق مستوفيا ما فيه بلوغ حاجته.</span>\n  </p>\n  <p id=\"p318\" paragraph-id=\"318\" class=\" G\">\n    <span class=\"sharh\">هذا المشفر العجيب الذي اصبح بمنزلة اليد و الأنف و آلة الشم و الاحساس بل اصبح كما تقدم سلاحه الذي به يهاجم و به يدافع و الذي جعل اللّه تعالى فيه من القوة ما يقلع به الشجرة القوية العالية من اصولها دون أي جهد او اهتمام لها. و بذلك استوفى كلما يحتاجه لقضاء حاجياته الضرورية و انجاز مآربه الحياتية.</span>\n  </p>\n  <p id=\"p319\" paragraph-id=\"319\" class=\" G\">\n    <span class=\"sharh\">فهل في هذا الاتقان و الابداع ما يبقى شكّا او اعتراضا لشاك او معترض لا سيما اذا انصف نفسه و عرف الحقيقة اللهم تعاليت عما يقولون و خسر هنالك المبطلون.</span>\n  </p>\n  <p id=\"p320\" paragraph-id=\"320\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "02B30B10-A275-4430-AB2F-9466A14B710E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

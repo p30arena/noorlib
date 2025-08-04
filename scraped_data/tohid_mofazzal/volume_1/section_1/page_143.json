@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 143,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479062066,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"459\"><format class=\"sharh\">فاذا عرفت عظمة هذا العضو المهم، تحقق لديك وجوب العناية به في الخلقه ثم وقايته و صيانته من الطوارىء. ثم ادركت الحكمة في جعل العينين في الرأس اعلى الاعضاء و اسماها، لا في البدين أو الرجلين لانها اعضاء جوارح و عوامل تتصادم مع </format><page number=\"143\"/><format class=\"sharh\">الأجسام الخارجية مما يجعلها معرضا للآفات التى قد تصيبها من مباشرة العمل و الحركة فتؤثر فيهما و تمرضهما كما لا يحسن أن يجملا فى الاعضاء التى في وسط الجسم، كالبطن و الظهر لان من ابرز وظائف العينين الاستطلاع و التطلع على الاشياء، فيكون جعلهما فى وسط الجسم مما يعوقهما من الاطلاع على شيء البتة فينتج من ذلك لزوم وضعهما في الرأس لا غير، بل هو الذي ينبغي ان يكون و لا يكون غيره.</format></p>"
+        },
+        {
+          "paragraphId": 479062067,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"460\"><format class=\"sharh\">و إنما كان الرأس كالصومعه تشبيها له بصومة العابد على رأس الجبل، بعيدا عن الناس مشرفا عليهم، و الرأس كذلك بعيد عن الاعضاء مشرف عليها.</format></p>"
+        },
+        {
+          "paragraphId": 479062068,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"461\"><format class=\"sharh\">و في هذا من الابداع و الحكمة و الاتقان. ما لا يدركه الا ذو عقل سليم و ذوق معتدل فسبحان الخالق عما يتشدق به الجاهلون.</format></p>"
+        },
+        {
+          "paragraphId": 479062069,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"462\"> ***</p>"
+        },
+        {
+          "paragraphId": 479062070,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"463\"><page number=\"144\"/><heading level=\"3\">البصر و السمع و اعمالهما و اسرارهما</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "143",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p459\" paragraph-id=\"459\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo143\">143</span>\n    <span class=\"sharh\">الأجسام الخارجية مما يجعلها معرضا للآفات التى قد تصيبها من مباشرة العمل و الحركة فتؤثر فيهما و تمرضهما كما لا يحسن أن يجملا فى الاعضاء التى في وسط الجسم، كالبطن و الظهر لان من ابرز وظائف العينين الاستطلاع و التطلع على الاشياء، فيكون جعلهما فى وسط الجسم مما يعوقهما من الاطلاع على شيء البتة فينتج من ذلك لزوم وضعهما في الرأس لا غير، بل هو الذي ينبغي ان يكون و لا يكون غيره.</span>\n  </p>\n  <p id=\"p460\" paragraph-id=\"460\" class=\" G\">\n    <span class=\"sharh\">و إنما كان الرأس كالصومعه تشبيها له بصومة العابد على رأس الجبل، بعيدا عن الناس مشرفا عليهم، و الرأس كذلك بعيد عن الاعضاء مشرف عليها.</span>\n  </p>\n  <p id=\"p461\" paragraph-id=\"461\" class=\" G\">\n    <span class=\"sharh\">و في هذا من الابداع و الحكمة و الاتقان. ما لا يدركه الا ذو عقل سليم و ذوق معتدل فسبحان الخالق عما يتشدق به الجاهلون.</span>\n  </p>\n  <p id=\"p462\" paragraph-id=\"462\" class=\" G\"> ***</p>\n  <p id=\"p463\" paragraph-id=\"463\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "C54F8CA1-87D1-480B-8848-843C67675032",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

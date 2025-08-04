@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 13,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644551,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"40\"><format class=\"sharh\">اما قوله (و لم يصطف علينا) اي لم يفضل علينا احدا من خلقه بل اختصنا نحن بالتفضيل و الشرف. اقول و ذلك لما علم فيهم من القابلية و الاستعداد و الاستحقاق لافاضة ذلك اللطف عليهم. قال الامام زين العابدين عليه السلام </format><page number=\"13\"/><format class=\"sharh\">في بعض ادعيته: اللهم صل على محمد و آل محمد كما شرفتنا به، و صل على محمد و آل محمد كما اوجبت لنا الحق على الخلق بسببه.</format></p>"
+        },
+        {
+          "paragraphId": 631644552,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"41\"><format class=\"sharh\">و هذا بديهى فى أنه لم يقصد الا الأئمة المعصومين من ذريته اذ قال تعالى <format class=\"ayah\" surah=\"4\" ayah=\"59\" toAyah=\"\">(أَطِيعُوا اَللّٰهَ وَ أَطِيعُوا اَلرَّسُولَ وَ أُولِي اَلْأَمْرِ مِنْكُمْ‌)<format class=\"ayahWord\" fromWord=\"5\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"4\" ayah=\"59\" toAyah=\"\"/></format> و هم هم أولوا الامر بعد جدهم الرسول الاعظم بالضرورة، و من كانت هذه منزلته عند اللّه تعالى كيف يصطفى عليهم غيرهم و يختار من خلقه سواهم صلى اللّه عليهم اجمعين.</format></p>"
+        },
+        {
+          "paragraphId": 631644553,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"42\"><page number=\"14\"/><format class=\"M\">قال عليه السلام: اصطفانا بعلمه و ايدنا بحلمه</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "13",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p40\" paragraph-id=\"40\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo13\">13</span>\n    <span class=\"sharh\">في بعض ادعيته: اللهم صل على محمد و آل محمد كما شرفتنا به، و صل على محمد و آل محمد كما اوجبت لنا الحق على الخلق بسببه.</span>\n  </p>\n  <p id=\"p41\" paragraph-id=\"41\" class=\" G\">\n    <span class=\"sharh\">و هذا بديهى فى أنه لم يقصد الا الأئمة المعصومين من ذريته اذ قال تعالى <span style=\"0\" class=\"ayah\" surah=\"4\" ayah=\"59\">(أَطِيعُوا اَللّٰهَ وَ أَطِيعُوا اَلرَّسُولَ وَ أُولِي اَلْأَمْرِ مِنْكُمْ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/4/59\"></a></span></span> و هم هم أولوا الامر بعد جدهم الرسول الاعظم بالضرورة، و من كانت هذه منزلته عند اللّه تعالى كيف يصطفى عليهم غيرهم و يختار من خلقه سواهم صلى اللّه عليهم اجمعين.</span>\n  </p>\n  <p id=\"p42\" paragraph-id=\"42\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "E674A53B-ABDB-4B67-A8AD-E8FBCC6D5C54",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 64,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884373,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"215\"><format class=\"sharh\">أما سباع الطير [الطيور الجارحة] كالباشق و العقاب و الباز و النسر و أمثالها فانها تكون قوية الاجنحة قصيرة المناقير حادة الاطراف، و يكون منقارها الاعلى منه اطول من الاسفل و معكوف عليه، و لها اقدام قوية ذات مخالب حادة مقوسه و ذلك لتستطيع ان تمسك بها فريستها حتى تمزقها بمنقارها الحاد القوى، و معلوم ان الحكمة في خلق هذه الاعضاء على هذه الصورة و الشكل ما هي إلا لتكون </format><page number=\"64\"/><format class=\"sharh\">مهيأة لفعلها من تحصيل القوت و التمكن من الفريسة التي خلقت لتغذيتها.</format></p>"
+        },
+        {
+          "paragraphId": 552884374,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"216\"><format class=\"sharh\">فلو كانت هذه السباع من آكلات اللحم ذوات اظلاف و لم تخلق لها تلك البراثن و المخالب و الاسنان الحادة المدببة لما أمكنها الحصول على طعامها و غذائها الذي تعتاش به. و كذلك العكس فى الوحوش ذات الاظلاف الضرورية لتحصيل اكلها من النبات و لم تخلق لها مخالب و براثن إذ لا حاجه لها بها و لو اعطيت ذلك لكان لها ما لا تحتاج و لم تنتفع به.</format></p>"
+        },
+        {
+          "paragraphId": 552884375,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"217\"><format class=\"sharh\">فسبحان من أعطى كل واحد من هذين الصنفين ما يشاكل صنفه و يناسب حاجته و يكون به بقاؤه و صلاحه.</format></p>"
+        },
+        {
+          "paragraphId": 552884376,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"218\"><page number=\"65\"/><heading level=\"3\">ذوات الأربع</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "64",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p215\" paragraph-id=\"215\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo64\">64</span>\n    <span class=\"sharh\">مهيأة لفعلها من تحصيل القوت و التمكن من الفريسة التي خلقت لتغذيتها.</span>\n  </p>\n  <p id=\"p216\" paragraph-id=\"216\" class=\" G\">\n    <span class=\"sharh\">فلو كانت هذه السباع من آكلات اللحم ذوات اظلاف و لم تخلق لها تلك البراثن و المخالب و الاسنان الحادة المدببة لما أمكنها الحصول على طعامها و غذائها الذي تعتاش به. و كذلك العكس فى الوحوش ذات الاظلاف الضرورية لتحصيل اكلها من النبات و لم تخلق لها مخالب و براثن إذ لا حاجه لها بها و لو اعطيت ذلك لكان لها ما لا تحتاج و لم تنتفع به.</span>\n  </p>\n  <p id=\"p217\" paragraph-id=\"217\" class=\" G\">\n    <span class=\"sharh\">فسبحان من أعطى كل واحد من هذين الصنفين ما يشاكل صنفه و يناسب حاجته و يكون به بقاؤه و صلاحه.</span>\n  </p>\n  <p id=\"p218\" paragraph-id=\"218\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "186EB976-E0DB-48C7-89A2-8ABA5F099287",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

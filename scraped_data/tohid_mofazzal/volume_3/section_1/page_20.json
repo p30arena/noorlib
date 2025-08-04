@@ -1,0 +1,80 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 20,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644572,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"61\"><page number=\"20\"/><heading level=\"3\">السماء</heading></p>"
+        },
+        {
+          "paragraphId": 631644573,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"62\"><format class=\"M\">قال عليه السلام: و انا ابتدىء الآن بذكر السماء.</format></p>"
+        },
+        {
+          "paragraphId": 631644574,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"63\"><format class=\"sharh\">السماء لغة هو كل ما علاك يذكر و يؤنث، و جمعه اسمية و سموات.</format></p>"
+        },
+        {
+          "paragraphId": 631644575,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"64\"><format class=\"sharh\">قال الاستاذ فريد وجدي في دائرة معارفه: السماء هو الفلك الشامل لساير الاجرام و يطلق على السقف ايضا. و قال البستاني فى دائرة المعارف: السماء الفلك و ما يحيط بالارض من الفضاء الواسع و يظهر فوقنا و حولنا كقبة عظيمة فيها الشمس و القمر و ساير الكواكب.</format></p>"
+        },
+        {
+          "paragraphId": 631644576,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"65\"><format class=\"sharh\">و للناس اقوال متباينة في خلق السماء كل حسب معتقده و ما جاء فى كتبهم العلمية أو الدينية.</format></p>"
+        },
+        {
+          "paragraphId": 631644577,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"66\"><format class=\"sharh\">فقد ذهب الفلكيون الاقدمون الى انّ السماء جرم محسوس و ان الكواكب مثبتة فيه كالمسامير في الخشبة. و ذهب المحدثون الى أن السماء هو الفضاء الذي فوقنا مما لا يحده التصور تسبح فيه الكواكب سبحا بلا ماسك الا قدرة اللّه تعالى.</format></p>"
+        },
+        {
+          "paragraphId": 631644578,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"67\"><format class=\"sharh\">و الحق ما ذهب اليه المعاصرون اذ ليس فى كتاب اللّه ما يرجح مذهب الاولين، و ان كل ما ورد عن السماء و طبقاتها و انفجارها و انفطارها يوجه الى اجرامها و سياراتها.</format></p>"
+        },
+        {
+          "paragraphId": 631644579,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"68\"><format class=\"sharh\">قال العلامة هبة الدين الشهرستاني في كتابه (الهيئة و الاسلام) لا شك </format><page number=\"21\"/><format class=\"sharh\">ان العرف و اللغة يطلقان السماء على الشيء العلوي فانه من السمو بمعنى العلو.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "20",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p61\" paragraph-id=\"61\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo20\">20</span>\n    <strong style=\"0\" class=\"h-3 03\">السماء</strong>\n  </p>\n  <p id=\"p62\" paragraph-id=\"62\" class=\" G\">\n    <span class=\"M\">قال عليه السلام: و انا ابتدىء الآن بذكر السماء.</span>\n  </p>\n  <p id=\"p63\" paragraph-id=\"63\" class=\" G\">\n    <span class=\"sharh\">السماء لغة هو كل ما علاك يذكر و يؤنث، و جمعه اسمية و سموات.</span>\n  </p>\n  <p id=\"p64\" paragraph-id=\"64\" class=\" G\">\n    <span class=\"sharh\">قال الاستاذ فريد وجدي في دائرة معارفه: السماء هو الفلك الشامل لساير الاجرام و يطلق على السقف ايضا. و قال البستاني فى دائرة المعارف: السماء الفلك و ما يحيط بالارض من الفضاء الواسع و يظهر فوقنا و حولنا كقبة عظيمة فيها الشمس و القمر و ساير الكواكب.</span>\n  </p>\n  <p id=\"p65\" paragraph-id=\"65\" class=\" G\">\n    <span class=\"sharh\">و للناس اقوال متباينة في خلق السماء كل حسب معتقده و ما جاء فى كتبهم العلمية أو الدينية.</span>\n  </p>\n  <p id=\"p66\" paragraph-id=\"66\" class=\" G\">\n    <span class=\"sharh\">فقد ذهب الفلكيون الاقدمون الى انّ السماء جرم محسوس و ان الكواكب مثبتة فيه كالمسامير في الخشبة. و ذهب المحدثون الى أن السماء هو الفضاء الذي فوقنا مما لا يحده التصور تسبح فيه الكواكب سبحا بلا ماسك الا قدرة اللّه تعالى.</span>\n  </p>\n  <p id=\"p67\" paragraph-id=\"67\" class=\" G\">\n    <span class=\"sharh\">و الحق ما ذهب اليه المعاصرون اذ ليس فى كتاب اللّه ما يرجح مذهب الاولين، و ان كل ما ورد عن السماء و طبقاتها و انفجارها و انفطارها يوجه الى اجرامها و سياراتها.</span>\n  </p>\n  <p id=\"p68\" paragraph-id=\"68\" class=\" G\">\n    <span class=\"sharh\">قال العلامة هبة الدين الشهرستاني في كتابه (الهيئة و الاسلام) لا شك </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "1D826E97-2D21-475D-A44D-33525D59FB4A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

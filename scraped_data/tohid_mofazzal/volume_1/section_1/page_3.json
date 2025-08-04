@@ -1,0 +1,101 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 3,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479061869,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"7\"><img src=\"BK14761G001S1P0\" alt=\"\" imgtype=\"Scan\"/><page number=\"1\"/><img src=\"BK14761G001S1P1\" alt=\"\" imgtype=\"Scan\"/><page number=\"2\"/><img src=\"BK14761G001S1P2\" alt=\"\" imgtype=\"Scan\"/><page number=\"3\"/><heading level=\"2\">قال اللّه تعالى</heading></p>"
+        },
+        {
+          "paragraphId": 479061870,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"8\"><format class=\"q\">بسم اللّه الرحمن الرحيم</format></p>"
+        },
+        {
+          "paragraphId": 479061871,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"9\"><format class=\"ayah\" surah=\"2\" ayah=\"163\" toAyah=\"\">وَ إِلٰهُكُمْ إِلٰهٌ وٰاحِدٌ لاٰ إِلٰهَ إِلاّٰ هُوَ اَلرَّحْمٰنُ اَلرَّحِيمُ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"163\" toAyah=\"\"/></format><lfootnote noteId=\"1\">1</lfootnote><format class=\"ayah\" surah=\"3\" ayah=\"6\" toAyah=\"\">هُوَ اَلَّذِي يُصَوِّرُكُمْ فِي اَلْأَرْحٰامِ كَيْفَ يَشٰاءُ لاٰ إِلٰهَ إِلاّٰ هُوَ اَلْعَزِيزُ اَلْحَكِيمُ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"6\" toAyah=\"\"/></format><lfootnote noteId=\"2\">2</lfootnote></p>"
+        },
+        {
+          "paragraphId": 479061872,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"10\"><format class=\"ayah\" surah=\"16\" ayah=\"78\" toAyah=\"\">وَ اَللّٰهُ أَخْرَجَكُمْ مِنْ بُطُونِ أُمَّهٰاتِكُمْ لاٰ تَعْلَمُونَ شَيْئاً وَ جَعَلَ لَكُمُ اَلسَّمْعَ وَ اَلْأَبْصٰارَ وَ اَلْأَفْئِدَةَ لَعَلَّكُمْ تَشْكُرُونَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"19\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"78\" toAyah=\"\"/></format><lfootnote noteId=\"3\">3</lfootnote></p>"
+        },
+        {
+          "paragraphId": 479061873,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"11\"><format class=\"ayah\" surah=\"41\" ayah=\"52\" toAyah=\"53\">قُلْ أَ رَأَيْتُمْ إِنْ كٰانَ مِنْ عِنْدِ اَللّٰهِ ثُمَّ كَفَرْتُمْ بِهِ مَنْ أَضَلُّ مِمَّنْ هُوَ فِي شِقٰاقٍ بَعِيدٍ * <format class=\"AyahSeprator\"/>سَنُرِيهِمْ آيٰاتِنٰا فِي اَلْآفٰاقِ وَ فِي أَنْفُسِهِمْ حَتّٰى يَتَبَيَّنَ لَهُمْ أَنَّهُ اَلْحَقُّ أَ وَ لَمْ يَكْفِ بِرَبِّكَ أَنَّهُ عَلىٰ كُلِّ شَيْ‌ءٍ شَهِيدٌ<format class=\"ayahWord\" fromWord=\"1\" toWord=\"40\"/><format class=\"ayahAddress\" surah=\"41\" ayah=\"52\" toAyah=\"53\"/></format><lfootnote noteId=\"4\">4</lfootnote></p>"
+        },
+        {
+          "paragraphId": 479061874,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"12\"><format class=\"ayah\" surah=\"28\" ayah=\"50\" toAyah=\"\">فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمٰا يَتَّبِعُونَ أَهْوٰاءَهُمْ وَ مَنْ أَضَلُّ مِمَّنِ اِتَّبَعَ هَوٰاهُ بِغَيْرِ هُدىً مِنَ اَللّٰهِ إِنَّ اَللّٰهَ لاٰ يَهْدِي اَلْقَوْمَ اَلظّٰالِمِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"24\"/><format class=\"ayahAddress\" surah=\"28\" ayah=\"50\" toAyah=\"\"/></format><lfootnote noteId=\"5\">5</lfootnote></p>"
+        },
+        {
+          "paragraphId": 479061875,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"13\">صدق اللّه العظيم</p>"
+        },
+        {
+          "paragraphId": 479061876,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"14\"><page number=\"4\"/><page number=\"5\"/><heading level=\"2\">مقدمة الكتاب </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 479062965,
+          "text": "<footnote id=\"1\"><page number=\"3\"/><mnote>(1)</mnote> سورة البقرة آية 163.</footnote>"
+        },
+        {
+          "footnoteId": 479062966,
+          "text": "<footnote id=\"2\"><mnote>(2)</mnote> سورة آل عمران آية 6.</footnote>"
+        },
+        {
+          "footnoteId": 479062967,
+          "text": "<footnote id=\"3\"><mnote>(3)</mnote> سورة النحل آية 78.</footnote>"
+        },
+        {
+          "footnoteId": 479062968,
+          "text": "<footnote id=\"4\"><mnote>(4)</mnote> سورة فصلت آية 52-53.</footnote>"
+        },
+        {
+          "footnoteId": 479062969,
+          "text": "<footnote id=\"5\"><mnote>(5)</mnote> سورة القصص آية 50.</footnote>"
+        }
+      ],
+      "pageValue": "3",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p7\" paragraph-id=\"7\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo3\">3</span>\n    <strong style=\"0\" class=\"h-2 02\">قال اللّه تعالى</strong>\n  </p>\n  <p id=\"p8\" paragraph-id=\"8\" class=\" G\">\n    <span class=\"q\">بسم اللّه الرحمن الرحيم</span>\n  </p>\n  <p id=\"p9\" paragraph-id=\"9\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"2\" ayah=\"163\">وَ إِلٰهُكُمْ إِلٰهٌ وٰاحِدٌ لاٰ إِلٰهَ إِلاّٰ هُوَ اَلرَّحْمٰنُ اَلرَّحِيمُ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/2/163\"></a></span></span>\n    <span>\n      <sup>\n        <a class=\"NewFn\" href=\"#footnote1\" title=\"(1)  سورة البقرة آية 163.\">1</a>\n      </sup>\n    </span>\n    <span style=\"0\" class=\"ayah\" surah=\"3\" ayah=\"6\">هُوَ اَلَّذِي يُصَوِّرُكُمْ فِي اَلْأَرْحٰامِ كَيْفَ يَشٰاءُ لاٰ إِلٰهَ إِلاّٰ هُوَ اَلْعَزِيزُ اَلْحَكِيمُ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/3/6\"></a></span></span>\n    <span>\n      <sup>\n        <a class=\"NewFn\" href=\"#footnote2\" title=\"(2)  سورة آل عمران آية 6.\">2</a>\n      </sup>\n    </span>\n  </p>\n  <p id=\"p10\" paragraph-id=\"10\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"16\" ayah=\"78\">وَ اَللّٰهُ أَخْرَجَكُمْ مِنْ بُطُونِ أُمَّهٰاتِكُمْ لاٰ تَعْلَمُونَ شَيْئاً وَ جَعَلَ لَكُمُ اَلسَّمْعَ وَ اَلْأَبْصٰارَ وَ اَلْأَفْئِدَةَ لَعَلَّكُمْ تَشْكُرُونَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/16/78\"></a></span></span>\n    <span>\n      <sup>\n        <a class=\"NewFn\" href=\"#footnote3\" title=\"(3)  سورة النحل آية 78.\">3</a>\n      </sup>\n    </span>\n  </p>\n  <p id=\"p11\" paragraph-id=\"11\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"41\" ayah=\"52\">قُلْ أَ رَأَيْتُمْ إِنْ كٰانَ مِنْ عِنْدِ اَللّٰهِ ثُمَّ كَفَرْتُمْ بِهِ مَنْ أَضَلُّ مِمَّنْ هُوَ فِي شِقٰاقٍ بَعِيدٍ * <span class=\"AyahSeprator\"></span>سَنُرِيهِمْ آيٰاتِنٰا فِي اَلْآفٰاقِ وَ فِي أَنْفُسِهِمْ حَتّٰى يَتَبَيَّنَ لَهُمْ أَنَّهُ اَلْحَقُّ أَ وَ لَمْ يَكْفِ بِرَبِّكَ أَنَّهُ عَلىٰ كُلِّ شَيْ‌ءٍ شَهِيدٌ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/41/52\"></a></span></span>\n    <span>\n      <sup>\n        <a class=\"NewFn\" href=\"#footnote4\" title=\"(4)  سورة فصلت آية 52-53.\">4</a>\n      </sup>\n    </span>\n  </p>\n  <p id=\"p12\" paragraph-id=\"12\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"28\" ayah=\"50\">فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمٰا يَتَّبِعُونَ أَهْوٰاءَهُمْ وَ مَنْ أَضَلُّ مِمَّنِ اِتَّبَعَ هَوٰاهُ بِغَيْرِ هُدىً مِنَ اَللّٰهِ إِنَّ اَللّٰهَ لاٰ يَهْدِي اَلْقَوْمَ اَلظّٰالِمِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/28/50\"></a></span></span>\n    <span>\n      <sup>\n        <a class=\"NewFn\" href=\"#footnote5\" title=\"(5)  سورة القصص آية 50.\">5</a>\n      </sup>\n    </span>\n  </p>\n  <p id=\"p13\" paragraph-id=\"13\" class=\" G\">صدق اللّه العظيم</p>\n  <p id=\"p14\" paragraph-id=\"14\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1\" footnote-id=\"1\">(1) <page number=\"3\" /> سورة البقرة آية 163.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote2\" footnote-id=\"2\">(2)  سورة آل عمران آية 6.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote3\" footnote-id=\"3\">(3)  سورة النحل آية 78.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote4\" footnote-id=\"4\">(4)  سورة فصلت آية 52-53.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote5\" footnote-id=\"5\">(5)  سورة القصص آية 50.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "2D586B5B-5C49-42EA-9FBF-12CA3FE4289E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

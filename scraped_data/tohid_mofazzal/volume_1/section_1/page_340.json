@@ -1,0 +1,158 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 340,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479062944,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1169\"><page number=\"340\"/>242 النفس و قواها</p>"
+        },
+        {
+          "paragraphId": 479062945,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1170\">249 النسيان نعمة عظيمة على الانسان</p>"
+        },
+        {
+          "paragraphId": 479062946,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1171\">253 نعمة الحياء في الانسان دون الحيوان</p>"
+        },
+        {
+          "paragraphId": 479062947,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1172\">257 المنطق أو الكلام و الكتابة</p>"
+        },
+        {
+          "paragraphId": 479062948,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1173\">266 ما اعطى الانسان من العلم و ما منع عنه</p>"
+        },
+        {
+          "paragraphId": 479062949,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1174\">272 الحكمة في كتمان أجل الانسان عنه</p>"
+        },
+        {
+          "paragraphId": 479062950,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1175\">277 حكمة اخرى في جهل المرء اجله و ترقب الموت</p>"
+        },
+        {
+          "paragraphId": 479062951,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1176\">281 الاحلام و الحكمة فيها</p>"
+        },
+        {
+          "paragraphId": 479062952,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1177\">288 الاشياء المخلوقة لمآرب الانسان</p>"
+        },
+        {
+          "paragraphId": 479062953,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1178\">300 وجوب العمل للانسان و كونه سنة طبيعية</p>"
+        },
+        {
+          "paragraphId": 479062954,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1179\">305 الخبز و الماء رأس معاش الانسان و الحكمة في ذلك</p>"
+        },
+        {
+          "paragraphId": 479062955,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1180\">311 الحكمة في عدم تشابه الناس بعضهم لبعض</p>"
+        },
+        {
+          "paragraphId": 479062956,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1181\">315 لماذا تنمو ابدان الحيوان الى حد ثم تقف و هى تغتذى ابدا</p>"
+        },
+        {
+          "paragraphId": 479062957,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1182\">319 حكمة ثقل أجسام الانس خاصة عن الحركة و جفاء الصناعات الدقيقة</p>"
+        },
+        {
+          "paragraphId": 479062958,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"1183\">324 الوجع و الالم و الحكمة في خلقهما</p>"
+        },
+        {
+          "paragraphId": 479062959,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"1184\">328 انقراض الحيوان لو لم يولد ذكرا و انثى</p>"
+        },
+        {
+          "paragraphId": 479062960,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"1185\">330 نبات شعر العانة للرجل و المرأة و ظهور اللحية للرجل فقط</p>"
+        },
+        {
+          "paragraphId": 479062961,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"1186\">333 الختام</p>"
+        },
+        {
+          "paragraphId": 479062962,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"1187\">335 و 336 هي مصادر الكتاب سقط العنوان منها</p>"
+        },
+        {
+          "paragraphId": 479062963,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"1188\">337 دليل الكتاب</p>"
+        },
+        {
+          "paragraphId": 479062964,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"1189\"><format class=\"EndIntroduction\" type=\"12\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "340",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1169\" paragraph-id=\"1169\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo340\">340</span>242 النفس و قواها</p>\n  <p id=\"p1170\" paragraph-id=\"1170\" class=\" G\">249 النسيان نعمة عظيمة على الانسان</p>\n  <p id=\"p1171\" paragraph-id=\"1171\" class=\" G\">253 نعمة الحياء في الانسان دون الحيوان</p>\n  <p id=\"p1172\" paragraph-id=\"1172\" class=\" G\">257 المنطق أو الكلام و الكتابة</p>\n  <p id=\"p1173\" paragraph-id=\"1173\" class=\" G\">266 ما اعطى الانسان من العلم و ما منع عنه</p>\n  <p id=\"p1174\" paragraph-id=\"1174\" class=\" G\">272 الحكمة في كتمان أجل الانسان عنه</p>\n  <p id=\"p1175\" paragraph-id=\"1175\" class=\" G\">277 حكمة اخرى في جهل المرء اجله و ترقب الموت</p>\n  <p id=\"p1176\" paragraph-id=\"1176\" class=\" G\">281 الاحلام و الحكمة فيها</p>\n  <p id=\"p1177\" paragraph-id=\"1177\" class=\" G\">288 الاشياء المخلوقة لمآرب الانسان</p>\n  <p id=\"p1178\" paragraph-id=\"1178\" class=\" G\">300 وجوب العمل للانسان و كونه سنة طبيعية</p>\n  <p id=\"p1179\" paragraph-id=\"1179\" class=\" G\">305 الخبز و الماء رأس معاش الانسان و الحكمة في ذلك</p>\n  <p id=\"p1180\" paragraph-id=\"1180\" class=\" G\">311 الحكمة في عدم تشابه الناس بعضهم لبعض</p>\n  <p id=\"p1181\" paragraph-id=\"1181\" class=\" G\">315 لماذا تنمو ابدان الحيوان الى حد ثم تقف و هى تغتذى ابدا</p>\n  <p id=\"p1182\" paragraph-id=\"1182\" class=\" G\">319 حكمة ثقل أجسام الانس خاصة عن الحركة و جفاء الصناعات الدقيقة</p>\n  <p id=\"p1183\" paragraph-id=\"1183\" class=\" G\">324 الوجع و الالم و الحكمة في خلقهما</p>\n  <p id=\"p1184\" paragraph-id=\"1184\" class=\" G\">328 انقراض الحيوان لو لم يولد ذكرا و انثى</p>\n  <p id=\"p1185\" paragraph-id=\"1185\" class=\" G\">330 نبات شعر العانة للرجل و المرأة و ظهور اللحية للرجل فقط</p>\n  <p id=\"p1186\" paragraph-id=\"1186\" class=\" G\">333 الختام</p>\n  <p id=\"p1187\" paragraph-id=\"1187\" class=\" G\">335 و 336 هي مصادر الكتاب سقط العنوان منها</p>\n  <p id=\"p1188\" paragraph-id=\"1188\" class=\" G\">337 دليل الكتاب</p>\n  <p id=\"p1189\" paragraph-id=\"1189\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n  <span />\n  <span />\n</div>",
+      "bookPageVisitLogId": "33119461-2DC4-4114-85DB-6FA757C1AF90",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

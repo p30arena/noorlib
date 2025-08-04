@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 143,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884283,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"425\"><format class=\"sharh\">و هو دويبة ذات ستة عيون كبار و ثمان ارجل قصار. و قد نسب </format><page number=\"143\"/><format class=\"M\">ثناله و ثبته، ثم يثب عليه فيأخذه، فاذا اخذه أشتمل عليه بجسمه كله مخافة أن ينجو منه، فلا يزال قابضا عليه حتى يحس بانه قد ضعف و أسترخى ثم يقبل عليه فيفترسه و يحى بذلك منه.</format></p>"
+        },
+        {
+          "paragraphId": 552884284,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"426\"><format class=\"sharh\">الى افلاطون انه قال: ان احرص الاشياء الذباب و اقنع الاشياء العنكبوت و قد جعل اللّه رزق اقنعها في احرصها.</format></p>"
+        },
+        {
+          "paragraphId": 552884285,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"427\"><format class=\"sharh\">و لهذه الظاهرة العجيبة فى هذه الدويبة الحقيرة و هذه الفطنة و الحيلة الفطرية فيها اراد الامام عليه السّلام لفت نظر اهل البصيرة و العقل الى ان يتأملوها و يعتبروا ثم يفكروا في هذه الخلقة البديعة و هذا الابداع العجيب ليعرفوا بعد ذلك جهل المنكرين للحكمة و عناد الجاحدين للصانع. هدانا اللّه الى الصراط المستقيم غير صراط المغضوب عليهم و لا الضالين.</format></p>"
+        },
+        {
+          "paragraphId": 552884286,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"428\"><page number=\"144\"/><heading level=\"3\">العنكبوت</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "143",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p425\" paragraph-id=\"425\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo143\">143</span>\n    <span class=\"M\">ثناله و ثبته، ثم يثب عليه فيأخذه، فاذا اخذه أشتمل عليه بجسمه كله مخافة أن ينجو منه، فلا يزال قابضا عليه حتى يحس بانه قد ضعف و أسترخى ثم يقبل عليه فيفترسه و يحى بذلك منه.</span>\n  </p>\n  <p id=\"p426\" paragraph-id=\"426\" class=\" G\">\n    <span class=\"sharh\">الى افلاطون انه قال: ان احرص الاشياء الذباب و اقنع الاشياء العنكبوت و قد جعل اللّه رزق اقنعها في احرصها.</span>\n  </p>\n  <p id=\"p427\" paragraph-id=\"427\" class=\" G\">\n    <span class=\"sharh\">و لهذه الظاهرة العجيبة فى هذه الدويبة الحقيرة و هذه الفطنة و الحيلة الفطرية فيها اراد الامام عليه السّلام لفت نظر اهل البصيرة و العقل الى ان يتأملوها و يعتبروا ثم يفكروا في هذه الخلقة البديعة و هذا الابداع العجيب ليعرفوا بعد ذلك جهل المنكرين للحكمة و عناد الجاحدين للصانع. هدانا اللّه الى الصراط المستقيم غير صراط المغضوب عليهم و لا الضالين.</span>\n  </p>\n  <p id=\"p428\" paragraph-id=\"428\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "0DC83299-1AC3-456B-99EE-520B6FA30443",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,44 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 89,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479062265,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"249\"><format class=\"sharh\">و الى هذا كله أشار الامام (ع) بقوله: فيلتقى الأشياء بذهن ضعيف و معرفة </format><page number=\"89\"/><format class=\"sharh\">ناقصة ثم لا يزال يتزايد في المعرفة قليلا قليلا الخ اي ان الانسان اذا خرج من دور نقصان المعرفة لضعف عقله، ثم كمل ادراكه و عرف الحسن من القبيح، و ميز الخبر من الشر كان الامر اليه، فاما أن يعتبر بما يرى و يتعقل فيطيع أو يغفل و يسهو باعراضه عن العقل فيعصي‌؟ فسبحانه ما أحكمه و الطفه.</format></p>"
+        },
+        {
+          "paragraphId": 479062266,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"250\"><page number=\"90\"/><heading level=\"3\">وجوه أخر في حكمة غباوة الطفل</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "89",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p249\" paragraph-id=\"249\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo89\">89</span>\n    <span class=\"sharh\">ناقصة ثم لا يزال يتزايد في المعرفة قليلا قليلا الخ اي ان الانسان اذا خرج من دور نقصان المعرفة لضعف عقله، ثم كمل ادراكه و عرف الحسن من القبيح، و ميز الخبر من الشر كان الامر اليه، فاما أن يعتبر بما يرى و يتعقل فيطيع أو يغفل و يسهو باعراضه عن العقل فيعصي‌؟ فسبحانه ما أحكمه و الطفه.</span>\n  </p>\n  <p id=\"p250\" paragraph-id=\"250\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "ED901A0A-028F-4746-832C-BFE2C867C835",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

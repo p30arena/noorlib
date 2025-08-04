@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 45,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644757,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"163\"><page number=\"45\"/><format class=\"sharh\">و منها الغيوم المزنية و هى السحائب الدكناه التي ليس لها شكل معين يتساقط منها المطر و البرد بصورة مستمرة، و يتراوح ارتفاعها من (3000) قدم الى (6500) قدم.</format></p>"
+        },
+        {
+          "paragraphId": 631644758,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"164\"><format class=\"sharh\">فسبحان من انزل من السماء ماءا فاحيي به الارض و من عليها.</format></p>"
+        },
+        {
+          "paragraphId": 631644759,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"165\"><page number=\"46\"/><heading level=\"3\">و الجبال و الطين و الحجارة و النخل و الشجر و ما في ذلك من الأدلة و العبر</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "45",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p163\" paragraph-id=\"163\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo45\">45</span>\n    <span class=\"sharh\">و منها الغيوم المزنية و هى السحائب الدكناه التي ليس لها شكل معين يتساقط منها المطر و البرد بصورة مستمرة، و يتراوح ارتفاعها من (3000) قدم الى (6500) قدم.</span>\n  </p>\n  <p id=\"p164\" paragraph-id=\"164\" class=\" G\">\n    <span class=\"sharh\">فسبحان من انزل من السماء ماءا فاحيي به الارض و من عليها.</span>\n  </p>\n  <p id=\"p165\" paragraph-id=\"165\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "CAB90AD6-ABAE-47AE-A10D-6532D786C43A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

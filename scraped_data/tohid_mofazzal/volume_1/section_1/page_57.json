@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 57,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479062165,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"149\"><format class=\"sharh\">و بالختام لا بد و ان يظهر لك جليا. بعد ما عرفت هذه المقدمة اضافية. ان للعالم خالقا حكيما و انه واحد لا شريك له في خلقه و انه لا يعقل أن يتكون مثل هذا العالم </format><page number=\"57\"/><format class=\"sharh\">المنظم البديع بالاهمال و المصادفة. إذ لبس للمصادفة عمل مستقيم غير مختلف، و لا لها نظام في سيرها غير منتقص فسبحانه من مبدع حكيم، تعالى جده و كرم وجهه و لا اله غيره، و تسامى عما يقول الجاحدون، و جل عما تنتحله الملحدون.</format></p>"
+        },
+        {
+          "paragraphId": 479062166,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"150\"><format class=\"sharh\">***</format></p>"
+        },
+        {
+          "paragraphId": 479062167,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"151\"><page number=\"58\"/><heading level=\"3\">خلق الانسان و تكون الجنين في الرحم</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "57",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p149\" paragraph-id=\"149\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo57\">57</span>\n    <span class=\"sharh\">المنظم البديع بالاهمال و المصادفة. إذ لبس للمصادفة عمل مستقيم غير مختلف، و لا لها نظام في سيرها غير منتقص فسبحانه من مبدع حكيم، تعالى جده و كرم وجهه و لا اله غيره، و تسامى عما يقول الجاحدون، و جل عما تنتحله الملحدون.</span>\n  </p>\n  <p id=\"p150\" paragraph-id=\"150\" class=\" G\">\n    <span class=\"sharh\">***</span>\n  </p>\n  <p id=\"p151\" paragraph-id=\"151\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "E89D815B-A8E1-4F08-B6A3-BEAE2EFAB5A7",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 3,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884160,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2\"><img src=\"BK14761G002S1P0\" alt=\"\" imgtype=\"Scan\"/><page number=\"1\"/><img src=\"BK14761G002S1P1\" alt=\"\" imgtype=\"Scan\"/><page number=\"2\"/><img src=\"BK14761G002S1P2\" alt=\"\" imgtype=\"Scan\"/><page number=\"3\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"3\"/> مقدمة الكتاب</heading></p>"
+        },
+        {
+          "paragraphId": 552884161,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3\"><format class=\"q\">بسم اللّه الرحمن الرحيم</format></p>"
+        },
+        {
+          "paragraphId": 552884162,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"4\">حمدا لمستحق الحمد على نعمه، و الصلاة على سيد رسله و معدن حكمه، و على آله و صحبه و التابعين له باحسان.</p>"
+        },
+        {
+          "paragraphId": 552884163,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"5\">و بعد فان للأنسانية كما لا يخفى دعامتين قويتين عليهما يقوم كيانها، و ان للانسان جانبين مهمين بهما تدعم حياته و تسمو صفاته و هما: الجانب المادي الذى يشترك فيه معه الحيوان بأنواعه و الجانب الروحي الذي به يرتفع عن الحيوانية، و به يمتاز عن ساير المخلوقات الكونية حتى الملائكة اذا ما رعاه و اعطاه حقه من الاهتمام و العناية لينتهي به الى السعادة فى الحياة و الراحة و الاطمئنان في الدنيا و الآخرة، لا سيما إذا كان ممن يطمئن الى يوم الجزاء، و يعتقد مدركا انه لم يخلق في هذه الدنيا عبثا و ان له خالقا حكيما عليما قادرا غنيا، يثيبه على طاعته و يجازيه على معصيته و ان بهذا كرمه اللّه تعالى و سخر له البر و البحر اذ يقول تعالى: </p>"
+        },
+        {
+          "paragraphId": 552884164,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"6\"><format class=\"ayah\" surah=\"17\" ayah=\"70\" toAyah=\"\">وَ لَقَدْ كَرَّمْنٰا بَنِي آدَمَ وَ حَمَلْنٰاهُمْ فِي اَلْبَرِّ وَ اَلْبَحْرِ<format class=\"ayahWord\" fromWord=\"1\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"17\" ayah=\"70\" toAyah=\"\"/></format>.</p>"
+        },
+        {
+          "paragraphId": 552884165,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"7\">و هذان الجانبان من كيان الانسان هما ككفتي ميزان، اذا ما ارتفعت<page number=\"4\"/> كفة هبطت الاخرى، و السعيد من اعتدلت لديه هاتان الكفتان، و لم تطغ إحداهما على الاخرى، كما ان السكيس العاقل هو من أمكنه أن يسير بينهما سيرا معتدلا مستقيما فيعطي كل جانب منهما حقه و لم يمل نحو أحد جانبيه في سيره و ذلك إذا ما عمل بقول الرسول الكريم صلى اللّه عليه و اله: اعمل لدنياك كانك تعيش ابدا و اعمل لآخرتك كانك تموت غدا.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "3",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2\" paragraph-id=\"2\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo3\">3</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span> مقدمة الكتاب</strong>\n  </p>\n  <p id=\"p3\" paragraph-id=\"3\" class=\" G\">\n    <span class=\"q\">بسم اللّه الرحمن الرحيم</span>\n  </p>\n  <p id=\"p4\" paragraph-id=\"4\" class=\" G\">حمدا لمستحق الحمد على نعمه، و الصلاة على سيد رسله و معدن حكمه، و على آله و صحبه و التابعين له باحسان.</p>\n  <p id=\"p5\" paragraph-id=\"5\" class=\" G\">و بعد فان للأنسانية كما لا يخفى دعامتين قويتين عليهما يقوم كيانها، و ان للانسان جانبين مهمين بهما تدعم حياته و تسمو صفاته و هما: الجانب المادي الذى يشترك فيه معه الحيوان بأنواعه و الجانب الروحي الذي به يرتفع عن الحيوانية، و به يمتاز عن ساير المخلوقات الكونية حتى الملائكة اذا ما رعاه و اعطاه حقه من الاهتمام و العناية لينتهي به الى السعادة فى الحياة و الراحة و الاطمئنان في الدنيا و الآخرة، لا سيما إذا كان ممن يطمئن الى يوم الجزاء، و يعتقد مدركا انه لم يخلق في هذه الدنيا عبثا و ان له خالقا حكيما عليما قادرا غنيا، يثيبه على طاعته و يجازيه على معصيته و ان بهذا كرمه اللّه تعالى و سخر له البر و البحر اذ يقول تعالى: </p>\n  <p id=\"p6\" paragraph-id=\"6\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"17\" ayah=\"70\">وَ لَقَدْ كَرَّمْنٰا بَنِي آدَمَ وَ حَمَلْنٰاهُمْ فِي اَلْبَرِّ وَ اَلْبَحْرِ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/17/70\"></a></span></span>.</p>\n  <p id=\"p7\" paragraph-id=\"7\" class=\" G\">و هذان الجانبان من كيان الانسان هما ككفتي ميزان، اذا ما ارتفعت</p>\n</div>",
+      "bookPageVisitLogId": "D6C51C37-AB66-45FE-96EE-01EABF032EB1",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

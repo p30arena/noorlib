@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 82,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884425,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"267\"><format class=\"sharh\">أما الدب: فهو ايضا من الضواري المعروفة كبير الحجم ثقيل الجسم، يمشي على راحة اقدامه (اخمصها) و يعيش في الاصقاع الباردة و اكثره يشتى اي يختفي في الكهوف فى فصل الشتاء و لا يتغذى فى طول المدة التي ينام فيها شتاء فاذا جاء الربيع خرج ضعيفا هزيلا قد اثر فيه صيامه عن الاكل كما ان انثى الدببة تلد </format><page number=\"82\"/><format class=\"sharh\">صغارها و ترضعها داخل الكهف دون ان تأكل شيئا، و هي تعتني بنظافة فراخها بغسلها بالماء و لا سيما عيونها و آذانها.</format></p>"
+        },
+        {
+          "paragraphId": 552884426,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"268\"><format class=\"sharh\">و الدب حيوان شرس يأكل اللحم و النبات و يفترس الحيوان و يتسلق الاشجار لأكل الثمار، و هو يعمر الى عشرين سنة او اكثر اذا صار تحت سيطرة الانسان و تربيته.</format></p>"
+        },
+        {
+          "paragraphId": 552884427,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"269\"><format class=\"sharh\">و له اقسام كثيرة، كالدب الابيض و الاسود الامريكى و الكسلان و العركي و الاشمط و الا بقع و دب تبت و غيرها.</format></p>"
+        },
+        {
+          "paragraphId": 552884428,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"270\"><format class=\"sharh\">اما النمر: فهو حيوان مفترس من فصيلة السنانير، اصغر من الاسد و لكنه اشرس منه، منقط الجلد بنقاط سود و بيض، و جمعه انمار.</format></p>"
+        },
+        {
+          "paragraphId": 552884429,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"271\"><format class=\"sharh\">هذا ما لزم بيانه مجملا و من اراد التفصيل فليراجع كتب الحيوان المفصلة.</format></p>"
+        },
+        {
+          "paragraphId": 552884430,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"272\"><page number=\"83\"/><heading level=\"3\">الكلب</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "82",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p267\" paragraph-id=\"267\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo82\">82</span>\n    <span class=\"sharh\">صغارها و ترضعها داخل الكهف دون ان تأكل شيئا، و هي تعتني بنظافة فراخها بغسلها بالماء و لا سيما عيونها و آذانها.</span>\n  </p>\n  <p id=\"p268\" paragraph-id=\"268\" class=\" G\">\n    <span class=\"sharh\">و الدب حيوان شرس يأكل اللحم و النبات و يفترس الحيوان و يتسلق الاشجار لأكل الثمار، و هو يعمر الى عشرين سنة او اكثر اذا صار تحت سيطرة الانسان و تربيته.</span>\n  </p>\n  <p id=\"p269\" paragraph-id=\"269\" class=\" G\">\n    <span class=\"sharh\">و له اقسام كثيرة، كالدب الابيض و الاسود الامريكى و الكسلان و العركي و الاشمط و الا بقع و دب تبت و غيرها.</span>\n  </p>\n  <p id=\"p270\" paragraph-id=\"270\" class=\" G\">\n    <span class=\"sharh\">اما النمر: فهو حيوان مفترس من فصيلة السنانير، اصغر من الاسد و لكنه اشرس منه، منقط الجلد بنقاط سود و بيض، و جمعه انمار.</span>\n  </p>\n  <p id=\"p271\" paragraph-id=\"271\" class=\" G\">\n    <span class=\"sharh\">هذا ما لزم بيانه مجملا و من اراد التفصيل فليراجع كتب الحيوان المفصلة.</span>\n  </p>\n  <p id=\"p272\" paragraph-id=\"272\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "87EB0D81-6FD8-4474-8327-223824D311DE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

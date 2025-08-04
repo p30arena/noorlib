@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 26,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644688,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"94\"><page number=\"26\"/><format class=\"sharh\">و أن اشهر تلك العناصر المكتشفة هى:</format></p>"
+        },
+        {
+          "paragraphId": 631644689,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"95\"><format class=\"sharh\">الادروجين، الهليوم، اليورون، الكربون، النتروجين، الآزوت، الاكسجين، الكبريت، البوتاسيوم الكلور، الصديوم، المغنيسيوم، الالميغيوم السيليسيوم، الفسفور، الكالسيوم، الكاوروميوم، الحديد، المنجنيز الكوبلت، النيكل، النحاس، الزنك، الرصاص، القصدير، الفضة، الذهب البلاتين، و غيرها.</format></p>"
+        },
+        {
+          "paragraphId": 631644690,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"96\"><format class=\"sharh\">مستدلين على وجودها كلها بتحليل الطيف الشمسى و بالقوانين العلمية الفنية المسلمة.</format></p>"
+        },
+        {
+          "paragraphId": 631644691,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"97\"><page number=\"27\"/><heading level=\"3\">و القمر</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "26",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p94\" paragraph-id=\"94\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo26\">26</span>\n    <span class=\"sharh\">و أن اشهر تلك العناصر المكتشفة هى:</span>\n  </p>\n  <p id=\"p95\" paragraph-id=\"95\" class=\" G\">\n    <span class=\"sharh\">الادروجين، الهليوم، اليورون، الكربون، النتروجين، الآزوت، الاكسجين، الكبريت، البوتاسيوم الكلور، الصديوم، المغنيسيوم، الالميغيوم السيليسيوم، الفسفور، الكالسيوم، الكاوروميوم، الحديد، المنجنيز الكوبلت، النيكل، النحاس، الزنك، الرصاص، القصدير، الفضة، الذهب البلاتين، و غيرها.</span>\n  </p>\n  <p id=\"p96\" paragraph-id=\"96\" class=\" G\">\n    <span class=\"sharh\">مستدلين على وجودها كلها بتحليل الطيف الشمسى و بالقوانين العلمية الفنية المسلمة.</span>\n  </p>\n  <p id=\"p97\" paragraph-id=\"97\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "E67AC268-D37B-4035-84F7-2035A4D8BBD2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

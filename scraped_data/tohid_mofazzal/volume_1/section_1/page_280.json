@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 280,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479062422,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"912\"><page number=\"280\"/><format class=\"sharh\">ثم ان هذا الترقب المذكور اذا كان غير نافع لصنف من الناس و هم اللاهون عنه غير المتعظين به، فان صنعا آخر منهم قد يتعظ به فينتفع، و يتنكب المعاصى بسببه ثم يؤثر العمل الصالح بواسطته، فيجود بالاموال على المحتاجين، و يبذل العقائل النفسية في الصدقة على الفقراء و المساكين، رجاء حسن الجزاء و طلبا لجزيل الثواب.</format></p>"
+        },
+        {
+          "paragraphId": 479062423,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"913\"><format class=\"sharh\">فاذا كان هذا الترقب مما ينتفع به هذا الصنف الشريف من الناس، فليس من العدل و الانصاف ان يحرم هؤلاء الصلحاء من الانتفاع بهذه الخصلة المحمودة لأجل ان الصنف الآخر من العاصين الجاهلين كانوا قد اضاعوا حظهم فحرموا مصالحهم و هؤلاء لم يكن الله تعالى ليظلمهم بل كانوا انفسهم يظلمون.</format></p>"
+        },
+        {
+          "paragraphId": 479062424,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"914\"><page number=\"281\"/><heading level=\"3\">الأحلام و الحكمة فيها</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "280",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p912\" paragraph-id=\"912\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo280\">280</span>\n    <span class=\"sharh\">ثم ان هذا الترقب المذكور اذا كان غير نافع لصنف من الناس و هم اللاهون عنه غير المتعظين به، فان صنعا آخر منهم قد يتعظ به فينتفع، و يتنكب المعاصى بسببه ثم يؤثر العمل الصالح بواسطته، فيجود بالاموال على المحتاجين، و يبذل العقائل النفسية في الصدقة على الفقراء و المساكين، رجاء حسن الجزاء و طلبا لجزيل الثواب.</span>\n  </p>\n  <p id=\"p913\" paragraph-id=\"913\" class=\" G\">\n    <span class=\"sharh\">فاذا كان هذا الترقب مما ينتفع به هذا الصنف الشريف من الناس، فليس من العدل و الانصاف ان يحرم هؤلاء الصلحاء من الانتفاع بهذه الخصلة المحمودة لأجل ان الصنف الآخر من العاصين الجاهلين كانوا قد اضاعوا حظهم فحرموا مصالحهم و هؤلاء لم يكن الله تعالى ليظلمهم بل كانوا انفسهم يظلمون.</span>\n  </p>\n  <p id=\"p914\" paragraph-id=\"914\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "1457A460-56BD-463C-8DD1-A0CC33D38572",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

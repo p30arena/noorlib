@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 141,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884278,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"420\"><format class=\"sharh\">و ليعلم أن هذا الذي ذكرناه من حياة هذا الحيوان العجيب ليس إلا قليلا من كثير مما توصل اليه الباحثون الذين درسوا حالات النمل مليا مدة سنين و اعوام </format><page number=\"141\"/><format class=\"sharh\">في الاودية و الصحاري.</format></p>"
+        },
+        {
+          "paragraphId": 552884279,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"421\"><format class=\"sharh\">فلعمري أن هذه الاعمال الجبارة و هذه الغرائز و الطباع المودعة في هذا الجرم الضعيف الحقير لمما يحير العقول و يدهش الالباب. و قد أشار الامام عليه السلام إلى أغلبها بما ذكره للمفضل ابن عمر و أمره بالاعتبار به و بامثاله.</format></p>"
+        },
+        {
+          "paragraphId": 552884280,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"422\"><format class=\"sharh\">و بديهي أن هذا العمل المتقن و هذا الاحتشاد على جمع القوت و هذا التآلف ما بينها و عمل الفرد لصالح الجماعة و بناء المساكن بهذه الدقة و النظام لم يكن إلا للغرائز التي أودعها فيها خالقها العالم الحكيم و للفطرة التي فطرها اللّه عليها و الافاي عقل و روية عند هذا الحيوان الضعيف الصغير الحقير في تدبير كل ذلك فسبحان المبدع العظيم.</format></p>"
+        },
+        {
+          "paragraphId": 552884281,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"423\"><page number=\"142\"/><heading level=\"3\">اسد الذباب</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "141",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p420\" paragraph-id=\"420\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo141\">141</span>\n    <span class=\"sharh\">في الاودية و الصحاري.</span>\n  </p>\n  <p id=\"p421\" paragraph-id=\"421\" class=\" G\">\n    <span class=\"sharh\">فلعمري أن هذه الاعمال الجبارة و هذه الغرائز و الطباع المودعة في هذا الجرم الضعيف الحقير لمما يحير العقول و يدهش الالباب. و قد أشار الامام عليه السلام إلى أغلبها بما ذكره للمفضل ابن عمر و أمره بالاعتبار به و بامثاله.</span>\n  </p>\n  <p id=\"p422\" paragraph-id=\"422\" class=\" G\">\n    <span class=\"sharh\">و بديهي أن هذا العمل المتقن و هذا الاحتشاد على جمع القوت و هذا التآلف ما بينها و عمل الفرد لصالح الجماعة و بناء المساكن بهذه الدقة و النظام لم يكن إلا للغرائز التي أودعها فيها خالقها العالم الحكيم و للفطرة التي فطرها اللّه عليها و الافاي عقل و روية عند هذا الحيوان الضعيف الصغير الحقير في تدبير كل ذلك فسبحان المبدع العظيم.</span>\n  </p>\n  <p id=\"p423\" paragraph-id=\"423\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "C93F0E52-C9E7-4773-902D-B4D667BF724F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

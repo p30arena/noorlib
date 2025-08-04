@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 88,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884446,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"288\"><format class=\"sharh\">قال الامام عليه السّلام: تأمل وجه الدابة، أي انظر الى ما خلق اللّه سبحانه المبدع الحكيم من محكم صنعه و اتقان مصنوعه، لتعرف مستدلا على ان المصادفة </format><page number=\"88\"/><format class=\"M\">من أسفله لتقبض على العلف ثم تقضمه، و اعينت بالحجفلة لتتناول بها ما قرب و ما بعد.</format></p>"
+        },
+        {
+          "paragraphId": 552884447,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"289\"><format class=\"sharh\">و الاهمال لا يعقل ان يخلقا مثل ذلك النظام و الابداع و الحكمة و الاتقان دون ان يختلف في كل فرد عن الآخر من هذا الجنس. إذن فما بال الملحدين و الجاحدين قد عموا و صموا حتى انكروا الصانع عنادا و جحدوه جهلا دون أي إدراك او تعقل، و لو انصفوا بعد ان عقلوا لعلموا ما هم فيه من الجهل و الغرور و لأدركوا انهم فى وادى الضلالة تائهون فتعسا لهم و سحقا.</format></p>"
+        },
+        {
+          "paragraphId": 552884448,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"290\"><page number=\"89\"/><heading level=\"3\">ذنب الدابة و شعره</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "88",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p288\" paragraph-id=\"288\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo88\">88</span>\n    <span class=\"M\">من أسفله لتقبض على العلف ثم تقضمه، و اعينت بالحجفلة لتتناول بها ما قرب و ما بعد.</span>\n  </p>\n  <p id=\"p289\" paragraph-id=\"289\" class=\" G\">\n    <span class=\"sharh\">و الاهمال لا يعقل ان يخلقا مثل ذلك النظام و الابداع و الحكمة و الاتقان دون ان يختلف في كل فرد عن الآخر من هذا الجنس. إذن فما بال الملحدين و الجاحدين قد عموا و صموا حتى انكروا الصانع عنادا و جحدوه جهلا دون أي إدراك او تعقل، و لو انصفوا بعد ان عقلوا لعلموا ما هم فيه من الجهل و الغرور و لأدركوا انهم فى وادى الضلالة تائهون فتعسا لهم و سحقا.</span>\n  </p>\n  <p id=\"p290\" paragraph-id=\"290\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "8A2C95EC-7E51-4747-984C-9E9C3CD5A764",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

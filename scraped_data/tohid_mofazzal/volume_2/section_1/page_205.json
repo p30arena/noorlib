@@ -1,0 +1,230 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 205,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884628,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"598\"><page number=\"205\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"5\"/>دليل الكتاب </heading></p>"
+        },
+        {
+          "paragraphId": 552884629,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"599\">الصفحة الموضوع</p>"
+        },
+        {
+          "paragraphId": 552884630,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"600\">3 مقدمة الكتاب</p>"
+        },
+        {
+          "paragraphId": 552884631,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"601\">7 الشروع بالكلام</p>"
+        },
+        {
+          "paragraphId": 552884632,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"602\">12 عدل اللّه فى خلقه</p>"
+        },
+        {
+          "paragraphId": 552884633,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"603\">16 نفي الظلم عن اللّه تعالى</p>"
+        },
+        {
+          "paragraphId": 552884634,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"604\">21 عظمة القرآن</p>"
+        },
+        {
+          "paragraphId": 552884635,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"605\">25 الخلق حيارى</p>"
+        },
+        {
+          "paragraphId": 552884636,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"606\">28 النفوس الواطئة</p>"
+        },
+        {
+          "paragraphId": 552884637,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"607\">30 امانهم من الموت المفاجيء</p>"
+        },
+        {
+          "paragraphId": 552884638,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"608\">33 التحذير من يوم الآخرة</p>"
+        },
+        {
+          "paragraphId": 552884639,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"609\">35 بكاء المفضل و بشارة الامام (ع) له</p>"
+        },
+        {
+          "paragraphId": 552884640,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"610\">37 ابتداء الكلام</p>"
+        },
+        {
+          "paragraphId": 552884641,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"611\">38 ابنية ابدان الحيوان</p>"
+        },
+        {
+          "paragraphId": 552884642,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"612\">47 بيان وصفها</p>"
+        },
+        {
+          "paragraphId": 552884643,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"613\">52 الانعام</p>"
+        },
+        {
+          "paragraphId": 552884644,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"614\">57 آكله اللحوم و آكله النبات و المشتركة</p>"
+        },
+        {
+          "paragraphId": 552884645,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"615\">الصفحة الموضوع 62 آكلات اللحم من الحيوان</p>"
+        },
+        {
+          "paragraphId": 552884646,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"616\">65 ذوات الاربع</p>"
+        },
+        {
+          "paragraphId": 552884647,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"617\">67 الطير</p>"
+        },
+        {
+          "paragraphId": 552884648,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"618\">71 قوائم الحيوان</p>"
+        },
+        {
+          "paragraphId": 552884649,
+          "paragNumber": 22,
+          "tocNumber": 0,
+          "text": "<p id=\"619\">73 حكمة تسخير الانسان للحيوانات</p>"
+        },
+        {
+          "paragraphId": 552884650,
+          "paragNumber": 23,
+          "tocNumber": 0,
+          "text": "<p id=\"620\">78 حكمة تسخير السباع</p>"
+        },
+        {
+          "paragraphId": 552884651,
+          "paragNumber": 24,
+          "tocNumber": 0,
+          "text": "<p id=\"621\">83 الكلب</p>"
+        },
+        {
+          "paragraphId": 552884652,
+          "paragNumber": 25,
+          "tocNumber": 0,
+          "text": "<p id=\"622\">86 وجه الدابة</p>"
+        },
+        {
+          "paragraphId": 552884653,
+          "paragNumber": 26,
+          "tocNumber": 0,
+          "text": "<p id=\"623\">89 ذنب الدابة و شعره</p>"
+        },
+        {
+          "paragraphId": 552884654,
+          "paragNumber": 27,
+          "tocNumber": 0,
+          "text": "<p id=\"624\">92 ظهر الدابة و حياها</p>"
+        },
+        {
+          "paragraphId": 552884655,
+          "paragNumber": 28,
+          "tocNumber": 0,
+          "text": "<p id=\"625\">94 مشفر الفيل</p>"
+        },
+        {
+          "paragraphId": 552884656,
+          "paragNumber": 29,
+          "tocNumber": 0,
+          "text": "<p id=\"626\">97 عنق الفيل</p>"
+        },
+        {
+          "paragraphId": 552884657,
+          "paragNumber": 30,
+          "tocNumber": 0,
+          "text": "<p id=\"627\">100 حياء انثى الفيل</p>"
+        },
+        {
+          "paragraphId": 552884658,
+          "paragNumber": 31,
+          "tocNumber": 0,
+          "text": "<p id=\"628\">102 الزرافة</p>"
+        },
+        {
+          "paragraphId": 552884659,
+          "paragNumber": 32,
+          "tocNumber": 0,
+          "text": "<p id=\"629\">107 القرد</p>"
+        },
+        {
+          "paragraphId": 552884660,
+          "paragNumber": 33,
+          "tocNumber": 0,
+          "text": "<p id=\"630\"><page number=\"206\"/>112 كسوة اجسام البهائم</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "205",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p598\" paragraph-id=\"598\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo205\">205</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span>دليل الكتاب </strong>\n  </p>\n  <p id=\"p599\" paragraph-id=\"599\" class=\" G\">الصفحة الموضوع</p>\n  <p id=\"p600\" paragraph-id=\"600\" class=\" G\">3 مقدمة الكتاب</p>\n  <p id=\"p601\" paragraph-id=\"601\" class=\" G\">7 الشروع بالكلام</p>\n  <p id=\"p602\" paragraph-id=\"602\" class=\" G\">12 عدل اللّه فى خلقه</p>\n  <p id=\"p603\" paragraph-id=\"603\" class=\" G\">16 نفي الظلم عن اللّه تعالى</p>\n  <p id=\"p604\" paragraph-id=\"604\" class=\" G\">21 عظمة القرآن</p>\n  <p id=\"p605\" paragraph-id=\"605\" class=\" G\">25 الخلق حيارى</p>\n  <p id=\"p606\" paragraph-id=\"606\" class=\" G\">28 النفوس الواطئة</p>\n  <p id=\"p607\" paragraph-id=\"607\" class=\" G\">30 امانهم من الموت المفاجيء</p>\n  <p id=\"p608\" paragraph-id=\"608\" class=\" G\">33 التحذير من يوم الآخرة</p>\n  <p id=\"p609\" paragraph-id=\"609\" class=\" G\">35 بكاء المفضل و بشارة الامام (ع) له</p>\n  <p id=\"p610\" paragraph-id=\"610\" class=\" G\">37 ابتداء الكلام</p>\n  <p id=\"p611\" paragraph-id=\"611\" class=\" G\">38 ابنية ابدان الحيوان</p>\n  <p id=\"p612\" paragraph-id=\"612\" class=\" G\">47 بيان وصفها</p>\n  <p id=\"p613\" paragraph-id=\"613\" class=\" G\">52 الانعام</p>\n  <p id=\"p614\" paragraph-id=\"614\" class=\" G\">57 آكله اللحوم و آكله النبات و المشتركة</p>\n  <p id=\"p615\" paragraph-id=\"615\" class=\" G\">الصفحة الموضوع 62 آكلات اللحم من الحيوان</p>\n  <p id=\"p616\" paragraph-id=\"616\" class=\" G\">65 ذوات الاربع</p>\n  <p id=\"p617\" paragraph-id=\"617\" class=\" G\">67 الطير</p>\n  <p id=\"p618\" paragraph-id=\"618\" class=\" G\">71 قوائم الحيوان</p>\n  <p id=\"p619\" paragraph-id=\"619\" class=\" G\">73 حكمة تسخير الانسان للحيوانات</p>\n  <p id=\"p620\" paragraph-id=\"620\" class=\" G\">78 حكمة تسخير السباع</p>\n  <p id=\"p621\" paragraph-id=\"621\" class=\" G\">83 الكلب</p>\n  <p id=\"p622\" paragraph-id=\"622\" class=\" G\">86 وجه الدابة</p>\n  <p id=\"p623\" paragraph-id=\"623\" class=\" G\">89 ذنب الدابة و شعره</p>\n  <p id=\"p624\" paragraph-id=\"624\" class=\" G\">92 ظهر الدابة و حياها</p>\n  <p id=\"p625\" paragraph-id=\"625\" class=\" G\">94 مشفر الفيل</p>\n  <p id=\"p626\" paragraph-id=\"626\" class=\" G\">97 عنق الفيل</p>\n  <p id=\"p627\" paragraph-id=\"627\" class=\" G\">100 حياء انثى الفيل</p>\n  <p id=\"p628\" paragraph-id=\"628\" class=\" G\">102 الزرافة</p>\n  <p id=\"p629\" paragraph-id=\"629\" class=\" G\">107 القرد</p>\n  <p id=\"p630\" paragraph-id=\"630\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "DBAB8ED4-3F0B-4D5E-83C4-C0E435D11688",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

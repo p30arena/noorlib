@@ -1,0 +1,176 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 337,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479062877,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1102\"><page number=\"337\"/><heading level=\"2\">فهرست الكتاب</heading></p>"
+        },
+        {
+          "paragraphId": 479062878,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1103\"> ص 5 مقدمة الكتاب</p>"
+        },
+        {
+          "paragraphId": 479062879,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1104\">9 أتوحيد المفضل أم توحيد الجاحظ؟</p>"
+        },
+        {
+          "paragraphId": 479062880,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1105\">19 من هو المفضل‌؟</p>"
+        },
+        {
+          "paragraphId": 479062881,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1106\">23 كلام ابن أبي العوجاء مع صاحبه</p>"
+        },
+        {
+          "paragraphId": 479062882,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1107\">28 كلام المفضل مع الملحد</p>"
+        },
+        {
+          "paragraphId": 479062883,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1108\">32 دخول المفضل على الامام (ع)</p>"
+        },
+        {
+          "paragraphId": 479062884,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1109\">35 المجلس الاول</p>"
+        },
+        {
+          "paragraphId": 479062885,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1110\">41 جهل الشكاك باسباب الخلقة</p>"
+        },
+        {
+          "paragraphId": 479062886,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1111\">44 الصنف الثاني من الشكاك</p>"
+        },
+        {
+          "paragraphId": 479062887,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1112\">47 نعم اللّه و الشكر عليها</p>"
+        },
+        {
+          "paragraphId": 479062888,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1113\">53 تهيئة العالم و تاليف اجزائه</p>"
+        },
+        {
+          "paragraphId": 479062889,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1114\">58 خلق الانسان و تكوين الجنين في الرحم</p>"
+        },
+        {
+          "paragraphId": 479062890,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1115\">65 كيفية ولادة الجنين</p>"
+        },
+        {
+          "paragraphId": 479062891,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"1116\">66 غذاء الطفل بعد الولادة</p>"
+        },
+        {
+          "paragraphId": 479062892,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"1117\">67 تغذية الطفل</p>"
+        },
+        {
+          "paragraphId": 479062893,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"1118\">69 طلوع اسنان الطفل</p>"
+        },
+        {
+          "paragraphId": 479062894,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"1119\">71 طلوع الشعر في وجه الرجل دون المرأة</p>"
+        },
+        {
+          "paragraphId": 479062895,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"1120\">74 العبرة بما تقدم</p>"
+        },
+        {
+          "paragraphId": 479062896,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"1121\">76 حكمة عدم نبات الشعر في وجه بعض الناس</p>"
+        },
+        {
+          "paragraphId": 479062897,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"1122\">81 الاهمال لا يأتي بالصواب و النظام</p>"
+        },
+        {
+          "paragraphId": 479062898,
+          "paragNumber": 22,
+          "tocNumber": 0,
+          "text": "<p id=\"1123\">83 الحكمة في ان يولد الطفل غبيا</p>"
+        },
+        {
+          "paragraphId": 479062899,
+          "paragNumber": 23,
+          "tocNumber": 0,
+          "text": "<p id=\"1124\">86 خروج الطفل من الغباوة الى العقل</p>"
+        },
+        {
+          "paragraphId": 479062900,
+          "paragNumber": 24,
+          "tocNumber": 0,
+          "text": "<p id=\"1125\"><page number=\"338\"/>90 وجوه اخر في حكمة غباوة الطفل</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "337",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1102\" paragraph-id=\"1102\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo337\">337</span>\n    <strong style=\"0\" class=\"h-2 02\">فهرست الكتاب</strong>\n  </p>\n  <p id=\"p1103\" paragraph-id=\"1103\" class=\" G\"> ص 5 مقدمة الكتاب</p>\n  <p id=\"p1104\" paragraph-id=\"1104\" class=\" G\">9 أتوحيد المفضل أم توحيد الجاحظ؟</p>\n  <p id=\"p1105\" paragraph-id=\"1105\" class=\" G\">19 من هو المفضل‌؟</p>\n  <p id=\"p1106\" paragraph-id=\"1106\" class=\" G\">23 كلام ابن أبي العوجاء مع صاحبه</p>\n  <p id=\"p1107\" paragraph-id=\"1107\" class=\" G\">28 كلام المفضل مع الملحد</p>\n  <p id=\"p1108\" paragraph-id=\"1108\" class=\" G\">32 دخول المفضل على الامام (ع)</p>\n  <p id=\"p1109\" paragraph-id=\"1109\" class=\" G\">35 المجلس الاول</p>\n  <p id=\"p1110\" paragraph-id=\"1110\" class=\" G\">41 جهل الشكاك باسباب الخلقة</p>\n  <p id=\"p1111\" paragraph-id=\"1111\" class=\" G\">44 الصنف الثاني من الشكاك</p>\n  <p id=\"p1112\" paragraph-id=\"1112\" class=\" G\">47 نعم اللّه و الشكر عليها</p>\n  <p id=\"p1113\" paragraph-id=\"1113\" class=\" G\">53 تهيئة العالم و تاليف اجزائه</p>\n  <p id=\"p1114\" paragraph-id=\"1114\" class=\" G\">58 خلق الانسان و تكوين الجنين في الرحم</p>\n  <p id=\"p1115\" paragraph-id=\"1115\" class=\" G\">65 كيفية ولادة الجنين</p>\n  <p id=\"p1116\" paragraph-id=\"1116\" class=\" G\">66 غذاء الطفل بعد الولادة</p>\n  <p id=\"p1117\" paragraph-id=\"1117\" class=\" G\">67 تغذية الطفل</p>\n  <p id=\"p1118\" paragraph-id=\"1118\" class=\" G\">69 طلوع اسنان الطفل</p>\n  <p id=\"p1119\" paragraph-id=\"1119\" class=\" G\">71 طلوع الشعر في وجه الرجل دون المرأة</p>\n  <p id=\"p1120\" paragraph-id=\"1120\" class=\" G\">74 العبرة بما تقدم</p>\n  <p id=\"p1121\" paragraph-id=\"1121\" class=\" G\">76 حكمة عدم نبات الشعر في وجه بعض الناس</p>\n  <p id=\"p1122\" paragraph-id=\"1122\" class=\" G\">81 الاهمال لا يأتي بالصواب و النظام</p>\n  <p id=\"p1123\" paragraph-id=\"1123\" class=\" G\">83 الحكمة في ان يولد الطفل غبيا</p>\n  <p id=\"p1124\" paragraph-id=\"1124\" class=\" G\">86 خروج الطفل من الغباوة الى العقل</p>\n  <p id=\"p1125\" paragraph-id=\"1125\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "AA0B5411-CB76-4FCD-9031-2501C0ED350C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

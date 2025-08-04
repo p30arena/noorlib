@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 4,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479061876,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"14\"><page number=\"4\"/><page number=\"5\"/><heading level=\"2\">مقدمة الكتاب </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "4",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p14\" paragraph-id=\"14\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo4\">4</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "680A63D3-8DC7-4DA8-93EE-4DABFC87B669",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

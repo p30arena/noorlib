@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 36,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 631644722,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"128\"><format class=\"sharh\">أما الزوابع البرية أو الاعصار فتكون على شكل عمود عظيم من الهواء أو الغبار أو الرمل أو التراب أو البخار المائي حين يدور على نفسه بسرعه عظيمة فيتلف بسيره العنيف كل ما يقف فى ممرّه و قد يجفف البحيرات أو المستنقعات فيرفع كتلا عظيمه منها يحتذبها و بنقلها الى محال بعيده و قد يغطى الارض التي يقع عليها ببقايا الاجزاء المجذوبه أو بطوفان مائي يصحبه غالبا برق و رعد و ريح روبعية تدور حوله مع مطر و برد و اذا اشتدت الزوبعة و عرض لها في </format><page number=\"36\"/><format class=\"sharh\">طريقها بنيان أو شجر اقتلعته و اذا كانت خفيفة خف ضررها بقدر خفتها.</format></p>"
+        },
+        {
+          "paragraphId": 631644723,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"129\"><format class=\"sharh\">و كثيرا ما تحمل معها ما تجتذ به مما يصادفها من الحيوانات كالضفادع و الاسماك أو الحيوانات الصغار الاخرى ثم تسقطه على الارض مع المطر فيظن البعض أن فى السماء بحرا سقطت منه هذه الحيوانات مع المطر فى حين أنها جذبتها الزوبعة من البحار ثم ارتمت منها على الارض.</format></p>"
+        },
+        {
+          "paragraphId": 631644724,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"130\"><format class=\"sharh\">فتأمل...</format></p>"
+        },
+        {
+          "paragraphId": 631644725,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"131\"><page number=\"37\"/><heading level=\"3\">و الجواهر الاربعة الارض و الماء و الهواء و النار</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "36",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p128\" paragraph-id=\"128\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo36\">36</span>\n    <span class=\"sharh\">طريقها بنيان أو شجر اقتلعته و اذا كانت خفيفة خف ضررها بقدر خفتها.</span>\n  </p>\n  <p id=\"p129\" paragraph-id=\"129\" class=\" G\">\n    <span class=\"sharh\">و كثيرا ما تحمل معها ما تجتذ به مما يصادفها من الحيوانات كالضفادع و الاسماك أو الحيوانات الصغار الاخرى ثم تسقطه على الارض مع المطر فيظن البعض أن فى السماء بحرا سقطت منه هذه الحيوانات مع المطر فى حين أنها جذبتها الزوبعة من البحار ثم ارتمت منها على الارض.</span>\n  </p>\n  <p id=\"p130\" paragraph-id=\"130\" class=\" G\">\n    <span class=\"sharh\">فتأمل...</span>\n  </p>\n  <p id=\"p131\" paragraph-id=\"131\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "BA0012BE-4F8E-4B46-BDD3-7582BF5D166F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

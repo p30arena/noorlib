@@ -1,0 +1,44 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 100,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479061809,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"293\"><format class=\"sharh\">و أما عدم حسنه عقلا: فلان ذلك مما يهيج الشهوة الجنسية، و الجسارة من </format><page number=\"100\"/><format class=\"sharh\">الناظر على ما لا يسوغه العقل، و لا يستسيغه الذوق السليم.</format></p>"
+        },
+        {
+          "paragraphId": 479061810,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"294\"><format class=\"sharh\">فاذا عرفت ما بيناه من الحكمة و المصلحة اللتين اقتضتهما الخلقة فى ان يخرج الطفل غبيا ادركت بالضرورة، كيف اقيم كل شيء من الخلقة على غاية الصواب من الابداع و الاتقان، و تحققت ان كلما حدث في هذه الصنعة العجيبة من كمال الترتيب و بداعة النظام، هو خال من الخطأ و الخلل من دقيقه الى جليله، و من جزئيه الى كليه كما انه في الحقيقة بعيد كل البعد عن الصدفة و اهمال صغيره و كبيره فسبحان المبدع فى انشائه الحكيم فى صنعه. </format><page number=\"101\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "100",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p293\" paragraph-id=\"293\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo100\">100</span>\n    <span class=\"sharh\">الناظر على ما لا يسوغه العقل، و لا يستسيغه الذوق السليم.</span>\n  </p>\n  <p id=\"p294\" paragraph-id=\"294\" class=\" G\">\n    <span class=\"sharh\">فاذا عرفت ما بيناه من الحكمة و المصلحة اللتين اقتضتهما الخلقة فى ان يخرج الطفل غبيا ادركت بالضرورة، كيف اقيم كل شيء من الخلقة على غاية الصواب من الابداع و الاتقان، و تحققت ان كلما حدث في هذه الصنعة العجيبة من كمال الترتيب و بداعة النظام، هو خال من الخطأ و الخلل من دقيقه الى جليله، و من جزئيه الى كليه كما انه في الحقيقة بعيد كل البعد عن الصدفة و اهمال صغيره و كبيره فسبحان المبدع فى انشائه الحكيم فى صنعه. </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "0FFB5A9C-CF67-47E9-AF0F-B3B4B4C99FBA",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,128 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 207,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884690,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"660\"><format class=\"EndIntroduction\" type=\"5\"/><page number=\"207\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"12\"/>مراجع الكتاب </heading></p>"
+        },
+        {
+          "paragraphId": 552884691,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"661\">1 - القرآن الكريم</p>"
+        },
+        {
+          "paragraphId": 552884692,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"662\">2 - مجمع البيان فى تفسير القرآن للطبرسي عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 552884693,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"663\">3 - مجمع البحرين للمرحوم الطريحي عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 552884694,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"664\">4 - شرح الصحيفة للسيد علي خان عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 552884695,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"665\">5 - المعجم الزوولوجي الحديث للملكي ثلاثة اجزاء</p>"
+        },
+        {
+          "paragraphId": 552884696,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"666\">6 - الحيوان للجاحظ</p>"
+        },
+        {
+          "paragraphId": 552884697,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"667\">7 - حياة الحيوان للدميري</p>"
+        },
+        {
+          "paragraphId": 552884698,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"668\">8 - علم الحيوان مدرسي</p>"
+        },
+        {
+          "paragraphId": 552884699,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"669\">9 - عجائب المخلوقات فارسي للعلامة زكريا بن محمد بن محمود المكموني القزويني المتوفى 732 هج‍</p>"
+        },
+        {
+          "paragraphId": 552884700,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"670\">10 - دائرة المعارف للبستاني</p>"
+        },
+        {
+          "paragraphId": 552884701,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"671\">11 - دائرة معارف القرن العشرين لمحمد فريد وجدي</p>"
+        },
+        {
+          "paragraphId": 552884702,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"672\">12 - الغرائز للاستاد محمد حسنين الغمراوي</p>"
+        },
+        {
+          "paragraphId": 552884703,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"673\">13 - القاموس للفيروزآبادي</p>"
+        },
+        {
+          "paragraphId": 552884704,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"674\">14 - بعض المجلات العلمية و غيرها</p>"
+        },
+        {
+          "paragraphId": 552884705,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"675\"><format class=\"EndIntroduction\" type=\"12\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "207",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p660\" paragraph-id=\"660\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo207\">207</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span>مراجع الكتاب </strong>\n  </p>\n  <p id=\"p661\" paragraph-id=\"661\" class=\" G\">1 - القرآن الكريم</p>\n  <p id=\"p662\" paragraph-id=\"662\" class=\" G\">2 - مجمع البيان فى تفسير القرآن للطبرسي عليه السّلام</p>\n  <p id=\"p663\" paragraph-id=\"663\" class=\" G\">3 - مجمع البحرين للمرحوم الطريحي عليه السّلام</p>\n  <p id=\"p664\" paragraph-id=\"664\" class=\" G\">4 - شرح الصحيفة للسيد علي خان عليه السّلام</p>\n  <p id=\"p665\" paragraph-id=\"665\" class=\" G\">5 - المعجم الزوولوجي الحديث للملكي ثلاثة اجزاء</p>\n  <p id=\"p666\" paragraph-id=\"666\" class=\" G\">6 - الحيوان للجاحظ</p>\n  <p id=\"p667\" paragraph-id=\"667\" class=\" G\">7 - حياة الحيوان للدميري</p>\n  <p id=\"p668\" paragraph-id=\"668\" class=\" G\">8 - علم الحيوان مدرسي</p>\n  <p id=\"p669\" paragraph-id=\"669\" class=\" G\">9 - عجائب المخلوقات فارسي للعلامة زكريا بن محمد بن محمود المكموني القزويني المتوفى 732 هج‍</p>\n  <p id=\"p670\" paragraph-id=\"670\" class=\" G\">10 - دائرة المعارف للبستاني</p>\n  <p id=\"p671\" paragraph-id=\"671\" class=\" G\">11 - دائرة معارف القرن العشرين لمحمد فريد وجدي</p>\n  <p id=\"p672\" paragraph-id=\"672\" class=\" G\">12 - الغرائز للاستاد محمد حسنين الغمراوي</p>\n  <p id=\"p673\" paragraph-id=\"673\" class=\" G\">13 - القاموس للفيروزآبادي</p>\n  <p id=\"p674\" paragraph-id=\"674\" class=\" G\">14 - بعض المجلات العلمية و غيرها</p>\n  <p id=\"p675\" paragraph-id=\"675\" class=\" G\">\n    <span class=\"EndIntroduction\"></span>\n  </p>\n  <span />\n  <span />\n</div>",
+      "bookPageVisitLogId": "3F8A49A2-630E-4ED8-BFA5-3A5C68A3C52E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 221,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 479062294,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"717\"><page number=\"221\"/><format class=\"sharh\">ثم ان هذه النظرة الصالحة لم تقتصر على الانسان وحده، بل جرت بحكم الطبيعة في جميع الحيوانات المتناسلة حتى البهائم و السباع و امثالها. الا ترى كيف تنكب الشعر هذه المواضع منها مع ان اكثرها مجللة بالشعر في أكثر المواضع من أجسادها عدا العين و الفم و الفرج و اشباهها.</format></p>"
+        },
+        {
+          "paragraphId": 479062295,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"718\"><format class=\"sharh\">فاعتبر مفكرا، و تأمل متعقلا، كيف جرت سنة الكون في خلقتها البديعة طبقا للمصلحة المقصودة‌؟ و كيف وزع الشعر توزيعا حكيما؟ ثم انصف و قل: أ هل يكون مثل هذا حادثا عن طريق المصادفة و الاهمال دون قصد أو ارادة، كما زعمه جهلة المعطلين، و بلهاء الطبيعيين و الماديين، اللهم اجرنا من امثال هذه العقول القاصرة الصبيانية عند مدعي الذكاء و العلم.</format></p>"
+        },
+        {
+          "paragraphId": 479062296,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"719\"><page number=\"222\"/><heading level=\"3\">الحكمة في نبات الشعر على الركب و الإبطين</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "221",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p717\" paragraph-id=\"717\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo221\">221</span>\n    <span class=\"sharh\">ثم ان هذه النظرة الصالحة لم تقتصر على الانسان وحده، بل جرت بحكم الطبيعة في جميع الحيوانات المتناسلة حتى البهائم و السباع و امثالها. الا ترى كيف تنكب الشعر هذه المواضع منها مع ان اكثرها مجللة بالشعر في أكثر المواضع من أجسادها عدا العين و الفم و الفرج و اشباهها.</span>\n  </p>\n  <p id=\"p718\" paragraph-id=\"718\" class=\" G\">\n    <span class=\"sharh\">فاعتبر مفكرا، و تأمل متعقلا، كيف جرت سنة الكون في خلقتها البديعة طبقا للمصلحة المقصودة‌؟ و كيف وزع الشعر توزيعا حكيما؟ ثم انصف و قل: أ هل يكون مثل هذا حادثا عن طريق المصادفة و الاهمال دون قصد أو ارادة، كما زعمه جهلة المعطلين، و بلهاء الطبيعيين و الماديين، اللهم اجرنا من امثال هذه العقول القاصرة الصبيانية عند مدعي الذكاء و العلم.</span>\n  </p>\n  <p id=\"p719\" paragraph-id=\"719\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "39F40342-A0EA-4EA6-BFFB-BE567995D8B6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

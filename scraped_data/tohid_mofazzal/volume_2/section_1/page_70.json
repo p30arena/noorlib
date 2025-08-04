@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 70,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 552884394,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"236\"><format class=\"sharh\">و القبج: و يسمى الحجل لدى العامة، و هو اسم للذكر و الانثى و مفرده </format><page number=\"70\"/><format class=\"sharh\">(قبجه) و هذا الطائر يبيض غالبا (15) بيضة فقط، و تخرج فراخه كالفراريج و هو كثير السفاد، حتى انه اذا غابت انثاه جعلت الذكور يسفد قوتها الضعيف و يقال ان الانثى قد تلقح من رائحة الذكر.</format></p>"
+        },
+        {
+          "paragraphId": 552884395,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"237\"><format class=\"sharh\">و الحمر بضم الحاء المهملة و تشديد الميم المفتوحة مفردها (حمرّه) طائر احمر اللون يشبه العصفور و يعرف لدى العامة (ابو الحمير) سريع الحركة و اللفتات،</format></p>"
+        },
+        {
+          "paragraphId": 552884396,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"238\"><format class=\"sharh\">اليمام: هو الحمام البرى. و انثاه يمامة.</format></p>"
+        },
+        {
+          "paragraphId": 552884397,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"239\"><format class=\"sharh\">هذا مختصر مما فصلته كتب الحيوان و من اراد التفصيل فيراجعها.</format></p>"
+        },
+        {
+          "paragraphId": 552884398,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"240\"><page number=\"71\"/><heading level=\"3\">قوائم الحيوان</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "70",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p236\" paragraph-id=\"236\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo70\">70</span>\n    <span class=\"sharh\">(قبجه) و هذا الطائر يبيض غالبا (15) بيضة فقط، و تخرج فراخه كالفراريج و هو كثير السفاد، حتى انه اذا غابت انثاه جعلت الذكور يسفد قوتها الضعيف و يقال ان الانثى قد تلقح من رائحة الذكر.</span>\n  </p>\n  <p id=\"p237\" paragraph-id=\"237\" class=\" G\">\n    <span class=\"sharh\">و الحمر بضم الحاء المهملة و تشديد الميم المفتوحة مفردها (حمرّه) طائر احمر اللون يشبه العصفور و يعرف لدى العامة (ابو الحمير) سريع الحركة و اللفتات،</span>\n  </p>\n  <p id=\"p238\" paragraph-id=\"238\" class=\" G\">\n    <span class=\"sharh\">اليمام: هو الحمام البرى. و انثاه يمامة.</span>\n  </p>\n  <p id=\"p239\" paragraph-id=\"239\" class=\" G\">\n    <span class=\"sharh\">هذا مختصر مما فصلته كتب الحيوان و من اراد التفصيل فيراجعها.</span>\n  </p>\n  <p id=\"p240\" paragraph-id=\"240\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "D8B6C26E-0D20-47D5-AAB3-A875B0117BA4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}
