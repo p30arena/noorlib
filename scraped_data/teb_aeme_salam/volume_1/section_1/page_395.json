@@ -1,0 +1,170 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 395,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687851470,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"4172\"><page number=\"395\"/><format class=\"BeginPreface\"/><heading level=\"1\"><format class=\"BeginIntroduction\" type=\"5\"/>المحتويات </heading></p>"
+        },
+        {
+          "paragraphId": 687851471,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"4173\">ترجمة المؤلّف 5</p>"
+        },
+        {
+          "paragraphId": 687851472,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"4174\">مولده - نشأته - ثروته العلمية 5</p>"
+        },
+        {
+          "paragraphId": 687851473,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"4175\">طريقته في التأليف 6</p>"
+        },
+        {
+          "paragraphId": 687851474,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"4176\">عمله - خلقه و خلقه - مشايخه 11</p>"
+        },
+        {
+          "paragraphId": 687851475,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"4177\">أولاده - تلامذته 12</p>"
+        },
+        {
+          "paragraphId": 687851476,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"4178\">صدى وفاته 13</p>"
+        },
+        {
+          "paragraphId": 687851477,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"4179\">من مقدّمة المؤلّف لكتاب طب الأئمة 15</p>"
+        },
+        {
+          "paragraphId": 687851478,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"4180\">باب: إن الدواء و الشفاء من اللّه 17</p>"
+        },
+        {
+          "paragraphId": 687851479,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"4181\">الإهليلجة للإمام الصادق (عليه السّلام) 19</p>"
+        },
+        {
+          "paragraphId": 687851480,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"4182\">باب: توحيد المفضّل 25</p>"
+        },
+        {
+          "paragraphId": 687851481,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"4183\">انتفاع الأطفال بالبكاء 27</p>"
+        },
+        {
+          "paragraphId": 687851482,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"4184\">آلات الجماع في الذكر و الأنثى و وصول الغذاء إلى البدن 28</p>"
+        },
+        {
+          "paragraphId": 687851483,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"4185\">في أعضاء الإنسان التي خلقت أفرادا و أزواجا 30</p>"
+        },
+        {
+          "paragraphId": 687851484,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"4186\">في صوت الإنسان و كلامه و هيئته 31</p>"
+        },
+        {
+          "paragraphId": 687851485,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"4187\">في مخ الإنسان و دمه 33</p>"
+        },
+        {
+          "paragraphId": 687851486,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"4188\">في فؤاد الإنسان و رئته 34</p>"
+        },
+        {
+          "paragraphId": 687851487,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"4189\">في الطعم و النوم و الجماع 37</p>"
+        },
+        {
+          "paragraphId": 687851488,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"4190\">في الفكر و الوهم و العقل و الحفظ 39</p>"
+        },
+        {
+          "paragraphId": 687851489,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"4191\">في مناقشة الإمام الصادق (عليه السّلام) لأبي حنيفة في القياس 40</p>"
+        },
+        {
+          "paragraphId": 687851490,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"4192\">في ما أودع اللّه تعالى في الإنسان من حكم و الطبايع التي ركب منها 41</p>"
+        },
+        {
+          "paragraphId": 687851491,
+          "paragNumber": 22,
+          "tocNumber": 0,
+          "text": "<p id=\"4193\">باب: التداوي و المعالجة و الرجوع إلى الأطباء 55</p>"
+        },
+        {
+          "paragraphId": 687851492,
+          "paragNumber": 23,
+          "tocNumber": 0,
+          "text": "<p id=\"4194\"><page number=\"396\"/>باب: الحمية و كيفيتها و مقدارها و جملة من أحكامها 60</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "395",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p4172\" paragraph-id=\"4172\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo395\">395</span>\n    <span class=\"BeginPreface\"></span>\n    <strong style=\"0\" class=\"h-1 01\">\n      <span class=\"BeginIntroduction\"></span>المحتويات </strong>\n  </p>\n  <p id=\"p4173\" paragraph-id=\"4173\" class=\" G\">ترجمة المؤلّف 5</p>\n  <p id=\"p4174\" paragraph-id=\"4174\" class=\" G\">مولده - نشأته - ثروته العلمية 5</p>\n  <p id=\"p4175\" paragraph-id=\"4175\" class=\" G\">طريقته في التأليف 6</p>\n  <p id=\"p4176\" paragraph-id=\"4176\" class=\" G\">عمله - خلقه و خلقه - مشايخه 11</p>\n  <p id=\"p4177\" paragraph-id=\"4177\" class=\" G\">أولاده - تلامذته 12</p>\n  <p id=\"p4178\" paragraph-id=\"4178\" class=\" G\">صدى وفاته 13</p>\n  <p id=\"p4179\" paragraph-id=\"4179\" class=\" G\">من مقدّمة المؤلّف لكتاب طب الأئمة 15</p>\n  <p id=\"p4180\" paragraph-id=\"4180\" class=\" G\">باب: إن الدواء و الشفاء من اللّه 17</p>\n  <p id=\"p4181\" paragraph-id=\"4181\" class=\" G\">الإهليلجة للإمام الصادق (عليه السّلام) 19</p>\n  <p id=\"p4182\" paragraph-id=\"4182\" class=\" G\">باب: توحيد المفضّل 25</p>\n  <p id=\"p4183\" paragraph-id=\"4183\" class=\" G\">انتفاع الأطفال بالبكاء 27</p>\n  <p id=\"p4184\" paragraph-id=\"4184\" class=\" G\">آلات الجماع في الذكر و الأنثى و وصول الغذاء إلى البدن 28</p>\n  <p id=\"p4185\" paragraph-id=\"4185\" class=\" G\">في أعضاء الإنسان التي خلقت أفرادا و أزواجا 30</p>\n  <p id=\"p4186\" paragraph-id=\"4186\" class=\" G\">في صوت الإنسان و كلامه و هيئته 31</p>\n  <p id=\"p4187\" paragraph-id=\"4187\" class=\" G\">في مخ الإنسان و دمه 33</p>\n  <p id=\"p4188\" paragraph-id=\"4188\" class=\" G\">في فؤاد الإنسان و رئته 34</p>\n  <p id=\"p4189\" paragraph-id=\"4189\" class=\" G\">في الطعم و النوم و الجماع 37</p>\n  <p id=\"p4190\" paragraph-id=\"4190\" class=\" G\">في الفكر و الوهم و العقل و الحفظ 39</p>\n  <p id=\"p4191\" paragraph-id=\"4191\" class=\" G\">في مناقشة الإمام الصادق (عليه السّلام) لأبي حنيفة في القياس 40</p>\n  <p id=\"p4192\" paragraph-id=\"4192\" class=\" G\">في ما أودع اللّه تعالى في الإنسان من حكم و الطبايع التي ركب منها 41</p>\n  <p id=\"p4193\" paragraph-id=\"4193\" class=\" G\">باب: التداوي و المعالجة و الرجوع إلى الأطباء 55</p>\n  <p id=\"p4194\" paragraph-id=\"4194\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "208EB7E9-EBA3-44B0-A74C-0D348D1B56A2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

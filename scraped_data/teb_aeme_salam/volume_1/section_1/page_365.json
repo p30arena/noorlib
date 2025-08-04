@@ -1,0 +1,86 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 365,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687850948,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3908\"><page number=\"365\"/><heading level=\"2\">باب <format class=\"BM\">دفع الجراد، و ما يقال له السني و آفة الدود من المطابخ و المزارع</format>، و أمثال ذلك، و ما يقال عند الزرع و الزراعة</heading></p>"
+        },
+        {
+          "paragraphId": 687850949,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3909\"><format class=\"hadith\" who=\"16\" Id=\"1615\" RevayatIndex=\"1635\"><format class=\"sanadHadith\">فِي (<format class=\"K\">عُدَّةِ اَلدَّاعِي</format>): </format>رُقْيَةُ اَلدُّودِ اَلَّذِي يَأْكُلُ اَلْمَطَابِخَ وَ اَلزَّرْعَ‌: يُكْتَبُ عَلَى أَرْبَعِ قَصَبَاتٍ وَ أَرْبَعِ رِقَاعٍ‌، وَ يُجْعَلُ عَلَى أَرْبَعِ قَصَبَاتٍ فِي أَرْبَعِ جَوَانِبِ اَلْمَطْبَخَةِ أَوِ اَلزَّرْعِ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687850950,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3910\"><format class=\"hadith\" who=\"16\" Id=\"1615\" RevayatIndex=\"1635\">(أَيُّهَا اَلدَّوَابُّ وَ اَلْهَوَامُّ وَ اَلْحَيَوَانَاتُ اُخْرُجُوا مِنْ هَذِهِ اَلْأَرْضِ وَ اَلزَّرْعِ إِلَى اَلْخَرَابِ‌، كَمَا خَرَجَ اِبْنُ مَتَّى مِنَ اَلْحُوتِ‌، وَ إِنْ لَمْ تَخْرُجُوا أَرْسَلْتُ عَلَيْكُمْ شُوَاظاً <format class=\"ayah\" surah=\"55\" ayah=\"35\" toAyah=\"\">مِنْ نٰارٍ وَ نُحٰاسٌ فَلاٰ تَنْتَصِرٰانِ <format class=\"ayahWord\" fromWord=\"4\" toWord=\"9\"/><format class=\"ayahAddress\" surah=\"55\" ayah=\"35\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"2\" ayah=\"243\" toAyah=\"\">أَ لَمْ تَرَ إِلَى اَلَّذِينَ خَرَجُوا مِنْ دِيٰارِهِمْ وَ هُمْ أُلُوفٌ حَذَرَ اَلْمَوْتِ‌، فَقٰالَ لَهُمُ اَللّٰهُ مُوتُوا<format class=\"ayahWord\" fromWord=\"1\" toWord=\"17\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"243\" toAyah=\"\"/></format> فَمَاتُوا اُخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ‌، <format class=\"ayah\" surah=\"28\" ayah=\"21\" toAyah=\"\">فَخَرَجَ مِنْهٰا خٰائِفاً يَتَرَقَّبُ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"28\" ayah=\"21\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"17\" ayah=\"1\" toAyah=\"\">سُبْحٰانَ اَلَّذِي أَسْرىٰ بِعَبْدِهِ لَيْلاً مِنَ اَلْمَسْجِدِ اَلْحَرٰامِ إِلَى اَلْمَسْجِدِ اَلْأَقْصَى اَلَّذِي بٰارَكْنٰا حَوْلَهُ‌، <format class=\"ayahWord\" fromWord=\"1\" toWord=\"14\"/><format class=\"ayahAddress\" surah=\"17\" ayah=\"1\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"79\" ayah=\"46\" toAyah=\"\">كَأَنَّهُمْ يَوْمَ يَرَوْنَهٰا لَمْ يَلْبَثُوا إِلاّٰ عَشِيَّةً أَوْ ضُحٰاهٰا، <format class=\"ayahWord\" fromWord=\"1\" toWord=\"9\"/><format class=\"ayahAddress\" surah=\"79\" ayah=\"46\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"26\" ayah=\"57\" toAyah=\"\">فَأَخْرَجْنٰاهُمْ مِنْ جَنّٰاتٍ وَ عُيُونٍ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"26\" ayah=\"57\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"44\" ayah=\"26\" toAyah=\"\">وَ زُرُوعٍ وَ مَقٰامٍ كَرِيمٍ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"44\" ayah=\"26\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"44\" ayah=\"27\" toAyah=\"\">وَ نَعْمَةٍ كٰانُوا فِيهٰا فٰاكِهِينَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"44\" ayah=\"27\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"44\" ayah=\"29\" toAyah=\"\">فَمٰا بَكَتْ عَلَيْهِمُ اَلسَّمٰاءُ وَ اَلْأَرْضُ وَ مٰا كٰانُوا مُنْظَرِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"44\" ayah=\"29\" toAyah=\"\"/></format> اُخْرُجْ مِنْهَا فَمَا يَكُونُ لَكَ أَنْ تَتَكَبَّرَ فِيهَا <format class=\"ayah\" surah=\"7\" ayah=\"13\" toAyah=\"\">فَاخْرُجْ إِنَّكَ مِنَ اَلصّٰاغِرِينَ <format class=\"ayahWord\" fromWord=\"10\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"7\" ayah=\"13\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"7\" ayah=\"18\" toAyah=\"\">اُخْرُجْ مِنْهٰا مَذْؤُماً مَدْحُوراً <format class=\"ayahWord\" fromWord=\"2\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"7\" ayah=\"18\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"27\" ayah=\"37\" toAyah=\"\">فَلَنَأْتِيَنَّهُمْ بِجُنُودٍ لاٰ قِبَلَ لَهُمْ بِهٰا وَ لَنُخْرِجَنَّهُمْ مِنْهٰا أَذِلَّةً وَ هُمْ صٰاغِرُونَ‌)<format class=\"ayahWord\" fromWord=\"3\" toWord=\"15\"/><format class=\"ayahAddress\" surah=\"27\" ayah=\"37\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687850951,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3911\"><format class=\"hadith\" who=\"16\" Id=\"1616\" RevayatIndex=\"1636\"><format class=\"sanadHadith\">أَيْضاً:</format> كُلَّمَا دَخَلْتَ زَرْعَكَ وَ أَشْجَارَكَ اِقْرَأْ: (اَللَّهُمَّ إِنَّكَ حَفِظْتَ اَلْغُلاَمَيْنِ لِصَلاَحِ أَبَوَيْهِمَا فَاحْفَظْ زَرْعِي وَ غَرْسِي وَ أَمْوَالِي، وَ كُلَّ مَا مَلَّكْتَنِي لِصَلاَحِ مَوَالِيَّ وَ سَادَاتِي مُحَمَّدٍ وَ آلِهِ اَلطَّاهِرِينَ‌).</format></p>"
+        },
+        {
+          "paragraphId": 687850952,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3912\"><format class=\"hadith\" who=\"16\" Id=\"1617\" RevayatIndex=\"1637\"><format class=\"sanadHadith\">وَ:</format> لِدَفْعِ اَلْجَرَادِ: اَلتَّكْبِيرُ، كَرِّرِ اَلتَّكْبِيرَ فَإِنَّهُ يَدْفَعُهَا وَ يُخْرِجُهَا.</format></p>"
+        },
+        {
+          "paragraphId": 687850953,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3913\"><format class=\"hadith\" who=\"6\" Id=\"1618\" RevayatIndex=\"1638\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>إِذَا غَرَسْتَ غَرْساً أَوْ حَبّاً، فَاقْرَأْ عَلَى كُلِّ عُودٍ أَوْ حَبَّةٍ‌: </format></p>"
+        },
+        {
+          "paragraphId": 687850954,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3914\"><format class=\"hadith\" who=\"6\" Id=\"1618\" RevayatIndex=\"1638\">(سُبْحَانَ اَلْبَاعِثِ اَلْوَارِثِ‌) فَإِنَّهُ لاَ يَكَادُ يُخْطِئُ إِنْ شَاءَ اَللَّهُ تَعَالَى.</format></p>"
+        },
+        {
+          "paragraphId": 687850955,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3915\"><format class=\"hadith\" who=\"5|6\" Id=\"1619\" RevayatIndex=\"1639\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"\">أَحَدِهِمَا (عَلَيْهِمَا اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> تَقُولُ‌: إِذَا غَرَسْتَ أَوْ زَرَعْتَ‌: (وَ مَثَلُ <format class=\"ayah\" surah=\"14\" ayah=\"24\" toAyah=\"25\">كَلِمَةٍ طَيِّبَةٍ كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهٰا ثٰابِتٌ وَ فَرْعُهٰا فِي اَلسَّمٰاءِ <format class=\"AyahSeprator\"/>تُؤْتِي أُكُلَهٰا كُلَّ حِينٍ بِإِذْنِ رَبِّهٰا)<format class=\"ayahWord\" fromWord=\"8\" toWord=\"23\"/><format class=\"ayahAddress\" surah=\"14\" ayah=\"24\" toAyah=\"25\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687850956,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3916\"><page number=\"366\"/><format class=\"hadith\" who=\"6\" Id=\"1620\" RevayatIndex=\"1640\"><format class=\"sanadHadith\">وَ فِي (اَلصَّحِيحِ‌) عَنِ <format class=\"G\">اِبْنِ بُكَيْرٍ</format>، قَالَ‌، قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>إِذَا أَرَدْتَ أَنْ تَزْرَعَ زَرْعاً، فَخُذْ قَبْضَةً مِنَ اَلْبَزْرِ، وَ اِسْتَقْبِلِ اَلْقِبْلَةَ‌، وَ قُلْ‌: <format class=\"ayah\" surah=\"56\" ayah=\"63\" toAyah=\"64\">(أَ فَرَأَيْتُمْ مٰا تَحْرُثُونَ‌، <format class=\"AyahSeprator\"/>أَ أَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ اَلزّٰارِعُونَ‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"56\" ayah=\"63\" toAyah=\"64\"/></format> ثَلاَثَ مَرَّاتٍ‌، ثُمَّ تَقُولُ‌: (بَلِ اَللَّهُ اَلزَّارِعُ‌) ثَلاَثَ مَرَّاتٍ ثُمَّ قُلْ‌: (يَا اَللَّهُ اِجْعَلْهُ حَبّاً مُبَارَكاً) <format class=\"sanadHadith\">وَ فِي رِوَايَةٍ‌: </format>(مُتَرَاكِماً وَ اُرْزُقْنَا فِيهِ اَلسَّلاَمَةَ‌) ثُمَّ اُنْثُرِ اَلْقَبْضَةَ فِي يَدِكَ فِي اَلْقَرَاحِ أَيْ فِي اَلْأَرْضِ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "365",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3908\" paragraph-id=\"3908\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo365\">365</span>\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"BM\">دفع الجراد، و ما يقال له السني و آفة الدود من المطابخ و المزارع</span>، و أمثال ذلك، و ما يقال عند الزرع و الزراعة</strong>\n  </p>\n  <p id=\"p3909\" paragraph-id=\"3909\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فِي (<span class=\"K\">عُدَّةِ اَلدَّاعِي</span>): </span>رُقْيَةُ اَلدُّودِ اَلَّذِي يَأْكُلُ اَلْمَطَابِخَ وَ اَلزَّرْعَ‌: يُكْتَبُ عَلَى أَرْبَعِ قَصَبَاتٍ وَ أَرْبَعِ رِقَاعٍ‌، وَ يُجْعَلُ عَلَى أَرْبَعِ قَصَبَاتٍ فِي أَرْبَعِ جَوَانِبِ اَلْمَطْبَخَةِ أَوِ اَلزَّرْعِ‌:</span>\n  </p>\n  <p id=\"p3910\" paragraph-id=\"3910\" class=\" G\">\n    <span class=\"hadith\">(أَيُّهَا اَلدَّوَابُّ وَ اَلْهَوَامُّ وَ اَلْحَيَوَانَاتُ اُخْرُجُوا مِنْ هَذِهِ اَلْأَرْضِ وَ اَلزَّرْعِ إِلَى اَلْخَرَابِ‌، كَمَا خَرَجَ اِبْنُ مَتَّى مِنَ اَلْحُوتِ‌، وَ إِنْ لَمْ تَخْرُجُوا أَرْسَلْتُ عَلَيْكُمْ شُوَاظاً <span style=\"0\" class=\"ayah\" surah=\"55\" ayah=\"35\">مِنْ نٰارٍ وَ نُحٰاسٌ فَلاٰ تَنْتَصِرٰانِ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/55/35\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"2\" ayah=\"243\">أَ لَمْ تَرَ إِلَى اَلَّذِينَ خَرَجُوا مِنْ دِيٰارِهِمْ وَ هُمْ أُلُوفٌ حَذَرَ اَلْمَوْتِ‌، فَقٰالَ لَهُمُ اَللّٰهُ مُوتُوا<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/2/243\"></a></span></span> فَمَاتُوا اُخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ‌، <span style=\"0\" class=\"ayah\" surah=\"28\" ayah=\"21\">فَخَرَجَ مِنْهٰا خٰائِفاً يَتَرَقَّبُ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/28/21\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"17\" ayah=\"1\">سُبْحٰانَ اَلَّذِي أَسْرىٰ بِعَبْدِهِ لَيْلاً مِنَ اَلْمَسْجِدِ اَلْحَرٰامِ إِلَى اَلْمَسْجِدِ اَلْأَقْصَى اَلَّذِي بٰارَكْنٰا حَوْلَهُ‌، <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/17/1\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"79\" ayah=\"46\">كَأَنَّهُمْ يَوْمَ يَرَوْنَهٰا لَمْ يَلْبَثُوا إِلاّٰ عَشِيَّةً أَوْ ضُحٰاهٰا، <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/79/46\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"26\" ayah=\"57\">فَأَخْرَجْنٰاهُمْ مِنْ جَنّٰاتٍ وَ عُيُونٍ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/26/57\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"44\" ayah=\"26\">وَ زُرُوعٍ وَ مَقٰامٍ كَرِيمٍ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/44/26\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"44\" ayah=\"27\">وَ نَعْمَةٍ كٰانُوا فِيهٰا فٰاكِهِينَ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/44/27\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"44\" ayah=\"29\">فَمٰا بَكَتْ عَلَيْهِمُ اَلسَّمٰاءُ وَ اَلْأَرْضُ وَ مٰا كٰانُوا مُنْظَرِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/44/29\"></a></span></span> اُخْرُجْ مِنْهَا فَمَا يَكُونُ لَكَ أَنْ تَتَكَبَّرَ فِيهَا <span style=\"0\" class=\"ayah\" surah=\"7\" ayah=\"13\">فَاخْرُجْ إِنَّكَ مِنَ اَلصّٰاغِرِينَ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/7/13\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"7\" ayah=\"18\">اُخْرُجْ مِنْهٰا مَذْؤُماً مَدْحُوراً <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/7/18\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"27\" ayah=\"37\">فَلَنَأْتِيَنَّهُمْ بِجُنُودٍ لاٰ قِبَلَ لَهُمْ بِهٰا وَ لَنُخْرِجَنَّهُمْ مِنْهٰا أَذِلَّةً وَ هُمْ صٰاغِرُونَ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/27/37\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3911\" paragraph-id=\"3911\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أَيْضاً:</span> كُلَّمَا دَخَلْتَ زَرْعَكَ وَ أَشْجَارَكَ اِقْرَأْ: (اَللَّهُمَّ إِنَّكَ حَفِظْتَ اَلْغُلاَمَيْنِ لِصَلاَحِ أَبَوَيْهِمَا فَاحْفَظْ زَرْعِي وَ غَرْسِي وَ أَمْوَالِي، وَ كُلَّ مَا مَلَّكْتَنِي لِصَلاَحِ مَوَالِيَّ وَ سَادَاتِي مُحَمَّدٍ وَ آلِهِ اَلطَّاهِرِينَ‌).</span>\n  </p>\n  <p id=\"p3912\" paragraph-id=\"3912\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ:</span> لِدَفْعِ اَلْجَرَادِ: اَلتَّكْبِيرُ، كَرِّرِ اَلتَّكْبِيرَ فَإِنَّهُ يَدْفَعُهَا وَ يُخْرِجُهَا.</span>\n  </p>\n  <p id=\"p3913\" paragraph-id=\"3913\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>إِذَا غَرَسْتَ غَرْساً أَوْ حَبّاً، فَاقْرَأْ عَلَى كُلِّ عُودٍ أَوْ حَبَّةٍ‌: </span>\n  </p>\n  <p id=\"p3914\" paragraph-id=\"3914\" class=\" G\">\n    <span class=\"hadith\">(سُبْحَانَ اَلْبَاعِثِ اَلْوَارِثِ‌) فَإِنَّهُ لاَ يَكَادُ يُخْطِئُ إِنْ شَاءَ اَللَّهُ تَعَالَى.</span>\n  </p>\n  <p id=\"p3915\" paragraph-id=\"3915\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"Y\"><span class=\"maasoom\">أَحَدِهِمَا (عَلَيْهِمَا اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> تَقُولُ‌: إِذَا غَرَسْتَ أَوْ زَرَعْتَ‌: (وَ مَثَلُ <span style=\"0\" class=\"ayah\" surah=\"14\" ayah=\"24\">كَلِمَةٍ طَيِّبَةٍ كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهٰا ثٰابِتٌ وَ فَرْعُهٰا فِي اَلسَّمٰاءِ <span class=\"AyahSeprator\"></span>تُؤْتِي أُكُلَهٰا كُلَّ حِينٍ بِإِذْنِ رَبِّهٰا)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/14/24\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3916\" paragraph-id=\"3916\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "F802B680-1D00-43DF-AA31-CBAEF766BA6E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

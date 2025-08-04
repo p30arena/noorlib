@@ -1,0 +1,86 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 362,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687851271,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3881\"><format class=\"hadith\" who=\"3,4,6\" Id=\"1603\" RevayatIndex=\"1623\"><page number=\"362\"/>(بِسْمِ اَللَّهِ وَ بِاللَّهِ‌، وَ اَلسَّلاَمُ عَلَى رَسُولِ اَللَّهِ‌) ثُمَّ اِقْرَأْ عَلَيْهِ‌: <format class=\"ayah\" surah=\"39\" ayah=\"67\" toAyah=\"\">(وَ مٰا قَدَرُوا اَللّٰهَ حَقَّ قَدْرِهِ وَ اَلْأَرْضُ جَمِيعاً قَبْضَتُهُ <format class=\"Z\">يَوْمَ اَلْقِيٰامَةِ‌</format> وَ اَلسَّمٰاوٰاتُ مَطْوِيّٰاتٌ بِيَمِينِهِ سُبْحٰانَهُ وَ تَعٰالىٰ عَمّٰا يُشْرِكُونَ‌)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"21\"/><format class=\"ayahAddress\" surah=\"39\" ayah=\"67\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687851272,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3882\"><format class=\"hadith\" who=\"3,4,6\" Id=\"1603\" RevayatIndex=\"1623\">فَفَعَلَ اَلرَّجُلُ ذَلِكَ‌، فَشَفَاهُ اَللَّهُ تَعَالَى. وَ تَقْرَأُ عَلَى كُلِّ وَرَمٍ آخِرَ (اَلْحَشْرِ)؛ <format class=\"ayah\" surah=\"59\" ayah=\"21\" toAyah=\"\">لَوْ أَنْزَلْنٰا هٰذَا اَلْقُرْآنَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"59\" ayah=\"21\" toAyah=\"\"/></format>.. الخ.</format></p>"
+        },
+        {
+          "paragraphId": 687851273,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3883\"><format class=\"hadith\" who=\"6\" Id=\"1604\" RevayatIndex=\"1624\"><format class=\"sanadHadith\">وَ:</format> لِوَجَعِ اَلرِّجْلَيْنِ‌، عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)، تَقْرَأُ عَلَيْهِمَا أَوَّلَ (اَلْفَتْحِ‌) - إِلَى قَوْلِهِ - <format class=\"ayah\" surah=\"48\" ayah=\"7\" toAyah=\"\">عَزِيزاً حَكِيماً<format class=\"ayahWord\" fromWord=\"10\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"48\" ayah=\"7\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687851274,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3884\"><heading level=\"2\">باب <format class=\"ZM\">علاج السّلعة </format></heading></p>"
+        },
+        {
+          "paragraphId": 687851275,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3885\">السّلعة - بكسر السين - لحمة زائدة تحدث في البدن كالغدة تجيء و تذهب بين اللحم، بقدر حمصة إلى بطيخة.</p>"
+        },
+        {
+          "paragraphId": 687850926,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3886\"><format class=\"hadith\" who=\"6\" Id=\"1605\" RevayatIndex=\"1625\"><format class=\"sanadHadith\">قَالَ <format class=\"G\">اَلثَّعَالِبِيُّ‌</format> فِي <format class=\"K\">(اَلْكَفْعَمِيِّ‌)</format> وَ <format class=\"K\">(طِبِّ اَلْأَئِمَّةِ‌)</format>، وَ غَيْرِهِمَا، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> شَكَا إِلَيْهِ رَجُلٌ مِنَ <format class=\"U\">اَلشِّيعَةِ‌</format> سِلْعَةً ظَهَرَتْ بِهِ‌، فَقَالَ <format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format>: صُمْ ثَلاَثَةَ أَيَّامٍ‌، ثُمَّ اِغْتَسِلْ فِي اَلْيَوْمِ اَلرَّابِعِ‌، عِنْدَ زَوَالِ اَلشَّمْسِ‌، وَ اُبْرُزْ لِرَبِّكَ‌، وَ لْيَكُنْ مَعَكَ خِرْقَةٌ نَظِيفَةٌ‌، فَصَلِّ أَرْبَعَ رَكَعَاتٍ‌، وَ اِقْرَأْ فِيهَا مَا تَيَسَّرَ مِنَ اَلْقُرْآنِ‌، وَ اِخْتَضِعْ بِجُهْدِكَ فَإِنْ فَرَغْتَ مِنْ صَلَوَاتِكَ‌، فَأَلْقِ ثِيَابَكَ‌، وَ اُبْرُزْ بِالْخِرْقَةِ‌، وَ اِلْزَقْ خَدَّكَ اَلْأَيْمَنَ عَلَى اَلْأَرْضِ‌، ثُمَّ قُلْ بِابْتِهَالٍ وَ تَضَرُّعٍ‌، وَ خُشُوعٍ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850927,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3887\"><format class=\"hadith\" who=\"6\" Id=\"1605\" RevayatIndex=\"1625\">(يَا وَاحِدُ يَا مَاجِدُ، يَا أَحَدُ، يَا كَرِيمُ‌، يَا حَنَّانُ‌، يَا قَرِيبُ‌، يَا مُجِيبُ‌، يَا أَرْحَمَ اَلرَّاحِمِينَ‌، صَلِّ عَلَى <format class=\"maasoom\" maasoomNo=\"14\">مُحَمَّدٍ</format> وَ <format class=\"maasoom\" maasoomNo=\"\">آلِ مُحَمَّدٍ</format>، وَ اِكْشِفْ مَا بِي مِنْ مَرَضٍ‌، وَ أَلْبِسْنِي اَلْعَافِيَةَ اَلْكَافِيَةَ اَلشَّافِيَةَ فِي اَلدُّنْيَا وَ اَلْآخِرَةِ‌، وَ اُمْنُنْ عَلَيَّ بِتَمَامِ اَلنِّعْمَةِ‌، وَ أَذْهِبْ مَا بِي مِنْ ضُرٍّ، فَقَدْ آذَانِي، وَ غَمَّنِي!).</format></p>"
+        },
+        {
+          "paragraphId": 687850928,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3888\"><format class=\"hadith\" who=\"6\" Id=\"1605\" RevayatIndex=\"1625\">فَقَالَ <format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format>: وَ اِعْلَمْ أَنَّهُ لاَ يَنْفَعُكَ حَتَّى يُعَالِجَ فِي قَلْبِكَ خِلاَفُهُ‌، وَ تَعْلَمَ أَنَّهُ يَنْفَعُكَ‌. قَالَ‌: فَفَعَلَ اَلرَّجُلُ مَا أَمَرَهُ بِهِ <format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</format>، قَالَ فَعُوفِيَ مِنْهَا.</format></p>"
+        },
+        {
+          "paragraphId": 687850929,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3889\"><page number=\"363\"/><heading level=\"2\">باب <format class=\"ZM\">علاج الثألول و نحوه </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "362",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3881\" paragraph-id=\"3881\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo362\">362</span>(بِسْمِ اَللَّهِ وَ بِاللَّهِ‌، وَ اَلسَّلاَمُ عَلَى رَسُولِ اَللَّهِ‌) ثُمَّ اِقْرَأْ عَلَيْهِ‌: <span style=\"0\" class=\"ayah\" surah=\"39\" ayah=\"67\">(وَ مٰا قَدَرُوا اَللّٰهَ حَقَّ قَدْرِهِ وَ اَلْأَرْضُ جَمِيعاً قَبْضَتُهُ <span class=\"Z\">يَوْمَ اَلْقِيٰامَةِ‌</span> وَ اَلسَّمٰاوٰاتُ مَطْوِيّٰاتٌ بِيَمِينِهِ سُبْحٰانَهُ وَ تَعٰالىٰ عَمّٰا يُشْرِكُونَ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/39/67\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3882\" paragraph-id=\"3882\" class=\" G\">\n    <span class=\"hadith\">فَفَعَلَ اَلرَّجُلُ ذَلِكَ‌، فَشَفَاهُ اَللَّهُ تَعَالَى. وَ تَقْرَأُ عَلَى كُلِّ وَرَمٍ آخِرَ (اَلْحَشْرِ)؛ <span style=\"0\" class=\"ayah\" surah=\"59\" ayah=\"21\">لَوْ أَنْزَلْنٰا هٰذَا اَلْقُرْآنَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/59/21\"></a></span></span>.. الخ.</span>\n  </p>\n  <p id=\"p3883\" paragraph-id=\"3883\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ:</span> لِوَجَعِ اَلرِّجْلَيْنِ‌، عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)، تَقْرَأُ عَلَيْهِمَا أَوَّلَ (اَلْفَتْحِ‌) - إِلَى قَوْلِهِ - <span style=\"0\" class=\"ayah\" surah=\"48\" ayah=\"7\">عَزِيزاً حَكِيماً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/48/7\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3884\" paragraph-id=\"3884\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"ZM\">علاج السّلعة </span></strong>\n  </p>\n  <p id=\"p3885\" paragraph-id=\"3885\" class=\" G\">السّلعة - بكسر السين - لحمة زائدة تحدث في البدن كالغدة تجيء و تذهب بين اللحم، بقدر حمصة إلى بطيخة.</p>\n  <p id=\"p3886\" paragraph-id=\"3886\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"G\">اَلثَّعَالِبِيُّ‌</span> فِي <span class=\"K\">(اَلْكَفْعَمِيِّ‌)</span> وَ <span class=\"K\">(طِبِّ اَلْأَئِمَّةِ‌)</span>، وَ غَيْرِهِمَا، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> شَكَا إِلَيْهِ رَجُلٌ مِنَ <span class=\"U\">اَلشِّيعَةِ‌</span> سِلْعَةً ظَهَرَتْ بِهِ‌، فَقَالَ <span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span>: صُمْ ثَلاَثَةَ أَيَّامٍ‌، ثُمَّ اِغْتَسِلْ فِي اَلْيَوْمِ اَلرَّابِعِ‌، عِنْدَ زَوَالِ اَلشَّمْسِ‌، وَ اُبْرُزْ لِرَبِّكَ‌، وَ لْيَكُنْ مَعَكَ خِرْقَةٌ نَظِيفَةٌ‌، فَصَلِّ أَرْبَعَ رَكَعَاتٍ‌، وَ اِقْرَأْ فِيهَا مَا تَيَسَّرَ مِنَ اَلْقُرْآنِ‌، وَ اِخْتَضِعْ بِجُهْدِكَ فَإِنْ فَرَغْتَ مِنْ صَلَوَاتِكَ‌، فَأَلْقِ ثِيَابَكَ‌، وَ اُبْرُزْ بِالْخِرْقَةِ‌، وَ اِلْزَقْ خَدَّكَ اَلْأَيْمَنَ عَلَى اَلْأَرْضِ‌، ثُمَّ قُلْ بِابْتِهَالٍ وَ تَضَرُّعٍ‌، وَ خُشُوعٍ‌.</span>\n  </p>\n  <p id=\"p3887\" paragraph-id=\"3887\" class=\" G\">\n    <span class=\"hadith\">(يَا وَاحِدُ يَا مَاجِدُ، يَا أَحَدُ، يَا كَرِيمُ‌، يَا حَنَّانُ‌، يَا قَرِيبُ‌، يَا مُجِيبُ‌، يَا أَرْحَمَ اَلرَّاحِمِينَ‌، صَلِّ عَلَى <span class=\"maasoom\">مُحَمَّدٍ</span> وَ <span class=\"maasoom\">آلِ مُحَمَّدٍ</span>، وَ اِكْشِفْ مَا بِي مِنْ مَرَضٍ‌، وَ أَلْبِسْنِي اَلْعَافِيَةَ اَلْكَافِيَةَ اَلشَّافِيَةَ فِي اَلدُّنْيَا وَ اَلْآخِرَةِ‌، وَ اُمْنُنْ عَلَيَّ بِتَمَامِ اَلنِّعْمَةِ‌، وَ أَذْهِبْ مَا بِي مِنْ ضُرٍّ، فَقَدْ آذَانِي، وَ غَمَّنِي!).</span>\n  </p>\n  <p id=\"p3888\" paragraph-id=\"3888\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ <span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span>: وَ اِعْلَمْ أَنَّهُ لاَ يَنْفَعُكَ حَتَّى يُعَالِجَ فِي قَلْبِكَ خِلاَفُهُ‌، وَ تَعْلَمَ أَنَّهُ يَنْفَعُكَ‌. قَالَ‌: فَفَعَلَ اَلرَّجُلُ مَا أَمَرَهُ بِهِ <span class=\"maasoom\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</span>، قَالَ فَعُوفِيَ مِنْهَا.</span>\n  </p>\n  <p id=\"p3889\" paragraph-id=\"3889\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "040E409D-E0CB-4868-9337-72D30F83ED98",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

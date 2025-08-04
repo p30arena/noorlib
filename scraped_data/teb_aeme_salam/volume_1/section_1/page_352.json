@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 352,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687851171,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3781\"><page number=\"352\"/><format class=\"hadith\" who=\"1\" Id=\"1551\" RevayatIndex=\"1571\"><format class=\"sanadHadith\">وَ عَنْ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ‌:</format> مَنْ كَتَبَ هَذِهِ اَلسَّبْعَ آيَاتٍ فِي قَصْعَةٍ صِينِيٍّ‌، أَوْ فِي جَامٍ صِينِيٍّ‌، بِمِسْكٍ وَ زَعْفَرَانٍ‌، وَ مَاءٍ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687851172,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3782\"><format class=\"hadith\" who=\"1\" Id=\"1551\" RevayatIndex=\"1571\">(1 - <format class=\"ayah\" surah=\"37\" ayah=\"79\" toAyah=\"\">سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"79\" toAyah=\"\"/></format>. 2 - <format class=\"ayah\" surah=\"37\" ayah=\"109\" toAyah=\"\">سَلاٰمٌ عَلىٰ إِبْرٰاهِيمَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"109\" toAyah=\"\"/></format>. 3 - <format class=\"ayah\" surah=\"37\" ayah=\"120\" toAyah=\"\">سَلاٰمٌ عَلىٰ مُوسىٰ وَ هٰارُونَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"120\" toAyah=\"\"/></format>. 4 - <format class=\"ayah\" surah=\"37\" ayah=\"130\" toAyah=\"\">سَلاٰمٌ عَلىٰ إِلْيٰاسِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"37\" ayah=\"130\" toAyah=\"\"/></format>. 5 - <format class=\"ayah\" surah=\"39\" ayah=\"73\" toAyah=\"\">سَلاٰمٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهٰا خٰالِدِينَ‌<format class=\"ayahWord\" fromWord=\"19\" toWord=\"23\"/><format class=\"ayahAddress\" surah=\"39\" ayah=\"73\" toAyah=\"\"/></format>. 6 - <format class=\"ayah\" surah=\"97\" ayah=\"5\" toAyah=\"\">سَلاٰمٌ هِيَ حَتّٰى مَطْلَعِ اَلْفَجْرِ<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"97\" ayah=\"5\" toAyah=\"\"/></format>. 7 - <format class=\"ayah\" surah=\"36\" ayah=\"58\" toAyah=\"\">سَلاٰمٌ قَوْلاً مِنْ رَبٍّ رَحِيمٍ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"36\" ayah=\"58\" toAyah=\"\"/></format>).</format></p>"
+        },
+        {
+          "paragraphId": 687851173,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3783\"><heading level=\"2\">باب دفع القتل و الخوف</heading></p>"
+        },
+        {
+          "paragraphId": 687851174,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3784\"><format class=\"hadith\" who=\"6\" Id=\"1552\" RevayatIndex=\"1572\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> أَرْبَعٌ لِأَرْبَعٍ‌: فَوَاحِدَةٌ لِلْقَتْلِ وَ اَلْهَزِيمَةِ (<format class=\"ayah\" surah=\"3\" ayah=\"173\" toAyah=\"\">حَسْبُنَا اَللّٰهُ وَ نِعْمَ اَلْوَكِيلُ‌<format class=\"ayahWord\" fromWord=\"15\" toWord=\"19\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"173\" toAyah=\"\"/></format>): إِنَّ اَللَّهَ يَقُولُ‌: <format class=\"ayah\" surah=\"3\" ayah=\"173\" toAyah=\"174\">اَلَّذِينَ قٰالَ لَهُمُ اَلنّٰاسُ إِنَّ اَلنّٰاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزٰادَهُمْ إِيمٰاناً وَ قٰالُوا: حَسْبُنَا اَللّٰهُ وَ نِعْمَ اَلْوَكِيلُ‌. <format class=\"AyahSeprator\"/>فَانْقَلَبُوا بِنِعْمَةٍ مِنَ اَللّٰهِ وَ فَضْلٍ لَمْ يَمْسَسْهُمْ سُوءٌ وَ اِتَّبَعُوا رِضْوٰانَ اَللّٰهِ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"32\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"173\" toAyah=\"174\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687851175,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3785\"><format class=\"hadith\" who=\"6\" Id=\"1552\" RevayatIndex=\"1572\">وَ اَلْأُخْرَى لِلْمَلِكِ وَ اَلسُّوءِ‌: (<format class=\"ayah\" surah=\"40\" ayah=\"44\" toAyah=\"\">وَ أُفَوِّضُ أَمْرِي إِلَى اَللّٰهِ‌<format class=\"ayahWord\" fromWord=\"5\" toWord=\"9\"/><format class=\"ayahAddress\" surah=\"40\" ayah=\"44\" toAyah=\"\"/></format> وَ فَوَّضْتُ أَمْرِي إِلَى اَللَّهِ‌)، قَالَ اَللَّهُ عَزَّ وَ جَلَّ‌: <format class=\"ayah\" surah=\"40\" ayah=\"45\" toAyah=\"\">فَوَقٰاهُ اَللّٰهُ سَيِّئٰاتِ مٰا مَكَرُوا، وَ حٰاقَ بِآلِ فِرْعَوْنَ سُوءُ اَلْعَذٰابِ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"40\" ayah=\"45\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687851176,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3786\"><format class=\"hadith\" who=\"6\" Id=\"1552\" RevayatIndex=\"1572\">وَ اَلثَّالِثَةُ لِلْحَرَقِ وَ اَلْغَرَقِ‌: <format class=\"ayah\" surah=\"18\" ayah=\"39\" toAyah=\"\">(مٰا شٰاءَ اَللّٰهُ‌، لاٰ قُوَّةَ إِلاّٰ بِاللّٰهِ‌)<format class=\"ayahWord\" fromWord=\"8\" toWord=\"14\"/><format class=\"ayahAddress\" surah=\"18\" ayah=\"39\" toAyah=\"\"/></format>. وَ ذَلِكَ أَنَّهُ يَقُولُ‌: </format></p>"
+        },
+        {
+          "paragraphId": 687851177,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3787\"><format class=\"hadith\" who=\"6\" Id=\"1552\" RevayatIndex=\"1572\">وَ لَوْ لاَ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ‌: مَا شَاءَ اَللَّهُ لاَ قُوَّةَ إِلاَّ بِاللَّهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687851178,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3788\"><format class=\"hadith\" who=\"6\" Id=\"1552\" RevayatIndex=\"1572\">وَ اَلرَّابِعَةُ لِلْغَمِّ وَ اَلْهَمِّ‌: <format class=\"ayah\" surah=\"21\" ayah=\"87\" toAyah=\"\">(لاٰ إِلٰهَ إِلاّٰ أَنْتَ سُبْحٰانَكَ إِنِّي كُنْتُ مِنَ اَلظّٰالِمِينَ‌)<format class=\"ayahWord\" fromWord=\"16\" toWord=\"24\"/><format class=\"ayahAddress\" surah=\"21\" ayah=\"87\" toAyah=\"\"/></format> قَالَ اَللَّهُ سُبْحَانَهُ‌: <format class=\"ayah\" surah=\"21\" ayah=\"88\" toAyah=\"\">فَاسْتَجَبْنٰا لَهُ وَ نَجَّيْنٰاهُ مِنَ اَلْغَمِّ وَ كَذٰلِكَ نُنْجِي اَلْمُؤْمِنِينَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"21\" ayah=\"88\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687851179,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3789\"><format class=\"hadith\" who=\"16\" Id=\"1553\" RevayatIndex=\"1573\"><format class=\"sanadHadith\">وَ رُوِيَ‌:</format> قِرَاءَةُ (إِنَّا أَنْزَلْنَاهُ‌) لِدَفْعِ اَلْقَتْلِ‌، كَمَا فَعَلَ مَوْلاَنَا اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌) مَعَ اَلْمَنْصُورَ، لَمَّا أَرَادَ قَتْلَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687851180,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"3790\">و كذا روي التوسل بصاحب الزمان، و كذا الدعاء بحق الأئمة (عليهم السّلام).</p>"
+        },
+        {
+          "paragraphId": 687851181,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"3791\"><format class=\"hadith\" who=\"8\" Id=\"1554\" RevayatIndex=\"1574\"><format class=\"sanadHadith\">وَ عَنِ اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> لَمَّا أَشْرَفَ نُوحٌ عَلَى اَلْغَرَقِ‌، دَعَا اَللَّهَ بِحَقِّنَا، فَدَفَعَ اَللَّهُ عَنْهُ اَلْغَرَقَ‌، وَ لَمَّا رُمِيَ إِبْرَاهِيمُ فِي اَلنَّارِ، فَدَعَا اَللَّهَ بِحَقِّنَا جُعِلَتْ بَرْداً وَ سَلاَماً، وَ أَنَّ‌<page number=\"353\"/> عِيسَى لَمَّا أَرَادَ اَلْيَهُودُ قَتْلَهُ دَعَا اَللَّهَ بِحَقِّنَا، فَنَجَا مِنَ اَلْقَتْلِ‌، وَ رَفَعَهُ اَللَّهُ إِلَيْهِ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "352",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3781\" paragraph-id=\"3781\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo352\">352</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ‌:</span> مَنْ كَتَبَ هَذِهِ اَلسَّبْعَ آيَاتٍ فِي قَصْعَةٍ صِينِيٍّ‌، أَوْ فِي جَامٍ صِينِيٍّ‌، بِمِسْكٍ وَ زَعْفَرَانٍ‌، وَ مَاءٍ‌.</span>\n  </p>\n  <p id=\"p3782\" paragraph-id=\"3782\" class=\" G\">\n    <span class=\"hadith\">(1 - <span style=\"0\" class=\"ayah\" surah=\"37\" ayah=\"79\">سَلاٰمٌ عَلىٰ نُوحٍ فِي اَلْعٰالَمِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/37/79\"></a></span></span>. 2 - <span style=\"0\" class=\"ayah\" surah=\"37\" ayah=\"109\">سَلاٰمٌ عَلىٰ إِبْرٰاهِيمَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/37/109\"></a></span></span>. 3 - <span style=\"0\" class=\"ayah\" surah=\"37\" ayah=\"120\">سَلاٰمٌ عَلىٰ مُوسىٰ وَ هٰارُونَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/37/120\"></a></span></span>. 4 - <span style=\"0\" class=\"ayah\" surah=\"37\" ayah=\"130\">سَلاٰمٌ عَلىٰ إِلْيٰاسِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/37/130\"></a></span></span>. 5 - <span style=\"0\" class=\"ayah\" surah=\"39\" ayah=\"73\">سَلاٰمٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهٰا خٰالِدِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/39/73\"></a></span></span>. 6 - <span style=\"0\" class=\"ayah\" surah=\"97\" ayah=\"5\">سَلاٰمٌ هِيَ حَتّٰى مَطْلَعِ اَلْفَجْرِ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/97/5\"></a></span></span>. 7 - <span style=\"0\" class=\"ayah\" surah=\"36\" ayah=\"58\">سَلاٰمٌ قَوْلاً مِنْ رَبٍّ رَحِيمٍ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/36/58\"></a></span></span>).</span>\n  </p>\n  <p id=\"p3783\" paragraph-id=\"3783\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب دفع القتل و الخوف</strong>\n  </p>\n  <p id=\"p3784\" paragraph-id=\"3784\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> أَرْبَعٌ لِأَرْبَعٍ‌: فَوَاحِدَةٌ لِلْقَتْلِ وَ اَلْهَزِيمَةِ (<span style=\"0\" class=\"ayah\" surah=\"3\" ayah=\"173\">حَسْبُنَا اَللّٰهُ وَ نِعْمَ اَلْوَكِيلُ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/3/173\"></a></span></span>): إِنَّ اَللَّهَ يَقُولُ‌: <span style=\"0\" class=\"ayah\" surah=\"3\" ayah=\"173\">اَلَّذِينَ قٰالَ لَهُمُ اَلنّٰاسُ إِنَّ اَلنّٰاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزٰادَهُمْ إِيمٰاناً وَ قٰالُوا: حَسْبُنَا اَللّٰهُ وَ نِعْمَ اَلْوَكِيلُ‌. <span class=\"AyahSeprator\"></span>فَانْقَلَبُوا بِنِعْمَةٍ مِنَ اَللّٰهِ وَ فَضْلٍ لَمْ يَمْسَسْهُمْ سُوءٌ وَ اِتَّبَعُوا رِضْوٰانَ اَللّٰهِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/3/173\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3785\" paragraph-id=\"3785\" class=\" G\">\n    <span class=\"hadith\">وَ اَلْأُخْرَى لِلْمَلِكِ وَ اَلسُّوءِ‌: (<span style=\"0\" class=\"ayah\" surah=\"40\" ayah=\"44\">وَ أُفَوِّضُ أَمْرِي إِلَى اَللّٰهِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/40/44\"></a></span></span> وَ فَوَّضْتُ أَمْرِي إِلَى اَللَّهِ‌)، قَالَ اَللَّهُ عَزَّ وَ جَلَّ‌: <span style=\"0\" class=\"ayah\" surah=\"40\" ayah=\"45\">فَوَقٰاهُ اَللّٰهُ سَيِّئٰاتِ مٰا مَكَرُوا، وَ حٰاقَ بِآلِ فِرْعَوْنَ سُوءُ اَلْعَذٰابِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/40/45\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3786\" paragraph-id=\"3786\" class=\" G\">\n    <span class=\"hadith\">وَ اَلثَّالِثَةُ لِلْحَرَقِ وَ اَلْغَرَقِ‌: <span style=\"0\" class=\"ayah\" surah=\"18\" ayah=\"39\">(مٰا شٰاءَ اَللّٰهُ‌، لاٰ قُوَّةَ إِلاّٰ بِاللّٰهِ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/18/39\"></a></span></span>. وَ ذَلِكَ أَنَّهُ يَقُولُ‌: </span>\n  </p>\n  <p id=\"p3787\" paragraph-id=\"3787\" class=\" G\">\n    <span class=\"hadith\">وَ لَوْ لاَ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ‌: مَا شَاءَ اَللَّهُ لاَ قُوَّةَ إِلاَّ بِاللَّهِ‌.</span>\n  </p>\n  <p id=\"p3788\" paragraph-id=\"3788\" class=\" G\">\n    <span class=\"hadith\">وَ اَلرَّابِعَةُ لِلْغَمِّ وَ اَلْهَمِّ‌: <span style=\"0\" class=\"ayah\" surah=\"21\" ayah=\"87\">(لاٰ إِلٰهَ إِلاّٰ أَنْتَ سُبْحٰانَكَ إِنِّي كُنْتُ مِنَ اَلظّٰالِمِينَ‌)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/21/87\"></a></span></span> قَالَ اَللَّهُ سُبْحَانَهُ‌: <span style=\"0\" class=\"ayah\" surah=\"21\" ayah=\"88\">فَاسْتَجَبْنٰا لَهُ وَ نَجَّيْنٰاهُ مِنَ اَلْغَمِّ وَ كَذٰلِكَ نُنْجِي اَلْمُؤْمِنِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/21/88\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3789\" paragraph-id=\"3789\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ رُوِيَ‌:</span> قِرَاءَةُ (إِنَّا أَنْزَلْنَاهُ‌) لِدَفْعِ اَلْقَتْلِ‌، كَمَا فَعَلَ مَوْلاَنَا اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌) مَعَ اَلْمَنْصُورَ، لَمَّا أَرَادَ قَتْلَهُ‌.</span>\n  </p>\n  <p id=\"p3790\" paragraph-id=\"3790\" class=\" G\">و كذا روي التوسل بصاحب الزمان، و كذا الدعاء بحق الأئمة (عليهم السّلام).</p>\n  <p id=\"p3791\" paragraph-id=\"3791\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> لَمَّا أَشْرَفَ نُوحٌ عَلَى اَلْغَرَقِ‌، دَعَا اَللَّهَ بِحَقِّنَا، فَدَفَعَ اَللَّهُ عَنْهُ اَلْغَرَقَ‌، وَ لَمَّا رُمِيَ إِبْرَاهِيمُ فِي اَلنَّارِ، فَدَعَا اَللَّهَ بِحَقِّنَا جُعِلَتْ بَرْداً وَ سَلاَماً، وَ أَنَّ‌</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "F69CDC35-545B-4108-8248-42446423C43F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

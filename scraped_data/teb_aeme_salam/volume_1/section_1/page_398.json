@@ -1,0 +1,194 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 398,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687851544,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"4246\"><page number=\"398\"/>باب: التداوي بالسفرجل 162</p>"
+        },
+        {
+          "paragraphId": 687851545,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"4247\">باب: التداوي بالكمثري 165</p>"
+        },
+        {
+          "paragraphId": 687851546,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"4248\">باب: التداوي بالتين 165</p>"
+        },
+        {
+          "paragraphId": 687851547,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"4249\">باب: ما جاء في الأترج 167</p>"
+        },
+        {
+          "paragraphId": 687851548,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"4250\">باب: التداوي بالإجاص 168</p>"
+        },
+        {
+          "paragraphId": 687851549,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"4251\">باب: التداوي بالغبيراء 169</p>"
+        },
+        {
+          "paragraphId": 687851550,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"4252\">باب: قصب السكر 170</p>"
+        },
+        {
+          "paragraphId": 687851551,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"4253\">باب: التداوي بالبطيخ 170</p>"
+        },
+        {
+          "paragraphId": 687851552,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"4254\">باب: التداوي بالهندباء 171</p>"
+        },
+        {
+          "paragraphId": 687851553,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"4255\">باب: التداوي بالباذروج و الحوك 175</p>"
+        },
+        {
+          "paragraphId": 687851554,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"4256\">باب: التداوي بالكرّاث 176</p>"
+        },
+        {
+          "paragraphId": 687851555,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"4257\">باب: الكرفس 179</p>"
+        },
+        {
+          "paragraphId": 687851556,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"4258\">باب: التداوي بالرّجلة و الفرفخ 180</p>"
+        },
+        {
+          "paragraphId": 687851557,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"4259\">باب: التداوي بالخسّ 181</p>"
+        },
+        {
+          "paragraphId": 687851558,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"4260\">باب: التداوي بالسّذاب 181</p>"
+        },
+        {
+          "paragraphId": 687851559,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"4261\">باب: ما جاء في الجرجير 182</p>"
+        },
+        {
+          "paragraphId": 687851560,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"4262\">باب: التداوي بالسّلق، و الكرنب، و منافعهما 183</p>"
+        },
+        {
+          "paragraphId": 687851561,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"4263\">باب: التداوي بالكمأة 184</p>"
+        },
+        {
+          "paragraphId": 687851562,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"4264\">باب: التداوي بالحزاء 185</p>"
+        },
+        {
+          "paragraphId": 687851563,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"4265\">باب: التداوي بالقرع 186</p>"
+        },
+        {
+          "paragraphId": 687851564,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"4266\">باب: التداوي بالفجل 187</p>"
+        },
+        {
+          "paragraphId": 687851565,
+          "paragNumber": 22,
+          "tocNumber": 0,
+          "text": "<p id=\"4267\">باب: التداوي بالجزر 188</p>"
+        },
+        {
+          "paragraphId": 687851566,
+          "paragNumber": 23,
+          "tocNumber": 0,
+          "text": "<p id=\"4268\">باب: التداوي بالشّلجم و هو (اللفت) 188</p>"
+        },
+        {
+          "paragraphId": 687851567,
+          "paragNumber": 24,
+          "tocNumber": 0,
+          "text": "<p id=\"4269\">باب: التداوي بالباذنجان 189</p>"
+        },
+        {
+          "paragraphId": 687851568,
+          "paragNumber": 25,
+          "tocNumber": 0,
+          "text": "<p id=\"4270\">باب: التداوي بالقثاء 191</p>"
+        },
+        {
+          "paragraphId": 687851569,
+          "paragNumber": 26,
+          "tocNumber": 0,
+          "text": "<p id=\"4271\">باب: التداوي بالبصل و الثوم و فيه ذكر الكراث أيضا 192</p>"
+        },
+        {
+          "paragraphId": 687851570,
+          "paragNumber": 27,
+          "tocNumber": 0,
+          "text": "<p id=\"4272\"><page number=\"399\"/>باب: التداوي بالكزبرة و ضررها 194</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "398",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p4246\" paragraph-id=\"4246\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo398\">398</span>باب: التداوي بالسفرجل 162</p>\n  <p id=\"p4247\" paragraph-id=\"4247\" class=\" G\">باب: التداوي بالكمثري 165</p>\n  <p id=\"p4248\" paragraph-id=\"4248\" class=\" G\">باب: التداوي بالتين 165</p>\n  <p id=\"p4249\" paragraph-id=\"4249\" class=\" G\">باب: ما جاء في الأترج 167</p>\n  <p id=\"p4250\" paragraph-id=\"4250\" class=\" G\">باب: التداوي بالإجاص 168</p>\n  <p id=\"p4251\" paragraph-id=\"4251\" class=\" G\">باب: التداوي بالغبيراء 169</p>\n  <p id=\"p4252\" paragraph-id=\"4252\" class=\" G\">باب: قصب السكر 170</p>\n  <p id=\"p4253\" paragraph-id=\"4253\" class=\" G\">باب: التداوي بالبطيخ 170</p>\n  <p id=\"p4254\" paragraph-id=\"4254\" class=\" G\">باب: التداوي بالهندباء 171</p>\n  <p id=\"p4255\" paragraph-id=\"4255\" class=\" G\">باب: التداوي بالباذروج و الحوك 175</p>\n  <p id=\"p4256\" paragraph-id=\"4256\" class=\" G\">باب: التداوي بالكرّاث 176</p>\n  <p id=\"p4257\" paragraph-id=\"4257\" class=\" G\">باب: الكرفس 179</p>\n  <p id=\"p4258\" paragraph-id=\"4258\" class=\" G\">باب: التداوي بالرّجلة و الفرفخ 180</p>\n  <p id=\"p4259\" paragraph-id=\"4259\" class=\" G\">باب: التداوي بالخسّ 181</p>\n  <p id=\"p4260\" paragraph-id=\"4260\" class=\" G\">باب: التداوي بالسّذاب 181</p>\n  <p id=\"p4261\" paragraph-id=\"4261\" class=\" G\">باب: ما جاء في الجرجير 182</p>\n  <p id=\"p4262\" paragraph-id=\"4262\" class=\" G\">باب: التداوي بالسّلق، و الكرنب، و منافعهما 183</p>\n  <p id=\"p4263\" paragraph-id=\"4263\" class=\" G\">باب: التداوي بالكمأة 184</p>\n  <p id=\"p4264\" paragraph-id=\"4264\" class=\" G\">باب: التداوي بالحزاء 185</p>\n  <p id=\"p4265\" paragraph-id=\"4265\" class=\" G\">باب: التداوي بالقرع 186</p>\n  <p id=\"p4266\" paragraph-id=\"4266\" class=\" G\">باب: التداوي بالفجل 187</p>\n  <p id=\"p4267\" paragraph-id=\"4267\" class=\" G\">باب: التداوي بالجزر 188</p>\n  <p id=\"p4268\" paragraph-id=\"4268\" class=\" G\">باب: التداوي بالشّلجم و هو (اللفت) 188</p>\n  <p id=\"p4269\" paragraph-id=\"4269\" class=\" G\">باب: التداوي بالباذنجان 189</p>\n  <p id=\"p4270\" paragraph-id=\"4270\" class=\" G\">باب: التداوي بالقثاء 191</p>\n  <p id=\"p4271\" paragraph-id=\"4271\" class=\" G\">باب: التداوي بالبصل و الثوم و فيه ذكر الكراث أيضا 192</p>\n  <p id=\"p4272\" paragraph-id=\"4272\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "875392C0-8086-4B6E-96F7-C1731FAFAD8D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

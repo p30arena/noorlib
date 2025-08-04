@@ -1,0 +1,86 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 367,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687850965,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3925\"><format class=\"hadith\" who=\"16\" Id=\"1627\" RevayatIndex=\"1647\"><page number=\"367\"/>وَ كَذَلِكَ سُورَةُ (اَلْمُعَوِّذَتَيْنِ‌) نَافِعَةٌ قِرَاءَتُهُمَا.</format> و اكتب أيهما لكل ما ذكرنا من آفات الزرع و الغرس و غيرها إن شاء اللّه تعالى.</p>"
+        },
+        {
+          "paragraphId": 687850966,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3926\"><format class=\"hadith\" who=\"16\" Id=\"1628\" RevayatIndex=\"1648\"><format class=\"sanadHadith\">وَ:</format> كَذَلِكَ لِدَفْعِ اَلْبَعُوضَةِ‌: قَوْلُهُ تَعَالَى: <format class=\"ayah\" surah=\"2\" ayah=\"26\" toAyah=\"\">(إِنَّ اَللّٰهَ لاٰ يَسْتَحْيِي أَنْ يَضْرِبَ مَثَلاً مٰا بَعُوضَةً فَمٰا فَوْقَهٰا)<format class=\"ayahWord\" fromWord=\"1\" toWord=\"11\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"26\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687850967,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3927\"><format class=\"hadith\" who=\"16\" Id=\"1629\" RevayatIndex=\"1649\"><format class=\"sanadHadith\">وَ:</format> لِلاِسْتِكْفَاءِ مِنْ شَرِّ اَلْعَنْكَبُوتِ‌، قَوْلُهُ تَعَالَى: <format class=\"ayah\" surah=\"22\" ayah=\"73\" toAyah=\"74\">إِنَّ اَلَّذِينَ تَدْعُونَ مِنْ دُونِ اَللّٰهِ لَنْ يَخْلُقُوا ذُبٰاباً وَ لَوِ اِجْتَمَعُوا لَهُ وَ إِنْ يَسْلُبْهُمُ اَلذُّبٰابُ شَيْئاً لاٰ يَسْتَنْقِذُوهُ مِنْهُ ضَعُفَ اَلطّٰالِبُ وَ اَلْمَطْلُوبُ <format class=\"AyahSeprator\"/>مٰا قَدَرُوا اَللّٰهَ حَقَّ قَدْرِهِ إِنَّ اَللّٰهَ لَقَوِيٌّ عَزِيزٌ<format class=\"ayahWord\" fromWord=\"8\" toWord=\"41\"/><format class=\"ayahAddress\" surah=\"22\" ayah=\"73\" toAyah=\"74\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687850968,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3928\"><format class=\"hadith\" who=\"16\" Id=\"1630\" RevayatIndex=\"1650\"><format class=\"sanadHadith\">وَ:</format> لِلاِسْتِكْفَاءِ مِنَ اَلْكَلْبِ اَلْعَقُورِ قَوْلُهُ تَعَالَى: <format class=\"ayah\" surah=\"7\" ayah=\"176\" toAyah=\"\">فَمَثَلُهُ كَمَثَلِ اَلْكَلْبِ إِنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَثْ‌<format class=\"ayahWord\" fromWord=\"14\" toWord=\"23\"/><format class=\"ayahAddress\" surah=\"7\" ayah=\"176\" toAyah=\"\"/></format> اَلْآيَةَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850969,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3929\"><format class=\"hadith\" who=\"16\" Id=\"1631\" RevayatIndex=\"1651\"><format class=\"sanadHadith\">وَ:</format> لِدَفْعِ اَلْكِلاَبِ وَ اَلسِّبَاعِ‌، قَوْلُهُ تَعَالَى: <format class=\"ayah\" surah=\"9\" ayah=\"128\" toAyah=\"\">لَقَدْ جٰاءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ مٰا عَنِتُّمْ حَرِيصٌ عَلَيْكُمْ بِالْمُؤْمِنِينَ رَؤُفٌ رَحِيمٌ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"14\"/><format class=\"ayahAddress\" surah=\"9\" ayah=\"128\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687850970,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3930\"><heading level=\"2\">باب <format class=\"BM\">ما يتعلق بالأسفار، و دفع الخوف في البراري و الصّحاري</format>، و لدفع خوف الكلام و السباع، و لدفع المحارب و اللصوص، و علاج الدابّة الشاردة، و أخذها، و لمن ضلّ عن الطريق في المفاوز، و لمعالجة الدوابّ و تعويذات الدوابّ‌، و الاستسقاء، و الجدب، و لضرر المطر إذا خيف منه و لدفع ضرر الرياح العاصفة، و لكل هول و غير ذلك</heading></p>"
+        },
+        {
+          "paragraphId": 687850971,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3931\"><format class=\"hadith\" who=\"6\" Id=\"1632\" RevayatIndex=\"1652\"><format class=\"sanadHadith\">عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> مَا يَقْرَأُ أَحَدٌ <format class=\"ayah\" surah=\"97\" ayah=\"1\" toAyah=\"\">إِنّٰا أَنْزَلْنٰاهُ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"97\" ayah=\"1\" toAyah=\"\"/></format> حِينَ يَرْكَبُ دَابَّةً إِلاَّ نَزَلَ عَنْهَا سَالِماً مَغْفُوراً، وَ لَقَارِؤُهَا أَثْقَلُ عَلَى اَلدَّوَابِّ مِنَ اَلْحَدِيدِ.</format></p>"
+        },
+        {
+          "paragraphId": 687850972,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3932\"><format class=\"hadith\" who=\"5\" Id=\"1633\" RevayatIndex=\"1653\"><format class=\"sanadHadith\">وَ قَالَ اَلْبَاقِرُ (عَلَيْهِ اَلسَّلاَمُ‌):</format> لَوْ كَانَ شَيْ‌ءٌ يَسْبِقُ اَلْقَدَرَ، لَقُلْتُ‌: إِنَّ لِقَارِئِ <format class=\"ayah\" surah=\"97\" ayah=\"1\" toAyah=\"\">إِنّٰا أَنْزَلْنٰاهُ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"97\" ayah=\"1\" toAyah=\"\"/></format>حِينَ يُسَافِرُ أَوْ يَخْرُجُ مِنْ مَنْزِلِهِ‌، سَيَرْجِعُ إِلَيْهَا إِنْ شَاءَ اَللَّهُ تَعَالَى.</format></p>"
+        },
+        {
+          "paragraphId": 687850973,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3933\"><page number=\"368\"/><format class=\"hadith\" who=\"14\" Id=\"1634\" RevayatIndex=\"1654\"><format class=\"sanadHadith\">وَ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</format> لاَ تَصْحَبُ اَلْمَلاَئِكَةُ رُقْعَةً فِيهَا جَرَسٌ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "367",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3925\" paragraph-id=\"3925\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo367\">367</span>وَ كَذَلِكَ سُورَةُ (اَلْمُعَوِّذَتَيْنِ‌) نَافِعَةٌ قِرَاءَتُهُمَا.</span> و اكتب أيهما لكل ما ذكرنا من آفات الزرع و الغرس و غيرها إن شاء اللّه تعالى.</p>\n  <p id=\"p3926\" paragraph-id=\"3926\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ:</span> كَذَلِكَ لِدَفْعِ اَلْبَعُوضَةِ‌: قَوْلُهُ تَعَالَى: <span style=\"0\" class=\"ayah\" surah=\"2\" ayah=\"26\">(إِنَّ اَللّٰهَ لاٰ يَسْتَحْيِي أَنْ يَضْرِبَ مَثَلاً مٰا بَعُوضَةً فَمٰا فَوْقَهٰا)<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/2/26\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3927\" paragraph-id=\"3927\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ:</span> لِلاِسْتِكْفَاءِ مِنْ شَرِّ اَلْعَنْكَبُوتِ‌، قَوْلُهُ تَعَالَى: <span style=\"0\" class=\"ayah\" surah=\"22\" ayah=\"73\">إِنَّ اَلَّذِينَ تَدْعُونَ مِنْ دُونِ اَللّٰهِ لَنْ يَخْلُقُوا ذُبٰاباً وَ لَوِ اِجْتَمَعُوا لَهُ وَ إِنْ يَسْلُبْهُمُ اَلذُّبٰابُ شَيْئاً لاٰ يَسْتَنْقِذُوهُ مِنْهُ ضَعُفَ اَلطّٰالِبُ وَ اَلْمَطْلُوبُ <span class=\"AyahSeprator\"></span>مٰا قَدَرُوا اَللّٰهَ حَقَّ قَدْرِهِ إِنَّ اَللّٰهَ لَقَوِيٌّ عَزِيزٌ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/22/73\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3928\" paragraph-id=\"3928\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ:</span> لِلاِسْتِكْفَاءِ مِنَ اَلْكَلْبِ اَلْعَقُورِ قَوْلُهُ تَعَالَى: <span style=\"0\" class=\"ayah\" surah=\"7\" ayah=\"176\">فَمَثَلُهُ كَمَثَلِ اَلْكَلْبِ إِنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَثْ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/7/176\"></a></span></span> اَلْآيَةَ‌.</span>\n  </p>\n  <p id=\"p3929\" paragraph-id=\"3929\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ:</span> لِدَفْعِ اَلْكِلاَبِ وَ اَلسِّبَاعِ‌، قَوْلُهُ تَعَالَى: <span style=\"0\" class=\"ayah\" surah=\"9\" ayah=\"128\">لَقَدْ جٰاءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ مٰا عَنِتُّمْ حَرِيصٌ عَلَيْكُمْ بِالْمُؤْمِنِينَ رَؤُفٌ رَحِيمٌ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/9/128\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3930\" paragraph-id=\"3930\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"BM\">ما يتعلق بالأسفار، و دفع الخوف في البراري و الصّحاري</span>، و لدفع خوف الكلام و السباع، و لدفع المحارب و اللصوص، و علاج الدابّة الشاردة، و أخذها، و لمن ضلّ عن الطريق في المفاوز، و لمعالجة الدوابّ و تعويذات الدوابّ‌، و الاستسقاء، و الجدب، و لضرر المطر إذا خيف منه و لدفع ضرر الرياح العاصفة، و لكل هول و غير ذلك</strong>\n  </p>\n  <p id=\"p3931\" paragraph-id=\"3931\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> مَا يَقْرَأُ أَحَدٌ <span style=\"0\" class=\"ayah\" surah=\"97\" ayah=\"1\">إِنّٰا أَنْزَلْنٰاهُ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/97/1\"></a></span></span> حِينَ يَرْكَبُ دَابَّةً إِلاَّ نَزَلَ عَنْهَا سَالِماً مَغْفُوراً، وَ لَقَارِؤُهَا أَثْقَلُ عَلَى اَلدَّوَابِّ مِنَ اَلْحَدِيدِ.</span>\n  </p>\n  <p id=\"p3932\" paragraph-id=\"3932\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ اَلْبَاقِرُ (عَلَيْهِ اَلسَّلاَمُ‌):</span> لَوْ كَانَ شَيْ‌ءٌ يَسْبِقُ اَلْقَدَرَ، لَقُلْتُ‌: إِنَّ لِقَارِئِ <span style=\"0\" class=\"ayah\" surah=\"97\" ayah=\"1\">إِنّٰا أَنْزَلْنٰاهُ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/97/1\"></a></span></span>حِينَ يُسَافِرُ أَوْ يَخْرُجُ مِنْ مَنْزِلِهِ‌، سَيَرْجِعُ إِلَيْهَا إِنْ شَاءَ اَللَّهُ تَعَالَى.</span>\n  </p>\n  <p id=\"p3933\" paragraph-id=\"3933\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "5771ADAE-8C25-448C-9924-DDAC3E9E74B0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

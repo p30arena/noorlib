@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 402,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687851631,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"4333\"><page number=\"402\"/>باب: علاج الدين و أدائه، و دفع الفقر 374</p>"
+        },
+        {
+          "paragraphId": 687851632,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"4334\">باب: المعالجات العامّة التي تنفع لكل شيء، و تدفع جميع الأدواء و الأسواء و جلّها 375</p>"
+        },
+        {
+          "paragraphId": 687851633,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"4335\">المحتويات 395<format class=\"EndPreface\"/><format class=\"EndIntroduction\" type=\"5\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "402",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p4333\" paragraph-id=\"4333\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo402\">402</span>باب: علاج الدين و أدائه، و دفع الفقر 374</p>\n  <p id=\"p4334\" paragraph-id=\"4334\" class=\" G\">باب: المعالجات العامّة التي تنفع لكل شيء، و تدفع جميع الأدواء و الأسواء و جلّها 375</p>\n  <p id=\"p4335\" paragraph-id=\"4335\" class=\" G\">المحتويات 395<span class=\"EndPreface\"></span><span class=\"EndIntroduction\"></span></p>\n  <span />\n  <span />\n</div>",
+      "bookPageVisitLogId": "D92711A7-A951-4C16-A563-D12AD925E527",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

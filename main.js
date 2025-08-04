@@ -81,13 +81,15 @@ async function scrapeBook() {
 
     // Check for "page does not exist" condition or insufficient credit
     const validation = data.data && data.data.length > 0 && data.data[0].validation;
-    const isPageNotFound = validation && validation.code === 2 && volume != 1 && section != 1;
+    const isPageNotFound = validation && validation.code === 2;
     const isInsufficientCredit = validation && validation.code === 14;
 
     if (isInsufficientCredit) {
       console.error(`Error: Insufficient credit to access V${volume} S${section} P${page}. Stopping scraper.`);
       continueScraping = false; // Stop the scraper
       break; // Exit the while loop
+    } else if (isPageNotFound && volume == 1 && section == 1 && page < 10) {
+      page++;
     } else if (isPageNotFound) {
       console.log(`Page V${volume} S${section} P${page} does not exist. Advancing to next section or volume.`);
       // Heuristic: If section 1 and page 1 is not found, assume end of volume and try next volume.

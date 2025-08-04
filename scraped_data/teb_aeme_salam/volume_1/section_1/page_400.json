@@ -1,0 +1,152 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 400,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687851590,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"4292\"><page number=\"400\"/>باب: معالجة الأضراس و الأسنان 256</p>"
+        },
+        {
+          "paragraphId": 687851591,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"4293\">باب: معالجة أمراض الشفة، و اللسان، و ضعف النطق، و الفم، و اللثة، و اللهاة، و وجع الحلقوم، و النجر، و الخوانيق، و السعال، و العطس، و غير ذلك ممّا يعرض لها 263</p>"
+        },
+        {
+          "paragraphId": 687851592,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"4294\">لدفع الدماميل و القروح 266</p>"
+        },
+        {
+          "paragraphId": 687851593,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"4295\">باب: أمراض الوجه من البرش، و النمش، و اليبس، و القشف، و السهك 267</p>"
+        },
+        {
+          "paragraphId": 687851594,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"4296\">باب: علاج اللقوة، و الفالج، و اليرقان، و الخدر، و القولنج و غير ذلك 270</p>"
+        },
+        {
+          "paragraphId": 687851595,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"4297\">رقية للّقوة 272</p>"
+        },
+        {
+          "paragraphId": 687851596,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"4298\">الهندباء، القولنج، الباه 274</p>"
+        },
+        {
+          "paragraphId": 687851597,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"4299\">باب: علاج البلغم و الرطوبة، و الإختلاج في الوجه، و الأعضاء، و دواء البلبلة، و كثرة العطش، و يبس الفم 275</p>"
+        },
+        {
+          "paragraphId": 687851598,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"4300\">باب: ما يورث الحفظ 276</p>"
+        },
+        {
+          "paragraphId": 687851599,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"4301\">باب: علاج الأمراض الفادحة مثل: الآكلة و الجذام و البرص و سائر الأمراض الدماغية 278</p>"
+        },
+        {
+          "paragraphId": 687851600,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"4302\">لإبطال السحر 289</p>"
+        },
+        {
+          "paragraphId": 687851601,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"4303\">باب: معالجة أمراض الرحم، و عقمه و... و علاج قلة الولد، و كثرة السقم، و... و نحو ذلك 295</p>"
+        },
+        {
+          "paragraphId": 687851602,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"4304\">باب: علاج عسر الولادة و شدة الطلق 306</p>"
+        },
+        {
+          "paragraphId": 687851603,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"4305\">باب: حلّ المربوط و المسحور 314</p>"
+        },
+        {
+          "paragraphId": 687851604,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"4306\">باب: علاج عفة النساء و الأولاد 316</p>"
+        },
+        {
+          "paragraphId": 687851605,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"4307\">باب: علاج تقوية الباه، و كثرة الجماع، و سرعة الإنزال، و قوى البدن 318</p>"
+        },
+        {
+          "paragraphId": 687851606,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"4308\">باب: وجع الفرج و المثانة و حبس البول و عسره، و حصى المثانة، و إدرار البول على الفراش، و غير ذلك من الأمراض العارضة للفرج و الخصيتين و الفتق و ما يعرض لها 320</p>"
+        },
+        {
+          "paragraphId": 687851607,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"4309\">باب: خروج المقعدة، و الزحير، و علاج الأبنة، و حكة الدبر 325</p>"
+        },
+        {
+          "paragraphId": 687851608,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"4310\">باب: علاج البواسير 326</p>"
+        },
+        {
+          "paragraphId": 687851609,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"4311\"><page number=\"401\"/>باب: علاج وجع البطن و المعدة و ما يعرض لذلك من الأمراض و العلل 330</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "400",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p4292\" paragraph-id=\"4292\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo400\">400</span>باب: معالجة الأضراس و الأسنان 256</p>\n  <p id=\"p4293\" paragraph-id=\"4293\" class=\" G\">باب: معالجة أمراض الشفة، و اللسان، و ضعف النطق، و الفم، و اللثة، و اللهاة، و وجع الحلقوم، و النجر، و الخوانيق، و السعال، و العطس، و غير ذلك ممّا يعرض لها 263</p>\n  <p id=\"p4294\" paragraph-id=\"4294\" class=\" G\">لدفع الدماميل و القروح 266</p>\n  <p id=\"p4295\" paragraph-id=\"4295\" class=\" G\">باب: أمراض الوجه من البرش، و النمش، و اليبس، و القشف، و السهك 267</p>\n  <p id=\"p4296\" paragraph-id=\"4296\" class=\" G\">باب: علاج اللقوة، و الفالج، و اليرقان، و الخدر، و القولنج و غير ذلك 270</p>\n  <p id=\"p4297\" paragraph-id=\"4297\" class=\" G\">رقية للّقوة 272</p>\n  <p id=\"p4298\" paragraph-id=\"4298\" class=\" G\">الهندباء، القولنج، الباه 274</p>\n  <p id=\"p4299\" paragraph-id=\"4299\" class=\" G\">باب: علاج البلغم و الرطوبة، و الإختلاج في الوجه، و الأعضاء، و دواء البلبلة، و كثرة العطش، و يبس الفم 275</p>\n  <p id=\"p4300\" paragraph-id=\"4300\" class=\" G\">باب: ما يورث الحفظ 276</p>\n  <p id=\"p4301\" paragraph-id=\"4301\" class=\" G\">باب: علاج الأمراض الفادحة مثل: الآكلة و الجذام و البرص و سائر الأمراض الدماغية 278</p>\n  <p id=\"p4302\" paragraph-id=\"4302\" class=\" G\">لإبطال السحر 289</p>\n  <p id=\"p4303\" paragraph-id=\"4303\" class=\" G\">باب: معالجة أمراض الرحم، و عقمه و... و علاج قلة الولد، و كثرة السقم، و... و نحو ذلك 295</p>\n  <p id=\"p4304\" paragraph-id=\"4304\" class=\" G\">باب: علاج عسر الولادة و شدة الطلق 306</p>\n  <p id=\"p4305\" paragraph-id=\"4305\" class=\" G\">باب: حلّ المربوط و المسحور 314</p>\n  <p id=\"p4306\" paragraph-id=\"4306\" class=\" G\">باب: علاج عفة النساء و الأولاد 316</p>\n  <p id=\"p4307\" paragraph-id=\"4307\" class=\" G\">باب: علاج تقوية الباه، و كثرة الجماع، و سرعة الإنزال، و قوى البدن 318</p>\n  <p id=\"p4308\" paragraph-id=\"4308\" class=\" G\">باب: وجع الفرج و المثانة و حبس البول و عسره، و حصى المثانة، و إدرار البول على الفراش، و غير ذلك من الأمراض العارضة للفرج و الخصيتين و الفتق و ما يعرض لها 320</p>\n  <p id=\"p4309\" paragraph-id=\"4309\" class=\" G\">باب: خروج المقعدة، و الزحير، و علاج الأبنة، و حكة الدبر 325</p>\n  <p id=\"p4310\" paragraph-id=\"4310\" class=\" G\">باب: علاج البواسير 326</p>\n  <p id=\"p4311\" paragraph-id=\"4311\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "22DED92F-C22C-491E-91F9-E5019CAEF417",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

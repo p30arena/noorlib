@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 301,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687850644,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3309\"><format class=\"hadith\" who=\"5\" Id=\"1305\" RevayatIndex=\"1322\">(بِسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمِ‌، بِسْمِ اَللَّهِ بِسْمِ اَللَّهِ‌، وَ اَلسَّلاَمُ عَلَى <format class=\"maasoom\" maasoomNo=\"14\">رَسُولِ اَللَّهِ </format>وَ اَلسَّلاَمُ عَلَى <format class=\"maasoom\" maasoomNo=\"40\">آلِ رَسُولِ اَللَّهِ‌</format> وَ اَلصَّلاَةُ عَلَيْهِمْ وَ رَحْمَةُ اَللَّهِ وَ بَرَكَاتُهُ‌، بِسْمِ اَللَّهِ وَ بِاللَّهِ اُخْرُجْ بِإِذْنِ اَللَّهِ اُخْرُجْ بِإِذْنِ اَللَّهِ‌، مِنْهَا خَرَجْتُمْ‌، وَ فِيهَا نُعِيدُكُمْ وَ مِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَى، <page number=\"301\"/><format class=\"ayah\" surah=\"9\" ayah=\"129\" toAyah=\"\">فَإِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اَللّٰهُ لاٰ إِلٰهَ إِلاّٰ هُوَ عَلَيْهِ تَوَكَّلْتُ وَ هُوَ رَبُّ <format class=\"t\">اَلْعَرْشِ‌</format> اَلْعَظِيمِ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"16\"/><format class=\"ayahAddress\" surah=\"9\" ayah=\"129\" toAyah=\"\"/></format> بِسْمِ اَللَّهِ وَ بِاللَّهِ أَدْفَعُكُمْ بِاللَّهِ أَدْفَعُكُمْ‌، بِاللَّهِ أَدْفَعُكُمْ بِاللَّهِ أَدْفَعُكُمْ‌، <format class=\"maasoom\" maasoomNo=\"14\">بِرَسُولِ اَللَّهِ‌</format> صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850645,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3310\"><format class=\"hadith\" who=\"6\" Id=\"1306\" RevayatIndex=\"1323\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>حَصِّنُوا أَمْوَالَكُمْ وَ أَهْلِيكُمْ‌، وَ اُحْرُزُوهُمْ بِهَذِهِ اَلْعُوذَةِ‌، وَ قُولُوهَا بَعْدَ صَلاَةِ اَلْعِشَاءِ اَلْآخِرَةِ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687850646,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3311\"><format class=\"hadith\" who=\"6\" Id=\"1306\" RevayatIndex=\"1323\">(أُعِيذُ نَفْسِي، وَ دِينِي، وَ ذُرِّيَّتِي، وَ أَهْلَ بَيْتِي، وَ مَالِي، بِكَلِمَاتِ اَللَّهِ اَلتَّامَّاتِ مِنْ كُلِّ <format class=\"C\" Number=\"\">شَيْطَانٍ‌</format> وَ هَامَّةٍ‌، وَ مِنْ كُلِّ عَيْنٍ لاَمَّةٍ‌).</format></p>"
+        },
+        {
+          "paragraphId": 687850647,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3312\"><format class=\"hadith\" who=\"6\" Id=\"1306\" RevayatIndex=\"1323\">وَ هِيَ اَلْعُوذَةُ اَلَّتِي عَوَّذَ بِهَا جِبْرِيلُ <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"2\">اَلْحَسَنَ‌</format></format> وَ <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"3\">اَلْحُسَيْنَ (عَلَيْهِمَا اَلسَّلاَمُ‌)</format></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687850648,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3313\"><format class=\"hadith\" who=\"1\" Id=\"1307\" RevayatIndex=\"1324\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ‌</format></format>، قَالَ‌:</format> إِذَا كَثُرَ بُكَاءُ اَلْأَطْفَالِ أَوْ فَزِعَتْ اِمْرَأَةٌ مِنْ اَلنَّوْمِ‌، أَوْ اِسْتَوْلَتْ عِلَّةٌ عَلَى وَجْهِ اِمْرِىءٍ‌، يَقْرَأُ: <format class=\"ayah\" surah=\"18\" ayah=\"11\" toAyah=\"12\">فَضَرَبْنٰا عَلَى آذٰانِهِمْ فِي <format class=\"t\">اَلْكَهْفِ‌</format> سِنِينَ عَدَداً، <format class=\"AyahSeprator\"/>ثُمَّ بَعَثْنٰاهُمْ لِنَعْلَمَ أَيُّ اَلْحِزْبَيْنِ أَحْصىٰ لِمٰا لَبِثُوا أَمَداً<format class=\"ayahWord\" fromWord=\"1\" toWord=\"16\"/><format class=\"ayahAddress\" surah=\"18\" ayah=\"11\" toAyah=\"12\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687850649,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3314\"><format class=\"hadith\" who=\"16\" Id=\"1308\" RevayatIndex=\"1325\"><format class=\"sanadHadith\">وَ فِي <format class=\"K\">(طِبِّ اَلْأَئِمَّةِ‌)</format>: </format>عُوذَةٌ لِلصَّبِيِّ‌، إِذَا كَثُرَ بُكَاؤُهُ‌، وَ لَنْ يَفْزَعَ بِاللَّيْلِ‌، وَ لِلْمَرْأَةِ إِذَا أَسْهَرَتْ مِنْ وَجَعٍ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687850650,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3315\"><format class=\"hadith\" who=\"16\" Id=\"1308\" RevayatIndex=\"1325\"><format class=\"ayah\" surah=\"18\" ayah=\"11\" toAyah=\"12\">فَضَرَبْنٰا عَلَى آذٰانِهِمْ فِي <format class=\"t\">اَلْكَهْفِ‌</format> سِنِينَ عَدَداً <format class=\"AyahSeprator\"/>ثُمَّ بَعَثْنٰاهُمْ لِنَعْلَمَ أَيُّ اَلْحِزْبَيْنِ أَحْصىٰ لِمٰا لَبِثُوا أَمَداً<format class=\"ayahWord\" fromWord=\"1\" toWord=\"16\"/><format class=\"ayahAddress\" surah=\"18\" ayah=\"11\" toAyah=\"12\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687850651,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3316\"><format class=\"hadith\" who=\"6\" Id=\"1309\" RevayatIndex=\"1326\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُيَسِّرٍ</format>، عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> إِنَّ رَجُلاً قَالَ‌: يَا <format class=\"maasoom\" maasoomNo=\"6\">بْنَ رَسُولِ اَللَّهِ‌!</format> إِنَّ لِي جَارِيَةً‌، يَكْثُرُ فَزَعُهَا فِي اَلْمَنَامِ‌، وَ رُبَّمَا اِشْتَدَّ بِهَا اَلْحَالُ‌، فَلاَ تَهْدَأُ، وَ يَأْخُذُهَا خَدَرٌ فِي عَضُدِهَا، وَ قَدْ رَآهَا بَعْضُ مَنْ يُعَالِجُ‌، فَقَالَ‌: إِنَّ بِهَا مَسّاً مِنْ أَهْلِ اَلْأَرْضِ‌، وَ لَيْسَ يُمْكِنُ عِلاَجُهَا فَقَالَ‌: مُرْهَا بِالْفَصْدِ، وَ خُذْ لَهَا مَاءَ اَلشِّبِتِّ (اَلشَّبِّ‌) اَلْمَطْبُوخِ بِالْعَسَلِ‌، وَ تُسْقَى ثَلاَثَةَ أَيَّامٍ فَإِنَّ اَللَّهَ تَعَالَى يُعَافِيهَا. قَالَ‌: فَفَعَلْتُ ذَلِكَ‌، فَعُوفِيَتْ بِإِذْنِ اَللَّهِ تَعَالَى.</format></p>"
+        },
+        {
+          "paragraphId": 687850652,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3317\"><format class=\"hadith\" who=\"6\" Id=\"1310\" RevayatIndex=\"1327\"><format class=\"sanadHadith\">وَ قَالَ اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌):</format> إِذَا بَلَغَ اَلصَّبِيُّ أَرْبَعَةَ أَشْهُرٍ، فَاحْجُمُوهُ فِي كُلِّ شَهْرٍ مَرَّةً‌، فِي اَلنُّقْرَةِ‌، فَإِنَّهُ يُخَفِّفُ إِصَابَتَهُ‌، وَ يَهْبِطُ اَلْحَرَّ مِنْ رَأْسِهِ وَ جَسَدِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850653,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"3318\"><format class=\"hadith\" who=\"14\" Id=\"1311\" RevayatIndex=\"1328\"><format class=\"sanadHadith\">وَ قَالَ اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</format> تَوَقَّوْا أَوْلاَدَكُمْ لَبَنَ اَلْبَغِيَّةِ وَ اَلْمَجْنُونَةِ فَإِنَّ اَللَّبَنَ يُعْدِي.</format></p>"
+        },
+        {
+          "paragraphId": 687850654,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"3319\"><page number=\"302\"/><format class=\"hadith\" who=\"6\" Id=\"1312\" RevayatIndex=\"1329\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>حَنِّكُوا أَوْلاَدَكُمْ بِمَاءِ اَلْفُرَاتِ‌، وَ بِتُرْبَةِ <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"3\">اَلْحُسَيْنِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، فَإِنْ لَمْ يَكُنْ فَبِمَاءِ اَلسَّمَاءِ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "301",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3309\" paragraph-id=\"3309\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo301\">301</span>\n      <span style=\"0\" class=\"ayah\" surah=\"9\" ayah=\"129\">فَإِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اَللّٰهُ لاٰ إِلٰهَ إِلاّٰ هُوَ عَلَيْهِ تَوَكَّلْتُ وَ هُوَ رَبُّ <span class=\"t\">اَلْعَرْشِ‌</span> اَلْعَظِيمِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/9/129\"></a></span></span> بِسْمِ اَللَّهِ وَ بِاللَّهِ أَدْفَعُكُمْ بِاللَّهِ أَدْفَعُكُمْ‌، بِاللَّهِ أَدْفَعُكُمْ بِاللَّهِ أَدْفَعُكُمْ‌، <span class=\"maasoom\">بِرَسُولِ اَللَّهِ‌</span> صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌.</span>\n  </p>\n  <p id=\"p3310\" paragraph-id=\"3310\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>حَصِّنُوا أَمْوَالَكُمْ وَ أَهْلِيكُمْ‌، وَ اُحْرُزُوهُمْ بِهَذِهِ اَلْعُوذَةِ‌، وَ قُولُوهَا بَعْدَ صَلاَةِ اَلْعِشَاءِ اَلْآخِرَةِ‌:</span>\n  </p>\n  <p id=\"p3311\" paragraph-id=\"3311\" class=\" G\">\n    <span class=\"hadith\">(أُعِيذُ نَفْسِي، وَ دِينِي، وَ ذُرِّيَّتِي، وَ أَهْلَ بَيْتِي، وَ مَالِي، بِكَلِمَاتِ اَللَّهِ اَلتَّامَّاتِ مِنْ كُلِّ <span class=\"C\">شَيْطَانٍ‌</span> وَ هَامَّةٍ‌، وَ مِنْ كُلِّ عَيْنٍ لاَمَّةٍ‌).</span>\n  </p>\n  <p id=\"p3312\" paragraph-id=\"3312\" class=\" G\">\n    <span class=\"hadith\">وَ هِيَ اَلْعُوذَةُ اَلَّتِي عَوَّذَ بِهَا جِبْرِيلُ <span class=\"BD\"><span class=\"maasoom\">اَلْحَسَنَ‌</span></span> وَ <span class=\"BD\"><span class=\"maasoom\">اَلْحُسَيْنَ (عَلَيْهِمَا اَلسَّلاَمُ‌)</span></span>.</span>\n  </p>\n  <p id=\"p3313\" paragraph-id=\"3313\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"Y\"><span class=\"maasoom\">عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ‌</span></span>، قَالَ‌:</span> إِذَا كَثُرَ بُكَاءُ اَلْأَطْفَالِ أَوْ فَزِعَتْ اِمْرَأَةٌ مِنْ اَلنَّوْمِ‌، أَوْ اِسْتَوْلَتْ عِلَّةٌ عَلَى وَجْهِ اِمْرِىءٍ‌، يَقْرَأُ: <span style=\"0\" class=\"ayah\" surah=\"18\" ayah=\"11\">فَضَرَبْنٰا عَلَى آذٰانِهِمْ فِي <span class=\"t\">اَلْكَهْفِ‌</span> سِنِينَ عَدَداً، <span class=\"AyahSeprator\"></span>ثُمَّ بَعَثْنٰاهُمْ لِنَعْلَمَ أَيُّ اَلْحِزْبَيْنِ أَحْصىٰ لِمٰا لَبِثُوا أَمَداً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/18/11\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3314\" paragraph-id=\"3314\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي <span class=\"K\">(طِبِّ اَلْأَئِمَّةِ‌)</span>: </span>عُوذَةٌ لِلصَّبِيِّ‌، إِذَا كَثُرَ بُكَاؤُهُ‌، وَ لَنْ يَفْزَعَ بِاللَّيْلِ‌، وَ لِلْمَرْأَةِ إِذَا أَسْهَرَتْ مِنْ وَجَعٍ‌:</span>\n  </p>\n  <p id=\"p3315\" paragraph-id=\"3315\" class=\" G\">\n    <span class=\"hadith\">\n      <span style=\"0\" class=\"ayah\" surah=\"18\" ayah=\"11\">فَضَرَبْنٰا عَلَى آذٰانِهِمْ فِي <span class=\"t\">اَلْكَهْفِ‌</span> سِنِينَ عَدَداً <span class=\"AyahSeprator\"></span>ثُمَّ بَعَثْنٰاهُمْ لِنَعْلَمَ أَيُّ اَلْحِزْبَيْنِ أَحْصىٰ لِمٰا لَبِثُوا أَمَداً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/18/11\"></a></span></span>.</span>\n  </p>\n  <p id=\"p3316\" paragraph-id=\"3316\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُيَسِّرٍ</span>، عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> إِنَّ رَجُلاً قَالَ‌: يَا <span class=\"maasoom\">بْنَ رَسُولِ اَللَّهِ‌!</span> إِنَّ لِي جَارِيَةً‌، يَكْثُرُ فَزَعُهَا فِي اَلْمَنَامِ‌، وَ رُبَّمَا اِشْتَدَّ بِهَا اَلْحَالُ‌، فَلاَ تَهْدَأُ، وَ يَأْخُذُهَا خَدَرٌ فِي عَضُدِهَا، وَ قَدْ رَآهَا بَعْضُ مَنْ يُعَالِجُ‌، فَقَالَ‌: إِنَّ بِهَا مَسّاً مِنْ أَهْلِ اَلْأَرْضِ‌، وَ لَيْسَ يُمْكِنُ عِلاَجُهَا فَقَالَ‌: مُرْهَا بِالْفَصْدِ، وَ خُذْ لَهَا مَاءَ اَلشِّبِتِّ (اَلشَّبِّ‌) اَلْمَطْبُوخِ بِالْعَسَلِ‌، وَ تُسْقَى ثَلاَثَةَ أَيَّامٍ فَإِنَّ اَللَّهَ تَعَالَى يُعَافِيهَا. قَالَ‌: فَفَعَلْتُ ذَلِكَ‌، فَعُوفِيَتْ بِإِذْنِ اَللَّهِ تَعَالَى.</span>\n  </p>\n  <p id=\"p3317\" paragraph-id=\"3317\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌):</span> إِذَا بَلَغَ اَلصَّبِيُّ أَرْبَعَةَ أَشْهُرٍ، فَاحْجُمُوهُ فِي كُلِّ شَهْرٍ مَرَّةً‌، فِي اَلنُّقْرَةِ‌، فَإِنَّهُ يُخَفِّفُ إِصَابَتَهُ‌، وَ يَهْبِطُ اَلْحَرَّ مِنْ رَأْسِهِ وَ جَسَدِهِ‌.</span>\n  </p>\n  <p id=\"p3318\" paragraph-id=\"3318\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</span> تَوَقَّوْا أَوْلاَدَكُمْ لَبَنَ اَلْبَغِيَّةِ وَ اَلْمَجْنُونَةِ فَإِنَّ اَللَّبَنَ يُعْدِي.</span>\n  </p>\n  <p id=\"p3319\" paragraph-id=\"3319\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "851C56E3-708A-409D-9D07-1AC0F7F1D0BA",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}
