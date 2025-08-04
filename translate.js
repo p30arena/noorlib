@@ -1,8 +1,6 @@
+require('dotenv').config();
 const { GoogleGenAI, Type } = require("@google/genai");
 const fs = require("fs/promises");
-const dotenv = require("dotenv");
-
-dotenv.config();
 
 const BOOK_DIR = `./scraped_data/${process.env.BOOK_NAME}`;
 const ai = new GoogleGenAI({});

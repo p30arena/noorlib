@@ -1,6 +1,4 @@
 require('dotenv').config();
-const fs = require('fs');
-const path = require('path');
 
 const BASE_URL = "https://noorlib.ir/api/book/getBookPageContent";
 const HEADERS = {
