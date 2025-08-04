@@ -99,7 +99,7 @@ async function scrapeBook() {
       if (page === 1 && section === 1) {
           console.log('Done Scraping.');
           break; // End of book
-      } if (page === 1) {
+      } else if (page === 1) {
         section = 1;
         volume++;
         console.log(`Moving to next volume: V${volume} S${section}`);
