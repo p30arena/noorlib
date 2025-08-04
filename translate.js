@@ -3,7 +3,15 @@ const { GoogleGenAI, Type } = require("@google/genai");
 const fs = require("fs/promises");
 
 const BOOK_DIR = `./scraped_data/${process.env.BOOK_NAME}`;
-const ai = new GoogleGenAI({});
+const apiKeys = (process.env.GEMINI_API_KEY || "").split(",").filter(Boolean);
+let currentApiKeyIndex = 0;
+let consecutiveErrors = 0;
+
+if (!apiKeys.length) {
+  console.error("No Gemini API keys found. Please check your .env file.");
+  process.exit(1);
+}
+
 const titleCache = {};
 
 async function translateText(text, isTitle = false) {
@@ -18,10 +26,14 @@ async function translateText(text, isTitle = false) {
   `;
   const prompt = `${prefix} ${isTitle ? title_sufix : ""}\n---\n${text}`;
 
-  let retries = 0;
-  const maxRetries = 5;
+  const maxAttempts = apiKeys.length * 3; // Try each key up to 3 times
+  let attempt = 0;
 
-  while (retries < maxRetries) {
+  while (attempt < maxAttempts) {
+    const apiKey = apiKeys[currentApiKeyIndex];
+    const ai = new GoogleGenAI({ apiKey });
+    attempt++;
+
     try {
       const response = await ai.models.generateContent({
         model: "gemini-2.0-flash-lite",
@@ -40,24 +52,34 @@ async function translateText(text, isTitle = false) {
         },
       });
       const translated = JSON.parse(response.text).translation;
+      consecutiveErrors = 0; // Reset on success
       if (isTitle) {
         titleCache[text] = translated;
       }
       return translated;
     } catch (error) {
-      if (error.status === 429) {
-        retries++;
-        const delay = Math.pow(2, 3 + retries) * 1000;
-        console.log(`Rate limit hit. Retrying in ${delay / 1000}s...`);
-        await new Promise((res) => setTimeout(res, delay));
+      console.error(`Error with API key index ${currentApiKeyIndex}:`, error.message);
+
+      if (error.status === 429 || error.status === 503) {
+        consecutiveErrors++;
       } else {
-        console.error("Error translating text:", error);
-        return text; // Return original text for other errors
+        consecutiveErrors = 0; // Reset for other errors
+      }
+
+      // Switch to the next key
+      currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
+      console.log(`Switching to API key index ${currentApiKeyIndex}`);
+
+      if (consecutiveErrors >= 2) {
+        const delay = Math.pow(2, 3) * 1000;
+        console.log(`Two consecutive errors. Backing off for ${delay / 1000}s...`);
+        await new Promise((res) => setTimeout(res, delay));
+        consecutiveErrors = 0; // Reset after backoff
       }
     }
   }
 
-  console.error("Max retries reached. Failed to translate text:", text);
+  console.error("Max attempts reached. Failed to translate text:", text);
   return text; // Return original text if all retries fail
 }
 
