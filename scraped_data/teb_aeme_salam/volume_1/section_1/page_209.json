@@ -1,0 +1,62 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 209,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849754,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2369\"><page number=\"208\"/><page number=\"209\"/><heading level=\"1\">الجزء الثاني من الكتاب </heading></p>"
+        },
+        {
+          "paragraphId": 687849755,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2370\">في المعالجات العامّة، و الخاصّة بالأغذية و الأدوية، و الأعمال و الأذكار و الأدعية حيث كان ذلك يستفاد من أبواب متفرقة في العبادات، و المعاملات، و الآداب، و الأخلاق، و الأذكار و الأدعية.</p>"
+        },
+        {
+          "paragraphId": 687849756,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2371\">و قد استقصينا ذلك في كتابنا (جامع الأحكام في معركة الحلال و الحرام) في مجلدات متعدّدة، و في مؤلّفاتنا في الأذكار و الأدعية ك‍ (ذريعة النجاة) و (أنيس الذاكرين و نزهة العابدين) و (تحفة الزائرين) و (طريق السالكين) و غير ذلك.</p>"
+        },
+        {
+          "paragraphId": 687849757,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2372\">فلنشر إلى الأخبار المذكورة، محذوفة الأسانيد، مع الإشارة إلى الأبواب المأخوذة منها، نبينها على محلّ الاستنباط و كيفيته، و نقتصر على ذكر متون الأخبار.</p>"
+        },
+        {
+          "paragraphId": 687849758,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2373\"><page number=\"210\"/><page number=\"211\"/><heading level=\"2\">باب <format class=\"BM\">ما يكون سببا لحفظ الصحة و السلامة في السفر و الحضر و ما يدفع الأمراض </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "209",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2369\" paragraph-id=\"2369\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo209\">209</span>\n    <strong style=\"0\" class=\"h-1 01\">الجزء الثاني من الكتاب </strong>\n  </p>\n  <p id=\"p2370\" paragraph-id=\"2370\" class=\" G\">في المعالجات العامّة، و الخاصّة بالأغذية و الأدوية، و الأعمال و الأذكار و الأدعية حيث كان ذلك يستفاد من أبواب متفرقة في العبادات، و المعاملات، و الآداب، و الأخلاق، و الأذكار و الأدعية.</p>\n  <p id=\"p2371\" paragraph-id=\"2371\" class=\" G\">و قد استقصينا ذلك في كتابنا (جامع الأحكام في معركة الحلال و الحرام) في مجلدات متعدّدة، و في مؤلّفاتنا في الأذكار و الأدعية ك‍ (ذريعة النجاة) و (أنيس الذاكرين و نزهة العابدين) و (تحفة الزائرين) و (طريق السالكين) و غير ذلك.</p>\n  <p id=\"p2372\" paragraph-id=\"2372\" class=\" G\">فلنشر إلى الأخبار المذكورة، محذوفة الأسانيد، مع الإشارة إلى الأبواب المأخوذة منها، نبينها على محلّ الاستنباط و كيفيته، و نقتصر على ذكر متون الأخبار.</p>\n  <p id=\"p2373\" paragraph-id=\"2373\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "23025885-B32A-4D76-A3E4-244FC635FCD0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

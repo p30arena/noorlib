@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 200,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849671,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2286\"><page number=\"200\"/><format class=\"hadith\" who=\"5\" Id=\"706\" RevayatIndex=\"717\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">زَكَرِيَّا اَلْمُؤْمِنِ‌</format>، عَنْ <format class=\"G\">أَبِي سَعِيدٍ اَلْمُكَارِي</format>، عَنْ <format class=\"G\">أَبِي حَمْزَةَ اَلثُّمَالِيِّ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849672,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2287\"><format class=\"hadith\" who=\"5\" Id=\"706\" RevayatIndex=\"717\">كُنْتُ عِنْدَ حَوْضِ <format class=\"t\">زَمْزَمَ‌</format>، فَأَتَانِي رَجُلٌ‌، فَقَالَ لِي: لاَ تَشْرَبْ مِنْ هَذَا اَلْمَاءِ‌، يَا <format class=\"d\">أَبَا حَمْزَةَ‌</format>، فَإِنَّ هَذَا يَشْتَرِكُ فِيهِ اَلْجِنُّ وَ اَلْإِنْسُ‌، وَ هَذَا لاَ يَشْتَرِكُ فِيهِ إِلاَّ اَلْإِنْسُ‌!.</format></p>"
+        },
+        {
+          "paragraphId": 687849673,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2288\"><format class=\"hadith\" who=\"5\" Id=\"706\" RevayatIndex=\"717\">قَالَ‌: فَتَعَجَّبْتُ مِنْ قَوْلِهِ‌، وَ قُلْتُ‌: مِنْ أَيْنَ عَلِمَ هَذَا؟! قَالَ‌: ثُمَّ قُلْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">لِأَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، مَا كَانَ مِنْ قَوْلِ اَلرَّجُلِ لِي، فَقَالَ (عَلَيْهِ اَلسَّلاَمُ‌) لِي: إِنَّ ذَلِكَ رَجُلٌ مِنَ اَلْجِنِّ أَرَادَ إِرْشَادَكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849674,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2289\">بيان: قال في الفقيه: كان الحوض يومئذ متعدّدا. و قال في الوسائل: الظنّ المأمور به هو الدلو المقابل للحجر، و المنتهى عنه هو البعيد عنه.</p>"
+        },
+        {
+          "paragraphId": 687849675,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2290\"><format class=\"hadith\" who=\"6\" Id=\"707\" RevayatIndex=\"718\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنُ جَعْفَرٍ</format>، وَ <format class=\"G\">غَيْرِهِ‌</format>، وَ عَنِ <format class=\"G\">اَلْعِدَّةِ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</format> جَمِيعاً، عَنْ <format class=\"G\">يَعْقُوبَ بْنِ يَزِيدَ</format>، عَنْ <format class=\"G\">يَحْيَى بْنِ اَلْمُبَارَكِ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ جَبَلَةَ‌</format>، عَنْ <format class=\"G\">مُصَادِفٍ‌</format><lfootnote noteId=\"109\">1</lfootnote>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849676,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2291\"><format class=\"hadith\" who=\"6\" Id=\"707\" RevayatIndex=\"718\">اِشْتَكَى رَجُلٌ مِنْ إِخْوَانِنَا <format class=\"t\">بِمَكَّةَ‌</format>، حَتَّى سَقَطَ لِلْمَوْتِ‌، فَلَقِينَا <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> فِي اَلطَّرِيقِ‌، فَقَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849677,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2292\"><format class=\"hadith\" who=\"6\" Id=\"707\" RevayatIndex=\"718\">يَا <format class=\"d\">مُصَادِفُ‌</format>! مَا فَعَلَ فُلاَنٌ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687849678,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2293\"><format class=\"hadith\" who=\"6\" Id=\"707\" RevayatIndex=\"718\">قُلْتُ‌: تَرَكْتُهُ بِالْمَوْتِ جُعِلْتُ فِدَاكَ‌!.</format></p>"
+        },
+        {
+          "paragraphId": 687849679,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2294\"><format class=\"hadith\" who=\"6\" Id=\"707\" RevayatIndex=\"718\">فَقَالَ‌: أَمَا لَوْ كُنْتُ مَكَانَكُمْ‌، لَسَقَيْتُهُ مِنْ مَاءِ <format class=\"t\">اَلْمِيزَابِ‌</format>.</format></p>"
+        },
+        {
+          "paragraphId": 687849680,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2295\"><format class=\"hadith\" who=\"6\" Id=\"707\" RevayatIndex=\"718\">فَطَلَبْنَا عِنْدَ كُلِّ أَحَدٍ، فَلَمْ نَجِدْهُ‌. فَبَيْنَا نَحْنُ كَذَلِكَ‌، إِذِ اِرْتَفَعَتْ سَحَابَةٌ فَأَرْعَدَتْ‌، وَ أَبْرَقَتْ‌، وَ أَمْطَرَتْ‌. فَجِئْتُ إِلَى بَعْضِ مَنْ فِي اَلْمَسْجِدِ، فَأَعْطَيْتُهُ دِرْهَماً، وَ أَخَذْتُ قَدَحَهُ‌، ثُمَّ أَخَذْتُ مِنْ مَاءِ <format class=\"t\">اَلْمِيزَابِ‌</format>، فَأَتَيْتُهُ بِهِ وَ سَقَيْتُهُ مِنْهُ‌، وَ لَمْ أَبْرَحْ مِنْ عِنْدِهِ‌، حَتَّى شَرِبَ سَوِيقاً وَ صَلَحَ وَ بَرَأَ بَعْدَ ذَلِكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849681,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2296\"><page number=\"201\"/><format class=\"hadith\" who=\"14\" Id=\"708\" RevayatIndex=\"719\"><format class=\"sanadHadith\">وَ عَنْ مُحَمَّدِ بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ، عَنْ يَعْقُوبَ بْنِ يَزِيدَ، عَنْ عَلِيِّ بْنِ يَقْطِينٍ‌، عَنْ عَمْرِو بْنِ إِبْرَاهِيمَ‌، عَنْ خَلْقِ بْنِ حَمَّادٍ، عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ‌، قَالَ‌:</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851742,
+          "text": "<footnote id=\"109\"><page number=\"200\"/><mnote>(1)</mnote> التصحيح عن الكافي 387/6 و في الأصل أثبت (صارم) بدلا من (مصادف). و هناك حذف من الرواية أثبتناه أيضا. (ع).</footnote>"
+        }
+      ],
+      "pageValue": "200",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2286\" paragraph-id=\"2286\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo200\">200</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">زَكَرِيَّا اَلْمُؤْمِنِ‌</span>، عَنْ <span class=\"G\">أَبِي سَعِيدٍ اَلْمُكَارِي</span>، عَنْ <span class=\"G\">أَبِي حَمْزَةَ اَلثُّمَالِيِّ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2287\" paragraph-id=\"2287\" class=\" G\">\n    <span class=\"hadith\">كُنْتُ عِنْدَ حَوْضِ <span class=\"t\">زَمْزَمَ‌</span>، فَأَتَانِي رَجُلٌ‌، فَقَالَ لِي: لاَ تَشْرَبْ مِنْ هَذَا اَلْمَاءِ‌، يَا <span class=\"d\">أَبَا حَمْزَةَ‌</span>، فَإِنَّ هَذَا يَشْتَرِكُ فِيهِ اَلْجِنُّ وَ اَلْإِنْسُ‌، وَ هَذَا لاَ يَشْتَرِكُ فِيهِ إِلاَّ اَلْإِنْسُ‌!.</span>\n  </p>\n  <p id=\"p2288\" paragraph-id=\"2288\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَتَعَجَّبْتُ مِنْ قَوْلِهِ‌، وَ قُلْتُ‌: مِنْ أَيْنَ عَلِمَ هَذَا؟! قَالَ‌: ثُمَّ قُلْتُ <span class=\"Y\"><span class=\"maasoom\">لِأَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، مَا كَانَ مِنْ قَوْلِ اَلرَّجُلِ لِي، فَقَالَ (عَلَيْهِ اَلسَّلاَمُ‌) لِي: إِنَّ ذَلِكَ رَجُلٌ مِنَ اَلْجِنِّ أَرَادَ إِرْشَادَكَ‌.</span>\n  </p>\n  <p id=\"p2289\" paragraph-id=\"2289\" class=\" G\">بيان: قال في الفقيه: كان الحوض يومئذ متعدّدا. و قال في الوسائل: الظنّ المأمور به هو الدلو المقابل للحجر، و المنتهى عنه هو البعيد عنه.</p>\n  <p id=\"p2290\" paragraph-id=\"2290\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنُ جَعْفَرٍ</span>، وَ <span class=\"G\">غَيْرِهِ‌</span>، وَ عَنِ <span class=\"G\">اَلْعِدَّةِ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</span> جَمِيعاً، عَنْ <span class=\"G\">يَعْقُوبَ بْنِ يَزِيدَ</span>، عَنْ <span class=\"G\">يَحْيَى بْنِ اَلْمُبَارَكِ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ جَبَلَةَ‌</span>، عَنْ <span class=\"G\">مُصَادِفٍ‌</span><span><sup><a class=\"NewFn\" href=\"#footnote109\" title=\"(1)  التصحيح عن الكافي 387/6 و في الأصل أثبت (صارم) بدلا من (مصادف). و هناك حذف من الرواية أثبتناه أيضا. (ع).\">1</a></sup></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2291\" paragraph-id=\"2291\" class=\" G\">\n    <span class=\"hadith\">اِشْتَكَى رَجُلٌ مِنْ إِخْوَانِنَا <span class=\"t\">بِمَكَّةَ‌</span>، حَتَّى سَقَطَ لِلْمَوْتِ‌، فَلَقِينَا <span class=\"Y\"><span class=\"maasoom\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> فِي اَلطَّرِيقِ‌، فَقَالَ‌:</span>\n  </p>\n  <p id=\"p2292\" paragraph-id=\"2292\" class=\" G\">\n    <span class=\"hadith\">يَا <span class=\"d\">مُصَادِفُ‌</span>! مَا فَعَلَ فُلاَنٌ؟.</span>\n  </p>\n  <p id=\"p2293\" paragraph-id=\"2293\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: تَرَكْتُهُ بِالْمَوْتِ جُعِلْتُ فِدَاكَ‌!.</span>\n  </p>\n  <p id=\"p2294\" paragraph-id=\"2294\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ‌: أَمَا لَوْ كُنْتُ مَكَانَكُمْ‌، لَسَقَيْتُهُ مِنْ مَاءِ <span class=\"t\">اَلْمِيزَابِ‌</span>.</span>\n  </p>\n  <p id=\"p2295\" paragraph-id=\"2295\" class=\" G\">\n    <span class=\"hadith\">فَطَلَبْنَا عِنْدَ كُلِّ أَحَدٍ، فَلَمْ نَجِدْهُ‌. فَبَيْنَا نَحْنُ كَذَلِكَ‌، إِذِ اِرْتَفَعَتْ سَحَابَةٌ فَأَرْعَدَتْ‌، وَ أَبْرَقَتْ‌، وَ أَمْطَرَتْ‌. فَجِئْتُ إِلَى بَعْضِ مَنْ فِي اَلْمَسْجِدِ، فَأَعْطَيْتُهُ دِرْهَماً، وَ أَخَذْتُ قَدَحَهُ‌، ثُمَّ أَخَذْتُ مِنْ مَاءِ <span class=\"t\">اَلْمِيزَابِ‌</span>، فَأَتَيْتُهُ بِهِ وَ سَقَيْتُهُ مِنْهُ‌، وَ لَمْ أَبْرَحْ مِنْ عِنْدِهِ‌، حَتَّى شَرِبَ سَوِيقاً وَ صَلَحَ وَ بَرَأَ بَعْدَ ذَلِكَ‌.</span>\n  </p>\n  <p id=\"p2296\" paragraph-id=\"2296\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote109\" footnote-id=\"109\">(1) <page number=\"200\" /> التصحيح عن الكافي 387/6 و في الأصل أثبت (صارم) بدلا من (مصادف). و هناك حذف من الرواية أثبتناه أيضا. (ع).</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C5650857-42CB-4C09-BEDA-392962D6B096",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,44 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 3,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687847426,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"128\"><page number=\"3\"/><heading level=\"1\"><format class=\"H\">[الجزء الأول من الكتاب]</format></heading></p>"
+        },
+        {
+          "paragraphId": 687847427,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"129\"><img src=\"BK12452G001S1P3\" alt=\"\" imgtype=\"Scan\"/><page number=\"4\"/><img src=\"BK12452G001S1P4\" alt=\"\" imgtype=\"Scan\"/><page number=\"5\"/><format class=\"BeginPreface\"/><heading level=\"2\">ترجمة المؤلّف </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "3",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p128\" paragraph-id=\"128\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo3\">3</span>\n    <strong style=\"0\" class=\"h-1 01\">\n      <span class=\"H\">[الجزء الأول من الكتاب]</span>\n    </strong>\n  </p>\n  <p id=\"p129\" paragraph-id=\"129\" class=\" G\">\n    <img src=\"/file/book/page/M4mG3MrRPmNgko_40yBOecPXM_HD5-KjP_v_ugroYgve9nZUGaFV9zJyFvK6tn5k\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "0C69DE0D-A159-4E15-9C51-AA4B934DB1DE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,127 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 95,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848370,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1072\"><format class=\"hadith\" who=\"6\" Id=\"191\" RevayatIndex=\"193\"><page number=\"95\"/>وَ أَخِيهِ‌، وَ اَلْأَئِمَّةِ مِنْ وُلْدِهِ‌، وَ بِحَقِّ اَلْمَلاَئِكَةِ اَلْحَافِّينَ بِهِ‌، إِلاَّ جَعَلْتَهَا شِفَاءً مِنْ كُلِّ دَاءٍ‌، وَ بُرْءاً مِنْ كُلِّ مَرَضٍ‌، وَ نَجَاةً مِنْ كُلِّ آفَةٍ‌، وَ حِرْزاً مِمَّا أَخَافُ وَ أَحْذَرُ.</format></p>"
+        },
+        {
+          "paragraphId": 687848371,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1073\"><format class=\"hadith\" who=\"6\" Id=\"191\" RevayatIndex=\"193\">ثُمَّ لْيَسْتَعْمِلْهَا.</format></p>"
+        },
+        {
+          "paragraphId": 687848372,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1074\"><format class=\"hadith\" who=\"6\" Id=\"191\" RevayatIndex=\"193\">قَالَ <format class=\"d\">أَبُو أُسَامَةَ‌</format>: فَإِنِّي اِسْتَعْمَلْتُهَا مِنْ دَهْرِيَ اَلْأَطْوَلِ‌، كَمَا قَالَ وَ وَصَفَ <format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format>، فَمَا رَأَيْتُ‌، بِحَمْدِ اَللَّهِ‌، مَكْرُوهاً. </format></p>"
+        },
+        {
+          "paragraphId": 687848373,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1075\"><format class=\"hadith\" who=\"\" Id=\"191\" RevayatIndex=\"\"><format class=\"sanadHadith\">وَ فِي (اَلْمَكَارِمِ‌)<lfootnote noteId=\"47\">1</lfootnote>: </format>نَحْوَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848374,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1076\"><format class=\"hadith\" who=\"6\" Id=\"192\" RevayatIndex=\"194\"><format class=\"sanadHadith\">اَلْمُتَهَجِّدُ: رَوَى مُحَمَّدُ بْنِ جُمْهُورٍ اَلْقُمِّيِّ‌، عَنْ بَعْضِ أَصْحَابِهِ قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848375,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1077\"><format class=\"hadith\" who=\"6\" Id=\"192\" RevayatIndex=\"194\">سُئِلَ جَعْفَرُ بْنُ مُحَمَّدٍ (عَلَيْهِ اَلسَّلاَمُ‌)، عَنِ اَلطِّينِ اَلْأَرْمَنِيِّ‌، يُؤْخَذُ لِلْكَسِيرِ، أَ يَحِلُّ أَخْذُهُ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687848376,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1078\"><format class=\"hadith\" who=\"6\" Id=\"192\" RevayatIndex=\"194\">قَالَ‌: لاَ بَأْسَ بِهِ‌، أَمَا إِنَّهُ مِنْ طِينِ قَبْرِ ذِي اَلْقَرْنَيْنِ‌، وَ طِينُ قَبْرِ اَلْحُسَيْنِ بْنِ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ خَيْرٌ مِنْهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848377,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1079\"><format class=\"hadith\" who=\"6\" Id=\"193\" RevayatIndex=\"195\"><format class=\"sanadHadith\">وَ رَوَى <format class=\"G\">يُونُسُ بْنُ ظَبْيَانَ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> وَ قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848378,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1080\"><format class=\"hadith\" who=\"6\" Id=\"193\" RevayatIndex=\"195\">«طِينُ <format class=\"t\">قَبْرِ <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"3\">اَلْحُسَيْنِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format></format>، شِفَاءٌ مِنْ كُلِّ دَاءٍ‌، فَإِذَا أَكَلْتَ مِنْهُ فَقُلْ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687848379,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1081\"><format class=\"hadith\" who=\"6\" Id=\"193\" RevayatIndex=\"195\"><format class=\"semicolon\">«بِسْمِ اَللَّهِ‌، وَ بِاللَّهِ‌، اَللَّهُمَّ اِجْعَلْهُ رِزْقاً وَاسِعاً، وَ عِلْماً نَافِعاً، وَ شِفَاءً مِنْ كُلِّ دَاءٍ‌، إِنَّكَ عَلَى كُلِّ شَيْ‌ءٍ قَدِيرٌ.</format></format></p>"
+        },
+        {
+          "paragraphId": 687848380,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1082\"><format class=\"hadith\" who=\"6\" Id=\"193\" RevayatIndex=\"195\"><format class=\"semicolon\">اَللَّهُمَّ رَبَّ اَلتُّرْبَةِ اَلْمُبَارَكَةِ‌، وَ رَبَّ اَلْوَصِيِّ اَلَّذِي وَارَتْهُ‌، صَلِّ عَلَى <format class=\"maasoom\" maasoomNo=\"14\">مُحَمَّدٍ</format> وَ آلِ مُحَمَّدٍ، وَ اِجْعَلْ هَذَا اَلطِّينَ شِفَاءً مِنْ كُلِّ دَاءٍ‌، وَ أَمَاناً مِنْ كُلِّ خَوْفٍ‌»</format>.</format></p>"
+        },
+        {
+          "paragraphId": 687848381,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1083\"><format class=\"hadith\" who=\"6\" Id=\"194\" RevayatIndex=\"196\"><format class=\"sanadHadith\">وَ رَوَى حَنَانُ بْنُ سَدِيرٍ، عَنْ أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌) أَنَّهُ قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848382,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1084\"><format class=\"hadith\" who=\"6\" Id=\"194\" RevayatIndex=\"196\">«مَنْ أَكَلَ مِنْ طِينِ قَبْرِ اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)، غَيْرَ مُسْتَشْفٍ بِهِ‌، فَكَأَنَّمَا أَكَلَ مِنْ لُحُومِنَا، فَإِذَا اِحْتَاجَ أَحَدُكُمْ إِلَى اَلْأَكْلِ مِنْهُ لِيَسْتَشْفِيَ بِهِ فَلْيَقُلْ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687848383,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1085\"><format class=\"hadith\" who=\"6\" Id=\"194\" RevayatIndex=\"196\">«بِسْمِ اَللَّهِ وَ بِاللَّهِ‌، اَللَّهُمَّ رَبَّ هَذِهِ اَلتُّرْبَةِ اَلْمُبَارَكَةِ‌، اَلطَّاهِرَةِ‌، وَ رَبَّ اَلنُّورِ اَلَّذِي أُنْزِلَ فِيهِ‌، وَ رَبَّ اَلْجَسَدِ اَلَّذِي سَكَنَ فِيهِ‌، وَ رَبَّ اَلْمَلاَئِكَةِ اَلْمُوَكَّلِينَ بِهِ‌، اِجْعَلْهُ لِي شِفَاءً مِنْ كُلِّ دَاءٍ كَذَا وَ كَذَا.</format></p>"
+        },
+        {
+          "paragraphId": 687848384,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"1086\"><format class=\"hadith\" who=\"6\" Id=\"194\" RevayatIndex=\"196\"><page number=\"96\"/>وَ اِجْرَعْ مِنَ اَلْمَاءِ جُرْعَةً‌، خَلْفَهُ‌، وَ قُلِ‌:</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851680,
+          "text": "<footnote id=\"47\"><page number=\"95\"/><mnote>(1)</mnote> مَكَارِمِ اَلْأَخْلاَقِ لِلطَّبْرِسِيِّ‌.</footnote>"
+        }
+      ],
+      "pageValue": "95",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1072\" paragraph-id=\"1072\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo95\">95</span>وَ أَخِيهِ‌، وَ اَلْأَئِمَّةِ مِنْ وُلْدِهِ‌، وَ بِحَقِّ اَلْمَلاَئِكَةِ اَلْحَافِّينَ بِهِ‌، إِلاَّ جَعَلْتَهَا شِفَاءً مِنْ كُلِّ دَاءٍ‌، وَ بُرْءاً مِنْ كُلِّ مَرَضٍ‌، وَ نَجَاةً مِنْ كُلِّ آفَةٍ‌، وَ حِرْزاً مِمَّا أَخَافُ وَ أَحْذَرُ.</span>\n  </p>\n  <p id=\"p1073\" paragraph-id=\"1073\" class=\" G\">\n    <span class=\"hadith\">ثُمَّ لْيَسْتَعْمِلْهَا.</span>\n  </p>\n  <p id=\"p1074\" paragraph-id=\"1074\" class=\" G\">\n    <span class=\"hadith\">قَالَ <span class=\"d\">أَبُو أُسَامَةَ‌</span>: فَإِنِّي اِسْتَعْمَلْتُهَا مِنْ دَهْرِيَ اَلْأَطْوَلِ‌، كَمَا قَالَ وَ وَصَفَ <span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span>، فَمَا رَأَيْتُ‌، بِحَمْدِ اَللَّهِ‌، مَكْرُوهاً. </span>\n  </p>\n  <p id=\"p1075\" paragraph-id=\"1075\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي (اَلْمَكَارِمِ‌)<span><sup><a class=\"NewFn\" href=\"#footnote47\" title=\"(1)  مَكَارِمِ اَلْأَخْلاَقِ لِلطَّبْرِسِيِّ‌.\">1</a></sup></span>: </span>نَحْوَهُ‌.</span>\n  </p>\n  <p id=\"p1076\" paragraph-id=\"1076\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْمُتَهَجِّدُ: رَوَى مُحَمَّدُ بْنِ جُمْهُورٍ اَلْقُمِّيِّ‌، عَنْ بَعْضِ أَصْحَابِهِ قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1077\" paragraph-id=\"1077\" class=\" G\">\n    <span class=\"hadith\">سُئِلَ جَعْفَرُ بْنُ مُحَمَّدٍ (عَلَيْهِ اَلسَّلاَمُ‌)، عَنِ اَلطِّينِ اَلْأَرْمَنِيِّ‌، يُؤْخَذُ لِلْكَسِيرِ، أَ يَحِلُّ أَخْذُهُ؟.</span>\n  </p>\n  <p id=\"p1078\" paragraph-id=\"1078\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لاَ بَأْسَ بِهِ‌، أَمَا إِنَّهُ مِنْ طِينِ قَبْرِ ذِي اَلْقَرْنَيْنِ‌، وَ طِينُ قَبْرِ اَلْحُسَيْنِ بْنِ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ خَيْرٌ مِنْهُ‌.</span>\n  </p>\n  <p id=\"p1079\" paragraph-id=\"1079\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ رَوَى <span class=\"G\">يُونُسُ بْنُ ظَبْيَانَ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> وَ قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1080\" paragraph-id=\"1080\" class=\" G\">\n    <span class=\"hadith\">«طِينُ <span class=\"t\">قَبْرِ <span class=\"BD\"><span class=\"maasoom\">اَلْحُسَيْنِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span></span>، شِفَاءٌ مِنْ كُلِّ دَاءٍ‌، فَإِذَا أَكَلْتَ مِنْهُ فَقُلْ‌:</span>\n  </p>\n  <p id=\"p1081\" paragraph-id=\"1081\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"semicolon\">«بِسْمِ اَللَّهِ‌، وَ بِاللَّهِ‌، اَللَّهُمَّ اِجْعَلْهُ رِزْقاً وَاسِعاً، وَ عِلْماً نَافِعاً، وَ شِفَاءً مِنْ كُلِّ دَاءٍ‌، إِنَّكَ عَلَى كُلِّ شَيْ‌ءٍ قَدِيرٌ.</span>\n    </span>\n  </p>\n  <p id=\"p1082\" paragraph-id=\"1082\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"semicolon\">اَللَّهُمَّ رَبَّ اَلتُّرْبَةِ اَلْمُبَارَكَةِ‌، وَ رَبَّ اَلْوَصِيِّ اَلَّذِي وَارَتْهُ‌، صَلِّ عَلَى <span class=\"maasoom\">مُحَمَّدٍ</span> وَ آلِ مُحَمَّدٍ، وَ اِجْعَلْ هَذَا اَلطِّينَ شِفَاءً مِنْ كُلِّ دَاءٍ‌، وَ أَمَاناً مِنْ كُلِّ خَوْفٍ‌»</span>.</span>\n  </p>\n  <p id=\"p1083\" paragraph-id=\"1083\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ رَوَى حَنَانُ بْنُ سَدِيرٍ، عَنْ أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌) أَنَّهُ قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1084\" paragraph-id=\"1084\" class=\" G\">\n    <span class=\"hadith\">«مَنْ أَكَلَ مِنْ طِينِ قَبْرِ اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)، غَيْرَ مُسْتَشْفٍ بِهِ‌، فَكَأَنَّمَا أَكَلَ مِنْ لُحُومِنَا، فَإِذَا اِحْتَاجَ أَحَدُكُمْ إِلَى اَلْأَكْلِ مِنْهُ لِيَسْتَشْفِيَ بِهِ فَلْيَقُلْ‌:</span>\n  </p>\n  <p id=\"p1085\" paragraph-id=\"1085\" class=\" G\">\n    <span class=\"hadith\">«بِسْمِ اَللَّهِ وَ بِاللَّهِ‌، اَللَّهُمَّ رَبَّ هَذِهِ اَلتُّرْبَةِ اَلْمُبَارَكَةِ‌، اَلطَّاهِرَةِ‌، وَ رَبَّ اَلنُّورِ اَلَّذِي أُنْزِلَ فِيهِ‌، وَ رَبَّ اَلْجَسَدِ اَلَّذِي سَكَنَ فِيهِ‌، وَ رَبَّ اَلْمَلاَئِكَةِ اَلْمُوَكَّلِينَ بِهِ‌، اِجْعَلْهُ لِي شِفَاءً مِنْ كُلِّ دَاءٍ كَذَا وَ كَذَا.</span>\n  </p>\n  <p id=\"p1086\" paragraph-id=\"1086\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote47\" footnote-id=\"47\">(1) <page number=\"95\" /> مَكَارِمِ اَلْأَخْلاَقِ لِلطَّبْرِسِيِّ‌.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F7158CDD-BE9B-4283-A90B-6E83F36D7FE4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

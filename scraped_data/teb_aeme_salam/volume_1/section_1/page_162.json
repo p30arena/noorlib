@@ -1,0 +1,104 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 162,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848943,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1847\"><page number=\"162\"/><format class=\"hadith\" who=\"16\" Id=\"503\" RevayatIndex=\"512\"><format class=\"sanadHadith\">اَلْمَكَارِمُ‌: فِي اَلْحَدِيثِ‌:</format> أَنَّ اَلتُّفَّاحَ يُورِثُ اَلنِّسْيَانَ‌، وَ ذَلِكَ لِأَنَّهُ يُوَلِّدُ فِي اَلْمَعِدَةِ لُزُوجَةً‌. 14 - <format class=\"RevayatIndex\" index=\"513\"/><format class=\"sanadHadith\">وَ قَالَ اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</format> كُلُوا اَلتُّفَّاحَ عَلَى اَلرِّيقِ‌، فَإِنَّهُ نَضُوحُ اَلْمَعِدَةِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848944,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1848\"><format class=\"hadith\" who=\"5,7\" Id=\"504\" RevayatIndex=\"514\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"7\">مُوسَى بْنِ جَعْفَرٍ</format></format>، عَنْ <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِيهِ‌</format></format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">جَدِّهِ </format></format>(عَلَيْهِمُ اَلسَّلاَمُ‌)، قَالَ‌:</format> إِنَّا <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\">أَهْلُ بَيْتٍ‌</format></format>، لاَ نَتَدَاوَى إِلاَّ بِإِفَاضَةِ اَلْمَاءِ اَلْبَارِدِ لِلْحُمَّى وَ أَكْلِ اَلتُّفَّاحِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848945,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1849\"><heading level=\"2\">باب <format class=\"VD\">التداوي بالسفرجل، و فوائده </format></heading></p>"
+        },
+        {
+          "paragraphId": 687848946,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1850\"><format class=\"hadith\" who=\"6\" Id=\"505\" RevayatIndex=\"515\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنِ <format class=\"G\">اَلْحَسَنِ بْنِ عَلِيٍّ‌</format>، عَنْ <format class=\"G\">جَمِيلِ بْنِ دَرَّاجٍ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848947,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1851\"><format class=\"hadith\" who=\"6\" Id=\"505\" RevayatIndex=\"515\">مَنْ أَكَلَ سَفَرْجَلَةً‌، أَنْطَقَ اَللَّهُ اَلْحِكْمَةَ عَلَى لِسَانِهِ‌، أَرْبَعِينَ صَبَاحاً.</format></p>"
+        },
+        {
+          "paragraphId": 687848948,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1852\"><format class=\"hadith\" who=\"14,7\" Id=\"506\" RevayatIndex=\"516\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ إِسْمَاعِيلَ بْنِ بَزِيعٍ‌</format>، عَنْ <format class=\"G\">عَمِّهِ حَمْزَةَ بْنِ بَزِيعٍ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"7\">أَبِي إِبْرَاهِيمَ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848949,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1853\"><format class=\"hadith\" who=\"14,7\" Id=\"506\" RevayatIndex=\"516\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>، <format class=\"d\">لِجَعْفَرٍ</format>: يَا <format class=\"d\">جَعْفَرُ</format>! كُلِ اَلسَّفَرْجَلَ‌، فَإِنَّهُ يُقَوِّي اَلْقَلْبَ‌، وَ يُشَجِّعُ اَلْجَبَانَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848950,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1854\"><format class=\"hadith\" who=\"6,1\" Id=\"507\" RevayatIndex=\"517\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ</format>، عَنِ <format class=\"G\">اَلْقَاسِمِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">جَدِّهِ اَلْحَسَنِ بْنِ رَاشِدٍ</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848951,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1855\"><format class=\"hadith\" who=\"6,1\" Id=\"507\" RevayatIndex=\"517\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>أَكْلُ اَلسَّفَرْجَلِ قُوَّةٌ لِلْقَلْبِ اَلضَّعِيفِ‌، وَ يُطَيِّبُ اَلْمَعِدَةَ‌، وَ يُذَكِّي اَلْفُؤَادَ، وَ يُشَجِّعُ اَلْجَبَانَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848952,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1856\"><format class=\"hadith\" who=\"14,6\" Id=\"508\" RevayatIndex=\"518\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اَلنَّوْفَلِيِّ‌</format>، عَنِ <format class=\"G\">اَلسَّكُونِيِّ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848953,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1857\"><format class=\"hadith\" who=\"14,6\" Id=\"508\" RevayatIndex=\"518\">كَانَ <format class=\"d\">جَعْفَرُ بْنُ أَبِي طَالِبٍ‌</format>، عِنْدَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>، فَأُهْدِيَ إِلَى <format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format> سَفَرْجَلٌ‌، فَقَطَعَ اَلنَّبِيُّ مِنْهُ قِطْعَةً‌، وَ نَاوَلَهَا جَعْفَرَ، فَأَبَى أَنْ يَأْكُلَهَا، فَقَالَ‌: خُذْهَا وَ كُلْهَا، فَإِنَّهَا تُذَكِّي اَلْقَلْبَ‌، وَ تُشَجِّعُ اَلْجَبَانَ‌، وَ فِي رِوَايَةٍ أُخْرَى: كُلْ‌، فَإِنَّهُ يُصَفِّي اَللَّوْنَ‌، وَ يُحَسِّنُ اَلْوَلَدَ.</format></p>"
+        },
+        {
+          "paragraphId": 687848954,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1858\"><page number=\"163\"/><format class=\"hadith\" who=\"6\" Id=\"509\" RevayatIndex=\"519\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْحُسَيْنِ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">مُعَلَّى بْنِ مُحَمَّدٍ</format>، رَفَعَهُ إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "162",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1847\" paragraph-id=\"1847\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo162\">162</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْمَكَارِمُ‌: فِي اَلْحَدِيثِ‌:</span> أَنَّ اَلتُّفَّاحَ يُورِثُ اَلنِّسْيَانَ‌، وَ ذَلِكَ لِأَنَّهُ يُوَلِّدُ فِي اَلْمَعِدَةِ لُزُوجَةً‌. 14 - <span class=\"RevayatIndex\"></span><span class=\"sanadHadith\">وَ قَالَ اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</span> كُلُوا اَلتُّفَّاحَ عَلَى اَلرِّيقِ‌، فَإِنَّهُ نَضُوحُ اَلْمَعِدَةِ‌.</span>\n  </p>\n  <p id=\"p1848\" paragraph-id=\"1848\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"HQ\"><span class=\"maasoom\">مُوسَى بْنِ جَعْفَرٍ</span></span>، عَنْ <span class=\"G\"><span class=\"maasoom\">أَبِيهِ‌</span></span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">جَدِّهِ </span></span>(عَلَيْهِمُ اَلسَّلاَمُ‌)، قَالَ‌:</span> إِنَّا <span class=\"BD\"><span class=\"maasoom\">أَهْلُ بَيْتٍ‌</span></span>، لاَ نَتَدَاوَى إِلاَّ بِإِفَاضَةِ اَلْمَاءِ اَلْبَارِدِ لِلْحُمَّى وَ أَكْلِ اَلتُّفَّاحِ‌.</span>\n  </p>\n  <p id=\"p1849\" paragraph-id=\"1849\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي بالسفرجل، و فوائده </span></strong>\n  </p>\n  <p id=\"p1850\" paragraph-id=\"1850\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنِ <span class=\"G\">اَلْحَسَنِ بْنِ عَلِيٍّ‌</span>، عَنْ <span class=\"G\">جَمِيلِ بْنِ دَرَّاجٍ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1851\" paragraph-id=\"1851\" class=\" G\">\n    <span class=\"hadith\">مَنْ أَكَلَ سَفَرْجَلَةً‌، أَنْطَقَ اَللَّهُ اَلْحِكْمَةَ عَلَى لِسَانِهِ‌، أَرْبَعِينَ صَبَاحاً.</span>\n  </p>\n  <p id=\"p1852\" paragraph-id=\"1852\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ إِسْمَاعِيلَ بْنِ بَزِيعٍ‌</span>، عَنْ <span class=\"G\">عَمِّهِ حَمْزَةَ بْنِ بَزِيعٍ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي إِبْرَاهِيمَ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1853\" paragraph-id=\"1853\" class=\" G\">\n    <span class=\"hadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>، <span class=\"d\">لِجَعْفَرٍ</span>: يَا <span class=\"d\">جَعْفَرُ</span>! كُلِ اَلسَّفَرْجَلَ‌، فَإِنَّهُ يُقَوِّي اَلْقَلْبَ‌، وَ يُشَجِّعُ اَلْجَبَانَ‌.</span>\n  </p>\n  <p id=\"p1854\" paragraph-id=\"1854\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ</span>، عَنِ <span class=\"G\">اَلْقَاسِمِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">جَدِّهِ اَلْحَسَنِ بْنِ رَاشِدٍ</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1855\" paragraph-id=\"1855\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>أَكْلُ اَلسَّفَرْجَلِ قُوَّةٌ لِلْقَلْبِ اَلضَّعِيفِ‌، وَ يُطَيِّبُ اَلْمَعِدَةَ‌، وَ يُذَكِّي اَلْفُؤَادَ، وَ يُشَجِّعُ اَلْجَبَانَ‌.</span>\n  </p>\n  <p id=\"p1856\" paragraph-id=\"1856\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اَلنَّوْفَلِيِّ‌</span>، عَنِ <span class=\"G\">اَلسَّكُونِيِّ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1857\" paragraph-id=\"1857\" class=\" G\">\n    <span class=\"hadith\">كَانَ <span class=\"d\">جَعْفَرُ بْنُ أَبِي طَالِبٍ‌</span>، عِنْدَ <span class=\"Y\"><span class=\"maasoom\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>، فَأُهْدِيَ إِلَى <span class=\"maasoom\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span> سَفَرْجَلٌ‌، فَقَطَعَ اَلنَّبِيُّ مِنْهُ قِطْعَةً‌، وَ نَاوَلَهَا جَعْفَرَ، فَأَبَى أَنْ يَأْكُلَهَا، فَقَالَ‌: خُذْهَا وَ كُلْهَا، فَإِنَّهَا تُذَكِّي اَلْقَلْبَ‌، وَ تُشَجِّعُ اَلْجَبَانَ‌، وَ فِي رِوَايَةٍ أُخْرَى: كُلْ‌، فَإِنَّهُ يُصَفِّي اَللَّوْنَ‌، وَ يُحَسِّنُ اَلْوَلَدَ.</span>\n  </p>\n  <p id=\"p1858\" paragraph-id=\"1858\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "21F90DDF-AF8F-4B71-9CD3-9387E137FCCE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

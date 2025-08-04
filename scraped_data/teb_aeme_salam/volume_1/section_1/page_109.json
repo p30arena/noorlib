@@ -1,0 +1,107 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 109,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848650,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1243\"><page number=\"109\"/><format class=\"hadith\" who=\"14\" Id=\"244\" RevayatIndex=\"249\"><format class=\"sanadHadith\">وَ رُوِيَ نَحْوُ هَذِهِ اَلْأَخْبَارُ فِي (<format class=\"K\">اَلْمَحَاسِنِ‌</format>) وَ (<format class=\"K\">اَلْمَكَارِمِ‌</format>):</format></format></p>"
+        },
+        {
+          "paragraphId": 687848651,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1244\"><format class=\"hadith\" who=\"14\" Id=\"244\" RevayatIndex=\"249\">رَأَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيُّ </format></format><format class=\"d\">أَبَا أَيُّوبَ اَلْأَنْصَارِيّ َ‌</format>، يَلْتَقِطُ نُثَارَ اَلْمَائِدَةِ‌، فَقَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌): بُورِكَ لَكَ‌، وَ بُورِكَ عَلَيْكَ‌، وَ بُورِكَ فِيكَ‌!.</format></p>"
+        },
+        {
+          "paragraphId": 687848652,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1245\"><format class=\"hadith\" who=\"14\" Id=\"244\" RevayatIndex=\"249\">فَقَالَ <format class=\"d\">أَبُو أَيُّوبَ‌</format>: يَا <format class=\"maasoom\" maasoomNo=\"14\">رَسُولَ اَللَّهِ‌!</format> وَ لِغَيْرِي‌؟ قَالَ‌: نَعَمْ‌، مَنْ أَكَلَ مَا أَكَلْتَ‌، فَلَهُ مَا قُلْتُ لَكَ‌. وَ قَالَ‌: مَنْ فَعَلَ هَذَا، وَقَاهُ اَلْجُنُونَ‌، وَ اَلْجُذَامَ‌، وَ اَلْبَرَصَ‌، وَ اَلْمَاءَ اَلْأَصْفَرَ، وَ اَلْحُمْقَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848653,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1246\"><format class=\"hadith\" who=\"1\" Id=\"245\" RevayatIndex=\"250\"><format class=\"sanadHadith\">وَ فِي اَلْبِحَارِ: مُسْنَداً عَنْ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ‌، قَالَ‌:</format> أَكْلُ مَا يَسْقُطُ مِنَ اَلْخِوَانِ‌، يَزِيدُ فِي اَلرِّزْقِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848654,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1247\"><heading level=\"2\">باب <format class=\"VD\">الاستشفاء بالملح</format>، و الابتداء به، و الختم به في الأكل</heading></p>"
+        },
+        {
+          "paragraphId": 687848655,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1248\"><format class=\"hadith\" who=\"14,6\" Id=\"246\" RevayatIndex=\"251\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</format>، عَنْ <format class=\"G\">هِشَامِ بْنِ سَالِمٍ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848656,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1249\"><format class=\"hadith\" who=\"14,6\" Id=\"246\" RevayatIndex=\"251\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>، <format class=\"maasoom\" maasoomNo=\"1\">لِعَلِيٍّ (عَلَيْهِ اَلسَّلاَمُ‌)</format>: اِفْتَتِحْ طَعَامَكَ بِالْمِلْحِ وَ اِخْتِمْ بِهِ‌، قَالَ‌: مَنِ اِفْتَتَحَ طَعَامَهُ بِالْمِلْحِ‌، وَ خَتَمَ بِهِ‌، عُوفِيَ مِنِ اِثْنَيْنِ وَ سَبْعِينَ نَوْعاً مِنْ أَنْوَاعِ اَلْبَلاَءِ‌، مِنْهُ‌: </format></p>"
+        },
+        {
+          "paragraphId": 687848657,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1250\"><format class=\"hadith\" who=\"14,6\" Id=\"246\" RevayatIndex=\"251\">اَلْجُنُونُ‌، وَ اَلْجُذَامُ‌، وَ اَلْبَرَصُ‌<lfootnote noteId=\"51\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 687848658,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1251\"><format class=\"hadith\" who=\"14,6\" Id=\"247\" RevayatIndex=\"252\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</format>، عَنِ <format class=\"G\">اِبْنِ بُكَيْرٍ</format>، عَنْ <format class=\"G\">زُرَارَةَ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848659,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1252\"><format class=\"hadith\" who=\"14,6\" Id=\"247\" RevayatIndex=\"252\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>، <format class=\"maasoom\" maasoomNo=\"1\">لِأَمِيرِ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</format>: يَا <format class=\"maasoom\" maasoomNo=\"1\">عَلِيُّ‌</format>! اِفْتَتِحْ بِالْمِلْحِ فِي طَعَامِكَ‌، وَ اِخْتِمْ بِالْمِلْحِ‌، فَإِنَّهُ مَنِ اِفْتَتَحَ طَعَامَهُ بِالْمِلْحِ‌، وَ خَتَمَهُ بِالْمِلْحِ‌، دَفَعَ اَللَّهُ عَنْهُ سَبْعِينَ نَوْعاً، مِنْ أَنْوَاعِ اَلْبَلاَءِ‌، أَيْسَرُهَا اَلْجُذَامُ‌<lfootnote noteId=\"52\">2</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 687848660,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1253\"><page number=\"110\"/><format class=\"hadith\" who=\"6,1\" Id=\"248\" RevayatIndex=\"253\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنِ <format class=\"G\">اَلْقَاسِمِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">جَدِّهِ اَلْحَسَنِ بْنِ رَاشِدٍ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ مُسْلِمٍ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851684,
+          "text": "<footnote id=\"51\"><page number=\"109\"/><mnote>(1)</mnote> نفس المصدر 326/6.</footnote>"
+        },
+        {
+          "footnoteId": 687851685,
+          "text": "<footnote id=\"52\"><mnote>(2)</mnote> الكافي 325/6.</footnote>"
+        }
+      ],
+      "pageValue": "109",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1243\" paragraph-id=\"1243\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo109\">109</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ رُوِيَ نَحْوُ هَذِهِ اَلْأَخْبَارُ فِي (<span class=\"K\">اَلْمَحَاسِنِ‌</span>) وَ (<span class=\"K\">اَلْمَكَارِمِ‌</span>):</span>\n    </span>\n  </p>\n  <p id=\"p1244\" paragraph-id=\"1244\" class=\" G\">\n    <span class=\"hadith\">رَأَى <span class=\"Y\"><span class=\"maasoom\">اَلنَّبِيُّ </span></span><span class=\"d\">أَبَا أَيُّوبَ اَلْأَنْصَارِيّ َ‌</span>، يَلْتَقِطُ نُثَارَ اَلْمَائِدَةِ‌، فَقَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌): بُورِكَ لَكَ‌، وَ بُورِكَ عَلَيْكَ‌، وَ بُورِكَ فِيكَ‌!.</span>\n  </p>\n  <p id=\"p1245\" paragraph-id=\"1245\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ <span class=\"d\">أَبُو أَيُّوبَ‌</span>: يَا <span class=\"maasoom\">رَسُولَ اَللَّهِ‌!</span> وَ لِغَيْرِي‌؟ قَالَ‌: نَعَمْ‌، مَنْ أَكَلَ مَا أَكَلْتَ‌، فَلَهُ مَا قُلْتُ لَكَ‌. وَ قَالَ‌: مَنْ فَعَلَ هَذَا، وَقَاهُ اَلْجُنُونَ‌، وَ اَلْجُذَامَ‌، وَ اَلْبَرَصَ‌، وَ اَلْمَاءَ اَلْأَصْفَرَ، وَ اَلْحُمْقَ‌.</span>\n  </p>\n  <p id=\"p1246\" paragraph-id=\"1246\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي اَلْبِحَارِ: مُسْنَداً عَنْ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ‌، قَالَ‌:</span> أَكْلُ مَا يَسْقُطُ مِنَ اَلْخِوَانِ‌، يَزِيدُ فِي اَلرِّزْقِ‌.</span>\n  </p>\n  <p id=\"p1247\" paragraph-id=\"1247\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">الاستشفاء بالملح</span>، و الابتداء به، و الختم به في الأكل</strong>\n  </p>\n  <p id=\"p1248\" paragraph-id=\"1248\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</span>، عَنْ <span class=\"G\">هِشَامِ بْنِ سَالِمٍ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1249\" paragraph-id=\"1249\" class=\" G\">\n    <span class=\"hadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>، <span class=\"maasoom\">لِعَلِيٍّ (عَلَيْهِ اَلسَّلاَمُ‌)</span>: اِفْتَتِحْ طَعَامَكَ بِالْمِلْحِ وَ اِخْتِمْ بِهِ‌، قَالَ‌: مَنِ اِفْتَتَحَ طَعَامَهُ بِالْمِلْحِ‌، وَ خَتَمَ بِهِ‌، عُوفِيَ مِنِ اِثْنَيْنِ وَ سَبْعِينَ نَوْعاً مِنْ أَنْوَاعِ اَلْبَلاَءِ‌، مِنْهُ‌: </span>\n  </p>\n  <p id=\"p1250\" paragraph-id=\"1250\" class=\" G\">\n    <span class=\"hadith\">اَلْجُنُونُ‌، وَ اَلْجُذَامُ‌، وَ اَلْبَرَصُ‌<span><sup><a class=\"NewFn\" href=\"#footnote51\" title=\"(1)  نفس المصدر 326/6.\">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1251\" paragraph-id=\"1251\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</span>، عَنِ <span class=\"G\">اِبْنِ بُكَيْرٍ</span>، عَنْ <span class=\"G\">زُرَارَةَ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1252\" paragraph-id=\"1252\" class=\" G\">\n    <span class=\"hadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>، <span class=\"maasoom\">لِأَمِيرِ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</span>: يَا <span class=\"maasoom\">عَلِيُّ‌</span>! اِفْتَتِحْ بِالْمِلْحِ فِي طَعَامِكَ‌، وَ اِخْتِمْ بِالْمِلْحِ‌، فَإِنَّهُ مَنِ اِفْتَتَحَ طَعَامَهُ بِالْمِلْحِ‌، وَ خَتَمَهُ بِالْمِلْحِ‌، دَفَعَ اَللَّهُ عَنْهُ سَبْعِينَ نَوْعاً، مِنْ أَنْوَاعِ اَلْبَلاَءِ‌، أَيْسَرُهَا اَلْجُذَامُ‌<span><sup><a class=\"NewFn\" href=\"#footnote52\" title=\"(2)  الكافي 325/6.\">2</a></sup></span>.</span>\n  </p>\n  <p id=\"p1253\" paragraph-id=\"1253\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote51\" footnote-id=\"51\">(1) <page number=\"109\" /> نفس المصدر 326/6.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote52\" footnote-id=\"52\">(2)  الكافي 325/6.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "8C3EB817-ED04-4ABB-A80A-F296E200C536",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,110 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 152,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849128,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1731\"><format class=\"hadith\" who=\"10\" Id=\"453\" RevayatIndex=\"461\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ شَمُّونٍ‌</format> قَالَ‌:</format> كَتَبْتُ إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"10\">أَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، إِنَّ بَعْضَ أَصْحَابِنَا يَشْكُونَ اَلْبَخَرَ، فَكَتَبَ إِلَيْهِ‌: كُلِ اَلتَّمْرَ اَلْبَرْنِيَّ‌. وَ كَتَبَ إِلَيْهِ آخَرُ يَشْكُو يُبْساً، فَكَتَبَ إِلَيْهِ‌: كُلِ اَلتَّمْرَ اَلْبَرْنِيَّ عَلَى اَلرِّيقِ‌، وَ اِشْرَبْ عَلَيْهِ اَلْمَاءَ‌، فَفَعَلَ فَسَمِنَ‌، وَ غَلَبَتْ عَلَيْهِ‌<page number=\"152\"/> اَلرُّطُوبَةُ‌، فَكَتَبَ إِلَيْهِ يَشْكُو ذَلِكَ‌، فَكَتَبَ إِلَيْهِ‌: كُلِ اَلتَّمْرَ اَلْبَرْنِيَّ عَلَى اَلرِّيقِ‌، وَ لاَ تَشْرَبْ عَلَيْهِ اَلْمَاءَ‌، فَفَعَلَ فَاعْتَدَلَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849129,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1732\"><format class=\"hadith\" who=\"6\" Id=\"454\" RevayatIndex=\"462\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ عَبْدِ اَللَّهِ اَلْهَمْدَانِيِّ‌</format>، عَنْ <format class=\"G\">أَبِي سَعِيدٍ اَلشَّامِيِّ‌</format>، عَنْ <format class=\"G\">صَالِحِ بْنِ عُقْبَةَ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849130,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1733\"><format class=\"hadith\" who=\"6\" Id=\"454\" RevayatIndex=\"462\"><format class=\"sanadHadith\">سَمِعْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> يَقُولُ‌:</format> أَطْعِمُوا اَلْبَرْنِيَّ نِسَاءَكُمْ فِي نِفَاسِهِنَّ تَحْلُمْ أَوْلاَدُكُمْ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849131,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1734\"><format class=\"hadith\" who=\"1\" Id=\"455\" RevayatIndex=\"463\"><format class=\"sanadHadith\">وَ فِي حَدِيثٍ آخَرَ لِأَمِيرِ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> خَيْرُ تَمَرَاتِكُمُ اَلْبَرْنِيُّ‌، فَأَطْعِمُوا نِسَاءَكُمْ فِي نِفَاسِهِنَّ يَخْرُجْ أَوْلاَدُكُمْ حُلَمَاءَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849132,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1735\"><format class=\"hadith\" who=\"6\" Id=\"456\" RevayatIndex=\"464\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">أَبِي اَلْقَاسِمِ‌</format>، وَ <format class=\"G\">يُونُسَ بْنِ يَزِيدَ اَلْقَنْدِيِّ‌</format>، عَنِ <format class=\"G\">اِبْنِ سِنَانٍ‌</format>، عَنْ <format class=\"G\">أَبِي اَلْبَخْتَرِيِّ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format> مَا اِسْتَشْفَعَتْ نُفَسَاءُ بِمِثْلِ اَلرُّطَبِ لِأَنَّ اَللَّهَ أَطْعَمَ <format class=\"d\">مَرْيَمَ‌</format> جَنِيّاً فِي نِفَاسِهَا.</format></p>"
+        },
+        {
+          "paragraphId": 687849133,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1736\"><format class=\"hadith\" who=\"13,6,14\" Id=\"457\" RevayatIndex=\"465\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْعِدَّةِ مِنْ أَصْحَابِهِ‌</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ أَسْبَاطٍ</format>، عَنْ <format class=\"G\">عَمِّهِ يَعْقُوبَ‌</format>، رَفَعَهُ إِلَى <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849134,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1737\"><format class=\"hadith\" who=\"13,6,14\" Id=\"457\" RevayatIndex=\"465\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>لِيَكُنْ أَوَّلُ مَا تَأْكُلُ اَلنُّفَسَاءُ اَلرُّطَبَ‌، قَالَ اَللَّهُ عَزَّ وَ جَلَّ <format class=\"d\">لِمَرْيَمَ‌</format> بِنْتِ عِمْرَانَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849135,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1738\"><format class=\"hadith\" who=\"13,6,14\" Id=\"457\" RevayatIndex=\"465\"><format class=\"ayah\" surah=\"19\" ayah=\"25\" toAyah=\"\">وَ هُزِّي إِلَيْكِ بِجِذْعِ اَلنَّخْلَةِ تُسٰاقِطْ عَلَيْكِ رُطَباً جَنِيًّا<format class=\"ayahWord\" fromWord=\"1\" toWord=\"9\"/><format class=\"ayahAddress\" surah=\"19\" ayah=\"25\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687849136,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1739\"><format class=\"hadith\" who=\"13,6,14\" Id=\"457\" RevayatIndex=\"465\">قِيلَ‌: يَا <format class=\"maasoom\" maasoomNo=\"14\">رَسُولَ اَللَّهِ‌</format>! فَإِنْ لَمْ يَكُنْ إِبَّانُ اَلرُّطَبِ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687849137,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1740\"><format class=\"hadith\" who=\"13,6,14\" Id=\"457\" RevayatIndex=\"465\">قَالَ‌: سَبْعَ تَمَرَاتٍ مِنْ تَمَرَاتِ <format class=\"t\">اَلْمَدِينَةِ‌</format>، فَإِنْ لَمْ يَكُنْ فَسَبْعَ تَمَرَاتٍ مِنْ تَمَرَاتِ أَمْصَارِكُمْ‌، فَإِنَّ اَللَّهَ تَبَارَكَ وَ تَعَالَى قَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849138,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1741\"><format class=\"hadith\" who=\"13,6,14\" Id=\"457\" RevayatIndex=\"465\">وَ عِزَّتِي وَ جَلاَلِي، وَ عَظَمَتِي وَ اِرْتِفَاعِ مَكَانِي، لاَ تَأْكُلُ نُفَسَاءُ يَوْمَ تَلِدُ اَلرُّطَبَ‌، فَيَكُونُ غُلاَماً، إِلاَّ كَانَ حَلِيماً، أَوْ كَانَتْ جَارِيَةً إِلاَّ تَكُونُ حَلِيمَةً‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849139,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1742\">وَ رَوَى فِي اَلْمَحَاسِنِ وَ اَلْمَكَارِمِ أَكْثَرَ اَلْأَخْبَارِ اَلْمُتَقَدِّمَةِ عَنِ اَلْكَافِي.</p>"
+        },
+        {
+          "paragraphId": 687849140,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1743\"><page number=\"153\"/><heading level=\"2\">باب <format class=\"VD\">التداوي بالعنب، و فوائده، و منافعه </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "152",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1731\" paragraph-id=\"1731\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo152\">152</span> اَلرُّطُوبَةُ‌، فَكَتَبَ إِلَيْهِ يَشْكُو ذَلِكَ‌، فَكَتَبَ إِلَيْهِ‌: كُلِ اَلتَّمْرَ اَلْبَرْنِيَّ عَلَى اَلرِّيقِ‌، وَ لاَ تَشْرَبْ عَلَيْهِ اَلْمَاءَ‌، فَفَعَلَ فَاعْتَدَلَ‌.</span>\n  </p>\n  <p id=\"p1732\" paragraph-id=\"1732\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ عَبْدِ اَللَّهِ اَلْهَمْدَانِيِّ‌</span>، عَنْ <span class=\"G\">أَبِي سَعِيدٍ اَلشَّامِيِّ‌</span>، عَنْ <span class=\"G\">صَالِحِ بْنِ عُقْبَةَ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1733\" paragraph-id=\"1733\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> يَقُولُ‌:</span> أَطْعِمُوا اَلْبَرْنِيَّ نِسَاءَكُمْ فِي نِفَاسِهِنَّ تَحْلُمْ أَوْلاَدُكُمْ‌.</span>\n  </p>\n  <p id=\"p1734\" paragraph-id=\"1734\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي حَدِيثٍ آخَرَ لِأَمِيرِ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> خَيْرُ تَمَرَاتِكُمُ اَلْبَرْنِيُّ‌، فَأَطْعِمُوا نِسَاءَكُمْ فِي نِفَاسِهِنَّ يَخْرُجْ أَوْلاَدُكُمْ حُلَمَاءَ‌.</span>\n  </p>\n  <p id=\"p1735\" paragraph-id=\"1735\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">أَبِي اَلْقَاسِمِ‌</span>، وَ <span class=\"G\">يُونُسَ بْنِ يَزِيدَ اَلْقَنْدِيِّ‌</span>، عَنِ <span class=\"G\">اِبْنِ سِنَانٍ‌</span>، عَنْ <span class=\"G\">أَبِي اَلْبَخْتَرِيِّ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span> مَا اِسْتَشْفَعَتْ نُفَسَاءُ بِمِثْلِ اَلرُّطَبِ لِأَنَّ اَللَّهَ أَطْعَمَ <span class=\"d\">مَرْيَمَ‌</span> جَنِيّاً فِي نِفَاسِهَا.</span>\n  </p>\n  <p id=\"p1736\" paragraph-id=\"1736\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلْعِدَّةِ مِنْ أَصْحَابِهِ‌</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ أَسْبَاطٍ</span>، عَنْ <span class=\"G\">عَمِّهِ يَعْقُوبَ‌</span>، رَفَعَهُ إِلَى <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1737\" paragraph-id=\"1737\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>لِيَكُنْ أَوَّلُ مَا تَأْكُلُ اَلنُّفَسَاءُ اَلرُّطَبَ‌، قَالَ اَللَّهُ عَزَّ وَ جَلَّ <span class=\"d\">لِمَرْيَمَ‌</span> بِنْتِ عِمْرَانَ‌:</span>\n  </p>\n  <p id=\"p1738\" paragraph-id=\"1738\" class=\" G\">\n    <span class=\"hadith\">\n      <span style=\"0\" class=\"ayah\" surah=\"19\" ayah=\"25\">وَ هُزِّي إِلَيْكِ بِجِذْعِ اَلنَّخْلَةِ تُسٰاقِطْ عَلَيْكِ رُطَباً جَنِيًّا<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/19/25\"></a></span></span>.</span>\n  </p>\n  <p id=\"p1739\" paragraph-id=\"1739\" class=\" G\">\n    <span class=\"hadith\">قِيلَ‌: يَا <span class=\"maasoom\">رَسُولَ اَللَّهِ‌</span>! فَإِنْ لَمْ يَكُنْ إِبَّانُ اَلرُّطَبِ؟.</span>\n  </p>\n  <p id=\"p1740\" paragraph-id=\"1740\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: سَبْعَ تَمَرَاتٍ مِنْ تَمَرَاتِ <span class=\"t\">اَلْمَدِينَةِ‌</span>، فَإِنْ لَمْ يَكُنْ فَسَبْعَ تَمَرَاتٍ مِنْ تَمَرَاتِ أَمْصَارِكُمْ‌، فَإِنَّ اَللَّهَ تَبَارَكَ وَ تَعَالَى قَالَ‌:</span>\n  </p>\n  <p id=\"p1741\" paragraph-id=\"1741\" class=\" G\">\n    <span class=\"hadith\">وَ عِزَّتِي وَ جَلاَلِي، وَ عَظَمَتِي وَ اِرْتِفَاعِ مَكَانِي، لاَ تَأْكُلُ نُفَسَاءُ يَوْمَ تَلِدُ اَلرُّطَبَ‌، فَيَكُونُ غُلاَماً، إِلاَّ كَانَ حَلِيماً، أَوْ كَانَتْ جَارِيَةً إِلاَّ تَكُونُ حَلِيمَةً‌.</span>\n  </p>\n  <p id=\"p1742\" paragraph-id=\"1742\" class=\" G\">وَ رَوَى فِي اَلْمَحَاسِنِ وَ اَلْمَكَارِمِ أَكْثَرَ اَلْأَخْبَارِ اَلْمُتَقَدِّمَةِ عَنِ اَلْكَافِي.</p>\n  <p id=\"p1743\" paragraph-id=\"1743\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "1FA3F233-4AFD-425F-A59C-4BFE52704B09",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,115 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 133,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848496,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1515\"><format class=\"hadith\" who=\"6\" Id=\"360\" RevayatIndex=\"368\"><page number=\"133\"/>شَكَا رَجُلٌ إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، فَقَالَ‌: إِنِّي رَجُلٌ شَاكٍ‌! فَقَالَ‌: أَيْنَ هُوَ عَنِ اَلْمُبَارَكِ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687848497,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1516\"><format class=\"hadith\" who=\"6\" Id=\"360\" RevayatIndex=\"368\">فَقُلْتُ‌: جُعِلْتُ فِدَاكَ‌! وَ مَا اَلْمُبَارَكُ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687848498,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1517\"><format class=\"hadith\" who=\"6\" Id=\"360\" RevayatIndex=\"368\">قَالَ‌: اَلسُّكَّرُ.</format></p>"
+        },
+        {
+          "paragraphId": 687848499,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1518\"><format class=\"hadith\" who=\"6\" Id=\"360\" RevayatIndex=\"368\">قُلْتُ‌: أَيُّ اَلسُّكَّرِ جُعِلْتُ فِدَاكَ‌!.</format></p>"
+        },
+        {
+          "paragraphId": 687848500,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1519\"><format class=\"hadith\" who=\"6\" Id=\"360\" RevayatIndex=\"368\">قَالَ‌: سُلَيْمَانِيُّكُمْ هَذَا!</format></p>"
+        },
+        {
+          "paragraphId": 687848501,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1520\"><format class=\"hadith\" who=\"6\" Id=\"361\" RevayatIndex=\"369\"><format class=\"sanadHadith\">اَلْمَكَارِمِ‌: عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> يُؤْخَذُ لِلْحُمَّى وَزْنُ عَشَرَةِ دَرَاهِمَ سُكَّرٍ، بِمَاءٍ بَارِدٍ عَلَى اَلرِّيقِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848502,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1521\"><format class=\"hadith\" who=\"5\" Id=\"362\" RevayatIndex=\"370\"><format class=\"sanadHadith\"><format class=\"K\">طِبِّ اَلْأَئِمَّةِ‌</format>: عَنْ <format class=\"G\">حَمْدَانَ بْنِ أَعْيَنَ اَلرَّازِيِّ‌</format>، عَنْ <format class=\"G\">صَفْوَانَ‌</format>، عَنْ <format class=\"G\">جَمِيلِ بْنِ دَرَّاجٍ‌</format>، عَنْ <format class=\"G\">زُرَارَةَ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أَبِي جَعْفَرٍ اَلْبَاقِرِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848503,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1522\"><format class=\"hadith\" who=\"5\" Id=\"362\" RevayatIndex=\"370\">وَيْحَكَ يَا <format class=\"d\">زُرَارَةُ‌</format>، مَا أَغْفَلَ اَلنَّاسَ عَنْ فَضْلِ اَلسُّكَّرِ اَلطَّبَرْزَدِ<lfootnote noteId=\"76\">1</lfootnote>، وَ هُوَ يَنْفَعُ مِنْ سَبْعِينَ دَاءً‌، وَ هُوَ يَأْكُلُ اَلْبَلْغَمَ أَكْلاً، وَ يَقْلَعُهُ بِأَصْلِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848504,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1523\"><heading level=\"2\">باب <format class=\"VD\">التداوي باللبن الحليب </format>و أقسامه و منافعه</heading></p>"
+        },
+        {
+          "paragraphId": 687848505,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1524\"><format class=\"hadith\" who=\"14,5\" Id=\"363\" RevayatIndex=\"371\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">اَلْعِدَّةُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</format>، عَنِ <format class=\"G\">اَلرَّبِيعِ بْنِ مُحَمَّدٍ اَلْمُسْلِيِّ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ سُلَيْمَانَ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"5\">أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848506,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1525\"><format class=\"hadith\" who=\"14,5\" Id=\"363\" RevayatIndex=\"371\">لَمْ يَكُنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>، يَأْكُلُ طَعَاماً، وَ لاَ يَشْرَبُ شَرَاباً إِلاَّ قَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687848507,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1526\"><format class=\"hadith\" who=\"14,5\" Id=\"363\" RevayatIndex=\"371\">«اَللَّهُمَّ بَارِكْ لَنَا فِيهِ‌، وَ أَبْدِلْنَا بِهِ خَيْراً مِنْهُ‌» إِلاَّ اَللَّبَنَ‌، فَإِنَّهُ كَانَ يَقُولُ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687848508,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1527\"><format class=\"hadith\" who=\"14,5\" Id=\"363\" RevayatIndex=\"371\"><page number=\"134\"/>«اَللَّهُمَّ بَارِكْ لَنَا فِيهِ‌، وَ زِدْنَا مِنْهُ‌»<lfootnote noteId=\"77\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851709,
+          "text": "<footnote id=\"76\"><page number=\"133\"/><mnote>(1)</mnote> قال الفيروزآبادي: الطبرزد: السكّر معرّب، كأنّه نحت من نواحيه بفأس. (ع).</footnote>"
+        }
+      ],
+      "pageValue": "133",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1515\" paragraph-id=\"1515\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo133\">133</span>شَكَا رَجُلٌ إِلَى <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، فَقَالَ‌: إِنِّي رَجُلٌ شَاكٍ‌! فَقَالَ‌: أَيْنَ هُوَ عَنِ اَلْمُبَارَكِ؟.</span>\n  </p>\n  <p id=\"p1516\" paragraph-id=\"1516\" class=\" G\">\n    <span class=\"hadith\">فَقُلْتُ‌: جُعِلْتُ فِدَاكَ‌! وَ مَا اَلْمُبَارَكُ؟.</span>\n  </p>\n  <p id=\"p1517\" paragraph-id=\"1517\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: اَلسُّكَّرُ.</span>\n  </p>\n  <p id=\"p1518\" paragraph-id=\"1518\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أَيُّ اَلسُّكَّرِ جُعِلْتُ فِدَاكَ‌!.</span>\n  </p>\n  <p id=\"p1519\" paragraph-id=\"1519\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: سُلَيْمَانِيُّكُمْ هَذَا!</span>\n  </p>\n  <p id=\"p1520\" paragraph-id=\"1520\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْمَكَارِمِ‌: عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> يُؤْخَذُ لِلْحُمَّى وَزْنُ عَشَرَةِ دَرَاهِمَ سُكَّرٍ، بِمَاءٍ بَارِدٍ عَلَى اَلرِّيقِ‌.</span>\n  </p>\n  <p id=\"p1521\" paragraph-id=\"1521\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">طِبِّ اَلْأَئِمَّةِ‌</span>: عَنْ <span class=\"G\">حَمْدَانَ بْنِ أَعْيَنَ اَلرَّازِيِّ‌</span>، عَنْ <span class=\"G\">صَفْوَانَ‌</span>، عَنْ <span class=\"G\">جَمِيلِ بْنِ دَرَّاجٍ‌</span>، عَنْ <span class=\"G\">زُرَارَةَ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي جَعْفَرٍ اَلْبَاقِرِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1522\" paragraph-id=\"1522\" class=\" G\">\n    <span class=\"hadith\">وَيْحَكَ يَا <span class=\"d\">زُرَارَةُ‌</span>، مَا أَغْفَلَ اَلنَّاسَ عَنْ فَضْلِ اَلسُّكَّرِ اَلطَّبَرْزَدِ<span><sup><a class=\"NewFn\" href=\"#footnote76\" title=\"(1)  قال الفيروزآبادي: الطبرزد: السكّر معرّب، كأنّه نحت من نواحيه بفأس. (ع).\">1</a></sup></span>، وَ هُوَ يَنْفَعُ مِنْ سَبْعِينَ دَاءً‌، وَ هُوَ يَأْكُلُ اَلْبَلْغَمَ أَكْلاً، وَ يَقْلَعُهُ بِأَصْلِهِ‌.</span>\n  </p>\n  <p id=\"p1523\" paragraph-id=\"1523\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي باللبن الحليب </span>و أقسامه و منافعه</strong>\n  </p>\n  <p id=\"p1524\" paragraph-id=\"1524\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">اَلْعِدَّةُ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</span>، عَنِ <span class=\"G\">اَلرَّبِيعِ بْنِ مُحَمَّدٍ اَلْمُسْلِيِّ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ سُلَيْمَانَ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1525\" paragraph-id=\"1525\" class=\" G\">\n    <span class=\"hadith\">لَمْ يَكُنْ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>، يَأْكُلُ طَعَاماً، وَ لاَ يَشْرَبُ شَرَاباً إِلاَّ قَالَ‌:</span>\n  </p>\n  <p id=\"p1526\" paragraph-id=\"1526\" class=\" G\">\n    <span class=\"hadith\">«اَللَّهُمَّ بَارِكْ لَنَا فِيهِ‌، وَ أَبْدِلْنَا بِهِ خَيْراً مِنْهُ‌» إِلاَّ اَللَّبَنَ‌، فَإِنَّهُ كَانَ يَقُولُ‌:</span>\n  </p>\n  <p id=\"p1527\" paragraph-id=\"1527\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote76\" footnote-id=\"76\">(1) <page number=\"133\" /> قال الفيروزآبادي: الطبرزد: السكّر معرّب، كأنّه نحت من نواحيه بفأس. (ع).</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5AD2AE68-FD6F-48B7-A81E-4DC43E778688",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

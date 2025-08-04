@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 107,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848631,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1224\"><page number=\"107\"/><format class=\"hadith\" who=\"1,5\" Id=\"237\" RevayatIndex=\"241\"><format class=\"sanadHadith\"><format class=\"K\">طِبِّ اَلْأَئِمَّةِ‌</format>: عَنْ <format class=\"G\">مُحَمَّدِ بْنِ جَعْفَرٍ اَلْبُرْسِيِّ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format> اَلْأَرْمَنِيِّ‌، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ سِنَانٍ‌</format>، عَنْ <format class=\"G\">يُونُسَ بْنِ ظَبْيَانَ‌</format>، عَنْ <format class=\"G\">جَابِرٍ</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"5\">أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848632,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1225\"><format class=\"hadith\" who=\"1,5\" Id=\"237\" RevayatIndex=\"241\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>«مَنْ أَرَادَ أَنْ لاَ يَضُرَّهُ طَعَامٌ‌، فَلاَ يَأْكُلْ حَتَّى يَجُوعَ‌، فَإِذَا أَكَلَ‌، فَلْيَقُلْ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687848633,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1226\"><format class=\"hadith\" who=\"1,5\" Id=\"237\" RevayatIndex=\"241\"><format class=\"semicolon\">«بِسْمِ اَللَّهِ وَ بِاللَّهِ‌»</format> وَ لْيُجِدِ اَلْمَضْغَ‌، وَ لْيَكُفَّ عَنِ اَلطَّعَامِ وَ هُوَ يَشْتَهِيهِ‌، وَ لْيَدَعْهُ وَ هُوَ يَحْتَاجُ إِلَيْهِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848634,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1227\"><format class=\"hadith\" who=\"6\" Id=\"238\" RevayatIndex=\"242\"><format class=\"sanadHadith\"><format class=\"K\">اَلْمَكَارِمِ‌</format>: عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> مَا اِتَّخَمْتُ قَطُّ، وَ ذَلِكَ أَنِّي لَمْ أَبْدَأْ بِطَعَامٍ إِلاَّ قُلْتُ‌: «بِسْمِ اَللَّهِ‌»، وَ لَمْ أَفْرُغْ مِنْهُ إِلاَّ قُلْتُ‌: «اَلْحَمْدُ لِلَّهِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848635,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1228\"><format class=\"hadith\" who=\"1\" Id=\"239\" RevayatIndex=\"243\"><format class=\"sanadHadith\">وَ عَنْ أَمِيرِ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> أَنَّهُ قَالَ لاِبْنِهِ اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌): «يَا بُنَيَّ‌! لاَ تَطْعَمَنَّ لُقْمَةً مِنْ حَارٍّ، وَ لاَ بَارِدٍ، وَ لاَ تَشْرَبَنَّ شَرْبَةً وَ جُرْعَةً‌، إِلاَّ وَ أَنْتَ تَقُولُ‌، قَبْلَ أَنْ تَأْكُلَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848636,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1229\"><format class=\"hadith\" who=\"1\" Id=\"239\" RevayatIndex=\"243\">«اَللَّهُمَّ إِنِّي أَسْأَلُكَ‌، فِي أَكْلِي وَ شُرْبِيَ‌، اَلسَّلاَمَةَ مِنْ وَعْكِهِ‌، وَ اَلْقُوَّةَ بِهِ عَلَى طَاعَتِكَ‌، وَ ذِكْرَكَ‌، وَ شُكْرَكَ‌، فِيمَا أَبْقَيْتَهُ فِي بَدَنِي، وَ أَنْ تُشَجِّعَنِي بِقُوَّتِهَا عَلَى عِبَادَتِكَ‌، وَ أَنْ تُلْهِمَنِي حُسْنَ اَلْحِرْزِ مِنْ مَعْصِيَتِكَ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848637,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1230\"><format class=\"hadith\" who=\"1\" Id=\"239\" RevayatIndex=\"243\">فَإِنَّكَ إِنْ فَعَلْتَ ذَلِكَ‌، أَمِنْتَ وَعْكَهُ‌، وَ غَائِلَتَهُ‌. (اَلْحَدِيثِ‌)<lfootnote noteId=\"48\">1</lfootnote>. 14 - <format class=\"RevayatIndex\" index=\"244\"/><format class=\"sanadHadith\">عَنِ اَلْفِرْدَوْسِ‌; عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌، قَالَ‌:</format> إِذَا أَكَلْتَ طَعَاماً، أَوْ شَرِبْتَ شَرَاباً، فَقُلْ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687848638,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1231\"><format class=\"hadith\" who=\"1\" Id=\"239\" RevayatIndex=\"243\">«بِسْمِ اَللَّهِ‌، وَ بِاللَّهِ اَلَّذِي لاَ يَضُرُّ مَعَ اِسْمِهِ شَيْ‌ءٌ فِي اَلْأَرْضِ‌، وَ لاَ فِي اَلسَّمَاءِ‌، يَا حَيُّ‌، يَا قَيُّومُ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848639,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1232\"><format class=\"hadith\" who=\"1\" Id=\"239\" RevayatIndex=\"243\">لَمْ يُصِبْكَ مِنْهُ دَاءٌ‌، وَ لَوْ كَانَ فِيهِ سَمٌّ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848640,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1233\"><page number=\"108\"/><heading level=\"2\">باب <format class=\"BM\">الاستشفاء بما يسقط من الخوان، و فوائده </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851681,
+          "text": "<footnote id=\"48\"><page number=\"107\"/><mnote>(1)</mnote> كلمة مطموسة في الأصل.</footnote>"
+        }
+      ],
+      "pageValue": "107",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1224\" paragraph-id=\"1224\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo107\">107</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">طِبِّ اَلْأَئِمَّةِ‌</span>: عَنْ <span class=\"G\">مُحَمَّدِ بْنِ جَعْفَرٍ اَلْبُرْسِيِّ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span> اَلْأَرْمَنِيِّ‌، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ سِنَانٍ‌</span>، عَنْ <span class=\"G\">يُونُسَ بْنِ ظَبْيَانَ‌</span>، عَنْ <span class=\"G\">جَابِرٍ</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1225\" paragraph-id=\"1225\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>«مَنْ أَرَادَ أَنْ لاَ يَضُرَّهُ طَعَامٌ‌، فَلاَ يَأْكُلْ حَتَّى يَجُوعَ‌، فَإِذَا أَكَلَ‌، فَلْيَقُلْ‌:</span>\n  </p>\n  <p id=\"p1226\" paragraph-id=\"1226\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"semicolon\">«بِسْمِ اَللَّهِ وَ بِاللَّهِ‌»</span> وَ لْيُجِدِ اَلْمَضْغَ‌، وَ لْيَكُفَّ عَنِ اَلطَّعَامِ وَ هُوَ يَشْتَهِيهِ‌، وَ لْيَدَعْهُ وَ هُوَ يَحْتَاجُ إِلَيْهِ‌».</span>\n  </p>\n  <p id=\"p1227\" paragraph-id=\"1227\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْمَكَارِمِ‌</span>: عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> مَا اِتَّخَمْتُ قَطُّ، وَ ذَلِكَ أَنِّي لَمْ أَبْدَأْ بِطَعَامٍ إِلاَّ قُلْتُ‌: «بِسْمِ اَللَّهِ‌»، وَ لَمْ أَفْرُغْ مِنْهُ إِلاَّ قُلْتُ‌: «اَلْحَمْدُ لِلَّهِ‌».</span>\n  </p>\n  <p id=\"p1228\" paragraph-id=\"1228\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ أَمِيرِ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌):</span> أَنَّهُ قَالَ لاِبْنِهِ اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌): «يَا بُنَيَّ‌! لاَ تَطْعَمَنَّ لُقْمَةً مِنْ حَارٍّ، وَ لاَ بَارِدٍ، وَ لاَ تَشْرَبَنَّ شَرْبَةً وَ جُرْعَةً‌، إِلاَّ وَ أَنْتَ تَقُولُ‌، قَبْلَ أَنْ تَأْكُلَهُ‌.</span>\n  </p>\n  <p id=\"p1229\" paragraph-id=\"1229\" class=\" G\">\n    <span class=\"hadith\">«اَللَّهُمَّ إِنِّي أَسْأَلُكَ‌، فِي أَكْلِي وَ شُرْبِيَ‌، اَلسَّلاَمَةَ مِنْ وَعْكِهِ‌، وَ اَلْقُوَّةَ بِهِ عَلَى طَاعَتِكَ‌، وَ ذِكْرَكَ‌، وَ شُكْرَكَ‌، فِيمَا أَبْقَيْتَهُ فِي بَدَنِي، وَ أَنْ تُشَجِّعَنِي بِقُوَّتِهَا عَلَى عِبَادَتِكَ‌، وَ أَنْ تُلْهِمَنِي حُسْنَ اَلْحِرْزِ مِنْ مَعْصِيَتِكَ‌».</span>\n  </p>\n  <p id=\"p1230\" paragraph-id=\"1230\" class=\" G\">\n    <span class=\"hadith\">فَإِنَّكَ إِنْ فَعَلْتَ ذَلِكَ‌، أَمِنْتَ وَعْكَهُ‌، وَ غَائِلَتَهُ‌. (اَلْحَدِيثِ‌)<span><sup><a class=\"NewFn\" href=\"#footnote48\" title=\"(1)  كلمة مطموسة في الأصل.\">1</a></sup></span>. 14 - <span class=\"RevayatIndex\"></span><span class=\"sanadHadith\">عَنِ اَلْفِرْدَوْسِ‌; عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌، قَالَ‌:</span> إِذَا أَكَلْتَ طَعَاماً، أَوْ شَرِبْتَ شَرَاباً، فَقُلْ‌:</span>\n  </p>\n  <p id=\"p1231\" paragraph-id=\"1231\" class=\" G\">\n    <span class=\"hadith\">«بِسْمِ اَللَّهِ‌، وَ بِاللَّهِ اَلَّذِي لاَ يَضُرُّ مَعَ اِسْمِهِ شَيْ‌ءٌ فِي اَلْأَرْضِ‌، وَ لاَ فِي اَلسَّمَاءِ‌، يَا حَيُّ‌، يَا قَيُّومُ‌».</span>\n  </p>\n  <p id=\"p1232\" paragraph-id=\"1232\" class=\" G\">\n    <span class=\"hadith\">لَمْ يُصِبْكَ مِنْهُ دَاءٌ‌، وَ لَوْ كَانَ فِيهِ سَمٌّ‌.</span>\n  </p>\n  <p id=\"p1233\" paragraph-id=\"1233\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote48\" footnote-id=\"48\">(1) <page number=\"107\" /> كلمة مطموسة في الأصل.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "7443EEBC-2D1E-4CDA-8238-021B1A52630D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

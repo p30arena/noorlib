@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 144,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849038,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1641\"><page number=\"144\"/><format class=\"hadith\" who=\"14,8\" Id=\"412\" RevayatIndex=\"420\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"8\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، عَنْ <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"7\">أَبِيهِ‌</format></format> عَنْ <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"6\">جَدِّهِ‌</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849039,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1642\"><format class=\"hadith\" who=\"14,8\" Id=\"412\" RevayatIndex=\"420\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>سَيِّدُ طَعَامِ اَلدُّنْيَا وَ اَلْآخِرَةِ‌، اَللَّحْمُ وَ اَلْأَرُزُّ.</format></p>"
+        },
+        {
+          "paragraphId": 687849040,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1643\"><format class=\"hadith\" who=\"14,6\" Id=\"413\" RevayatIndex=\"421\"><format class=\"sanadHadith\">دَعَوَاتُ اَلرَّاوَنْدِيِّ‌: عَنِ <format class=\"G\">اَلْمُفَضَّلِ بْنِ عُمَرَ</format> قَالَ‌:</format> دَخَلْتُ عَلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، بِالْغَدَاةِ‌، وَ هُوَ عَلَى اَلْمَائِدَةِ‌، فَقَالَ‌: تَعَالَ يَا <format class=\"G\">مُفَضَّلُ‌</format> إِلَى اَلْغَدَاءِ‌، فَقُلْتُ‌: يَا سَيِّدِي! قَدْ تَغَدَّيْتُ‌! قَالَ‌: وَيْحَكَ فَإِنَّهُ أَرُزٌّ! فَقُلْتُ يَا سَيِّدِي! قَدْ فَعَلْتُ‌. فَقَالَ‌: تَعَالَ حَتَّى أَرْوِيَ لَكَ حَدِيثاً. فَدَنَوْتُ مِنْهُ‌، فَجَلَسْتُ‌، فَقَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849041,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1644\"><format class=\"hadith\" who=\"14,6\" Id=\"413\" RevayatIndex=\"421\">حَدَّثَنِي <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"5\">أَبِي</format></format>، عَنْ <format class=\"maasoom\" maasoomNo=\"\">آبَائِهِ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولِ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>، قَالَ‌: أَوَّلُ حَبَّةٍ أَقَرَّتْ لِلَّهِ بِالْوَحْدَانِيَّةِ‌، وَ لِيَ بِالنُّبُوَّةِ‌، وَ لِأَخِي <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">عَلِيٍّ‌</format></format> بِالْوَصِيَّةِ وَ لِأُمَّتِيَ اَلْمُوَحِّدِينَ <format class=\"t\">بِالْجَنَّةِ‌</format>: اَلْأَرُزُّ. </format></p>"
+        },
+        {
+          "paragraphId": 687849042,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1645\"><format class=\"hadith\" who=\"14,6\" Id=\"413\" RevayatIndex=\"421\">ثُمَّ قَالَ‌: اِزْدَدْ أَكْلاً حَتَّى أَزِيدَكَ عِلْماً، فَازْدَدْتُ أَكْلاً، فَقَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849043,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1646\"><format class=\"hadith\" who=\"14,6\" Id=\"413\" RevayatIndex=\"421\">حَدَّثَنِي أَبِي، عَنْ آبَائِهِ‌، عَنِ <format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format>، قَالَ‌: كُلُّ شَيْ‌ءٍ أَخْرَجَتِ اَلْأَرْضُ‌، فَفِيهِ دَاءٌ وَ شِفَاءٌ‌، إِلاَّ اَلْأَرُزَّ، فَإِنَّهُ شِفَاءٌ لاَ دَاءَ فِيهِ‌. ثُمَّ قَالَ‌: اِزْدَدْ أَكْلاً حَتَّى أَزِيدَكَ عِلْماً، فَازْدَدْتُ أَكْلاً فَقَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849044,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1647\"><format class=\"hadith\" who=\"14,6\" Id=\"413\" RevayatIndex=\"421\">حَدَّثَنِي أَبِي عَنْ آبَائِهِ عَنِ <format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format> أَنَّهُ قَالَ‌: لَوْ كَانَ اَلْأَرُزُّ رَجُلاً، لَكَانَ حَلِيماً، ثُمَّ قَالَ‌: اِزْدَدْ أَكْلاً حَتَّى أَزِيدَكَ عِلْماً، فَازْدَدْتُ أَكْلاً، فَقَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849045,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1648\"><format class=\"hadith\" who=\"14,6\" Id=\"413\" RevayatIndex=\"421\">حَدَّثَنِي أَبِي، عَنْ آبَائِهِ‌، عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ أَنَّهُ قَالَ‌: إِنَّ اَلْأَرُزَّ يُشْبِعُ اَلْجَائِعَ‌، وَ يُمْرِئُ اَلشَّبْعَانَ‌، وَ قَالَ‌: كَانَ أَحَبُّ اَلطَّعَامِ إِلَى رَسُولِ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ اَلنَّارَبَاجَةَ‌<lfootnote noteId=\"84\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 687849046,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1649\"><heading level=\"2\">باب <format class=\"VD\">التداوي بالعدس و الحمص </format></heading></p>"
+        },
+        {
+          "paragraphId": 687849047,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1650\"><format class=\"hadith\" who=\"8\" Id=\"414\" RevayatIndex=\"422\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">اَلْعِدَّةُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ</format>، عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849048,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1651\"><format class=\"hadith\" who=\"8\" Id=\"414\" RevayatIndex=\"422\">اَلْحِمَّصُ جَيِّدٌ لِوَجَعِ اَلظَّهْرِ، وَ كَانَ يَدْعُو بِهِ قَبْلَ اَلطَّعَامِ‌، وَ بَعْدَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849049,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1652\"><page number=\"145\"/><format class=\"hadith\" who=\"\" Id=\"414\" RevayatIndex=\"\"><format class=\"sanadHadith\">وَ نَحْوُهُ فِي اَلْمَحَاسِنِ‌، وَ اَلْمَكَارِمِ‌:</format>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851717,
+          "text": "<footnote id=\"84\"><page number=\"144\"/><mnote>(1)</mnote> نوع من الأطعمة فيه كثير من الأرز.</footnote>"
+        }
+      ],
+      "pageValue": "144",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1641\" paragraph-id=\"1641\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo144\">144</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"HQ\"><span class=\"maasoom\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، عَنْ <span class=\"G\"><span class=\"maasoom\">أَبِيهِ‌</span></span> عَنْ <span class=\"G\"><span class=\"maasoom\">جَدِّهِ‌</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1642\" paragraph-id=\"1642\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>سَيِّدُ طَعَامِ اَلدُّنْيَا وَ اَلْآخِرَةِ‌، اَللَّحْمُ وَ اَلْأَرُزُّ.</span>\n  </p>\n  <p id=\"p1643\" paragraph-id=\"1643\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">دَعَوَاتُ اَلرَّاوَنْدِيِّ‌: عَنِ <span class=\"G\">اَلْمُفَضَّلِ بْنِ عُمَرَ</span> قَالَ‌:</span> دَخَلْتُ عَلَى <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، بِالْغَدَاةِ‌، وَ هُوَ عَلَى اَلْمَائِدَةِ‌، فَقَالَ‌: تَعَالَ يَا <span class=\"G\">مُفَضَّلُ‌</span> إِلَى اَلْغَدَاءِ‌، فَقُلْتُ‌: يَا سَيِّدِي! قَدْ تَغَدَّيْتُ‌! قَالَ‌: وَيْحَكَ فَإِنَّهُ أَرُزٌّ! فَقُلْتُ يَا سَيِّدِي! قَدْ فَعَلْتُ‌. فَقَالَ‌: تَعَالَ حَتَّى أَرْوِيَ لَكَ حَدِيثاً. فَدَنَوْتُ مِنْهُ‌، فَجَلَسْتُ‌، فَقَالَ‌:</span>\n  </p>\n  <p id=\"p1644\" paragraph-id=\"1644\" class=\" G\">\n    <span class=\"hadith\">حَدَّثَنِي <span class=\"BD\"><span class=\"maasoom\">أَبِي</span></span>، عَنْ <span class=\"maasoom\">آبَائِهِ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">رَسُولِ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>، قَالَ‌: أَوَّلُ حَبَّةٍ أَقَرَّتْ لِلَّهِ بِالْوَحْدَانِيَّةِ‌، وَ لِيَ بِالنُّبُوَّةِ‌، وَ لِأَخِي <span class=\"BD\"><span class=\"maasoom\">عَلِيٍّ‌</span></span> بِالْوَصِيَّةِ وَ لِأُمَّتِيَ اَلْمُوَحِّدِينَ <span class=\"t\">بِالْجَنَّةِ‌</span>: اَلْأَرُزُّ. </span>\n  </p>\n  <p id=\"p1645\" paragraph-id=\"1645\" class=\" G\">\n    <span class=\"hadith\">ثُمَّ قَالَ‌: اِزْدَدْ أَكْلاً حَتَّى أَزِيدَكَ عِلْماً، فَازْدَدْتُ أَكْلاً، فَقَالَ‌:</span>\n  </p>\n  <p id=\"p1646\" paragraph-id=\"1646\" class=\" G\">\n    <span class=\"hadith\">حَدَّثَنِي أَبِي، عَنْ آبَائِهِ‌، عَنِ <span class=\"maasoom\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span>، قَالَ‌: كُلُّ شَيْ‌ءٍ أَخْرَجَتِ اَلْأَرْضُ‌، فَفِيهِ دَاءٌ وَ شِفَاءٌ‌، إِلاَّ اَلْأَرُزَّ، فَإِنَّهُ شِفَاءٌ لاَ دَاءَ فِيهِ‌. ثُمَّ قَالَ‌: اِزْدَدْ أَكْلاً حَتَّى أَزِيدَكَ عِلْماً، فَازْدَدْتُ أَكْلاً فَقَالَ‌:</span>\n  </p>\n  <p id=\"p1647\" paragraph-id=\"1647\" class=\" G\">\n    <span class=\"hadith\">حَدَّثَنِي أَبِي عَنْ آبَائِهِ عَنِ <span class=\"maasoom\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span> أَنَّهُ قَالَ‌: لَوْ كَانَ اَلْأَرُزُّ رَجُلاً، لَكَانَ حَلِيماً، ثُمَّ قَالَ‌: اِزْدَدْ أَكْلاً حَتَّى أَزِيدَكَ عِلْماً، فَازْدَدْتُ أَكْلاً، فَقَالَ‌:</span>\n  </p>\n  <p id=\"p1648\" paragraph-id=\"1648\" class=\" G\">\n    <span class=\"hadith\">حَدَّثَنِي أَبِي، عَنْ آبَائِهِ‌، عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ أَنَّهُ قَالَ‌: إِنَّ اَلْأَرُزَّ يُشْبِعُ اَلْجَائِعَ‌، وَ يُمْرِئُ اَلشَّبْعَانَ‌، وَ قَالَ‌: كَانَ أَحَبُّ اَلطَّعَامِ إِلَى رَسُولِ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ اَلنَّارَبَاجَةَ‌<span><sup><a class=\"NewFn\" href=\"#footnote84\" title=\"(1)  نوع من الأطعمة فيه كثير من الأرز.\">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1649\" paragraph-id=\"1649\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي بالعدس و الحمص </span></strong>\n  </p>\n  <p id=\"p1650\" paragraph-id=\"1650\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">اَلْعِدَّةُ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ</span>، عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1651\" paragraph-id=\"1651\" class=\" G\">\n    <span class=\"hadith\">اَلْحِمَّصُ جَيِّدٌ لِوَجَعِ اَلظَّهْرِ، وَ كَانَ يَدْعُو بِهِ قَبْلَ اَلطَّعَامِ‌، وَ بَعْدَهُ‌.</span>\n  </p>\n  <p id=\"p1652\" paragraph-id=\"1652\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote84\" footnote-id=\"84\">(1) <page number=\"144\" /> نوع من الأطعمة فيه كثير من الأرز.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "27E81E06-10C7-4483-82E0-BC45848367FB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

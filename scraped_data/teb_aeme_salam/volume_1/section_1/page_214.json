@@ -1,0 +1,116 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 214,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849788,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2403\"><page number=\"214\"/><format class=\"hadith\" who=\"6\" Id=\"769\" RevayatIndex=\"782\"><format class=\"sanadHadith\">وَ عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> مَنْ تَنَخَّعَ فِي مَسْجِدٍ، ثُمَّ رَدَّهَا فِي جَوْفِهِ‌، لَمْ تَجُزْ يَدَاهُ إِلاَّ أَبْرَأَتْهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849789,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2404\">و قد مرّ في الابتداء بالملح و الاختتام به، و أكل ما يسقط من المائدة ما له دخل في المقام.</p>"
+        },
+        {
+          "paragraphId": 687849790,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2405\"><format class=\"hadith\" who=\"14\" Id=\"770\" RevayatIndex=\"783\"><format class=\"sanadHadith\">فَعَنْهُ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> مَنْ أَكَلَ اَلْمِلْحَ قَبْلَ كُلِّ شَيْ‌ءٍ‌، أَوْ بَعْدَ كُلِّ شَيْ‌ءٍ رَفَعَ اَللَّهُ عَنْهُ ثَلاَثَ مِائَةٍ وَ ثَلاَثِينَ نَوْعاً مِنَ اَلْبَلاَءِ‌، أَهْوَنُهَا اَلْجُذَامُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849791,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2406\"><format class=\"hadith\" who=\"14\" Id=\"771\" RevayatIndex=\"784\"><format class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> مَنْ أَكَلَ مَا يَسْقُطُ مِنَ اَلْمَائِدَةِ‌، عَاشَ مَا عَاشَ فِي سَعَةٍ مِنْ رِزْقِهِ‌، وَ عُوفِيَ فِي وُلْدِهِ‌، وَ وُلْدِ وُلْدِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849792,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2407\"><format class=\"hadith\" who=\"14\" Id=\"772\" RevayatIndex=\"785\"><format class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> عَلَيْكُمْ بِالْفَوَاكِهِ فِي إِقْبَالِهَا، فَإِنَّهَا مَصَحَّةٌ لِلْأَبْدَانِ‌، وَ مَطْرَدَةٌ لِلْأَحْزَانِ‌، وَ أَلْقُوهَا فِي إِدْبَارِهَا فَإِنَّهَا دَاءُ اَلْأَبْدَانِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849793,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2408\"><format class=\"hadith\" who=\"14\" Id=\"773\" RevayatIndex=\"786\"><format class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> تَقْلِيمُ اَلْأَظْفَارِ يَمْنَعُ اَلدَّاءَ اَلْأَعْظَمَ‌، وَ يَزِيدُ فِي اَلرِّزْقِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849794,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2409\"><format class=\"hadith\" who=\"6\" Id=\"774\" RevayatIndex=\"787\"><format class=\"sanadHadith\">وَ فِي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِيِّ‌</format></format>: </format>مَنْ قَلَّمَ أَظْفَارَهُ‌، وَ قَصَّ شَارِبَهُ فِي كُلِّ جُمُعَةٍ‌، ثُمَّ قَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849795,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2410\"><format class=\"hadith\" who=\"6\" Id=\"774\" RevayatIndex=\"787\">«بِسْمِ اَللَّهِ‌، وَ بِاللَّهِ‌، وَ عَلَى سُنَّةِ <format class=\"maasoom\" maasoomNo=\"14\">مُحَمَّدٍ</format> وَ <format class=\"maasoom\" maasoomNo=\"40\">آلِ مُحَمَّدٍ</format>» لَمْ تَسْقُطْ مِنْهُ قُلاَمَةٌ وَ لاَ جُزَازَةٌ‌، إِلاَّ كَتَبَ اَللَّهُ تَعَالَى لَهُ بِهَا عِتْقَ نَسَمَةٍ وَ لَمْ يَمْرَضْ إِلاَّ مَرَضَهُ اَلَّذِي يَمُوتُ فِيهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849796,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2411\"><format class=\"hadith\" who=\"6\" Id=\"774\" RevayatIndex=\"787\">. </format></p>"
+        },
+        {
+          "paragraphId": 687849797,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2412\"><format class=\"hadith\" who=\"6\" Id=\"775\" RevayatIndex=\"788\"><format class=\"sanadHadith\">وَ كَذَا رُوِيَ‌:</format> أَنَّ أَخْذَ اَلشَّارِبِ مِنَ اَلْجُمُعَةِ إِلَى اَلْجُمُعَةِ أَمَانٌ مِنَ اَلْجُذَامِ‌. وَ مَنْ قَلَّمَ أَظْفَارَهُ لَمْ تَشَعَّبْ أَنَامِلُهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849798,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2413\"><format class=\"hadith\" who=\"8\" Id=\"776\" RevayatIndex=\"789\"><format class=\"sanadHadith\">وَ فِي اَلرَّضَوِيِّ‌:</format> إِنَّ رَفْعَ اَلصَّوْتِ بِالْأَذَانِ فِي اَلْمَنْزِلِ يُذْهِبُ اَلسُّقْمِ‌، وَ يُكْثِرُ اَلْأَوْلاَدَ.</format></p>"
+        },
+        {
+          "paragraphId": 687849799,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2414\">و في الوضوء قبل الطعام، و بعده، روايات كثيرة، إنّه يعيش في سعة، و يعافى من بلوى في جسده كما مرّ في محله.</p>"
+        },
+        {
+          "paragraphId": 687849800,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"2415\">و قد مرّ في الزبيب روايات كثيرة، و إنّ من اصطبح بإحدى و عشرين زبيبة حمراء لم يمرض إلاّ مرض الموت.</p>"
+        },
+        {
+          "paragraphId": 687849801,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"2416\"><page number=\"215\"/><format class=\"hadith\" who=\"16\" Id=\"777\" RevayatIndex=\"790\"><format class=\"sanadHadith\">وَ كَذَا وَرَدَ:</format> فِي زِيَارَةِ اَلْحُسَيْنِ (عَلَيْهِ اَلسَّلاَمُ‌)، إِنَّ أَدْنَى مَا يَكُونُ لِلزَّائِرِ أَنْ يَحْفَظَهُ اَللَّهُ فِي نَفْسِهِ وَ مَالِهِ حَتَّى يَرُدَّهُ إِلَى أَهْلِهِ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "214",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2403\" paragraph-id=\"2403\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo214\">214</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> مَنْ تَنَخَّعَ فِي مَسْجِدٍ، ثُمَّ رَدَّهَا فِي جَوْفِهِ‌، لَمْ تَجُزْ يَدَاهُ إِلاَّ أَبْرَأَتْهُ‌.</span>\n  </p>\n  <p id=\"p2404\" paragraph-id=\"2404\" class=\" G\">و قد مرّ في الابتداء بالملح و الاختتام به، و أكل ما يسقط من المائدة ما له دخل في المقام.</p>\n  <p id=\"p2405\" paragraph-id=\"2405\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">فَعَنْهُ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</span> مَنْ أَكَلَ اَلْمِلْحَ قَبْلَ كُلِّ شَيْ‌ءٍ‌، أَوْ بَعْدَ كُلِّ شَيْ‌ءٍ رَفَعَ اَللَّهُ عَنْهُ ثَلاَثَ مِائَةٍ وَ ثَلاَثِينَ نَوْعاً مِنَ اَلْبَلاَءِ‌، أَهْوَنُهَا اَلْجُذَامُ‌.</span>\n  </p>\n  <p id=\"p2406\" paragraph-id=\"2406\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</span> مَنْ أَكَلَ مَا يَسْقُطُ مِنَ اَلْمَائِدَةِ‌، عَاشَ مَا عَاشَ فِي سَعَةٍ مِنْ رِزْقِهِ‌، وَ عُوفِيَ فِي وُلْدِهِ‌، وَ وُلْدِ وُلْدِهِ‌.</span>\n  </p>\n  <p id=\"p2407\" paragraph-id=\"2407\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</span> عَلَيْكُمْ بِالْفَوَاكِهِ فِي إِقْبَالِهَا، فَإِنَّهَا مَصَحَّةٌ لِلْأَبْدَانِ‌، وَ مَطْرَدَةٌ لِلْأَحْزَانِ‌، وَ أَلْقُوهَا فِي إِدْبَارِهَا فَإِنَّهَا دَاءُ اَلْأَبْدَانِ‌.</span>\n  </p>\n  <p id=\"p2408\" paragraph-id=\"2408\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</span> تَقْلِيمُ اَلْأَظْفَارِ يَمْنَعُ اَلدَّاءَ اَلْأَعْظَمَ‌، وَ يَزِيدُ فِي اَلرِّزْقِ‌.</span>\n  </p>\n  <p id=\"p2409\" paragraph-id=\"2409\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِيِّ‌</span></span>: </span>مَنْ قَلَّمَ أَظْفَارَهُ‌، وَ قَصَّ شَارِبَهُ فِي كُلِّ جُمُعَةٍ‌، ثُمَّ قَالَ‌:</span>\n  </p>\n  <p id=\"p2410\" paragraph-id=\"2410\" class=\" G\">\n    <span class=\"hadith\">«بِسْمِ اَللَّهِ‌، وَ بِاللَّهِ‌، وَ عَلَى سُنَّةِ <span class=\"maasoom\">مُحَمَّدٍ</span> وَ <span class=\"maasoom\">آلِ مُحَمَّدٍ</span>» لَمْ تَسْقُطْ مِنْهُ قُلاَمَةٌ وَ لاَ جُزَازَةٌ‌، إِلاَّ كَتَبَ اَللَّهُ تَعَالَى لَهُ بِهَا عِتْقَ نَسَمَةٍ وَ لَمْ يَمْرَضْ إِلاَّ مَرَضَهُ اَلَّذِي يَمُوتُ فِيهِ‌.</span>\n  </p>\n  <p id=\"p2411\" paragraph-id=\"2411\" class=\" G\">\n    <span class=\"hadith\">. </span>\n  </p>\n  <p id=\"p2412\" paragraph-id=\"2412\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ كَذَا رُوِيَ‌:</span> أَنَّ أَخْذَ اَلشَّارِبِ مِنَ اَلْجُمُعَةِ إِلَى اَلْجُمُعَةِ أَمَانٌ مِنَ اَلْجُذَامِ‌. وَ مَنْ قَلَّمَ أَظْفَارَهُ لَمْ تَشَعَّبْ أَنَامِلُهُ‌.</span>\n  </p>\n  <p id=\"p2413\" paragraph-id=\"2413\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي اَلرَّضَوِيِّ‌:</span> إِنَّ رَفْعَ اَلصَّوْتِ بِالْأَذَانِ فِي اَلْمَنْزِلِ يُذْهِبُ اَلسُّقْمِ‌، وَ يُكْثِرُ اَلْأَوْلاَدَ.</span>\n  </p>\n  <p id=\"p2414\" paragraph-id=\"2414\" class=\" G\">و في الوضوء قبل الطعام، و بعده، روايات كثيرة، إنّه يعيش في سعة، و يعافى من بلوى في جسده كما مرّ في محله.</p>\n  <p id=\"p2415\" paragraph-id=\"2415\" class=\" G\">و قد مرّ في الزبيب روايات كثيرة، و إنّ من اصطبح بإحدى و عشرين زبيبة حمراء لم يمرض إلاّ مرض الموت.</p>\n  <p id=\"p2416\" paragraph-id=\"2416\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "D7255353-879A-436C-9701-68FF134A4232",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,110 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 65,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848135,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"735\"><page number=\"65\"/><format class=\"hadith\" who=\"6\" Id=\"80\" RevayatIndex=\"81\"><format class=\"sanadHadith\">رِجَالِ اَلْكَشِّيِّ‌: قَالَ‌: وَجَدْتُ فِي بَعْضِ كُتُبِي: عَنْ مُحَمَّدِ بْنِ عِيسَى، عَنْ عُثْمَانَ بْنِ عِيسَى، عَنِ اِبْنِ مُسْكَانَ‌، عَنِ اِبْنِ أَبِي يَعْفُورٍ، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848136,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"736\"><format class=\"hadith\" who=\"6\" Id=\"80\" RevayatIndex=\"81\">كَانَ إِذَا أَصَابَتْهُ هَذِهِ اَلْأَوْجَاعُ‌، فَإِذَا اِشْتَدَّتْ بِهِ‌، شَرِبَ اَلْحُرَّ مِنَ اَلنَّبِيذِ، فَسَكَنَ عَنْهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848137,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"737\"><format class=\"hadith\" who=\"6\" Id=\"80\" RevayatIndex=\"81\">فَدَخَلَ عَلَى أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌) - إِلَى أَنْ قَالَ -: فَأَخْبَرَهُ بِوَجَعِهِ‌، وَ شُرْبِهِ اَلنَّبِيذَ.</format></p>"
+        },
+        {
+          "paragraphId": 687848138,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"738\"><format class=\"hadith\" who=\"6\" Id=\"80\" RevayatIndex=\"81\">فَقَالَ‌: يَا اِبْنَ أَبِي يَعْفُورٍ! لاَ تَشْرَبْهُ‌، فَإِنَّهُ حَرَامٌ‌، إِنَّمَا هَذَا شَيْطَانٌ مُوَكَّلٌ بِكَ‌، فَلَوْ قَدْ يَئِسَ مِنْكَ ذَهَبَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848139,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"739\"><format class=\"hadith\" who=\"6\" Id=\"80\" RevayatIndex=\"81\">فَلَمَّا رَجَعَ إِلَى اَلْكُوفَةِ‌، هَاجَ بِهِ وَجَعٌ‌، أَشَدَّ مِمَّا كَانَ‌، فَأَقْبَلَ أَهْلُهُ عَلَيْهِ‌، فَقَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687848140,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"740\"><format class=\"hadith\" who=\"6\" Id=\"80\" RevayatIndex=\"81\">«لاَ وَ اَللَّهِ لاَ أَذُوقَنَّ مِنْهُ قَطْرَةً‌!» فَيَئِسُوا مِنْهُ‌، وَ اِشْتَدَّ بِهِ اَلْوَجَعُ أَيَّاماً ثُمَّ أَذْهَبَهُ اَللَّهُ عَنْهُ‌، فَمَا عَادَ إِلَيْهِ حَتَّى مَاتَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848141,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"741\"><format class=\"hadith\" who=\"8\" Id=\"81\" RevayatIndex=\"82\"><format class=\"sanadHadith\">اَلْعُيُونِ‌: بِإِسْنَادِهِ عَنِ اَلْفَضْلِ بْنِ شَاذَانَ‌، عَنِ اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌):</format> فِي كِتَابِهِ إِلَى اَلْمَأْمُونِ قَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687848142,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"742\"><format class=\"hadith\" who=\"8\" Id=\"81\" RevayatIndex=\"82\">«... وَ اَلْمُضْطَرُّ لاَ يَشْرَبُ اَلْخَمْرَ، لِأَنَّهَا تَقْتُلُهُ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848143,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"743\"><format class=\"hadith\" who=\"6\" Id=\"82\" RevayatIndex=\"83\"><format class=\"sanadHadith\"><format class=\"K\">اَلْعِلَلِ‌</format>: عَنْ <format class=\"G\">عَلِيِّ بْنِ حَاتِمٍ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ عُمَرَ</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ مُحَمَّدِ بْنِ زِيَادٍ</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ اَلْفُضَيْلِ‌</format>، عَنْ <format class=\"G\">يُونُسَ بْنِ عَبْدِ اَلرَّحْمَنِ‌</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ أَبِي حَمْزَةَ‌</format>، عَنْ <format class=\"G\">أَبِي بَصِيرٍ</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848144,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"744\"><format class=\"hadith\" who=\"6\" Id=\"82\" RevayatIndex=\"83\">«اَلْمُضْطَرُّ لاَ يَشْرَبُ اَلْخَمْرَ، فَإِنَّهَا لاَ تَزِيدُهُ إِلاَّ شَرّاً، وَ لِأَنَّهُ إِنْ شَرِبَهَا قَتَلَتْهُ‌، فَلاَ يَشْرَبْ مِنْهَا قَطْرَةً - وَ رُوِيَ‌: لاَ تَزِيدُهُ إِلاَّ عَطَشاً».</format></p>"
+        },
+        {
+          "paragraphId": 687848145,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"745\"><format class=\"hadith\" who=\"6\" Id=\"83\" RevayatIndex=\"84\"><format class=\"sanadHadith\"><format class=\"K\">تَفْسِيرِ اَلْعَيَّاشِيِّ‌</format>: عَنْ <format class=\"G\">سَيْفِ بْنِ عَمِيرَةَ‌</format>، عَنْ <format class=\"G\">شَيْخٍ مِنْ أَصْحَابِنَا</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848146,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"746\"><format class=\"hadith\" who=\"6\" Id=\"83\" RevayatIndex=\"84\">كُنَّا عِنْدَهُ‌، فَسَأَلَهُ شَيْخٌ فَقَالَ‌: إِنَّ بِي وَجَعاً، وَ أَنَا أَشْرَبُ اَلنَّبِيذَ، وَ وَصَفَهُ لَهُ اَلشَّيْخُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848147,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"747\"><format class=\"hadith\" who=\"6\" Id=\"83\" RevayatIndex=\"84\"><page number=\"66\"/>فَقَالَ لَهُ‌: مَا يَمْنَعُكَ مِنَ اَلْمَاءِ اَلَّذِي جَعَلَ اَللَّهُ مِنْهُ كُلَّ شَيْ‌ءٍ حَيٍّ؟!.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "65",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p735\" paragraph-id=\"735\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo65\">65</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">رِجَالِ اَلْكَشِّيِّ‌: قَالَ‌: وَجَدْتُ فِي بَعْضِ كُتُبِي: عَنْ مُحَمَّدِ بْنِ عِيسَى، عَنْ عُثْمَانَ بْنِ عِيسَى، عَنِ اِبْنِ مُسْكَانَ‌، عَنِ اِبْنِ أَبِي يَعْفُورٍ، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p736\" paragraph-id=\"736\" class=\" G\">\n    <span class=\"hadith\">كَانَ إِذَا أَصَابَتْهُ هَذِهِ اَلْأَوْجَاعُ‌، فَإِذَا اِشْتَدَّتْ بِهِ‌، شَرِبَ اَلْحُرَّ مِنَ اَلنَّبِيذِ، فَسَكَنَ عَنْهُ‌.</span>\n  </p>\n  <p id=\"p737\" paragraph-id=\"737\" class=\" G\">\n    <span class=\"hadith\">فَدَخَلَ عَلَى أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌) - إِلَى أَنْ قَالَ -: فَأَخْبَرَهُ بِوَجَعِهِ‌، وَ شُرْبِهِ اَلنَّبِيذَ.</span>\n  </p>\n  <p id=\"p738\" paragraph-id=\"738\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ‌: يَا اِبْنَ أَبِي يَعْفُورٍ! لاَ تَشْرَبْهُ‌، فَإِنَّهُ حَرَامٌ‌، إِنَّمَا هَذَا شَيْطَانٌ مُوَكَّلٌ بِكَ‌، فَلَوْ قَدْ يَئِسَ مِنْكَ ذَهَبَ‌.</span>\n  </p>\n  <p id=\"p739\" paragraph-id=\"739\" class=\" G\">\n    <span class=\"hadith\">فَلَمَّا رَجَعَ إِلَى اَلْكُوفَةِ‌، هَاجَ بِهِ وَجَعٌ‌، أَشَدَّ مِمَّا كَانَ‌، فَأَقْبَلَ أَهْلُهُ عَلَيْهِ‌، فَقَالَ‌:</span>\n  </p>\n  <p id=\"p740\" paragraph-id=\"740\" class=\" G\">\n    <span class=\"hadith\">«لاَ وَ اَللَّهِ لاَ أَذُوقَنَّ مِنْهُ قَطْرَةً‌!» فَيَئِسُوا مِنْهُ‌، وَ اِشْتَدَّ بِهِ اَلْوَجَعُ أَيَّاماً ثُمَّ أَذْهَبَهُ اَللَّهُ عَنْهُ‌، فَمَا عَادَ إِلَيْهِ حَتَّى مَاتَ‌.</span>\n  </p>\n  <p id=\"p741\" paragraph-id=\"741\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْعُيُونِ‌: بِإِسْنَادِهِ عَنِ اَلْفَضْلِ بْنِ شَاذَانَ‌، عَنِ اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌):</span> فِي كِتَابِهِ إِلَى اَلْمَأْمُونِ قَالَ‌:</span>\n  </p>\n  <p id=\"p742\" paragraph-id=\"742\" class=\" G\">\n    <span class=\"hadith\">«... وَ اَلْمُضْطَرُّ لاَ يَشْرَبُ اَلْخَمْرَ، لِأَنَّهَا تَقْتُلُهُ‌».</span>\n  </p>\n  <p id=\"p743\" paragraph-id=\"743\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْعِلَلِ‌</span>: عَنْ <span class=\"G\">عَلِيِّ بْنِ حَاتِمٍ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ عُمَرَ</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ مُحَمَّدِ بْنِ زِيَادٍ</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ اَلْفُضَيْلِ‌</span>، عَنْ <span class=\"G\">يُونُسَ بْنِ عَبْدِ اَلرَّحْمَنِ‌</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ أَبِي حَمْزَةَ‌</span>، عَنْ <span class=\"G\">أَبِي بَصِيرٍ</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p744\" paragraph-id=\"744\" class=\" G\">\n    <span class=\"hadith\">«اَلْمُضْطَرُّ لاَ يَشْرَبُ اَلْخَمْرَ، فَإِنَّهَا لاَ تَزِيدُهُ إِلاَّ شَرّاً، وَ لِأَنَّهُ إِنْ شَرِبَهَا قَتَلَتْهُ‌، فَلاَ يَشْرَبْ مِنْهَا قَطْرَةً - وَ رُوِيَ‌: لاَ تَزِيدُهُ إِلاَّ عَطَشاً».</span>\n  </p>\n  <p id=\"p745\" paragraph-id=\"745\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">تَفْسِيرِ اَلْعَيَّاشِيِّ‌</span>: عَنْ <span class=\"G\">سَيْفِ بْنِ عَمِيرَةَ‌</span>، عَنْ <span class=\"G\">شَيْخٍ مِنْ أَصْحَابِنَا</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p746\" paragraph-id=\"746\" class=\" G\">\n    <span class=\"hadith\">كُنَّا عِنْدَهُ‌، فَسَأَلَهُ شَيْخٌ فَقَالَ‌: إِنَّ بِي وَجَعاً، وَ أَنَا أَشْرَبُ اَلنَّبِيذَ، وَ وَصَفَهُ لَهُ اَلشَّيْخُ‌.</span>\n  </p>\n  <p id=\"p747\" paragraph-id=\"747\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "29AA6B31-9D85-4DF0-9542-F73A3177E843",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,122 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 90,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687847981,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1018\"><page number=\"90\"/><heading level=\"2\">باب <format class=\"BM\">التداوي و الدفع بالدعاء </format></heading></p>"
+        },
+        {
+          "paragraphId": 687847982,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1019\"><format class=\"hadith\" who=\"6\" Id=\"170\" RevayatIndex=\"172\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</format> عَنْ <format class=\"G\">أَسْبَاطِ بْنِ سَالِمٍ‌</format>، عَنْ <format class=\"G\">عَلاَّنِ بْنِ كَامِلٍ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687847983,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1020\"><format class=\"hadith\" who=\"6\" Id=\"170\" RevayatIndex=\"172\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>«عَلَيْكَ بِالدُّعَاءِ‌، فَإِنَّهُ شِفَاءٌ مِنْ كُلِّ دَاءٍ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687847984,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1021\"><format class=\"hadith\" who=\"16\" Id=\"171\" RevayatIndex=\"173\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</format>، عَنْ <format class=\"G\">حَمَّادِ بْنِ عُثْمَانَ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687847985,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1022\"><format class=\"hadith\" who=\"16\" Id=\"171\" RevayatIndex=\"173\"><format class=\"sanadHadith\">سَمِعْتُهُ يَقُولُ‌: </format>«إِنَّ اَلدُّعَاءَ يَرُدُّ اَلْقَضَاءَ‌، أَوْ يَنْقُضُهُ كَمَا يُنْقَضُ اَلسِّلْكُ وَ قَدْ أُبْرِمَ إِبْرَاماً».</format></p>"
+        },
+        {
+          "paragraphId": 687847986,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1023\"><format class=\"hadith\" who=\"7\" Id=\"172\" RevayatIndex=\"174\"><format class=\"sanadHadith\">وَ عَنْهُ‌، عَنْ أَبِيهِ‌، عَنِ اِبْنِ أَبِي عُمَيْرٍ، عَنْ <format class=\"G\">هِشَامِ بْنِ سَالِمٍ‌</format>، عَنْ مُعَمَّرِ بْنِ يَزِيدَ، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687847987,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1024\"><format class=\"hadith\" who=\"7\" Id=\"172\" RevayatIndex=\"174\"><format class=\"sanadHadith\">سَمِعْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أَبَا اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، يَقُولُ‌: </format>«إِنَّ اَلدُّعَاءَ يَرُدُّ مَا قُدِّرَ وَ مَا لَمْ يُقَدَّرْ».</format></p>"
+        },
+        {
+          "paragraphId": 687847988,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1025\"><format class=\"hadith\" who=\"7\" Id=\"172\" RevayatIndex=\"174\">قُلْتُ‌: أَمَّا مَا قُدِّرَ، فَقَدْ عَرَفْتُهُ‌، فَمَا لَمْ يُقَدَّرْ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847989,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1026\"><format class=\"hadith\" who=\"7\" Id=\"172\" RevayatIndex=\"174\">قَالَ‌: حَتَّى لاَ يَكُونَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847990,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1027\"><format class=\"hadith\" who=\"6\" Id=\"173\" RevayatIndex=\"175\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">أَبِي عَلِيٍّ اَلْأَشْعَرِيِّ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ عَبْدِ اَلْجَبَّارِ</format>، عَنْ <format class=\"G\">صَفْوَانَ‌</format>، عَنْ <format class=\"G\">بِسْطَامَ اَلزَّيَّاتِ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687847991,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1028\"><format class=\"hadith\" who=\"6\" Id=\"173\" RevayatIndex=\"175\">«إِنَّ اَلدُّعَاءَ يَرُدُّ اَلْقَضَاءَ‌، وَ قَدْ نَزَلَ مِنَ اَلسَّمَاءِ‌، وَ قَدْ أُبْرِمَ إِبْرَاماً».</format></p>"
+        },
+        {
+          "paragraphId": 687847992,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1029\"><format class=\"hadith\" who=\"4,8\" Id=\"174\" RevayatIndex=\"176\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">أَبِي هَمَّامٍ إِسْمَاعِيلَ بْنِ هَمَّامٍ‌</format>، عَنِ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"8\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687847993,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1030\"><format class=\"hadith\" who=\"4,8\" Id=\"174\" RevayatIndex=\"176\">قَالَ لِي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"4\">عَلِيُّ بْنُ اَلْحُسَيْنِ (عَلَيْهِمَا اَلسَّلاَمُ‌)</format></format>: «إِنَّ اَلدُّعَاءَ وَ اَلْبَلاَءَ لَيَتَرَافَقَانِ إِلَى <format class=\"Z\">يَوْمِ اَلْقِيَامَةِ‌</format>، إِنَّ اَلدُّعَاءَ لَيَرُدُّ اَلْقَضَاءَ‌، وَ قَدْ أُبْرِمَ إِبْرَاماً».</format></p>"
+        },
+        {
+          "paragraphId": 687847994,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1031\"><format class=\"hadith\" who=\"8,4\" Id=\"175\" RevayatIndex=\"177\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْعِدَّةِ‌</format>، عَنْ <format class=\"G\">سَهْلِ بْنِ زِيَادٍ</format>، عَنِ <format class=\"G\">اَلْحَسَنِ بْنِ عَلِيٍّ اَلْوَشَّاءِ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"8\">أَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687847995,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"1032\"><format class=\"hadith\" who=\"8,4\" Id=\"175\" RevayatIndex=\"177\"><format class=\"sanadHadith\"><page number=\"91\"/>«كَانَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"4\">عَلِيُّ بْنُ اَلْحُسَيْنِ (عَلَيْهِمَا اَلسَّلاَمُ‌)</format></format> يَقُولُ‌:</format> إِنَّ اَلدُّعَاءَ يَدْفَعُ اَلْبَلاَءَ اَلنَّازِلَ وَ مَا لَمْ يَنْزِلْ‌».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "90",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1018\" paragraph-id=\"1018\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo90\">90</span>\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"BM\">التداوي و الدفع بالدعاء </span></strong>\n  </p>\n  <p id=\"p1019\" paragraph-id=\"1019\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</span> عَنْ <span class=\"G\">أَسْبَاطِ بْنِ سَالِمٍ‌</span>، عَنْ <span class=\"G\">عَلاَّنِ بْنِ كَامِلٍ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1020\" paragraph-id=\"1020\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>«عَلَيْكَ بِالدُّعَاءِ‌، فَإِنَّهُ شِفَاءٌ مِنْ كُلِّ دَاءٍ‌».</span>\n  </p>\n  <p id=\"p1021\" paragraph-id=\"1021\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</span>، عَنْ <span class=\"G\">حَمَّادِ بْنِ عُثْمَانَ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1022\" paragraph-id=\"1022\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُهُ يَقُولُ‌: </span>«إِنَّ اَلدُّعَاءَ يَرُدُّ اَلْقَضَاءَ‌، أَوْ يَنْقُضُهُ كَمَا يُنْقَضُ اَلسِّلْكُ وَ قَدْ أُبْرِمَ إِبْرَاماً».</span>\n  </p>\n  <p id=\"p1023\" paragraph-id=\"1023\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْهُ‌، عَنْ أَبِيهِ‌، عَنِ اِبْنِ أَبِي عُمَيْرٍ، عَنْ <span class=\"G\">هِشَامِ بْنِ سَالِمٍ‌</span>، عَنْ مُعَمَّرِ بْنِ يَزِيدَ، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1024\" paragraph-id=\"1024\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، يَقُولُ‌: </span>«إِنَّ اَلدُّعَاءَ يَرُدُّ مَا قُدِّرَ وَ مَا لَمْ يُقَدَّرْ».</span>\n  </p>\n  <p id=\"p1025\" paragraph-id=\"1025\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: أَمَّا مَا قُدِّرَ، فَقَدْ عَرَفْتُهُ‌، فَمَا لَمْ يُقَدَّرْ؟.</span>\n  </p>\n  <p id=\"p1026\" paragraph-id=\"1026\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: حَتَّى لاَ يَكُونَ‌.</span>\n  </p>\n  <p id=\"p1027\" paragraph-id=\"1027\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">أَبِي عَلِيٍّ اَلْأَشْعَرِيِّ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ عَبْدِ اَلْجَبَّارِ</span>، عَنْ <span class=\"G\">صَفْوَانَ‌</span>، عَنْ <span class=\"G\">بِسْطَامَ اَلزَّيَّاتِ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1028\" paragraph-id=\"1028\" class=\" G\">\n    <span class=\"hadith\">«إِنَّ اَلدُّعَاءَ يَرُدُّ اَلْقَضَاءَ‌، وَ قَدْ نَزَلَ مِنَ اَلسَّمَاءِ‌، وَ قَدْ أُبْرِمَ إِبْرَاماً».</span>\n  </p>\n  <p id=\"p1029\" paragraph-id=\"1029\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">أَبِي هَمَّامٍ إِسْمَاعِيلَ بْنِ هَمَّامٍ‌</span>، عَنِ <span class=\"HQ\"><span class=\"maasoom\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1030\" paragraph-id=\"1030\" class=\" G\">\n    <span class=\"hadith\">قَالَ لِي <span class=\"Y\"><span class=\"maasoom\">عَلِيُّ بْنُ اَلْحُسَيْنِ (عَلَيْهِمَا اَلسَّلاَمُ‌)</span></span>: «إِنَّ اَلدُّعَاءَ وَ اَلْبَلاَءَ لَيَتَرَافَقَانِ إِلَى <span class=\"Z\">يَوْمِ اَلْقِيَامَةِ‌</span>، إِنَّ اَلدُّعَاءَ لَيَرُدُّ اَلْقَضَاءَ‌، وَ قَدْ أُبْرِمَ إِبْرَاماً».</span>\n  </p>\n  <p id=\"p1031\" paragraph-id=\"1031\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلْعِدَّةِ‌</span>، عَنْ <span class=\"G\">سَهْلِ بْنِ زِيَادٍ</span>، عَنِ <span class=\"G\">اَلْحَسَنِ بْنِ عَلِيٍّ اَلْوَشَّاءِ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1032\" paragraph-id=\"1032\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\" />\n    </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "2E150A9D-9F77-477E-843C-64F3BEAA5F01",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

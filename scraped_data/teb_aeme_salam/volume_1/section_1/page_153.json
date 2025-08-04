@@ -1,0 +1,104 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 153,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849140,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1743\"><page number=\"153\"/><heading level=\"2\">باب <format class=\"VD\">التداوي بالعنب، و فوائده، و منافعه </format></heading></p>"
+        },
+        {
+          "paragraphId": 687849141,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1744\"><format class=\"hadith\" who=\"6\" Id=\"458\" RevayatIndex=\"466\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">اَلْعِدَّةُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</format>، <format class=\"G\">عَمَّنْ رَفَعَهُ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849142,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1745\"><format class=\"hadith\" who=\"6\" Id=\"458\" RevayatIndex=\"466\">شَكَا نَبِيٌّ مِنَ اَلْأَنْبِيَاءِ إِلَى اَللَّهِ عَزَّ وَ جَلَّ اَلْغَمَّ فَأَمَرَهُ عَزَّ وَ جَلَّ بِأَكْلِ اَلْعِنَبِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849143,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1746\"><format class=\"hadith\" who=\"6\" Id=\"459\" RevayatIndex=\"467\"><format class=\"sanadHadith\">وَ نَحْوَهُ آخِرَ <format class=\"K\">اَلْمَحَاسِنِ‌</format>، عَنْ <format class=\"G\">بَكْرِ بْنِ صَالِحٍ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> شَكَا نَبِيٌّ مِنَ اَلْأَنْبِيَاءِ إِلَى اَللَّهِ اَلْغَمَّ فَأَمَرَهُ بِأَكْلِ اَلْعِنَبِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849144,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1747\"><format class=\"hadith\" who=\"13,6\" Id=\"460\" RevayatIndex=\"468\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">عُثْمَانَ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">فُرَاتِ بْنِ أَحْنَفَ‌</format> قَالَ‌، قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>إِنَّ نُوحاً شَكَا إِلَى اَللَّهِ اَلْغَمَّ‌، فَأَوْحَى اَللَّهُ إِلَيْهِ‌: أَنْ كُلِ اَلْعِنَبَ‌، فَإِنَّهُ يَذْهَبُ بِالْغَمِّ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849145,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1748\"><format class=\"hadith\" who=\"13,6\" Id=\"461\" RevayatIndex=\"469\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْقَاسِمِ اَلزَّيَّاتِ‌</format>، عَنْ <format class=\"G\">أَبَانِ بْنِ عُثْمَانَ‌</format>، عَنْ <format class=\"G\">مُوسَى بْنِ اَلْعَلاَءِ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849146,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1749\"><format class=\"hadith\" who=\"13,6\" Id=\"461\" RevayatIndex=\"469\">لَمَّا حَسَرَ اَلْمَاءُ عَنْ عِظَامِ اَلْمَوْتَى، وَ رَأَى ذَلِكَ <format class=\"E\" Number=\"\">نُوحٌ‌</format>، جَزِعَ جَزَعاً شَدِيداً، وَ اِغْتَمَّ لِذَلِكَ‌، فَأَوْحَى اَللَّهُ إِلَيْهِ‌: أَنْ كُلِ اَلْعِنَبَ اَلْأَسْوَدَ لِيَذْهَبَ غَمُّكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849147,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1750\"><heading level=\"2\">باب <format class=\"VD\">التداوي بالزبيب و فوائده </format></heading></p>"
+        },
+        {
+          "paragraphId": 687849148,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1751\"><format class=\"hadith\" who=\"6\" Id=\"462\" RevayatIndex=\"470\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">اَلْعِدَّةُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ</format>، عَنْ <format class=\"G\">رَجُلٍ مِنْ أَهْلِ مِصْرَ</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> اَلزَّبِيبُ يَشُدُّ اَلْعَصَبَ‌، وَ يَذْهَبُ بِالنَّصَبِ‌، وَ يُطَيِّبُ اَلنَّفْسَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849149,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1752\"><format class=\"hadith\" who=\"6,1\" Id=\"463\" RevayatIndex=\"471\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اَلنَّوْفَلِيِّ‌</format>، عَنِ <format class=\"G\">اَلسَّكُونِيِّ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849150,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1753\"><format class=\"hadith\" who=\"6,1\" Id=\"463\" RevayatIndex=\"471\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>مَنِ اِصْطَبَحَ بِإِحْدَى وَ عِشْرِينَ زَبِيبَةً حَمْرَاءَ‌، لَمْ يَمْرَضْ إِلاَّ مَرَضَ اَلْمَوْتِ إِنْ شَاءَ اَللَّهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849151,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1754\"><page number=\"154\"/><format class=\"hadith\" who=\"6,1\" Id=\"464\" RevayatIndex=\"472\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ</format>، عَنِ <format class=\"G\">اَلْقَاسِمِ‌</format>، عَنْ <format class=\"G\">جَدِّهِ‌</format>، عَنْ <format class=\"G\">أَبِي بَصِيرٍ</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "153",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1743\" paragraph-id=\"1743\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo153\">153</span>\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي بالعنب، و فوائده، و منافعه </span></strong>\n  </p>\n  <p id=\"p1744\" paragraph-id=\"1744\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">اَلْعِدَّةُ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</span>، <span class=\"G\">عَمَّنْ رَفَعَهُ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1745\" paragraph-id=\"1745\" class=\" G\">\n    <span class=\"hadith\">شَكَا نَبِيٌّ مِنَ اَلْأَنْبِيَاءِ إِلَى اَللَّهِ عَزَّ وَ جَلَّ اَلْغَمَّ فَأَمَرَهُ عَزَّ وَ جَلَّ بِأَكْلِ اَلْعِنَبِ‌.</span>\n  </p>\n  <p id=\"p1746\" paragraph-id=\"1746\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ نَحْوَهُ آخِرَ <span class=\"K\">اَلْمَحَاسِنِ‌</span>، عَنْ <span class=\"G\">بَكْرِ بْنِ صَالِحٍ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> شَكَا نَبِيٌّ مِنَ اَلْأَنْبِيَاءِ إِلَى اَللَّهِ اَلْغَمَّ فَأَمَرَهُ بِأَكْلِ اَلْعِنَبِ‌.</span>\n  </p>\n  <p id=\"p1747\" paragraph-id=\"1747\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">عُثْمَانَ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">فُرَاتِ بْنِ أَحْنَفَ‌</span> قَالَ‌، قَالَ <span class=\"Y\"><span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>إِنَّ نُوحاً شَكَا إِلَى اَللَّهِ اَلْغَمَّ‌، فَأَوْحَى اَللَّهُ إِلَيْهِ‌: أَنْ كُلِ اَلْعِنَبَ‌، فَإِنَّهُ يَذْهَبُ بِالْغَمِّ‌.</span>\n  </p>\n  <p id=\"p1748\" paragraph-id=\"1748\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلْقَاسِمِ اَلزَّيَّاتِ‌</span>، عَنْ <span class=\"G\">أَبَانِ بْنِ عُثْمَانَ‌</span>، عَنْ <span class=\"G\">مُوسَى بْنِ اَلْعَلاَءِ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1749\" paragraph-id=\"1749\" class=\" G\">\n    <span class=\"hadith\">لَمَّا حَسَرَ اَلْمَاءُ عَنْ عِظَامِ اَلْمَوْتَى، وَ رَأَى ذَلِكَ <span class=\"E\">نُوحٌ‌</span>، جَزِعَ جَزَعاً شَدِيداً، وَ اِغْتَمَّ لِذَلِكَ‌، فَأَوْحَى اَللَّهُ إِلَيْهِ‌: أَنْ كُلِ اَلْعِنَبَ اَلْأَسْوَدَ لِيَذْهَبَ غَمُّكَ‌.</span>\n  </p>\n  <p id=\"p1750\" paragraph-id=\"1750\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي بالزبيب و فوائده </span></strong>\n  </p>\n  <p id=\"p1751\" paragraph-id=\"1751\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">اَلْعِدَّةُ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ</span>، عَنْ <span class=\"G\">رَجُلٍ مِنْ أَهْلِ مِصْرَ</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> اَلزَّبِيبُ يَشُدُّ اَلْعَصَبَ‌، وَ يَذْهَبُ بِالنَّصَبِ‌، وَ يُطَيِّبُ اَلنَّفْسَ‌.</span>\n  </p>\n  <p id=\"p1752\" paragraph-id=\"1752\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اَلنَّوْفَلِيِّ‌</span>، عَنِ <span class=\"G\">اَلسَّكُونِيِّ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1753\" paragraph-id=\"1753\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>مَنِ اِصْطَبَحَ بِإِحْدَى وَ عِشْرِينَ زَبِيبَةً حَمْرَاءَ‌، لَمْ يَمْرَضْ إِلاَّ مَرَضَ اَلْمَوْتِ إِنْ شَاءَ اَللَّهُ‌.</span>\n  </p>\n  <p id=\"p1754\" paragraph-id=\"1754\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "7F2F7145-0F1F-42FB-A664-DBD5EE2F95FE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

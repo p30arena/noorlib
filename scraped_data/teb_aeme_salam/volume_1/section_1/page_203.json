@@ -1,0 +1,110 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 203,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849703,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2318\"><page number=\"203\"/><format class=\"hadith\" who=\"1\" Id=\"720\" RevayatIndex=\"731\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">عَلِيُّ بْنُ أَبِي طَالِبٍ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>مَاءُ <format class=\"t\">نِيلِ مِصْرَ</format> يُمِيتُ اَلْقَلْبَ‌، وَ لاَ تَغْسِلُوا رُؤُوسَكُمْ مِنْ طِينِهِ‌، فَإِنَّهَا تُورِثُ اَلدِّيَاثَةَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849704,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2319\"><format class=\"hadith\" who=\"1\" Id=\"721\" RevayatIndex=\"732\"><format class=\"sanadHadith\">وَ قَالَ أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> صُبُّوا عَلَى اَلْمَحْمُومِ اَلْمَاءَ اَلْبَارِدَ، فَإِنَّهُ خَفِيَ حَرُّهَا.</format></p>"
+        },
+        {
+          "paragraphId": 687849705,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2320\"><format class=\"hadith\" who=\"6\" Id=\"722\" RevayatIndex=\"733\"><format class=\"sanadHadith\">وَ عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> اَلْمَاءُ اَلْبَارِدُ يُطْفِئُ اَلْحَرَارَةَ‌، وَ يُسَكِّنُ اَلصَّفْرَاءَ‌، وَ يُذِيبُ اَلطَّعَامَ فِي اَلْمَعِدَةِ‌، وَ يَذْهَبُ بِالْحُمَّى.</format></p>"
+        },
+        {
+          "paragraphId": 687849706,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2321\"><format class=\"hadith\" who=\"6\" Id=\"723\" RevayatIndex=\"734\"><format class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> اَلْمَاءُ اَلْمَغْلِيُّ‌، يَنْفَعُ مِنْ كُلِّ شَيْ‌ءٍ‌، وَ لاَ يَضُرُّ مِنْ شَيْ‌ءٍ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849707,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2322\"><format class=\"hadith\" who=\"6\" Id=\"724\" RevayatIndex=\"735\"><format class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> إِذَا دَخَلَ أَحَدُكُمُ اَلْحَمَّامَ‌، فَلْيَشْرَبْ ثَلاَثَةَ أَكُفِّ مَاءٍ حارٍّ، فَإِنَّهُ يَزِيدُ فِي بَهَاءِ اَلْوَجْهِ‌، وَ يَذْهَبُ اَلْأَلَمِ مِنَ اَلْبَدَنِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849708,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2323\"><format class=\"hadith\" who=\"8\" Id=\"725\" RevayatIndex=\"736\"><format class=\"sanadHadith\">وَ عَنِ اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> اَلْمَاءُ اَلسُّخْنُ‌، إِذْ غَلَيْتَهُ سَبْعَ غَلَيَاتٍ‌، وَ قَلَّبْتَهُ مِنْ إِنَاءٍ إِلَى إِنَاءٍ‌، فَهُوَ يَذْهَبُ بِاللَّقْوَةِ‌، وَ يُنْزِلُ اَلْقُوَّةَ فِي اَلسَّاقَيْنِ وَ اَلْقَدَمَيْنِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849709,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2324\"><format class=\"hadith\" who=\"6,14\" Id=\"726\" RevayatIndex=\"737\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">اَلْعِدَّةُ‌</format>، عَنْ <format class=\"G\">سَهْلِ بْنِ زِيَادٍ</format>، عَنْ <format class=\"G\">جَعْفَرِ بْنِ مُحَمَّدٍ اَلْأَشْعَرِيِّ‌</format>، عَنِ <format class=\"G\">اِبْنِ اَلْقَدَّاحِ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849710,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2325\"><format class=\"hadith\" who=\"6,14\" Id=\"726\" RevayatIndex=\"737\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>«مَصُّوا اَلْمَاءَ مَصّاً، وَ لاَ تَعُبُّوهُ عَبّاً، فَإِنَّهُ يُوجَدُ مِنْهُ اَلْكُبَادُ».</format></p>"
+        },
+        {
+          "paragraphId": 687849711,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2326\">و بمضمونه أخبار أخر في (المحاسن) و (المكارم) و (الدعائم)، و الكباد - بالضم - داء يعرض للكبد.</p>"
+        },
+        {
+          "paragraphId": 687849712,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2327\"><format class=\"hadith\" who=\"6\" Id=\"727\" RevayatIndex=\"738\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اَلنَّوْفَلِيِّ‌</format>، عَنِ <format class=\"G\">اَلسَّكُونِيِّ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌: </format>«شُرْبُ اَلْمَاءِ بِالنَّهَارِ مِنْ قِيَامٍ‌، أَقْوَى وَ أَصَحُّ لِلْبَدَنِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687849713,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2328\"><format class=\"hadith\" who=\"6\" Id=\"728\" RevayatIndex=\"739\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">عَلِيِّ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ أَحْمَدَ بْنِ أَبِي مَحْمُودٍ</format>، رَفَعَهُ إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌: </format>«شُرْبُ اَلْمَاءِ مِنْ قِيَامٍ بِالنَّهَارِ، يُمْرِئُ اَلطَّعَامَ‌، وَ شُرْبُ اَلْمَاءِ بِاللَّيْلِ‌، يُورِثُ اَلْمَاءَ اَلْأَصْفَرَ».</format></p>"
+        },
+        {
+          "paragraphId": 687849714,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2329\">و بهذا المضمون أخبار أخر.</p>"
+        },
+        {
+          "paragraphId": 687849715,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"2330\"><page number=\"204\"/><format class=\"hadith\" who=\"5\" Id=\"729\" RevayatIndex=\"740\"><format class=\"sanadHadith\">وَ عَنْ مُحَمَّدِ بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ، عَنِ اِبْنِ مَحْبُوبٍ‌، عَنِ اَلْعَلاَءِ بْنِ رَزِينٍ‌، عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ‌، عَنْ أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌: </format>«مَنْ تَخَلَّى عَلَى قَبْرٍ، إِلَى أَنْ قَالَ‌: أَوْ شَرِبَ قَائِماً، فَأَصَابَهُ شَيْ‌ءٌ مِنَ اَلشَّيْطَانِ‌، لَمْ يَدَعْهُ إِلاَّ أَنْ يَشَاءَ اَللَّهُ‌، وَ أَسْرَعُ مَا يَكُونُ اَلشَّيْطَانُ إِلَى اَلْإِنْسَانِ‌، وَ هُوَ عَلَى بَعْضِ هَذِهِ اَلْحَالاَتِ (اَلْحَدِيثَ‌). </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "203",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2318\" paragraph-id=\"2318\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo203\">203</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">عَلِيُّ بْنُ أَبِي طَالِبٍ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>مَاءُ <span class=\"t\">نِيلِ مِصْرَ</span> يُمِيتُ اَلْقَلْبَ‌، وَ لاَ تَغْسِلُوا رُؤُوسَكُمْ مِنْ طِينِهِ‌، فَإِنَّهَا تُورِثُ اَلدِّيَاثَةَ‌.</span>\n  </p>\n  <p id=\"p2319\" paragraph-id=\"2319\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌):</span> صُبُّوا عَلَى اَلْمَحْمُومِ اَلْمَاءَ اَلْبَارِدَ، فَإِنَّهُ خَفِيَ حَرُّهَا.</span>\n  </p>\n  <p id=\"p2320\" paragraph-id=\"2320\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> اَلْمَاءُ اَلْبَارِدُ يُطْفِئُ اَلْحَرَارَةَ‌، وَ يُسَكِّنُ اَلصَّفْرَاءَ‌، وَ يُذِيبُ اَلطَّعَامَ فِي اَلْمَعِدَةِ‌، وَ يَذْهَبُ بِالْحُمَّى.</span>\n  </p>\n  <p id=\"p2321\" paragraph-id=\"2321\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> اَلْمَاءُ اَلْمَغْلِيُّ‌، يَنْفَعُ مِنْ كُلِّ شَيْ‌ءٍ‌، وَ لاَ يَضُرُّ مِنْ شَيْ‌ءٍ‌.</span>\n  </p>\n  <p id=\"p2322\" paragraph-id=\"2322\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> إِذَا دَخَلَ أَحَدُكُمُ اَلْحَمَّامَ‌، فَلْيَشْرَبْ ثَلاَثَةَ أَكُفِّ مَاءٍ حارٍّ، فَإِنَّهُ يَزِيدُ فِي بَهَاءِ اَلْوَجْهِ‌، وَ يَذْهَبُ اَلْأَلَمِ مِنَ اَلْبَدَنِ‌.</span>\n  </p>\n  <p id=\"p2323\" paragraph-id=\"2323\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> اَلْمَاءُ اَلسُّخْنُ‌، إِذْ غَلَيْتَهُ سَبْعَ غَلَيَاتٍ‌، وَ قَلَّبْتَهُ مِنْ إِنَاءٍ إِلَى إِنَاءٍ‌، فَهُوَ يَذْهَبُ بِاللَّقْوَةِ‌، وَ يُنْزِلُ اَلْقُوَّةَ فِي اَلسَّاقَيْنِ وَ اَلْقَدَمَيْنِ‌.</span>\n  </p>\n  <p id=\"p2324\" paragraph-id=\"2324\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">اَلْعِدَّةُ‌</span>، عَنْ <span class=\"G\">سَهْلِ بْنِ زِيَادٍ</span>، عَنْ <span class=\"G\">جَعْفَرِ بْنِ مُحَمَّدٍ اَلْأَشْعَرِيِّ‌</span>، عَنِ <span class=\"G\">اِبْنِ اَلْقَدَّاحِ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2325\" paragraph-id=\"2325\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>«مَصُّوا اَلْمَاءَ مَصّاً، وَ لاَ تَعُبُّوهُ عَبّاً، فَإِنَّهُ يُوجَدُ مِنْهُ اَلْكُبَادُ».</span>\n  </p>\n  <p id=\"p2326\" paragraph-id=\"2326\" class=\" G\">و بمضمونه أخبار أخر في (المحاسن) و (المكارم) و (الدعائم)، و الكباد - بالضم - داء يعرض للكبد.</p>\n  <p id=\"p2327\" paragraph-id=\"2327\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اَلنَّوْفَلِيِّ‌</span>، عَنِ <span class=\"G\">اَلسَّكُونِيِّ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌: </span>«شُرْبُ اَلْمَاءِ بِالنَّهَارِ مِنْ قِيَامٍ‌، أَقْوَى وَ أَصَحُّ لِلْبَدَنِ‌».</span>\n  </p>\n  <p id=\"p2328\" paragraph-id=\"2328\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">عَلِيِّ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ أَحْمَدَ بْنِ أَبِي مَحْمُودٍ</span>، رَفَعَهُ إِلَى <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌: </span>«شُرْبُ اَلْمَاءِ مِنْ قِيَامٍ بِالنَّهَارِ، يُمْرِئُ اَلطَّعَامَ‌، وَ شُرْبُ اَلْمَاءِ بِاللَّيْلِ‌، يُورِثُ اَلْمَاءَ اَلْأَصْفَرَ».</span>\n  </p>\n  <p id=\"p2329\" paragraph-id=\"2329\" class=\" G\">و بهذا المضمون أخبار أخر.</p>\n  <p id=\"p2330\" paragraph-id=\"2330\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "458797C4-94BB-4025-BA8A-321E477710A9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

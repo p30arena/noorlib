@@ -81,7 +81,7 @@ async function scrapeBook() {
 
     // Check for "page does not exist" condition or insufficient credit
     const validation = data.data && data.data.length > 0 && data.data[0].validation;
-    const isPageNotFound = validation && validation.code === 2;
+    const isPageNotFound = validation && validation.code === 2 && volume != 1 && section != 1;
     const isInsufficientCredit = validation && validation.code === 14;
 
     if (isInsufficientCredit) {

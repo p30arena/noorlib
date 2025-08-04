@@ -1,0 +1,133 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 54,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687847894,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"596\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\"><page number=\"54\"/>قَالَ‌: فَكَيْفَ مِنْهَا عُيُونُ نِفْطٍ، وَ كِبْرِيتٍ وَ أَشْبَاهُ ذَلِكَ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847895,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"597\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format></p>"
+        },
+        {
+          "paragraphId": 687847896,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"598\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">- غَيَّرَهُ اَلْجَوْهَرُ، وَ اِنْقَلَبَ كَانْقِلاَبِ اَلْعَصِيرِ خَمْراً، وَ كَمَا اِنْقَلَبَ اَلْخَمْرُ فَصَارَ خَلاًّ، وَ كَمَا يُخْرِجُ مِنْ بَيْنِ فَرْثٍ وَ دَمٍ لَبَناً خَالِصاً.</format></p>"
+        },
+        {
+          "paragraphId": 687847897,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"599\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">قَالَ‌: فَمِنْ أَيْنَ أُخْرِجَتْ أَنْوَاعُ اَلْجَوَاهِرِ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847898,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"600\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format></p>"
+        },
+        {
+          "paragraphId": 687847899,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"601\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">اِنْقَلَبَتْ مِنْهَا كَانْقِلاَبِ اَلنُّطْفَةِ عَلَقَةً‌، ثُمَّ مُضْغَةً‌، ثُمَّ عَلَقَةً مُجْتَمِعَةً‌، مَبْنِيَّةً عَلَى اَلْمُتَضَادَّاتِ اَلْأَرْبَعِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847900,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"602\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">قَالَ عِمْرَانُ‌: إِذَا كَانَتِ اَلْأَرْضُ خُلِقَتْ مِنَ اَلْمَاءِ‌، وَ اَلْمَاءُ بَارِدٌ رَطْبٌ‌، فَكَيْفَ صَارَتِ اَلْأَرْضُ بَارِدَةً يَابِسَةً؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847901,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"603\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format></p>"
+        },
+        {
+          "paragraphId": 687847902,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"604\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">- سُلِبَتِ اَلنَّدَاوَةُ فَصَارَتْ يَابِسَةً‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847903,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"605\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">قَالَ‌: اَلْحَرُّ أَنْفَعُ أَمِ اَلْبَرْدُ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847904,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"606\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format></p>"
+        },
+        {
+          "paragraphId": 687847905,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"607\"><format class=\"hadith\" who=\"8\" Id=\"38\" RevayatIndex=\"38\">اَلْحَرُّ أَنْفَعُ مِنَ اَلْبَرْدِ لِأَنَّ اَلْحَرَّ مِنْ حَرِّ اَلْحَيَاةِ‌، وَ اَلْبَرْدَ مِنْ بَرْدِ اَلْمَوْتِ‌، وَ كَذَلِكَ اَلسُّمُومُ اَلْقَاتِلَةُ‌، اَلْحَارُّ مِنْهَا أَسْلَمُ وَ أَقَلُّ ضَرَراً مِنَ اَلسُّمُومِ اَلْبَارِدَةِ‌. (اَلْحَدِيثِ‌).</format></p>"
+        },
+        {
+          "paragraphId": 687847906,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"608\"><format class=\"hadith\" who=\"1\" Id=\"39\" RevayatIndex=\"39\"><format class=\"sanadHadith\">وَ عَنْ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ قَالَ‌:</format> اَلصَّيْفُ أَحَرُّ مِنَ اَلشِّتَاءِ‌: اَلْحَرُّ يُؤْذِي وَ اَلْبَرْدُ ثَقِيلٌ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847907,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"609\">أقول: و سيجيء في أخبار الأبواب الآتية، إن شاء اللّه تعالى، جملة من الأخبار المناسبة، سيما في (الرسالة الذهبية)<lfootnote noteId=\"35\">1</lfootnote> و قد ورد في أحاديث العقل، و النفس، و الروح، و الموت، و الطينة، و الجنين، و الأطفال، ما يناسب الباب.</p>"
+        },
+        {
+          "paragraphId": 687847908,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"610\"><format class=\"q\">***</format></p>"
+        },
+        {
+          "paragraphId": 687847909,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"611\"><page number=\"55\"/><heading level=\"2\">باب <format class=\"BM\">جواز التداوي، و المعالجة، و الرجوع إلى الأطباء و التداوي بما عدا السموم القاتلة، و المحرمات، و وجوب ذلك مع الحاجة، و ترك ذلك مع الإمكان </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851668,
+          "text": "<footnote id=\"35\"><page number=\"54\"/><mnote>(1)</mnote> تجدها في البحار بكاملها.</footnote>"
+        }
+      ],
+      "pageValue": "54",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p596\" paragraph-id=\"596\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo54\">54</span>قَالَ‌: فَكَيْفَ مِنْهَا عُيُونُ نِفْطٍ، وَ كِبْرِيتٍ وَ أَشْبَاهُ ذَلِكَ؟.</span>\n  </p>\n  <p id=\"p597\" paragraph-id=\"597\" class=\" G\">\n    <span class=\"hadith\">قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</span>\n  </p>\n  <p id=\"p598\" paragraph-id=\"598\" class=\" G\">\n    <span class=\"hadith\">- غَيَّرَهُ اَلْجَوْهَرُ، وَ اِنْقَلَبَ كَانْقِلاَبِ اَلْعَصِيرِ خَمْراً، وَ كَمَا اِنْقَلَبَ اَلْخَمْرُ فَصَارَ خَلاًّ، وَ كَمَا يُخْرِجُ مِنْ بَيْنِ فَرْثٍ وَ دَمٍ لَبَناً خَالِصاً.</span>\n  </p>\n  <p id=\"p599\" paragraph-id=\"599\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَمِنْ أَيْنَ أُخْرِجَتْ أَنْوَاعُ اَلْجَوَاهِرِ؟.</span>\n  </p>\n  <p id=\"p600\" paragraph-id=\"600\" class=\" G\">\n    <span class=\"hadith\">قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</span>\n  </p>\n  <p id=\"p601\" paragraph-id=\"601\" class=\" G\">\n    <span class=\"hadith\">اِنْقَلَبَتْ مِنْهَا كَانْقِلاَبِ اَلنُّطْفَةِ عَلَقَةً‌، ثُمَّ مُضْغَةً‌، ثُمَّ عَلَقَةً مُجْتَمِعَةً‌، مَبْنِيَّةً عَلَى اَلْمُتَضَادَّاتِ اَلْأَرْبَعِ‌.</span>\n  </p>\n  <p id=\"p602\" paragraph-id=\"602\" class=\" G\">\n    <span class=\"hadith\">قَالَ عِمْرَانُ‌: إِذَا كَانَتِ اَلْأَرْضُ خُلِقَتْ مِنَ اَلْمَاءِ‌، وَ اَلْمَاءُ بَارِدٌ رَطْبٌ‌، فَكَيْفَ صَارَتِ اَلْأَرْضُ بَارِدَةً يَابِسَةً؟.</span>\n  </p>\n  <p id=\"p603\" paragraph-id=\"603\" class=\" G\">\n    <span class=\"hadith\">قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</span>\n  </p>\n  <p id=\"p604\" paragraph-id=\"604\" class=\" G\">\n    <span class=\"hadith\">- سُلِبَتِ اَلنَّدَاوَةُ فَصَارَتْ يَابِسَةً‌.</span>\n  </p>\n  <p id=\"p605\" paragraph-id=\"605\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: اَلْحَرُّ أَنْفَعُ أَمِ اَلْبَرْدُ؟.</span>\n  </p>\n  <p id=\"p606\" paragraph-id=\"606\" class=\" G\">\n    <span class=\"hadith\">قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</span>\n  </p>\n  <p id=\"p607\" paragraph-id=\"607\" class=\" G\">\n    <span class=\"hadith\">اَلْحَرُّ أَنْفَعُ مِنَ اَلْبَرْدِ لِأَنَّ اَلْحَرَّ مِنْ حَرِّ اَلْحَيَاةِ‌، وَ اَلْبَرْدَ مِنْ بَرْدِ اَلْمَوْتِ‌، وَ كَذَلِكَ اَلسُّمُومُ اَلْقَاتِلَةُ‌، اَلْحَارُّ مِنْهَا أَسْلَمُ وَ أَقَلُّ ضَرَراً مِنَ اَلسُّمُومِ اَلْبَارِدَةِ‌. (اَلْحَدِيثِ‌).</span>\n  </p>\n  <p id=\"p608\" paragraph-id=\"608\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ قَالَ‌:</span> اَلصَّيْفُ أَحَرُّ مِنَ اَلشِّتَاءِ‌: اَلْحَرُّ يُؤْذِي وَ اَلْبَرْدُ ثَقِيلٌ‌.</span>\n  </p>\n  <p id=\"p609\" paragraph-id=\"609\" class=\" G\">أقول: و سيجيء في أخبار الأبواب الآتية، إن شاء اللّه تعالى، جملة من الأخبار المناسبة، سيما في (الرسالة الذهبية)<span><sup><a class=\"NewFn\" href=\"#footnote35\" title=\"(1)  تجدها في البحار بكاملها.\">1</a></sup></span> و قد ورد في أحاديث العقل، و النفس، و الروح، و الموت، و الطينة، و الجنين، و الأطفال، ما يناسب الباب.</p>\n  <p id=\"p610\" paragraph-id=\"610\" class=\" G\">\n    <span class=\"q\">***</span>\n  </p>\n  <p id=\"p611\" paragraph-id=\"611\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote35\" footnote-id=\"35\">(1) <page number=\"54\" /> تجدها في البحار بكاملها.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "9616EED0-C728-4CCB-97BD-83CC82671983",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

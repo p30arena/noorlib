@@ -1,0 +1,110 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 215,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849801,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2416\"><page number=\"215\"/><format class=\"hadith\" who=\"16\" Id=\"777\" RevayatIndex=\"790\"><format class=\"sanadHadith\">وَ كَذَا وَرَدَ:</format> فِي زِيَارَةِ اَلْحُسَيْنِ (عَلَيْهِ اَلسَّلاَمُ‌)، إِنَّ أَدْنَى مَا يَكُونُ لِلزَّائِرِ أَنْ يَحْفَظَهُ اَللَّهُ فِي نَفْسِهِ وَ مَالِهِ حَتَّى يَرُدَّهُ إِلَى أَهْلِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849802,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2417\"><format class=\"hadith\" who=\"16\" Id=\"777\" RevayatIndex=\"790\">وَ إِنَّ مَاءَ اَلْفُرَاتِ‌، وَ مَاءَ اَلْمِيزَابِ‌، وَ مَاءَ زَمْزَمَ‌، شِفَاءٌ وَ مَصَحَّةٌ لِلْبَدَنِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849803,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2418\"><format class=\"hadith\" who=\"14\" Id=\"778\" RevayatIndex=\"791\"><format class=\"sanadHadith\">وَ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌، قَالَ‌:</format> مَا أَنْعَمَ اَللَّهُ عَلَى عَبْدٍ نِعْمَةً‌، مِنْ أَهْلٍ وَ لاَ مَالٍ‌، وَ لاَ وَلَدٍ فَيَقُولُ‌: «مَا شَاءَ اَللَّهُ‌، لاَ قُوَّةَ إِلاَّ بِاللَّهِ‌» فَيَرَى فِيهِ آفَةً إِلاَّ اَلْمَوْتَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849804,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2419\"><format class=\"hadith\" who=\"6\" Id=\"779\" RevayatIndex=\"792\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> مَنْ خَرَجَ فِي سَفَرٍ، فَلَمْ يُدِرِ اَلْعِمَامَةَ تَحْتَ حَنَكِهِ‌، فَأَصَابَهُ أَلَمٌ‌، لاَ دَوَاءَ لَهُ‌، فَلاَ يَلُومَنَّ إِلاَّ نَفْسَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849805,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2420\"><format class=\"hadith\" who=\"6\" Id=\"780\" RevayatIndex=\"793\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>ضَمِنْتُ لِمَنْ خَرَجَ مِنْ بَيْتِهِ‌، مُعْتَمّاً تَحْتَ حَنَكِهِ‌، أَنْ يَرْجِعَ إِلَيْهِمْ سَالِماً.</format></p>"
+        },
+        {
+          "paragraphId": 687849806,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2421\"><format class=\"hadith\" who=\"6\" Id=\"781\" RevayatIndex=\"794\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format> مَنْ قَالَ هَذِهِ اَلْكَلِمَاتِ عِنْدَ كُلِّ صَلاَةٍ مَكْتُوبَةٍ‌، حُفِظَ فِي نَفْسِهِ‌، وَ دَارِهِ‌، وَ مَالِهِ‌، وَ وُلْدِهِ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849807,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2422\"><format class=\"hadith\" who=\"6\" Id=\"781\" RevayatIndex=\"794\">«أُجِيرُ نَفْسِي، وَ مَالِي، وَ وُلْدِي، وَ أَهْلِي، وَ دَارِي، وَ كُلُّ مَا هُوَ مِنِّي، بِاللَّهِ اَلْوَاحِدِ اَلْأَحَدِ اَلصَّمَدِ، اَلَّذِي لَمْ يَلِدْ وَ لَمْ يُولَدْ.. الخ، وَ أُجِيرُ نَفْسِي، وَ مَالِي، وَ وُلْدِي، وَ أَهْلِي، وَ دَارِي، وَ كُلُّ مَا هُوَ مِنِّي بِرَبِّ اَلْفَلَقِ‌، مِنْ شَرِّ مَا خَلَقَ‌... الخ، وَ بِرَبِّ اَلنَّاسِ‌... الخ، وَ بِاللَّهِ اَلَّذِي لاَ إِلَهَ إِلاَّ هُوَ اَلْحَيُّ اَلْقَيُّومُ‌... الخ.</format></p>"
+        },
+        {
+          "paragraphId": 687849808,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2423\"><format class=\"hadith\" who=\"16\" Id=\"782\" RevayatIndex=\"795\"><format class=\"sanadHadith\">وَ قَدْ وَرَدَ:</format> فِي اَلْفِطْرَةِ‌، أَنَّ تَرْكَهَا سَبَبٌ لِلْمَوْتِ‌، وَ إِعْطَاءَهَا سَبَبُ اَلْبَقَاءِ وَ اَلْحَيَاةِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849809,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2424\"><format class=\"hadith\" who=\"16\" Id=\"783\" RevayatIndex=\"796\"><format class=\"sanadHadith\">وَ رُوِيَ‌:</format> أَنَّ كُلَّ مَوْلُودٍ مُرْتَهَنٌ بِعَقِيقَتِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849810,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2425\"><format class=\"hadith\" who=\"16\" Id=\"784\" RevayatIndex=\"797\"><format class=\"sanadHadith\">وَ رُوِيَ‌:</format> أَنَّ مَنْ رَوِيَ مِنْ مَاءِ زَمْزَمَ‌، أَحْدَثَ لَهُ شِفَاءً‌، وَ صَرَفَ عَنْهُ دَاءً‌. </format></p>"
+        },
+        {
+          "paragraphId": 687849811,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2426\"><format class=\"hadith\" who=\"14\" Id=\"785\" RevayatIndex=\"798\"><format class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> مَنْ أَرَادَ دُنْيَا وَ آخِرَةً‌، فَلْيَؤُمَّ هَذَا <format class=\"t\">اَلْبَيْتَ‌</format>، وَ مَنْ رَجَعَ مِنْ <format class=\"t\">مَكَّةَ‌</format>، وَ هُوَ يَنْوِي اَلْحَجَّ مِنْ قَابِلٍ‌، زِيدَ فِي عُمُرِهِ‌، وَ مَنْ خَرَجَ مِنْ <format class=\"t\">مَكَّةَ‌</format> وَ هُوَ لاَ يَنْوِي اَلْعَوْدَ إِلَيْهَا، فَقَدْ قَرُبَ أَجَلُهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849812,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2427\"><format class=\"hadith\" who=\"6\" Id=\"786\" RevayatIndex=\"799\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">إِسْحَاقَ بْنِ عَمَّارٍ</format> قَالَ‌:</format> قُلْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لِلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: إِنَّ رَجُلاً اِسْتَشَارَنِي فِي اَلْحَجِّ‌، وَ كَانَ ضَعِيفَ اَلْحَالِ‌، فَأَشَرْتُ عَلَيْهِ أَنْ لاَ يَحُجَّ‌، فَقَالَ (عَلَيْهِ اَلسَّلاَمُ‌): مَا أَخْلَقَكَ أَنْ تَمْرَضَ سَنَةً‌. قَالَ‌: فَمَرِضْتُ سَنَةً‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849813,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"2428\"><page number=\"216\"/><format class=\"hadith\" who=\"6\" Id=\"787\" RevayatIndex=\"800\"><format class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> لِيَحْذَرْ أَحَدُكُمْ أَنْ يُعَوِّقَ أَخَاهُ عَنِ اَلْحَجِّ‌، فَتُصِيبَهُ فِتْنَةٌ فِي دُنْيَاهُ‌، مَعَ مَا يُدَّخَرُ فِي اَلْآخِرَةِ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "215",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2416\" paragraph-id=\"2416\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo215\">215</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ كَذَا وَرَدَ:</span> فِي زِيَارَةِ اَلْحُسَيْنِ (عَلَيْهِ اَلسَّلاَمُ‌)، إِنَّ أَدْنَى مَا يَكُونُ لِلزَّائِرِ أَنْ يَحْفَظَهُ اَللَّهُ فِي نَفْسِهِ وَ مَالِهِ حَتَّى يَرُدَّهُ إِلَى أَهْلِهِ‌.</span>\n  </p>\n  <p id=\"p2417\" paragraph-id=\"2417\" class=\" G\">\n    <span class=\"hadith\">وَ إِنَّ مَاءَ اَلْفُرَاتِ‌، وَ مَاءَ اَلْمِيزَابِ‌، وَ مَاءَ زَمْزَمَ‌، شِفَاءٌ وَ مَصَحَّةٌ لِلْبَدَنِ‌.</span>\n  </p>\n  <p id=\"p2418\" paragraph-id=\"2418\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌، قَالَ‌:</span> مَا أَنْعَمَ اَللَّهُ عَلَى عَبْدٍ نِعْمَةً‌، مِنْ أَهْلٍ وَ لاَ مَالٍ‌، وَ لاَ وَلَدٍ فَيَقُولُ‌: «مَا شَاءَ اَللَّهُ‌، لاَ قُوَّةَ إِلاَّ بِاللَّهِ‌» فَيَرَى فِيهِ آفَةً إِلاَّ اَلْمَوْتَ‌.</span>\n  </p>\n  <p id=\"p2419\" paragraph-id=\"2419\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> مَنْ خَرَجَ فِي سَفَرٍ، فَلَمْ يُدِرِ اَلْعِمَامَةَ تَحْتَ حَنَكِهِ‌، فَأَصَابَهُ أَلَمٌ‌، لاَ دَوَاءَ لَهُ‌، فَلاَ يَلُومَنَّ إِلاَّ نَفْسَهُ‌.</span>\n  </p>\n  <p id=\"p2420\" paragraph-id=\"2420\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>ضَمِنْتُ لِمَنْ خَرَجَ مِنْ بَيْتِهِ‌، مُعْتَمّاً تَحْتَ حَنَكِهِ‌، أَنْ يَرْجِعَ إِلَيْهِمْ سَالِماً.</span>\n  </p>\n  <p id=\"p2421\" paragraph-id=\"2421\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span> مَنْ قَالَ هَذِهِ اَلْكَلِمَاتِ عِنْدَ كُلِّ صَلاَةٍ مَكْتُوبَةٍ‌، حُفِظَ فِي نَفْسِهِ‌، وَ دَارِهِ‌، وَ مَالِهِ‌، وَ وُلْدِهِ‌:</span>\n  </p>\n  <p id=\"p2422\" paragraph-id=\"2422\" class=\" G\">\n    <span class=\"hadith\">«أُجِيرُ نَفْسِي، وَ مَالِي، وَ وُلْدِي، وَ أَهْلِي، وَ دَارِي، وَ كُلُّ مَا هُوَ مِنِّي، بِاللَّهِ اَلْوَاحِدِ اَلْأَحَدِ اَلصَّمَدِ، اَلَّذِي لَمْ يَلِدْ وَ لَمْ يُولَدْ.. الخ، وَ أُجِيرُ نَفْسِي، وَ مَالِي، وَ وُلْدِي، وَ أَهْلِي، وَ دَارِي، وَ كُلُّ مَا هُوَ مِنِّي بِرَبِّ اَلْفَلَقِ‌، مِنْ شَرِّ مَا خَلَقَ‌... الخ، وَ بِرَبِّ اَلنَّاسِ‌... الخ، وَ بِاللَّهِ اَلَّذِي لاَ إِلَهَ إِلاَّ هُوَ اَلْحَيُّ اَلْقَيُّومُ‌... الخ.</span>\n  </p>\n  <p id=\"p2423\" paragraph-id=\"2423\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَدْ وَرَدَ:</span> فِي اَلْفِطْرَةِ‌، أَنَّ تَرْكَهَا سَبَبٌ لِلْمَوْتِ‌، وَ إِعْطَاءَهَا سَبَبُ اَلْبَقَاءِ وَ اَلْحَيَاةِ‌.</span>\n  </p>\n  <p id=\"p2424\" paragraph-id=\"2424\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ رُوِيَ‌:</span> أَنَّ كُلَّ مَوْلُودٍ مُرْتَهَنٌ بِعَقِيقَتِهِ‌.</span>\n  </p>\n  <p id=\"p2425\" paragraph-id=\"2425\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ رُوِيَ‌:</span> أَنَّ مَنْ رَوِيَ مِنْ مَاءِ زَمْزَمَ‌، أَحْدَثَ لَهُ شِفَاءً‌، وَ صَرَفَ عَنْهُ دَاءً‌. </span>\n  </p>\n  <p id=\"p2426\" paragraph-id=\"2426\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</span> مَنْ أَرَادَ دُنْيَا وَ آخِرَةً‌، فَلْيَؤُمَّ هَذَا <span class=\"t\">اَلْبَيْتَ‌</span>، وَ مَنْ رَجَعَ مِنْ <span class=\"t\">مَكَّةَ‌</span>، وَ هُوَ يَنْوِي اَلْحَجَّ مِنْ قَابِلٍ‌، زِيدَ فِي عُمُرِهِ‌، وَ مَنْ خَرَجَ مِنْ <span class=\"t\">مَكَّةَ‌</span> وَ هُوَ لاَ يَنْوِي اَلْعَوْدَ إِلَيْهَا، فَقَدْ قَرُبَ أَجَلُهُ‌.</span>\n  </p>\n  <p id=\"p2427\" paragraph-id=\"2427\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">إِسْحَاقَ بْنِ عَمَّارٍ</span> قَالَ‌:</span> قُلْتُ <span class=\"Y\"><span class=\"maasoom\">لِلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: إِنَّ رَجُلاً اِسْتَشَارَنِي فِي اَلْحَجِّ‌، وَ كَانَ ضَعِيفَ اَلْحَالِ‌، فَأَشَرْتُ عَلَيْهِ أَنْ لاَ يَحُجَّ‌، فَقَالَ (عَلَيْهِ اَلسَّلاَمُ‌): مَا أَخْلَقَكَ أَنْ تَمْرَضَ سَنَةً‌. قَالَ‌: فَمَرِضْتُ سَنَةً‌.</span>\n  </p>\n  <p id=\"p2428\" paragraph-id=\"2428\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "BFED4703-0B14-41DD-821D-3A38B643A63D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

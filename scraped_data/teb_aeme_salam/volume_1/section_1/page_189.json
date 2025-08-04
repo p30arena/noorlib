@@ -1,0 +1,105 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 189,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849552,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2167\"><page number=\"189\"/><format class=\"hadith\" who=\"6\" Id=\"645\" RevayatIndex=\"654\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْعِدَّةِ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَلْعَزِيزِ بْنِ اَلْمُهْتَدِي</format>، رَفَعَهُ إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> مَا مِنْ أَحَدٍ إِلاَّ وَ فِيهِ عِرْقٌ مِنَ اَلْجُذَامِ‌، فَأَذِيبُوهُ بِالسَّلْجَمِ‌.</format> وَ نَحْوَهُ آخَرَ.</p>"
+        },
+        {
+          "paragraphId": 687849553,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2168\"><format class=\"hadith\" who=\"6\" Id=\"646\" RevayatIndex=\"655\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنِ <format class=\"G\">اَلْحَسَنِ بْنِ اَلْحُسَيْنِ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ سِنَانٍ‌</format>، <format class=\"G\">عَمَّنْ ذَكَرَهُ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> عَلَيْكُمْ بِالسَّلْجَمِ فَكُلُوهُ‌، وَ أَدِيمُوا أَكْلَهُ‌، وَ اُكْتُمُوهُ إِلاَّ عَنْ أَهْلِهِ‌، فَمَا مِنْ أَحَدٍ إِلاَّ وَ بِهِ عِرْقٌ مِنَ اَلْجُذَامِ‌، فَأَذِيبُوهُ بِأَكْلِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849554,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2169\"><lfootnote noteId=\"101\">1</lfootnote>. نحوه، و روى ما تقدمه، </p>"
+        },
+        {
+          "paragraphId": 687849555,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2170\"><format class=\"hadith\" who=\"6\" Id=\"647\" RevayatIndex=\"656\"><format class=\"sanadHadith\">قَالَ وَ فِي حَدِيثٍ آخَرَ، قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>مَا مِنْ أَحَدٍ إِلاَّ وَ فِيهِ عِرْقٌ مِنَ اَلْجُذَامِ‌، فَكُلُوا اَلشَّلْجَمَ فِي زَمَانِهِ‌، يَذْهَبْ بِهِ عَنْكُمْ‌. 6 - <format class=\"RevayatIndex\" index=\"1798\"/><format class=\"sanadHadith\">وَ فِي حَدِيثٍ آخَرَ:</format> مَا مِنْ أَحَدٍ إِلاَّ وَ بِهِ عِرْقٌ مِنَ اَلْجُذَامِ‌، وَ أَنَّ اَللِّفْتَ (وَ هُوَ اَلشَّلْجَمُ‌) يُذِيبُهُ‌، فَكُلُوهُ فِي زَمَانِهِ‌، يُذْهِبْ عَنْكُمْ كُلَّ دَاءٍ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849556,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2171\"><heading level=\"2\">باب <format class=\"VD\">التداوي بالباذنجان و منافعه</format></heading></p>"
+        },
+        {
+          "paragraphId": 687849557,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2172\">...<lfootnote noteId=\"102\">2</lfootnote>. </p>"
+        },
+        {
+          "paragraphId": 687849558,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2173\"><format class=\"hadith\" who=\"6\" Id=\"648\" RevayatIndex=\"657\"><format class=\"sanadHadith\"><format class=\"G\">اَلْعِدَّةُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ عَلِيِّ بْنِ عَامِرٍ</format>، عَنْ <format class=\"G\">إِبْرَاهِيمَ بْنِ اَلْفَضْلِ‌</format>، عَنْ <format class=\"G\">جَعْفَرِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌: </format></format></p>"
+        },
+        {
+          "paragraphId": 687849559,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2174\"><format class=\"hadith\" who=\"6\" Id=\"648\" RevayatIndex=\"657\">كُلُوا اَلْبَاذَنْجَانَ‌، فَإِنَّهُ يُذْهِبُ اَلدَّاءَ‌، وَ لاَ دَاءَ لَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849560,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2175\"><format class=\"hadith\" who=\"10\" Id=\"649\" RevayatIndex=\"658\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُمْ‌</format>، عَنْ <format class=\"G\">سَهْلِ بْنِ زِيَادٍ</format>، عَنْ <format class=\"G\">بَعْضِ أَصْحَابِنَا</format>، قَالَ‌:</format> قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"10\">أَبُو اَلْحَسَنِ اَلثَّالِثُ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> لِبَعْضِ قَهَارِمَتِهِ‌<lfootnote noteId=\"103\">3</lfootnote>: اِسْتَكْثِرُوا لَنَا مِنَ اَلْبَاذَنْجَانِ فَإِنَّهُ حَارٌّ فِي وَقْتِ اَلْحَرَارَةِ‌، وَ بَارِدٌ فِي وَقْتِ اَلْبُرُودَةِ‌، مُعْتَدِلٌ فِي اَلْأَوْقَاتِ كُلِّهَا، جَيِّدٌ عَلَى كُلِّ حَالٍ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849561,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2176\"><page number=\"190\"/><format class=\"hadith\" who=\"16\" Id=\"650\" RevayatIndex=\"659\"><format class=\"sanadHadith\"><format class=\"G\">اَلْحُسَيْنُ بْنُ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">مُعَلَّى بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، وَ <format class=\"G\">عَبْدُ اَللَّهِ بْنِ اَلْقَاسِمِ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَلرَّحْمَنِ اَلْهَاشِمِيِّ‌</format> قَالَ‌:</format> قَالَ لِبَعْضِ مَوَالِيهِ‌: أَقْلِلْ لَنَا مِنَ اَلْبَصَلِ‌، وَ أَكْثِرْ لَنَا مِنَ اَلْبَاذَنْجَانِ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851734,
+          "text": "<footnote id=\"101\"><page number=\"189\"/><mnote>(1)</mnote> لفظة ممحوّة في الأصل.</footnote>"
+        },
+        {
+          "footnoteId": 687851735,
+          "text": "<footnote id=\"102\"><mnote>(2)</mnote> بياض في الأصل، و قد أثبتنا أن الحديث مأخوذ من كتاب (الكافي) لأبي جعفر الكليني 373/6.</footnote>"
+        },
+        {
+          "footnoteId": 687851736,
+          "text": "<footnote id=\"103\"><mnote>(3)</mnote> القهرمان: هو الخازن، و الوكيل، و الحافظ، لما تحت يده، و القائم بأمور الرجل بلغة الفرس.</footnote>"
+        }
+      ],
+      "pageValue": "189",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2167\" paragraph-id=\"2167\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo189\">189</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلْعِدَّةِ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَلْعَزِيزِ بْنِ اَلْمُهْتَدِي</span>، رَفَعَهُ إِلَى <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> مَا مِنْ أَحَدٍ إِلاَّ وَ فِيهِ عِرْقٌ مِنَ اَلْجُذَامِ‌، فَأَذِيبُوهُ بِالسَّلْجَمِ‌.</span> وَ نَحْوَهُ آخَرَ.</p>\n  <p id=\"p2168\" paragraph-id=\"2168\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُ‌</span>، عَنِ <span class=\"G\">اَلْحَسَنِ بْنِ اَلْحُسَيْنِ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ سِنَانٍ‌</span>، <span class=\"G\">عَمَّنْ ذَكَرَهُ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> عَلَيْكُمْ بِالسَّلْجَمِ فَكُلُوهُ‌، وَ أَدِيمُوا أَكْلَهُ‌، وَ اُكْتُمُوهُ إِلاَّ عَنْ أَهْلِهِ‌، فَمَا مِنْ أَحَدٍ إِلاَّ وَ بِهِ عِرْقٌ مِنَ اَلْجُذَامِ‌، فَأَذِيبُوهُ بِأَكْلِهِ‌.</span>\n  </p>\n  <p id=\"p2169\" paragraph-id=\"2169\" class=\" G\">\n    <span>\n      <sup>\n        <a class=\"NewFn\" href=\"#footnote101\" title=\"(1)  لفظة ممحوّة في الأصل.\">1</a>\n      </sup>\n    </span>. نحوه، و روى ما تقدمه، </p>\n  <p id=\"p2170\" paragraph-id=\"2170\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ وَ فِي حَدِيثٍ آخَرَ، قَالَ <span class=\"Y\"><span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>مَا مِنْ أَحَدٍ إِلاَّ وَ فِيهِ عِرْقٌ مِنَ اَلْجُذَامِ‌، فَكُلُوا اَلشَّلْجَمَ فِي زَمَانِهِ‌، يَذْهَبْ بِهِ عَنْكُمْ‌. 6 - <span class=\"RevayatIndex\"></span><span class=\"sanadHadith\">وَ فِي حَدِيثٍ آخَرَ:</span> مَا مِنْ أَحَدٍ إِلاَّ وَ بِهِ عِرْقٌ مِنَ اَلْجُذَامِ‌، وَ أَنَّ اَللِّفْتَ (وَ هُوَ اَلشَّلْجَمُ‌) يُذِيبُهُ‌، فَكُلُوهُ فِي زَمَانِهِ‌، يُذْهِبْ عَنْكُمْ كُلَّ دَاءٍ‌.</span>\n  </p>\n  <p id=\"p2171\" paragraph-id=\"2171\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي بالباذنجان و منافعه</span></strong>\n  </p>\n  <p id=\"p2172\" paragraph-id=\"2172\" class=\" G\">...<span><sup><a class=\"NewFn\" href=\"#footnote102\" title=\"(2)  بياض في الأصل، و قد أثبتنا أن الحديث مأخوذ من كتاب (الكافي) لأبي جعفر الكليني 373/6.\">2</a></sup></span>. </p>\n  <p id=\"p2173\" paragraph-id=\"2173\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"G\">اَلْعِدَّةُ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ عَلِيِّ بْنِ عَامِرٍ</span>، عَنْ <span class=\"G\">إِبْرَاهِيمَ بْنِ اَلْفَضْلِ‌</span>، عَنْ <span class=\"G\">جَعْفَرِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌: </span>\n    </span>\n  </p>\n  <p id=\"p2174\" paragraph-id=\"2174\" class=\" G\">\n    <span class=\"hadith\">كُلُوا اَلْبَاذَنْجَانَ‌، فَإِنَّهُ يُذْهِبُ اَلدَّاءَ‌، وَ لاَ دَاءَ لَهُ‌.</span>\n  </p>\n  <p id=\"p2175\" paragraph-id=\"2175\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُمْ‌</span>، عَنْ <span class=\"G\">سَهْلِ بْنِ زِيَادٍ</span>، عَنْ <span class=\"G\">بَعْضِ أَصْحَابِنَا</span>، قَالَ‌:</span> قَالَ <span class=\"Y\"><span class=\"maasoom\">أَبُو اَلْحَسَنِ اَلثَّالِثُ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> لِبَعْضِ قَهَارِمَتِهِ‌<span><sup><a class=\"NewFn\" href=\"#footnote103\" title=\"(3)  القهرمان: هو الخازن، و الوكيل، و الحافظ، لما تحت يده، و القائم بأمور الرجل بلغة الفرس.\">3</a></sup></span>: اِسْتَكْثِرُوا لَنَا مِنَ اَلْبَاذَنْجَانِ فَإِنَّهُ حَارٌّ فِي وَقْتِ اَلْحَرَارَةِ‌، وَ بَارِدٌ فِي وَقْتِ اَلْبُرُودَةِ‌، مُعْتَدِلٌ فِي اَلْأَوْقَاتِ كُلِّهَا، جَيِّدٌ عَلَى كُلِّ حَالٍ‌.</span>\n  </p>\n  <p id=\"p2176\" paragraph-id=\"2176\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote101\" footnote-id=\"101\">(1) <page number=\"189\" /> لفظة ممحوّة في الأصل.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote102\" footnote-id=\"102\">(2)  بياض في الأصل، و قد أثبتنا أن الحديث مأخوذ من كتاب (الكافي) لأبي جعفر الكليني 373/6.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote103\" footnote-id=\"103\">(3)  القهرمان: هو الخازن، و الوكيل، و الحافظ، لما تحت يده، و القائم بأمور الرجل بلغة الفرس.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "36970B4D-5597-4CB8-A71F-2A26A5568AA4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

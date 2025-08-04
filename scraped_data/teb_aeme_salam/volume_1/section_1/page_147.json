@@ -1,0 +1,110 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 147,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849072,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1675\"><page number=\"147\"/><format class=\"hadith\" who=\"6\" Id=\"425\" RevayatIndex=\"433\"><format class=\"sanadHadith\">وَ عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> اَلْبَاقِلاَّ يُذْهِبُ اَلدَّاءَ‌، وَ لاَ دَاءَ فِيهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849073,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1676\"><heading level=\"2\">باب <format class=\"VD\">التداوي بالماش و اللوبيا و الجاورس </format></heading></p>"
+        },
+        {
+          "paragraphId": 687849074,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1677\"><format class=\"hadith\" who=\"6\" Id=\"426\" RevayatIndex=\"434\"><format class=\"sanadHadith\">اَلْكَافِي: عَلِيُّ بْنُ مُحَمَّدٍ، عَنْ سَهْلِ بْنِ زِيَادٍ، عَنِ اِبْنِ أَبِي نَجْرَانَ‌، عَمَّنْ ذَكَرَهُ‌، عَنْ أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849075,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1678\"><format class=\"hadith\" who=\"6\" Id=\"426\" RevayatIndex=\"434\">اَللُّوبِيَا يَطْرُدُ اَلرِّيَاحَ اَلْمُسْتَبْطَنَةَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849076,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1679\"><format class=\"hadith\" who=\"8\" Id=\"427\" RevayatIndex=\"435\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ مُوسَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ اَلْحَسَنِ اَلْجَلاَّبِ‌</format>، عَنْ <format class=\"G\">بَعْضِ أَصْحَابِنَا</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849077,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1680\"><format class=\"hadith\" who=\"8\" Id=\"427\" RevayatIndex=\"435\">شَكَا رَجُلٌ إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، اَلْبَهَقَ‌، فَأَمَرَهُ أَنْ يَطْبُخَ اَلْمَاشَ‌، وَ يَتَحَسَّاهُ‌، وَ يَجْعَلَهُ فِي طَعَامِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849078,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1681\"><format class=\"hadith\" who=\"7\" Id=\"428\" RevayatIndex=\"436\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْعِدَّةِ‌</format>، عَنْ <format class=\"G\">سَهْلِ بْنِ زِيَادٍ</format>، عَنْ <format class=\"G\">أَيُّوبَ بْنِ نُوحٍ‌</format>، قَالَ‌:</format> حَدَّثَنِي مَنْ أَكَلَ مَعَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أَبِي اَلْحَسَنِ اَلْأَوَّلِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> هَرِيسَةً بِالْجَاوَرْسِ‌، وَ قَالَ‌: أَمَا إِنَّهُ طَعَامٌ لَيْسَ فِيهِ ثِقَلٌ‌، وَ لاَ لَهُ غَائِلَةٌ‌، وَ إِنَّهُ أَعْجَبَنِي، فَأَمَرْتُ أَنْ يُتَّخَذَ لِي وَ هُوَ بِاللَّبَنِ أَنْفَعُ وَ أَلْيَنُ لِلْمَعِدَةِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849079,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1682\"><format class=\"hadith\" who=\"6\" Id=\"429\" RevayatIndex=\"437\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">بَعْضِ أَصْحَابِنَا</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ حَسَّانَ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَلرَّحْمَنِ بْنِ كَثِيرٍ</format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849080,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1683\"><format class=\"hadith\" who=\"6\" Id=\"429\" RevayatIndex=\"437\">مَرِضْتُ <format class=\"t\">بِالْمَدِينَةِ‌</format>، فَأَطْلَقَ بَطْنِي، فَوَصَفَ لِي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> سَوِيقَ اَلْجَاوَرْسِ‌، وَ أَمَرَنِي أَنْ آخُذَ سَوِيقَ اَلْجَاوَرْسِ وَ أَشْرَبَهُ بِمَاءِ اَلْكَمُّونِ‌، فَفَعَلْتُ‌، فَأَمْسَكَ بَطْنِي، وَ عُوفِيتُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849081,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1684\">بيان: الجاورس: صنف من الدخن أو مثله.</p>"
+        },
+        {
+          "paragraphId": 687849082,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1685\"><format class=\"hadith\" who=\"8\" Id=\"430\" RevayatIndex=\"438\"><format class=\"sanadHadith\">اَلْمَكَارِمُ‌:</format> سَأَلَ بَعْضُ أَصْحَابِنَا اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)، عَنِ اَلْبَهَقِ‌، قَالَ فَأَمَرَنِي أَنْ أَطْبُخَ اَلْمَاشَ‌، وَ أَتَحَسَّاهُ‌، وَ أَجْعَلَهُ طَعَامِي. فَفَعَلْتُ أَيَّاماً فَعُوفِيتُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849083,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1686\"><format class=\"hadith\" who=\"8\" Id=\"431\" RevayatIndex=\"439\"><format class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، أَيْضاً، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849084,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1687\"><format class=\"hadith\" who=\"8\" Id=\"431\" RevayatIndex=\"439\"><page number=\"148\"/>خُذِ اَلْمَاشَ اَلرَّطْبَ فِي أَيَّامِهِ‌، وَ دُقَّهُ مَعَ وَرَقِهِ‌، وَ اِعْصِرِ اَلْمَاءَ‌، وَ اِشْرَبْهُ عَلَى اَلرِّيقِ‌، وَ اِطْلِهِ عَلَى اَلْبَهَقِ‌، فَفَعَلْتُ وَ عُوفِيتُ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "147",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1675\" paragraph-id=\"1675\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo147\">147</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> اَلْبَاقِلاَّ يُذْهِبُ اَلدَّاءَ‌، وَ لاَ دَاءَ فِيهِ‌.</span>\n  </p>\n  <p id=\"p1676\" paragraph-id=\"1676\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي بالماش و اللوبيا و الجاورس </span></strong>\n  </p>\n  <p id=\"p1677\" paragraph-id=\"1677\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْكَافِي: عَلِيُّ بْنُ مُحَمَّدٍ، عَنْ سَهْلِ بْنِ زِيَادٍ، عَنِ اِبْنِ أَبِي نَجْرَانَ‌، عَمَّنْ ذَكَرَهُ‌، عَنْ أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1678\" paragraph-id=\"1678\" class=\" G\">\n    <span class=\"hadith\">اَللُّوبِيَا يَطْرُدُ اَلرِّيَاحَ اَلْمُسْتَبْطَنَةَ‌.</span>\n  </p>\n  <p id=\"p1679\" paragraph-id=\"1679\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ مُوسَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ اَلْحَسَنِ اَلْجَلاَّبِ‌</span>، عَنْ <span class=\"G\">بَعْضِ أَصْحَابِنَا</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1680\" paragraph-id=\"1680\" class=\" G\">\n    <span class=\"hadith\">شَكَا رَجُلٌ إِلَى <span class=\"Y\"><span class=\"maasoom\">أَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، اَلْبَهَقَ‌، فَأَمَرَهُ أَنْ يَطْبُخَ اَلْمَاشَ‌، وَ يَتَحَسَّاهُ‌، وَ يَجْعَلَهُ فِي طَعَامِهِ‌.</span>\n  </p>\n  <p id=\"p1681\" paragraph-id=\"1681\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلْعِدَّةِ‌</span>، عَنْ <span class=\"G\">سَهْلِ بْنِ زِيَادٍ</span>، عَنْ <span class=\"G\">أَيُّوبَ بْنِ نُوحٍ‌</span>، قَالَ‌:</span> حَدَّثَنِي مَنْ أَكَلَ مَعَ <span class=\"Y\"><span class=\"maasoom\">أَبِي اَلْحَسَنِ اَلْأَوَّلِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> هَرِيسَةً بِالْجَاوَرْسِ‌، وَ قَالَ‌: أَمَا إِنَّهُ طَعَامٌ لَيْسَ فِيهِ ثِقَلٌ‌، وَ لاَ لَهُ غَائِلَةٌ‌، وَ إِنَّهُ أَعْجَبَنِي، فَأَمَرْتُ أَنْ يُتَّخَذَ لِي وَ هُوَ بِاللَّبَنِ أَنْفَعُ وَ أَلْيَنُ لِلْمَعِدَةِ‌.</span>\n  </p>\n  <p id=\"p1682\" paragraph-id=\"1682\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">بَعْضِ أَصْحَابِنَا</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ حَسَّانَ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَلرَّحْمَنِ بْنِ كَثِيرٍ</span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1683\" paragraph-id=\"1683\" class=\" G\">\n    <span class=\"hadith\">مَرِضْتُ <span class=\"t\">بِالْمَدِينَةِ‌</span>، فَأَطْلَقَ بَطْنِي، فَوَصَفَ لِي <span class=\"Y\"><span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> سَوِيقَ اَلْجَاوَرْسِ‌، وَ أَمَرَنِي أَنْ آخُذَ سَوِيقَ اَلْجَاوَرْسِ وَ أَشْرَبَهُ بِمَاءِ اَلْكَمُّونِ‌، فَفَعَلْتُ‌، فَأَمْسَكَ بَطْنِي، وَ عُوفِيتُ‌.</span>\n  </p>\n  <p id=\"p1684\" paragraph-id=\"1684\" class=\" G\">بيان: الجاورس: صنف من الدخن أو مثله.</p>\n  <p id=\"p1685\" paragraph-id=\"1685\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْمَكَارِمُ‌:</span> سَأَلَ بَعْضُ أَصْحَابِنَا اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)، عَنِ اَلْبَهَقِ‌، قَالَ فَأَمَرَنِي أَنْ أَطْبُخَ اَلْمَاشَ‌، وَ أَتَحَسَّاهُ‌، وَ أَجْعَلَهُ طَعَامِي. فَفَعَلْتُ أَيَّاماً فَعُوفِيتُ‌.</span>\n  </p>\n  <p id=\"p1686\" paragraph-id=\"1686\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، أَيْضاً، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1687\" paragraph-id=\"1687\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "330A3F99-706F-4D17-BE32-4AC686BBB790",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

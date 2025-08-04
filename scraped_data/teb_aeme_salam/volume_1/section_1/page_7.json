@@ -1,0 +1,151 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 7,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687847440,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"142\"> فلم يكن ليتطلب عند الكتابة العزلة عن الناس، و الجلوس في غرفة خاصّة، بل كثيرا ما كان يجلس في مجلسه العام بيمناه القلم، و بيسراه القرطاس، يؤلف تارة، و يتحدث إلى زائريه أخرى، ثمّ تأتي خلال ذلك الدعاوى فيحلّها أحسن حلّ‌، فلا كثرة الزائرين، و لا ضجيج المشتكين بشاغلين له<page number=\"7\"/> عن التأليف و التصنيف، و هكذا النفوس الكبيرة إذا كانت قد تذوقت حلاوة العلم، فإنّها لا محالة تذلل في سبيله كل صعب، و هي لا محالة تجتاح من طريقه كل عقبة كؤود.</p>"
+        },
+        {
+          "paragraphId": 687847441,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"143\"><heading level=\"3\"><format class=\"H\">[مؤلّفاته:]</format></heading></p>"
+        },
+        {
+          "paragraphId": 687847442,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"144\">و ها نحن نذكر مؤلّفات السيّد و مصنّفاته، لتعرّف هذه الشخصية الممتازة، و لنعلم مقدار ما بذله هذا الإمام البحاثة من الجهود و الخدمات التي تذكر مصحوبة بكل إعجاب و إكبار و هي:</p>"
+        },
+        {
+          "paragraphId": 687847443,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"145\">1 - نهج العارفين (كتاب فارسي في الأخلاق) يحتوي على 1500 بيتا<lfootnote noteId=\"1\">1</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 687847444,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"146\">2 - رسالة فارسية في عمل اليوم و الليلة، ألف بيت.</p>"
+        },
+        {
+          "paragraphId": 687847445,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"147\">3 - الدّر المنثور في (المواعظ المأثورة) عن اللّه تعالى و النبيّ و الأئمة الطاهرين (عليهم السلام) و الحكماء، 20 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847446,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"148\">4 - رسالة في حجية خبر الواحد من الأخبار.</p>"
+        },
+        {
+          "paragraphId": 687847447,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"149\">5 - أعمال السنة: كتاب على نمط زاد المعاد للعلاّمة المجلسي في سبعة آلاف بيت.</p>"
+        },
+        {
+          "paragraphId": 687847448,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"150\">6 - ذريعة النجاة (في تعقيب الصلاة) عن نمط المصابيح للمجلسيّ في 5500 بيت.</p>"
+        },
+        {
+          "paragraphId": 687847449,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"151\">7 - رسالة في حجية العقل و في الحسن و القبح العقليين، في أربعة آلاف.</p>"
+        },
+        {
+          "paragraphId": 687847450,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"152\">8 - رسالة في تكليف الكفّار بالفروع.</p>"
+        },
+        {
+          "paragraphId": 687847451,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"153\">9 - شرح الحقائق في الأحكام (لم يكمل).</p>"
+        },
+        {
+          "paragraphId": 687847452,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"154\">10 - الدّر المنظوم في مشكلات العلوم، (لم يكمل).</p>"
+        },
+        {
+          "paragraphId": 687847453,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"155\">11 - علم اليقين (في طريقة القدماء و المحدثين) في ثلاثين ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847454,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"156\">12 - الجوهرة المضيئة (في الواجبات الأصلية و الفرعية).</p>"
+        },
+        {
+          "paragraphId": 687847455,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"157\">13 - (زينة المؤمنين و أخلاق المتقين) في مكارم الأخلاق.</p>"
+        },
+        {
+          "paragraphId": 687847456,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"158\">14 - (الرسائل الخمس) الاستدلالية في العبادات.</p>"
+        },
+        {
+          "paragraphId": 687847457,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"159\">15 - سفينة النجاة في 1100 بيت.</p>"
+        },
+        {
+          "paragraphId": 687847458,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"160\"><page number=\"8\"/>16 - الشهب الثاقبة.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851634,
+          "text": "<footnote id=\"1\"><page number=\"7\"/><mnote>(1)</mnote> يصطلح القدماء على البيت ما اشتمل على خمسين حرفا، و هو ما يساوي سطرا.</footnote>"
+        }
+      ],
+      "pageValue": "7",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p142\" paragraph-id=\"142\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo7\">7</span> عن التأليف و التصنيف، و هكذا النفوس الكبيرة إذا كانت قد تذوقت حلاوة العلم، فإنّها لا محالة تذلل في سبيله كل صعب، و هي لا محالة تجتاح من طريقه كل عقبة كؤود.</p>\n  <p id=\"p143\" paragraph-id=\"143\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"H\">[مؤلّفاته:]</span>\n    </strong>\n  </p>\n  <p id=\"p144\" paragraph-id=\"144\" class=\" G\">و ها نحن نذكر مؤلّفات السيّد و مصنّفاته، لتعرّف هذه الشخصية الممتازة، و لنعلم مقدار ما بذله هذا الإمام البحاثة من الجهود و الخدمات التي تذكر مصحوبة بكل إعجاب و إكبار و هي:</p>\n  <p id=\"p145\" paragraph-id=\"145\" class=\" G\">1 - نهج العارفين (كتاب فارسي في الأخلاق) يحتوي على 1500 بيتا<span><sup><a class=\"NewFn\" href=\"#footnote1\" title=\"(1)  يصطلح القدماء على البيت ما اشتمل على خمسين حرفا، و هو ما يساوي سطرا.\">1</a></sup></span>.</p>\n  <p id=\"p146\" paragraph-id=\"146\" class=\" G\">2 - رسالة فارسية في عمل اليوم و الليلة، ألف بيت.</p>\n  <p id=\"p147\" paragraph-id=\"147\" class=\" G\">3 - الدّر المنثور في (المواعظ المأثورة) عن اللّه تعالى و النبيّ و الأئمة الطاهرين (عليهم السلام) و الحكماء، 20 ألفا.</p>\n  <p id=\"p148\" paragraph-id=\"148\" class=\" G\">4 - رسالة في حجية خبر الواحد من الأخبار.</p>\n  <p id=\"p149\" paragraph-id=\"149\" class=\" G\">5 - أعمال السنة: كتاب على نمط زاد المعاد للعلاّمة المجلسي في سبعة آلاف بيت.</p>\n  <p id=\"p150\" paragraph-id=\"150\" class=\" G\">6 - ذريعة النجاة (في تعقيب الصلاة) عن نمط المصابيح للمجلسيّ في 5500 بيت.</p>\n  <p id=\"p151\" paragraph-id=\"151\" class=\" G\">7 - رسالة في حجية العقل و في الحسن و القبح العقليين، في أربعة آلاف.</p>\n  <p id=\"p152\" paragraph-id=\"152\" class=\" G\">8 - رسالة في تكليف الكفّار بالفروع.</p>\n  <p id=\"p153\" paragraph-id=\"153\" class=\" G\">9 - شرح الحقائق في الأحكام (لم يكمل).</p>\n  <p id=\"p154\" paragraph-id=\"154\" class=\" G\">10 - الدّر المنظوم في مشكلات العلوم، (لم يكمل).</p>\n  <p id=\"p155\" paragraph-id=\"155\" class=\" G\">11 - علم اليقين (في طريقة القدماء و المحدثين) في ثلاثين ألفا.</p>\n  <p id=\"p156\" paragraph-id=\"156\" class=\" G\">12 - الجوهرة المضيئة (في الواجبات الأصلية و الفرعية).</p>\n  <p id=\"p157\" paragraph-id=\"157\" class=\" G\">13 - (زينة المؤمنين و أخلاق المتقين) في مكارم الأخلاق.</p>\n  <p id=\"p158\" paragraph-id=\"158\" class=\" G\">14 - (الرسائل الخمس) الاستدلالية في العبادات.</p>\n  <p id=\"p159\" paragraph-id=\"159\" class=\" G\">15 - سفينة النجاة في 1100 بيت.</p>\n  <p id=\"p160\" paragraph-id=\"160\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1\" footnote-id=\"1\">(1) <page number=\"7\" /> يصطلح القدماء على البيت ما اشتمل على خمسين حرفا، و هو ما يساوي سطرا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "944E3A10-C563-483B-B051-76F26DC16398",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

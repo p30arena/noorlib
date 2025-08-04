@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 164,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848965,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1869\"><page number=\"164\"/><format class=\"hadith\" who=\"14\" Id=\"516\" RevayatIndex=\"526\"><format class=\"sanadHadith\">اَلْخِصَالِ‌: بِإِسْنَادِهِ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</format> فِي اَلسَّفَرْجَلِ قَالَ‌: يُجِمُّ اَلْفُؤَادَ، وَ يُسَخِّي اَلْبَخِيلَ‌، وَ يُشَجِّعُ اَلْجَبَانَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848966,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1870\"><format class=\"hadith\" who=\"14\" Id=\"517\" RevayatIndex=\"527\"><format class=\"sanadHadith\">وَ فِي اَلْعُيُونِ عَنْهُ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> يَا عَلِيُّ‌! مَنْ أَكَلَ اَلسَّفَرْجَلَ ثَلاَثَةَ أَيَّامٍ‌، عَلَى اَلرِّيقِ‌، صَفَا ذِهْنُهُ‌، وَ اِمْتَلَأَ جَوْفُهُ حِلْماً، وَ عِلْماً، وَ وُقِيَ مِنْ كَيْدِ إِبْلِيسَ وَ جُنُودِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848967,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1871\"><format class=\"hadith\" who=\"6\" Id=\"518\" RevayatIndex=\"528\"><format class=\"sanadHadith\"><format class=\"K\">اَلْمَحَاسِنِ‌</format>: عَنْ <format class=\"G\">بَعْضِ أَصْحَابِنَا</format>، عَنِ <format class=\"G\">اَلْحُسَيْنِ بْنِ عُثْمَانَ‌</format>، عَنِ <format class=\"G\">اَلْحُسَيْنِ بْنِ هَاشِمٍ‌</format>، عَنْ <format class=\"G\">جَمِيلِ بْنِ دَرَّاجٍ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format> مَنْ أَكَلَ سَفَرْجَلَةً‌، أَنْطَقَ اَللَّهُ اَلْحِكْمَةَ عَلَى لِسَانِهِ أَرْبَعِينَ يَوْماً.</format></p>"
+        },
+        {
+          "paragraphId": 687848968,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1872\"><format class=\"hadith\" who=\"14\" Id=\"519\" RevayatIndex=\"529\"><format class=\"sanadHadith\">اَلْمَكَارِمِ‌: عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌) مِثْلَهُ‌، وَ قَالَ اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</format> كُلُوا اَلسَّفَرْجَلَ‌، فَإِنَّهُ يَجْلُو عَنِ اَلْفُؤَادِ.</format></p>"
+        },
+        {
+          "paragraphId": 687848969,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1873\"><format class=\"hadith\" who=\"14\" Id=\"520\" RevayatIndex=\"530\"><format class=\"sanadHadith\">وَ عَنْهُ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌)، قَالَ‌:</format> كُلُوا اَلسَّفَرْجَلَ وَ تَهَادُوهُ بَيْنَكُمْ‌، فَإِنَّهُ يَجْلُو اَلْبَصَرَ، وَ يُنْبِتُ اَلْمَوَدَّةَ فِي اَلْقَلْبِ‌، وَ أَطْعِمُوهُ حَبَالاَكُمْ‌، فَإِنَّهُ يُحَسِّنُ أَوْلاَدَكُمْ‌. وَ فِي رِوَايَةٍ «تَحْسُنُ أَخْلاَقُ أَوْلاَدِكُمْ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848970,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1874\"><format class=\"hadith\" who=\"1\" Id=\"521\" RevayatIndex=\"531\"><format class=\"sanadHadith\">وَ عَنْ أَمِيرِ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> اَلسَّفَرْجَلُ قُوَّةُ اَلْقَلْبِ وَ حَيَاةُ اَلْفُؤَادِ، وَ يُشَجِّعُ اَلْجَبَانَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848971,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1875\"><format class=\"hadith\" who=\"1\" Id=\"522\" RevayatIndex=\"532\"><format class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> رَائِحَةُ اَلسَّفَرْجَلِ‌، رَائِحَةُ اَلْأَنْبِيَاءِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848972,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1876\"><format class=\"hadith\" who=\"14\" Id=\"523\" RevayatIndex=\"533\"><format class=\"sanadHadith\">وَ عَنْ أَنَسٍ قَالَ‌: قَالَ اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</format> كُلُوا اَلسَّفَرْجَلَ عَلَى اَلرِّيقِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848973,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1877\"><format class=\"hadith\" who=\"8\" Id=\"524\" RevayatIndex=\"534\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format> عَلَيْكُمْ بِالسَّفَرْجَلِ‌، فَإِنَّهُ يَزِيدُ فِي اَلْعَقْلِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848974,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1878\"><format class=\"hadith\" who=\"6\" Id=\"525\" RevayatIndex=\"535\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format> مَنْ أَكَلَ اَلسَّفَرْجَلَ عَلَى اَلرِّيقِ طَابَ مَاؤُهُ‌، وَ حَسُنَ وَجْهُهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848975,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1879\"><page number=\"165\"/><heading level=\"2\">باب <format class=\"VD\">التداوي بالكمّثري، و فوائده </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "164",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1869\" paragraph-id=\"1869\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo164\">164</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْخِصَالِ‌: بِإِسْنَادِهِ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</span> فِي اَلسَّفَرْجَلِ قَالَ‌: يُجِمُّ اَلْفُؤَادَ، وَ يُسَخِّي اَلْبَخِيلَ‌، وَ يُشَجِّعُ اَلْجَبَانَ‌.</span>\n  </p>\n  <p id=\"p1870\" paragraph-id=\"1870\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي اَلْعُيُونِ عَنْهُ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</span> يَا عَلِيُّ‌! مَنْ أَكَلَ اَلسَّفَرْجَلَ ثَلاَثَةَ أَيَّامٍ‌، عَلَى اَلرِّيقِ‌، صَفَا ذِهْنُهُ‌، وَ اِمْتَلَأَ جَوْفُهُ حِلْماً، وَ عِلْماً، وَ وُقِيَ مِنْ كَيْدِ إِبْلِيسَ وَ جُنُودِهِ‌.</span>\n  </p>\n  <p id=\"p1871\" paragraph-id=\"1871\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْمَحَاسِنِ‌</span>: عَنْ <span class=\"G\">بَعْضِ أَصْحَابِنَا</span>، عَنِ <span class=\"G\">اَلْحُسَيْنِ بْنِ عُثْمَانَ‌</span>، عَنِ <span class=\"G\">اَلْحُسَيْنِ بْنِ هَاشِمٍ‌</span>، عَنْ <span class=\"G\">جَمِيلِ بْنِ دَرَّاجٍ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span> مَنْ أَكَلَ سَفَرْجَلَةً‌، أَنْطَقَ اَللَّهُ اَلْحِكْمَةَ عَلَى لِسَانِهِ أَرْبَعِينَ يَوْماً.</span>\n  </p>\n  <p id=\"p1872\" paragraph-id=\"1872\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْمَكَارِمِ‌: عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌) مِثْلَهُ‌، وَ قَالَ اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</span> كُلُوا اَلسَّفَرْجَلَ‌، فَإِنَّهُ يَجْلُو عَنِ اَلْفُؤَادِ.</span>\n  </p>\n  <p id=\"p1873\" paragraph-id=\"1873\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْهُ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌)، قَالَ‌:</span> كُلُوا اَلسَّفَرْجَلَ وَ تَهَادُوهُ بَيْنَكُمْ‌، فَإِنَّهُ يَجْلُو اَلْبَصَرَ، وَ يُنْبِتُ اَلْمَوَدَّةَ فِي اَلْقَلْبِ‌، وَ أَطْعِمُوهُ حَبَالاَكُمْ‌، فَإِنَّهُ يُحَسِّنُ أَوْلاَدَكُمْ‌. وَ فِي رِوَايَةٍ «تَحْسُنُ أَخْلاَقُ أَوْلاَدِكُمْ‌».</span>\n  </p>\n  <p id=\"p1874\" paragraph-id=\"1874\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ أَمِيرِ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> اَلسَّفَرْجَلُ قُوَّةُ اَلْقَلْبِ وَ حَيَاةُ اَلْفُؤَادِ، وَ يُشَجِّعُ اَلْجَبَانَ‌.</span>\n  </p>\n  <p id=\"p1875\" paragraph-id=\"1875\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</span> رَائِحَةُ اَلسَّفَرْجَلِ‌، رَائِحَةُ اَلْأَنْبِيَاءِ‌.</span>\n  </p>\n  <p id=\"p1876\" paragraph-id=\"1876\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ أَنَسٍ قَالَ‌: قَالَ اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</span> كُلُوا اَلسَّفَرْجَلَ عَلَى اَلرِّيقِ‌.</span>\n  </p>\n  <p id=\"p1877\" paragraph-id=\"1877\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span> عَلَيْكُمْ بِالسَّفَرْجَلِ‌، فَإِنَّهُ يَزِيدُ فِي اَلْعَقْلِ‌.</span>\n  </p>\n  <p id=\"p1878\" paragraph-id=\"1878\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span> مَنْ أَكَلَ اَلسَّفَرْجَلَ عَلَى اَلرِّيقِ طَابَ مَاؤُهُ‌، وَ حَسُنَ وَجْهُهُ‌.</span>\n  </p>\n  <p id=\"p1879\" paragraph-id=\"1879\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "A1B75078-73B5-4630-800E-6CA3B707F1B2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

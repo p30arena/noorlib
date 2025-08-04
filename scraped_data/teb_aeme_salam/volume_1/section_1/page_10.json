@@ -1,0 +1,182 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 10,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687847486,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"188\"><page number=\"10\"/>42 - (عجائب الأخبار و نوادر الآثار) في 12 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847487,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"189\">43 - أنوار الساعة (في العلوم الأربعة: معارف، و أخلاق، و عجائب المخلوقات، وفقه) في ثمانية آلاف.</p>"
+        },
+        {
+          "paragraphId": 687847488,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"190\">44 - تحفة المقلد (رسالة فتوى من أول الفقه إلى آخره) تبلغ 35 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847489,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"191\">45 - زبدة الفقه (رسالة استدلالية في الفقه) في أربعة آلاف.</p>"
+        },
+        {
+          "paragraphId": 687847490,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"192\">46 - خلاصة التكليف (في الأصول و العبادات) في 5000.</p>"
+        },
+        {
+          "paragraphId": 687847491,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"193\">47 - مطلع النيرين (في لغة القرآن و حديث أحد الثقلين) 30 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847492,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"194\">48 - منية المحصلين (في حقّيّة طريقة المجتهدين) في 12 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847493,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"195\">49 - طب الأئمة عليهم السلام في أحد عشر ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847494,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"196\">50 - إرشاد المستبصر (رسالة في الاستخارة) في ألف بيت.</p>"
+        },
+        {
+          "paragraphId": 687847495,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"197\">51 - البرهان المبين (في فتح أبواب علوم الأئمة المعصومين) في 30 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847496,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"198\">52 - الحق اليقين (في أصول الدين) في مجلدين يبلغ 15 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847497,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"199\">53 - البلاغ المبين (في أصول الدين) في ثلاثة آلاف.</p>"
+        },
+        {
+          "paragraphId": 687847498,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"200\">54 - بغية الطالبين (في صحة طريقة المجتهدين) ستة آلاف.</p>"
+        },
+        {
+          "paragraphId": 687847499,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"201\">55 - رسالة أخرى على نمط بغية الطالبين و أظن أنّ اسمها: المنهج القويم (في طريقة القدماء و المحدثين).</p>"
+        },
+        {
+          "paragraphId": 687847500,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"202\">56 - الجوهرة المضيئة (في الطهارة و الصلاة).</p>"
+        },
+        {
+          "paragraphId": 687847501,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"203\">57 - رسالة في الحجّ 2500 بيت.</p>"
+        },
+        {
+          "paragraphId": 687847502,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"204\">58 - مصابيح الأنوار (في حل مشكلات الأخبار) مجلّدان في 22 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847503,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"205\">59 - صفوة التفاسير: كتاب جليل في تفسير القرآن في 60 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847504,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"206\">60 - الجوهر الثمين (في تفسير القرآن المبين) في مجلّدين، في 30 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847505,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"207\">61 - التفسير الوجيز: مجلد واحد في 18 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847506,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"208\">62 - المهذب (في الأخلاق) في 12 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847507,
+          "paragNumber": 22,
+          "tocNumber": 0,
+          "text": "<p id=\"209\">63 - طريق النجاة 1300.</p>"
+        },
+        {
+          "paragraphId": 687847508,
+          "paragNumber": 23,
+          "tocNumber": 0,
+          "text": "<p id=\"210\">64 - كتاب في شرح نهج البلاغة في 40 ألفا.</p>"
+        },
+        {
+          "paragraphId": 687847509,
+          "paragNumber": 24,
+          "tocNumber": 0,
+          "text": "<p id=\"211\">65 - رسالة فارسية في الفقه.</p>"
+        },
+        {
+          "paragraphId": 687847510,
+          "paragNumber": 25,
+          "tocNumber": 0,
+          "text": "<p id=\"212\"><page number=\"11\"/>66 - رسالة أخرى فارسية في الطهارة و الصلاة.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "10",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p188\" paragraph-id=\"188\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo10\">10</span>42 - (عجائب الأخبار و نوادر الآثار) في 12 ألفا.</p>\n  <p id=\"p189\" paragraph-id=\"189\" class=\" G\">43 - أنوار الساعة (في العلوم الأربعة: معارف، و أخلاق، و عجائب المخلوقات، وفقه) في ثمانية آلاف.</p>\n  <p id=\"p190\" paragraph-id=\"190\" class=\" G\">44 - تحفة المقلد (رسالة فتوى من أول الفقه إلى آخره) تبلغ 35 ألفا.</p>\n  <p id=\"p191\" paragraph-id=\"191\" class=\" G\">45 - زبدة الفقه (رسالة استدلالية في الفقه) في أربعة آلاف.</p>\n  <p id=\"p192\" paragraph-id=\"192\" class=\" G\">46 - خلاصة التكليف (في الأصول و العبادات) في 5000.</p>\n  <p id=\"p193\" paragraph-id=\"193\" class=\" G\">47 - مطلع النيرين (في لغة القرآن و حديث أحد الثقلين) 30 ألفا.</p>\n  <p id=\"p194\" paragraph-id=\"194\" class=\" G\">48 - منية المحصلين (في حقّيّة طريقة المجتهدين) في 12 ألفا.</p>\n  <p id=\"p195\" paragraph-id=\"195\" class=\" G\">49 - طب الأئمة عليهم السلام في أحد عشر ألفا.</p>\n  <p id=\"p196\" paragraph-id=\"196\" class=\" G\">50 - إرشاد المستبصر (رسالة في الاستخارة) في ألف بيت.</p>\n  <p id=\"p197\" paragraph-id=\"197\" class=\" G\">51 - البرهان المبين (في فتح أبواب علوم الأئمة المعصومين) في 30 ألفا.</p>\n  <p id=\"p198\" paragraph-id=\"198\" class=\" G\">52 - الحق اليقين (في أصول الدين) في مجلدين يبلغ 15 ألفا.</p>\n  <p id=\"p199\" paragraph-id=\"199\" class=\" G\">53 - البلاغ المبين (في أصول الدين) في ثلاثة آلاف.</p>\n  <p id=\"p200\" paragraph-id=\"200\" class=\" G\">54 - بغية الطالبين (في صحة طريقة المجتهدين) ستة آلاف.</p>\n  <p id=\"p201\" paragraph-id=\"201\" class=\" G\">55 - رسالة أخرى على نمط بغية الطالبين و أظن أنّ اسمها: المنهج القويم (في طريقة القدماء و المحدثين).</p>\n  <p id=\"p202\" paragraph-id=\"202\" class=\" G\">56 - الجوهرة المضيئة (في الطهارة و الصلاة).</p>\n  <p id=\"p203\" paragraph-id=\"203\" class=\" G\">57 - رسالة في الحجّ 2500 بيت.</p>\n  <p id=\"p204\" paragraph-id=\"204\" class=\" G\">58 - مصابيح الأنوار (في حل مشكلات الأخبار) مجلّدان في 22 ألفا.</p>\n  <p id=\"p205\" paragraph-id=\"205\" class=\" G\">59 - صفوة التفاسير: كتاب جليل في تفسير القرآن في 60 ألفا.</p>\n  <p id=\"p206\" paragraph-id=\"206\" class=\" G\">60 - الجوهر الثمين (في تفسير القرآن المبين) في مجلّدين، في 30 ألفا.</p>\n  <p id=\"p207\" paragraph-id=\"207\" class=\" G\">61 - التفسير الوجيز: مجلد واحد في 18 ألفا.</p>\n  <p id=\"p208\" paragraph-id=\"208\" class=\" G\">62 - المهذب (في الأخلاق) في 12 ألفا.</p>\n  <p id=\"p209\" paragraph-id=\"209\" class=\" G\">63 - طريق النجاة 1300.</p>\n  <p id=\"p210\" paragraph-id=\"210\" class=\" G\">64 - كتاب في شرح نهج البلاغة في 40 ألفا.</p>\n  <p id=\"p211\" paragraph-id=\"211\" class=\" G\">65 - رسالة فارسية في الفقه.</p>\n  <p id=\"p212\" paragraph-id=\"212\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "C0372DB4-B4BC-4384-81A9-FD6A09C6CEE6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

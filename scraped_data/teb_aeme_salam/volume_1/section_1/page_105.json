@@ -1,0 +1,122 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 105,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848602,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1195\"><format class=\"hadith\" who=\"6\" Id=\"232\" RevayatIndex=\"236\">دَخَلْتُ عَلَى أَبِي عَبْدِ اَللَّهِ‌، وَ شَكَوْتُ اَلرَّمَدَ، فَقَالَ لِي: أَ وَ تُرِيدُ اَلطَّرِيفَ؟ ثُمَّ‌<page number=\"105\"/> قَالَ لِي: إِذَا غَسَلْتَ يَدَكَ بَعْدَ اَلطَّعَامِ‌، فَامْسَحْ حَاجِبَيْكَ‌، وَ قُلْ ثَلاَثَ مَرَّاتٍ‌: «اَلْحَمْدُ لِلَّهِ‌، اَلْمُحْسِنِ‌، اَلْمُجْمِلِ‌، اَلْمُنْعِمِ‌، اَلْمُفْضِلِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848603,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1196\"><format class=\"hadith\" who=\"6\" Id=\"232\" RevayatIndex=\"236\">قَالَ‌: فَفَعَلْتُ‌، فَمَا رَمِدَتْ عَيْنَايَ بَعْدَ ذَلِكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848604,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1197\">بيان: أي تريد الطريف من الحديث الذي لم تسمع مثله‌؟!.</p>"
+        },
+        {
+          "paragraphId": 687848605,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1198\"><heading level=\"2\">باب <format class=\"ZM\">ما يدفع به التخمة، و غائلة الطعام، و ضرره </format></heading></p>"
+        },
+        {
+          "paragraphId": 687848606,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1199\"><format class=\"hadith\" who=\"6\" Id=\"233\" RevayatIndex=\"237\"><format class=\"sanadHadith\"><format class=\"K\">الكافي</format>: <format class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">أَبِي عَبْدِ اَللَّهِ اَلْبَرْقِيِّ‌</format>، عَنْ <format class=\"G\">أَبِي طَالِبٍ‌</format>، عَنْ <format class=\"G\">مِسْمَعٍ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848607,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1200\"><format class=\"hadith\" who=\"6\" Id=\"233\" RevayatIndex=\"237\">شَكَوْتُ مَا أَلْقَى مِنْ أَذَى اَلطَّعَامِ‌، إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌</format></format>)، إِذَا أَكَلْتُهُ‌، فَقَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687848608,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1201\"><format class=\"hadith\" who=\"6\" Id=\"233\" RevayatIndex=\"237\">لَمْ تُسَمِّ‌!.</format></p>"
+        },
+        {
+          "paragraphId": 687848609,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1202\"><format class=\"hadith\" who=\"6\" Id=\"233\" RevayatIndex=\"237\">قُلْتُ‌: إِنِّي لَأُسَمِّي، وَ إِنَّهُ لَيَضُرُّنِي!.</format></p>"
+        },
+        {
+          "paragraphId": 687848610,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1203\"><format class=\"hadith\" who=\"6\" Id=\"233\" RevayatIndex=\"237\">فَقَالَ لِي: إِذَا قَطَعْتَ اَلتَّسْمِيَةَ بِالْكَلاَمِ‌، ثُمَّ عُدْتَ إِلَى اَلطَّعَامِ‌، تُسَمِّي‌؟.</format></p>"
+        },
+        {
+          "paragraphId": 687848611,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1204\"><format class=\"hadith\" who=\"6\" Id=\"233\" RevayatIndex=\"237\">قُلْتُ‌: لاَ.</format></p>"
+        },
+        {
+          "paragraphId": 687848612,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1205\"><format class=\"hadith\" who=\"6\" Id=\"233\" RevayatIndex=\"237\">قَالَ‌: فَمِنْ هَاهُنَا يَضُرُّكَ‌، أَمَا لَوْ أَنَّكَ‌، إِذَا عُدْتَ إِلَى اَلطَّعَامِ‌، سَمَّيْتَ‌، مَا ضَرَّكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848613,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1206\"><format class=\"hadith\" who=\"1,6\" Id=\"234\" RevayatIndex=\"238\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ فَضَّالٍ‌</format>، عَنْ <format class=\"G\">دَاوُدَ بْنِ فَرْقَدٍ</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848614,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1207\"><format class=\"hadith\" who=\"1,6\" Id=\"234\" RevayatIndex=\"238\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>«ضَمِنْتُ لِمَنْ سَمَّى عَلَى طَعَامٍ‌، أَنْ لاَ يَشْتَكِيَ مِنْهُ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848615,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1208\"><format class=\"hadith\" who=\"1,6\" Id=\"234\" RevayatIndex=\"238\">فَقَالَ اِبْنُ اَلَكَوَّا: يَا <format class=\"maasoom\" maasoomNo=\"1\">أَمِيرَ اَلْمُؤْمِنِينَ‌</format>، لَقَدْ أَكَلْتُ اَلْبَارِحَةَ طَعَاماً فَسَمَّيْتُ عَلَيْهِ‌، فَآذَانِي!؟.</format></p>"
+        },
+        {
+          "paragraphId": 687848616,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"1209\"><format class=\"hadith\" who=\"1,6\" Id=\"234\" RevayatIndex=\"238\"><page number=\"106\"/>قَالَ‌: فَلَعَلَّكَ أَكَلْتَ أَلْوَاناً، فَسَمَّيْتَ عَلَى بَعْضِهَا، وَ لَمْ تُسَمِّ عَلَى بَعْضٍ يَا لُكَعُ‌!!</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "105",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1195\" paragraph-id=\"1195\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo105\">105</span> قَالَ لِي: إِذَا غَسَلْتَ يَدَكَ بَعْدَ اَلطَّعَامِ‌، فَامْسَحْ حَاجِبَيْكَ‌، وَ قُلْ ثَلاَثَ مَرَّاتٍ‌: «اَلْحَمْدُ لِلَّهِ‌، اَلْمُحْسِنِ‌، اَلْمُجْمِلِ‌، اَلْمُنْعِمِ‌، اَلْمُفْضِلِ‌».</span>\n  </p>\n  <p id=\"p1196\" paragraph-id=\"1196\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَفَعَلْتُ‌، فَمَا رَمِدَتْ عَيْنَايَ بَعْدَ ذَلِكَ‌.</span>\n  </p>\n  <p id=\"p1197\" paragraph-id=\"1197\" class=\" G\">بيان: أي تريد الطريف من الحديث الذي لم تسمع مثله‌؟!.</p>\n  <p id=\"p1198\" paragraph-id=\"1198\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"ZM\">ما يدفع به التخمة، و غائلة الطعام، و ضرره </span></strong>\n  </p>\n  <p id=\"p1199\" paragraph-id=\"1199\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">الكافي</span>: <span class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">أَبِي عَبْدِ اَللَّهِ اَلْبَرْقِيِّ‌</span>، عَنْ <span class=\"G\">أَبِي طَالِبٍ‌</span>، عَنْ <span class=\"G\">مِسْمَعٍ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1200\" paragraph-id=\"1200\" class=\" G\">\n    <span class=\"hadith\">شَكَوْتُ مَا أَلْقَى مِنْ أَذَى اَلطَّعَامِ‌، إِلَى <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌</span></span>)، إِذَا أَكَلْتُهُ‌، فَقَالَ‌:</span>\n  </p>\n  <p id=\"p1201\" paragraph-id=\"1201\" class=\" G\">\n    <span class=\"hadith\">لَمْ تُسَمِّ‌!.</span>\n  </p>\n  <p id=\"p1202\" paragraph-id=\"1202\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: إِنِّي لَأُسَمِّي، وَ إِنَّهُ لَيَضُرُّنِي!.</span>\n  </p>\n  <p id=\"p1203\" paragraph-id=\"1203\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ لِي: إِذَا قَطَعْتَ اَلتَّسْمِيَةَ بِالْكَلاَمِ‌، ثُمَّ عُدْتَ إِلَى اَلطَّعَامِ‌، تُسَمِّي‌؟.</span>\n  </p>\n  <p id=\"p1204\" paragraph-id=\"1204\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: لاَ.</span>\n  </p>\n  <p id=\"p1205\" paragraph-id=\"1205\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَمِنْ هَاهُنَا يَضُرُّكَ‌، أَمَا لَوْ أَنَّكَ‌، إِذَا عُدْتَ إِلَى اَلطَّعَامِ‌، سَمَّيْتَ‌، مَا ضَرَّكَ‌.</span>\n  </p>\n  <p id=\"p1206\" paragraph-id=\"1206\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ فَضَّالٍ‌</span>، عَنْ <span class=\"G\">دَاوُدَ بْنِ فَرْقَدٍ</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1207\" paragraph-id=\"1207\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>«ضَمِنْتُ لِمَنْ سَمَّى عَلَى طَعَامٍ‌، أَنْ لاَ يَشْتَكِيَ مِنْهُ‌».</span>\n  </p>\n  <p id=\"p1208\" paragraph-id=\"1208\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ اِبْنُ اَلَكَوَّا: يَا <span class=\"maasoom\">أَمِيرَ اَلْمُؤْمِنِينَ‌</span>، لَقَدْ أَكَلْتُ اَلْبَارِحَةَ طَعَاماً فَسَمَّيْتُ عَلَيْهِ‌، فَآذَانِي!؟.</span>\n  </p>\n  <p id=\"p1209\" paragraph-id=\"1209\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "4CA17419-F419-4827-B48F-DABD4A20A63D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

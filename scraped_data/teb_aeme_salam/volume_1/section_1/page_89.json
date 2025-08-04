@@ -1,0 +1,92 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 89,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687847972,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1009\"><format class=\"hadith\" who=\"14,7\" Id=\"166\" RevayatIndex=\"168\">قَالَ‌: نَعَمْ‌.<page number=\"89\"/> قُلْتُ‌: فَفِي اَلْقَرْيَةِ‌، وَ أَنَا فِيهَا، أَتَحَوَّلُ عَنْهَا؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847973,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1010\"><format class=\"hadith\" who=\"14,7\" Id=\"166\" RevayatIndex=\"168\">قَالَ‌: نَعَمْ‌. قُلْتُ‌: فَفِي اَلدَّارِ، وَ أَنَا فِيهَا، أَتَحَوَّلُ عَنْهَا؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847974,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1011\"><format class=\"hadith\" who=\"14,7\" Id=\"166\" RevayatIndex=\"168\">قَالَ‌: نَعَمْ‌. قُلْتُ‌: فَإِنَّا نَتَحَدَّثُ‌، أَنَّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولَ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format> قَالَ‌: «اَلْفِرَارُ مِنَ اَلطَّاعُونِ‌، كَالْفِرَارِ مِنَ اَلزَّحْفِ‌»!.</format></p>"
+        },
+        {
+          "paragraphId": 687847975,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1012\"><format class=\"hadith\" who=\"14,7\" Id=\"166\" RevayatIndex=\"168\">فَقَالَ‌: إِنَّ <format class=\"maasoom\" maasoomNo=\"14\">رَسُولَ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format>، إِنَّمَا قَالَ هَذَا فِي قَوْمٍ كَانُوا يَكُونُونَ فِي اَلثُّغُورِ، فِي نَحْوِ اَلْعَدُوِّ، فَيَقَعُ اَلطَّاعُونُ‌، فَيُخَلُّونَ أَمَاكِنَهُمْ‌، يَفِرُّونَ مِنْهَا، فَقَالَ <format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format> ذَلِكَ فِيهِمْ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847976,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1013\"><format class=\"hadith\" who=\"16\" Id=\"167\" RevayatIndex=\"169\"><format class=\"sanadHadith\">قَالَ‌: وَ رُوِيَ‌:</format> أَنَّهُ إِذَا وَقَعَ اَلطَّاعُونُ فِي أَهْلِ مَسْجِدٍ، فَلَيْسَ لَهُمْ أَنْ يَفِرُّوا مِنْهُ إِلَى غَيْرِهِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687847977,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1014\"><format class=\"hadith\" who=\"7\" Id=\"168\" RevayatIndex=\"170\"><format class=\"sanadHadith\"><format class=\"K\">اَلْمَسَائِلِ‌</format>: <format class=\"G\">لِعَلِيِّ بْنِ جَعْفَرٍ</format>، عَنْ أَخِيهِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">مُوسَى (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> سَأَلْتُهُ عَنِ اَلْوَبَاءِ‌، يَقَعُ فِي اَلْأَرْضِ‌، هَلْ يَصْلُحُ لِلرَّجُلِ أَنْ يَهْرُبَ مِنْهُ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847978,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1015\"><format class=\"hadith\" who=\"7\" Id=\"168\" RevayatIndex=\"170\">قَالَ‌: يَهْرُبُ مِنْهُ‌، مَا لَمْ يَقَعْ فِي مَسْجِدِهِ اَلَّذِي يُصَلِّي فِيهِ‌، فَإِذَا وَقَعَ فِي أَهْلِ مَسْجِدِهِ‌، اَلَّذِي يُصَلِّي فِيهِ‌، فَلاَ يَصْلُحُ لَهُ اَلْهَرَبُ مِنْهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847979,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1016\"><format class=\"hadith\" who=\"14\" Id=\"169\" RevayatIndex=\"171\"><format class=\"sanadHadith\"><format class=\"K\">اَلْخِصَالِ‌</format>: عَنِ <format class=\"G\">اَلْخَلِيلِ بْنِ أَحْمَدَ</format>، عَنْ <format class=\"G\">أَبِي اَلْعَبَّاسِ اَلسَّرَّاج</format> ِ‌، عَنْ <format class=\"G\">قُتَيْبَةَ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَلْعَزِيزِ</format>، عَنْ <format class=\"G\">عَمْرِو بْنِ أَبِي عَمْرٍو</format>، عَنْ <format class=\"G\">عَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ لَبِيدٍ</format>، أَنَّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولَ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687847980,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1017\"><format class=\"hadith\" who=\"14\" Id=\"169\" RevayatIndex=\"171\">«شَيْئَانِ يَكْرَهُهُمَا اِبْنُ آدَمَ‌: اَلْمَوْتُ‌، وَ اَلْمَوْتُ رَاحَةُ اَلْمُؤْمِنِ مِنَ اَلْفِتْنَةِ‌، وَ يَكْرَهُ قِلَّةَ اَلْمَالِ‌، وَ قِلَّةُ اَلْمَالِ أَقَلُّ لِلْحِسَابِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687847981,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1018\"><page number=\"90\"/><heading level=\"2\">باب <format class=\"BM\">التداوي و الدفع بالدعاء </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "89",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1009\" paragraph-id=\"1009\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo89\">89</span> قُلْتُ‌: فَفِي اَلْقَرْيَةِ‌، وَ أَنَا فِيهَا، أَتَحَوَّلُ عَنْهَا؟.</span>\n  </p>\n  <p id=\"p1010\" paragraph-id=\"1010\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: نَعَمْ‌. قُلْتُ‌: فَفِي اَلدَّارِ، وَ أَنَا فِيهَا، أَتَحَوَّلُ عَنْهَا؟.</span>\n  </p>\n  <p id=\"p1011\" paragraph-id=\"1011\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: نَعَمْ‌. قُلْتُ‌: فَإِنَّا نَتَحَدَّثُ‌، أَنَّ <span class=\"Y\"><span class=\"maasoom\">رَسُولَ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span> قَالَ‌: «اَلْفِرَارُ مِنَ اَلطَّاعُونِ‌، كَالْفِرَارِ مِنَ اَلزَّحْفِ‌»!.</span>\n  </p>\n  <p id=\"p1012\" paragraph-id=\"1012\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ‌: إِنَّ <span class=\"maasoom\">رَسُولَ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span>، إِنَّمَا قَالَ هَذَا فِي قَوْمٍ كَانُوا يَكُونُونَ فِي اَلثُّغُورِ، فِي نَحْوِ اَلْعَدُوِّ، فَيَقَعُ اَلطَّاعُونُ‌، فَيُخَلُّونَ أَمَاكِنَهُمْ‌، يَفِرُّونَ مِنْهَا، فَقَالَ <span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span> ذَلِكَ فِيهِمْ‌.</span>\n  </p>\n  <p id=\"p1013\" paragraph-id=\"1013\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ‌: وَ رُوِيَ‌:</span> أَنَّهُ إِذَا وَقَعَ اَلطَّاعُونُ فِي أَهْلِ مَسْجِدٍ، فَلَيْسَ لَهُمْ أَنْ يَفِرُّوا مِنْهُ إِلَى غَيْرِهِ‌».</span>\n  </p>\n  <p id=\"p1014\" paragraph-id=\"1014\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْمَسَائِلِ‌</span>: <span class=\"G\">لِعَلِيِّ بْنِ جَعْفَرٍ</span>، عَنْ أَخِيهِ <span class=\"Y\"><span class=\"maasoom\">مُوسَى (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> سَأَلْتُهُ عَنِ اَلْوَبَاءِ‌، يَقَعُ فِي اَلْأَرْضِ‌، هَلْ يَصْلُحُ لِلرَّجُلِ أَنْ يَهْرُبَ مِنْهُ؟.</span>\n  </p>\n  <p id=\"p1015\" paragraph-id=\"1015\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: يَهْرُبُ مِنْهُ‌، مَا لَمْ يَقَعْ فِي مَسْجِدِهِ اَلَّذِي يُصَلِّي فِيهِ‌، فَإِذَا وَقَعَ فِي أَهْلِ مَسْجِدِهِ‌، اَلَّذِي يُصَلِّي فِيهِ‌، فَلاَ يَصْلُحُ لَهُ اَلْهَرَبُ مِنْهُ‌.</span>\n  </p>\n  <p id=\"p1016\" paragraph-id=\"1016\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْخِصَالِ‌</span>: عَنِ <span class=\"G\">اَلْخَلِيلِ بْنِ أَحْمَدَ</span>، عَنْ <span class=\"G\">أَبِي اَلْعَبَّاسِ اَلسَّرَّاج</span> ِ‌، عَنْ <span class=\"G\">قُتَيْبَةَ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَلْعَزِيزِ</span>، عَنْ <span class=\"G\">عَمْرِو بْنِ أَبِي عَمْرٍو</span>، عَنْ <span class=\"G\">عَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ لَبِيدٍ</span>، أَنَّ <span class=\"Y\"><span class=\"maasoom\">رَسُولَ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1017\" paragraph-id=\"1017\" class=\" G\">\n    <span class=\"hadith\">«شَيْئَانِ يَكْرَهُهُمَا اِبْنُ آدَمَ‌: اَلْمَوْتُ‌، وَ اَلْمَوْتُ رَاحَةُ اَلْمُؤْمِنِ مِنَ اَلْفِتْنَةِ‌، وَ يَكْرَهُ قِلَّةَ اَلْمَالِ‌، وَ قِلَّةُ اَلْمَالِ أَقَلُّ لِلْحِسَابِ‌».</span>\n  </p>\n  <p id=\"p1018\" paragraph-id=\"1018\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "DAD2570C-1461-4E42-BB15-A75075F0916B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

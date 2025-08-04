@@ -1,0 +1,83 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 15,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687847533,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"235\"><format class=\"EndPreface\"/><page number=\"14\"/><page number=\"15\"/><heading level=\"2\">من مقدّمة المؤلّف لكتاب طب الأئمة</heading></p>"
+        },
+        {
+          "paragraphId": 687847534,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"236\"><lfootnote noteId=\"3\">1</lfootnote>. و الحكمة في زماننا سفينة النجاة المشحونة بذخائر العادات، و المنجية في ظلم الجهالات، و لم نعثر على حكمة، إلاّ و فيها صفوها، و لم نظفر بحقيقة إلاّ و فيها أصلها.</p>"
+        },
+        {
+          "paragraphId": 687847535,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"237\">و قد ورد عنهم عليهم السلام، في أنواع المداواة، و المعالجات، و حفظ الصحّة، و دفع البلايا، و الأمراض، و المضرّات، بالأدوية، و الأغذية، و الأذكار، و الأدعية، أخبار متكاثرة، و روايات متظافرة، أجلّ من أن تحصى، و أوسع من أن تستقصى.</p>"
+        },
+        {
+          "paragraphId": 687847536,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"238\">و لكن في زماننا هذا<lfootnote noteId=\"4\">2</lfootnote>، و ما ضاهاه، قد أقبل الناس على المفضول، و تركوا أحاديث أهل بيت الرسول، و أمسى علم الحديث في زماننا مهجورا، و أصبح كأن لم يكن شيئا مذكورا، لرواج العلوم الباطلة بين الجهال، المدّعين للفضل و الكمال، مع اعترافهم بأنّ زلال العلم لا ينفع، إلاّ إذا أخذ من ينابيع الوحي و الإلهام، و أنّ الحكمة لا تنجع، إذا لم تؤخذ من نواميس الدين، و معقل الأنام كما في الحديث النبوي:</p>"
+        },
+        {
+          "paragraphId": 687847537,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"239\">«أنا مدينة العلم و عليّ بابها، أنا مدينة الحكمة، و عليّ بابها، فمن أراد المدينة فليأتها من بابها».</p>"
+        },
+        {
+          "paragraphId": 687847538,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"240\">و العجب من اعتناء جمع من العلماء الأعلام، و الفضلاء الكرام، بالكتب</p>"
+        },
+        {
+          "paragraphId": 687847539,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"241\"><page number=\"16\"/>الطبيّة، و الرجوع إليها، و التعويل عليها، و عدم الاعتناء بما ورد عن أئمة الأنام، عليهم الصلاة و السلام.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851636,
+          "text": "<footnote id=\"3\"><page number=\"15\"/><mnote>(1)</mnote> يلاحظ أن أول المخطوط قد نقص منه بعض الأوراق. (ع).</footnote>"
+        },
+        {
+          "footnoteId": 687851637,
+          "text": "<footnote id=\"4\"><mnote>(2)</mnote> سنة 1242 ه‍.</footnote>"
+        }
+      ],
+      "pageValue": "15",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p235\" paragraph-id=\"235\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo15\">15</span>\n    <strong style=\"0\" class=\"h-2 02\">من مقدّمة المؤلّف لكتاب طب الأئمة</strong>\n  </p>\n  <p id=\"p236\" paragraph-id=\"236\" class=\" G\">\n    <span>\n      <sup>\n        <a class=\"NewFn\" href=\"#footnote3\" title=\"(1)  يلاحظ أن أول المخطوط قد نقص منه بعض الأوراق. (ع).\">1</a>\n      </sup>\n    </span>. و الحكمة في زماننا سفينة النجاة المشحونة بذخائر العادات، و المنجية في ظلم الجهالات، و لم نعثر على حكمة، إلاّ و فيها صفوها، و لم نظفر بحقيقة إلاّ و فيها أصلها.</p>\n  <p id=\"p237\" paragraph-id=\"237\" class=\" G\">و قد ورد عنهم عليهم السلام، في أنواع المداواة، و المعالجات، و حفظ الصحّة، و دفع البلايا، و الأمراض، و المضرّات، بالأدوية، و الأغذية، و الأذكار، و الأدعية، أخبار متكاثرة، و روايات متظافرة، أجلّ من أن تحصى، و أوسع من أن تستقصى.</p>\n  <p id=\"p238\" paragraph-id=\"238\" class=\" G\">و لكن في زماننا هذا<span><sup><a class=\"NewFn\" href=\"#footnote4\" title=\"(2)  سنة 1242 ه‍.\">2</a></sup></span>، و ما ضاهاه، قد أقبل الناس على المفضول، و تركوا أحاديث أهل بيت الرسول، و أمسى علم الحديث في زماننا مهجورا، و أصبح كأن لم يكن شيئا مذكورا، لرواج العلوم الباطلة بين الجهال، المدّعين للفضل و الكمال، مع اعترافهم بأنّ زلال العلم لا ينفع، إلاّ إذا أخذ من ينابيع الوحي و الإلهام، و أنّ الحكمة لا تنجع، إذا لم تؤخذ من نواميس الدين، و معقل الأنام كما في الحديث النبوي:</p>\n  <p id=\"p239\" paragraph-id=\"239\" class=\" G\">«أنا مدينة العلم و عليّ بابها، أنا مدينة الحكمة، و عليّ بابها، فمن أراد المدينة فليأتها من بابها».</p>\n  <p id=\"p240\" paragraph-id=\"240\" class=\" G\">و العجب من اعتناء جمع من العلماء الأعلام، و الفضلاء الكرام، بالكتب</p>\n  <p id=\"p241\" paragraph-id=\"241\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote3\" footnote-id=\"3\">(1) <page number=\"15\" /> يلاحظ أن أول المخطوط قد نقص منه بعض الأوراق. (ع).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote4\" footnote-id=\"4\">(2)  سنة 1242 ه‍.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "BAD57CF6-0145-4014-90AB-A34D6884ABFF",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

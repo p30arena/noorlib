@@ -1,0 +1,110 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 123,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848805,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1398\"><page number=\"123\"/><format class=\"hadith\" who=\"6\" Id=\"318\" RevayatIndex=\"325\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْعِدَّةِ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">عُبَيْدِ اَللَّهِ اَلدِّهْقَانِ‌</format>، عَنْ <format class=\"G\">دُرُسْتَ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌</format></format>)، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848806,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1399\"><format class=\"hadith\" who=\"6\" Id=\"318\" RevayatIndex=\"325\">«شَكَا نَبِيٌّ مِنَ اَلْأَنْبِيَاءِ‌، إِلَى اَللَّهِ عَزَّ وَ جَلَّ‌، اَلضَّعْفَ فَقَالَ لَهُ‌: اُطْبُخِ اَللَّحْمَ بِاللَّبَنِ‌، فَإِنَّهُمَا يَشُدَّانِ اَلْجِسْمَ‌». قَالَ‌، قُلْتُ‌: «هِيَ اَلْمَضِيرَةُ؟» قَالَ‌: «لاَ، وَ لَكِنِ اَللَّحْمُ بِاللَّبَنِ اَلْحَلِيبِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848807,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1400\">بيان: اللبن المضير الحامض، يسمى بالفارسية (دوغ).</p>"
+        },
+        {
+          "paragraphId": 687848808,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1401\">المحاسن: روى أكثر الأخبار المتقدمة.</p>"
+        },
+        {
+          "paragraphId": 687848809,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1402\"><format class=\"hadith\" who=\"1\" Id=\"319\" RevayatIndex=\"326\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنْ <format class=\"G\">سَعْدٍ</format>، عَنِ <format class=\"G\">اَلْأَصْبَغِ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ‌</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848810,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1403\"><format class=\"hadith\" who=\"1\" Id=\"319\" RevayatIndex=\"326\">«إِنَّ نَبِيّاً مِنَ اَلْأَنْبِيَاءِ شَكَا إِلَى اَللَّهِ اَلضَّعْفَ فِي أُمَّتِهِ‌، فَأَمَرَهُمْ أَنْ يَأْكُلُوا اَللَّحْمَ بِاللَّبَنِ‌، فَاسْتَبَانَتِ اَلْقُوَّةُ فِي أَنْفُسِهِمْ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848811,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1404\"><format class=\"hadith\" who=\"16\" Id=\"320\" RevayatIndex=\"327\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">بَعْضِ أَصْحَابِنَا</format> قَالَ‌:</format> كَتَبَ إِلَيْهِ رَجُلٌ‌، يَشْكُو ضَعْفَهُ‌، فَكَتَبَ إِلَيْهِ‌: كُلِ اَللَّحْمَ بِاللَّبَنِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848812,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1405\"><format class=\"hadith\" who=\"6\" Id=\"321\" RevayatIndex=\"328\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">بَعْضِ أَصْحَابِهِ‌</format>، <format class=\"G\">عَمَّنْ ذَكَرَهُ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848813,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1406\"><format class=\"hadith\" who=\"6\" Id=\"321\" RevayatIndex=\"328\">«مَنْ أَصَابَهُ ضَعْفٌ فِي قَلْبِهِ‌، أَوْ بَدَنِهِ‌، فَلْيَأْكُلْ لَحْمَ اَلضَّأْنِ بِاللَّبَنِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848814,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1407\"><heading level=\"2\">باب <format class=\"VD\">التداوي بالكباب </format></heading></p>"
+        },
+        {
+          "paragraphId": 687848815,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1408\"><format class=\"hadith\" who=\"7\" Id=\"322\" RevayatIndex=\"329\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">اَلْعِدَّةُ‌</format>، عَنْ <format class=\"G\">سَهْلِ بْنِ زِيَادٍ</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ حَسَّانَ‌</format>، عَنْ <format class=\"G\">مُوسَى بْنِ بُكَيْرٍ</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848816,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1409\"><format class=\"hadith\" who=\"7\" Id=\"322\" RevayatIndex=\"329\">اِشْتَكَيْتُ <format class=\"t\">بِالْمَدِينَةِ‌</format> شَكَاةً ضَعُفْتُ مِنْهَا، فَأَتَيْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أَبَا اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌</format></format>)، فَقَالَ لِي: أَرَاكَ ضَعِيفاً، فَقُلْتُ‌: نَعَمْ‌، فَقَالَ لِي: كُلِ اَلْكَبَابَ‌، فَأَكَلْتُهُ‌، فَبَرَأْتُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848817,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1410\"><page number=\"124\"/><format class=\"hadith\" who=\"7\" Id=\"323\" RevayatIndex=\"330\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">مُوسَى بْنِ بَكْرٍ</format>، قَالَ‌:</format> قَالَ لِي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أَبُو اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: مَا لِي أَرَاكَ مُصْفَرّاً؟!! قُلْتُ‌: وَعْكٌ أَصَابَنِي. فَقَالَ‌: </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "123",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1398\" paragraph-id=\"1398\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo123\">123</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلْعِدَّةِ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">عُبَيْدِ اَللَّهِ اَلدِّهْقَانِ‌</span>، عَنْ <span class=\"G\">دُرُسْتَ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌</span></span>)، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1399\" paragraph-id=\"1399\" class=\" G\">\n    <span class=\"hadith\">«شَكَا نَبِيٌّ مِنَ اَلْأَنْبِيَاءِ‌، إِلَى اَللَّهِ عَزَّ وَ جَلَّ‌، اَلضَّعْفَ فَقَالَ لَهُ‌: اُطْبُخِ اَللَّحْمَ بِاللَّبَنِ‌، فَإِنَّهُمَا يَشُدَّانِ اَلْجِسْمَ‌». قَالَ‌، قُلْتُ‌: «هِيَ اَلْمَضِيرَةُ؟» قَالَ‌: «لاَ، وَ لَكِنِ اَللَّحْمُ بِاللَّبَنِ اَلْحَلِيبِ‌».</span>\n  </p>\n  <p id=\"p1400\" paragraph-id=\"1400\" class=\" G\">بيان: اللبن المضير الحامض، يسمى بالفارسية (دوغ).</p>\n  <p id=\"p1401\" paragraph-id=\"1401\" class=\" G\">المحاسن: روى أكثر الأخبار المتقدمة.</p>\n  <p id=\"p1402\" paragraph-id=\"1402\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنْ <span class=\"G\">سَعْدٍ</span>، عَنِ <span class=\"G\">اَلْأَصْبَغِ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ‌</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1403\" paragraph-id=\"1403\" class=\" G\">\n    <span class=\"hadith\">«إِنَّ نَبِيّاً مِنَ اَلْأَنْبِيَاءِ شَكَا إِلَى اَللَّهِ اَلضَّعْفَ فِي أُمَّتِهِ‌، فَأَمَرَهُمْ أَنْ يَأْكُلُوا اَللَّحْمَ بِاللَّبَنِ‌، فَاسْتَبَانَتِ اَلْقُوَّةُ فِي أَنْفُسِهِمْ‌».</span>\n  </p>\n  <p id=\"p1404\" paragraph-id=\"1404\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">بَعْضِ أَصْحَابِنَا</span> قَالَ‌:</span> كَتَبَ إِلَيْهِ رَجُلٌ‌، يَشْكُو ضَعْفَهُ‌، فَكَتَبَ إِلَيْهِ‌: كُلِ اَللَّحْمَ بِاللَّبَنِ‌.</span>\n  </p>\n  <p id=\"p1405\" paragraph-id=\"1405\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">بَعْضِ أَصْحَابِهِ‌</span>، <span class=\"G\">عَمَّنْ ذَكَرَهُ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1406\" paragraph-id=\"1406\" class=\" G\">\n    <span class=\"hadith\">«مَنْ أَصَابَهُ ضَعْفٌ فِي قَلْبِهِ‌، أَوْ بَدَنِهِ‌، فَلْيَأْكُلْ لَحْمَ اَلضَّأْنِ بِاللَّبَنِ‌».</span>\n  </p>\n  <p id=\"p1407\" paragraph-id=\"1407\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي بالكباب </span></strong>\n  </p>\n  <p id=\"p1408\" paragraph-id=\"1408\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">اَلْعِدَّةُ‌</span>، عَنْ <span class=\"G\">سَهْلِ بْنِ زِيَادٍ</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ حَسَّانَ‌</span>، عَنْ <span class=\"G\">مُوسَى بْنِ بُكَيْرٍ</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1409\" paragraph-id=\"1409\" class=\" G\">\n    <span class=\"hadith\">اِشْتَكَيْتُ <span class=\"t\">بِالْمَدِينَةِ‌</span> شَكَاةً ضَعُفْتُ مِنْهَا، فَأَتَيْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌</span></span>)، فَقَالَ لِي: أَرَاكَ ضَعِيفاً، فَقُلْتُ‌: نَعَمْ‌، فَقَالَ لِي: كُلِ اَلْكَبَابَ‌، فَأَكَلْتُهُ‌، فَبَرَأْتُ‌.</span>\n  </p>\n  <p id=\"p1410\" paragraph-id=\"1410\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "E51ABA25-C7C4-4EB2-B6D1-719AC2F66A46",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

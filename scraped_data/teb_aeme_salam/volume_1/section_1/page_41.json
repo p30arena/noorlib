@@ -1,0 +1,128 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 41,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687847746,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"448\"><format class=\"hadith\" who=\"6\" Id=\"17\" RevayatIndex=\"17\"><page number=\"41\"/>وَ اَلنُّعْمَانُ أَبُو حَنِيفَةَ‌، عَلَى جَعْفَرِ بْنِ مُحَمَّدٍ (عَلَيْهِ اَلسَّلاَمُ‌) فَرَحَّبَ بِنَا فَقَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687847747,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"449\"><format class=\"hadith\" who=\"6\" Id=\"17\" RevayatIndex=\"17\">يَا اِبْنَ أَبِي لَيْلَى مَنْ هَذَا اَلرَّجُلُ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847748,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"450\"><format class=\"hadith\" who=\"6\" Id=\"17\" RevayatIndex=\"17\">فَقُلْتُ‌: جُعِلْتُ فِدَاكَ‌! هَذَا رَجُلٌ مِنْ أَهْلِ اَلْكُوفَةِ‌، لَهُ رَأْيٌ وَ بَصِيرَةٌ‌، وَ نَفَاذٌ.</format></p>"
+        },
+        {
+          "paragraphId": 687847749,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"451\"><format class=\"hadith\" who=\"6\" Id=\"17\" RevayatIndex=\"17\">قَالَ‌: فَلَعَلَّهُ اَلَّذِي يَقِيسُ اَلْأَشْيَاءَ بِرَأْيِهِ‌، ثُمَّ قَالَ‌: يَا نُعْمَانُ‌! هَلْ تُحْسِنُ أَنْ تَقِيسَ رَأْسَكَ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847750,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"452\"><format class=\"hadith\" who=\"6\" Id=\"17\" RevayatIndex=\"17\">قَالَ‌: لاَ.</format></p>"
+        },
+        {
+          "paragraphId": 687847751,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"453\"><heading level=\"3\">في <format class=\"BM\">ما أودع اللّه تعالى في الإنسان من حكم و الطبايع التي ركب منها </format></heading></p>"
+        },
+        {
+          "paragraphId": 687847752,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"454\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\"><format class=\"sanadHadith\">قَالَ‌:</format> مَا أَرَاكَ تُحْسِنُ أَنْ تَقِيسَ شَيْئاً! فَهَلْ عَرَفْتَ اَلْمُلُوحَةَ فِي اَلْعَيْنَيْنِ‌، وَ اَلْمَرَارَةَ فِي اَلْأُذُنَيْنِ‌، وَ اَلْبُرُودَةَ فِي اَلْمَنْخِرَيْنِ‌، وَ اَلْعُذُوبَةَ فِي اَلْفَمِ؟ قَالَ‌: لاَ.</format></p>"
+        },
+        {
+          "paragraphId": 687847753,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"455\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\">قَالَ‌: فَهَلْ عَرَفْتَ كَلِمَةً‌، أَوَّلُهَا كُفْرٌ وَ آخِرُهَا إِيمَانٌ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687847754,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"456\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\">قَالَ‌: لاَ.</format></p>"
+        },
+        {
+          "paragraphId": 687847755,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"457\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\">قَالَ‌: اِبْنُ أَبِي لَيْلَى: قُلْتُ‌: جُعِلْتُ فِدَاكَ‌! لاَ تَدَعْنَا فِي عَمْيَاءَ مِمَّا وَصَفْتَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847756,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"458\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\">قَالَ‌: نَعَمْ‌، حَدَّثَنِي أَبِي عَنْ آبَائِهِ (عَلَيْهِمُ اَلسَّلاَمُ‌) أَنَّ رَسُولَ اَللَّهِ قَالَ‌: إِنَّ اَللَّهَ خَلَقَ عَيْنَيِ اِبْنِ آدَمَ شَحْمَتَيْنِ‌، فَجَعَلَ فِيهِمَا اَلْمُلُوحَةَ‌، فَلَوْلاَ ذَلِكَ لَذَابَتَا، وَ لَمْ يَقَعْ فِيهِمَا شَيْ‌ءٌ مِنَ اَلْقَذَى إِلاَّ أَذَابَهُ‌، وَ اَلْمُلُوحَةُ تَلْفِظُ مَا يَقَعُ فِي اَلْعَيْنِ مِنَ اَلْقَذَى.</format></p>"
+        },
+        {
+          "paragraphId": 687847757,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"459\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\">وَ جَعَلَ اَلْمَرَارَةَ فِي اَلْأُذُنَيْنِ حِجَاباً لِلدِّمَاغِ‌، وَ لَيْسَ مِنْ دَابَّةٍ تَقَعُ فِي اَلْأُذُنِ إِلاَّ اِلْتَمَسَتِ اَلْخُرُوجَ‌، وَ لَوْ لاَ ذَلِكَ لَوَصَلَتْ إِلَى اَلدِّمَاغِ فَأَفْسَدَتْهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847758,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"460\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\">وَ جَعَلَ اَللَّهُ اَلْبُرُودَةَ فِي اَلْمَنْخِرَيْنِ حِجَاباً لِلدِّمَاغِ وَ لَوْ لاَ ذَلِكَ لَسَالَ اَلدِّمَاغُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847759,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"461\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\">وَ جَعَلَ اَلْعُذُوبَةَ فِي اَلْفَمِ مَنّاً مِنَ اَللَّهِ تَعَالَى عَلَى اِبْنِ آدَمَ‌، لِيَجِدَ لَذَّةَ اَلطَّعَامِ وَ اَلشَّرَابِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847760,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"462\"><format class=\"hadith\" who=\"14,6\" Id=\"18\" RevayatIndex=\"18\">وَ أَمَّا كَلِمَةٌ أَوَّلُهَا كُفْرٌ وَ آخِرُهَا إِيمَانٌ‌: فَقَوْلُ‌: «لاَ إِلَهَ إِلاَّ اَللَّهُ‌» (اَلْحَدِيثَ‌).</format></p>"
+        },
+        {
+          "paragraphId": 687847761,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"463\"><page number=\"42\"/><format class=\"hadith\" who=\"\" Id=\"18\" RevayatIndex=\"\"><format class=\"sanadHadith\">اَلْعِلَلِ‌<lfootnote noteId=\"30\">1</lfootnote>: عَنْ أَبِي سَعْدٍ عَنِ اَلْبَرْقِيِّ عَنْ مُعَاذِ بْنِ عَبْدِ اَللَّهِ‌، عَنْ بِشْرِ بْنِ يَحْيَى اَلْعَامِرِيِّ‌، عَنِ اِبْنِ أَبِي لَيْلَى:</format> مِثْلَهُ بِأَدْنَى تَفَاوُتٍ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "41",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p448\" paragraph-id=\"448\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo41\">41</span>وَ اَلنُّعْمَانُ أَبُو حَنِيفَةَ‌، عَلَى جَعْفَرِ بْنِ مُحَمَّدٍ (عَلَيْهِ اَلسَّلاَمُ‌) فَرَحَّبَ بِنَا فَقَالَ‌:</span>\n  </p>\n  <p id=\"p449\" paragraph-id=\"449\" class=\" G\">\n    <span class=\"hadith\">يَا اِبْنَ أَبِي لَيْلَى مَنْ هَذَا اَلرَّجُلُ؟.</span>\n  </p>\n  <p id=\"p450\" paragraph-id=\"450\" class=\" G\">\n    <span class=\"hadith\">فَقُلْتُ‌: جُعِلْتُ فِدَاكَ‌! هَذَا رَجُلٌ مِنْ أَهْلِ اَلْكُوفَةِ‌، لَهُ رَأْيٌ وَ بَصِيرَةٌ‌، وَ نَفَاذٌ.</span>\n  </p>\n  <p id=\"p451\" paragraph-id=\"451\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَلَعَلَّهُ اَلَّذِي يَقِيسُ اَلْأَشْيَاءَ بِرَأْيِهِ‌، ثُمَّ قَالَ‌: يَا نُعْمَانُ‌! هَلْ تُحْسِنُ أَنْ تَقِيسَ رَأْسَكَ؟.</span>\n  </p>\n  <p id=\"p452\" paragraph-id=\"452\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لاَ.</span>\n  </p>\n  <p id=\"p453\" paragraph-id=\"453\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">في <span class=\"BM\">ما أودع اللّه تعالى في الإنسان من حكم و الطبايع التي ركب منها </span></strong>\n  </p>\n  <p id=\"p454\" paragraph-id=\"454\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ‌:</span> مَا أَرَاكَ تُحْسِنُ أَنْ تَقِيسَ شَيْئاً! فَهَلْ عَرَفْتَ اَلْمُلُوحَةَ فِي اَلْعَيْنَيْنِ‌، وَ اَلْمَرَارَةَ فِي اَلْأُذُنَيْنِ‌، وَ اَلْبُرُودَةَ فِي اَلْمَنْخِرَيْنِ‌، وَ اَلْعُذُوبَةَ فِي اَلْفَمِ؟ قَالَ‌: لاَ.</span>\n  </p>\n  <p id=\"p455\" paragraph-id=\"455\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَهَلْ عَرَفْتَ كَلِمَةً‌، أَوَّلُهَا كُفْرٌ وَ آخِرُهَا إِيمَانٌ؟.</span>\n  </p>\n  <p id=\"p456\" paragraph-id=\"456\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لاَ.</span>\n  </p>\n  <p id=\"p457\" paragraph-id=\"457\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: اِبْنُ أَبِي لَيْلَى: قُلْتُ‌: جُعِلْتُ فِدَاكَ‌! لاَ تَدَعْنَا فِي عَمْيَاءَ مِمَّا وَصَفْتَ‌.</span>\n  </p>\n  <p id=\"p458\" paragraph-id=\"458\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: نَعَمْ‌، حَدَّثَنِي أَبِي عَنْ آبَائِهِ (عَلَيْهِمُ اَلسَّلاَمُ‌) أَنَّ رَسُولَ اَللَّهِ قَالَ‌: إِنَّ اَللَّهَ خَلَقَ عَيْنَيِ اِبْنِ آدَمَ شَحْمَتَيْنِ‌، فَجَعَلَ فِيهِمَا اَلْمُلُوحَةَ‌، فَلَوْلاَ ذَلِكَ لَذَابَتَا، وَ لَمْ يَقَعْ فِيهِمَا شَيْ‌ءٌ مِنَ اَلْقَذَى إِلاَّ أَذَابَهُ‌، وَ اَلْمُلُوحَةُ تَلْفِظُ مَا يَقَعُ فِي اَلْعَيْنِ مِنَ اَلْقَذَى.</span>\n  </p>\n  <p id=\"p459\" paragraph-id=\"459\" class=\" G\">\n    <span class=\"hadith\">وَ جَعَلَ اَلْمَرَارَةَ فِي اَلْأُذُنَيْنِ حِجَاباً لِلدِّمَاغِ‌، وَ لَيْسَ مِنْ دَابَّةٍ تَقَعُ فِي اَلْأُذُنِ إِلاَّ اِلْتَمَسَتِ اَلْخُرُوجَ‌، وَ لَوْ لاَ ذَلِكَ لَوَصَلَتْ إِلَى اَلدِّمَاغِ فَأَفْسَدَتْهُ‌.</span>\n  </p>\n  <p id=\"p460\" paragraph-id=\"460\" class=\" G\">\n    <span class=\"hadith\">وَ جَعَلَ اَللَّهُ اَلْبُرُودَةَ فِي اَلْمَنْخِرَيْنِ حِجَاباً لِلدِّمَاغِ وَ لَوْ لاَ ذَلِكَ لَسَالَ اَلدِّمَاغُ‌.</span>\n  </p>\n  <p id=\"p461\" paragraph-id=\"461\" class=\" G\">\n    <span class=\"hadith\">وَ جَعَلَ اَلْعُذُوبَةَ فِي اَلْفَمِ مَنّاً مِنَ اَللَّهِ تَعَالَى عَلَى اِبْنِ آدَمَ‌، لِيَجِدَ لَذَّةَ اَلطَّعَامِ وَ اَلشَّرَابِ‌.</span>\n  </p>\n  <p id=\"p462\" paragraph-id=\"462\" class=\" G\">\n    <span class=\"hadith\">وَ أَمَّا كَلِمَةٌ أَوَّلُهَا كُفْرٌ وَ آخِرُهَا إِيمَانٌ‌: فَقَوْلُ‌: «لاَ إِلَهَ إِلاَّ اَللَّهُ‌» (اَلْحَدِيثَ‌).</span>\n  </p>\n  <p id=\"p463\" paragraph-id=\"463\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "A5EBED37-D483-4381-A8E1-2F851E67BA02",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

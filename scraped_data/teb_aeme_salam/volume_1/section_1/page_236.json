@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 236,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687850009,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2628\"><page number=\"236\"/><heading level=\"2\">باب <format class=\"ZM\">علاج الصداع و الشقيقة </format></heading></p>"
+        },
+        {
+          "paragraphId": 687850010,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2629\"><format class=\"hadith\" who=\"14\" Id=\"907\" RevayatIndex=\"921\"><format class=\"sanadHadith\">وَ فِي (اَلْمَكَارِمِ‌): عَنِ اِبْنِ عَبَّاسٍ‌، قَالَ‌:</format> كَانَ اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ يُعَلِّمُنَا مِنَ اَلْأَوْجَاعِ كُلِّهَا، وَ اَلْحُمَّى، وَ اَلصُّدَاعِ‌: (أَعُوذُ بِاللَّهِ اَلْعَظِيمِ‌، مِنْ شَرِّ كُلِّ عِرْقٍ نَعَّارٍ، وَ مِنْ شَرِّ اَلنَّارِ). وَ إِذَا وَضَعْتَ يَدَكَ فَقُلْ‌: (بِسْمِ اَللَّهِ‌، وَ بِاللَّهِ‌، مُحَمَّدٌ رَسُولُ اَللَّهِ‌، أَعُوذُ بِاللَّهِ وَ قُدْرَتِهِ عَلَى مَا يَشَاءُ مِنْ شَرِّ مَا أَجِدُ).</format></p>"
+        },
+        {
+          "paragraphId": 687850011,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2630\"><format class=\"hadith\" who=\"14,6\" Id=\"908\" RevayatIndex=\"922\"><format class=\"sanadHadith\">وَ فِي <format class=\"K\">(طِبِّ اَلْأَئِمَّةِ‌)</format>: عَنِ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> كَانَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format> إِذَا كَسِلَ‌، أَوْ أَصَابَتْهُ عَيْنٌ‌، أَوْ صُدَاعٌ‌، بَسَطَ يَدَيْهِ‌، فَقَرَأَ <format class=\"Q\" Number=\"\">فَاتِحَةَ اَلْكِتَابِ‌</format>، وَ <format class=\"Q\" Number=\"\">اَلْمُعَوِّذَتَيْنِ‌</format>، ثُمَّ يَمْسَحُ بِهِمَا وَجْهَهُ‌، فَيَذْهَبُ عَنْهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850012,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2631\"><format class=\"hadith\" who=\"6\" Id=\"909\" RevayatIndex=\"923\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>): </format>غَسْلُ اَلرَّأْسِ بِالْخِطْمِيِّ‌، أَمْنٌ مِنَ اَلصُّدَاعِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850013,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2632\"><format class=\"hadith\" who=\"8\" Id=\"910\" RevayatIndex=\"924\"><format class=\"sanadHadith\">وَ عَنِ اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> وَ مَنْ خَشِيَ اَلشَّقِيقَةَ‌، وَ اَلشَّوْصَةَ‌، فَلاَ يُؤَخِّرْ أَكْلَ اَلسَّمَكِ اَلطَّرِيِّ‌، صَيْفاً كَانَ أَوْ شِتَاءً (اَلْحَدِيثِ‌).</format></p>"
+        },
+        {
+          "paragraphId": 687850014,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2633\"><format class=\"hadith\" who=\"8\" Id=\"911\" RevayatIndex=\"925\"><format class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> إِذَا أَرَدْتَ دُخُولَ اَلْحَمَّامِ‌، وَ أَنْ لاَ تَجِدَ فِي رَأْسِكَ مَا يُؤْذِيكَ‌، فَابْدَأْ قَبْلَ دُخُولِهِ بِخَمْسِ جُرَعٍ مِنَ اَلْمَاءِ اَلْفَاتِرِ، فَإِنَّكَ تَسْلَمُ بِإِذْنِ اَللَّهِ تَعَالَى مِنْ وَجَعِ اَلرَّأْسِ وَ اَلشَّقِيقَةِ‌<lfootnote noteId=\"112\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 687850015,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2634\"><format class=\"hadith\" who=\"6\" Id=\"912\" RevayatIndex=\"926\"><format class=\"sanadHadith\">وَ قَالَ اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌):</format> اِغْسِلُوا أَرْجُلَكُمْ بَعْدَ خُرُوجِكُمْ مِنَ اَلْحَمَّامِ فَإِنَّهُ يَذْهَبُ بِالشَّقِيقَةِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850016,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2635\"><format class=\"hadith\" who=\"6,5\" Id=\"913\" RevayatIndex=\"927\"><format class=\"sanadHadith\">وَ عَنِ اَلْبَاقِرِ (عَلَيْهِ اَلسَّلاَمُ‌)، وَ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌):</format> أَنَّهُمَا خَرَجَا مِنَ اَلْحَمَّامِ مُتَعَمِّمَيْنِ شِتَاءً كَانَ أَمْ صَيْفاً، وَ كَانَا يَقُولاَنِ‌: هُوَ أَمَانٌ مِنَ اَلصُّدَاعِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850017,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2636\"><format class=\"hadith\" who=\"17\" Id=\"914\" RevayatIndex=\"928\"><format class=\"sanadHadith\">وَ فِي (حَيَاةِ اَلْحَيَوَانِ‌):</format> أَنَّ عُمَرَ بْنَ عَبْدِ اَلْعَزِيزِ لَمَّا حَضَرَ (عَمُورِيَّةَ‌) حَصَلَ لَهُ صُدَاعٌ‌، فَلَمْ يَرْكَبْ فِي اَلْحَرْبِ‌، فَقِيلَ لِلْمُسْلِمِينَ‌: مَا بَالُ أَمِيرِكُمْ لَمْ يَرْكَبْ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687850018,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2637\"><format class=\"hadith\" who=\"17\" Id=\"914\" RevayatIndex=\"928\">فَقَالُوا: عَرَضَ لَهُ صُدَاعٌ‌!.</format></p>"
+        },
+        {
+          "paragraphId": 687850019,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2638\"><format class=\"hadith\" who=\"17\" Id=\"914\" RevayatIndex=\"928\"><page number=\"237\"/>فَأَخْرَجُوا لَهُ بُرْنُساً، وَ قَالُوا: أَلْبِسُوهُ لِيَزُولَ عَنْهُ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851745,
+          "text": "<footnote id=\"112\"><page number=\"236\"/><mnote>(1)</mnote> الشقيقة وجع مؤلم جدا في نصف الرأس و الوجه طولا (ع).</footnote>"
+        }
+      ],
+      "pageValue": "236",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2628\" paragraph-id=\"2628\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo236\">236</span>\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"ZM\">علاج الصداع و الشقيقة </span></strong>\n  </p>\n  <p id=\"p2629\" paragraph-id=\"2629\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي (اَلْمَكَارِمِ‌): عَنِ اِبْنِ عَبَّاسٍ‌، قَالَ‌:</span> كَانَ اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ يُعَلِّمُنَا مِنَ اَلْأَوْجَاعِ كُلِّهَا، وَ اَلْحُمَّى، وَ اَلصُّدَاعِ‌: (أَعُوذُ بِاللَّهِ اَلْعَظِيمِ‌، مِنْ شَرِّ كُلِّ عِرْقٍ نَعَّارٍ، وَ مِنْ شَرِّ اَلنَّارِ). وَ إِذَا وَضَعْتَ يَدَكَ فَقُلْ‌: (بِسْمِ اَللَّهِ‌، وَ بِاللَّهِ‌، مُحَمَّدٌ رَسُولُ اَللَّهِ‌، أَعُوذُ بِاللَّهِ وَ قُدْرَتِهِ عَلَى مَا يَشَاءُ مِنْ شَرِّ مَا أَجِدُ).</span>\n  </p>\n  <p id=\"p2630\" paragraph-id=\"2630\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي <span class=\"K\">(طِبِّ اَلْأَئِمَّةِ‌)</span>: عَنِ <span class=\"HQ\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> كَانَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span> إِذَا كَسِلَ‌، أَوْ أَصَابَتْهُ عَيْنٌ‌، أَوْ صُدَاعٌ‌، بَسَطَ يَدَيْهِ‌، فَقَرَأَ <span class=\"Q\">فَاتِحَةَ اَلْكِتَابِ‌</span>، وَ <span class=\"Q\">اَلْمُعَوِّذَتَيْنِ‌</span>، ثُمَّ يَمْسَحُ بِهِمَا وَجْهَهُ‌، فَيَذْهَبُ عَنْهُ‌.</span>\n  </p>\n  <p id=\"p2631\" paragraph-id=\"2631\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>): </span>غَسْلُ اَلرَّأْسِ بِالْخِطْمِيِّ‌، أَمْنٌ مِنَ اَلصُّدَاعِ‌.</span>\n  </p>\n  <p id=\"p2632\" paragraph-id=\"2632\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> وَ مَنْ خَشِيَ اَلشَّقِيقَةَ‌، وَ اَلشَّوْصَةَ‌، فَلاَ يُؤَخِّرْ أَكْلَ اَلسَّمَكِ اَلطَّرِيِّ‌، صَيْفاً كَانَ أَوْ شِتَاءً (اَلْحَدِيثِ‌).</span>\n  </p>\n  <p id=\"p2633\" paragraph-id=\"2633\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</span> إِذَا أَرَدْتَ دُخُولَ اَلْحَمَّامِ‌، وَ أَنْ لاَ تَجِدَ فِي رَأْسِكَ مَا يُؤْذِيكَ‌، فَابْدَأْ قَبْلَ دُخُولِهِ بِخَمْسِ جُرَعٍ مِنَ اَلْمَاءِ اَلْفَاتِرِ، فَإِنَّكَ تَسْلَمُ بِإِذْنِ اَللَّهِ تَعَالَى مِنْ وَجَعِ اَلرَّأْسِ وَ اَلشَّقِيقَةِ‌<span><sup><a class=\"NewFn\" href=\"#footnote112\" title=\"(1)  الشقيقة وجع مؤلم جدا في نصف الرأس و الوجه طولا (ع).\">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2634\" paragraph-id=\"2634\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌):</span> اِغْسِلُوا أَرْجُلَكُمْ بَعْدَ خُرُوجِكُمْ مِنَ اَلْحَمَّامِ فَإِنَّهُ يَذْهَبُ بِالشَّقِيقَةِ‌.</span>\n  </p>\n  <p id=\"p2635\" paragraph-id=\"2635\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلْبَاقِرِ (عَلَيْهِ اَلسَّلاَمُ‌)، وَ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌):</span> أَنَّهُمَا خَرَجَا مِنَ اَلْحَمَّامِ مُتَعَمِّمَيْنِ شِتَاءً كَانَ أَمْ صَيْفاً، وَ كَانَا يَقُولاَنِ‌: هُوَ أَمَانٌ مِنَ اَلصُّدَاعِ‌.</span>\n  </p>\n  <p id=\"p2636\" paragraph-id=\"2636\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي (حَيَاةِ اَلْحَيَوَانِ‌):</span> أَنَّ عُمَرَ بْنَ عَبْدِ اَلْعَزِيزِ لَمَّا حَضَرَ (عَمُورِيَّةَ‌) حَصَلَ لَهُ صُدَاعٌ‌، فَلَمْ يَرْكَبْ فِي اَلْحَرْبِ‌، فَقِيلَ لِلْمُسْلِمِينَ‌: مَا بَالُ أَمِيرِكُمْ لَمْ يَرْكَبْ؟.</span>\n  </p>\n  <p id=\"p2637\" paragraph-id=\"2637\" class=\" G\">\n    <span class=\"hadith\">فَقَالُوا: عَرَضَ لَهُ صُدَاعٌ‌!.</span>\n  </p>\n  <p id=\"p2638\" paragraph-id=\"2638\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote112\" footnote-id=\"112\">(1) <page number=\"236\" /> الشقيقة وجع مؤلم جدا في نصف الرأس و الوجه طولا (ع).</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "6E053A1D-D6E6-4310-B020-20B9CA2AB68C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

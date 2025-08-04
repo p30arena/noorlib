@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 78,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848290,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"890\"><page number=\"78\"/><heading level=\"2\">باب كراهة المشي للمريض</heading></p>"
+        },
+        {
+          "paragraphId": 687848291,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"891\"><format class=\"hadith\" who=\"5,6\" Id=\"132\" RevayatIndex=\"134\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">أَبِي يَحْيَى اَلْوَاسِطِيِّ‌</format>، عَنْ <format class=\"G\">بَعْضِ أَصْحَابِنَا</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848292,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"892\"><format class=\"hadith\" who=\"5,6\" Id=\"132\" RevayatIndex=\"134\">«إِنَّ اَلْمَشْيَ لِلْمَرِيضِ نُكْسٌ‌، إِنَّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أَبِي (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> كَانَ إِذَا اِغْتَسَلَ‌، جُعِلَ فِي ثَوْبٍ‌، فَحُمِلَ لِحَاجَتِهِ - يَعْنِي اَلْوُضُوءَ - وَ ذَاكَ أَنَّهُ كَانَ يَقُولُ‌: إِنَّ اَلْمَشْيَ لِلْمَرِيضِ نُكْسٌ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848293,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"893\"><heading level=\"2\">باب <format class=\"BM\">استحباب إيذان المريض إخوانه بمرضه و الإذن لهم في الدخول عليه </format></heading></p>"
+        },
+        {
+          "paragraphId": 687848294,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"894\"><format class=\"hadith\" who=\"6\" Id=\"133\" RevayatIndex=\"135\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اِبْنِ مَحْبُوبٍ‌</format>، عَنْ <format class=\"G\">أَبِي وَلاَّدٍ اَلْحَنَّاطِ</format>، عَنْ <format class=\"G\">أَبِي عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848295,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"895\"><format class=\"hadith\" who=\"6\" Id=\"133\" RevayatIndex=\"135\"><format class=\"sanadHadith\">سَمِعْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> يَقُولُ‌: </format>«يَنْبَغِي لِلْمَرِيضِ مِنْكُمْ أَنْ يُؤْذِنَ إِخْوَانَهُ بِمَرَضِهِ‌، فَيَعُودُونَهُ فَيُؤْجَرُ فِيهِمْ وَ يُؤْجَرُونَ فِيهِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848296,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"896\"><format class=\"hadith\" who=\"6\" Id=\"133\" RevayatIndex=\"135\">قَالَ‌: فَقِيلَ لَهُ‌: نَعَمْ‌، فَهُمْ يُؤْجَرُونَ فِيهِ بِمَمْشَاهُمْ إِلَيْهِ‌، فَكَيْفَ يُؤْجَرُ فِيهِمْ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687848297,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"897\"><format class=\"hadith\" who=\"6\" Id=\"133\" RevayatIndex=\"135\">قَالَ‌: فَقَالَ‌: بِاكْتِسَابِهِ لَهُمُ اَلْحَسَنَاتِ‌، فَيُؤْجَرُ فِيهِمْ‌، فَيُكْتَبُ لَهُ عَشْرُ حَسَنَاتٍ‌، وَ يُرْفَعُ لَهُ عَشْرُ دَرَجَاتٍ‌، وَ يُمْحَى بِهَا عَنْهُ عَشْرُ سَيِّئَاتٍ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848298,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"898\"><format class=\"hadith\" who=\"\" Id=\"133\" RevayatIndex=\"\"><format class=\"sanadHadith\">اَلسَّرَائِرِ: نَقْلاً عَنْ كِتَابِ (اَلْمَشِيخَةِ‌) لِلْحَسَنِ بْنِ مَحْبُوبٍ‌، عَنْ أَبِي وَلاَّدٍ، وَ عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌، قَالاَ: سَمِعْنَا أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌):</format> وَ ذَكَرَا مِثْلَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848299,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"899\"><format class=\"hadith\" who=\"7|8\" Id=\"134\" RevayatIndex=\"136\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">عَبْدِ اَلْعَزِيزِ بْنِ اَلْمَهْدِيِّ‌</format>، عَنْ <format class=\"G\">يُونُسَ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848300,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"900\"><format class=\"hadith\" who=\"7|8\" Id=\"134\" RevayatIndex=\"136\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7|8\">أَبُو اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>«إِذَا مَرِضَ أَحَدُكُمْ فَلْيَأْذَنْ لِلنَّاسِ يَدْخُلُونَ عَلَيْهِ‌، فَإِنَّهُ <page number=\"79\"/>لَيْسَ مِنْ أَحَدٍ إِلاَّ وَ لَهُ دَعْوَةٌ مُسْتَجَابَةٌ‌» ثُمَّ قَالَ‌:</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "78",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p890\" paragraph-id=\"890\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo78\">78</span>\n    <strong style=\"0\" class=\"h-2 02\">باب كراهة المشي للمريض</strong>\n  </p>\n  <p id=\"p891\" paragraph-id=\"891\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">أَبِي يَحْيَى اَلْوَاسِطِيِّ‌</span>، عَنْ <span class=\"G\">بَعْضِ أَصْحَابِنَا</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p892\" paragraph-id=\"892\" class=\" G\">\n    <span class=\"hadith\">«إِنَّ اَلْمَشْيَ لِلْمَرِيضِ نُكْسٌ‌، إِنَّ <span class=\"Y\"><span class=\"maasoom\">أَبِي (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> كَانَ إِذَا اِغْتَسَلَ‌، جُعِلَ فِي ثَوْبٍ‌، فَحُمِلَ لِحَاجَتِهِ - يَعْنِي اَلْوُضُوءَ - وَ ذَاكَ أَنَّهُ كَانَ يَقُولُ‌: إِنَّ اَلْمَشْيَ لِلْمَرِيضِ نُكْسٌ‌».</span>\n  </p>\n  <p id=\"p893\" paragraph-id=\"893\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"BM\">استحباب إيذان المريض إخوانه بمرضه و الإذن لهم في الدخول عليه </span></strong>\n  </p>\n  <p id=\"p894\" paragraph-id=\"894\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اِبْنِ مَحْبُوبٍ‌</span>، عَنْ <span class=\"G\">أَبِي وَلاَّدٍ اَلْحَنَّاطِ</span>، عَنْ <span class=\"G\">أَبِي عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p895\" paragraph-id=\"895\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> يَقُولُ‌: </span>«يَنْبَغِي لِلْمَرِيضِ مِنْكُمْ أَنْ يُؤْذِنَ إِخْوَانَهُ بِمَرَضِهِ‌، فَيَعُودُونَهُ فَيُؤْجَرُ فِيهِمْ وَ يُؤْجَرُونَ فِيهِ‌».</span>\n  </p>\n  <p id=\"p896\" paragraph-id=\"896\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَقِيلَ لَهُ‌: نَعَمْ‌، فَهُمْ يُؤْجَرُونَ فِيهِ بِمَمْشَاهُمْ إِلَيْهِ‌، فَكَيْفَ يُؤْجَرُ فِيهِمْ؟.</span>\n  </p>\n  <p id=\"p897\" paragraph-id=\"897\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَقَالَ‌: بِاكْتِسَابِهِ لَهُمُ اَلْحَسَنَاتِ‌، فَيُؤْجَرُ فِيهِمْ‌، فَيُكْتَبُ لَهُ عَشْرُ حَسَنَاتٍ‌، وَ يُرْفَعُ لَهُ عَشْرُ دَرَجَاتٍ‌، وَ يُمْحَى بِهَا عَنْهُ عَشْرُ سَيِّئَاتٍ‌.</span>\n  </p>\n  <p id=\"p898\" paragraph-id=\"898\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلسَّرَائِرِ: نَقْلاً عَنْ كِتَابِ (اَلْمَشِيخَةِ‌) لِلْحَسَنِ بْنِ مَحْبُوبٍ‌، عَنْ أَبِي وَلاَّدٍ، وَ عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌، قَالاَ: سَمِعْنَا أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌):</span> وَ ذَكَرَا مِثْلَهُ‌.</span>\n  </p>\n  <p id=\"p899\" paragraph-id=\"899\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">عَبْدِ اَلْعَزِيزِ بْنِ اَلْمَهْدِيِّ‌</span>، عَنْ <span class=\"G\">يُونُسَ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p900\" paragraph-id=\"900\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَبُو اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>«إِذَا مَرِضَ أَحَدُكُمْ فَلْيَأْذَنْ لِلنَّاسِ يَدْخُلُونَ عَلَيْهِ‌، فَإِنَّهُ </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "FF821E89-C0EB-44BC-BA54-8AC1F705796D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

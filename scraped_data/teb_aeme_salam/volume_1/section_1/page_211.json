@@ -1,0 +1,92 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 211,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849758,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2373\"><page number=\"210\"/><page number=\"211\"/><heading level=\"2\">باب <format class=\"BM\">ما يكون سببا لحفظ الصحة و السلامة في السفر و الحضر و ما يدفع الأمراض </format></heading></p>"
+        },
+        {
+          "paragraphId": 687849759,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2374\">أقول: من جملة ذلك عدم الامتلاء من الطعام و الشراب، كما قال تعالى: </p>"
+        },
+        {
+          "paragraphId": 687849760,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2375\"><format class=\"ayah\" surah=\"7\" ayah=\"31\" toAyah=\"\">كُلُوا وَ اِشْرَبُوا وَ لاٰ تُسْرِفُوا <format class=\"ayahWord\" fromWord=\"10\" toWord=\"15\"/><format class=\"ayahAddress\" surah=\"7\" ayah=\"31\" toAyah=\"\"/></format></p>"
+        },
+        {
+          "paragraphId": 687849761,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2376\"><format class=\"hadith\" who=\"14\" Id=\"750\" RevayatIndex=\"763\"><format class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> اَلْمَعِدَةُ بَيْتُ اَلدَّاءِ‌، وَ اَلْحِمْيَةُ رَأْسُ كُلِّ دَوَاءٍ‌، <format class=\"sanadHadith\">(وَ فِي نُسْخَةٍ‌):</format> وَ تَقْلِيلُ اَلْغِذَاءِ رَأْسُ كُلِّ دَوَاءٍ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849762,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2377\"><format class=\"hadith\" who=\"14\" Id=\"751\" RevayatIndex=\"764\"><format class=\"sanadHadith\">وَ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌، قَالَ‌:</format> إِذَا وَقَعَ اَلذُّبَابُ فِي إِنَاءِ أَحَدِكُمْ‌، فَامْقُلُوهُ‌، ثُمَّ اُمْقُلُوهُ‌، فَإِنَّ فِي إِحْدَى جَنَاحَيْهِ دَاءً‌، وَ فِي اَلْآخَرِ دَوَاءً‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849763,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2378\"><format class=\"hadith\" who=\"16\" Id=\"752\" RevayatIndex=\"765\"><format class=\"sanadHadith\">وَ قَدْ وَرَدَ أَيْضاً:</format> إِنَّ اَلتَّوْبَةَ مِنَ اَلذُّنُوبِ‌، وَ اَلاِسْتِغْفَارَ يَدْفَعُ اَلْأَمْرَاضَ وَ اَلْبَلاَيَا، وَ كَذَا اَلتَّقْوَى، وَ صَلاَةُ اَللَّيْلِ‌، وَ صِلَةُ اَلْأَرْحَامِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849764,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2379\"><format class=\"hadith\" who=\"16\" Id=\"753\" RevayatIndex=\"766\"><format class=\"sanadHadith\">وَ عَنْ أَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌: </format>«مَا مِنْ أَحَدٍ فِي حَدِّ اَلصِّبَا يَتَعَمَّدُ وَ فِي كُلِّ لَيْلَةٍ قِرَاءَةَ‌: <format class=\"ayah\" surah=\"113\" ayah=\"1\" toAyah=\"\">قُلْ أَعُوذُ بِرَبِّ اَلْفَلَقِ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"113\" ayah=\"1\" toAyah=\"\"/></format> وَ <format class=\"ayah\" surah=\"114\" ayah=\"1\" toAyah=\"\">بِرَبِّ اَلنّٰاسِ‌<format class=\"ayahWord\" fromWord=\"3\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"114\" ayah=\"1\" toAyah=\"\"/></format>، كُلَّ وَاحِدَةٍ ثَلاَثَ مَرَّاتٍ‌، وَ <format class=\"ayah\" surah=\"112\" ayah=\"1\" toAyah=\"\">قُلْ هُوَ اَللّٰهُ أَحَدٌ<format class=\"ayahWord\" fromWord=\"1\" toWord=\"4\"/><format class=\"ayahAddress\" surah=\"112\" ayah=\"1\" toAyah=\"\"/></format> مِائَةَ مَرَّةٍ فَإِنْ لَمْ يَقْدِرْ فَخَمْسِينَ‌، إِلاَّ صَرَفَ اَللَّهُ تَعَالَى عَنْهُ‌، كُلَّ لَمَمٍ وَ كُلَّ عَرَضٍ مِنْ أَعْرَاضِ اَلصِّبْيَانِ‌، وَ اَلْعُطَاشَ‌، وَ فَسَادَ اَلْمَعِدَةِ‌، وَ بَدْرَةَ اَلدَّمِ‌، أَبَداً مَا تَعَوَّذَ بِهَذَا، حَتَّى يَبْلُغَ اَلشَّيْبَ‌، فَإِنْ تَعَمَّدَ نَفْسَهُ بِذَلِكَ‌، أَوْ تَعَوَّذَهُ‌، كَانَ مَحْفُوظاً إِلَى يَوْمِ يَقْبِضُ اَللَّهُ تَعَالَى نَفْسَهُ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687849765,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2380\"><format class=\"hadith\" who=\"6\" Id=\"754\" RevayatIndex=\"767\"><format class=\"sanadHadith\">وَ عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌):</format> فِي اَلْعُوذَةِ‌، قَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849766,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2381\"><format class=\"hadith\" who=\"6\" Id=\"754\" RevayatIndex=\"767\">«تَأْخُذُ قُلَّةً جَدِيدَةً‌، تَجْعَلُ فِيهَا مَاءً‌، ثُمَّ تَقْرَأُ فِيهَا: <format class=\"ayah\" surah=\"97\" ayah=\"1\" toAyah=\"\">إِنّٰا أَنْزَلْنٰاهُ فِي لَيْلَةِ اَلْقَدْرِ<format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"97\" ayah=\"1\" toAyah=\"\"/></format> ثَلاَثِينَ مَرَّةً‌، ثُمَّ تُعَلِّقُ‌، وَ تَشْرَبُ مِنْهَا، فَيُزْدَادُ فِيهَا مَاءٌ‌، إِنْ شَاءَ اَللَّهُ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687849767,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2382\">و قد ورد في كثير من الروايات المعتبرة، أنّ تكرار التسبيحات الأربع ثلاثين مرة، بعد كل فريضة، يدفعن الهدم، و الغرق، و الحرق، و التردي في البئر، و أكل<page number=\"212\"/> السبع، و ميتة السوء، و البلية التي نزلت على العبد، في ذلك اليوم، و هن المعقبات.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "211",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2373\" paragraph-id=\"2373\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo211\">211</span>\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"BM\">ما يكون سببا لحفظ الصحة و السلامة في السفر و الحضر و ما يدفع الأمراض </span></strong>\n  </p>\n  <p id=\"p2374\" paragraph-id=\"2374\" class=\" G\">أقول: من جملة ذلك عدم الامتلاء من الطعام و الشراب، كما قال تعالى: </p>\n  <p id=\"p2375\" paragraph-id=\"2375\" class=\" G\">\n    <span style=\"0\" class=\"ayah\" surah=\"7\" ayah=\"31\">كُلُوا وَ اِشْرَبُوا وَ لاٰ تُسْرِفُوا <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/7/31\"></a></span></span>\n  </p>\n  <p id=\"p2376\" paragraph-id=\"2376\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</span> اَلْمَعِدَةُ بَيْتُ اَلدَّاءِ‌، وَ اَلْحِمْيَةُ رَأْسُ كُلِّ دَوَاءٍ‌، <span class=\"sanadHadith\">(وَ فِي نُسْخَةٍ‌):</span> وَ تَقْلِيلُ اَلْغِذَاءِ رَأْسُ كُلِّ دَوَاءٍ‌.</span>\n  </p>\n  <p id=\"p2377\" paragraph-id=\"2377\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌، قَالَ‌:</span> إِذَا وَقَعَ اَلذُّبَابُ فِي إِنَاءِ أَحَدِكُمْ‌، فَامْقُلُوهُ‌، ثُمَّ اُمْقُلُوهُ‌، فَإِنَّ فِي إِحْدَى جَنَاحَيْهِ دَاءً‌، وَ فِي اَلْآخَرِ دَوَاءً‌.</span>\n  </p>\n  <p id=\"p2378\" paragraph-id=\"2378\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَدْ وَرَدَ أَيْضاً:</span> إِنَّ اَلتَّوْبَةَ مِنَ اَلذُّنُوبِ‌، وَ اَلاِسْتِغْفَارَ يَدْفَعُ اَلْأَمْرَاضَ وَ اَلْبَلاَيَا، وَ كَذَا اَلتَّقْوَى، وَ صَلاَةُ اَللَّيْلِ‌، وَ صِلَةُ اَلْأَرْحَامِ‌.</span>\n  </p>\n  <p id=\"p2379\" paragraph-id=\"2379\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ أَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌: </span>«مَا مِنْ أَحَدٍ فِي حَدِّ اَلصِّبَا يَتَعَمَّدُ وَ فِي كُلِّ لَيْلَةٍ قِرَاءَةَ‌: <span style=\"0\" class=\"ayah\" surah=\"113\" ayah=\"1\">قُلْ أَعُوذُ بِرَبِّ اَلْفَلَقِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/113/1\"></a></span></span> وَ <span style=\"0\" class=\"ayah\" surah=\"114\" ayah=\"1\">بِرَبِّ اَلنّٰاسِ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/114/1\"></a></span></span>، كُلَّ وَاحِدَةٍ ثَلاَثَ مَرَّاتٍ‌، وَ <span style=\"0\" class=\"ayah\" surah=\"112\" ayah=\"1\">قُلْ هُوَ اَللّٰهُ أَحَدٌ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/112/1\"></a></span></span> مِائَةَ مَرَّةٍ فَإِنْ لَمْ يَقْدِرْ فَخَمْسِينَ‌، إِلاَّ صَرَفَ اَللَّهُ تَعَالَى عَنْهُ‌، كُلَّ لَمَمٍ وَ كُلَّ عَرَضٍ مِنْ أَعْرَاضِ اَلصِّبْيَانِ‌، وَ اَلْعُطَاشَ‌، وَ فَسَادَ اَلْمَعِدَةِ‌، وَ بَدْرَةَ اَلدَّمِ‌، أَبَداً مَا تَعَوَّذَ بِهَذَا، حَتَّى يَبْلُغَ اَلشَّيْبَ‌، فَإِنْ تَعَمَّدَ نَفْسَهُ بِذَلِكَ‌، أَوْ تَعَوَّذَهُ‌، كَانَ مَحْفُوظاً إِلَى يَوْمِ يَقْبِضُ اَللَّهُ تَعَالَى نَفْسَهُ‌».</span>\n  </p>\n  <p id=\"p2380\" paragraph-id=\"2380\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌):</span> فِي اَلْعُوذَةِ‌، قَالَ‌:</span>\n  </p>\n  <p id=\"p2381\" paragraph-id=\"2381\" class=\" G\">\n    <span class=\"hadith\">«تَأْخُذُ قُلَّةً جَدِيدَةً‌، تَجْعَلُ فِيهَا مَاءً‌، ثُمَّ تَقْرَأُ فِيهَا: <span style=\"0\" class=\"ayah\" surah=\"97\" ayah=\"1\">إِنّٰا أَنْزَلْنٰاهُ فِي لَيْلَةِ اَلْقَدْرِ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/97/1\"></a></span></span> ثَلاَثِينَ مَرَّةً‌، ثُمَّ تُعَلِّقُ‌، وَ تَشْرَبُ مِنْهَا، فَيُزْدَادُ فِيهَا مَاءٌ‌، إِنْ شَاءَ اَللَّهُ‌».</span>\n  </p>\n  <p id=\"p2382\" paragraph-id=\"2382\" class=\" G\">و قد ورد في كثير من الروايات المعتبرة، أنّ تكرار التسبيحات الأربع ثلاثين مرة، بعد كل فريضة، يدفعن الهدم، و الغرق، و الحرق، و التردي في البئر، و أكل</p>\n</div>",
+      "bookPageVisitLogId": "30D859F4-2B60-4F63-8BA5-9838CF7E60E5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,116 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 283,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687850423,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"3125\"><format class=\"hadith\" who=\"14\" Id=\"1188\" RevayatIndex=\"1205\"><format class=\"sanadHadith\">وَ فِي اَلنَّبَوِيِّ‌:</format> خَمْسُ خِصَالٍ تُورِثُ اَلْبَرَصَ‌: اَلنُّورَةُ <format class=\"Z\">يَوْمَ اَلْجُمُعَةِ‌</format>، وَ <format class=\"Z\">يَوْمَ‌<page number=\"283\"/> اَلْأَرْبِعَاءِ‌</format>، وَ اَلتَّوَضُّؤُ وَ اَلاِغْتِسَالُ بِالْمَاءِ اَلَّذِي تُسَخِّنُهُ اَلشَّمْسُ‌، وَ اَلْأَكْلُ عَلَى اَلْجَنَابَةِ‌، وَ غِشْيَانُ اَلْمَرْأَةِ فِي حَيْضِهَا، وَ اَلْأَكْلُ عَلَى اَلشِّبَعِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850424,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"3126\"><format class=\"hadith\" who=\"14\" Id=\"1189\" RevayatIndex=\"1206\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌) وَ أَشَارَ بِيَدِهِ إِلَى رَأْسِهِ‌: عَلَيْكُمْ بِالْمُغِيثَةِ - أَيْ اَلْحِجَامَةِ فِي اَلرَّأْسِ - فَإِنَّهَا تَنْفَعُ مِنَ اَلْجُنُونِ وَ اَلْجُذَامِ وَ اَلْبَرَصِ‌، وَ اَلْأَكِلَةِ‌، وَ وَجَعِ اَلْأَضْرَاسِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850425,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"3127\"><format class=\"hadith\" who=\"6\" Id=\"1190\" RevayatIndex=\"1207\"><format class=\"sanadHadith\">وَ قَالَ اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌):</format> تَسْرِيحُ اَلرَّأْسِ يَقْطَعُ اَلْبَلْغَمَ‌، وَ تَسْرِيحُ اَلْحَاجِبَيْنِ أَمَانٌ مِنَ اَلْجُذَامِ‌، وَ تَسْرِيحُ اَلْعَارِضَيْنِ يَشُدُّ اَلْأَضْرَاسَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850508,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"3128\"><format class=\"hadith\" who=\"5\" Id=\"1191\" RevayatIndex=\"1208\"><format class=\"sanadHadith\">وَ فِي اَلْبَاقِرِيِّ‌:</format> إِنَّ <format class=\"V\">بَنِي إِسْرَائِيلَ‌</format> شَكَوْا إِلَى <format class=\"E\" Number=\"\">مُوسَى (عَلَيْهِ اَلسَّلاَمُ‌</format>)، مَا يَلْقَوْنَ مِنَ اَلْبَرَصِ‌، فَشَكَا ذَلِكَ إِلَى اَللَّهِ تَعَالَى، فَأَوْحَى اَللَّهُ عَزَّ وَ جَلَّ إِلَيْهِ‌: مُرْهُمْ‌، فَلْيَأْكُلُوا لَحْمَ اَلْبَقَرِ بِالسِّلْقِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850509,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"3129\"><format class=\"hadith\" who=\"14\" Id=\"1192\" RevayatIndex=\"1209\"><format class=\"sanadHadith\">وَ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</format> تَوَقَّوْا أَوْلاَدَكُمْ لَبَنَ اَلْبَغِيَّةِ‌، وَ اَلْمَجْنُونَةِ‌، فَإِنَّ اَللَّبَنَ يُعْدِي.</format></p>"
+        },
+        {
+          "paragraphId": 687850510,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"3130\"><format class=\"hadith\" who=\"16\" Id=\"1193\" RevayatIndex=\"1210\"><format class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> لاَ تَسْتَرْضِعُوا اَلْحَمْقَاءَ‌، فَإِنَّ اَللَّبَنَ يَغْلِبُ اَلطِّبَاعَ‌، <format class=\"sanadHadith\">وَ فِي آخَرَ:</format> فَإِنَّ اَلْوَلَدَ يَشِبُّ عَلَيْهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850511,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"3131\"><format class=\"hadith\" who=\"14\" Id=\"1194\" RevayatIndex=\"1211\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>مَنْ جَامَعَ اِمْرَأَةً وَ هِيَ حَائِضٌ فَخَرَجَ اَلْوَلَدُ مَجْذُوماً أَوْ أَبْرَصَ‌، فَلاَ يَلُومَنَّ إِلاَّ نَفْسَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850512,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"3132\"><format class=\"hadith\" who=\"6\" Id=\"1195\" RevayatIndex=\"1212\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>لاَ تُجَامِعْ فِي أَوَّلِ اَلشَّهْرِ، وَ لاَ فِي وَسَطِهِ‌، وَ لاَ فِي آخِرِهِ‌، فَإِنَّهُ مَنْ فَعَلَ ذَلِكَ فَلْيُسَلِّمْ لِسِقْطِ اَلْوَلَدِ، وَ إِنْ تَمَّ أَوْشَكَ أَنْ يَكُونَ مَجْنُوناً.</format></p>"
+        },
+        {
+          "paragraphId": 687850513,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"3133\"><format class=\"hadith\" who=\"14\" Id=\"1196\" RevayatIndex=\"1213\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>عَلَيْكُمْ بِالْفَرْفَخِ‌، فَإِنَّهُ إِذَا كَانَ شَيْ‌ءٌ يَزِيدُ فِي اَلْعَقْلِ فَهِيَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850514,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"3134\"><format class=\"hadith\" who=\"6\" Id=\"1197\" RevayatIndex=\"1214\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>مَنْ أَكَلَ اَلْجِرْجِيرَ بِاللَّيْلِ ضَرَبَ عَلَيْهِ عِرْقُ اَلْجُذَامِ مِنْ أَنْفِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850515,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"3135\"><format class=\"hadith\" who=\"16\" Id=\"1198\" RevayatIndex=\"1215\"><format class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> أَكْلُ اَلْجِرْجِيرِ بِاللَّيْلِ يُورِثُ اَلْبَرَصَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850516,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"3136\"><format class=\"hadith\" who=\"8\" Id=\"1199\" RevayatIndex=\"1216\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>اَلسَّذَابُ يَزِيدُ فِي اَلْعَقْلِ‌، غَيْرَ أَنَّهُ يَنْثُرُ مَاءَ اَلظَّهْرِ.</format></p>"
+        },
+        {
+          "paragraphId": 687850517,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"3137\"><format class=\"hadith\" who=\"6\" Id=\"1200\" RevayatIndex=\"1217\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>إِنَّ اَللَّهَ رَفَعَ عَنِ اَلْيَهُودِ اَلْجُذَامَ بِأَكْلِهِمُ اَلسِّلْقَ‌، وَ قَلْعِهِمُ اَلْعُرُوقَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850518,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"3138\"><page number=\"284\"/><format class=\"hadith\" who=\"6\" Id=\"1201\" RevayatIndex=\"1218\"><format class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> اَلسِّلْقُ يَقْمَعُ عِرْقَ اَلْجُذَامِ‌، وَ مَا دَخَلَ جَوْفَ اَلْمُبَرْسَمِ مِثْلُ وَرَقِ اَلسِّلْقِ‌<lfootnote noteId=\"117\">1</lfootnote>.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "283",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p3125\" paragraph-id=\"3125\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"Z\">\n        <span class=\"GPA0 bookPage PageNo283\">283</span> اَلْأَرْبِعَاءِ‌</span>، وَ اَلتَّوَضُّؤُ وَ اَلاِغْتِسَالُ بِالْمَاءِ اَلَّذِي تُسَخِّنُهُ اَلشَّمْسُ‌، وَ اَلْأَكْلُ عَلَى اَلْجَنَابَةِ‌، وَ غِشْيَانُ اَلْمَرْأَةِ فِي حَيْضِهَا، وَ اَلْأَكْلُ عَلَى اَلشِّبَعِ‌.</span>\n  </p>\n  <p id=\"p3126\" paragraph-id=\"3126\" class=\" G\">\n    <span class=\"hadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌) وَ أَشَارَ بِيَدِهِ إِلَى رَأْسِهِ‌: عَلَيْكُمْ بِالْمُغِيثَةِ - أَيْ اَلْحِجَامَةِ فِي اَلرَّأْسِ - فَإِنَّهَا تَنْفَعُ مِنَ اَلْجُنُونِ وَ اَلْجُذَامِ وَ اَلْبَرَصِ‌، وَ اَلْأَكِلَةِ‌، وَ وَجَعِ اَلْأَضْرَاسِ‌.</span>\n  </p>\n  <p id=\"p3127\" paragraph-id=\"3127\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌):</span> تَسْرِيحُ اَلرَّأْسِ يَقْطَعُ اَلْبَلْغَمَ‌، وَ تَسْرِيحُ اَلْحَاجِبَيْنِ أَمَانٌ مِنَ اَلْجُذَامِ‌، وَ تَسْرِيحُ اَلْعَارِضَيْنِ يَشُدُّ اَلْأَضْرَاسَ‌.</span>\n  </p>\n  <p id=\"p3128\" paragraph-id=\"3128\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي اَلْبَاقِرِيِّ‌:</span> إِنَّ <span class=\"V\">بَنِي إِسْرَائِيلَ‌</span> شَكَوْا إِلَى <span class=\"E\">مُوسَى (عَلَيْهِ اَلسَّلاَمُ‌</span>)، مَا يَلْقَوْنَ مِنَ اَلْبَرَصِ‌، فَشَكَا ذَلِكَ إِلَى اَللَّهِ تَعَالَى، فَأَوْحَى اَللَّهُ عَزَّ وَ جَلَّ إِلَيْهِ‌: مُرْهُمْ‌، فَلْيَأْكُلُوا لَحْمَ اَلْبَقَرِ بِالسِّلْقِ‌.</span>\n  </p>\n  <p id=\"p3129\" paragraph-id=\"3129\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</span> تَوَقَّوْا أَوْلاَدَكُمْ لَبَنَ اَلْبَغِيَّةِ‌، وَ اَلْمَجْنُونَةِ‌، فَإِنَّ اَللَّبَنَ يُعْدِي.</span>\n  </p>\n  <p id=\"p3130\" paragraph-id=\"3130\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</span> لاَ تَسْتَرْضِعُوا اَلْحَمْقَاءَ‌، فَإِنَّ اَللَّبَنَ يَغْلِبُ اَلطِّبَاعَ‌، <span class=\"sanadHadith\">وَ فِي آخَرَ:</span> فَإِنَّ اَلْوَلَدَ يَشِبُّ عَلَيْهِ‌.</span>\n  </p>\n  <p id=\"p3131\" paragraph-id=\"3131\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>مَنْ جَامَعَ اِمْرَأَةً وَ هِيَ حَائِضٌ فَخَرَجَ اَلْوَلَدُ مَجْذُوماً أَوْ أَبْرَصَ‌، فَلاَ يَلُومَنَّ إِلاَّ نَفْسَهُ‌.</span>\n  </p>\n  <p id=\"p3132\" paragraph-id=\"3132\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>لاَ تُجَامِعْ فِي أَوَّلِ اَلشَّهْرِ، وَ لاَ فِي وَسَطِهِ‌، وَ لاَ فِي آخِرِهِ‌، فَإِنَّهُ مَنْ فَعَلَ ذَلِكَ فَلْيُسَلِّمْ لِسِقْطِ اَلْوَلَدِ، وَ إِنْ تَمَّ أَوْشَكَ أَنْ يَكُونَ مَجْنُوناً.</span>\n  </p>\n  <p id=\"p3133\" paragraph-id=\"3133\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>عَلَيْكُمْ بِالْفَرْفَخِ‌، فَإِنَّهُ إِذَا كَانَ شَيْ‌ءٌ يَزِيدُ فِي اَلْعَقْلِ فَهِيَ‌.</span>\n  </p>\n  <p id=\"p3134\" paragraph-id=\"3134\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>مَنْ أَكَلَ اَلْجِرْجِيرَ بِاللَّيْلِ ضَرَبَ عَلَيْهِ عِرْقُ اَلْجُذَامِ مِنْ أَنْفِهِ‌.</span>\n  </p>\n  <p id=\"p3135\" paragraph-id=\"3135\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</span> أَكْلُ اَلْجِرْجِيرِ بِاللَّيْلِ يُورِثُ اَلْبَرَصَ‌.</span>\n  </p>\n  <p id=\"p3136\" paragraph-id=\"3136\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>اَلسَّذَابُ يَزِيدُ فِي اَلْعَقْلِ‌، غَيْرَ أَنَّهُ يَنْثُرُ مَاءَ اَلظَّهْرِ.</span>\n  </p>\n  <p id=\"p3137\" paragraph-id=\"3137\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>إِنَّ اَللَّهَ رَفَعَ عَنِ اَلْيَهُودِ اَلْجُذَامَ بِأَكْلِهِمُ اَلسِّلْقَ‌، وَ قَلْعِهِمُ اَلْعُرُوقَ‌.</span>\n  </p>\n  <p id=\"p3138\" paragraph-id=\"3138\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "8B64C0A5-3B71-4869-99F0-B635385183AC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,86 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 257,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849973,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2862\"><page number=\"257\"/><format class=\"hadith\" who=\"6\" Id=\"1023\" RevayatIndex=\"1038\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>لِوَجَعِ اَلضِّرْسِ‌، قَالَ‌: يَأْخُذُ اَلتُّرَابَ مِنْ مَوْضِعِ سُجُودِهِ‌، وَ يُمِرُّهَا عَلَى اَلضِّرْسِ‌، وَ لْيَقُلْ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849974,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2863\"><format class=\"hadith\" who=\"6\" Id=\"1023\" RevayatIndex=\"1038\">(بِسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمِ‌، بِسْمِ اَللَّهِ اَلشَّافِي، بِسْمِ اَللَّهِ اَلْكَافِي، وَ لاَ حَوْلَ وَ لاَ قُوَّةَ‌، إِلاَّ بِاللَّهِ اَلْعَلِيِّ اَلْعَظِيمِ‌).</format></p>"
+        },
+        {
+          "paragraphId": 687849975,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2864\"><format class=\"hadith\" who=\"14\" Id=\"1024\" RevayatIndex=\"1039\"><format class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> مَنْ كَانَ بِهِ وَجَعُ اَلضِّرْسِ‌، فَلْيَأْخُذِ اَلسِّكِّينَ أَوْ وَرَقَ اَلتَّمْرِ، وَ يُمِرَّهُ عَلَى اَلْمَوْضِعِ (سَبْعَ مَرَّاتٍ‌)، وَ يَقُولُ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849976,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2865\"><format class=\"hadith\" who=\"14\" Id=\"1024\" RevayatIndex=\"1039\">(اُسْكُنْ بِالَّذِي سَكَنَ لَهُ مَا فِي اَللَّيْلِ وَ اَلنَّهَارِ وَ هُوَ عَلَى كُلِّ شَيْ‌ءٍ قَدِيرٌ).</format></p>"
+        },
+        {
+          "paragraphId": 687849977,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2866\"><format class=\"hadith\" who=\"14\" Id=\"1025\" RevayatIndex=\"1040\"><format class=\"sanadHadith\">وَ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌، قَالَ‌:</format> مَنْ شَكَا وَجَعَ ضِرْسِهِ‌، فَلْيَضَعْ إِصْبَعَهُ عَلَى اَلْوَجَعِ وَ يَقْرَأُ:</format></p>"
+        },
+        {
+          "paragraphId": 687849978,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2867\"><format class=\"hadith\" who=\"14\" Id=\"1025\" RevayatIndex=\"1040\">(بِسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمُ‌. وَ فَاتِحَةَ اَلْكِتَابِ (ثَلاَثَ مَرَّاتٍ‌). ثُمَّ يَقْرَأُ <format class=\"ayah\" surah=\"6\" ayah=\"98\" toAyah=\"\">وَ هُوَ اَلَّذِي أَنْشَأَكُمْ مِنْ نَفْسٍ وٰاحِدَةٍ‌، فَمُسْتَقَرٌّ وَ مُسْتَوْدَعٌ‌، قَدْ فَصَّلْنَا اَلْآيٰاتِ لِقَوْمٍ يَفْقَهُونَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"15\"/><format class=\"ayahAddress\" surah=\"6\" ayah=\"98\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"17\" ayah=\"105\" toAyah=\"\">وَ بِالْحَقِّ أَنْزَلْنٰاهُ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"3\"/><format class=\"ayahAddress\" surah=\"17\" ayah=\"105\" toAyah=\"\"/></format> وَ بِالْحَقِّ نَزَلَ‌، بِحَقِّ هَذِهِ اَلْأَسْمَاءِ‌، أَسْكَنْتُكَ وَ أَرْحَلْتُكَ بِأَلِفِ لاَ حَوْلَ وَ لاَ قُوَّةَ إِلاَّ بِاللَّهِ اَلْعَلِيِّ اَلْعَظِيمِ‌).</format></p>"
+        },
+        {
+          "paragraphId": 687849979,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2868\"><format class=\"hadith\" who=\"16\" Id=\"1026\" RevayatIndex=\"1041\"><format class=\"sanadHadith\">وَ فِي بَعْضِ اَلْكُتُبِ اَلْمُعْتَبَرَةِ (عَوَالِمَ‌):</format> لِوَجَعِ اَلضِّرْسِ‌: ضَعْ يَدَكَ عَلَى اَلضِّرْسِ وَ قُلْ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849980,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2869\"><format class=\"hadith\" who=\"16\" Id=\"1026\" RevayatIndex=\"1041\">(بِسْمِ اَللَّهِ (سَبْعَ مَرَّاتٍ‌)، ثُمَّ قُلْ‌: (مَا اِسْمُ أُمِّكَ؟) فَإِذَا سُمِّيَتْ فَقُلْ‌: بِسْمِ اَللَّهِ (سَبْعَ مَرَّاتٍ‌)، ثُمَّ قُلِ‌: (كَمْ سَنَةً أَحْبِسُ عَنْكَ بِقَدَرِ اَللَّهِ؟) فَإِذَا سُمِّيَتْ سِنِينَ مَعْنِيِّينَ‌، قُلْ‌: (بِسْمِ اَللَّهِ (سَبْعَ مَرَّاتٍ‌) <format class=\"ayah\" surah=\"20\" ayah=\"105\" toAyah=\"107\">وَ يَسْئَلُونَكَ عَنِ اَلْجِبٰالِ‌، فَقُلْ يَنْسِفُهٰا رَبِّي نَسْفاً، <format class=\"AyahSeprator\"/>فَيَذَرُهٰا قٰاعاً صَفْصَفاً <format class=\"AyahSeprator\"/>لاٰ تَرىٰ فِيهٰا عِوَجاً وَ لاٰ أَمْتاً<format class=\"ayahWord\" fromWord=\"1\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"20\" ayah=\"105\" toAyah=\"107\"/></format>، <format class=\"ayah\" surah=\"36\" ayah=\"78\" toAyah=\"\">قٰالَ مَنْ يُحْيِ اَلْعِظٰامَ وَ هِيَ رَمِيمٌ‌<format class=\"ayahWord\" fromWord=\"8\" toWord=\"14\"/><format class=\"ayahAddress\" surah=\"36\" ayah=\"78\" toAyah=\"\"/></format>. ثُمَّ قُلْ بَعْدَ رَفْعِ اَلْيَدِ مِنَ اَلضِّرْسِ (فَإِنْ فَإِنْ‌، سَكَنْتَ فَلاَ بَأْسَ‌) وَ إِنْ لَمْ يَسْكُنْ‌، فَضَعْ إِصْبَعَكَ عَلَيْهِ أَيْضاً وَ قُلْ‌: (بِسْمِ اَللَّهِ‌) ثَلاَثاً وَ ثَلاَثِينَ مَرَّةً فَإِنَّهُ يَسْكُنُ بِإِذْنِ اَللَّهِ تَعَالَى. فَإِنَّهُ مِنَ اَلْأَسْرَارِ.</format></p>"
+        },
+        {
+          "paragraphId": 687849981,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2870\"><format class=\"hadith\" who=\"16\" Id=\"1027\" RevayatIndex=\"1042\"><format class=\"sanadHadith\">وَ نَوْعٌ آخَرُ:</format> خُبْزٌ رَقِيقٌ يُوضَعُ عَلَى اَلضِّرْسِ اَلْمَوْجُوعِ‌، وَ لْيَقُلْ‌: <format class=\"a\">بِسْمِ اَللَّهِ‌. </format><page number=\"258\"/><format class=\"ayah\" surah=\"6\" ayah=\"67\" toAyah=\"\">لِكُلِّ نَبَإٍ مُسْتَقَرٌّ. وَ سَوْفَ تَعْلَمُونَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"6\"/><format class=\"ayahAddress\" surah=\"6\" ayah=\"67\" toAyah=\"\"/></format>- إِلَى - <format class=\"ayah\" surah=\"16\" ayah=\"1\" toAyah=\"\">أَمْرُ اَللّٰهِ فَلاٰ تَسْتَعْجِلُوهُ سُبْحٰانَهُ وَ تَعٰالىٰ عَمّٰا يُشْرِكُونَ‌<format class=\"ayahWord\" fromWord=\"2\" toWord=\"10\"/><format class=\"ayahAddress\" surah=\"16\" ayah=\"1\" toAyah=\"\"/></format>. <format class=\"ayah\" surah=\"2\" ayah=\"73\" toAyah=\"\">فَقُلْنٰا اِضْرِبُوهُ بِبَعْضِهٰا كَذٰلِكَ يُحْيِ اَللّٰهُ اَلْمَوْتىٰ وَ يُرِيكُمْ آيٰاتِهِ لَعَلَّكُمْ تَعْقِلُونَ‌<format class=\"ayahWord\" fromWord=\"1\" toWord=\"12\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"73\" toAyah=\"\"/></format>. </format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "257",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2862\" paragraph-id=\"2862\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo257\">257</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>لِوَجَعِ اَلضِّرْسِ‌، قَالَ‌: يَأْخُذُ اَلتُّرَابَ مِنْ مَوْضِعِ سُجُودِهِ‌، وَ يُمِرُّهَا عَلَى اَلضِّرْسِ‌، وَ لْيَقُلْ‌:</span>\n  </p>\n  <p id=\"p2863\" paragraph-id=\"2863\" class=\" G\">\n    <span class=\"hadith\">(بِسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمِ‌، بِسْمِ اَللَّهِ اَلشَّافِي، بِسْمِ اَللَّهِ اَلْكَافِي، وَ لاَ حَوْلَ وَ لاَ قُوَّةَ‌، إِلاَّ بِاللَّهِ اَلْعَلِيِّ اَلْعَظِيمِ‌).</span>\n  </p>\n  <p id=\"p2864\" paragraph-id=\"2864\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> مَنْ كَانَ بِهِ وَجَعُ اَلضِّرْسِ‌، فَلْيَأْخُذِ اَلسِّكِّينَ أَوْ وَرَقَ اَلتَّمْرِ، وَ يُمِرَّهُ عَلَى اَلْمَوْضِعِ (سَبْعَ مَرَّاتٍ‌)، وَ يَقُولُ‌:</span>\n  </p>\n  <p id=\"p2865\" paragraph-id=\"2865\" class=\" G\">\n    <span class=\"hadith\">(اُسْكُنْ بِالَّذِي سَكَنَ لَهُ مَا فِي اَللَّيْلِ وَ اَلنَّهَارِ وَ هُوَ عَلَى كُلِّ شَيْ‌ءٍ قَدِيرٌ).</span>\n  </p>\n  <p id=\"p2866\" paragraph-id=\"2866\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌، قَالَ‌:</span> مَنْ شَكَا وَجَعَ ضِرْسِهِ‌، فَلْيَضَعْ إِصْبَعَهُ عَلَى اَلْوَجَعِ وَ يَقْرَأُ:</span>\n  </p>\n  <p id=\"p2867\" paragraph-id=\"2867\" class=\" G\">\n    <span class=\"hadith\">(بِسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمُ‌. وَ فَاتِحَةَ اَلْكِتَابِ (ثَلاَثَ مَرَّاتٍ‌). ثُمَّ يَقْرَأُ <span style=\"0\" class=\"ayah\" surah=\"6\" ayah=\"98\">وَ هُوَ اَلَّذِي أَنْشَأَكُمْ مِنْ نَفْسٍ وٰاحِدَةٍ‌، فَمُسْتَقَرٌّ وَ مُسْتَوْدَعٌ‌، قَدْ فَصَّلْنَا اَلْآيٰاتِ لِقَوْمٍ يَفْقَهُونَ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/6/98\"></a></span></span><span style=\"0\" class=\"ayah\" surah=\"17\" ayah=\"105\">وَ بِالْحَقِّ أَنْزَلْنٰاهُ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/17/105\"></a></span></span> وَ بِالْحَقِّ نَزَلَ‌، بِحَقِّ هَذِهِ اَلْأَسْمَاءِ‌، أَسْكَنْتُكَ وَ أَرْحَلْتُكَ بِأَلِفِ لاَ حَوْلَ وَ لاَ قُوَّةَ إِلاَّ بِاللَّهِ اَلْعَلِيِّ اَلْعَظِيمِ‌).</span>\n  </p>\n  <p id=\"p2868\" paragraph-id=\"2868\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي بَعْضِ اَلْكُتُبِ اَلْمُعْتَبَرَةِ (عَوَالِمَ‌):</span> لِوَجَعِ اَلضِّرْسِ‌: ضَعْ يَدَكَ عَلَى اَلضِّرْسِ وَ قُلْ‌:</span>\n  </p>\n  <p id=\"p2869\" paragraph-id=\"2869\" class=\" G\">\n    <span class=\"hadith\">(بِسْمِ اَللَّهِ (سَبْعَ مَرَّاتٍ‌)، ثُمَّ قُلْ‌: (مَا اِسْمُ أُمِّكَ؟) فَإِذَا سُمِّيَتْ فَقُلْ‌: بِسْمِ اَللَّهِ (سَبْعَ مَرَّاتٍ‌)، ثُمَّ قُلِ‌: (كَمْ سَنَةً أَحْبِسُ عَنْكَ بِقَدَرِ اَللَّهِ؟) فَإِذَا سُمِّيَتْ سِنِينَ مَعْنِيِّينَ‌، قُلْ‌: (بِسْمِ اَللَّهِ (سَبْعَ مَرَّاتٍ‌) <span style=\"0\" class=\"ayah\" surah=\"20\" ayah=\"105\">وَ يَسْئَلُونَكَ عَنِ اَلْجِبٰالِ‌، فَقُلْ يَنْسِفُهٰا رَبِّي نَسْفاً، <span class=\"AyahSeprator\"></span>فَيَذَرُهٰا قٰاعاً صَفْصَفاً <span class=\"AyahSeprator\"></span>لاٰ تَرىٰ فِيهٰا عِوَجاً وَ لاٰ أَمْتاً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/20/105\"></a></span></span>، <span style=\"0\" class=\"ayah\" surah=\"36\" ayah=\"78\">قٰالَ مَنْ يُحْيِ اَلْعِظٰامَ وَ هِيَ رَمِيمٌ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/36/78\"></a></span></span>. ثُمَّ قُلْ بَعْدَ رَفْعِ اَلْيَدِ مِنَ اَلضِّرْسِ (فَإِنْ فَإِنْ‌، سَكَنْتَ فَلاَ بَأْسَ‌) وَ إِنْ لَمْ يَسْكُنْ‌، فَضَعْ إِصْبَعَكَ عَلَيْهِ أَيْضاً وَ قُلْ‌: (بِسْمِ اَللَّهِ‌) ثَلاَثاً وَ ثَلاَثِينَ مَرَّةً فَإِنَّهُ يَسْكُنُ بِإِذْنِ اَللَّهِ تَعَالَى. فَإِنَّهُ مِنَ اَلْأَسْرَارِ.</span>\n  </p>\n  <p id=\"p2870\" paragraph-id=\"2870\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ نَوْعٌ آخَرُ:</span> خُبْزٌ رَقِيقٌ يُوضَعُ عَلَى اَلضِّرْسِ اَلْمَوْجُوعِ‌، وَ لْيَقُلْ‌: <span class=\"a\">بِسْمِ اَللَّهِ‌. </span></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "F2D7BCB9-5F4A-4B34-AE7C-3F482D3D1306",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

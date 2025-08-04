@@ -1,0 +1,97 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 112,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848682,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1275\"><format class=\"hadith\" who=\"14\" Id=\"258\" RevayatIndex=\"263\"><format class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> سَيِّدُ إِدَامِكُمُ اَلْمِلْحُ‌. 14 - <format class=\"RevayatIndex\" index=\"264\"/><format class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> مَنْ أَكَلَ اَلْمِلْحَ قَبْلَ كُلِّ‌<page number=\"112\"/> شَيْ‌ءٍ‌، وَ بَعْدَ كُلِّ شَيْ‌ءٍ دَفَعَ اَللَّهُ عَنْهُ‌، ثَلاَثَمِائَةٍ وَ ثَلاَثِينَ نَوْعاً مِنَ اَلْبَلاَءِ‌، أَهْوَنُهَا اَلْجُذَامُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848683,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1276\"><format class=\"hadith\" who=\"14\" Id=\"259\" RevayatIndex=\"265\"><format class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> اِفْتَتِحُوا بِالْمِلْحِ فَإِنَّهُ دَوَاءٌ مِنْ سَبْعِينَ دَاءً‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848684,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1277\"><heading level=\"2\">باب <format class=\"VD\">الاستشفاء بالسّعد </format></heading></p>"
+        },
+        {
+          "paragraphId": 687848685,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1278\"><format class=\"hadith\" who=\"7\" Id=\"260\" RevayatIndex=\"266\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنِ <format class=\"G\">اِبْنِ مَحْبُوبٍ‌</format>، عَنْ <format class=\"G\">أَبِي وَلاَّدٍ</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848686,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1279\"><format class=\"hadith\" who=\"7\" Id=\"260\" RevayatIndex=\"266\">رَأَيْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أَبَا اَلْحَسَنِ اَلْأَوَّلَ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، فِي <format class=\"t\">اَلْحِجْرِ</format>، وَ هُوَ قَاعِدٌ، وَ مَعَهُ عِدَّةٌ مِنْ أَهْلِ بَيْتِهِ‌، فَسَمِعْتُهُ يَقُولُ‌: ضَرَبَتْ عَلَيَّ أَسْنَانِي، فَأَخَذْتُ اَلسُّعْدَ، فَدَلَكْتُ بِهِ أَسْنَانِي، فَنَفَعَنِي ذَلِكَ‌، وَ سَكَتَ عَنِّي.</format></p>"
+        },
+        {
+          "paragraphId": 687848687,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1280\"><format class=\"hadith\" who=\"7\" Id=\"261\" RevayatIndex=\"267\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ اَلْحَسَنِ بْنِ عَلِيٍّ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ اَلْحُسَيْنِ بْنِ عُمَرَ</format>، عَنْ <format class=\"G\">عَمِّهِ مُحَمَّدِ بْنِ عُمَرَ</format>، عَنْ <format class=\"G\">رَجُلٍ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أَبِي اَلْحَسَنِ اَلْأَوَّلِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848688,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1281\"><format class=\"hadith\" who=\"7\" Id=\"261\" RevayatIndex=\"267\">«مَنِ اِسْتَنْجَى بِالسُّعْدِ، بَعْدَ اَلْغَائِطِ، وَ غَسَلَ بِهِ فَمَهُ بَعْدَ اَلطَّعَامِ‌، لَمْ تُصِبْهُ عِلَّةٌ فِي فَمِهِ‌، وَ لَمْ يَخَفْ شَيْئاً مِنْ أَرْيَاحِ اَلْبَوَاسِيرِ»<lfootnote noteId=\"55\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 687848689,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1282\"><format class=\"hadith\" who=\"6\" Id=\"262\" RevayatIndex=\"268\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْعِدَّةِ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</format>، عَنْ <format class=\"G\">أَبِي اَلْخَزْرَجِ اَلْحَسَنِ بْنِ اَلزِّبْرِقَانِ‌</format>، عَنِ <format class=\"G\">اَلْفَضْلِ بْنِ عُثْمَانَ‌</format>، عَنْ <format class=\"G\">أَبِي عَزِيزٍ اَلْمُرَادِيِّ‌</format>، قَالَ‌: وَ هُوَ خَالُ أُمِّي، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848690,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1283\"><format class=\"hadith\" who=\"6\" Id=\"262\" RevayatIndex=\"268\"><format class=\"sanadHadith\">سَمِعْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، يَقُولُ‌:</format> اِتَّخِذُوا فِي أَسْنَانِكُمُ اَلسُّعْدَ، فَإِنَّهُ يُطَيِّبُ اَلْفَمَ‌، وَ يَزِيدُ فِي اَلْجِمَاعِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848691,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1284\"><page number=\"113\"/><heading level=\"2\">باب <format class=\"BM\">منافع الخلال، و ما يتخلل به </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851688,
+          "text": "<footnote id=\"55\"><page number=\"112\"/><mnote>(1)</mnote> الكافي - كتاب الأطعمة، 378/6.</footnote>"
+        }
+      ],
+      "pageValue": "112",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1275\" paragraph-id=\"1275\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo112\">112</span> شَيْ‌ءٍ‌، وَ بَعْدَ كُلِّ شَيْ‌ءٍ دَفَعَ اَللَّهُ عَنْهُ‌، ثَلاَثَمِائَةٍ وَ ثَلاَثِينَ نَوْعاً مِنَ اَلْبَلاَءِ‌، أَهْوَنُهَا اَلْجُذَامُ‌.</span>\n  </p>\n  <p id=\"p1276\" paragraph-id=\"1276\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</span> اِفْتَتِحُوا بِالْمِلْحِ فَإِنَّهُ دَوَاءٌ مِنْ سَبْعِينَ دَاءً‌.</span>\n  </p>\n  <p id=\"p1277\" paragraph-id=\"1277\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">الاستشفاء بالسّعد </span></strong>\n  </p>\n  <p id=\"p1278\" paragraph-id=\"1278\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنِ <span class=\"G\">اِبْنِ مَحْبُوبٍ‌</span>، عَنْ <span class=\"G\">أَبِي وَلاَّدٍ</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1279\" paragraph-id=\"1279\" class=\" G\">\n    <span class=\"hadith\">رَأَيْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا اَلْحَسَنِ اَلْأَوَّلَ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، فِي <span class=\"t\">اَلْحِجْرِ</span>، وَ هُوَ قَاعِدٌ، وَ مَعَهُ عِدَّةٌ مِنْ أَهْلِ بَيْتِهِ‌، فَسَمِعْتُهُ يَقُولُ‌: ضَرَبَتْ عَلَيَّ أَسْنَانِي، فَأَخَذْتُ اَلسُّعْدَ، فَدَلَكْتُ بِهِ أَسْنَانِي، فَنَفَعَنِي ذَلِكَ‌، وَ سَكَتَ عَنِّي.</span>\n  </p>\n  <p id=\"p1280\" paragraph-id=\"1280\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ اَلْحَسَنِ بْنِ عَلِيٍّ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ اَلْحُسَيْنِ بْنِ عُمَرَ</span>، عَنْ <span class=\"G\">عَمِّهِ مُحَمَّدِ بْنِ عُمَرَ</span>، عَنْ <span class=\"G\">رَجُلٍ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي اَلْحَسَنِ اَلْأَوَّلِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1281\" paragraph-id=\"1281\" class=\" G\">\n    <span class=\"hadith\">«مَنِ اِسْتَنْجَى بِالسُّعْدِ، بَعْدَ اَلْغَائِطِ، وَ غَسَلَ بِهِ فَمَهُ بَعْدَ اَلطَّعَامِ‌، لَمْ تُصِبْهُ عِلَّةٌ فِي فَمِهِ‌، وَ لَمْ يَخَفْ شَيْئاً مِنْ أَرْيَاحِ اَلْبَوَاسِيرِ»<span><sup><a class=\"NewFn\" href=\"#footnote55\" title=\"(1)  الكافي - كتاب الأطعمة، 378/6.\">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1282\" paragraph-id=\"1282\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلْعِدَّةِ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</span>، عَنْ <span class=\"G\">أَبِي اَلْخَزْرَجِ اَلْحَسَنِ بْنِ اَلزِّبْرِقَانِ‌</span>، عَنِ <span class=\"G\">اَلْفَضْلِ بْنِ عُثْمَانَ‌</span>، عَنْ <span class=\"G\">أَبِي عَزِيزٍ اَلْمُرَادِيِّ‌</span>، قَالَ‌: وَ هُوَ خَالُ أُمِّي، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1283\" paragraph-id=\"1283\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، يَقُولُ‌:</span> اِتَّخِذُوا فِي أَسْنَانِكُمُ اَلسُّعْدَ، فَإِنَّهُ يُطَيِّبُ اَلْفَمَ‌، وَ يَزِيدُ فِي اَلْجِمَاعِ‌.</span>\n  </p>\n  <p id=\"p1284\" paragraph-id=\"1284\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote55\" footnote-id=\"55\">(1) <page number=\"112\" /> الكافي - كتاب الأطعمة، 378/6.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "30394371-1373-4D68-8C23-572A65DD55EB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

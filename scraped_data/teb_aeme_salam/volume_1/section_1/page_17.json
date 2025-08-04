@@ -1,0 +1,123 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 17,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687847545,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"247\"><page number=\"17\"/>طراز<lfootnote noteId=\"8\">1</lfootnote> غريب و نمط عجيب، و ترتيب رائق، و تبويب فائق، تهشّ إليه الطباع السليمة، و تلتذ به العقول المستقيمة، و من اللّه أستمد، و به أستعين، إنّه خير موفق و معين.</p>"
+        },
+        {
+          "paragraphId": 687847546,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"248\"><heading level=\"2\">باب <format class=\"BM\">إن الدواء و الشفاء من اللّه و إن الطبّ الصحيح عند الأنبياء و الأئمة (عليهم السّلام)، و أصل علم الطبّ‌، و جملة من تشريح بدن الإنسان </format></heading></p>"
+        },
+        {
+          "paragraphId": 687847547,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"249\"><format class=\"hadith\" who=\"13,6\" Id=\"1\" RevayatIndex=\"1\"><format class=\"sanadHadith\">اَلْكَافِي<lfootnote noteId=\"9\">2</lfootnote>: <format class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</format>، عَنْ <format class=\"G\">زِيَادِ بْنِ أَبِي اَلْحَلاَّلِ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687847548,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"250\"><format class=\"hadith\" who=\"13,6\" Id=\"1\" RevayatIndex=\"1\">قَالَ مُوسَى: يَا رَبِّ‌! مِنْ أَيْنَ اَلدَّاءُ؟</format></p>"
+        },
+        {
+          "paragraphId": 687847549,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"251\"><format class=\"hadith\" who=\"13,6\" Id=\"1\" RevayatIndex=\"1\">قَالَ‌: مِنِّي.</format></p>"
+        },
+        {
+          "paragraphId": 687847550,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"252\"><format class=\"hadith\" who=\"13,6\" Id=\"1\" RevayatIndex=\"1\">قَالَ‌: فَالشِّفَاءُ؟</format></p>"
+        },
+        {
+          "paragraphId": 687847551,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"253\"><format class=\"hadith\" who=\"13,6\" Id=\"1\" RevayatIndex=\"1\">قَالَ‌: مِنِّي.</format></p>"
+        },
+        {
+          "paragraphId": 687847552,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"254\"><format class=\"hadith\" who=\"13,6\" Id=\"1\" RevayatIndex=\"1\">قَالَ‌: فَمَا يَصْنَعُ عِبَادُكَ بِالْمُعَالِجِ؟!</format></p>"
+        },
+        {
+          "paragraphId": 687847553,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"255\"><format class=\"hadith\" who=\"13,6\" Id=\"1\" RevayatIndex=\"1\">قَالَ‌: يَطِيبُ <format class=\"z\">[يُطَبِّبُ‌]</format> بِأَنْفُسِهِمْ‌. فَيَوْمَئِذٍ سُمِّيَ اَلْمُعَالِجُ اَلطَّبِيبَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687847554,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"256\"><format class=\"hadith\" who=\"6\" Id=\"2\" RevayatIndex=\"2\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ</format>، عَنِ <format class=\"G\">اِبْنِ فَضَّالٍ‌</format>، عَنِ <format class=\"G\">اِبْنِ بُكَيْرٍ</format> عَنْ <format class=\"G\">أَبِي أَيُّوبَ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687847555,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"257\"><format class=\"hadith\" who=\"6\" Id=\"2\" RevayatIndex=\"2\">مَا مِنْ دَاءٍ‌، إِلاَّ وَ هُوَ يُسَارِعُ إِلَى اَلْجَسَدِ، يَنْتَظِرُ مَتَى يُؤْمَرُ بِهِ فَيَأْخُذُهُ‌. <format class=\"sanadHadith\">قَالَ‌: </format></format></p>"
+        },
+        {
+          "paragraphId": 687847556,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"258\"><format class=\"hadith\" who=\"6\" Id=\"2\" RevayatIndex=\"2\"><format class=\"sanadHadith\">وَ فِي رِوَايَةٍ أُخْرَى:</format> إِلاَّ اَلْحُمَّى فَإِنَّهَا تَرِدُ وُرُوداً<lfootnote noteId=\"10\">3</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 687847557,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"259\"><page number=\"18\"/><format class=\"hadith\" who=\"13,6\" Id=\"3\" RevayatIndex=\"3\"><format class=\"sanadHadith\"><format class=\"K\">عَقَائِدُ <format class=\"G\">اَلصَّدُوقِ‌</format></format><lfootnote noteId=\"11\">1</lfootnote>: قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>كَانَ فِيمَا مَضَى يُسَمَّى اَلطَّبِيبُ اَلْمُعَالِجَ‌، فَقَالَ مُوسَى بْنُ عِمْرَانَ‌: يَا رَبِّ‌! مِمَّنِ اَلدَّاءُ؟ قَالَ‌: مِنِّي. قَالَ‌: فَمِمَّنِ اَلدَّوَاءُ؟ قَالَ‌: مِنِّي. قَالَ فَمَا يَصْنَعُ اَلنَّاسُ بِالْمُعَالِجِ؟! قَالَ‌: يُطَيِّبُونَ بِذَلِكَ أَنْفُسَهُمْ <format class=\"sanadHadith\">(وَ فِي نُسْخَةٍ‌) قَالَ‌:</format> يُطَيِّبُونَ قُلُوبَ عِبَادِي، حَتَّى تَحُلَّ عَافِيَتِي أَوْ بَلاَئِي، فَسُمِّيَ اَلطَّبِيبُ طَبِيباً لِذَلِكَ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851641,
+          "text": "<footnote id=\"8\"><page number=\"17\"/><mnote>(1)</mnote> طراز: نمط، شكل، هيئة.</footnote>"
+        },
+        {
+          "footnoteId": 687851642,
+          "text": "<footnote id=\"9\"><mnote>(2)</mnote> الكافي: هذا الكتاب لمحمّد بن يعقوب بن إسحاق الكليني، كان أوثق الناس في الحديث، صنف الكتاب المعروف ب‍ (الكافي) في عشرين سنة، و كتابه هذا من أجل الكتب الإسلامية توفي أبو جعفر الكليني ببغداد سنة (329 ه‍) و دفن بباب الكوفة. (ع).</footnote>"
+        },
+        {
+          "footnoteId": 687851643,
+          "text": "<footnote id=\"10\"><mnote>(3)</mnote> روضة الكافي ص: 74.</footnote>"
+        }
+      ],
+      "pageValue": "17",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p247\" paragraph-id=\"247\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo17\">17</span>طراز<span><sup><a class=\"NewFn\" href=\"#footnote8\" title=\"(1)  طراز: نمط، شكل، هيئة.\">1</a></sup></span> غريب و نمط عجيب، و ترتيب رائق، و تبويب فائق، تهشّ إليه الطباع السليمة، و تلتذ به العقول المستقيمة، و من اللّه أستمد، و به أستعين، إنّه خير موفق و معين.</p>\n  <p id=\"p248\" paragraph-id=\"248\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"BM\">إن الدواء و الشفاء من اللّه و إن الطبّ الصحيح عند الأنبياء و الأئمة (عليهم السّلام)، و أصل علم الطبّ‌، و جملة من تشريح بدن الإنسان </span></strong>\n  </p>\n  <p id=\"p249\" paragraph-id=\"249\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْكَافِي<span><sup><a class=\"NewFn\" href=\"#footnote9\" title=\"(2)  الكافي: هذا الكتاب لمحمّد بن يعقوب بن إسحاق الكليني، كان أوثق الناس في الحديث، صنف الكتاب المعروف ب‍ (الكافي) في عشرين سنة، و كتابه هذا من أجل الكتب الإسلامية توفي أبو جعفر الكليني ببغداد سنة (329 ه‍) و دفن بباب الكوفة. (ع).\">2</a></sup></span>: <span class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</span>، عَنْ <span class=\"G\">زِيَادِ بْنِ أَبِي اَلْحَلاَّلِ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p250\" paragraph-id=\"250\" class=\" G\">\n    <span class=\"hadith\">قَالَ مُوسَى: يَا رَبِّ‌! مِنْ أَيْنَ اَلدَّاءُ؟</span>\n  </p>\n  <p id=\"p251\" paragraph-id=\"251\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: مِنِّي.</span>\n  </p>\n  <p id=\"p252\" paragraph-id=\"252\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَالشِّفَاءُ؟</span>\n  </p>\n  <p id=\"p253\" paragraph-id=\"253\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: مِنِّي.</span>\n  </p>\n  <p id=\"p254\" paragraph-id=\"254\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَمَا يَصْنَعُ عِبَادُكَ بِالْمُعَالِجِ؟!</span>\n  </p>\n  <p id=\"p255\" paragraph-id=\"255\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: يَطِيبُ <span class=\"z\">[يُطَبِّبُ‌]</span> بِأَنْفُسِهِمْ‌. فَيَوْمَئِذٍ سُمِّيَ اَلْمُعَالِجُ اَلطَّبِيبَ‌.</span>\n  </p>\n  <p id=\"p256\" paragraph-id=\"256\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ</span>، عَنِ <span class=\"G\">اِبْنِ فَضَّالٍ‌</span>، عَنِ <span class=\"G\">اِبْنِ بُكَيْرٍ</span> عَنْ <span class=\"G\">أَبِي أَيُّوبَ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p257\" paragraph-id=\"257\" class=\" G\">\n    <span class=\"hadith\">مَا مِنْ دَاءٍ‌، إِلاَّ وَ هُوَ يُسَارِعُ إِلَى اَلْجَسَدِ، يَنْتَظِرُ مَتَى يُؤْمَرُ بِهِ فَيَأْخُذُهُ‌. <span class=\"sanadHadith\">قَالَ‌: </span></span>\n  </p>\n  <p id=\"p258\" paragraph-id=\"258\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي رِوَايَةٍ أُخْرَى:</span> إِلاَّ اَلْحُمَّى فَإِنَّهَا تَرِدُ وُرُوداً<span><sup><a class=\"NewFn\" href=\"#footnote10\" title=\"(3)  روضة الكافي ص: 74.\">3</a></sup></span>.</span>\n  </p>\n  <p id=\"p259\" paragraph-id=\"259\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote8\" footnote-id=\"8\">(1) <page number=\"17\" /> طراز: نمط، شكل، هيئة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote9\" footnote-id=\"9\">(2)  الكافي: هذا الكتاب لمحمّد بن يعقوب بن إسحاق الكليني، كان أوثق الناس في الحديث، صنف الكتاب المعروف ب‍ (الكافي) في عشرين سنة، و كتابه هذا من أجل الكتب الإسلامية توفي أبو جعفر الكليني ببغداد سنة (329 ه‍) و دفن بباب الكوفة. (ع).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote10\" footnote-id=\"10\">(3)  روضة الكافي ص: 74.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "EBC2D8CC-5C4D-4541-B1F4-43585B0A9F1D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

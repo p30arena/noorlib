@@ -1,0 +1,104 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 92,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848005,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1042\"><page number=\"92\"/><heading level=\"2\">باب <format class=\"BM\">التداوي و الدفع بالصّدقة </format></heading></p>"
+        },
+        {
+          "paragraphId": 687848006,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1043\"><format class=\"hadith\" who=\"6\" Id=\"179\" RevayatIndex=\"181\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">عَلِيُّ بْنُ مُحَمَّدِ بْنِ عَبْدِ اَللَّهِ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ خَالِدٍ</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ اَلْقَاسِمِ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848007,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1044\"><format class=\"hadith\" who=\"6\" Id=\"179\" RevayatIndex=\"181\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>«دَاوُوا مَرْضَاكُمْ بِالصَّدَقَةِ‌، وَ اِدْفَعُوا اَلْبَلاَءَ بِالدُّعَاءِ‌، وَ اِسْتَنْزِلُوا اَلرِّزْقَ بِالصَّدَقَةِ‌، فَإِنَّهَا تُفْلِتُ مِنْ بَيْنِ لَحْيَيْ سَبْعِمِائَةِ <format class=\"C\" Number=\"\">شَيْطَانٍ‌</format>، وَ هِيَ تَقَعُ فِي يَدِ اَلرَّبِّ تَعَالَى، قَبْلَ أَنْ تَقَعَ فِي يَدِ اَلْعَبْدِ» <format class=\"sanadHadith\">وَ رَوَاهُ اَلشَّيْخُ وَ اَلصَّدُوقُ‌</format>.</format></p>"
+        },
+        {
+          "paragraphId": 687848008,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1045\"><format class=\"hadith\" who=\"14,6\" Id=\"180\" RevayatIndex=\"182\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اَلنَّوْفَلِيِّ‌</format>، عَنِ <format class=\"G\">اَلسَّكُونِيِّ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848009,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1046\"><format class=\"hadith\" who=\"14,6\" Id=\"180\" RevayatIndex=\"182\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>«اَلصَّدَقَةُ تَدْفَعُ مِيتَةَ اَلسَّوْءِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848010,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1047\"><format class=\"hadith\" who=\"6\" Id=\"181\" RevayatIndex=\"183\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848011,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1048\"><format class=\"hadith\" who=\"6\" Id=\"181\" RevayatIndex=\"183\"><format class=\"sanadHadith\">سَمِعْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> يَقُولُ‌:</format> اَلصَّدَقَةُ بِالْيَدِ، تَقِي مِيتَةَ اَلسَّوْءِ‌، وَ تَدْفَعُ سَبْعِينَ نَوْعاً مِنْ أَنْوَاعِ اَلْبَلاَءِ (اَلْخَبَرِ).</format></p>"
+        },
+        {
+          "paragraphId": 687848012,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1049\"><format class=\"hadith\" who=\"6,14\" Id=\"182\" RevayatIndex=\"184\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</format>، عَنْ <format class=\"G\">سُلَيْمَانَ بْنِ عُمَيْرٍ اَلنَّخَعِيِّ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848013,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1050\"><format class=\"hadith\" who=\"6,14\" Id=\"182\" RevayatIndex=\"184\"><format class=\"sanadHadith\">سَمِعْتُ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> يَقُولُ‌: قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>بَكِّرُوا بِالصَّدَقَةِ فَإِنَّ اَلْبَلاَءَ لاَ يَتَخَطَّاهَا. <format class=\"sanadHadith\">وَ رَوَى نَحْوَهُ فِي (<format class=\"K\">اَلْفَقِيهِ‌</format>) وَ زَادَ:</format> مَنْ تَصَدَّقَ بِصَدَقَةٍ أَوَّلَ اَلنَّهَارِ، دَفَعَ اَللَّهُ عَنْهُ شَرَّ مَا يَنْزِلُ مِنَ اَلسَّمَاءِ فِي تِلْكَ اَللَّيْلَةِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848014,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1051\"><format class=\"hadith\" who=\"14,6\" Id=\"183\" RevayatIndex=\"185\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اَلنَّوْفَلِيِّ‌</format>، عَنِ <format class=\"G\">اَلسَّكُونِيِّ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">جَعْفَرٍ</format></format>، عَنْ <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"\">آبَائِهِ‌</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848015,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1052\"><format class=\"hadith\" who=\"14,6\" Id=\"183\" RevayatIndex=\"185\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>إِنَّ اَللَّهَ‌، لاَ إِلَهَ إِلاَّ هُوَ، لَيَدْفَعُ بِالصَّدَقَةِ اَلدَّاءَ‌، وَ اَلدُّبَيْلَةَ‌، وَ اَلْحَرَقَ‌، وَ اَلْغَرَقَ‌، وَ اَلْهَدْمَ‌، وَ اَلْجُنُونَ‌، وَ عَدَّ مِنْهُ سَبْعِينَ بَاباً مِنَ اَلسُّوءِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848016,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1053\"><page number=\"93\"/><format class=\"hadith\" who=\"6\" Id=\"184\" RevayatIndex=\"186\"><format class=\"sanadHadith\"><format class=\"K\">ثَوَابِ اَلْأَعْمَالِ‌</format>: <format class=\"G\">مُحَمَّدُ بْنُ عَلِيٍّ مَاجِيلَوَيْهِ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ أَحْمَدَ</format>، عَنِ <format class=\"G\">اَلْحَسَنِ بْنِ اَلْحُسَيْنِ‌</format>، عَنْ <format class=\"G\">مُعَاذِ بْنِ مُسْلِمٍ‌، بَيَّاعِ اَلْهَرَوِيِّ‌</format>، قَالَ‌:</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "92",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1042\" paragraph-id=\"1042\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo92\">92</span>\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"BM\">التداوي و الدفع بالصّدقة </span></strong>\n  </p>\n  <p id=\"p1043\" paragraph-id=\"1043\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">عَلِيُّ بْنُ مُحَمَّدِ بْنِ عَبْدِ اَللَّهِ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ خَالِدٍ</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ اَلْقَاسِمِ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1044\" paragraph-id=\"1044\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>«دَاوُوا مَرْضَاكُمْ بِالصَّدَقَةِ‌، وَ اِدْفَعُوا اَلْبَلاَءَ بِالدُّعَاءِ‌، وَ اِسْتَنْزِلُوا اَلرِّزْقَ بِالصَّدَقَةِ‌، فَإِنَّهَا تُفْلِتُ مِنْ بَيْنِ لَحْيَيْ سَبْعِمِائَةِ <span class=\"C\">شَيْطَانٍ‌</span>، وَ هِيَ تَقَعُ فِي يَدِ اَلرَّبِّ تَعَالَى، قَبْلَ أَنْ تَقَعَ فِي يَدِ اَلْعَبْدِ» <span class=\"sanadHadith\">وَ رَوَاهُ اَلشَّيْخُ وَ اَلصَّدُوقُ‌</span>.</span>\n  </p>\n  <p id=\"p1045\" paragraph-id=\"1045\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اَلنَّوْفَلِيِّ‌</span>، عَنِ <span class=\"G\">اَلسَّكُونِيِّ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1046\" paragraph-id=\"1046\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>«اَلصَّدَقَةُ تَدْفَعُ مِيتَةَ اَلسَّوْءِ‌».</span>\n  </p>\n  <p id=\"p1047\" paragraph-id=\"1047\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1048\" paragraph-id=\"1048\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> يَقُولُ‌:</span> اَلصَّدَقَةُ بِالْيَدِ، تَقِي مِيتَةَ اَلسَّوْءِ‌، وَ تَدْفَعُ سَبْعِينَ نَوْعاً مِنْ أَنْوَاعِ اَلْبَلاَءِ (اَلْخَبَرِ).</span>\n  </p>\n  <p id=\"p1049\" paragraph-id=\"1049\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</span>، عَنْ <span class=\"G\">سُلَيْمَانَ بْنِ عُمَيْرٍ اَلنَّخَعِيِّ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1050\" paragraph-id=\"1050\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُ <span class=\"HQ\"><span class=\"maasoom\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> يَقُولُ‌: قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>بَكِّرُوا بِالصَّدَقَةِ فَإِنَّ اَلْبَلاَءَ لاَ يَتَخَطَّاهَا. <span class=\"sanadHadith\">وَ رَوَى نَحْوَهُ فِي (<span class=\"K\">اَلْفَقِيهِ‌</span>) وَ زَادَ:</span> مَنْ تَصَدَّقَ بِصَدَقَةٍ أَوَّلَ اَلنَّهَارِ، دَفَعَ اَللَّهُ عَنْهُ شَرَّ مَا يَنْزِلُ مِنَ اَلسَّمَاءِ فِي تِلْكَ اَللَّيْلَةِ‌.</span>\n  </p>\n  <p id=\"p1051\" paragraph-id=\"1051\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اَلنَّوْفَلِيِّ‌</span>، عَنِ <span class=\"G\">اَلسَّكُونِيِّ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">جَعْفَرٍ</span></span>، عَنْ <span class=\"G\"><span class=\"maasoom\">آبَائِهِ‌</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1052\" paragraph-id=\"1052\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>إِنَّ اَللَّهَ‌، لاَ إِلَهَ إِلاَّ هُوَ، لَيَدْفَعُ بِالصَّدَقَةِ اَلدَّاءَ‌، وَ اَلدُّبَيْلَةَ‌، وَ اَلْحَرَقَ‌، وَ اَلْغَرَقَ‌، وَ اَلْهَدْمَ‌، وَ اَلْجُنُونَ‌، وَ عَدَّ مِنْهُ سَبْعِينَ بَاباً مِنَ اَلسُّوءِ‌.</span>\n  </p>\n  <p id=\"p1053\" paragraph-id=\"1053\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "669CCBAA-AD3A-41E6-B1EA-52132EEEB092",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

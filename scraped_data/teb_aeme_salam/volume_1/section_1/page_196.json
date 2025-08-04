@@ -1,0 +1,103 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 196,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849627,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2242\"><page number=\"196\"/><format class=\"hadith\" who=\"14\" Id=\"685\" RevayatIndex=\"695\"><format class=\"sanadHadith\">وَ عَنِ اِبْنِ عَبَّاسٍ قَالَ‌، قَالَ رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</format> اَلثُّفَّاءُ دَوَاءٌ لِكُلِّ دَاءٍ‌، وَ لَمْ يُدَاوَ اَلْوَرَمُ‌، وَ اَلضَّرَبَانُ بِمِثْلِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849628,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2243\">بيان: اَلثُّفَّاء: النانخواه، و يقال الخردل، و يقال حبّ الرشاد.</p>"
+        },
+        {
+          "paragraphId": 687849629,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2244\"><heading level=\"2\">باب <format class=\"VD\">ما جاء في المياه، و فوائدها، و مضارها، و كيفية استعمالها </format></heading></p>"
+        },
+        {
+          "paragraphId": 687849630,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2245\"><format class=\"hadith\" who=\"1\" Id=\"686\" RevayatIndex=\"696\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">بَكْرِ بْنِ صَالِحٍ‌</format>، وَ <format class=\"G\">اَلْعِدَّةُ‌</format> عَنْ <format class=\"G\">أَحْمَدَ</format>، عَنْ <format class=\"G\">مُحَمَّدٍ</format> جَمِيعاً، عَنِ <format class=\"G\">عِيسَى بْنِ عَبْدِ اَللَّهِ بْنِ مُحَمَّدِ بْنِ عُمَرَ بْنِ عَلِيٍّ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنْ <format class=\"G\">جَدِّهِ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849631,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2246\"><format class=\"hadith\" who=\"1\" Id=\"686\" RevayatIndex=\"696\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أَمِيرُ اَلْمُؤْمِنِينَ صَلَوَاتُ اَللَّهِ عَلَيْهِ‌</format></format>: </format>اَلْمَاءُ سَيِّدُ اَلشَّرَابِ فِي اَلدُّنْيَا وَ اَلْآخِرَةِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849632,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2247\"><format class=\"hadith\" who=\"6\" Id=\"687\" RevayatIndex=\"697\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">أَبِي عَلِيٍّ اَلْأَشْعَرِيِّ‌</format> عَنْ <format class=\"G\">مُحَمَّدِ بْنِ عَبْدِ اَلْجَبَّارِ</format>، وَ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format> جَمِيعاً، عَنِ <format class=\"G\">اِبْنِ فَضَّالٍ‌</format>، عَنْ <format class=\"G\">ثَعْلَبَةَ بْنِ مَيْمُونٍ‌</format>، عَنْ <format class=\"G\">عُبَيْدِ بْنِ زُرَارَةَ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849633,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2248\"><format class=\"hadith\" who=\"6\" Id=\"687\" RevayatIndex=\"697\"><format class=\"sanadHadith\">سَمِعْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، يَقُولُ‌،</format> وَ ذَكَرَ <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولَ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>، فَقَالَ‌: اَللَّهُمَّ إِنَّكَ تَعْلَمُ‌، أَنَّهُ أَحَبُّ إِلَيْنَا، مِنَ اَلْآبَاءِ‌، وَ اَلْأُمَّهَاتِ‌، وَ اَلْمَاءِ اَلْبَارِدِ.</format></p>"
+        },
+        {
+          "paragraphId": 687849634,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2249\"><format class=\"hadith\" who=\"6\" Id=\"688\" RevayatIndex=\"698\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ أَحْمَدَ</format>، عَنْ <format class=\"G\">يَعْقُوبَ بْنِ يَزِيدَ</format>، عَنِ <format class=\"G\">اِبْنِ فَضَّالٍ‌</format>، <format class=\"G\">عَمَّنْ أَخْبَرَهُ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، أَنَّهُ قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849635,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2250\"><format class=\"hadith\" who=\"6\" Id=\"688\" RevayatIndex=\"698\">مَنْ تَلَذَّذَ بِالْمَاءِ فِي اَلدُّنْيَا، لَذَّذَهُ اَللَّهُ عَزَّ وَ جَلَّ مِنْ أَشْرِبَةِ <format class=\"t\">اَلْجَنَّةِ‌</format><lfootnote noteId=\"106\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 687849636,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2251\"><format class=\"hadith\" who=\"6,14\" Id=\"689\" RevayatIndex=\"699\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">اَلْعِدَّةُ‌</format>، عَنْ <format class=\"G\">سَهْلِ بْنِ زِيَادٍ</format>، عَنْ <format class=\"G\">جَعْفَرِ بْنِ مُحَمَّدٍ اَلْأَشْعَرِيِّ‌</format>، عَنِ <format class=\"G\">اِبْنِ‌</format></format></format></p>"
+        },
+        {
+          "paragraphId": 687849637,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2252\"><format class=\"hadith\" who=\"6,14\" Id=\"689\" RevayatIndex=\"699\"><format class=\"sanadHadith\"><format class=\"G\"><page number=\"197\"/>اَلْقَدَّاحِ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851739,
+          "text": "<footnote id=\"106\"><page number=\"196\"/><mnote>(1)</mnote> لعلّه يعني من عرف قدر نعمة الماء، و قدر إنعام اللّه تعالى به عليه.<br/>و قال العلاّمة المجلسي (ره): يمكن أن يكون المراد بالتلذذ: التأمل في لذة الماء، و الشكر عليه أو شربه بالتأني، و بثلاثة أنفاس، فيكون الإلتذاذ إدراك لذة الماء فيه أكثر. (ع).</footnote>"
+        }
+      ],
+      "pageValue": "196",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2242\" paragraph-id=\"2242\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo196\">196</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اِبْنِ عَبَّاسٍ قَالَ‌، قَالَ رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</span> اَلثُّفَّاءُ دَوَاءٌ لِكُلِّ دَاءٍ‌، وَ لَمْ يُدَاوَ اَلْوَرَمُ‌، وَ اَلضَّرَبَانُ بِمِثْلِهِ‌.</span>\n  </p>\n  <p id=\"p2243\" paragraph-id=\"2243\" class=\" G\">بيان: اَلثُّفَّاء: النانخواه، و يقال الخردل، و يقال حبّ الرشاد.</p>\n  <p id=\"p2244\" paragraph-id=\"2244\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">ما جاء في المياه، و فوائدها، و مضارها، و كيفية استعمالها </span></strong>\n  </p>\n  <p id=\"p2245\" paragraph-id=\"2245\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">بَكْرِ بْنِ صَالِحٍ‌</span>، وَ <span class=\"G\">اَلْعِدَّةُ‌</span> عَنْ <span class=\"G\">أَحْمَدَ</span>، عَنْ <span class=\"G\">مُحَمَّدٍ</span> جَمِيعاً، عَنِ <span class=\"G\">عِيسَى بْنِ عَبْدِ اَللَّهِ بْنِ مُحَمَّدِ بْنِ عُمَرَ بْنِ عَلِيٍّ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنْ <span class=\"G\">جَدِّهِ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2246\" paragraph-id=\"2246\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَمِيرُ اَلْمُؤْمِنِينَ صَلَوَاتُ اَللَّهِ عَلَيْهِ‌</span></span>: </span>اَلْمَاءُ سَيِّدُ اَلشَّرَابِ فِي اَلدُّنْيَا وَ اَلْآخِرَةِ‌.</span>\n  </p>\n  <p id=\"p2247\" paragraph-id=\"2247\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">أَبِي عَلِيٍّ اَلْأَشْعَرِيِّ‌</span> عَنْ <span class=\"G\">مُحَمَّدِ بْنِ عَبْدِ اَلْجَبَّارِ</span>، وَ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span> جَمِيعاً، عَنِ <span class=\"G\">اِبْنِ فَضَّالٍ‌</span>، عَنْ <span class=\"G\">ثَعْلَبَةَ بْنِ مَيْمُونٍ‌</span>، عَنْ <span class=\"G\">عُبَيْدِ بْنِ زُرَارَةَ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2248\" paragraph-id=\"2248\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، يَقُولُ‌،</span> وَ ذَكَرَ <span class=\"BD\"><span class=\"maasoom\">رَسُولَ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>، فَقَالَ‌: اَللَّهُمَّ إِنَّكَ تَعْلَمُ‌، أَنَّهُ أَحَبُّ إِلَيْنَا، مِنَ اَلْآبَاءِ‌، وَ اَلْأُمَّهَاتِ‌، وَ اَلْمَاءِ اَلْبَارِدِ.</span>\n  </p>\n  <p id=\"p2249\" paragraph-id=\"2249\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ أَحْمَدَ</span>، عَنْ <span class=\"G\">يَعْقُوبَ بْنِ يَزِيدَ</span>، عَنِ <span class=\"G\">اِبْنِ فَضَّالٍ‌</span>، <span class=\"G\">عَمَّنْ أَخْبَرَهُ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، أَنَّهُ قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2250\" paragraph-id=\"2250\" class=\" G\">\n    <span class=\"hadith\">مَنْ تَلَذَّذَ بِالْمَاءِ فِي اَلدُّنْيَا، لَذَّذَهُ اَللَّهُ عَزَّ وَ جَلَّ مِنْ أَشْرِبَةِ <span class=\"t\">اَلْجَنَّةِ‌</span><span><sup><a class=\"NewFn\" href=\"#footnote106\" title=\"(1)  لعلّه يعني من عرف قدر نعمة الماء، و قدر إنعام اللّه تعالى به عليه.و قال العلاّمة المجلسي (ره): يمكن أن يكون المراد بالتلذذ: التأمل في لذة الماء، و الشكر عليه أو شربه بالتأني، و بثلاثة أنفاس، فيكون الإلتذاذ إدراك لذة الماء فيه أكثر. (ع).\">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2251\" paragraph-id=\"2251\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">اَلْعِدَّةُ‌</span>، عَنْ <span class=\"G\">سَهْلِ بْنِ زِيَادٍ</span>، عَنْ <span class=\"G\">جَعْفَرِ بْنِ مُحَمَّدٍ اَلْأَشْعَرِيِّ‌</span>، عَنِ <span class=\"G\">اِبْنِ‌</span></span>\n    </span>\n  </p>\n  <p id=\"p2252\" paragraph-id=\"2252\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"G\" />\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote106\" footnote-id=\"106\">(1) <page number=\"196\" /> لعلّه يعني من عرف قدر نعمة الماء، و قدر إنعام اللّه تعالى به عليه.<br />و قال العلاّمة المجلسي (ره): يمكن أن يكون المراد بالتلذذ: التأمل في لذة الماء، و الشكر عليه أو شربه بالتأني، و بثلاثة أنفاس، فيكون الإلتذاذ إدراك لذة الماء فيه أكثر. (ع).</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "3DC86B10-ACC4-4B78-80C7-8FD45DAC1D7E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

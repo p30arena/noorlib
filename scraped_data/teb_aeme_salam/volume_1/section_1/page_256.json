@@ -1,0 +1,110 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 256,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849961,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2850\"><format class=\"hadith\" who=\"6\" Id=\"1017\" RevayatIndex=\"1032\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>إِنَّ رَجُلاً شَكَا إِلَيْهِ بَيَاضاً فِي عَيْنِهِ‌، وَ وَجَعاً فِي ضِرْسِهِ‌، وَ رِيَاحاً فِي مَفَاصِلِهِ‌، فَأَمَرَهُ أَنْ يَأْخُذَ فُلْفُلاً أَبْيَضَ‌، وَ دَارَ فُلْفُلٍ‌، مِنْ كُلِّ وَاحِدٍ وَزْنَ دِرْهَمَيْنِ‌، وَ نُشَادُرَ جَيِّداً صَافِياً، وَزْنَ دِرْهَمٍ‌، وَ اِسْحَقْهَا كُلَّهَا، وَ اُنْخُلْهَا، وَ اِكْتَحِلْ بِهَا<page number=\"256\"/> فِي كُلِّ عَيْنٍ ثَلاَثَةَ مَرَاوِدَ، وَ اِصْبِرْ عَلَيْهَا سَاعَةً‌، فَإِنَّهُ يَقْطَعُ اَلْبَيَاضَ‌، وَ يُنَقِّي لَحْمَ اَلْعَيْنِ‌، وَ يُسَكِّنُ اَلْوَجَعَ بِإِذْنِ اَللَّهِ تَعَالَى، فَاغْسِلْ عَيْنَيْكَ بِالْمَاءِ اَلْبَارِدِ، وَ أَتْبِعْهُ بِالْإِثْمِدِ.</format></p>"
+        },
+        {
+          "paragraphId": 687849962,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2851\"><format class=\"hadith\" who=\"5\" Id=\"1018\" RevayatIndex=\"1033\"><format class=\"sanadHadith\">وَ عَنْ ذَرِيحٍ قَالَ‌:</format> شَكَا رَجُلٌ إِلَى أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)، بَيَاضاً فِي عَيْنَيْهِ‌، فَقَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849963,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2852\"><format class=\"hadith\" who=\"5\" Id=\"1018\" RevayatIndex=\"1033\">خُذْ تُوتِيَا هِنْدِيٍّ جُزْءاً، وَ إِقْلِيمِيَا اَلذَّهَبِ جُزْءاً، وَ جُزْءاً مِنْ مِلْحٍ أَنْدَرَانِيٍّ‌، وَ اِسْحَقْ كُلَّ وَاحِدَةٍ مِنْهَا بِمَاءِ اَلسَّمَاءِ‌، عَلَى حِدَةٍ‌، ثُمَّ اِجْمَعْهُ بَعْدَ اَلسَّحْقِ‌، فَاكْتَحِلْ بِهِ‌، فَإِنَّهُ يَقْلَعُ اَلْبَيَاضَ‌، وَ يُصَفِّي لَحْمَ اَلْعَيْنِ‌، وَ يُنَقِّيهِ مِنْ كُلِّ عِلَّةٍ بِإِذْنِ اَللَّهِ تَعَالَى.</format></p>"
+        },
+        {
+          "paragraphId": 687849964,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2853\"><format class=\"hadith\" who=\"6\" Id=\"1019\" RevayatIndex=\"1034\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> مَنِ اِحْتَجَمَ‌، فَنَظَرَ إِلَى أَوَّلِ مَحْجَمَةٍ مِنْ دَمِهِ‌، أَمِنَ مِنَ اَلرَّمَدِ، إِلَى اَلْحِجَامَةِ اَلْأُخْرَى.</format></p>"
+        },
+        {
+          "paragraphId": 687849965,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2854\"><format class=\"hadith\" who=\"14,5\" Id=\"1020\" RevayatIndex=\"1035\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"5\">اَلْبَاقِرِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> كَانَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format> إِذَا رَمِدَ، هُوَ أَوْ أَحَدٌ مِنْ أَهْلِهِ‌، أَوْ مِنْ أَصْحَابِهِ‌، دَعَا بِهَذِهِ اَلدَّعَوَاتِ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687849966,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2855\"><format class=\"hadith\" who=\"14,5\" Id=\"1020\" RevayatIndex=\"1035\">(اَللَّهُمَّ مَتِّعْنِي بِسَمْعِي وَ بَصَرِي، وَ اِجْعَلْهُمَا اَلْوَارِثَ مِنِّي، وَ اُنْصُرْنِي عَلَى مَنْ ظَلَمَنِي، وَ أَرِنِي فِيهِ بَارِئِي <format class=\"z\">[ثَأْرِي]</format>).</format></p>"
+        },
+        {
+          "paragraphId": 687849967,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2856\"><format class=\"hadith\" who=\"3,10\" Id=\"1021\" RevayatIndex=\"1036\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"10\">اَلْعَسْكَرِيِّ‌</format></format>، عَنْ <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"8\">جَدِّهِ‌</format></format>، عَنِ <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ‌</format></format>، عَنْ <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"9\">أَبِيهِ‌</format></format>، عَنْ <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"5\">جَدِّهِ‌</format></format> عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"3\">اَلْحُسَيْنِ بْنِ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ‌</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849968,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2857\"><format class=\"hadith\" who=\"3,10\" Id=\"1021\" RevayatIndex=\"1036\">«لَوْ يَعْلَمُ اَلنَّاسُ مَا فِي اَلْهَلِيلَجِ اَلْأَصْفَرِ، لاَشْتَرَوْهَا بِوَزْنِهَا ذَهَباً».</format></p>"
+        },
+        {
+          "paragraphId": 687849969,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2858\"><format class=\"hadith\" who=\"3,10\" Id=\"1021\" RevayatIndex=\"1036\">وَ قَالَ لِرَجُلٍ مِنْ أَصْحَابِهِ‌: خُذْ هَلِيلَجَ أَصْفَرَ، أَوْ سَبْعَ حَبَّاتِ فُلْفُلٍ وَ اِسْحَقْهَا وَ اُنْخُلْهَا وَ اِكْتَحِلْ بِهَا.</format></p>"
+        },
+        {
+          "paragraphId": 687849970,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2859\"><heading level=\"2\">باب <format class=\"ZM\">معالجة الأضراس و الأسنان، و ما ينفعها، و ما يضرها </format></heading></p>"
+        },
+        {
+          "paragraphId": 687849971,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2860\">مضافا إلى ما مرّ في الخضاب، و السّواك، و الحجامة، و غيرها </p>"
+        },
+        {
+          "paragraphId": 687849972,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2861\"><format class=\"hadith\" who=\"14\" Id=\"1022\" RevayatIndex=\"1037\"><format class=\"sanadHadith\">عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>، قَالَ‌:</format> اَلْحِجَامَةُ فِي اَلرَّأْسِ تَذْهَبُ بِالنُّعَاسِ وَ وَجَعِ اَلْأَضْرَاسِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849973,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"2862\"><page number=\"257\"/><format class=\"hadith\" who=\"6\" Id=\"1023\" RevayatIndex=\"1038\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>لِوَجَعِ اَلضِّرْسِ‌، قَالَ‌: يَأْخُذُ اَلتُّرَابَ مِنْ مَوْضِعِ سُجُودِهِ‌، وَ يُمِرُّهَا عَلَى اَلضِّرْسِ‌، وَ لْيَقُلْ‌:</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "256",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2850\" paragraph-id=\"2850\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo256\">256</span> فِي كُلِّ عَيْنٍ ثَلاَثَةَ مَرَاوِدَ، وَ اِصْبِرْ عَلَيْهَا سَاعَةً‌، فَإِنَّهُ يَقْطَعُ اَلْبَيَاضَ‌، وَ يُنَقِّي لَحْمَ اَلْعَيْنِ‌، وَ يُسَكِّنُ اَلْوَجَعَ بِإِذْنِ اَللَّهِ تَعَالَى، فَاغْسِلْ عَيْنَيْكَ بِالْمَاءِ اَلْبَارِدِ، وَ أَتْبِعْهُ بِالْإِثْمِدِ.</span>\n  </p>\n  <p id=\"p2851\" paragraph-id=\"2851\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ ذَرِيحٍ قَالَ‌:</span> شَكَا رَجُلٌ إِلَى أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)، بَيَاضاً فِي عَيْنَيْهِ‌، فَقَالَ‌:</span>\n  </p>\n  <p id=\"p2852\" paragraph-id=\"2852\" class=\" G\">\n    <span class=\"hadith\">خُذْ تُوتِيَا هِنْدِيٍّ جُزْءاً، وَ إِقْلِيمِيَا اَلذَّهَبِ جُزْءاً، وَ جُزْءاً مِنْ مِلْحٍ أَنْدَرَانِيٍّ‌، وَ اِسْحَقْ كُلَّ وَاحِدَةٍ مِنْهَا بِمَاءِ اَلسَّمَاءِ‌، عَلَى حِدَةٍ‌، ثُمَّ اِجْمَعْهُ بَعْدَ اَلسَّحْقِ‌، فَاكْتَحِلْ بِهِ‌، فَإِنَّهُ يَقْلَعُ اَلْبَيَاضَ‌، وَ يُصَفِّي لَحْمَ اَلْعَيْنِ‌، وَ يُنَقِّيهِ مِنْ كُلِّ عِلَّةٍ بِإِذْنِ اَللَّهِ تَعَالَى.</span>\n  </p>\n  <p id=\"p2853\" paragraph-id=\"2853\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> مَنِ اِحْتَجَمَ‌، فَنَظَرَ إِلَى أَوَّلِ مَحْجَمَةٍ مِنْ دَمِهِ‌، أَمِنَ مِنَ اَلرَّمَدِ، إِلَى اَلْحِجَامَةِ اَلْأُخْرَى.</span>\n  </p>\n  <p id=\"p2854\" paragraph-id=\"2854\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"HQ\"><span class=\"maasoom\">اَلْبَاقِرِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> كَانَ <span class=\"Y\"><span class=\"maasoom\">اَلنَّبِيُّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span> إِذَا رَمِدَ، هُوَ أَوْ أَحَدٌ مِنْ أَهْلِهِ‌، أَوْ مِنْ أَصْحَابِهِ‌، دَعَا بِهَذِهِ اَلدَّعَوَاتِ‌:</span>\n  </p>\n  <p id=\"p2855\" paragraph-id=\"2855\" class=\" G\">\n    <span class=\"hadith\">(اَللَّهُمَّ مَتِّعْنِي بِسَمْعِي وَ بَصَرِي، وَ اِجْعَلْهُمَا اَلْوَارِثَ مِنِّي، وَ اُنْصُرْنِي عَلَى مَنْ ظَلَمَنِي، وَ أَرِنِي فِيهِ بَارِئِي <span class=\"z\">[ثَأْرِي]</span>).</span>\n  </p>\n  <p id=\"p2856\" paragraph-id=\"2856\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"HQ\"><span class=\"maasoom\">اَلْعَسْكَرِيِّ‌</span></span>، عَنْ <span class=\"G\"><span class=\"maasoom\">جَدِّهِ‌</span></span>، عَنِ <span class=\"G\"><span class=\"maasoom\">اَلصَّادِقِ‌</span></span>، عَنْ <span class=\"G\"><span class=\"maasoom\">أَبِيهِ‌</span></span>، عَنْ <span class=\"G\"><span class=\"maasoom\">جَدِّهِ‌</span></span> عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلْحُسَيْنِ بْنِ عَلِيٍّ عَلَيْهِ اَلسَّلاَمُ‌</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2857\" paragraph-id=\"2857\" class=\" G\">\n    <span class=\"hadith\">«لَوْ يَعْلَمُ اَلنَّاسُ مَا فِي اَلْهَلِيلَجِ اَلْأَصْفَرِ، لاَشْتَرَوْهَا بِوَزْنِهَا ذَهَباً».</span>\n  </p>\n  <p id=\"p2858\" paragraph-id=\"2858\" class=\" G\">\n    <span class=\"hadith\">وَ قَالَ لِرَجُلٍ مِنْ أَصْحَابِهِ‌: خُذْ هَلِيلَجَ أَصْفَرَ، أَوْ سَبْعَ حَبَّاتِ فُلْفُلٍ وَ اِسْحَقْهَا وَ اُنْخُلْهَا وَ اِكْتَحِلْ بِهَا.</span>\n  </p>\n  <p id=\"p2859\" paragraph-id=\"2859\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"ZM\">معالجة الأضراس و الأسنان، و ما ينفعها، و ما يضرها </span></strong>\n  </p>\n  <p id=\"p2860\" paragraph-id=\"2860\" class=\" G\">مضافا إلى ما مرّ في الخضاب، و السّواك، و الحجامة، و غيرها </p>\n  <p id=\"p2861\" paragraph-id=\"2861\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>، قَالَ‌:</span> اَلْحِجَامَةُ فِي اَلرَّأْسِ تَذْهَبُ بِالنُّعَاسِ وَ وَجَعِ اَلْأَضْرَاسِ‌.</span>\n  </p>\n  <p id=\"p2862\" paragraph-id=\"2862\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "914A289A-8187-4C15-8730-90356ABDF968",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

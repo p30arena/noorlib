@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 192,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849585,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2200\"><page number=\"192\"/><format class=\"hadith\" who=\"6\" Id=\"663\" RevayatIndex=\"672\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ جَعْفَرٍ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ اَلدِّهْقَانِ‌</format>، عَنْ <format class=\"G\">دُرُسْتَ اَلْوَاسِطِيِّ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849586,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2201\"><format class=\"hadith\" who=\"6\" Id=\"663\" RevayatIndex=\"672\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>إِذَا أَكَلْتُمُ اَلْقِثَّاءَ‌، فَكُلُوهُ مِنْ أَسْفَلِهِ فَإِنَّهُ أَعْظَمُ لِبَرَكَتِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849587,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2202\"><heading level=\"2\">باب <format class=\"VD\">التداوي بالبصل و الثوم </format>و فيه ذكر <format class=\"VD\">الكراث</format> أيضا</heading></p>"
+        },
+        {
+          "paragraphId": 687849588,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2203\"><format class=\"hadith\" who=\"6\" Id=\"664\" RevayatIndex=\"673\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">اَلْعِدَّةُ‌</format>، عَنْ <format class=\"G\">سَهْلِ بْنِ زِيَادٍ</format>، عَنْ <format class=\"G\">مَنْصُورِ بْنِ اَلْعَبَّاسِ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَلْعَزِيزِ بْنِ حَسَّانَ اَلْبَغْدَادِيِّ‌</format>، عَنْ <format class=\"G\">صَالِحِ بْنِ عُقْبَةَ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ مُحَمَّدٍ اَلْجُعْفِيِّ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849589,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2204\"><format class=\"hadith\" who=\"6\" Id=\"664\" RevayatIndex=\"673\">ذَكَرَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، اَلْبَصَلَ فَقَالَ‌: يُطَيِّبُ اَلنَّكْهَةَ‌، وَ يَذْهَبُ بِالْبَلْغَمِ‌، وَ يَزِيدُ فِي اَلْجِمَاعِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849590,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2205\"><format class=\"hadith\" who=\"6\" Id=\"665\" RevayatIndex=\"674\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">أَبِي عَلِيٍّ اَلْأَشْعَرِيِّ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ سَالِمٍ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ اَلنَّضْرِ</format>، عَنْ <format class=\"G\">عَمْرِو بْنِ شِمْرٍ</format>، عَنْ <format class=\"G\">جَابِرٍ</format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849591,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2206\"><format class=\"hadith\" who=\"6\" Id=\"665\" RevayatIndex=\"674\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>اَلْبَصَلُ يَذْهَبُ بِالنَّصَبِ‌، وَ يَشُدُّ اَلْعَصَبَ‌، وَ يَزِيدُ فِي اَلْخُطَا، وَ يَزِيدُ فِي اَلْمَاءِ‌، وَ يَذْهَبُ بِالْحُمَّى.</format></p>"
+        },
+        {
+          "paragraphId": 687849592,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2207\">بيان: قال في (الخطا): إما بإعجام الخاء، و إهمال الطاء جمع خطوة، بمعنى ما بين القدمين، و المراد به القوّة على الشيء، و إمّا بالعكس من (خطى) كل من الزوجين عند صاحبه خطوة، و المراد به الجماع.</p>"
+        },
+        {
+          "paragraphId": 687849593,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2208\"><format class=\"hadith\" who=\"6\" Id=\"666\" RevayatIndex=\"675\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">عَلِيِّ بْنِ مُحَمَّدِ بْنِ بُنْدَارَ</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ عَلِيٍّ اَلْهَمَذَانِيِّ‌</format>، عَنِ <format class=\"G\">اَلْحَسَنِ بْنِ عَلِيٍّ اَلْكَسْلاَنِ‌</format>، عَنْ <format class=\"G\">مُيَسِّرٍ بَيَّاعِ اَلزُّطِّيِّ‌</format>، وَ كَانَ خَالَهُ قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849594,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2209\"><format class=\"hadith\" who=\"6\" Id=\"666\" RevayatIndex=\"675\"><format class=\"sanadHadith\">سَمِعْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، يَقُولُ‌:</format> كُلُوا اَلْبَصَلَ‌، فَإِنَّ فِيهِ ثَلاَثَ خِصَالٍ‌: يُطَيِّبُ اَلنَّكْهَةَ‌، وَ يَشُدُّ اَللِّثَةَ‌، وَ يَزِيدُ فِي اَلْمَاءِ وَ اَلْجِمَاعِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849595,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2210\"><page number=\"193\"/><format class=\"hadith\" who=\"6\" Id=\"667\" RevayatIndex=\"676\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنِ <format class=\"G\">اَلسَّيَّارِيِّ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ اَلْمُبَارَكِ اَلدِّينَوَرِيِّ‌</format>، عَنْ <format class=\"G\">أَبِي عُثْمَانَ‌</format>، عَنْ <format class=\"G\">دُرُسْتَ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> اَلْبَصَلُ‌، يُطَيِّبُ اَلنَّكْهَةَ‌، وَ يَشُدُّ اَلظَّهْرَ، وَ يُرِقُّ اَلْبَشَرَةَ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "192",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2200\" paragraph-id=\"2200\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo192\">192</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ جَعْفَرٍ</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ اَلدِّهْقَانِ‌</span>، عَنْ <span class=\"G\">دُرُسْتَ اَلْوَاسِطِيِّ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ سِنَانٍ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2201\" paragraph-id=\"2201\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>إِذَا أَكَلْتُمُ اَلْقِثَّاءَ‌، فَكُلُوهُ مِنْ أَسْفَلِهِ فَإِنَّهُ أَعْظَمُ لِبَرَكَتِهِ‌.</span>\n  </p>\n  <p id=\"p2202\" paragraph-id=\"2202\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي بالبصل و الثوم </span>و فيه ذكر <span class=\"VD\">الكراث</span> أيضا</strong>\n  </p>\n  <p id=\"p2203\" paragraph-id=\"2203\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">اَلْعِدَّةُ‌</span>، عَنْ <span class=\"G\">سَهْلِ بْنِ زِيَادٍ</span>، عَنْ <span class=\"G\">مَنْصُورِ بْنِ اَلْعَبَّاسِ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَلْعَزِيزِ بْنِ حَسَّانَ اَلْبَغْدَادِيِّ‌</span>، عَنْ <span class=\"G\">صَالِحِ بْنِ عُقْبَةَ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ مُحَمَّدٍ اَلْجُعْفِيِّ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2204\" paragraph-id=\"2204\" class=\" G\">\n    <span class=\"hadith\">ذَكَرَ <span class=\"Y\"><span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، اَلْبَصَلَ فَقَالَ‌: يُطَيِّبُ اَلنَّكْهَةَ‌، وَ يَذْهَبُ بِالْبَلْغَمِ‌، وَ يَزِيدُ فِي اَلْجِمَاعِ‌.</span>\n  </p>\n  <p id=\"p2205\" paragraph-id=\"2205\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">أَبِي عَلِيٍّ اَلْأَشْعَرِيِّ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ سَالِمٍ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ اَلنَّضْرِ</span>، عَنْ <span class=\"G\">عَمْرِو بْنِ شِمْرٍ</span>، عَنْ <span class=\"G\">جَابِرٍ</span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2206\" paragraph-id=\"2206\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>اَلْبَصَلُ يَذْهَبُ بِالنَّصَبِ‌، وَ يَشُدُّ اَلْعَصَبَ‌، وَ يَزِيدُ فِي اَلْخُطَا، وَ يَزِيدُ فِي اَلْمَاءِ‌، وَ يَذْهَبُ بِالْحُمَّى.</span>\n  </p>\n  <p id=\"p2207\" paragraph-id=\"2207\" class=\" G\">بيان: قال في (الخطا): إما بإعجام الخاء، و إهمال الطاء جمع خطوة، بمعنى ما بين القدمين، و المراد به القوّة على الشيء، و إمّا بالعكس من (خطى) كل من الزوجين عند صاحبه خطوة، و المراد به الجماع.</p>\n  <p id=\"p2208\" paragraph-id=\"2208\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">عَلِيِّ بْنِ مُحَمَّدِ بْنِ بُنْدَارَ</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ عَلِيٍّ اَلْهَمَذَانِيِّ‌</span>، عَنِ <span class=\"G\">اَلْحَسَنِ بْنِ عَلِيٍّ اَلْكَسْلاَنِ‌</span>، عَنْ <span class=\"G\">مُيَسِّرٍ بَيَّاعِ اَلزُّطِّيِّ‌</span>، وَ كَانَ خَالَهُ قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2209\" paragraph-id=\"2209\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، يَقُولُ‌:</span> كُلُوا اَلْبَصَلَ‌، فَإِنَّ فِيهِ ثَلاَثَ خِصَالٍ‌: يُطَيِّبُ اَلنَّكْهَةَ‌، وَ يَشُدُّ اَللِّثَةَ‌، وَ يَزِيدُ فِي اَلْمَاءِ وَ اَلْجِمَاعِ‌.</span>\n  </p>\n  <p id=\"p2210\" paragraph-id=\"2210\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "2B044BD8-C3F0-4285-A242-B43FBCD0CABC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

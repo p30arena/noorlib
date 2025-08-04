@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 139,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848887,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1589\"><page number=\"139\"/><heading level=\"2\">باب <format class=\"VD\">التداوي بالخلّ و منافعه </format></heading></p>"
+        },
+        {
+          "paragraphId": 687848888,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1590\"><format class=\"hadith\" who=\"6\" Id=\"389\" RevayatIndex=\"397\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنْ أَبِي عُمَيْرٍ، عَنْ <format class=\"G\">هِشَامِ بْنِ سَالِمٍ‌</format>، عَنْ <format class=\"G\">سُلَيْمَانَ بْنِ خَالِدٍ</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ‌</format></format>، قَالَ‌: </format>«اَلْخَلُّ يَشُدُّ اَلْعَقْلَ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848889,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1591\"><format class=\"hadith\" who=\"14,6\" Id=\"390\" RevayatIndex=\"398\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ أَبِي حَمْزَةَ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848890,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1592\"><format class=\"hadith\" who=\"14,6\" Id=\"390\" RevayatIndex=\"398\"><format class=\"sanadHadith\">سَمِعْتُهُ يَقُولُ‌:</format> مَا أَقْفَرَ بَيْتٌ فِيهِ خَلٌّ‌، وَ قَدْ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format> ذَلِكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848891,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1593\"><format class=\"hadith\" who=\"6\" Id=\"391\" RevayatIndex=\"399\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">عَلِيِّ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</format>، عَنْ <format class=\"G\">أَبَانِ بْنِ عَبْدِ اَلْمَلِكِ‌</format>، عَنْ <format class=\"G\">إِسْمَاعِيلَ بْنِ جَابِرٍ</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> إِنَّا لَنَبْدَأُ بِالْخَلِّ عِنْدَنَا كَمَا تَبْدَأُونَ بِالْمِلْحِ عِنْدَكُمْ‌، فَإِنَّ اَلْخَلَّ لَيَشُدُّ اَلْعَقْلَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848892,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1594\"><format class=\"hadith\" who=\"6\" Id=\"392\" RevayatIndex=\"400\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنْ <format class=\"G\">حَنَانٍ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> ذُكِرَ عِنْدَهُ خَلُّ اَلْخَمْرِ، فَقَالَ (عَلَيْهِ اَلسَّلاَمُ‌): إِنَّهُ لَيَقْتُلُ دَوَابَّ اَلْبَطْنِ‌، وَ لَيَشُدُّ اَلْفَمَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848893,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1595\">بيان: قال في خل الخمر، هو عصير العنب، الذي يجعل فيه مقدار من الخل، و يوضع في الشمس، حتى يصير خلا.</p>"
+        },
+        {
+          "paragraphId": 687848894,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1596\"><format class=\"hadith\" who=\"6\" Id=\"393\" RevayatIndex=\"401\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</format>، عَنْ <format class=\"G\">رَبِيعٍ اَلْمُسْلِيِّ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ رَزِينٍ‌</format>، عَنْ <format class=\"G\">سُفْيَانَ بْنِ اَلسِّمْطِ</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، أَنَّهُ قَالَ‌:</format> عَلَيْكَ بِخَلِّ اَلْخَمْرِ، فَاغْمِسْ فِيهِ‌، فَإِنَّهُ لاَ يَبْقَى فِي جَوْفِكَ دَابَّةٌ إِلاَّ قَتَلَهَا.</format></p>"
+        },
+        {
+          "paragraphId": 687848895,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1597\"><format class=\"hadith\" who=\"6,1\" Id=\"394\" RevayatIndex=\"402\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنْ <format class=\"G\">بَعْضِ أَصْحَابِنَا</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ عَبْدِ اَلرَّحْمَنِ اَلْأَصَمِّ‌</format>، عَنْ <format class=\"G\">شُعَيْبٍ‌</format>، عَنْ <format class=\"G\">أَبِي بَصِيرٍ</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848896,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1598\"><format class=\"hadith\" who=\"6,1\" Id=\"394\" RevayatIndex=\"402\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>نِعْمَ اَلْإِدَامُ اَلْخَلُّ‌، يَكْسِرُ اَلْمِرَّةَ‌، وَ يُطْفِئُ اَلصَّفْرَاءَ‌، وَ يُحْيِي اَلْقَلْبَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848897,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1599\"><format class=\"hadith\" who=\"6\" Id=\"395\" RevayatIndex=\"403\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌، اَلْجَعْفَرِيِّ‌</format>، عَنْ <format class=\"G\">مُحَمَّدٍ وَ أَحْمَدَ<page number=\"140\"/> اِبْنَيْ عُمَرَ بْنِ مُوسَى</format>، عَنْ <format class=\"G\">أَبِيهِمَا</format>، رَفَعَهُ إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ‌</format></format> قَالَ‌:</format> اَلاِصْطِبَاغُ بِالْخَلِّ‌، يَقْطَعُ شَهْوَةَ اَلزِّنَا.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "139",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1589\" paragraph-id=\"1589\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo139\">139</span>\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي بالخلّ و منافعه </span></strong>\n  </p>\n  <p id=\"p1590\" paragraph-id=\"1590\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنْ أَبِي عُمَيْرٍ، عَنْ <span class=\"G\">هِشَامِ بْنِ سَالِمٍ‌</span>، عَنْ <span class=\"G\">سُلَيْمَانَ بْنِ خَالِدٍ</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ‌</span></span>، قَالَ‌: </span>«اَلْخَلُّ يَشُدُّ اَلْعَقْلَ‌».</span>\n  </p>\n  <p id=\"p1591\" paragraph-id=\"1591\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ أَبِي حَمْزَةَ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1592\" paragraph-id=\"1592\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُهُ يَقُولُ‌:</span> مَا أَقْفَرَ بَيْتٌ فِيهِ خَلٌّ‌، وَ قَدْ قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span> ذَلِكَ‌.</span>\n  </p>\n  <p id=\"p1593\" paragraph-id=\"1593\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">عَلِيِّ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ أَبِي عَبْدِ اَللَّهِ‌</span>، عَنْ <span class=\"G\">أَبَانِ بْنِ عَبْدِ اَلْمَلِكِ‌</span>، عَنْ <span class=\"G\">إِسْمَاعِيلَ بْنِ جَابِرٍ</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> إِنَّا لَنَبْدَأُ بِالْخَلِّ عِنْدَنَا كَمَا تَبْدَأُونَ بِالْمِلْحِ عِنْدَكُمْ‌، فَإِنَّ اَلْخَلَّ لَيَشُدُّ اَلْعَقْلَ‌.</span>\n  </p>\n  <p id=\"p1594\" paragraph-id=\"1594\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنْ <span class=\"G\">حَنَانٍ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> ذُكِرَ عِنْدَهُ خَلُّ اَلْخَمْرِ، فَقَالَ (عَلَيْهِ اَلسَّلاَمُ‌): إِنَّهُ لَيَقْتُلُ دَوَابَّ اَلْبَطْنِ‌، وَ لَيَشُدُّ اَلْفَمَ‌.</span>\n  </p>\n  <p id=\"p1595\" paragraph-id=\"1595\" class=\" G\">بيان: قال في خل الخمر، هو عصير العنب، الذي يجعل فيه مقدار من الخل، و يوضع في الشمس، حتى يصير خلا.</p>\n  <p id=\"p1596\" paragraph-id=\"1596\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</span>، عَنْ <span class=\"G\">رَبِيعٍ اَلْمُسْلِيِّ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ رَزِينٍ‌</span>، عَنْ <span class=\"G\">سُفْيَانَ بْنِ اَلسِّمْطِ</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، أَنَّهُ قَالَ‌:</span> عَلَيْكَ بِخَلِّ اَلْخَمْرِ، فَاغْمِسْ فِيهِ‌، فَإِنَّهُ لاَ يَبْقَى فِي جَوْفِكَ دَابَّةٌ إِلاَّ قَتَلَهَا.</span>\n  </p>\n  <p id=\"p1597\" paragraph-id=\"1597\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنْ <span class=\"G\">بَعْضِ أَصْحَابِنَا</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ عَبْدِ اَلرَّحْمَنِ اَلْأَصَمِّ‌</span>، عَنْ <span class=\"G\">شُعَيْبٍ‌</span>، عَنْ <span class=\"G\">أَبِي بَصِيرٍ</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1598\" paragraph-id=\"1598\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">أَمِيرُ اَلْمُؤْمِنِينَ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>نِعْمَ اَلْإِدَامُ اَلْخَلُّ‌، يَكْسِرُ اَلْمِرَّةَ‌، وَ يُطْفِئُ اَلصَّفْرَاءَ‌، وَ يُحْيِي اَلْقَلْبَ‌.</span>\n  </p>\n  <p id=\"p1599\" paragraph-id=\"1599\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌، اَلْجَعْفَرِيِّ‌</span>، عَنْ <span class=\"G\">مُحَمَّدٍ وَ أَحْمَدَ</span></span>\n    </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "50272EF8-4CE7-4273-88A8-AC140B9E7937",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

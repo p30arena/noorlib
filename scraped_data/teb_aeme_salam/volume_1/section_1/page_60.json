@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 60,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848074,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"674\"><page number=\"60\"/><heading level=\"2\">باب <format class=\"BM\">الحمية، و كيفيتها، و مقدارها، و جملة من أحكامها </format></heading></p>"
+        },
+        {
+          "paragraphId": 687848075,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"675\"><format class=\"hadith\" who=\"6\" Id=\"62\" RevayatIndex=\"62\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format><lfootnote noteId=\"40\">1</lfootnote>: <format class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">عَبْدِ اَلرَّحْمَنِ بْنِ حَمَّادٍ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ إِسْحَاقَ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ اَلْفَيْضِ‌</format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848076,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"676\"><format class=\"hadith\" who=\"6\" Id=\"62\" RevayatIndex=\"62\">قُلْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">لِأَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: يَمْرَضُ مِنَّا اَلْمَرِيضُ فَيَأْمُرُهُ اَلْمُعَالِجُونَ بِالْحِمْيَةِ‌!.</format></p>"
+        },
+        {
+          "paragraphId": 687848077,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"677\"><format class=\"hadith\" who=\"6\" Id=\"62\" RevayatIndex=\"62\">فَقَالَ‌: لَكِنَّا <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"40\">أَهْلُ بَيْتٍ‌</format></format> لاَ نَحْتَمِي إِلاَّ مِنَ اَلتَّمْرِ، وَ نَتَدَاوَى بِالتُّفَّاحِ وَ اَلْمَاءِ اَلْبَارِدِ.</format></p>"
+        },
+        {
+          "paragraphId": 687848078,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"678\"><format class=\"hadith\" who=\"6\" Id=\"62\" RevayatIndex=\"62\">وَ قُلْتُ‌: وَ لِمَ تَحْتَمُونَ مِنَ اَلتَّمْرِ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687848079,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"679\"><format class=\"hadith\" who=\"6\" Id=\"62\" RevayatIndex=\"62\">قَالَ‌: لِأَنَّ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">نَبِيَّ اَللَّهِ‌</format></format> حَمَى <format class=\"BD\"><format class=\"maasoom\" maasoomNo=\"1\">عَلِيّاً</format></format> مِنْهُ فِي مَرَضِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848080,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"680\"><format class=\"hadith\" who=\"7\" Id=\"63\" RevayatIndex=\"63\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْعِدَّةِ‌</format>: عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</format>، عَنْ <format class=\"G\">مُوسَى بْنِ بَكْرٍ</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أَبِي اَلْحَسَنِ مُوسَى (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848081,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"681\"><format class=\"hadith\" who=\"7\" Id=\"63\" RevayatIndex=\"63\">لَيْسَ اَلْحِمْيَةُ أَنْ تَدَعَ اَلشَّيْ‌ءَ أَصْلاً، وَ لَكِنَّ اَلْحِمْيَةَ أَنْ تَأْكُلَ مِنَ اَلشَّيْ‌ءِ وَ تُخَفِّفَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848082,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"682\"><format class=\"hadith\" who=\"6\" Id=\"64\" RevayatIndex=\"64\"><format class=\"sanadHadith\">وَ عَنْ مُحَمَّدِ بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ، عَنِ اِبْنِ مَحْبُوبٍ‌، عَنِ اِبْنِ رَبَابٍ‌، عَنِ اَلْحَلَبِيِّ قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848083,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"683\"><format class=\"hadith\" who=\"6\" Id=\"64\" RevayatIndex=\"64\"><format class=\"sanadHadith\">سَمِعْتُ أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌) يَقُولُ‌:</format> لاَ تَنْفَعُ اَلْحِمْيَةُ إِلاَّ بَعْدَ سَبْعَةِ أَيَّامٍ‌. 16 - <format class=\"RevayatIndex\" index=\"65\"/><format class=\"sanadHadith\">وَ رُوِيَ‌: </format></format></p>"
+        },
+        {
+          "paragraphId": 687848084,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"684\"><format class=\"hadith\" who=\"6\" Id=\"64\" RevayatIndex=\"64\">اَلْحِمْيَةُ أَحَدَ عَشَرَ صَبَاحاً.</format></p>"
+        },
+        {
+          "paragraphId": 687848085,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"685\"><page number=\"61\"/><heading level=\"2\">باب <format class=\"BM\">عدم جواز التداوي بشيء من المسكرات و المحرمات و جملة من أحكامها </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851673,
+          "text": "<footnote id=\"40\"><page number=\"60\"/><mnote>(1)</mnote> روضة الكافي ص 167. ط. دار الأضواء بيروت.</footnote>"
+        }
+      ],
+      "pageValue": "60",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p674\" paragraph-id=\"674\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo60\">60</span>\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"BM\">الحمية، و كيفيتها، و مقدارها، و جملة من أحكامها </span></strong>\n  </p>\n  <p id=\"p675\" paragraph-id=\"675\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>\n        <span>\n          <sup>\n            <a class=\"NewFn\" href=\"#footnote40\" title=\"(1)  روضة الكافي ص 167. ط. دار الأضواء بيروت.\">1</a>\n          </sup>\n        </span>: <span class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">عَبْدِ اَلرَّحْمَنِ بْنِ حَمَّادٍ</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ إِسْحَاقَ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ اَلْفَيْضِ‌</span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p676\" paragraph-id=\"676\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ <span class=\"Y\"><span class=\"maasoom\">لِأَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: يَمْرَضُ مِنَّا اَلْمَرِيضُ فَيَأْمُرُهُ اَلْمُعَالِجُونَ بِالْحِمْيَةِ‌!.</span>\n  </p>\n  <p id=\"p677\" paragraph-id=\"677\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ‌: لَكِنَّا <span class=\"BD\"><span class=\"maasoom\">أَهْلُ بَيْتٍ‌</span></span> لاَ نَحْتَمِي إِلاَّ مِنَ اَلتَّمْرِ، وَ نَتَدَاوَى بِالتُّفَّاحِ وَ اَلْمَاءِ اَلْبَارِدِ.</span>\n  </p>\n  <p id=\"p678\" paragraph-id=\"678\" class=\" G\">\n    <span class=\"hadith\">وَ قُلْتُ‌: وَ لِمَ تَحْتَمُونَ مِنَ اَلتَّمْرِ؟.</span>\n  </p>\n  <p id=\"p679\" paragraph-id=\"679\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: لِأَنَّ <span class=\"Y\"><span class=\"maasoom\">نَبِيَّ اَللَّهِ‌</span></span> حَمَى <span class=\"BD\"><span class=\"maasoom\">عَلِيّاً</span></span> مِنْهُ فِي مَرَضِهِ‌.</span>\n  </p>\n  <p id=\"p680\" paragraph-id=\"680\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلْعِدَّةِ‌</span>: عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ اَلْحَكَمِ‌</span>، عَنْ <span class=\"G\">مُوسَى بْنِ بَكْرٍ</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي اَلْحَسَنِ مُوسَى (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p681\" paragraph-id=\"681\" class=\" G\">\n    <span class=\"hadith\">لَيْسَ اَلْحِمْيَةُ أَنْ تَدَعَ اَلشَّيْ‌ءَ أَصْلاً، وَ لَكِنَّ اَلْحِمْيَةَ أَنْ تَأْكُلَ مِنَ اَلشَّيْ‌ءِ وَ تُخَفِّفَ‌.</span>\n  </p>\n  <p id=\"p682\" paragraph-id=\"682\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ مُحَمَّدِ بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ، عَنِ اِبْنِ مَحْبُوبٍ‌، عَنِ اِبْنِ رَبَابٍ‌، عَنِ اَلْحَلَبِيِّ قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p683\" paragraph-id=\"683\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُ أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌) يَقُولُ‌:</span> لاَ تَنْفَعُ اَلْحِمْيَةُ إِلاَّ بَعْدَ سَبْعَةِ أَيَّامٍ‌. 16 - <span class=\"RevayatIndex\"></span><span class=\"sanadHadith\">وَ رُوِيَ‌: </span></span>\n  </p>\n  <p id=\"p684\" paragraph-id=\"684\" class=\" G\">\n    <span class=\"hadith\">اَلْحِمْيَةُ أَحَدَ عَشَرَ صَبَاحاً.</span>\n  </p>\n  <p id=\"p685\" paragraph-id=\"685\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote40\" footnote-id=\"40\">(1) <page number=\"60\" /> روضة الكافي ص 167. ط. دار الأضواء بيروت.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "061587A7-535C-413B-A25B-C3E45AFDBB80",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

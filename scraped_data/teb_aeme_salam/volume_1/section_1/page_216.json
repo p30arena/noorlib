@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 216,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849813,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2428\"><page number=\"216\"/><format class=\"hadith\" who=\"6\" Id=\"787\" RevayatIndex=\"800\"><format class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> لِيَحْذَرْ أَحَدُكُمْ أَنْ يُعَوِّقَ أَخَاهُ عَنِ اَلْحَجِّ‌، فَتُصِيبَهُ فِتْنَةٌ فِي دُنْيَاهُ‌، مَعَ مَا يُدَّخَرُ فِي اَلْآخِرَةِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849814,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2429\">بيان: الفتنة: البلاء، و المرض، و المصيبة، و العذاب، و الكفر، و غير ذلك من البليات.</p>"
+        },
+        {
+          "paragraphId": 687849815,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2430\"><format class=\"hadith\" who=\"6\" Id=\"788\" RevayatIndex=\"801\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>سَافِرُوا تَصِحُّوا، وَ جَاهِدُوا تَغْنَمُوا، وَ حُجُّوا تَسْتَغْنُوا.</format></p>"
+        },
+        {
+          "paragraphId": 687849816,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2431\"><format class=\"hadith\" who=\"6\" Id=\"789\" RevayatIndex=\"802\"><format class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> مَنْ أَرَادَ سَفَراً، فَلْيُسَافِرْ <format class=\"Z\">يَوْمَ اَلسَّبْتِ‌</format>، فَلَوْ أَنَّ حَجَراً زَالَ عَنْ جَبَلٍ‌، <format class=\"Z\">يَوْمَ اَلسَّبْتِ‌</format> لَرَدَّهُ اَللَّهُ إِلَى مَكَانِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849817,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2432\"><format class=\"hadith\" who=\"\" Id=\"789\" RevayatIndex=\"\"><format class=\"l\" MasumNo=\"8\"><format class=\"RevayatIndex\" index=\"803\"/>وَ: كَتَبَ بَعْضُ <format class=\"V\">اَلْبَغْدَادِيِّينَ‌</format> إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">أَبِي اَلْحَسَنِ اَلثَّانِي (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، سَأَلَهُ عَنِ اَلْخُرُوجِ <format class=\"Z\">يَوْمَ اَلْأَرْبِعَاءِ‌</format> لِأُمُورٍ، فَكَتَبَ (عَلَيْهِ اَلسَّلاَمُ‌): مَنْ خَرَجَ <format class=\"Z\">يَوْمَ اَلْأَرْبِعَاءِ‌</format> لِأُمُورٍ، خِلاَفاً عَلَى أَهْلِ اَلطِّيَرَةِ‌، وُقِيَ مِنْ كُلِّ آفَةٍ‌، وَ عُوفِيَ مِنْ كُلِّ عَاهَةٍ‌، وَ قُضِيَتْ لَهُ حَاجَتُهُ‌</format>.</format></p>"
+        },
+        {
+          "paragraphId": 687849818,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2433\"><format class=\"hadith\" who=\"14\" Id=\"790\" RevayatIndex=\"804\"><format class=\"sanadHadith\">وَ قَدْ مَرَّتْ رِوَايَةُ‌:</format> مَنْ أَرَادَ اَلْبَقَاءَ‌، وَ لاَ بَقَاءَ‌، فَلْيُبَاكِرِ بِالْغَدَاءِ‌، وَ لْيُجَدِّدِ اَلْحَذَّاءَ‌، وَ لْيُخَفِّفِ اَلرِّدَاءَ‌، وَ لْيُقِلَّ مِنْ مُجَامَعَةِ اَلنِّسَاءِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849819,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2434\"><format class=\"hadith\" who=\"6\" Id=\"791\" RevayatIndex=\"805\"><format class=\"sanadHadith\">وَ قَالَ اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌):</format> مَنْ تَصَدَّقَ بِصَدَقَةٍ إِذَا أَصْبَحَ‌، رَفَعَ اَللَّهُ نَحْسَ ذَلِكَ اَلْيَوْمِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849820,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2435\"><format class=\"hadith\" who=\"4,5\" Id=\"792\" RevayatIndex=\"806\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"5\">أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format> كَانَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"4\">عَلِيُّ بْنُ اَلْحُسَيْنِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> إِذَا أَرَادَ اَلْخُرُوجَ إِلَى بَعْضِ أَحْوَالِهِ‌، اِشْتَرَى اَلسَّلاَمَةَ مِنَ اَللَّهِ تَعَالَى بِمَا تَيَسَّرَ لَهُ‌، وَ يَكُونُ ذَلِكَ إِذَا وَضَعَ رِجْلَهُ فِي اَلرِّكَابِ‌، وَ إِذَا سَلَّمَهُ اَللَّهُ‌، وَ اِنْصَرَفَ‌، حَمِدَ اَللَّهَ تَعَالَى، وَ شَكَرَهُ‌، وَ تَصَدَّقَ بِمَا تَيَسَّرَ لَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849821,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2436\"><format class=\"hadith\" who=\"14\" Id=\"793\" RevayatIndex=\"807\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>مَنْ خَرَجَ فِي سَفَرِهِ وَ مَعَهُ عَصَا لَوْزٍ مُرٍّ، وَ تَلاَ هَذِهِ اَلْآيَةَ‌: <format class=\"ayah\" surah=\"28\" ayah=\"22\" toAyah=\"\">وَ لَمّٰا تَوَجَّهَ تِلْقٰاءَ مَدْيَنَ <format class=\"ayahWord\" fromWord=\"1\" toWord=\"5\"/><format class=\"ayahAddress\" surah=\"28\" ayah=\"22\" toAyah=\"\"/></format>- إِلَى قَوْلِهِ - <format class=\"ayah\" surah=\"28\" ayah=\"28\" toAyah=\"\">وَ اَللّٰهُ عَلىٰ مٰا نَقُولُ وَكِيلٌ‌<format class=\"ayahWord\" fromWord=\"12\" toWord=\"17\"/><format class=\"ayahAddress\" surah=\"28\" ayah=\"28\" toAyah=\"\"/></format> آمَنَهُ اَللَّهُ مِنْ كُلِّ سَبُعٍ ضَارٍ، وَ مِنْ كُلِّ لِصٍّ عَادٍ، وَ مِنْ كُلِّ ذَاتِ حُمَةٍ‌، حَتَّى يَرْجِعَ إِلَى أَهْلِهِ‌، وَ مَنْزِلِهِ‌، وَ كَانَ مَعَهُ سَبْعَةٌ وَ سَبْعُونَ مِنَ اَلْمُعَقِّبَاتِ‌، يَسْتَغْفِرُونَ لَهُ حَتَّى يَرْجِعَ‌، يَضَعُهَا.</format></p>"
+        },
+        {
+          "paragraphId": 687849822,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2437\"><format class=\"hadith\" who=\"14\" Id=\"794\" RevayatIndex=\"808\"><format class=\"sanadHadith\">وَ قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>حَمْلُ اَلْعَصَا، يَنْفِي اَلْفَقْرَ، وَ لاَ يُجَاوِرُهُ <format class=\"C\" Number=\"\">شَيْطَانٌ‌</format>.</format></p>"
+        },
+        {
+          "paragraphId": 687849823,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2438\"><page number=\"217\"/><format class=\"hadith\" who=\"14\" Id=\"795\" RevayatIndex=\"809\"><format class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</format> مَنْ أَرَادَ أَنْ تُطْوَى لَهُ اَلْأَرْضُ‌، فَلْيَتَّخِذِ اَلنُّقُدَ مِنَ اَلْعَصَا. وَ اَلنُّقُدُ عَصَا لَوْزٍ مُرٍّ.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "216",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2428\" paragraph-id=\"2428\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo216\">216</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</span> لِيَحْذَرْ أَحَدُكُمْ أَنْ يُعَوِّقَ أَخَاهُ عَنِ اَلْحَجِّ‌، فَتُصِيبَهُ فِتْنَةٌ فِي دُنْيَاهُ‌، مَعَ مَا يُدَّخَرُ فِي اَلْآخِرَةِ‌.</span>\n  </p>\n  <p id=\"p2429\" paragraph-id=\"2429\" class=\" G\">بيان: الفتنة: البلاء، و المرض، و المصيبة، و العذاب، و الكفر، و غير ذلك من البليات.</p>\n  <p id=\"p2430\" paragraph-id=\"2430\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>سَافِرُوا تَصِحُّوا، وَ جَاهِدُوا تَغْنَمُوا، وَ حُجُّوا تَسْتَغْنُوا.</span>\n  </p>\n  <p id=\"p2431\" paragraph-id=\"2431\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (عَلَيْهِ اَلسَّلاَمُ‌):</span> مَنْ أَرَادَ سَفَراً، فَلْيُسَافِرْ <span class=\"Z\">يَوْمَ اَلسَّبْتِ‌</span>، فَلَوْ أَنَّ حَجَراً زَالَ عَنْ جَبَلٍ‌، <span class=\"Z\">يَوْمَ اَلسَّبْتِ‌</span> لَرَدَّهُ اَللَّهُ إِلَى مَكَانِهِ‌.</span>\n  </p>\n  <p id=\"p2432\" paragraph-id=\"2432\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"RevayatIndex\"></span>وَ: كَتَبَ بَعْضُ <span class=\"V\">اَلْبَغْدَادِيِّينَ‌</span> إِلَى <span class=\"Y\"><span class=\"maasoom\">أَبِي اَلْحَسَنِ اَلثَّانِي (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، سَأَلَهُ عَنِ اَلْخُرُوجِ <span class=\"Z\">يَوْمَ اَلْأَرْبِعَاءِ‌</span> لِأُمُورٍ، فَكَتَبَ (عَلَيْهِ اَلسَّلاَمُ‌): مَنْ خَرَجَ <span class=\"Z\">يَوْمَ اَلْأَرْبِعَاءِ‌</span> لِأُمُورٍ، خِلاَفاً عَلَى أَهْلِ اَلطِّيَرَةِ‌، وُقِيَ مِنْ كُلِّ آفَةٍ‌، وَ عُوفِيَ مِنْ كُلِّ عَاهَةٍ‌، وَ قُضِيَتْ لَهُ حَاجَتُهُ‌</span>.</span>\n  </p>\n  <p id=\"p2433\" paragraph-id=\"2433\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَدْ مَرَّتْ رِوَايَةُ‌:</span> مَنْ أَرَادَ اَلْبَقَاءَ‌، وَ لاَ بَقَاءَ‌، فَلْيُبَاكِرِ بِالْغَدَاءِ‌، وَ لْيُجَدِّدِ اَلْحَذَّاءَ‌، وَ لْيُخَفِّفِ اَلرِّدَاءَ‌، وَ لْيُقِلَّ مِنْ مُجَامَعَةِ اَلنِّسَاءِ‌.</span>\n  </p>\n  <p id=\"p2434\" paragraph-id=\"2434\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ اَلصَّادِقُ (عَلَيْهِ اَلسَّلاَمُ‌):</span> مَنْ تَصَدَّقَ بِصَدَقَةٍ إِذَا أَصْبَحَ‌، رَفَعَ اَللَّهُ نَحْسَ ذَلِكَ اَلْيَوْمِ‌.</span>\n  </p>\n  <p id=\"p2435\" paragraph-id=\"2435\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span> كَانَ <span class=\"Y\"><span class=\"maasoom\">عَلِيُّ بْنُ اَلْحُسَيْنِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> إِذَا أَرَادَ اَلْخُرُوجَ إِلَى بَعْضِ أَحْوَالِهِ‌، اِشْتَرَى اَلسَّلاَمَةَ مِنَ اَللَّهِ تَعَالَى بِمَا تَيَسَّرَ لَهُ‌، وَ يَكُونُ ذَلِكَ إِذَا وَضَعَ رِجْلَهُ فِي اَلرِّكَابِ‌، وَ إِذَا سَلَّمَهُ اَللَّهُ‌، وَ اِنْصَرَفَ‌، حَمِدَ اَللَّهَ تَعَالَى، وَ شَكَرَهُ‌، وَ تَصَدَّقَ بِمَا تَيَسَّرَ لَهُ‌.</span>\n  </p>\n  <p id=\"p2436\" paragraph-id=\"2436\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>مَنْ خَرَجَ فِي سَفَرِهِ وَ مَعَهُ عَصَا لَوْزٍ مُرٍّ، وَ تَلاَ هَذِهِ اَلْآيَةَ‌: <span style=\"0\" class=\"ayah\" surah=\"28\" ayah=\"22\">وَ لَمّٰا تَوَجَّهَ تِلْقٰاءَ مَدْيَنَ <span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/28/22\"></a></span></span>- إِلَى قَوْلِهِ - <span style=\"0\" class=\"ayah\" surah=\"28\" ayah=\"28\">وَ اَللّٰهُ عَلىٰ مٰا نَقُولُ وَكِيلٌ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/28/28\"></a></span></span> آمَنَهُ اَللَّهُ مِنْ كُلِّ سَبُعٍ ضَارٍ، وَ مِنْ كُلِّ لِصٍّ عَادٍ، وَ مِنْ كُلِّ ذَاتِ حُمَةٍ‌، حَتَّى يَرْجِعَ إِلَى أَهْلِهِ‌، وَ مَنْزِلِهِ‌، وَ كَانَ مَعَهُ سَبْعَةٌ وَ سَبْعُونَ مِنَ اَلْمُعَقِّبَاتِ‌، يَسْتَغْفِرُونَ لَهُ حَتَّى يَرْجِعَ‌، يَضَعُهَا.</span>\n  </p>\n  <p id=\"p2437\" paragraph-id=\"2437\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>حَمْلُ اَلْعَصَا، يَنْفِي اَلْفَقْرَ، وَ لاَ يُجَاوِرُهُ <span class=\"C\">شَيْطَانٌ‌</span>.</span>\n  </p>\n  <p id=\"p2438\" paragraph-id=\"2438\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "4F798018-77E2-46DE-8AE1-19119F13E5B0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

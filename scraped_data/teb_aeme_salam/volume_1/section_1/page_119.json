@@ -1,0 +1,121 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 119,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848758,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1351\"><format class=\"hadith\" who=\"6\" Id=\"293\" RevayatIndex=\"299\"><page number=\"119\"/>«اَللَّحْمُ يُنْبِتُ اَللَّحْمَ‌، وَ مَنْ تَرَكَهُ أَرْبَعِينَ يَوْماً سَاءَ خُلُقُهُ‌، وَ مَنْ سَاءَ خُلُقُهُ‌، فَأَذِّنُوا فِي أُذُنِهِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848759,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1352\"><format class=\"hadith\" who=\"8\" Id=\"294\" RevayatIndex=\"300\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ خَالِدٍ</format>، عَنْ <format class=\"G\">سَعْدِ بْنِ سَعْدٍ</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848760,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1353\"><format class=\"hadith\" who=\"8\" Id=\"294\" RevayatIndex=\"300\">قُلْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">لِأَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌</format></format>): إِنَّ أَهْلَ بَيْتِي لاَ يَأْكُلُونَ لَحْمَ اَلضَّأْنِ‌، فَقَالَ‌: وَ لِمَ؟!.</format></p>"
+        },
+        {
+          "paragraphId": 687848761,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1354\"><format class=\"hadith\" who=\"8\" Id=\"294\" RevayatIndex=\"300\">قُلْتُ‌: إِنَّهُمْ يَقُولُونَ‌: إِنَّهُ يُهَيِّجُ بِهِمُ اَلْمِرَّةَ اَلسَّوْدَاءَ‌، وَ اَلصُّدَاعَ‌، وَ اَلْأَوْجَاعَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848762,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1355\"><format class=\"hadith\" who=\"8\" Id=\"294\" RevayatIndex=\"300\">فَقَالَ‌: يَا <format class=\"d\">سَعْدُ</format>!.</format></p>"
+        },
+        {
+          "paragraphId": 687848763,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1356\"><format class=\"hadith\" who=\"8\" Id=\"294\" RevayatIndex=\"300\">فَقُلْتُ‌: لَبَّيْكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848764,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1357\"><format class=\"hadith\" who=\"8\" Id=\"294\" RevayatIndex=\"300\">قَالَ‌: «لَوْ عَلِمَ اَللَّهُ شَيْئاً أَكْرَمَ مِنَ اَلضَّأْنِ‌، لَفَدَى بِهِ إِسْمَاعِيلَ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848765,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1358\"><format class=\"hadith\" who=\"13,5\" Id=\"295\" RevayatIndex=\"301\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">عَلِيِّ بْنِ اَلْحَسَنِ اَلْمِيثَمِيِّ‌</format>، عَنْ <format class=\"G\">سُلَيْمَانَ بْنِ عَبّادٍ</format>، عَنْ <format class=\"G\">عِيسَى بْنِ أَبِي اَلْوَرْدِ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ قَيْسٍ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌</format></format>)، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848766,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1359\"><format class=\"hadith\" who=\"13,5\" Id=\"295\" RevayatIndex=\"301\">إِنَّ <format class=\"V\">بَنِي إِسْرَائِيلَ‌</format> شَكَوْا إِلَى <format class=\"E\" Number=\"\">مُوسَى</format>، مَا يَلْقَوْنَ مِنَ اَلْبَيَاضِ‌، فَشَكَا ذَلِكَ إِلَى اَللَّهِ عَزَّ وَ جَلَّ‌، فَأَوْحَى اَللَّهُ عَزَّ وَ جَلَّ إِلَيْهِ‌؛ مُرْهُمْ يَأْكُلُوا لَحْمَ اَلْبَقَرِ بِالسِّلْقِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848767,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1360\"><format class=\"hadith\" who=\"6\" Id=\"296\" RevayatIndex=\"302\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْعِدَّةِ‌</format>، عَنْ <format class=\"G\">سَهْلِ بْنِ زِيَادٍ</format>، عَنْ <format class=\"G\">يَحْيَى بْنِ اَلْمُبَارَكِ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ جَبَلَةَ‌</format>، عَنْ <format class=\"G\">أَبِي اَلصَّبَّاحِ اَلْكِنَانِيِّ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌</format></format>)، قَالَ‌:</format> مَرَقُ لَحْمِ اَلْبَقَرِ، يَذْهَبُ بِالْبَيَاضِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848768,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1361\"><format class=\"hadith\" who=\"7\" Id=\"297\" RevayatIndex=\"303\"><format class=\"sanadHadith\">وَ <format class=\"G\">عَنْهُمْ‌</format>، عَنْ <format class=\"G\">سَهْلٍ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ إِسْمَاعِيلَ بْنِ بَزِيعٍ‌</format>، عَنْ <format class=\"G\">يَحْيَى بْنِ مُسَاوِرٍ</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أَبِي إِبْرَاهِيمَ (عَلَيْهِ اَلسَّلاَمُ‌</format></format>)، قَالَ‌:</format> اَلسَّوِيقُ وَ مَرَقُ لَحْمِ اَلْبَقَرِ، يَذْهَبَانِ بِالْوَضَحِ‌<lfootnote noteId=\"66\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 687848769,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1362\"><format class=\"hadith\" who=\"6\" Id=\"298\" RevayatIndex=\"304\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ خَالِدٍ</format>، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ اَلْمُغِيرَةِ‌</format>، عَنْ <format class=\"G\">إِسْمَاعِيلَ بْنِ أَبِي زِيَادٍ</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌</format></format>)، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848770,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1363\"><format class=\"hadith\" who=\"6\" Id=\"298\" RevayatIndex=\"304\">«أَلْبَانُ اَلْبَقَرِ، دَوَاءٌ‌، وَ سُمُونُهَا شِفَاءٌ‌، وَ لُحُومُهَا دَاءٌ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848771,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1364\"><page number=\"120\"/><format class=\"hadith\" who=\"6\" Id=\"299\" RevayatIndex=\"305\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">عَلِيِّ بْنِ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي مُضَرَ</format>، عَنْ <format class=\"G\">حَمَّادِ بْنِ عُثْمَانَ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ سُوقَةَ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌</format></format>)، قَالَ‌: </format>«مَنْ أَكَلَ لُقْمَةَ شَحْمٍ‌، أَخْرَجَتْ مِثْلَهَا مِنَ اَلدَّاءِ‌».</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851699,
+          "text": "<footnote id=\"66\"><page number=\"119\"/><mnote>(1)</mnote> اَلْوَضَحُ‌: اَلْبَرَصُ‌.</footnote>"
+        }
+      ],
+      "pageValue": "119",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1351\" paragraph-id=\"1351\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo119\">119</span>«اَللَّحْمُ يُنْبِتُ اَللَّحْمَ‌، وَ مَنْ تَرَكَهُ أَرْبَعِينَ يَوْماً سَاءَ خُلُقُهُ‌، وَ مَنْ سَاءَ خُلُقُهُ‌، فَأَذِّنُوا فِي أُذُنِهِ‌».</span>\n  </p>\n  <p id=\"p1352\" paragraph-id=\"1352\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ خَالِدٍ</span>، عَنْ <span class=\"G\">سَعْدِ بْنِ سَعْدٍ</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1353\" paragraph-id=\"1353\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ <span class=\"Y\"><span class=\"maasoom\">لِأَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌</span></span>): إِنَّ أَهْلَ بَيْتِي لاَ يَأْكُلُونَ لَحْمَ اَلضَّأْنِ‌، فَقَالَ‌: وَ لِمَ؟!.</span>\n  </p>\n  <p id=\"p1354\" paragraph-id=\"1354\" class=\" G\">\n    <span class=\"hadith\">قُلْتُ‌: إِنَّهُمْ يَقُولُونَ‌: إِنَّهُ يُهَيِّجُ بِهِمُ اَلْمِرَّةَ اَلسَّوْدَاءَ‌، وَ اَلصُّدَاعَ‌، وَ اَلْأَوْجَاعَ‌.</span>\n  </p>\n  <p id=\"p1355\" paragraph-id=\"1355\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ‌: يَا <span class=\"d\">سَعْدُ</span>!.</span>\n  </p>\n  <p id=\"p1356\" paragraph-id=\"1356\" class=\" G\">\n    <span class=\"hadith\">فَقُلْتُ‌: لَبَّيْكَ‌.</span>\n  </p>\n  <p id=\"p1357\" paragraph-id=\"1357\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: «لَوْ عَلِمَ اَللَّهُ شَيْئاً أَكْرَمَ مِنَ اَلضَّأْنِ‌، لَفَدَى بِهِ إِسْمَاعِيلَ‌».</span>\n  </p>\n  <p id=\"p1358\" paragraph-id=\"1358\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">عَلِيِّ بْنِ اَلْحَسَنِ اَلْمِيثَمِيِّ‌</span>، عَنْ <span class=\"G\">سُلَيْمَانَ بْنِ عَبّادٍ</span>، عَنْ <span class=\"G\">عِيسَى بْنِ أَبِي اَلْوَرْدِ</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ قَيْسٍ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌</span></span>)، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1359\" paragraph-id=\"1359\" class=\" G\">\n    <span class=\"hadith\">إِنَّ <span class=\"V\">بَنِي إِسْرَائِيلَ‌</span> شَكَوْا إِلَى <span class=\"E\">مُوسَى</span>، مَا يَلْقَوْنَ مِنَ اَلْبَيَاضِ‌، فَشَكَا ذَلِكَ إِلَى اَللَّهِ عَزَّ وَ جَلَّ‌، فَأَوْحَى اَللَّهُ عَزَّ وَ جَلَّ إِلَيْهِ‌؛ مُرْهُمْ يَأْكُلُوا لَحْمَ اَلْبَقَرِ بِالسِّلْقِ‌.</span>\n  </p>\n  <p id=\"p1360\" paragraph-id=\"1360\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلْعِدَّةِ‌</span>، عَنْ <span class=\"G\">سَهْلِ بْنِ زِيَادٍ</span>، عَنْ <span class=\"G\">يَحْيَى بْنِ اَلْمُبَارَكِ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ جَبَلَةَ‌</span>، عَنْ <span class=\"G\">أَبِي اَلصَّبَّاحِ اَلْكِنَانِيِّ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌</span></span>)، قَالَ‌:</span> مَرَقُ لَحْمِ اَلْبَقَرِ، يَذْهَبُ بِالْبَيَاضِ‌.</span>\n  </p>\n  <p id=\"p1361\" paragraph-id=\"1361\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ <span class=\"G\">عَنْهُمْ‌</span>، عَنْ <span class=\"G\">سَهْلٍ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ إِسْمَاعِيلَ بْنِ بَزِيعٍ‌</span>، عَنْ <span class=\"G\">يَحْيَى بْنِ مُسَاوِرٍ</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي إِبْرَاهِيمَ (عَلَيْهِ اَلسَّلاَمُ‌</span></span>)، قَالَ‌:</span> اَلسَّوِيقُ وَ مَرَقُ لَحْمِ اَلْبَقَرِ، يَذْهَبَانِ بِالْوَضَحِ‌<span><sup><a class=\"NewFn\" href=\"#footnote66\" title=\"(1)  اَلْوَضَحُ‌: اَلْبَرَصُ‌.\">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p1362\" paragraph-id=\"1362\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ خَالِدٍ</span>، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ اَلْمُغِيرَةِ‌</span>، عَنْ <span class=\"G\">إِسْمَاعِيلَ بْنِ أَبِي زِيَادٍ</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌</span></span>)، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1363\" paragraph-id=\"1363\" class=\" G\">\n    <span class=\"hadith\">«أَلْبَانُ اَلْبَقَرِ، دَوَاءٌ‌، وَ سُمُونُهَا شِفَاءٌ‌، وَ لُحُومُهَا دَاءٌ‌».</span>\n  </p>\n  <p id=\"p1364\" paragraph-id=\"1364\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote66\" footnote-id=\"66\">(1) <page number=\"119\" /> اَلْوَضَحُ‌: اَلْبَرَصُ‌.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "342767CE-890D-4D76-ABEF-FD76EF3CE435",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

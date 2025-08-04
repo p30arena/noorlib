@@ -1,0 +1,116 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 57,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848036,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"636\"><format class=\"hadith\" who=\"6\" Id=\"48\" RevayatIndex=\"48\"><page number=\"57\"/>مَنْ ظَهَرَتْ صِحَّتُهُ عَلَى سُقْمِهِ‌، فَعَالَجَ نَفْسَهُ بِشَيْ‌ءٍ‌، فَمَاتَ‌، فَأَنَا إِلَى اَللَّهِ مِنْهُ بَرِيءٌ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848037,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"637\"><format class=\"hadith\" who=\"7\" Id=\"49\" RevayatIndex=\"49\"><format class=\"sanadHadith\"><format class=\"K\">اَلْعِلَلِ‌</format>: <format class=\"G\">أَبِي</format> عَنْ <format class=\"G\">سَعْدِ بْنِ عَبْدِ اَللَّهِ‌</format>، عَنْ <format class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</format>، عَنْ <format class=\"G\">بَكْرِ بْنِ صَالِحٍ اَلْجَعْفَرِيِّ‌</format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848038,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"638\"><format class=\"hadith\" who=\"7\" Id=\"49\" RevayatIndex=\"49\"><format class=\"sanadHadith\">سَمِعْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"7\">أَبَا اَلْحَسَنِ مُوسَى بْنَ جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> يَقُولُ‌:</format> اِدْفَعُوا مُعَالَجَةَ اَلْأَطِبَّاءِ‌، مَا اِنْدَفَعَ اَلدَّاءُ عَنْكُمْ‌، فَإِنَّهُ بِمَنْزِلَةِ اَلْبِنَاءِ‌، قَلِيلُهُ يَجُرُّ إِلَى كَثِيرِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848039,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"639\"><format class=\"hadith\" who=\"1\" Id=\"50\" RevayatIndex=\"50\"><format class=\"sanadHadith\">اَلْمُهَجِ‌:</format> اِمْشِ بِدَائِكَ مَا مَشَى بِكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848040,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"640\"><format class=\"hadith\" who=\"14,6,10\" Id=\"51\" RevayatIndex=\"51\"><format class=\"sanadHadith\">طِبِّ اَلْأَئِمَّةِ‌: مُحَمَّدُ بْنُ إِبْرَاهِيمَ اَلْعَلَوِيُّ‌، عَنْ أَبِيهِ‌، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدٍ، عَنْ أَبِي اَلْحَسَنِ اَلْعَسْكَرِيِّ (عَلَيْهِ اَلسَّلاَمُ‌) عَنْ آبَائِهِ (عَلَيْهِمُ اَلسَّلاَمُ‌) قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848041,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"641\"><format class=\"hadith\" who=\"14,6,10\" Id=\"51\" RevayatIndex=\"51\">قِيلَ لِلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌): اَلرَّجُلُ يَكْتَوِي بِالنَّارِ، وَ رُبَّمَا قُتِلَ‌، وَ رُبَّمَا تَخَلَّصَ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687848042,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"642\"><format class=\"hadith\" who=\"14,6,10\" Id=\"51\" RevayatIndex=\"51\">قَالَ‌: اِكْتَوَى رَجُلٌ عَلَى عَهْدِ رَسُولِ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ وَ هُوَ قَائِمٌ عَلَى رَأْسِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848043,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"643\"><format class=\"hadith\" who=\"5\" Id=\"52\" RevayatIndex=\"52\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">جَعْفَرِ بْنِ عَبْدِ اَلْوَاحِدِ</format>، عَنِ <format class=\"G\">اَلنَّضْرِ بْنِ سُوَيْدٍ</format>، عَنْ <format class=\"G\">عَاصِمِ بْنِ حُمَيْدٍ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ مُسْلِمٍ‌</format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848044,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"644\"><format class=\"hadith\" who=\"5\" Id=\"52\" RevayatIndex=\"52\">سَأَلْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">أَبَا جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: هَلْ يُعَالَجُ اَلرَّجُلُ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687848045,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"645\"><format class=\"hadith\" who=\"5\" Id=\"52\" RevayatIndex=\"52\">فَقَالَ‌: نَعَمْ‌، إِنَّ اَللَّهَ جَعَلَ فِي اَلدَّوَاءِ بَرَكَةً‌، وَ شِفَاءً‌، وَ خَيْراً كَثِيراً، وَ مَا عَلَى اَلرَّجُلِ أَنْ يَتَدَاوَى، فَلاَ بَأْسَ بِهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848046,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"646\"><format class=\"hadith\" who=\"6\" Id=\"53\" RevayatIndex=\"53\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">إِبْرَاهِيمَ بْنِ مُسْلِمٍ‌</format>، عَنْ <format class=\"G\">عَبْدِ اَلرَّحْمَنِ بْنِ أَبِي نَجْرَانَ‌</format>، عَنْ <format class=\"G\">يُوسُفَ بْنِ يَعْقُوبَ‌</format>، قَالَ‌:</format> سَأَلْتُ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> عَنِ اَلرَّجُلِ يَشْرَبُ اَلدَّوَاءَ‌، وَ رُبَّمَا يَسْلَمُ مِنْهُ‌، وَ رُبَّمَا قُتِلَ‌، وَ مَا يَسْلَمُ أَكْثَرُ؟.</format></p>"
+        },
+        {
+          "paragraphId": 687848047,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"647\"><format class=\"hadith\" who=\"6\" Id=\"53\" RevayatIndex=\"53\">فَقَالَ‌: أَنْزَلَ اَللَّهُ اَلدَّاءَ‌، وَ أَنْزَلَ اَلشِّفَاءَ‌، وَ مَا خَلَقَ اَللَّهُ دَاءً إِلاَّ وَ جَعَلَ لَهُ دَوَاءً‌، فَاشْرَبْ وَ سَمِّ اَللَّهَ تَعَالَى.</format></p>"
+        },
+        {
+          "paragraphId": 687848048,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"648\"><format class=\"hadith\" who=\"14\" Id=\"54\" RevayatIndex=\"54\"><format class=\"sanadHadith\">قُرْبِ اَلْأَسْنَادِ: اَلْحُسَيْنُ بْنُ عُلْوَانَ‌، عَنْ جَعْفَرٍ، عَنْ أَبِيهِ‌، عَنْ جَابِرٍ قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848049,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"649\"><format class=\"hadith\" who=\"14\" Id=\"54\" RevayatIndex=\"54\"><page number=\"58\"/>قِيلَ يَا رَسُولَ اَللَّهِ‌! أَ نَتَدَاوَى‌؟.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "57",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p636\" paragraph-id=\"636\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo57\">57</span>مَنْ ظَهَرَتْ صِحَّتُهُ عَلَى سُقْمِهِ‌، فَعَالَجَ نَفْسَهُ بِشَيْ‌ءٍ‌، فَمَاتَ‌، فَأَنَا إِلَى اَللَّهِ مِنْهُ بَرِيءٌ‌.</span>\n  </p>\n  <p id=\"p637\" paragraph-id=\"637\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْعِلَلِ‌</span>: <span class=\"G\">أَبِي</span> عَنْ <span class=\"G\">سَعْدِ بْنِ عَبْدِ اَللَّهِ‌</span>، عَنْ <span class=\"G\">أَحْمَدَ بْنِ مُحَمَّدٍ</span>، عَنْ <span class=\"G\">بَكْرِ بْنِ صَالِحٍ اَلْجَعْفَرِيِّ‌</span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p638\" paragraph-id=\"638\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">سَمِعْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا اَلْحَسَنِ مُوسَى بْنَ جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> يَقُولُ‌:</span> اِدْفَعُوا مُعَالَجَةَ اَلْأَطِبَّاءِ‌، مَا اِنْدَفَعَ اَلدَّاءُ عَنْكُمْ‌، فَإِنَّهُ بِمَنْزِلَةِ اَلْبِنَاءِ‌، قَلِيلُهُ يَجُرُّ إِلَى كَثِيرِهِ‌.</span>\n  </p>\n  <p id=\"p639\" paragraph-id=\"639\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْمُهَجِ‌:</span> اِمْشِ بِدَائِكَ مَا مَشَى بِكَ‌.</span>\n  </p>\n  <p id=\"p640\" paragraph-id=\"640\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">طِبِّ اَلْأَئِمَّةِ‌: مُحَمَّدُ بْنُ إِبْرَاهِيمَ اَلْعَلَوِيُّ‌، عَنْ أَبِيهِ‌، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدٍ، عَنْ أَبِي اَلْحَسَنِ اَلْعَسْكَرِيِّ (عَلَيْهِ اَلسَّلاَمُ‌) عَنْ آبَائِهِ (عَلَيْهِمُ اَلسَّلاَمُ‌) قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p641\" paragraph-id=\"641\" class=\" G\">\n    <span class=\"hadith\">قِيلَ لِلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌): اَلرَّجُلُ يَكْتَوِي بِالنَّارِ، وَ رُبَّمَا قُتِلَ‌، وَ رُبَّمَا تَخَلَّصَ؟.</span>\n  </p>\n  <p id=\"p642\" paragraph-id=\"642\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: اِكْتَوَى رَجُلٌ عَلَى عَهْدِ رَسُولِ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ وَ هُوَ قَائِمٌ عَلَى رَأْسِهِ‌.</span>\n  </p>\n  <p id=\"p643\" paragraph-id=\"643\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">جَعْفَرِ بْنِ عَبْدِ اَلْوَاحِدِ</span>، عَنِ <span class=\"G\">اَلنَّضْرِ بْنِ سُوَيْدٍ</span>، عَنْ <span class=\"G\">عَاصِمِ بْنِ حُمَيْدٍ</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ مُسْلِمٍ‌</span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p644\" paragraph-id=\"644\" class=\" G\">\n    <span class=\"hadith\">سَأَلْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا جَعْفَرٍ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: هَلْ يُعَالَجُ اَلرَّجُلُ؟.</span>\n  </p>\n  <p id=\"p645\" paragraph-id=\"645\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ‌: نَعَمْ‌، إِنَّ اَللَّهَ جَعَلَ فِي اَلدَّوَاءِ بَرَكَةً‌، وَ شِفَاءً‌، وَ خَيْراً كَثِيراً، وَ مَا عَلَى اَلرَّجُلِ أَنْ يَتَدَاوَى، فَلاَ بَأْسَ بِهِ‌.</span>\n  </p>\n  <p id=\"p646\" paragraph-id=\"646\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">إِبْرَاهِيمَ بْنِ مُسْلِمٍ‌</span>، عَنْ <span class=\"G\">عَبْدِ اَلرَّحْمَنِ بْنِ أَبِي نَجْرَانَ‌</span>، عَنْ <span class=\"G\">يُوسُفَ بْنِ يَعْقُوبَ‌</span>، قَالَ‌:</span> سَأَلْتُ <span class=\"Y\"><span class=\"maasoom\">أَبَا عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> عَنِ اَلرَّجُلِ يَشْرَبُ اَلدَّوَاءَ‌، وَ رُبَّمَا يَسْلَمُ مِنْهُ‌، وَ رُبَّمَا قُتِلَ‌، وَ مَا يَسْلَمُ أَكْثَرُ؟.</span>\n  </p>\n  <p id=\"p647\" paragraph-id=\"647\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ‌: أَنْزَلَ اَللَّهُ اَلدَّاءَ‌، وَ أَنْزَلَ اَلشِّفَاءَ‌، وَ مَا خَلَقَ اَللَّهُ دَاءً إِلاَّ وَ جَعَلَ لَهُ دَوَاءً‌، فَاشْرَبْ وَ سَمِّ اَللَّهَ تَعَالَى.</span>\n  </p>\n  <p id=\"p648\" paragraph-id=\"648\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قُرْبِ اَلْأَسْنَادِ: اَلْحُسَيْنُ بْنُ عُلْوَانَ‌، عَنْ جَعْفَرٍ، عَنْ أَبِيهِ‌، عَنْ جَابِرٍ قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p649\" paragraph-id=\"649\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "AA2728E6-9361-4F92-AA24-57F9587F48F6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

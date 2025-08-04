@@ -1,0 +1,104 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 111,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848671,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1264\"><page number=\"111\"/><format class=\"hadith\" who=\"14\" Id=\"252\" RevayatIndex=\"257\"><format class=\"sanadHadith\">اَلْفَقِيهِ‌: عَنْ حَمَّادِ بْنِ عَمْرٍو، وَ أَنَسِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ‌، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ عَنْ آبَائِهِ‌:</format> فِي وَصِيَّةِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ لِعَلِيٍّ (عَلَيْهِ اَلسَّلاَمُ‌) أَنَّهُ قَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687848672,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1265\"><format class=\"hadith\" who=\"14\" Id=\"252\" RevayatIndex=\"257\">«يَا عَلِيُّ‌! اِفْتَتِحْ بِالْمِلْحِ‌، وَ اِخْتِمْ بِالْمِلْحِ‌، فَإِنَّ فِيهِ شِفَاءً مِنِ اِثْنَيْنِ وَ سَبْعِينَ دَاءً‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848673,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1266\">المحاسن: روى أكثر الأخبار السابقة.</p>"
+        },
+        {
+          "paragraphId": 687848674,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1267\"><format class=\"hadith\" who=\"6\" Id=\"253\" RevayatIndex=\"258\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلْقَاسِمِ بْنِ يَحْيَى</format>، عَنْ <format class=\"G\">جَدِّهِ‌</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ مُسْلِمٍ‌</format>، عَنْ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌) </format></format>قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848675,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1268\"><format class=\"hadith\" who=\"6\" Id=\"253\" RevayatIndex=\"258\">«مَنِ اِبْتَدَأَ طَعَامَهُ بِالْمِلْحِ‌، ذَهَبَ عَنْهُ سَبْعُونَ دَاءً‌، لاَ يَعْلَمُهَا إِلاَّ اَللَّهُ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848676,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1269\"><format class=\"hadith\" who=\"1,6\" Id=\"254\" RevayatIndex=\"259\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">بَعْضِ أَصْحَابِنَا</format>، عَنِ <format class=\"G\">اَلْأَصَمِّ‌</format>، عَنْ <format class=\"G\">شُعَيْبٍ‌</format>، عَنْ <format class=\"G\">أَبِي بَصِيرٍ</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848677,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1270\"><format class=\"hadith\" who=\"1,6\" Id=\"254\" RevayatIndex=\"259\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"1\">عَلِيٌّ عَلَيْهِ اَلسَّلاَمُ‌</format></format>: </format>«مَنْ بَدَأَ بِالْمِلْحِ‌، أَذْهَبَ اَللَّهُ عَنْهُ سَبْعِينَ دَاءً مَا يَعْلَمُ اَلْعِبَادُ مَا هِيَ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848678,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1271\"><format class=\"hadith\" who=\"6\" Id=\"255\" RevayatIndex=\"260\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ أَحْمَدَ</format>، عَنِ <format class=\"G\">اِبْنِ أَبِي مَحْمُودٍ</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، رَفَعَهُ قَالَ‌: قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: </format>«مَنْ ذَرَّ اَلْمِلْحَ عَلَى أَوَّلِ لُقْمَةٍ يَأْكُلُهَا، فَقَدِ اِسْتَقْبَلَ اَلْغِنَى».</format></p>"
+        },
+        {
+          "paragraphId": 687848679,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1272\"><format class=\"hadith\" who=\"14,7\" Id=\"256\" RevayatIndex=\"261\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">أَبِيهِ‌</format>، <format class=\"G\">عَمَّنْ ذَكَرَهُ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"7\">أَبِي اَلْحَسَنِ مُوسَى بْنِ جَعْفَرٍ</format></format>، عَنْ <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِيهِ‌</format></format>، عَنْ <format class=\"G\"><format class=\"maasoom\" maasoomNo=\"5\">جَدِّهِ (عَلَيْهِمُ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848680,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1273\"><format class=\"hadith\" who=\"14,7\" Id=\"256\" RevayatIndex=\"261\">كَانَ فِيمَا أَوْصَى بِهِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ </format></format><format class=\"maasoom\" maasoomNo=\"1\">عَلِيّاً</format> أَنْ قَالَ‌: «يَا <format class=\"maasoom\" maasoomNo=\"1\">عَلِيُّ‌</format>! اِفْتَتِحْ طَعَامَكَ بِالْمِلْحِ‌، فَإِنَّ فِيهِ شِفَاءً مِنْ سَبْعِينَ دَاءً‌، مِنْهَا: اَلْجُنُونُ وَ اَلْجُذَامُ‌، وَ اَلْبَرَصُ‌، وَ وَجَعُ اَلْحَلْقِ‌، وَ اَلْأَضْرَاسِ‌، وَ وَجَعُ اَلْبَطْنِ‌».</format></p>"
+        },
+        {
+          "paragraphId": 687848681,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1274\"><format class=\"hadith\" who=\"14\" Id=\"257\" RevayatIndex=\"262\"><format class=\"sanadHadith\">أَقُولُ‌: وَجَدْتُ فِي بَعْضِ اَلْكُتُبِ اَلْمُعْتَبَرَةِ‌، عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌، قَالَ‌:</format> ثَلاَثُ لُقَمَاتٍ بِالْمِلْحِ‌، قَبْلَ اَلطَّعَامِ‌، تَصْرِفُ عَنِ اِبْنِ آدَمَ اِثْنَيْنِ وَ سَبْعِينَ نَوْعاً مِنَ اَلْبَلاَءِ‌، مِنْهَا: اَلْجُذَامُ وَ اَلْبَرَصُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848682,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1275\"><format class=\"hadith\" who=\"14\" Id=\"258\" RevayatIndex=\"263\"><format class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> سَيِّدُ إِدَامِكُمُ اَلْمِلْحُ‌. 14 - <format class=\"RevayatIndex\" index=\"264\"/><format class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</format> مَنْ أَكَلَ اَلْمِلْحَ قَبْلَ كُلِّ‌<page number=\"112\"/> شَيْ‌ءٍ‌، وَ بَعْدَ كُلِّ شَيْ‌ءٍ دَفَعَ اَللَّهُ عَنْهُ‌، ثَلاَثَمِائَةٍ وَ ثَلاَثِينَ نَوْعاً مِنَ اَلْبَلاَءِ‌، أَهْوَنُهَا اَلْجُذَامُ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "111",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1264\" paragraph-id=\"1264\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo111\">111</span>\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْفَقِيهِ‌: عَنْ حَمَّادِ بْنِ عَمْرٍو، وَ أَنَسِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ‌، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ عَنْ آبَائِهِ‌:</span> فِي وَصِيَّةِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ لِعَلِيٍّ (عَلَيْهِ اَلسَّلاَمُ‌) أَنَّهُ قَالَ‌:</span>\n  </p>\n  <p id=\"p1265\" paragraph-id=\"1265\" class=\" G\">\n    <span class=\"hadith\">«يَا عَلِيُّ‌! اِفْتَتِحْ بِالْمِلْحِ‌، وَ اِخْتِمْ بِالْمِلْحِ‌، فَإِنَّ فِيهِ شِفَاءً مِنِ اِثْنَيْنِ وَ سَبْعِينَ دَاءً‌».</span>\n  </p>\n  <p id=\"p1266\" paragraph-id=\"1266\" class=\" G\">المحاسن: روى أكثر الأخبار السابقة.</p>\n  <p id=\"p1267\" paragraph-id=\"1267\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلْقَاسِمِ بْنِ يَحْيَى</span>، عَنْ <span class=\"G\">جَدِّهِ‌</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ مُسْلِمٍ‌</span>، عَنْ <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌) </span></span>قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1268\" paragraph-id=\"1268\" class=\" G\">\n    <span class=\"hadith\">«مَنِ اِبْتَدَأَ طَعَامَهُ بِالْمِلْحِ‌، ذَهَبَ عَنْهُ سَبْعُونَ دَاءً‌، لاَ يَعْلَمُهَا إِلاَّ اَللَّهُ‌».</span>\n  </p>\n  <p id=\"p1269\" paragraph-id=\"1269\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">بَعْضِ أَصْحَابِنَا</span>، عَنِ <span class=\"G\">اَلْأَصَمِّ‌</span>، عَنْ <span class=\"G\">شُعَيْبٍ‌</span>، عَنْ <span class=\"G\">أَبِي بَصِيرٍ</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1270\" paragraph-id=\"1270\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">عَلِيٌّ عَلَيْهِ اَلسَّلاَمُ‌</span></span>: </span>«مَنْ بَدَأَ بِالْمِلْحِ‌، أَذْهَبَ اَللَّهُ عَنْهُ سَبْعِينَ دَاءً مَا يَعْلَمُ اَلْعِبَادُ مَا هِيَ‌».</span>\n  </p>\n  <p id=\"p1271\" paragraph-id=\"1271\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ أَحْمَدَ</span>، عَنِ <span class=\"G\">اِبْنِ أَبِي مَحْمُودٍ</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، رَفَعَهُ قَالَ‌: قَالَ <span class=\"Y\"><span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: </span>«مَنْ ذَرَّ اَلْمِلْحَ عَلَى أَوَّلِ لُقْمَةٍ يَأْكُلُهَا، فَقَدِ اِسْتَقْبَلَ اَلْغِنَى».</span>\n  </p>\n  <p id=\"p1272\" paragraph-id=\"1272\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">أَبِيهِ‌</span>، <span class=\"G\">عَمَّنْ ذَكَرَهُ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي اَلْحَسَنِ مُوسَى بْنِ جَعْفَرٍ</span></span>، عَنْ <span class=\"G\"><span class=\"maasoom\">أَبِيهِ‌</span></span>، عَنْ <span class=\"G\"><span class=\"maasoom\">جَدِّهِ (عَلَيْهِمُ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p1273\" paragraph-id=\"1273\" class=\" G\">\n    <span class=\"hadith\">كَانَ فِيمَا أَوْصَى بِهِ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ </span></span><span class=\"maasoom\">عَلِيّاً</span> أَنْ قَالَ‌: «يَا <span class=\"maasoom\">عَلِيُّ‌</span>! اِفْتَتِحْ طَعَامَكَ بِالْمِلْحِ‌، فَإِنَّ فِيهِ شِفَاءً مِنْ سَبْعِينَ دَاءً‌، مِنْهَا: اَلْجُنُونُ وَ اَلْجُذَامُ‌، وَ اَلْبَرَصُ‌، وَ وَجَعُ اَلْحَلْقِ‌، وَ اَلْأَضْرَاسِ‌، وَ وَجَعُ اَلْبَطْنِ‌».</span>\n  </p>\n  <p id=\"p1274\" paragraph-id=\"1274\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">أَقُولُ‌: وَجَدْتُ فِي بَعْضِ اَلْكُتُبِ اَلْمُعْتَبَرَةِ‌، عَنِ اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌، قَالَ‌:</span> ثَلاَثُ لُقَمَاتٍ بِالْمِلْحِ‌، قَبْلَ اَلطَّعَامِ‌، تَصْرِفُ عَنِ اِبْنِ آدَمَ اِثْنَيْنِ وَ سَبْعِينَ نَوْعاً مِنَ اَلْبَلاَءِ‌، مِنْهَا: اَلْجُذَامُ وَ اَلْبَرَصُ‌.</span>\n  </p>\n  <p id=\"p1275\" paragraph-id=\"1275\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</span> سَيِّدُ إِدَامِكُمُ اَلْمِلْحُ‌. 14 - <span class=\"RevayatIndex\"></span><span class=\"sanadHadith\">وَ قَالَ (صَلَّى اللَّهُ عَلَيْهِ وَ آلِهِ‌):</span> مَنْ أَكَلَ اَلْمِلْحَ قَبْلَ كُلِّ‌</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "12D90A4D-69E1-4947-A85B-115F54F23591",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

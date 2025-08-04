@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 4,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687847427,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"129\"><img src=\"BK12452G001S1P3\" alt=\"\" imgtype=\"Scan\"/><page number=\"4\"/><img src=\"BK12452G001S1P4\" alt=\"\" imgtype=\"Scan\"/><page number=\"5\"/><format class=\"BeginPreface\"/><heading level=\"2\">ترجمة المؤلّف </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "4",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p129\" paragraph-id=\"129\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo4\">4</span>\n    <img src=\"/file/book/page/3WTaW3w0RgtQH7OvtIB6OR-vyTF9-JGr6XIv5_RdN2nwaZnPjIAlLJBomu8lQ_2-\" alt=\"\" imgtype=\"Scan\" />\n  </p>\n</div>",
+      "bookPageVisitLogId": "F653A271-7AA9-47AA-A0F4-69C2C00E54B4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

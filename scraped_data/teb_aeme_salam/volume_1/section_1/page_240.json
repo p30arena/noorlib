@@ -1,0 +1,104 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 240,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687850045,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2664\"><format class=\"hadith\" who=\"6\" Id=\"924\" RevayatIndex=\"938\"><format class=\"ayah\" surah=\"17\" ayah=\"42\" toAyah=\"\">لَوْ كٰانَ مَعَهُ آلِهَةٌ كَمٰا يَقُولُونَ إِذاً لاَبْتَغَوْا إِلىٰ ذِي اَلْعَرْشِ سَبِيلاً <format class=\"ayahWord\" fromWord=\"2\" toWord=\"13\"/><format class=\"ayahAddress\" surah=\"17\" ayah=\"42\" toAyah=\"\"/></format><format class=\"ayah\" surah=\"4\" ayah=\"61\" toAyah=\"\">وَ إِذٰا <format class=\"ayahWord\" fromWord=\"1\" toWord=\"2\"/><format class=\"ayahAddress\" surah=\"4\" ayah=\"61\" toAyah=\"\"/></format><page number=\"240\"/><format class=\"ayah\" surah=\"4\" ayah=\"61\" toAyah=\"\">قِيلَ لَهُمْ‌: تَعٰالَوْا إِلىٰ مٰا أَنْزَلَ اَللّٰهُ وَ إِلَى اَلرَّسُولِ‌، رَأَيْتَ اَلْمُنٰافِقِينَ يَصُدُّونَ عَنْكَ صُدُوداً<format class=\"ayahWord\" fromWord=\"3\" toWord=\"17\"/><format class=\"ayahAddress\" surah=\"4\" ayah=\"61\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687850046,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2665\"><format class=\"hadith\" who=\"8\" Id=\"925\" RevayatIndex=\"939\"><format class=\"sanadHadith\">وَ:</format> لِلشَّقِيقَةِ أَيْضاً، عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>: <format class=\"ayah\" surah=\"3\" ayah=\"8\" toAyah=\"9\">رَبَّنٰا لاٰ تُزِغْ قُلُوبَنٰا بَعْدَ إِذْ هَدَيْتَنٰا، وَ هَبْ لَنٰا مِنْ لَدُنْكَ رَحْمَةً‌، إِنَّكَ أَنْتَ اَلْوَهّٰابُ‌، <format class=\"AyahSeprator\"/>رَبَّنٰا إِنَّكَ جٰامِعُ اَلنّٰاسِ لِيَوْمٍ لاٰ رَيْبَ فِيهِ‌، إِنَّ اَللّٰهَ لاٰ يُخْلِفُ اَلْمِيعٰادَ<format class=\"ayahWord\" fromWord=\"1\" toWord=\"29\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"8\" toAyah=\"9\"/></format> وَ يُكْتَبُ (اَللَّهُمَّ لَسْتَ بِإِلَهٍ اِسْتَحْدَثْنَاهُ‌... الخ) مَا تَقَدَّمَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850047,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2666\"><format class=\"hadith\" who=\"6\" Id=\"926\" RevayatIndex=\"940\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، قَالَ‌:</format> مَنْ كَانَ بِهِ صُدَاعٌ أَوْ غَيْرُهُ‌، فَلْيَضَعْ يَدَهُ عَلَى ذَلِكَ اَلْمَوْضِعِ‌، وَ لْيَقُلْ‌: اُسْكُنْ سَكَّنْتُكَ بِالَّذِي سَكَنَ لَهُ مَا فِي اَللَّيْلِ وَ اَلنَّهَارِ، وَ هُوَ اَلسَّمِيعُ اَلْعَلِيمُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850048,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2667\"><format class=\"hadith\" who=\"6\" Id=\"927\" RevayatIndex=\"941\"><format class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</format> كَانَ اَلنَّبِيُّ إِذَا كَسِلَ‌، أَوْ أَصَابَتْهُ عَيْنٌ‌، أَوْ صُدَاعٌ‌، بَسَطَ يَدَهُ وَ قَرَأَ (فَاتِحَةَ اَلْكِتَابِ‌) وَ (اَلْمُعَوِّذَتَيْنِ‌)، ثُمَّ مَسَحَ يَدَهُ عَلَى وَجْهِهِ‌، فَيَذْهَبُ عَنْهُ مَا كَانَ يَجِدُهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850049,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2668\"><format class=\"hadith\" who=\"8\" Id=\"928\" RevayatIndex=\"942\"><format class=\"sanadHadith\">وَ عَنْ عُمَرَ بْنِ إِبْرَاهِيمَ‌، قَالَ‌:</format> شَكَوْتُ إِلَى اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌) مِرَّةً‌، كُنْتُ أَجِدُهَا يَأْخُذُنِي مِنْهَا شِبْهُ اَلْجُنُونِ‌، وَ صُدَاعٌ غَالِبٌ‌، قَالَ‌: عَلَيْكَ بِهَذِهِ اَلْبَقْلَةِ اَلَّتِي يَلْتَفُّ وَرَقُهَا، فَضَعْهَا عَلَى رَأْسِكَ‌، وَ مُرْهُمْ فَلْيَضَعُوهَا عَلَى رُؤُوسِ صِبْيَانِهِمْ فَإِنَّهَا نَافِعَةٌ بِإِذْنِ اَللَّهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850050,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2669\"><format class=\"hadith\" who=\"8\" Id=\"928\" RevayatIndex=\"942\">قَالَ‌: فَفَعَلْتُ‌، فَسَكَنَ عَنِّي اَلْوَجَعُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850051,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2670\"><format class=\"hadith\" who=\"8\" Id=\"928\" RevayatIndex=\"942\">وَ اَلْبَقْلَةُ‌: اَللَّبْلاَبُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850052,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2671\"><format class=\"hadith\" who=\"8\" Id=\"929\" RevayatIndex=\"943\"><format class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌):</format> فِي اَلصُّدَاعِ‌، قَالَ‌: فَلْيُخْضَبْ بِالْحِنَّاءِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850053,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2672\"><format class=\"hadith\" who=\"6\" Id=\"930\" RevayatIndex=\"944\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُعَاوِيَةَ‌</format> بْنِ عَمَّارٍ، قَالَ‌:</format> شَكَوْتُ إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> رِيحَ اَلشَّقِيقَةِ‌، قَالَ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687850054,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2673\"><format class=\"hadith\" who=\"6\" Id=\"930\" RevayatIndex=\"944\">إِذَا فَرَغْتَ مِنَ اَلْفَرِيضَةِ‌، فَضَعْ سَبَّابَتَكَ اَلْيُمْنَى بَيْنَ عَيْنَيْكَ‌، وَ قُلْ سَبْعَ مَرَّاتٍ‌، وَ أَنْتَ تُمِرُّهَا عَلَى حَاجِبِكَ اَلْأَيْمَنِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850055,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2674\"><format class=\"hadith\" who=\"6\" Id=\"930\" RevayatIndex=\"944\"><format class=\"semicolon\">(يَا حَنَّانُ اِشْفِنِي)</format>. ثُمَّ تُمِرُّهَا عَلَى يَسَارِكَ وَ تَقُولُ‌:</format></p>"
+        },
+        {
+          "paragraphId": 687850056,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2675\"><format class=\"hadith\" who=\"6\" Id=\"930\" RevayatIndex=\"944\"><format class=\"semicolon\">(يَا مَنَّانُ اِشْفِنِي)</format>. ثُمَّ ضَعْ رَاحَتَكَ اَلْيُمْنَى عَلَى هَامَتِكَ‌، وَ قُلْ‌. <format class=\"semicolon\">يَا مَنْ سَكَنَ لَهُ‌<page number=\"241\"/> مَا فِي اَللَّيْلِ وَ اَلنَّهَارِ، وَ مَا فِي اَلسَّمَاوَاتِ وَ اَلْأَرْضِ‌، صَلِّ عَلَى <format class=\"maasoom\" maasoomNo=\"14\">مُحَمَّدٍ</format> وَ <format class=\"maasoom\" maasoomNo=\"\">آلِ بَيْتِهِ‌</format>، وَ سَكِّنْ مَا بِي</format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "240",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2664\" paragraph-id=\"2664\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo240\">240</span>\n      <span style=\"0\" class=\"ayah\" surah=\"4\" ayah=\"61\">قِيلَ لَهُمْ‌: تَعٰالَوْا إِلىٰ مٰا أَنْزَلَ اَللّٰهُ وَ إِلَى اَلرَّسُولِ‌، رَأَيْتَ اَلْمُنٰافِقِينَ يَصُدُّونَ عَنْكَ صُدُوداً<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/4/61\"></a></span></span>.</span>\n  </p>\n  <p id=\"p2665\" paragraph-id=\"2665\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ:</span> لِلشَّقِيقَةِ أَيْضاً، عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>: <span style=\"0\" class=\"ayah\" surah=\"3\" ayah=\"8\">رَبَّنٰا لاٰ تُزِغْ قُلُوبَنٰا بَعْدَ إِذْ هَدَيْتَنٰا، وَ هَبْ لَنٰا مِنْ لَدُنْكَ رَحْمَةً‌، إِنَّكَ أَنْتَ اَلْوَهّٰابُ‌، <span class=\"AyahSeprator\"></span>رَبَّنٰا إِنَّكَ جٰامِعُ اَلنّٰاسِ لِيَوْمٍ لاٰ رَيْبَ فِيهِ‌، إِنَّ اَللّٰهَ لاٰ يُخْلِفُ اَلْمِيعٰادَ<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/3/8\"></a></span></span> وَ يُكْتَبُ (اَللَّهُمَّ لَسْتَ بِإِلَهٍ اِسْتَحْدَثْنَاهُ‌... الخ) مَا تَقَدَّمَ‌.</span>\n  </p>\n  <p id=\"p2666\" paragraph-id=\"2666\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، قَالَ‌:</span> مَنْ كَانَ بِهِ صُدَاعٌ أَوْ غَيْرُهُ‌، فَلْيَضَعْ يَدَهُ عَلَى ذَلِكَ اَلْمَوْضِعِ‌، وَ لْيَقُلْ‌: اُسْكُنْ سَكَّنْتُكَ بِالَّذِي سَكَنَ لَهُ مَا فِي اَللَّيْلِ وَ اَلنَّهَارِ، وَ هُوَ اَلسَّمِيعُ اَلْعَلِيمُ‌.</span>\n  </p>\n  <p id=\"p2667\" paragraph-id=\"2667\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌)، قَالَ‌:</span> كَانَ اَلنَّبِيُّ إِذَا كَسِلَ‌، أَوْ أَصَابَتْهُ عَيْنٌ‌، أَوْ صُدَاعٌ‌، بَسَطَ يَدَهُ وَ قَرَأَ (فَاتِحَةَ اَلْكِتَابِ‌) وَ (اَلْمُعَوِّذَتَيْنِ‌)، ثُمَّ مَسَحَ يَدَهُ عَلَى وَجْهِهِ‌، فَيَذْهَبُ عَنْهُ مَا كَانَ يَجِدُهُ‌.</span>\n  </p>\n  <p id=\"p2668\" paragraph-id=\"2668\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ عُمَرَ بْنِ إِبْرَاهِيمَ‌، قَالَ‌:</span> شَكَوْتُ إِلَى اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌) مِرَّةً‌، كُنْتُ أَجِدُهَا يَأْخُذُنِي مِنْهَا شِبْهُ اَلْجُنُونِ‌، وَ صُدَاعٌ غَالِبٌ‌، قَالَ‌: عَلَيْكَ بِهَذِهِ اَلْبَقْلَةِ اَلَّتِي يَلْتَفُّ وَرَقُهَا، فَضَعْهَا عَلَى رَأْسِكَ‌، وَ مُرْهُمْ فَلْيَضَعُوهَا عَلَى رُؤُوسِ صِبْيَانِهِمْ فَإِنَّهَا نَافِعَةٌ بِإِذْنِ اَللَّهِ‌.</span>\n  </p>\n  <p id=\"p2669\" paragraph-id=\"2669\" class=\" G\">\n    <span class=\"hadith\">قَالَ‌: فَفَعَلْتُ‌، فَسَكَنَ عَنِّي اَلْوَجَعُ‌.</span>\n  </p>\n  <p id=\"p2670\" paragraph-id=\"2670\" class=\" G\">\n    <span class=\"hadith\">وَ اَلْبَقْلَةُ‌: اَللَّبْلاَبُ‌.</span>\n  </p>\n  <p id=\"p2671\" paragraph-id=\"2671\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْهُ (عَلَيْهِ اَلسَّلاَمُ‌):</span> فِي اَلصُّدَاعِ‌، قَالَ‌: فَلْيُخْضَبْ بِالْحِنَّاءِ‌.</span>\n  </p>\n  <p id=\"p2672\" paragraph-id=\"2672\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُعَاوِيَةَ‌</span> بْنِ عَمَّارٍ، قَالَ‌:</span> شَكَوْتُ إِلَى <span class=\"Y\"><span class=\"maasoom\">اَلصَّادِقِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> رِيحَ اَلشَّقِيقَةِ‌، قَالَ‌:</span>\n  </p>\n  <p id=\"p2673\" paragraph-id=\"2673\" class=\" G\">\n    <span class=\"hadith\">إِذَا فَرَغْتَ مِنَ اَلْفَرِيضَةِ‌، فَضَعْ سَبَّابَتَكَ اَلْيُمْنَى بَيْنَ عَيْنَيْكَ‌، وَ قُلْ سَبْعَ مَرَّاتٍ‌، وَ أَنْتَ تُمِرُّهَا عَلَى حَاجِبِكَ اَلْأَيْمَنِ‌.</span>\n  </p>\n  <p id=\"p2674\" paragraph-id=\"2674\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"semicolon\">(يَا حَنَّانُ اِشْفِنِي)</span>. ثُمَّ تُمِرُّهَا عَلَى يَسَارِكَ وَ تَقُولُ‌:</span>\n  </p>\n  <p id=\"p2675\" paragraph-id=\"2675\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"semicolon\">(يَا مَنَّانُ اِشْفِنِي)</span>. ثُمَّ ضَعْ رَاحَتَكَ اَلْيُمْنَى عَلَى هَامَتِكَ‌، وَ قُلْ‌. <span class=\"semicolon\">يَا مَنْ سَكَنَ لَهُ‌</span></span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "FB57F12A-809A-4A13-9F7F-306079CB7FBF",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

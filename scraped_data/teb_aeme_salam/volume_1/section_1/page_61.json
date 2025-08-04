@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 61,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687848085,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"685\"><page number=\"61\"/><heading level=\"2\">باب <format class=\"BM\">عدم جواز التداوي بشيء من المسكرات و المحرمات و جملة من أحكامها </format></heading></p>"
+        },
+        {
+          "paragraphId": 687848086,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"686\"><format class=\"hadith\" who=\"6\" Id=\"65\" RevayatIndex=\"66\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</format>، عَنْ <format class=\"G\">أَبِيهِ‌</format>، عَنِ <format class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</format>، عَنْ <format class=\"G\">عُمَرَ بْنِ أُذَيْنَةَ </format>قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848087,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"687\"><format class=\"hadith\" who=\"6\" Id=\"65\" RevayatIndex=\"66\">كَتَبْتُ إِلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ‌</format></format> أَسْأَلُهُ عَنِ اَلرَّجُلِ‌، يُنْعَتُ لَهُ اَلدَّوَاءُ مِنْ رِيحِ اَلْبَوَاسِيرِ، فَيَشْرَبُهُ بِقَدْرِ أُسْكُرُّجَةٍ مِنْ نَبِيذٍ، لَيْسَ يُرِيدُ بِهِ اَللَّذَّةَ‌، إِنَّمَا يُرِيدُ بِهِ اَلدَّوَاءَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848088,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"688\"><format class=\"hadith\" who=\"6\" Id=\"65\" RevayatIndex=\"66\">فَقَالَ (عَلَيْهِ اَلسَّلاَمُ‌): لاَ وَ لاَ جُرْعَةً‌. قَالَ‌: إِنَّ اَللَّهَ عَزَّ وَ جَلَّ لَمْ يَجْعَلْ فِي شَيْ‌ءٍ مِمَّا حَرَّمَ دَوَاءً‌، وَ لاَ شِفَاءً‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848089,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"689\"><format class=\"hadith\" who=\"6\" Id=\"66\" RevayatIndex=\"67\"><format class=\"sanadHadith\">وَ عَنْ <format class=\"G\">مُحَمَّدِ بْنِ اَلْحَسَن</format> ِ‌، عَنْ <format class=\"G\">بَعْضِ أَصْحَابِنَا</format>، عَنْ <format class=\"G\">إِبْرَاهِيمَ بْنِ خَالِد</format> ٍ‌، عَنْ <format class=\"G\">عَبْدِ اَللَّهِ بْنِ وَضَّاح</format> ٍ‌، عَنْ <format class=\"G\">أَبِي بَصِيرٍ</format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848090,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"690\"><format class=\"hadith\" who=\"6\" Id=\"66\" RevayatIndex=\"67\">دَخَلَتْ <format class=\"d\">أُمُّ خَالِدٍ اَلْعَبْدِيَّةُ‌</format>، عَلَى <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format>، وَ أَنَا عِنْدَهُ‌، فَقَالَتْ‌: إِنَّهُ يَعْتَرِينِي قَرَاقِرُ فِي بَطْنِي، فَقَدْ وَصَفَ لِي اَلْأَطِبَّاءُ اَلنَّبِيذَ بِالسَّوِيقِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687848091,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"691\"><format class=\"hadith\" who=\"6\" Id=\"66\" RevayatIndex=\"67\">فَقَالَ لَهَا: وَ مَا يَمْنَعُكِ مِنَ شَرٍّ.</format></p>"
+        },
+        {
+          "paragraphId": 687848092,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"692\"><format class=\"hadith\" who=\"6\" Id=\"66\" RevayatIndex=\"67\">فَقَالَتْ‌: قَدْ قَلَّدْتُكَ دِينِي.</format></p>"
+        },
+        {
+          "paragraphId": 687848093,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"693\"><format class=\"hadith\" who=\"6\" Id=\"66\" RevayatIndex=\"67\">فَقَالَ‌: فَلاَ تَذُوقِي مِنْهُ قَطْرَةً‌، لاَ وَ اَللَّهِ لاَ آذَنُ لَكِ فِي قَطْرَةٍ مِنْهُ‌، فَإِنَّمَا تَنْدَمِينَ إِذَا بَلَغَتْ نَفْسُكِ إِلَى هَاهُنَا - وَ أَوْمَى بِيَدِهِ إِلَى حُجْزَتِهِ - بِقَوْلِهَا ثَلاَثاً، أَ فَهِمْتِ؟!!.</format></p>"
+        },
+        {
+          "paragraphId": 687848094,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"694\"><format class=\"hadith\" who=\"6\" Id=\"66\" RevayatIndex=\"67\">فَقَالَتْ‌: نَعَمْ‌، ثُمَّ قَالَ <format class=\"maasoom\" maasoomNo=\"6\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format>: مَا يَبُلُّ اَلْمِيلَ يُنَجِّسُ حُبّاً مِنْ مَاءٍ - يَقُولُهَا ثَلاَثاً<lfootnote noteId=\"41\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 687848095,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"695\"><format class=\"hadith\" who=\"6\" Id=\"67\" RevayatIndex=\"68\"><format class=\"sanadHadith\">وَ عَنِ اَلْعِدَّةِ‌: عَنْ سَهْلِ بْنِ زِيَادٍ، عَنْ عَلِيِّ بْنِ أَسْبَاطٍ، عَنْ أَبِيهِ‌، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687848096,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"696\"><format class=\"hadith\" who=\"6\" Id=\"67\" RevayatIndex=\"68\"><page number=\"62\"/>كُنْتُ عِنْدَ أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)، فَقَالَ لَهُ رَجُلٌ‌: إِنَّ بِي، جُعِلْتُ فِدَاكَ‌، أَرْيَاحَ اَلْبَوَاسِيرِ، وَ لَيْسَ يُوَافِقُنِي إِلاَّ شُرْبُ اَلنَّبِيذِ قَالَ‌:</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851674,
+          "text": "<footnote id=\"41\"><page number=\"61\"/><mnote>(1)</mnote> الكافي لثقة الإسلام أبي جعفر محمّد بن يعقوب الكليني (ت 329) ط. دار الأضواء - بيروت. د/ 413 (كتاب الأشربة).</footnote>"
+        }
+      ],
+      "pageValue": "61",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p685\" paragraph-id=\"685\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo61\">61</span>\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"BM\">عدم جواز التداوي بشيء من المسكرات و المحرمات و جملة من أحكامها </span></strong>\n  </p>\n  <p id=\"p686\" paragraph-id=\"686\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">عَلِيُّ بْنُ إِبْرَاهِيمَ‌</span>، عَنْ <span class=\"G\">أَبِيهِ‌</span>، عَنِ <span class=\"G\">اِبْنِ أَبِي عُمَيْرٍ</span>، عَنْ <span class=\"G\">عُمَرَ بْنِ أُذَيْنَةَ </span>قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p687\" paragraph-id=\"687\" class=\" G\">\n    <span class=\"hadith\">كَتَبْتُ إِلَى <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ‌</span></span> أَسْأَلُهُ عَنِ اَلرَّجُلِ‌، يُنْعَتُ لَهُ اَلدَّوَاءُ مِنْ رِيحِ اَلْبَوَاسِيرِ، فَيَشْرَبُهُ بِقَدْرِ أُسْكُرُّجَةٍ مِنْ نَبِيذٍ، لَيْسَ يُرِيدُ بِهِ اَللَّذَّةَ‌، إِنَّمَا يُرِيدُ بِهِ اَلدَّوَاءَ‌.</span>\n  </p>\n  <p id=\"p688\" paragraph-id=\"688\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ (عَلَيْهِ اَلسَّلاَمُ‌): لاَ وَ لاَ جُرْعَةً‌. قَالَ‌: إِنَّ اَللَّهَ عَزَّ وَ جَلَّ لَمْ يَجْعَلْ فِي شَيْ‌ءٍ مِمَّا حَرَّمَ دَوَاءً‌، وَ لاَ شِفَاءً‌.</span>\n  </p>\n  <p id=\"p689\" paragraph-id=\"689\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنْ <span class=\"G\">مُحَمَّدِ بْنِ اَلْحَسَن</span> ِ‌، عَنْ <span class=\"G\">بَعْضِ أَصْحَابِنَا</span>، عَنْ <span class=\"G\">إِبْرَاهِيمَ بْنِ خَالِد</span> ٍ‌، عَنْ <span class=\"G\">عَبْدِ اَللَّهِ بْنِ وَضَّاح</span> ٍ‌، عَنْ <span class=\"G\">أَبِي بَصِيرٍ</span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p690\" paragraph-id=\"690\" class=\" G\">\n    <span class=\"hadith\">دَخَلَتْ <span class=\"d\">أُمُّ خَالِدٍ اَلْعَبْدِيَّةُ‌</span>، عَلَى <span class=\"Y\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span>، وَ أَنَا عِنْدَهُ‌، فَقَالَتْ‌: إِنَّهُ يَعْتَرِينِي قَرَاقِرُ فِي بَطْنِي، فَقَدْ وَصَفَ لِي اَلْأَطِبَّاءُ اَلنَّبِيذَ بِالسَّوِيقِ‌.</span>\n  </p>\n  <p id=\"p691\" paragraph-id=\"691\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ لَهَا: وَ مَا يَمْنَعُكِ مِنَ شَرٍّ.</span>\n  </p>\n  <p id=\"p692\" paragraph-id=\"692\" class=\" G\">\n    <span class=\"hadith\">فَقَالَتْ‌: قَدْ قَلَّدْتُكَ دِينِي.</span>\n  </p>\n  <p id=\"p693\" paragraph-id=\"693\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ‌: فَلاَ تَذُوقِي مِنْهُ قَطْرَةً‌، لاَ وَ اَللَّهِ لاَ آذَنُ لَكِ فِي قَطْرَةٍ مِنْهُ‌، فَإِنَّمَا تَنْدَمِينَ إِذَا بَلَغَتْ نَفْسُكِ إِلَى هَاهُنَا - وَ أَوْمَى بِيَدِهِ إِلَى حُجْزَتِهِ - بِقَوْلِهَا ثَلاَثاً، أَ فَهِمْتِ؟!!.</span>\n  </p>\n  <p id=\"p694\" paragraph-id=\"694\" class=\" G\">\n    <span class=\"hadith\">فَقَالَتْ‌: نَعَمْ‌، ثُمَّ قَالَ <span class=\"maasoom\">أَبُو عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span>: مَا يَبُلُّ اَلْمِيلَ يُنَجِّسُ حُبّاً مِنْ مَاءٍ - يَقُولُهَا ثَلاَثاً<span><sup><a class=\"NewFn\" href=\"#footnote41\" title=\"(1)  الكافي لثقة الإسلام أبي جعفر محمّد بن يعقوب الكليني (ت 329) ط. دار الأضواء - بيروت. د/ 413 (كتاب الأشربة).\">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p695\" paragraph-id=\"695\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ اَلْعِدَّةِ‌: عَنْ سَهْلِ بْنِ زِيَادٍ، عَنْ عَلِيِّ بْنِ أَسْبَاطٍ، عَنْ أَبِيهِ‌، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p696\" paragraph-id=\"696\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote41\" footnote-id=\"41\">(1) <page number=\"61\" /> الكافي لثقة الإسلام أبي جعفر محمّد بن يعقوب الكليني (ت 329) ط. دار الأضواء - بيروت. د/ 413 (كتاب الأشربة).</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "075A3F2C-EBDD-4D1F-A6AB-BD2360BEC973",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

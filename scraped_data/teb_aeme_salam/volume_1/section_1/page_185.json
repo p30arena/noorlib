@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 185,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687849421,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2123\"><format class=\"hadith\" who=\"14,6\" Id=\"623\" RevayatIndex=\"632\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>اَلْكَمْأَةُ مِنَ اَلْمَنِّ‌، وَ اَلْمَنُّ مِنَ <format class=\"t\">اَلْجَنَّةِ‌</format>، وَ مَاؤُهَا شِفَاءٌ‌<page number=\"185\"/> لِلْعَيْنِ‌<lfootnote noteId=\"99\">1</lfootnote>.</format></p>"
+        },
+        {
+          "paragraphId": 687849422,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2124\"><format class=\"hadith\" who=\"\" Id=\"623\" RevayatIndex=\"\"><format class=\"sanadHadith\">اَلْمَحَاسِنِ‌: عَنْ مُحَمَّدِ بْنِ عَلِيٍّ‌:</format> مِثْلَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849423,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2125\"><format class=\"hadith\" who=\"14,6\" Id=\"624\" RevayatIndex=\"633\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"G\">اَلنَّوْفَلِيِّ‌</format>، عَنْ <format class=\"G\">عِيسَى بْنِ عَبْدِ اَللَّهِ اَلْهَاشِمِيِّ‌</format>، عَنْ <format class=\"G\">إِبْرَاهِيمَ بْنِ عَلِيٍّ اَلرَّافِعِيِّ‌</format>، عَنْ <format class=\"HQ\"><format class=\"maasoom\" maasoomNo=\"6\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</format></format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849424,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2126\"><format class=\"hadith\" who=\"14,6\" Id=\"624\" RevayatIndex=\"633\"><format class=\"sanadHadith\">قَالَ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format>: </format>اَلْكَمْأَةُ مِنْ نَبْتِ <format class=\"t\">اَلْجَنَّةِ‌</format>، وَ مَاؤُهَا نَافِعٌ مِنْ وَجَعِ اَلْعَيْنِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849425,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2127\"><format class=\"hadith\" who=\"14\" Id=\"625\" RevayatIndex=\"634\"><format class=\"sanadHadith\">وَ فِي <format class=\"K\">أَمَالِي <format class=\"G\">اَلطُّوسِيِّ‌</format></format> مُسْنَداً عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"14\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</format></format> قَالَ‌:</format> اَلْكَمْأَةُ مِنَ اَلْمَنِّ‌، وَ مَاؤُهَا شِفَاءُ اَلْعَيْنِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687849513,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2128\"><format class=\"hadith\" who=\"14\" Id=\"626\" RevayatIndex=\"635\"><format class=\"sanadHadith\">اَلْعُيُونِ‌: مُحَمَّدُ بْنُ أَحْمَدَ بْنِ اَلْحُسَيْنِ اَلْبَغْدَادِيُّ‌، عَنْ عَلِيِّ بْنِ مُحَمَّدِ بْنِ عُيَيْنَةَ‌، عَنْ دَارِمِ بْنِ قَبِيصَةَ‌، عَنِ اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)، عَنْ آبَائِهِ‌، قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849514,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2129\"><format class=\"hadith\" who=\"14\" Id=\"626\" RevayatIndex=\"635\"><format class=\"sanadHadith\">قَالَ رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</format> اَلْكَمْأَةُ مِنَ اَلْمَنِّ اَلَّذِي أَنْزَلَ اَللَّهُ تَعَالَى، عَلَى بَنِي إِسْرَائِيلَ‌، وَ هُوَ شِفَاءٌ اَلْعَيْنِ - اَلْخَبَرَ -.</format></p>"
+        },
+        {
+          "paragraphId": 687849515,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2130\"><heading level=\"2\">باب <format class=\"VD\">التداوي بالحَزَاء </format></heading></p>"
+        },
+        {
+          "paragraphId": 687849516,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2131\"><format class=\"hadith\" who=\"9\" Id=\"627\" RevayatIndex=\"636\"><format class=\"sanadHadith\"><format class=\"K\">اَلْكَافِي</format>: <format class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</format>، عَنْ <format class=\"G\">غَيْرِ وَاحِدٍ</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ عِيسَى</format>، عَنْ <format class=\"G\">مُحَمَّدِ بْنِ عَمْرِو بْنِ إِبْرَاهِيمَ‌</format> قَالَ‌:</format></format></p>"
+        },
+        {
+          "paragraphId": 687849517,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2132\"><format class=\"hadith\" who=\"9\" Id=\"627\" RevayatIndex=\"636\">سَأَلْتُ <format class=\"maasoom\" maasoomNo=\"9\">أَبَا جَعْفَرٍ</format>، وَ شَكَوْتُ إِلَيْهِ‌، ضَعْفَ مَعِدَتِي.</format></p>"
+        },
+        {
+          "paragraphId": 687849518,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2133\"><format class=\"hadith\" who=\"9\" Id=\"627\" RevayatIndex=\"636\">فَقَالَ‌: اِشْرَبِ اَلْحَزَاءَةَ‌، بِالْمَاءِ اَلْبَارِدِ.</format></p>"
+        },
+        {
+          "paragraphId": 687849519,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2134\"><format class=\"hadith\" who=\"9\" Id=\"627\" RevayatIndex=\"636\"><page number=\"186\"/>فَفَعَلْتُ‌، فَوَجَدْتُ مِنْهُ مَا أُحِبُّ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 687851732,
+          "text": "<footnote id=\"99\"><page number=\"185\"/><mnote>(1)</mnote> المن: كل طلّ ينزل من السماء، و ينعقد عسلا، و يجف جفاف الصمغ و قال في الحديث: الكمأة من المن، و ماؤها شفاء للعين. أي هما ممّا منّ اللّه به على عباده. و قيل شبهها بالمن و هو العسل الحلو الذي ينزل من السماء عفوا بلا علاج. و كذلك الكمأة لا مؤونة فيها ببذر و لا سقي. (ع).</footnote>"
+        }
+      ],
+      "pageValue": "185",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2123\" paragraph-id=\"2123\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo185\">185</span> لِلْعَيْنِ‌<span><sup><a class=\"NewFn\" href=\"#footnote99\" title=\"(1)  المن: كل طلّ ينزل من السماء، و ينعقد عسلا، و يجف جفاف الصمغ و قال في الحديث: الكمأة من المن، و ماؤها شفاء للعين. أي هما ممّا منّ اللّه به على عباده. و قيل شبهها بالمن و هو العسل الحلو الذي ينزل من السماء عفوا بلا علاج. و كذلك الكمأة لا مؤونة فيها ببذر و لا سقي. (ع).\">1</a></sup></span>.</span>\n  </p>\n  <p id=\"p2124\" paragraph-id=\"2124\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْمَحَاسِنِ‌: عَنْ مُحَمَّدِ بْنِ عَلِيٍّ‌:</span> مِثْلَهُ‌.</span>\n  </p>\n  <p id=\"p2125\" paragraph-id=\"2125\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"G\">اَلنَّوْفَلِيِّ‌</span>، عَنْ <span class=\"G\">عِيسَى بْنِ عَبْدِ اَللَّهِ اَلْهَاشِمِيِّ‌</span>، عَنْ <span class=\"G\">إِبْرَاهِيمَ بْنِ عَلِيٍّ اَلرَّافِعِيِّ‌</span>، عَنْ <span class=\"HQ\"><span class=\"maasoom\">أَبِي عَبْدِ اَللَّهِ (عَلَيْهِ اَلسَّلاَمُ‌)</span></span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2126\" paragraph-id=\"2126\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ <span class=\"Y\"><span class=\"maasoom\">رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span>: </span>اَلْكَمْأَةُ مِنْ نَبْتِ <span class=\"t\">اَلْجَنَّةِ‌</span>، وَ مَاؤُهَا نَافِعٌ مِنْ وَجَعِ اَلْعَيْنِ‌.</span>\n  </p>\n  <p id=\"p2127\" paragraph-id=\"2127\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي <span class=\"K\">أَمَالِي <span class=\"G\">اَلطُّوسِيِّ‌</span></span> مُسْنَداً عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلنَّبِيِّ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌</span></span> قَالَ‌:</span> اَلْكَمْأَةُ مِنَ اَلْمَنِّ‌، وَ مَاؤُهَا شِفَاءُ اَلْعَيْنِ‌.</span>\n  </p>\n  <p id=\"p2128\" paragraph-id=\"2128\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">اَلْعُيُونِ‌: مُحَمَّدُ بْنُ أَحْمَدَ بْنِ اَلْحُسَيْنِ اَلْبَغْدَادِيُّ‌، عَنْ عَلِيِّ بْنِ مُحَمَّدِ بْنِ عُيَيْنَةَ‌، عَنْ دَارِمِ بْنِ قَبِيصَةَ‌، عَنِ اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌)، عَنْ آبَائِهِ‌، قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2129\" paragraph-id=\"2129\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">قَالَ رَسُولُ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَ آلِهِ‌:</span> اَلْكَمْأَةُ مِنَ اَلْمَنِّ اَلَّذِي أَنْزَلَ اَللَّهُ تَعَالَى، عَلَى بَنِي إِسْرَائِيلَ‌، وَ هُوَ شِفَاءٌ اَلْعَيْنِ - اَلْخَبَرَ -.</span>\n  </p>\n  <p id=\"p2130\" paragraph-id=\"2130\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">باب <span class=\"VD\">التداوي بالحَزَاء </span></strong>\n  </p>\n  <p id=\"p2131\" paragraph-id=\"2131\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">\n        <span class=\"K\">اَلْكَافِي</span>: <span class=\"G\">مُحَمَّدُ بْنُ يَحْيَى</span>، عَنْ <span class=\"G\">غَيْرِ وَاحِدٍ</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ عِيسَى</span>، عَنْ <span class=\"G\">مُحَمَّدِ بْنِ عَمْرِو بْنِ إِبْرَاهِيمَ‌</span> قَالَ‌:</span>\n    </span>\n  </p>\n  <p id=\"p2132\" paragraph-id=\"2132\" class=\" G\">\n    <span class=\"hadith\">سَأَلْتُ <span class=\"maasoom\">أَبَا جَعْفَرٍ</span>، وَ شَكَوْتُ إِلَيْهِ‌، ضَعْفَ مَعِدَتِي.</span>\n  </p>\n  <p id=\"p2133\" paragraph-id=\"2133\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ‌: اِشْرَبِ اَلْحَزَاءَةَ‌، بِالْمَاءِ اَلْبَارِدِ.</span>\n  </p>\n  <p id=\"p2134\" paragraph-id=\"2134\" class=\" G\">\n    <span class=\"hadith\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote99\" footnote-id=\"99\">(1) <page number=\"185\" /> المن: كل طلّ ينزل من السماء، و ينعقد عسلا، و يجف جفاف الصمغ و قال في الحديث: الكمأة من المن، و ماؤها شفاء للعين. أي هما ممّا منّ اللّه به على عباده. و قيل شبهها بالمن و هو العسل الحلو الذي ينزل من السماء عفوا بلا علاج. و كذلك الكمأة لا مؤونة فيها ببذر و لا سقي. (ع).</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "441B34C3-B0A1-48C2-89C9-4BBC0C52C018",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

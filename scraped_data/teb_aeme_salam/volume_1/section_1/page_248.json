@@ -1,0 +1,116 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 248,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 687850130,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2749\"><format class=\"hadith\" who=\"5\" Id=\"961\" RevayatIndex=\"975\"><format class=\"sanadHadith\">وَ فِي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">اَلْبَاقِرِيِّ‌</format></format>: </format>مَنْ لَبِسَ نَعْلاً صَفْرَاءَ‌، لَمْ يَزَلْ يَنْظُرُ فِي سُرُورٍ مَا دَامَتْ عَلَيْهِ‌، <page number=\"248\"/>لِأَنَّ اَللَّهَ عَزَّ وَ جَلَّ يَقُولُ‌: <format class=\"ayah\" surah=\"2\" ayah=\"69\" toAyah=\"\">صَفْرٰاءُ فٰاقِعٌ لَوْنُهٰا تَسُرُّ اَلنّٰاظِرِينَ‌<format class=\"ayahWord\" fromWord=\"14\" toWord=\"18\"/><format class=\"ayahAddress\" surah=\"2\" ayah=\"69\" toAyah=\"\"/></format>.</format></p>"
+        },
+        {
+          "paragraphId": 687850131,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2750\"><format class=\"hadith\" who=\"16\" Id=\"962\" RevayatIndex=\"976\"><format class=\"sanadHadith\">وَ قَدْ رُوِيَ أَيْضاً:</format> أَنَّ اَلنَّظَرَ فِي فَرْجِ اَلْمَرْأَةِ يُورِثُ اَلْعَمَى (وَ فِي بَعْضِهَا) عَمَى اَلْوَلَدِ.</format></p>"
+        },
+        {
+          "paragraphId": 687850132,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2751\"><format class=\"hadith\" who=\"14\" Id=\"963\" RevayatIndex=\"977\"><format class=\"sanadHadith\">وَ فِي اَلنَّبَوِيِّ‌:</format> فِي اَلْخِضَابِ أَرْبَعَ عَشْرَةَ خَصْلَةً‌: يَطْرُدُ اَلرِّيحَ مِنَ اَلْأُذُنَيْنِ‌، وَ يَجْلُو اَلْغِشَاءَ عَنِ اَلْبَصَرِ (اَلْحَدِيثِ‌).</format></p>"
+        },
+        {
+          "paragraphId": 687850133,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2752\"><format class=\"hadith\" who=\"14\" Id=\"964\" RevayatIndex=\"978\"><format class=\"sanadHadith\">وَ فِيهِ‌:</format> اِخْتَضِبُوا بِالْحِنَّاءِ‌، فَإِنَّهُ يَجْلُو اَلْبَصَرَ، وَ يُنْبِتُ اَلشَّعْرَ، وَ يُطَيِّبُ اَلرِّيحَ‌، وَ يُسَكِّنُ اَلزَّوْجَةَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850134,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2753\"><format class=\"hadith\" who=\"6\" Id=\"965\" RevayatIndex=\"979\"><format class=\"sanadHadith\">وَ فِي اَلصَّادِقِيِّ‌:</format> اِسْتَأْصِلْ شَعْرَكَ‌، يَقِلَّ دَرَنُهُ‌، وَ دَوَابُّهُ‌، وَ وَسَخُهُ‌، وَ تَغْلُظْ رَقَبَتُكَ‌، وَ يَجْلُ بَصَرُكَ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850135,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2754\"><format class=\"hadith\" who=\"6\" Id=\"966\" RevayatIndex=\"980\"><format class=\"sanadHadith\">وَ فِيهِ‌:</format> تَقْلِيمُ اَلْأَظْفَارِ يَوْمَ اَلْجُمُعَةِ‌، يُؤْمِنُ مِنَ اَلْبَرَصِ‌، وَ اَلْعَمَى، وَ إِنْ لَمْ تَحْتَجْ فَحُكَّهَا حَكّاً.</format></p>"
+        },
+        {
+          "paragraphId": 687850136,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2755\"><format class=\"hadith\" who=\"6\" Id=\"967\" RevayatIndex=\"981\"><format class=\"sanadHadith\">وَ فِيهِ‌:</format> اَلْكُحْلُ يُنْبِتُ اَلشَّعْرَ، وَ يُحِدُّ اَلْبَصَرَ، وَ يُعِينُ عَلَى طُولِ اَلسُّجُودِ.</format></p>"
+        },
+        {
+          "paragraphId": 687850137,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2756\"><format class=\"hadith\" who=\"6\" Id=\"968\" RevayatIndex=\"982\"><format class=\"sanadHadith\">وَ فِيهِ‌:</format> اَلْإِثْمِدُ يَجْلُو اَلْبَصَرَ، وَ يُنْبِتُ اَلشَّعْرَ، وَ يَذْهَبُ بِالدَّمْعَةِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850138,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2757\"><format class=\"hadith\" who=\"6\" Id=\"969\" RevayatIndex=\"983\"><format class=\"sanadHadith\">وَ فِيهِ‌:</format> مَنْ نَامَ عَلَى إِثْمِدٍ غَيْرِ مُمَسَّكٍ‌، أَمِنَ مِنَ اَلْمَاءِ اَلْأَسْوَدِ أَبَداً مَا يَنَامُ عَلَيْهِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850139,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2758\"><format class=\"hadith\" who=\"5\" Id=\"970\" RevayatIndex=\"984\"><format class=\"sanadHadith\">وَ فِي <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"5\">اَلْبَاقِرِيِّ‌</format></format>: </format>اَلاِكْتِحَالُ بِالْإِثْمِدِ، يُطَيِّبُ اَلنَّكْهَةَ‌، وَ يَشُدُّ أَشْفَارَ اَلْعَيْنِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850140,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2759\"><format class=\"hadith\" who=\"6\" Id=\"971\" RevayatIndex=\"985\"><format class=\"sanadHadith\">وَ فِي اَلصَّادِقِيِّ (عَلَيْهِ اَلسَّلاَمُ‌):</format> فِي اَلسِّوَاكِ عَشْرُ خِصَالٍ‌، وَ عَدَّ مِنْهَا: أَنَّهُ يَجْلُو اَلْبَصَرَ، وَ يَذْهَبُ بِالْبَلْغَمِ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850141,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2760\"><format class=\"hadith\" who=\"8\" Id=\"972\" RevayatIndex=\"986\"><format class=\"sanadHadith\">وَ عَنِ <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌</format></format>)، قَالَ‌:</format> مَنِ اِغْتَسَلَ مِنَ اَلْمَاءِ اَلَّذِي اُغْتُسِلَ فِيهِ فَأَصَابَهُ اَلْجُذَامُ‌، فَلاَ يَلُومَنَّ إِلاَّ نَفْسَهُ‌.</format></p>"
+        },
+        {
+          "paragraphId": 687850142,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"2761\"><format class=\"hadith\" who=\"8\" Id=\"972\" RevayatIndex=\"986\">قَالَ مُحَمَّدٌ: فَقُلْتُ <format class=\"maasoom\" maasoomNo=\"8\">لِأَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌</format>): إِنَّ <format class=\"V\">أَهْلَ اَلْمَدِينَةِ‌</format> يَقُولُونَ‌: إِنَّ فِيهِ شِفَاءً مِنَ اَلْعَيْنِ؟!.</format></p>"
+        },
+        {
+          "paragraphId": 687850143,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"2762\"><format class=\"hadith\" who=\"8\" Id=\"972\" RevayatIndex=\"986\">فَقَالَ‌: كَذَبُوا، يَغْتَسِلُ فِيهِ اَلْجُنُبُ مِنَ اَلْحَرَامِ‌، وَ اَلزَّانِي وَ <format class=\"U\">اَلنَّاصِبُ‌</format> اَلَّذِي هُوَ شَرُّهُمَا، وَ كُلُّ مَنْ خَلَقَ اَللَّهُ‌، ثُمَّ يَكُونُ فِيهِ شِفَاءُ اَلْعَيْنِ؟! إِنَّمَا شِفَاءُ اَلْعَيْنِ‌: قِرَاءَةُ <page number=\"249\"/>(اَلْحَمْدِ) وَ (اَلْمُعَوِّذَتَيْنِ‌) وَ (آيَةِ اَلْكُرْسِيِّ‌)، وَ اَلْبَخُورُ بِالْقُسْطِ وَ اَلْمُرِّ وَ اَللُّبَانِ‌.</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "248",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2749\" paragraph-id=\"2749\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"GPA0 bookPage PageNo248\">248</span>لِأَنَّ اَللَّهَ عَزَّ وَ جَلَّ يَقُولُ‌: <span style=\"0\" class=\"ayah\" surah=\"2\" ayah=\"69\">صَفْرٰاءُ فٰاقِعٌ لَوْنُهٰا تَسُرُّ اَلنّٰاظِرِينَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/2/69\"></a></span></span>.</span>\n  </p>\n  <p id=\"p2750\" paragraph-id=\"2750\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ قَدْ رُوِيَ أَيْضاً:</span> أَنَّ اَلنَّظَرَ فِي فَرْجِ اَلْمَرْأَةِ يُورِثُ اَلْعَمَى (وَ فِي بَعْضِهَا) عَمَى اَلْوَلَدِ.</span>\n  </p>\n  <p id=\"p2751\" paragraph-id=\"2751\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي اَلنَّبَوِيِّ‌:</span> فِي اَلْخِضَابِ أَرْبَعَ عَشْرَةَ خَصْلَةً‌: يَطْرُدُ اَلرِّيحَ مِنَ اَلْأُذُنَيْنِ‌، وَ يَجْلُو اَلْغِشَاءَ عَنِ اَلْبَصَرِ (اَلْحَدِيثِ‌).</span>\n  </p>\n  <p id=\"p2752\" paragraph-id=\"2752\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِيهِ‌:</span> اِخْتَضِبُوا بِالْحِنَّاءِ‌، فَإِنَّهُ يَجْلُو اَلْبَصَرَ، وَ يُنْبِتُ اَلشَّعْرَ، وَ يُطَيِّبُ اَلرِّيحَ‌، وَ يُسَكِّنُ اَلزَّوْجَةَ‌.</span>\n  </p>\n  <p id=\"p2753\" paragraph-id=\"2753\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي اَلصَّادِقِيِّ‌:</span> اِسْتَأْصِلْ شَعْرَكَ‌، يَقِلَّ دَرَنُهُ‌، وَ دَوَابُّهُ‌، وَ وَسَخُهُ‌، وَ تَغْلُظْ رَقَبَتُكَ‌، وَ يَجْلُ بَصَرُكَ‌.</span>\n  </p>\n  <p id=\"p2754\" paragraph-id=\"2754\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِيهِ‌:</span> تَقْلِيمُ اَلْأَظْفَارِ يَوْمَ اَلْجُمُعَةِ‌، يُؤْمِنُ مِنَ اَلْبَرَصِ‌، وَ اَلْعَمَى، وَ إِنْ لَمْ تَحْتَجْ فَحُكَّهَا حَكّاً.</span>\n  </p>\n  <p id=\"p2755\" paragraph-id=\"2755\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِيهِ‌:</span> اَلْكُحْلُ يُنْبِتُ اَلشَّعْرَ، وَ يُحِدُّ اَلْبَصَرَ، وَ يُعِينُ عَلَى طُولِ اَلسُّجُودِ.</span>\n  </p>\n  <p id=\"p2756\" paragraph-id=\"2756\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِيهِ‌:</span> اَلْإِثْمِدُ يَجْلُو اَلْبَصَرَ، وَ يُنْبِتُ اَلشَّعْرَ، وَ يَذْهَبُ بِالدَّمْعَةِ‌.</span>\n  </p>\n  <p id=\"p2757\" paragraph-id=\"2757\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِيهِ‌:</span> مَنْ نَامَ عَلَى إِثْمِدٍ غَيْرِ مُمَسَّكٍ‌، أَمِنَ مِنَ اَلْمَاءِ اَلْأَسْوَدِ أَبَداً مَا يَنَامُ عَلَيْهِ‌.</span>\n  </p>\n  <p id=\"p2758\" paragraph-id=\"2758\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي <span class=\"Y\"><span class=\"maasoom\">اَلْبَاقِرِيِّ‌</span></span>: </span>اَلاِكْتِحَالُ بِالْإِثْمِدِ، يُطَيِّبُ اَلنَّكْهَةَ‌، وَ يَشُدُّ أَشْفَارَ اَلْعَيْنِ‌.</span>\n  </p>\n  <p id=\"p2759\" paragraph-id=\"2759\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ فِي اَلصَّادِقِيِّ (عَلَيْهِ اَلسَّلاَمُ‌):</span> فِي اَلسِّوَاكِ عَشْرُ خِصَالٍ‌، وَ عَدَّ مِنْهَا: أَنَّهُ يَجْلُو اَلْبَصَرَ، وَ يَذْهَبُ بِالْبَلْغَمِ‌.</span>\n  </p>\n  <p id=\"p2760\" paragraph-id=\"2760\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"sanadHadith\">وَ عَنِ <span class=\"Y\"><span class=\"maasoom\">اَلرِّضَا (عَلَيْهِ اَلسَّلاَمُ‌</span></span>)، قَالَ‌:</span> مَنِ اِغْتَسَلَ مِنَ اَلْمَاءِ اَلَّذِي اُغْتُسِلَ فِيهِ فَأَصَابَهُ اَلْجُذَامُ‌، فَلاَ يَلُومَنَّ إِلاَّ نَفْسَهُ‌.</span>\n  </p>\n  <p id=\"p2761\" paragraph-id=\"2761\" class=\" G\">\n    <span class=\"hadith\">قَالَ مُحَمَّدٌ: فَقُلْتُ <span class=\"maasoom\">لِأَبِي اَلْحَسَنِ (عَلَيْهِ اَلسَّلاَمُ‌</span>): إِنَّ <span class=\"V\">أَهْلَ اَلْمَدِينَةِ‌</span> يَقُولُونَ‌: إِنَّ فِيهِ شِفَاءً مِنَ اَلْعَيْنِ؟!.</span>\n  </p>\n  <p id=\"p2762\" paragraph-id=\"2762\" class=\" G\">\n    <span class=\"hadith\">فَقَالَ‌: كَذَبُوا، يَغْتَسِلُ فِيهِ اَلْجُنُبُ مِنَ اَلْحَرَامِ‌، وَ اَلزَّانِي وَ <span class=\"U\">اَلنَّاصِبُ‌</span> اَلَّذِي هُوَ شَرُّهُمَا، وَ كُلُّ مَنْ خَلَقَ اَللَّهُ‌، ثُمَّ يَكُونُ فِيهِ شِفَاءُ اَلْعَيْنِ؟! إِنَّمَا شِفَاءُ اَلْعَيْنِ‌: قِرَاءَةُ </span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "61B12F1C-B0C7-4A51-8462-5F4297CB7D05",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}
