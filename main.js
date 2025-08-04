@@ -88,7 +88,8 @@ async function scrapeBook() {
       console.error(`Error: Insufficient credit to access V${volume} S${section} P${page}. Stopping scraper.`);
       continueScraping = false; // Stop the scraper
       break; // Exit the while loop
-    } else if (isPageNotFound && volume == 1 && section == 1 && page < 10) {
+    } else if (isPageNotFound && volume == 1 && section == 1 && page <= 10) {
+      console.log('Vol 1 Sec 1 Page < 10 - Page not available. Trying next page...');
       page++;
     } else if (isPageNotFound) {
       console.log(`Page V${volume} S${section} P${page} does not exist. Advancing to next section or volume.`);
