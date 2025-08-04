@@ -66,8 +66,8 @@ async function fixTranslatedFile() {
   try {
     const data = await fs.readFile(filePath, "utf8");
     const fixedData = data
-      .replace(/\)ص\(/g, "صلوات الله علیه")
-      .replace(/\)ع\(/g, "سلام الله علیه");
+      .replace(/\(ص\)/g, "(صلوات الله علیه)")
+      .replace(/\(ع\)/g, "(علیه السلام)");
     await fs.writeFile(filePath, fixedData, "utf8");
     console.log("Fixed special characters in the translated file.");
   } catch (error) {
