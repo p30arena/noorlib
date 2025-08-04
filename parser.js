@@ -57,7 +57,7 @@ async function main() {
 
   console.log(`Found ${sortedPaths.length} files to parse.`);
 
-  const allHadiths = [];
+  const hadithsById = {};
   let currentTitle = 'Untitled';
 
   for (const filePath of sortedPaths) {
@@ -72,7 +72,7 @@ async function main() {
     const [, volume, section, page] = match.map(Number);
 
     for (const parag of paragList) {
-      const $ = cheerio.load(parag.text);
+      const $ = cheerio.load(parag.text, { decodeEntities: false });
       const heading = $('heading').text().trim();
       if (heading) {
         currentTitle = heading;
@@ -87,37 +87,48 @@ async function main() {
           revayatIndex = `gen_${filePath}_${paragraphId}`;
         }
 
-        const existingHadith = allHadiths.find(
-          h => h.id === revayatIndex && h.title === currentTitle
-        );
-        
-        const sanadElement = $hadith.find('format.sanadHadith');
-        const ghaelElement = sanadElement.find('format.maasoom');
-        const ghael = ghaelElement.text().trim();
-        const sanad = sanadElement.text().trim();
+        const existingHadith = hadithsById[revayatIndex];
 
         const contentClone = $hadith.clone();
         contentClone.find('format.sanadHadith').remove();
-        contentClone.find('lfootnote').remove(); // Remove footnote markers for cleaner text
+        contentClone.find('lfootnote').remove();
         const hadithContent = contentClone.text().trim();
 
         if (existingHadith) {
-          existingHadith.content += `\n${hadithContent}`;
+          if (!existingHadith.pages.includes(page)) {
+            existingHadith.pages.push(page);
+          }
+          if (hadithContent && !existingHadith.parts.includes(hadithContent)) {
+            existingHadith.parts.push(hadithContent);
+          }
         } else {
-          allHadiths.push({
+          const sanadElement = $hadith.find('format.sanadHadith');
+          const ghaelElement = sanadElement.find('format.maasoom');
+          const ghael = ghaelElement.text().trim();
+          const sanad = sanadElement.text().trim();
+
+          hadithsById[revayatIndex] = {
             vol: volume,
             sec: section,
-            page: page,
+            pages: [page],
             id: revayatIndex,
             title: currentTitle,
             ghael: ghael,
             sanad: sanad,
-            content: hadithContent,
-          });
+            parts: hadithContent ? [hadithContent] : [],
+          };
         }
       });
     }
   }
+
+  const allHadiths = Object.values(hadithsById).map(h => {
+    return {
+      ...h,
+      content: h.parts.join('\n').trim(),
+      parts: undefined, // remove parts from final output
+    };
+  });
 
   await fs.writeFile(OUTPUT_FILE, JSON.stringify(allHadiths, null, 2));
   console.log(`Successfully parsed and saved ${allHadiths.length} hadiths to ${OUTPUT_FILE}`);

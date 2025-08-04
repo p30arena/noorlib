@@ -65,12 +65,12 @@ async function main() {
         sanad,
         ghael,
         vol,
-        page,
+        pages,
       } = doc;
       const transformedDoc = {
         book: {
           title: process.env.BOOK_TITLE,
-          page_no: page,
+          page_no: pages[0],
           vol_no: vol,
         },
         title: title_fa,
