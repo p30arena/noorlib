@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 218,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884657,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2275\"><page number=\"218\"/><page number=\"219\"/><heading level=\"1\">خلاصه‌ى آموزه‌هاى طب الصادق عليه السّلام </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "218",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2275\" paragraph-id=\"2275\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo218\">218</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "FDC78982-891F-436C-B048-B36B7F6542D2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

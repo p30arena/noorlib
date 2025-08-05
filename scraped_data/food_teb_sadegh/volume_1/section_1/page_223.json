@@ -1,0 +1,134 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 223,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884690,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2308\"><page number=\"222\"/><page number=\"223\"/><heading level=\"1\">فهرست منابع </heading></p>"
+        },
+        {
+          "paragraphId": 627884691,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2309\">مؤلف 1 - قرآن مجيد</p>"
+        },
+        {
+          "paragraphId": 627884692,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2310\">2 - الاحتجاج ابى منصور احمد بن على طبرسى</p>"
+        },
+        {
+          "paragraphId": 627884693,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2311\">3 - الاختصاص محمد بن نعمان عكبرى</p>"
+        },
+        {
+          "paragraphId": 627884694,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2312\">4 - الارشاد شيخ مفيد</p>"
+        },
+        {
+          "paragraphId": 627884695,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2313\">5 - ارشاد القلوب ابى محمد حسن ديلمى</p>"
+        },
+        {
+          "paragraphId": 627884696,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2314\">6 - الاستبصار ابى جعفر محمد طوسى</p>"
+        },
+        {
+          "paragraphId": 627884697,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2315\">7 - الامالى ابى جعفر محمد طوسى</p>"
+        },
+        {
+          "paragraphId": 627884698,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2316\">8 - الامالى شيخ مفيد</p>"
+        },
+        {
+          "paragraphId": 627884699,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2317\">9 - بحار الانوار علاّمه محمد باقر مجلسى</p>"
+        },
+        {
+          "paragraphId": 627884700,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2318\">10 - تحف العقول ابى محمد حسن بن على حرّانى</p>"
+        },
+        {
+          "paragraphId": 627884701,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2319\">11 - تفسير مجمع البيان علاّمه طبرسى</p>"
+        },
+        {
+          "paragraphId": 627884702,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"2320\">12 - تهذيب الاحكام ابى جعفر محمّد طوسى</p>"
+        },
+        {
+          "paragraphId": 627884703,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"2321\">13 - جامع الاحاديث ابى محمّد جعفر قمّى</p>"
+        },
+        {
+          "paragraphId": 627884704,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"2322\">14 - الخصال ابن بابويه قمّى</p>"
+        },
+        {
+          "paragraphId": 627884705,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"2323\">15 - الدّر المنثور جلال الدين سيوطى</p>"
+        },
+        {
+          "paragraphId": 627884706,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"2324\"><page number=\"224\"/>16 - دعائم الاسلام ابى حنيفه نعمان حيّون تميمى</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "223",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2308\" paragraph-id=\"2308\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo223\">223</span>\n    <strong style=\"0\" class=\"h-1 01\">فهرست منابع </strong>\n  </p>\n  <p id=\"p2309\" paragraph-id=\"2309\" class=\" G\">مؤلف 1 - قرآن مجيد</p>\n  <p id=\"p2310\" paragraph-id=\"2310\" class=\" G\">2 - الاحتجاج ابى منصور احمد بن على طبرسى</p>\n  <p id=\"p2311\" paragraph-id=\"2311\" class=\" G\">3 - الاختصاص محمد بن نعمان عكبرى</p>\n  <p id=\"p2312\" paragraph-id=\"2312\" class=\" G\">4 - الارشاد شيخ مفيد</p>\n  <p id=\"p2313\" paragraph-id=\"2313\" class=\" G\">5 - ارشاد القلوب ابى محمد حسن ديلمى</p>\n  <p id=\"p2314\" paragraph-id=\"2314\" class=\" G\">6 - الاستبصار ابى جعفر محمد طوسى</p>\n  <p id=\"p2315\" paragraph-id=\"2315\" class=\" G\">7 - الامالى ابى جعفر محمد طوسى</p>\n  <p id=\"p2316\" paragraph-id=\"2316\" class=\" G\">8 - الامالى شيخ مفيد</p>\n  <p id=\"p2317\" paragraph-id=\"2317\" class=\" G\">9 - بحار الانوار علاّمه محمد باقر مجلسى</p>\n  <p id=\"p2318\" paragraph-id=\"2318\" class=\" G\">10 - تحف العقول ابى محمد حسن بن على حرّانى</p>\n  <p id=\"p2319\" paragraph-id=\"2319\" class=\" G\">11 - تفسير مجمع البيان علاّمه طبرسى</p>\n  <p id=\"p2320\" paragraph-id=\"2320\" class=\" G\">12 - تهذيب الاحكام ابى جعفر محمّد طوسى</p>\n  <p id=\"p2321\" paragraph-id=\"2321\" class=\" G\">13 - جامع الاحاديث ابى محمّد جعفر قمّى</p>\n  <p id=\"p2322\" paragraph-id=\"2322\" class=\" G\">14 - الخصال ابن بابويه قمّى</p>\n  <p id=\"p2323\" paragraph-id=\"2323\" class=\" G\">15 - الدّر المنثور جلال الدين سيوطى</p>\n  <p id=\"p2324\" paragraph-id=\"2324\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "BEDD5D1A-FFC6-48B6-AADE-A833C158231D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,170 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 224,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884706,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2324\"><page number=\"224\"/>16 - دعائم الاسلام ابى حنيفه نعمان حيّون تميمى</p>"
+        },
+        {
+          "paragraphId": 627884707,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2325\">17 - الدعوات قطب الدين راوندى</p>"
+        },
+        {
+          "paragraphId": 627884708,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2326\">18 - روضة الواعظين محمد بن حسن فتّال نيشابورى</p>"
+        },
+        {
+          "paragraphId": 627884709,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2327\">19 - سنن ابن ماجه ابى عبد اللّه محمد بن ماجه قزوينى</p>"
+        },
+        {
+          "paragraphId": 627884710,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2328\">20 - سنن ابى داوود ابى داوود سجستانى</p>"
+        },
+        {
+          "paragraphId": 627884711,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2329\">21 - سنن ترمذى ابى عيسى محمد ترمذى</p>"
+        },
+        {
+          "paragraphId": 627884712,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2330\">22 - طب الصادق عليه السّلام منسوب به امام صادق عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 627884713,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2331\">23 - طب الرضا منسوب به امام رضا عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 627884714,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2332\">24 - طب الائمه ابنى بسطام نيشابورى</p>"
+        },
+        {
+          "paragraphId": 627884715,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2333\">25 - طب النبى محمود بن محمد چغمينى</p>"
+        },
+        {
+          "paragraphId": 627884716,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2334\">26 - علل الشرايع ابى جعفر محمد على ابن بابويه قمّى (شيخ صدوق)</p>"
+        },
+        {
+          "paragraphId": 627884717,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2335\">27 - الفردوس ابى شجاع شيرويه ديلمى</p>"
+        },
+        {
+          "paragraphId": 627884718,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"2336\">28 - الكافى ابى جعفر محمد بن يعقوب كلينى</p>"
+        },
+        {
+          "paragraphId": 627884719,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"2337\">29 - كنز العمّال علاء الدين على هندى</p>"
+        },
+        {
+          "paragraphId": 627884720,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"2338\">30 - المحاسن ابى جعفر احمد برفى</p>"
+        },
+        {
+          "paragraphId": 627884721,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"2339\">31 - مستدرك الوسائل ميرزا حسن نورى طبرسى</p>"
+        },
+        {
+          "paragraphId": 627884722,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"2340\">32 - مستطرفات السرائر ابى عبد اللّه محمد حلّى</p>"
+        },
+        {
+          "paragraphId": 627884723,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"2341\">33 - مسند الشهاب محمد بن سلامه القضاعى</p>"
+        },
+        {
+          "paragraphId": 627884724,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"2342\">34 - مشكاة الانوار ابى فضل على طبرسى</p>"
+        },
+        {
+          "paragraphId": 627884725,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"2343\">35 - مصباح الشريعه و مفتاح الحقيقه منسوب به امام صادق عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 627884726,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"2344\">36 - معدن الجواهر و رياضة الخواطر ابى فتح محمد كراجكى</p>"
+        },
+        {
+          "paragraphId": 627884727,
+          "paragNumber": 22,
+          "tocNumber": 0,
+          "text": "<p id=\"2345\">37 - المقنعه ابى عبد اللّه محمد نعمان عكبرى معروف به شيخ مفيد</p>"
+        },
+        {
+          "paragraphId": 627884728,
+          "paragNumber": 23,
+          "tocNumber": 0,
+          "text": "<p id=\"2346\"><page number=\"225\"/>38 - مكارم الاخلاق ابى على الفضل طبرسى</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "224",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2324\" paragraph-id=\"2324\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo224\">224</span>16 - دعائم الاسلام ابى حنيفه نعمان حيّون تميمى</p>\n  <p id=\"p2325\" paragraph-id=\"2325\" class=\" G\">17 - الدعوات قطب الدين راوندى</p>\n  <p id=\"p2326\" paragraph-id=\"2326\" class=\" G\">18 - روضة الواعظين محمد بن حسن فتّال نيشابورى</p>\n  <p id=\"p2327\" paragraph-id=\"2327\" class=\" G\">19 - سنن ابن ماجه ابى عبد اللّه محمد بن ماجه قزوينى</p>\n  <p id=\"p2328\" paragraph-id=\"2328\" class=\" G\">20 - سنن ابى داوود ابى داوود سجستانى</p>\n  <p id=\"p2329\" paragraph-id=\"2329\" class=\" G\">21 - سنن ترمذى ابى عيسى محمد ترمذى</p>\n  <p id=\"p2330\" paragraph-id=\"2330\" class=\" G\">22 - طب الصادق عليه السّلام منسوب به امام صادق عليه السّلام</p>\n  <p id=\"p2331\" paragraph-id=\"2331\" class=\" G\">23 - طب الرضا منسوب به امام رضا عليه السّلام</p>\n  <p id=\"p2332\" paragraph-id=\"2332\" class=\" G\">24 - طب الائمه ابنى بسطام نيشابورى</p>\n  <p id=\"p2333\" paragraph-id=\"2333\" class=\" G\">25 - طب النبى محمود بن محمد چغمينى</p>\n  <p id=\"p2334\" paragraph-id=\"2334\" class=\" G\">26 - علل الشرايع ابى جعفر محمد على ابن بابويه قمّى (شيخ صدوق)</p>\n  <p id=\"p2335\" paragraph-id=\"2335\" class=\" G\">27 - الفردوس ابى شجاع شيرويه ديلمى</p>\n  <p id=\"p2336\" paragraph-id=\"2336\" class=\" G\">28 - الكافى ابى جعفر محمد بن يعقوب كلينى</p>\n  <p id=\"p2337\" paragraph-id=\"2337\" class=\" G\">29 - كنز العمّال علاء الدين على هندى</p>\n  <p id=\"p2338\" paragraph-id=\"2338\" class=\" G\">30 - المحاسن ابى جعفر احمد برفى</p>\n  <p id=\"p2339\" paragraph-id=\"2339\" class=\" G\">31 - مستدرك الوسائل ميرزا حسن نورى طبرسى</p>\n  <p id=\"p2340\" paragraph-id=\"2340\" class=\" G\">32 - مستطرفات السرائر ابى عبد اللّه محمد حلّى</p>\n  <p id=\"p2341\" paragraph-id=\"2341\" class=\" G\">33 - مسند الشهاب محمد بن سلامه القضاعى</p>\n  <p id=\"p2342\" paragraph-id=\"2342\" class=\" G\">34 - مشكاة الانوار ابى فضل على طبرسى</p>\n  <p id=\"p2343\" paragraph-id=\"2343\" class=\" G\">35 - مصباح الشريعه و مفتاح الحقيقه منسوب به امام صادق عليه السّلام</p>\n  <p id=\"p2344\" paragraph-id=\"2344\" class=\" G\">36 - معدن الجواهر و رياضة الخواطر ابى فتح محمد كراجكى</p>\n  <p id=\"p2345\" paragraph-id=\"2345\" class=\" G\">37 - المقنعه ابى عبد اللّه محمد نعمان عكبرى معروف به شيخ مفيد</p>\n  <p id=\"p2346\" paragraph-id=\"2346\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "C8737EFB-DDD9-4B32-A8FE-1CA8E466D455",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

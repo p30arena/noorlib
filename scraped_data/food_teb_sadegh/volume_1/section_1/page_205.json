@@ -1,0 +1,92 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 205,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884924,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2131\"><page number=\"205\"/>بهترين راه درمان بيمارى‌ها چهار عمل است:</p>"
+        },
+        {
+          "paragraphId": 627884925,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2132\">1 - حجامت</p>"
+        },
+        {
+          "paragraphId": 627884926,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2133\">2 - ضماد</p>"
+        },
+        {
+          "paragraphId": 627884927,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2134\">3 - حمام</p>"
+        },
+        {
+          "paragraphId": 627884928,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2135\">4 - تنقيه و اماله و شياف</p>"
+        },
+        {
+          "paragraphId": 627884929,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2136\">پيش از غذا دست‌هاى خود را به خوبى بشوييد. اين عمل فقر را برطرف خواهد ساخت و به عمر شما خواهد افزود.</p>"
+        },
+        {
+          "paragraphId": 627884930,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2137\">*** امام عليه السّلام در اين آموزه‌هاى عالى مردم را از فقر و كوتاهى عمر برحذر داشته است. طب امروز نيز ثابت كرده است كه اگر دست‌ها به هنگام غذا شسته و «استرليزه» نباشند بعيد نيست كه ميكروب‌هاى زيان‌آور با لقمه از گلوى آدمى فروروند و از راه معده به كبد و خون و قلب راه يابند.</p>"
+        },
+        {
+          "paragraphId": 627884931,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2138\">اين ميكروب‌ها يا براى او مرگ نابه‌هنگام بياورند و يا او را به مرضى دچار سازند كه هرچه در كف دارد براى درمان خويش هزينه كند و در نتيجه به فقر و پريشانى دچار شود.</p>"
+        },
+        {
+          "paragraphId": 627884932,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2139\">امام فرمود: براى اينكه از شرّ ميكروب‌هاى خطرناك دست و انگشتان خويش در امان بمانيد، دست را پيش از غذا بشوييد و بدين ترتيب فقر و مرگ زودرس را از خود برانيد. </p>"
+        },
+        {
+          "paragraphId": 627884933,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2140\"><page number=\"206\"/><page number=\"207\"/><heading level=\"2\"><format class=\"BM\">گفتار امام در بهداشت روحى - روانى </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "205",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2131\" paragraph-id=\"2131\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo205\">205</span>بهترين راه درمان بيمارى‌ها چهار عمل است:</p>\n  <p id=\"p2132\" paragraph-id=\"2132\" class=\" G\">1 - حجامت</p>\n  <p id=\"p2133\" paragraph-id=\"2133\" class=\" G\">2 - ضماد</p>\n  <p id=\"p2134\" paragraph-id=\"2134\" class=\" G\">3 - حمام</p>\n  <p id=\"p2135\" paragraph-id=\"2135\" class=\" G\">4 - تنقيه و اماله و شياف</p>\n  <p id=\"p2136\" paragraph-id=\"2136\" class=\" G\">پيش از غذا دست‌هاى خود را به خوبى بشوييد. اين عمل فقر را برطرف خواهد ساخت و به عمر شما خواهد افزود.</p>\n  <p id=\"p2137\" paragraph-id=\"2137\" class=\" G\">*** امام عليه السّلام در اين آموزه‌هاى عالى مردم را از فقر و كوتاهى عمر برحذر داشته است. طب امروز نيز ثابت كرده است كه اگر دست‌ها به هنگام غذا شسته و «استرليزه» نباشند بعيد نيست كه ميكروب‌هاى زيان‌آور با لقمه از گلوى آدمى فروروند و از راه معده به كبد و خون و قلب راه يابند.</p>\n  <p id=\"p2138\" paragraph-id=\"2138\" class=\" G\">اين ميكروب‌ها يا براى او مرگ نابه‌هنگام بياورند و يا او را به مرضى دچار سازند كه هرچه در كف دارد براى درمان خويش هزينه كند و در نتيجه به فقر و پريشانى دچار شود.</p>\n  <p id=\"p2139\" paragraph-id=\"2139\" class=\" G\">امام فرمود: براى اينكه از شرّ ميكروب‌هاى خطرناك دست و انگشتان خويش در امان بمانيد، دست را پيش از غذا بشوييد و بدين ترتيب فقر و مرگ زودرس را از خود برانيد. </p>\n  <p id=\"p2140\" paragraph-id=\"2140\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "DC906B8E-2523-497E-B5E1-565660488661",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

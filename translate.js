@@ -26,6 +26,7 @@ async function translateText(text, isTitle = false) {
   ### Translation Helpers
    - The word "باب" is "موضوع".
    - The word "کراث" is "تره".
+   - The word "جبن" is "پنیر".
    - The word "مفضل" sometimes relates to a person.
   `;
   const prompt = `${prefix} ${isTitle ? title_sufix : ""}\n---\n${text}`;

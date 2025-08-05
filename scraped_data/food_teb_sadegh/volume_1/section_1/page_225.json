@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 225,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884728,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2346\"><page number=\"225\"/>38 - مكارم الاخلاق ابى على الفضل طبرسى</p>"
+        },
+        {
+          "paragraphId": 627884729,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2347\">39 - مناقب آل ابى طالب (مناقب ابن شهر آشوب)</p>"
+        },
+        {
+          "paragraphId": 627884730,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2348\">40 - من لا يحضره الفقيه ابى جعفر محمد بن على ابن بابويه قمى (شيخ صدوق)</p>"
+        },
+        {
+          "paragraphId": 627884731,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2349\">41 - منية المريد زين الدين على عاملى معروف به شهيد ثانى</p>"
+        },
+        {
+          "paragraphId": 627884732,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2350\">42 - الوافى ملا محسن فيض كاشانى</p>"
+        },
+        {
+          "paragraphId": 627884733,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2351\"><page number=\"226\"/><format class=\"a\">تأليفات مؤلف تأليفات چاپ شده</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "225",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2346\" paragraph-id=\"2346\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo225\">225</span>38 - مكارم الاخلاق ابى على الفضل طبرسى</p>\n  <p id=\"p2347\" paragraph-id=\"2347\" class=\" G\">39 - مناقب آل ابى طالب (مناقب ابن شهر آشوب)</p>\n  <p id=\"p2348\" paragraph-id=\"2348\" class=\" G\">40 - من لا يحضره الفقيه ابى جعفر محمد بن على ابن بابويه قمى (شيخ صدوق)</p>\n  <p id=\"p2349\" paragraph-id=\"2349\" class=\" G\">41 - منية المريد زين الدين على عاملى معروف به شهيد ثانى</p>\n  <p id=\"p2350\" paragraph-id=\"2350\" class=\" G\">42 - الوافى ملا محسن فيض كاشانى</p>\n  <p id=\"p2351\" paragraph-id=\"2351\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "031979AD-D374-48BD-9993-80C58D1F61A7",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

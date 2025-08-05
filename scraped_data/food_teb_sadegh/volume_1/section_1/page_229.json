@@ -1,0 +1,104 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 229,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884782,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2400\"><page number=\"229\"/>اسطوخودوس،</p>"
+        },
+        {
+          "paragraphId": 627884783,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2401\">خارخاسك و مرزنگوش</p>"
+        },
+        {
+          "paragraphId": 627884784,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2402\">* معجزات غذايى و درمانى خاكشير، ثعلب، زنبق، سنجد و هوم</p>"
+        },
+        {
+          "paragraphId": 627884785,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2403\">* معجزات غذايى و درمانى شبدر، يونجه، كتيرا و صمغ عربى</p>"
+        },
+        {
+          "paragraphId": 627884786,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2404\">* علل سرماخوردگى، آنفلوآنزا، زكام و درمان آنها</p>"
+        },
+        {
+          "paragraphId": 627884787,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2405\">* علل يبوست و راه‌هاى طبيعى درمان آن</p>"
+        },
+        {
+          "paragraphId": 627884788,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2406\">* علل ريزش مو راه‌هاى تقويت و بهداشت آن</p>"
+        },
+        {
+          "paragraphId": 627884789,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2407\">* علل چاقى، لاغرى و راه‌هاى درمان آن</p>"
+        },
+        {
+          "paragraphId": 627884790,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2408\">* تغذيه، سلامتى و بهداشت كودك و جوان</p>"
+        },
+        {
+          "paragraphId": 627884791,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2409\">* سبزى‌ها و ميوه‌هاى بهشتى در طب النبى و طب الائمه</p>"
+        },
+        {
+          "paragraphId": 627884792,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2410\">* جامع طب الصادق عليه السّلام</p>"
+        },
+        {
+          "paragraphId": 627884793,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2411\">* طب الائمه عليهم السّلام</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "229",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2400\" paragraph-id=\"2400\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo229\">229</span>اسطوخودوس،</p>\n  <p id=\"p2401\" paragraph-id=\"2401\" class=\" G\">خارخاسك و مرزنگوش</p>\n  <p id=\"p2402\" paragraph-id=\"2402\" class=\" G\">* معجزات غذايى و درمانى خاكشير، ثعلب، زنبق، سنجد و هوم</p>\n  <p id=\"p2403\" paragraph-id=\"2403\" class=\" G\">* معجزات غذايى و درمانى شبدر، يونجه، كتيرا و صمغ عربى</p>\n  <p id=\"p2404\" paragraph-id=\"2404\" class=\" G\">* علل سرماخوردگى، آنفلوآنزا، زكام و درمان آنها</p>\n  <p id=\"p2405\" paragraph-id=\"2405\" class=\" G\">* علل يبوست و راه‌هاى طبيعى درمان آن</p>\n  <p id=\"p2406\" paragraph-id=\"2406\" class=\" G\">* علل ريزش مو راه‌هاى تقويت و بهداشت آن</p>\n  <p id=\"p2407\" paragraph-id=\"2407\" class=\" G\">* علل چاقى، لاغرى و راه‌هاى درمان آن</p>\n  <p id=\"p2408\" paragraph-id=\"2408\" class=\" G\">* تغذيه، سلامتى و بهداشت كودك و جوان</p>\n  <p id=\"p2409\" paragraph-id=\"2409\" class=\" G\">* سبزى‌ها و ميوه‌هاى بهشتى در طب النبى و طب الائمه</p>\n  <p id=\"p2410\" paragraph-id=\"2410\" class=\" G\">* جامع طب الصادق عليه السّلام</p>\n  <p id=\"p2411\" paragraph-id=\"2411\" class=\" G\">* طب الائمه عليهم السّلام</p>\n  <span />\n  <span />\n</div>",
+      "bookPageVisitLogId": "C723F653-D4E4-46CF-AA9A-DE5F39FAB971",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

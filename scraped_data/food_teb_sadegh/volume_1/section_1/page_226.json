@@ -1,0 +1,110 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 226,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884733,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2351\"><page number=\"226\"/><format class=\"a\">تأليفات مؤلف تأليفات چاپ شده</format></p>"
+        },
+        {
+          "paragraphId": 627884734,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2352\">* معجزات غذايى و درمانى خرما</p>"
+        },
+        {
+          "paragraphId": 627884735,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2353\">* معجزات غذايى و درمانى ليموترش و ليموشيرين</p>"
+        },
+        {
+          "paragraphId": 627884736,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2354\">* معجزات غذايى و درمانى پرتقال و نارنگى و گريپ‌فروت</p>"
+        },
+        {
+          "paragraphId": 627884737,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2355\">* معجزات غذايى و درمانى نان سبوس‌دار گندم و جو</p>"
+        },
+        {
+          "paragraphId": 627884738,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2356\">* معجزات غذايى و درمانى گياهان دارويى</p>"
+        },
+        {
+          "paragraphId": 627884739,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2357\">* معجزات غذايى و درمانى سياه‌دانه و عسل</p>"
+        },
+        {
+          "paragraphId": 627884740,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2358\">* معجزات غذايى و درمانى سويا</p>"
+        },
+        {
+          "paragraphId": 627884741,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2359\">* سلامتى و نشاط با آجيل سويا</p>"
+        },
+        {
+          "paragraphId": 627884742,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2360\">* تغذيه، بهداشت و سلامتى</p>"
+        },
+        {
+          "paragraphId": 627884743,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2361\">* معجزات درمانى ميوه‌ها</p>"
+        },
+        {
+          "paragraphId": 627884744,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"2362\">* چگونه با تغذيه سالم بمانيم</p>"
+        },
+        {
+          "paragraphId": 627884745,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"2363\"><page number=\"227\"/><format class=\"a\">تأليفات آماده‌ى چاپ مؤلف</format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "226",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2351\" paragraph-id=\"2351\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo226\">226</span>\n    <span class=\"a\">تأليفات مؤلف تأليفات چاپ شده</span>\n  </p>\n  <p id=\"p2352\" paragraph-id=\"2352\" class=\" G\">* معجزات غذايى و درمانى خرما</p>\n  <p id=\"p2353\" paragraph-id=\"2353\" class=\" G\">* معجزات غذايى و درمانى ليموترش و ليموشيرين</p>\n  <p id=\"p2354\" paragraph-id=\"2354\" class=\" G\">* معجزات غذايى و درمانى پرتقال و نارنگى و گريپ‌فروت</p>\n  <p id=\"p2355\" paragraph-id=\"2355\" class=\" G\">* معجزات غذايى و درمانى نان سبوس‌دار گندم و جو</p>\n  <p id=\"p2356\" paragraph-id=\"2356\" class=\" G\">* معجزات غذايى و درمانى گياهان دارويى</p>\n  <p id=\"p2357\" paragraph-id=\"2357\" class=\" G\">* معجزات غذايى و درمانى سياه‌دانه و عسل</p>\n  <p id=\"p2358\" paragraph-id=\"2358\" class=\" G\">* معجزات غذايى و درمانى سويا</p>\n  <p id=\"p2359\" paragraph-id=\"2359\" class=\" G\">* سلامتى و نشاط با آجيل سويا</p>\n  <p id=\"p2360\" paragraph-id=\"2360\" class=\" G\">* تغذيه، بهداشت و سلامتى</p>\n  <p id=\"p2361\" paragraph-id=\"2361\" class=\" G\">* معجزات درمانى ميوه‌ها</p>\n  <p id=\"p2362\" paragraph-id=\"2362\" class=\" G\">* چگونه با تغذيه سالم بمانيم</p>\n  <p id=\"p2363\" paragraph-id=\"2363\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "A00AF14B-4854-4AB2-AE1C-4CE1BAF0B57C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

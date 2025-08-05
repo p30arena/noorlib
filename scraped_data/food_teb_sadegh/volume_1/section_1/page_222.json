@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 222,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884690,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2308\"><page number=\"222\"/><page number=\"223\"/><heading level=\"1\">فهرست منابع </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "222",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2308\" paragraph-id=\"2308\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo222\">222</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "CA4C3437-A865-45B5-95DB-A158FACD7C48",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

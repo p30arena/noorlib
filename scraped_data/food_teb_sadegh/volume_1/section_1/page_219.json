@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 219,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884657,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"2275\"><page number=\"218\"/><page number=\"219\"/><heading level=\"1\">خلاصه‌ى آموزه‌هاى طب الصادق عليه السّلام </heading></p>"
+        },
+        {
+          "paragraphId": 627884658,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"2276\">درمان: به وسيله‌ى سير دردهاى خود را درمان كنيد، امّا با دهان بويناك به مسجد نرويد.</p>"
+        },
+        {
+          "paragraphId": 627884659,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"2277\">بهداشت دهان و نيروى جنسى: پياز بخوريد زيرا در پياز سه حكمت سودمند نهفته است:</p>"
+        },
+        {
+          "paragraphId": 627884660,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"2278\">1 - لثه‌ى آدمى را قوى و ستبر مى‌سازد.</p>"
+        },
+        {
+          "paragraphId": 627884661,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"2279\">2 - دهان را خوش‌بو مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627884662,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"2280\">3 - بر نيروى جنسى مى‌افزايد.</p>"
+        },
+        {
+          "paragraphId": 627884663,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"2281\">همچنين امام صادق عليه السّلام فرموده‌اند: كه خوردن پياز رنگ چهره را برافروخته مى‌كند و خستگى را از بدن برداشته اعصاب را استوار مى‌كند و بيمارى تب را شفا مى‌دهد.</p>"
+        },
+        {
+          "paragraphId": 627884664,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"2282\">بهداشت - درمان: ترب مصرف كنيد زيرا برگ اين گياه، گاز معده را در هم شكسته و مغزش جريان ادرار را آسان ساخته و ريشه‌اش بلغم را مى‌برد.</p>"
+        },
+        {
+          "paragraphId": 627884665,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"2283\">درمان: خوردن هويج در علاج قولنج و بواسير مؤثر است و اين گياه هم از گياهانى است كه بر قوه‌ى باه (نيروى جنسى) مى‌افزايد و كليه را گرم مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627884666,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"2284\">درمان: خوردن كدو قواى عقلى و حيات مغزى انسان را زياد خواهد كرد و براى درد قولنج هم دارويى سودمند است.</p>"
+        },
+        {
+          "paragraphId": 627884667,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"2285\"><page number=\"220\"/>بهداشت: ميوه‌ها عموما مسموم هستند؛ وقتى به دستتان مى‌رسند ابتدا آنها را با آب بشوييد.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "219",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p2275\" paragraph-id=\"2275\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo219\">219</span>\n    <strong style=\"0\" class=\"h-1 01\">خلاصه‌ى آموزه‌هاى طب الصادق عليه السّلام </strong>\n  </p>\n  <p id=\"p2276\" paragraph-id=\"2276\" class=\" G\">درمان: به وسيله‌ى سير دردهاى خود را درمان كنيد، امّا با دهان بويناك به مسجد نرويد.</p>\n  <p id=\"p2277\" paragraph-id=\"2277\" class=\" G\">بهداشت دهان و نيروى جنسى: پياز بخوريد زيرا در پياز سه حكمت سودمند نهفته است:</p>\n  <p id=\"p2278\" paragraph-id=\"2278\" class=\" G\">1 - لثه‌ى آدمى را قوى و ستبر مى‌سازد.</p>\n  <p id=\"p2279\" paragraph-id=\"2279\" class=\" G\">2 - دهان را خوش‌بو مى‌كند.</p>\n  <p id=\"p2280\" paragraph-id=\"2280\" class=\" G\">3 - بر نيروى جنسى مى‌افزايد.</p>\n  <p id=\"p2281\" paragraph-id=\"2281\" class=\" G\">همچنين امام صادق عليه السّلام فرموده‌اند: كه خوردن پياز رنگ چهره را برافروخته مى‌كند و خستگى را از بدن برداشته اعصاب را استوار مى‌كند و بيمارى تب را شفا مى‌دهد.</p>\n  <p id=\"p2282\" paragraph-id=\"2282\" class=\" G\">بهداشت - درمان: ترب مصرف كنيد زيرا برگ اين گياه، گاز معده را در هم شكسته و مغزش جريان ادرار را آسان ساخته و ريشه‌اش بلغم را مى‌برد.</p>\n  <p id=\"p2283\" paragraph-id=\"2283\" class=\" G\">درمان: خوردن هويج در علاج قولنج و بواسير مؤثر است و اين گياه هم از گياهانى است كه بر قوه‌ى باه (نيروى جنسى) مى‌افزايد و كليه را گرم مى‌كند.</p>\n  <p id=\"p2284\" paragraph-id=\"2284\" class=\" G\">درمان: خوردن كدو قواى عقلى و حيات مغزى انسان را زياد خواهد كرد و براى درد قولنج هم دارويى سودمند است.</p>\n  <p id=\"p2285\" paragraph-id=\"2285\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "7224192A-DF9B-4556-96AC-9814B4F13371",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}
