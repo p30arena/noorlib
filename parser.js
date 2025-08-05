@@ -122,6 +122,46 @@ async function main() {
     }
   }
 
+  // Fallback for books with a different structure
+  if (Object.keys(hadithsById).length === 0) {
+    console.log('No hadiths found with the primary method. Trying fallback...');
+    for (const filePath of sortedPaths) {
+      const fileContent = await fs.readFile(filePath, 'utf-8');
+      const jsonData = JSON.parse(fileContent);
+      const paragList = jsonData.data[0].paragList;
+
+      if (!paragList) continue;
+
+      const match = filePath.match(/volume_(\d+)\/section_(\d+)\/page_(\d+)\.json$/);
+      if (!match) continue;
+      const [, volume, section, page] = match.map(Number);
+
+      for (const parag of paragList) {
+        const $ = cheerio.load(parag.text, { decodeEntities: false });
+        const text = $('p').text();
+        const hadithMatch = text.match(/(.+) فرمود: «(.+)»/);
+
+        if (hadithMatch) {
+          const [, ghael, content] = hadithMatch;
+          const revayatIndex = `fallback_${parag.paragraphId}`;
+
+          if (!hadithsById[revayatIndex]) {
+            hadithsById[revayatIndex] = {
+              vol: volume,
+              sec: section,
+              pages: [page],
+              id: revayatIndex,
+              title: currentTitle,
+              ghael: ghael.trim(),
+              sanad: '', // No sanad info in this format
+              parts: [content.trim()],
+            };
+          }
+        }
+      }
+    }
+  }
+
   const allHadiths = Object.values(hadithsById).map(h => {
     return {
       ...h,
