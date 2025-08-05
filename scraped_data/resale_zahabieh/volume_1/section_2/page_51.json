@@ -1,0 +1,73 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 51,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892276,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"421\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"51\"/>أَجْزَاءً بِالسَّوِيَّةِ‌<lfootnote noteId=\"209\">1</lfootnote> وَ مِلْحاً أَنْدَرَانِيّاً<lfootnote noteId=\"210\">2</lfootnote> رُبُعَ جُزْءٍ فَخُذْ كُلَّ جُزْءٍ مِنْهَا فَتَدُقُّ وَحْدَهُ وَ تستك <format class=\"z\">[يُسْتَنُّ‌]</format><lfootnote noteId=\"211\">3</lfootnote> بِهِ فَإِنَّهُ مُمْسِكٌ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892277,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"422\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"52\"/>لِلْأَسْنَانِ‌<lfootnote noteId=\"212\">1</lfootnote>[t-1-1-60-2]<format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"205\" Id=\"1\"/>وَ مَنْ أَرَادَ أَنْ يَبْيَضَّ أَسْنَانُهُ فَلْيَأْخُذْ جُزْءَ مِلْحٍ أَنْدَرَانِيٍّ وَ جُزْءاً مِنْ زَبَدِ اَلْبَحْرِ<lfootnote noteId=\"213\">2</lfootnote> بِالسَّوِيَّةِ يُسْحَقَانِ جَمِيعاً وَ يَسْتَنُّ بِهِمَا. </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892722,
+          "text": "<footnote id=\"205\"><mnote>(3)</mnote> قال الشيخ الرئيس في القانون 327/1: «الكزمازك هو ثمر الطرفاء». و فيه عن ديسقوريدوس: الطرفاء شجرة معروفة تنبت عند مياه قائمة، و لها ثمر شبيه بالزهر. و قد يكون بمصر الشام طرفاء بستاني شبيه بالبري في كل شىء ماخلا الثمر، فانه يشبه العفص.<br/>و من خواصه: قال الشيخ الرئيس: «ان فيه قبضا، و جلاءا، و تنقية من *<page number=\"51\"/>* غير تجفيف شديد، و ماءه جال مجفف، جلائه اكثر من تجفيفه، و طبيخ ورقه بالشراب ينفع وجع الاسنان مضمضمة. و يمنع من تآكلها خصوصا ثمرته».</footnote>"
+        },
+        {
+          "footnoteId": 702892723,
+          "text": "<footnote id=\"206\"><mnote>(4)</mnote>قال الشيخ الرئيس في القانن 378/1: «انه ينفع من عفن الانف»، و الفم، و القلاع، و استرخاء اللثة، و يزيد في الحفظ جدا، و ينفع من قروح الفم المتآكلة.</footnote>"
+        },
+        {
+          "footnoteId": 702892724,
+          "text": "<footnote id=\"207\"><mnote>(5)</mnote>قال الشيخ الرئيس في القانون 300/1 و من خواصه: «انه يشد اللثة». و قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 189/4 عن ديسقوريدوس: «اذا طبخ بشراب كان صالحا لوجع العين و الاذن و اللثة اذا تمضمض بها. و اذا ذر و هو يابس على اللثة التي تنصب اليها الفضول أصلحها.</footnote>"
+        },
+        {
+          "footnoteId": 702892725,
+          "text": "<footnote id=\"208\"><mnote>(6)</mnote>قال ابن البيطار في المصدر السابق 37/3 عن ديسقوريدوس: «انه يجفف اللسان، و يمكث طيب الرائحه في الفم اذا مضغ».</footnote>"
+        },
+        {
+          "footnoteId": 702892726,
+          "text": "<footnote id=\"209\"><mnote>(1)</mnote> في (ب و ج و د): و حب الاثل أجزاء سواء.</footnote>"
+        },
+        {
+          "footnoteId": 702892727,
+          "text": "<footnote id=\"210\"><mnote>(2)</mnote> قال ابن البيطار في المصدر السابق 163/4: «هو أحد أصناف الملح المعدني. و فيه عن ديسقوريدوس: و قوته قابضة تجلو و تنقي، و نافع اللثة المسترخية. و فيه أيضا و قال غيره: «اذا حل الملح بالخل و تمضمض به قطع سيلان الدم المنبعث من اللثات، و المنبعث أيضا بعد قلع الضرس. و اذا سخن و أمسك في الفم نفع من وجع الضرس».</footnote>"
+        },
+        {
+          "footnoteId": 702892728,
+          "text": "<footnote id=\"211\"><mnote>(3)</mnote> في (ب و ج و د) فيدق الجميع ناعما و يستن.</footnote>"
+        }
+      ],
+      "pageValue": "51",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p421\" paragraph-id=\"421\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo51\">51</span>أَجْزَاءً بِالسَّوِيَّةِ‌<span><sup><a class=\"NewFn\" href=\"#footnote209\" title=\"(1)  في (ب و ج و د): و حب الاثل أجزاء سواء.\">1</a></sup></span> وَ مِلْحاً أَنْدَرَانِيّاً<span><sup><a class=\"NewFn\" href=\"#footnote210\" title=\"(2)  قال ابن البيطار في المصدر السابق 163/4: «هو أحد أصناف الملح المعدني. و فيه عن ديسقوريدوس: و قوته قابضة تجلو و تنقي، و نافع اللثة المسترخية. و فيه أيضا و قال غيره: «اذا حل الملح بالخل و تمضمض به قطع سيلان الدم المنبعث من اللثات، و المنبعث أيضا بعد قلع الضرس. و اذا سخن و أمسك في الفم نفع من وجع الضرس».\">2</a></sup></span> رُبُعَ جُزْءٍ فَخُذْ كُلَّ جُزْءٍ مِنْهَا فَتَدُقُّ وَحْدَهُ وَ تستك <span class=\"z\">[يُسْتَنُّ‌]</span><span><sup><a class=\"NewFn\" href=\"#footnote211\" title=\"(3)  في (ب و ج و د) فيدق الجميع ناعما و يستن.\">3</a></sup></span> بِهِ فَإِنَّهُ مُمْسِكٌ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p422\" paragraph-id=\"422\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote205\" footnote-id=\"205\"><page number=\"51\" />* غير تجفيف شديد، و ماءه جال مجفف، جلائه اكثر من تجفيفه، و طبيخ ورقه بالشراب ينفع وجع الاسنان مضمضمة. و يمنع من تآكلها خصوصا ثمرته».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote206\" footnote-id=\"206\">(4) قال الشيخ الرئيس في القانن 378/1: «انه ينفع من عفن الانف»، و الفم، و القلاع، و استرخاء اللثة، و يزيد في الحفظ جدا، و ينفع من قروح الفم المتآكلة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote207\" footnote-id=\"207\">(5) قال الشيخ الرئيس في القانون 300/1 و من خواصه: «انه يشد اللثة». و قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 189/4 عن ديسقوريدوس: «اذا طبخ بشراب كان صالحا لوجع العين و الاذن و اللثة اذا تمضمض بها. و اذا ذر و هو يابس على اللثة التي تنصب اليها الفضول أصلحها.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote208\" footnote-id=\"208\">(6) قال ابن البيطار في المصدر السابق 37/3 عن ديسقوريدوس: «انه يجفف اللسان، و يمكث طيب الرائحه في الفم اذا مضغ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote209\" footnote-id=\"209\">(1)  في (ب و ج و د): و حب الاثل أجزاء سواء.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote210\" footnote-id=\"210\">(2)  قال ابن البيطار في المصدر السابق 163/4: «هو أحد أصناف الملح المعدني. و فيه عن ديسقوريدوس: و قوته قابضة تجلو و تنقي، و نافع اللثة المسترخية. و فيه أيضا و قال غيره: «اذا حل الملح بالخل و تمضمض به قطع سيلان الدم المنبعث من اللثات، و المنبعث أيضا بعد قلع الضرس. و اذا سخن و أمسك في الفم نفع من وجع الضرس».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote211\" footnote-id=\"211\">(3)  في (ب و ج و د) فيدق الجميع ناعما و يستن.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "24374415-8EBE-4F71-B117-F5F457B5453D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,60 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 20,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892239,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"384\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"18\"/><page number=\"19\"/><page number=\"20\"/><page number=\"21\"/>[t-1-1-56-1]صِفَةُ اَلشَّرَابِ <lfootnote noteId=\"74\">_1</lfootnote>يُؤْخَذُ مِنَ اَلزَّبِيبِ‌<lfootnote noteId=\"75\">_2</lfootnote> اَلْمُنَقَّى عَشَرَةُ أَرْطَالٍ فَيُغْسَلُ وَ يُنْقَعُ فِي مَاءٍ صافي <format class=\"z\">[صَافٍ‌]</format> غَمْرُهُ وَ زِيَادَةً عَلَيْهِ أَرْبَعَةُ أَصَابِعَ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": [
+        {
+          "taliqehId": 702892788,
+          "text": "<footnote id=\"271\"><page number=\"20\"/><mnote/>و دخول الحمام، و يستعمل فيه الطيب المعتدل المزاج، و يحتنب فيه أكل البطيخ و القشاء.<br/>تشرين الاول: [t-1-1-53-3]واحد و ثلاثون يوما، فيه تهب الرياح المختلفة، و يتنفس فيه ريح الصبا، و يجتنب فيه الفصد، و شرب الدواء، و يحمد فيه الجماع، و ينفع فيه (أكل اللحم السمين، و الرمان المز<lfootnote noteId=\"68\">1</lfootnote>، و الفاكهة بعد الطعام، و يستعل فيه)<lfootnote noteId=\"69\">2</lfootnote> أكل اللحوم بالتوابل، و يقلل فيه شرب الماء، و يحمد فيه الرياضة.<br/>تشرين الثاني: [t-1-1-54-1]ثلاثون يوما، فيه يقطع المطر الوسمي<lfootnote noteId=\"70\">3</lfootnote>، و ينهي فيه عن شرب الماء بالليل، و يقلل فيه من دخول الحمام، و الجماع، و يشرب بكرة كل يوم جرعة ماء حار، و يجتنب فيه أكل البقول الحارة كالكرفس، و النعناع و الجرجير<lfootnote noteId=\"71\">4</lfootnote>.<br/>كانون الاول: [t-1-1-54-2]واحد و ثلاثون يوما، تقوى فيه العواصف، و يشتد البرد، و ينفع فيه كل ما ذكرناه في تشرين الاخر. و يحذر فيه من أكل الطعام البارد، و يتقى فيه الحجامة و الفصد، و يستعمل فيه الاغذية الحارة بالقوة و الفعل.<br/>كانون الاخر: [t-1-1-54-3]واحد و ثلاثون يوما، يقوى فيه غلبة البلغم، و ينبغي ان يتجرع فيه الماء الحار على الريق، و يحمد فيه الجماع، [t-1-1-55-1]و ينفع الاحشاء فيه أكل البقول الحارة كالكرفس، و الجرجير، و الكراث. و ينفع فيه دخول الحمام *</footnote>"
+        }
+      ],
+      "footnoteList": [
+        {
+          "footnoteId": 702892585,
+          "text": "<footnote id=\"68\"><page number=\"20\"/><mnote>(1)</mnote> المز: بالضم بين الحامض و الحلو. القاموس 199/2.</footnote>"
+        },
+        {
+          "footnoteId": 702892586,
+          "text": "<footnote id=\"69\"><mnote>(2)</mnote> ما بين القوسين ليس فى (د).</footnote>"
+        },
+        {
+          "footnoteId": 702892587,
+          "text": "<footnote id=\"70\"><mnote>(3)</mnote> الوسمى: المطر النازل فى أول الفصل.</footnote>"
+        },
+        {
+          "footnoteId": 702892588,
+          "text": "<footnote id=\"71\"><mnote>(4)</mnote> الجرجير: بقلة يكثر زرعها فى لغر الاسكندرية، و يسمونها بقلة عائشة، و هى برى و بستانى. أنظر الجامع لمفردات الادوية و الاغذية 160/1.</footnote>"
+        }
+      ],
+      "pageValue": "20",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p384\" paragraph-id=\"384\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo20\">20</span>\n          </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"talighehLine\" />\n  <span>\n    <div class=\"taligheh OriginalDigit\" id=\"taligheh271\" taligheh-id=\"271\"><page number=\"20\" />و دخول الحمام، و يستعمل فيه الطيب المعتدل المزاج، و يحتنب فيه أكل البطيخ و القشاء.<br />تشرين الاول: [t-1-1-53-3]واحد و ثلاثون يوما، فيه تهب الرياح المختلفة، و يتنفس فيه ريح الصبا، و يجتنب فيه الفصد، و شرب الدواء، و يحمد فيه الجماع، و ينفع فيه (أكل اللحم السمين، و الرمان المز<ltaligheh noteId=\"68\">1</ltaligheh>، و الفاكهة بعد الطعام، و يستعل فيه)<ltaligheh noteId=\"69\">2</ltaligheh> أكل اللحوم بالتوابل، و يقلل فيه شرب الماء، و يحمد فيه الرياضة.<br />تشرين الثاني: [t-1-1-54-1]ثلاثون يوما، فيه يقطع المطر الوسمي<ltaligheh noteId=\"70\">3</ltaligheh>، و ينهي فيه عن شرب الماء بالليل، و يقلل فيه من دخول الحمام، و الجماع، و يشرب بكرة كل يوم جرعة ماء حار، و يجتنب فيه أكل البقول الحارة كالكرفس، و النعناع و الجرجير<ltaligheh noteId=\"71\">4</ltaligheh>.<br />كانون الاول: [t-1-1-54-2]واحد و ثلاثون يوما، تقوى فيه العواصف، و يشتد البرد، و ينفع فيه كل ما ذكرناه في تشرين الاخر. و يحذر فيه من أكل الطعام البارد، و يتقى فيه الحجامة و الفصد، و يستعمل فيه الاغذية الحارة بالقوة و الفعل.<br />كانون الاخر: [t-1-1-54-3]واحد و ثلاثون يوما، يقوى فيه غلبة البلغم، و ينبغي ان يتجرع فيه الماء الحار على الريق، و يحمد فيه الجماع، [t-1-1-55-1]و ينفع الاحشاء فيه أكل البقول الحارة كالكرفس، و الجرجير، و الكراث. و ينفع فيه دخول الحمام *</div>\n  </span>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote68\" footnote-id=\"68\">(1) <page number=\"20\" /> المز: بالضم بين الحامض و الحلو. القاموس 199/2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote69\" footnote-id=\"69\">(2)  ما بين القوسين ليس فى (د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote70\" footnote-id=\"70\">(3)  الوسمى: المطر النازل فى أول الفصل.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote71\" footnote-id=\"71\">(4)  الجرجير: بقلة يكثر زرعها فى لغر الاسكندرية، و يسمونها بقلة عائشة، و هى برى و بستانى. أنظر الجامع لمفردات الادوية و الاغذية 160/1.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "646F8AD2-8795-4603-B777-553668020C59",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

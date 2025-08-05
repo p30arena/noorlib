@@ -1,0 +1,44 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 69,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892298,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"443\"><page number=\"69\"/><format class=\"BeginPreface\"/><heading level=\"1\">الفهارس</heading></p>"
+        },
+        {
+          "paragraphId": 702892299,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"444\"><page number=\"70\"/><page number=\"71\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"9\"/> فهرس المفردات الطبية </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "69",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p443\" paragraph-id=\"443\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo69\">69</span>\n    <span class=\"BeginPreface\"></span>\n    <strong style=\"0\" class=\"h-1 01\">الفهارس</strong>\n  </p>\n  <p id=\"p444\" paragraph-id=\"444\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "C2FA701C-1DE2-4FBB-BBF6-66694946AAD4",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

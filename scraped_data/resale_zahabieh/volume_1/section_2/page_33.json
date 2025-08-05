@@ -1,0 +1,69 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 33,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892252,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"397\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"33\"/>أَوْ وَرْدُ اَلْبَنَفْسَجِ‌<lfootnote noteId=\"123\">1</lfootnote> اَلْيَابِسِ وَ إِنْ جَمَعَ ذَلِكَ أَخَذَ مِنْهُ اَلْيَسِيرَ مُجْتَمِعاً أَوْ مُتَفَرِّقاً قَدْرَ مَا يَشْرَبُ اَلْمَاءُ رَائِحَتَهُ وَ لْيَكُنْ زِرْنِيخُ‌<lfootnote noteId=\"124\">2</lfootnote> اَلنُّورَةِ مِثْلَ ثُلُثِهَا<lfootnote noteId=\"125\">3</lfootnote> وَ يُدْلَكُ اَلْجَسَدُ بَعْدَ اَلْخُرُوجِ مِنْهَا مَا يَقْطَعُ رِيحَهَا كَوَرَقِ اَلْخَوْخِ‌<lfootnote noteId=\"126\">4</lfootnote>وَ ثَجِيرِ<lfootnote noteId=\"127\">5</lfootnote> اَلْعُصْفُرِ<lfootnote noteId=\"128\">6</lfootnote> وَ اَلْحِنَّاءِ‌<lfootnote noteId=\"129\">7</lfootnote> وَ اَلسُّعْدِ<lfootnote noteId=\"130\">8</lfootnote> وَ اَلْوَرْدِ<lfootnote noteId=\"131\">9</lfootnote><lfootnote noteId=\"132\">10</lfootnote></format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892253,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"398\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"34\"/>وَ مَنْ أَرَادَ أَنْ يَأْمَنَ اَلنُّورَةَ وَ يَأْمَنَ إِحْرَاقَهَا فَلْيُقَلِّلْ مِنْ تَقْلِيبِهَا وَ لْيُبَادِرْ إِذَا عُمِلَتْ فِي غَسْلِهَا وَ أَنْ يَمْسَحَ اَلْبَدَنَ بِشَيْ‌ءٍ مِنْ دُهْنِ وَرْدٍ فَإِنْ أَحْرَقَتْ وَ اَلْعِيَاذُ بِاللَّهِ أُخِذَ عَدَسٌ مُقَشَّرٌ فَيُسْحَقُ بِخَلٍّ وَ مَاءِ وَرْدٍ<lfootnote noteId=\"133\">1</lfootnote> وَ يُطَّلَى عَلَى اَلْمَوْضِعِ اَلَّذِي أَحْرَقَتْهُ اَلنُّورَةُ فَإِنَّهُ يَبْرَأُ بِإِذْنِ اَللَّهِ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892640,
+          "text": "<footnote id=\"123\"><page number=\"33\"/><mnote>(1)</mnote> قال ابن البيطار في المصدر السابق ج 114/1: «البنفسج: هو نبات معروف له ورق أسود، و له ساق يخرج من أصله، عليه زغب صغير، و على طرف ساقه زهر طيب الرائحة جدا. ينبت في المواضع الضليلة الحسنة.</footnote>"
+        },
+        {
+          "footnoteId": 702892641,
+          "text": "<footnote id=\"124\"><mnote>(2)</mnote> قال الشيخ الرئيس في القانون ج 304/1: «الزرنيخ: جوهر معدني، منه أخضر، و منه أصفر، و منه أحمرأجوده الاصفر المتسرح الامني، الذهبي الصفائحي، و له رائحة كرائحة الكبريت.</footnote>"
+        },
+        {
+          "footnoteId": 702892642,
+          "text": "<footnote id=\"125\"><mnote>(3)</mnote> في (ب و ج و د» مثل سدس النورة.</footnote>"
+        },
+        {
+          "footnoteId": 702892643,
+          "text": "<footnote id=\"126\"><mnote>(4)</mnote> قال الشيخ الرئيس في القانون ج 461/1: «يقطع ورقه اذا طلي به رائحة النورة».</footnote>"
+        },
+        {
+          "footnoteId": 702892644,
+          "text": "<footnote id=\"127\"><mnote>(5)</mnote> كذا في (ب). و في الاصل يتخير. و التجير: ثفل كل شىء يعصر، و قال ابن البيطار: و أما ثجير العصفر و هو الذي يرمى به من بعد أخذتمام الصبغ منه.</footnote>"
+        },
+        {
+          "footnoteId": 702892645,
+          "text": "<footnote id=\"128\"><mnote>(6)</mnote> العصفر: قال ديقوريدوس: «هو نبات له ورق طوال مشرف خشن مشوك و ساق طولها نحو من ذراعين بلا شوكة، عليها رؤوس مدورة مثل حب الزيتون الكبار، و زهر شبيه بالزغفران، و نور أبيض، و منه ما يضرب الى الحمرة، *<page number=\"34\"/>* و هو ريفي و بري. انظر القانون 396/1.</footnote>"
+        }
+      ],
+      "pageValue": "33",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p397\" paragraph-id=\"397\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo33\">33</span>أَوْ وَرْدُ اَلْبَنَفْسَجِ‌<span><sup><a class=\"NewFn\" href=\"#footnote123\" title=\"(1)  قال ابن البيطار في المصدر السابق ج 114/1: «البنفسج: هو نبات معروف له ورق أسود، و له ساق يخرج من أصله، عليه زغب صغير، و على طرف ساقه زهر طيب الرائحة جدا. ينبت في المواضع الضليلة الحسنة.\">1</a></sup></span> اَلْيَابِسِ وَ إِنْ جَمَعَ ذَلِكَ أَخَذَ مِنْهُ اَلْيَسِيرَ مُجْتَمِعاً أَوْ مُتَفَرِّقاً قَدْرَ مَا يَشْرَبُ اَلْمَاءُ رَائِحَتَهُ وَ لْيَكُنْ زِرْنِيخُ‌<span><sup><a class=\"NewFn\" href=\"#footnote124\" title=\"(2)  قال الشيخ الرئيس في القانون ج 304/1: «الزرنيخ: جوهر معدني، منه أخضر، و منه أصفر، و منه أحمرأجوده الاصفر المتسرح الامني، الذهبي الصفائحي، و له رائحة كرائحة الكبريت.\">2</a></sup></span> اَلنُّورَةِ مِثْلَ ثُلُثِهَا<span><sup><a class=\"NewFn\" href=\"#footnote125\" title=\"(3)  في (ب و ج و د» مثل سدس النورة.\">3</a></sup></span> وَ يُدْلَكُ اَلْجَسَدُ بَعْدَ اَلْخُرُوجِ مِنْهَا مَا يَقْطَعُ رِيحَهَا كَوَرَقِ اَلْخَوْخِ‌<span><sup><a class=\"NewFn\" href=\"#footnote126\" title=\"(4)  قال الشيخ الرئيس في القانون ج 461/1: «يقطع ورقه اذا طلي به رائحة النورة».\">4</a></sup></span>وَ ثَجِيرِ<span><sup><a class=\"NewFn\" href=\"#footnote127\" title=\"(5)  كذا في (ب). و في الاصل يتخير. و التجير: ثفل كل شىء يعصر، و قال ابن البيطار: و أما ثجير العصفر و هو الذي يرمى به من بعد أخذتمام الصبغ منه.\">5</a></sup></span> اَلْعُصْفُرِ<span><sup><a class=\"NewFn\" href=\"#footnote128\" title=\"(6)  العصفر: قال ديقوريدوس: «هو نبات له ورق طوال مشرف خشن مشوك و ساق طولها نحو من ذراعين بلا شوكة، عليها رؤوس مدورة مثل حب الزيتون الكبار، و زهر شبيه بالزغفران، و نور أبيض، و منه ما يضرب الى الحمرة، *\">6</a></sup></span> وَ اَلْحِنَّاءِ‌<span><sup><a class=\"NewFn\" href=\"#footnote129\">7</a></sup></span> وَ اَلسُّعْدِ<span><sup><a class=\"NewFn\" href=\"#footnote130\">8</a></sup></span> وَ اَلْوَرْدِ<span><sup><a class=\"NewFn\" href=\"#footnote131\">9</a></sup></span><span><sup><a class=\"NewFn\" href=\"#footnote132\">10</a></sup></span></span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p398\" paragraph-id=\"398\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote123\" footnote-id=\"123\">(1) <page number=\"33\" /> قال ابن البيطار في المصدر السابق ج 114/1: «البنفسج: هو نبات معروف له ورق أسود، و له ساق يخرج من أصله، عليه زغب صغير، و على طرف ساقه زهر طيب الرائحة جدا. ينبت في المواضع الضليلة الحسنة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote124\" footnote-id=\"124\">(2)  قال الشيخ الرئيس في القانون ج 304/1: «الزرنيخ: جوهر معدني، منه أخضر، و منه أصفر، و منه أحمرأجوده الاصفر المتسرح الامني، الذهبي الصفائحي، و له رائحة كرائحة الكبريت.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote125\" footnote-id=\"125\">(3)  في (ب و ج و د» مثل سدس النورة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote126\" footnote-id=\"126\">(4)  قال الشيخ الرئيس في القانون ج 461/1: «يقطع ورقه اذا طلي به رائحة النورة».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote127\" footnote-id=\"127\">(5)  كذا في (ب). و في الاصل يتخير. و التجير: ثفل كل شىء يعصر، و قال ابن البيطار: و أما ثجير العصفر و هو الذي يرمى به من بعد أخذتمام الصبغ منه.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote128\" footnote-id=\"128\">(6)  العصفر: قال ديقوريدوس: «هو نبات له ورق طوال مشرف خشن مشوك و ساق طولها نحو من ذراعين بلا شوكة، عليها رؤوس مدورة مثل حب الزيتون الكبار، و زهر شبيه بالزغفران، و نور أبيض، و منه ما يضرب الى الحمرة، *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "37484505-1A0B-4880-A0B9-180A345853F3",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

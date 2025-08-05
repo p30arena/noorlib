@@ -1,0 +1,69 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 60,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892288,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"433\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"60\"/>أَوْ غَيْرِهِ وَ خُذْ قَدْرَ اَلْحِمَّصَةِ مِنَ اَلدِّرْيَاقِ اَلْأَكْبَرِ<lfootnote noteId=\"237\">1</lfootnote>فَاشْرَبْهُ وَ كُلْهُ مِنْ غَيْرِ شُرْبٍ إِنْ كَانَ شِتَاءً وَ إِنْ كَانَ صَيْفاً فَاشْرَبِ اَلْإِسْكَنْجَبِينَ اَلْمَغْلِيَّ‌<lfootnote noteId=\"238\">2</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"228\" Id=\"1\"/>فَإِنَّكَ إِذَا فَعَلْتَ ذَلِكَ فَقَدْ أَمِنْتَ مِنَ اَللَّقْوَةِ‌<lfootnote noteId=\"239\">3</lfootnote> وَ اَلْبَهَقِ‌<lfootnote noteId=\"240\">4</lfootnote> وَ اَلْبَرَصِ‌<lfootnote noteId=\"241\">5</lfootnote>وَ اَلْجُذَامِ بِإِذْنِ اَللَّهِ تَعَالَى </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892289,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"434\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"61\"/><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"229\" Id=\"1\"/>وَ مُصَّ مِنَ اَلرُّمَّانِ اَلْإِمْلِيسِيِّ‌<lfootnote noteId=\"242\">1</lfootnote> فَإِنَّهُ يُقَوِّي اَلنَّفْسَ وَ يُحْيِي اَلدَّمَ وَ لاَ تَأْكُلَنَّ طَعَاماً مَالِحاً وَ لاَ مِلْحاً بَعْدَهُ بِثُلُثَيْ سَاعَةٍ‌<lfootnote noteId=\"243\">2</lfootnote> فَإِنَّهُ يَعْرِضُ مِنْهُ اَلْجَرَبُ‌<lfootnote noteId=\"244\">3</lfootnote> وَ إِنْ كَانَ <format class=\"Z\">شِتَاءً </format>فَكُلِ اَلطَّيَاهِيجَ‌<lfootnote noteId=\"245\">4</lfootnote> إِذَا اِحْتَجَمْتَ وَ اِشْرَبْ عَلَيْهِ مِنْ ذَلِكَ اَلشَّرَابِ اَلَّذِي وَصَفْتُهُ لَكَ وَ اُدْهُنْ مَوْضِعَ اَلْحِجَامَةِ بِدُهْنِ اَلْخِيرِيِّ وَ مَاءِ وَرْدٍ وَ شَيْ‌ءٍ مِنْ مِسْكٍ‌<lfootnote noteId=\"246\">5</lfootnote> وَ صُبَّ مِنْهُ عَلَى هَامَتِكَ سَاعَةً تَفْرُغُ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892753,
+          "text": "<footnote id=\"236\"><mnote>(3)</mnote> في (ج و د): فرعوني. و المرعزي: بكسر الميم و العين نوع من المعز طويل الشعر ناعمه يوجد في آسيا الصغرى، و سمي بالمرعز أو المرعزي لان المرعز *<page number=\"60\"/>* هو في الاصل الزغب تحت شعر العنز. انظر المعجم الزو و لوجي الحديث 450/5.</footnote>"
+        },
+        {
+          "footnoteId": 702892754,
+          "text": "<footnote id=\"237\"><mnote>(1)</mnote> الترياق: بالتاء و بالدال يطلق على ماله بادزهرية و نفع عظيم، و هو الان يطلق على الهادي يعني الاكبر الذي ركبه اندروماخس القديم. و بقى مدة يسمى ترياق الاربع، انظر تركيبه مفصلا في تذكرة اولى الالباب 92/1 و فيه أيضا انه ينفع للجذام و البرص و اختلاط العقل و الفالج و الاسترخاء و التشنج و الاختلاج و الصرع.</footnote>"
+        },
+        {
+          "footnoteId": 702892755,
+          "text": "<footnote id=\"238\"><mnote>(2)</mnote> في (ب و ج و د) و امزجه بالشراب المفرح المعتدل، و تناوله أو بشراب الفاكهة، و ان تعذر ذلك فبشراب الاترج، فان لم تجد شيئا من ذلك فتناوله بعد علكه ناعما تحت الاسنان و اشرب عليه جرع ماء فاتر، و ان كان في زمان الشتاء و البرد، فاشرب عليه السكنجبين العسلي.</footnote>"
+        },
+        {
+          "footnoteId": 702892756,
+          "text": "<footnote id=\"239\"><mnote>(3)</mnote> اللقوة: مرض يميل به الوجه الى جانب. انظر حياة الحيوان 319/2.</footnote>"
+        },
+        {
+          "footnoteId": 702892757,
+          "text": "<footnote id=\"240\"><mnote>(4)</mnote> البهق: بياض رقيق يعتري ظاهر البشرة لسوء مزاج العضو الى البرودة، و غلبة البلغم على الدم. اظنر القاموس 223/3.</footnote>"
+        },
+        {
+          "footnoteId": 702892758,
+          "text": "<footnote id=\"241\"><mnote>(5)</mnote> البرص: بياض يظهر في ظاهر البدن لفساد المزاج. انظر القاموس 192/2.</footnote>"
+        }
+      ],
+      "pageValue": "60",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p433\" paragraph-id=\"433\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo60\">60</span>أَوْ غَيْرِهِ وَ خُذْ قَدْرَ اَلْحِمَّصَةِ مِنَ اَلدِّرْيَاقِ اَلْأَكْبَرِ<span><sup><a class=\"NewFn\" href=\"#footnote237\" title=\"(1)  الترياق: بالتاء و بالدال يطلق على ماله بادزهرية و نفع عظيم، و هو الان يطلق على الهادي يعني الاكبر الذي ركبه اندروماخس القديم. و بقى مدة يسمى ترياق الاربع، انظر تركيبه مفصلا في تذكرة اولى الالباب 92/1 و فيه أيضا انه ينفع للجذام و البرص و اختلاط العقل و الفالج و الاسترخاء و التشنج و الاختلاج و الصرع.\">1</a></sup></span>فَاشْرَبْهُ وَ كُلْهُ مِنْ غَيْرِ شُرْبٍ إِنْ كَانَ شِتَاءً وَ إِنْ كَانَ صَيْفاً فَاشْرَبِ اَلْإِسْكَنْجَبِينَ اَلْمَغْلِيَّ‌<span><sup><a class=\"NewFn\" href=\"#footnote238\" title=\"(2)  في (ب و ج و د) و امزجه بالشراب المفرح المعتدل، و تناوله أو بشراب الفاكهة، و ان تعذر ذلك فبشراب الاترج، فان لم تجد شيئا من ذلك فتناوله بعد علكه ناعما تحت الاسنان و اشرب عليه جرع ماء فاتر، و ان كان في زمان الشتاء و البرد، فاشرب عليه السكنجبين العسلي.\">2</a></sup></span><span class=\"Link\"></span>فَإِنَّكَ إِذَا فَعَلْتَ ذَلِكَ فَقَدْ أَمِنْتَ مِنَ اَللَّقْوَةِ‌<span><sup><a class=\"NewFn\" href=\"#footnote239\" title=\"(3)  اللقوة: مرض يميل به الوجه الى جانب. انظر حياة الحيوان 319/2.\">3</a></sup></span> وَ اَلْبَهَقِ‌<span><sup><a class=\"NewFn\" href=\"#footnote240\" title=\"(4)  البهق: بياض رقيق يعتري ظاهر البشرة لسوء مزاج العضو الى البرودة، و غلبة البلغم على الدم. اظنر القاموس 223/3.\">4</a></sup></span> وَ اَلْبَرَصِ‌<span><sup><a class=\"NewFn\" href=\"#footnote241\" title=\"(5)  البرص: بياض يظهر في ظاهر البدن لفساد المزاج. انظر القاموس 192/2.\">5</a></sup></span>وَ اَلْجُذَامِ بِإِذْنِ اَللَّهِ تَعَالَى </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p434\" paragraph-id=\"434\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote236\" footnote-id=\"236\"><page number=\"60\" />* هو في الاصل الزغب تحت شعر العنز. انظر المعجم الزو و لوجي الحديث 450/5.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote237\" footnote-id=\"237\">(1)  الترياق: بالتاء و بالدال يطلق على ماله بادزهرية و نفع عظيم، و هو الان يطلق على الهادي يعني الاكبر الذي ركبه اندروماخس القديم. و بقى مدة يسمى ترياق الاربع، انظر تركيبه مفصلا في تذكرة اولى الالباب 92/1 و فيه أيضا انه ينفع للجذام و البرص و اختلاط العقل و الفالج و الاسترخاء و التشنج و الاختلاج و الصرع.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote238\" footnote-id=\"238\">(2)  في (ب و ج و د) و امزجه بالشراب المفرح المعتدل، و تناوله أو بشراب الفاكهة، و ان تعذر ذلك فبشراب الاترج، فان لم تجد شيئا من ذلك فتناوله بعد علكه ناعما تحت الاسنان و اشرب عليه جرع ماء فاتر، و ان كان في زمان الشتاء و البرد، فاشرب عليه السكنجبين العسلي.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote239\" footnote-id=\"239\">(3)  اللقوة: مرض يميل به الوجه الى جانب. انظر حياة الحيوان 319/2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote240\" footnote-id=\"240\">(4)  البهق: بياض رقيق يعتري ظاهر البشرة لسوء مزاج العضو الى البرودة، و غلبة البلغم على الدم. اظنر القاموس 223/3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote241\" footnote-id=\"241\">(5)  البرص: بياض يظهر في ظاهر البدن لفساد المزاج. انظر القاموس 192/2.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "5AE8CC28-D679-406B-A76E-3836E1B5D9A9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

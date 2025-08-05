@@ -1,0 +1,188 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 71,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892299,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"444\"><page number=\"70\"/><page number=\"71\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"9\"/> فهرس المفردات الطبية </heading></p>"
+        },
+        {
+          "paragraphId": 702892300,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"445\">الابزار 62</p>"
+        },
+        {
+          "paragraphId": 702892301,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"446\">الابزن 42</p>"
+        },
+        {
+          "paragraphId": 702892302,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"447\">الاترج 27</p>"
+        },
+        {
+          "paragraphId": 702892303,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"448\">الاسكنجبين 60</p>"
+        },
+        {
+          "paragraphId": 702892304,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"449\">الاطريفل 43</p>"
+        },
+        {
+          "paragraphId": 702892305,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"450\">البابونج 32</p>"
+        },
+        {
+          "paragraphId": 702892306,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"451\">البصل 63، 17</p>"
+        },
+        {
+          "paragraphId": 702892307,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"452\">البطيخ 20</p>"
+        },
+        {
+          "paragraphId": 702892308,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"453\">البقلة الحمقاء 18</p>"
+        },
+        {
+          "paragraphId": 702892309,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"454\">البيض 63، 28، 17</p>"
+        },
+        {
+          "paragraphId": 702892310,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"455\">التمر 35</p>"
+        },
+        {
+          "paragraphId": 702892311,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"456\">التوابل 20</p>"
+        },
+        {
+          "paragraphId": 702892312,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"457\">التين 29</p>"
+        },
+        {
+          "paragraphId": 702892313,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"458\">الثوم 41، 21، 17</p>"
+        },
+        {
+          "paragraphId": 702892314,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"459\">الجداء 19</p>"
+        },
+        {
+          "paragraphId": 702892315,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"460\">الجذع 19</p>"
+        },
+        {
+          "paragraphId": 702892316,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"461\">الجرجير 20</p>"
+        },
+        {
+          "paragraphId": 702892317,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"462\">الجوارش 41</p>"
+        },
+        {
+          "paragraphId": 702892318,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"463\">الحامض 17</p>"
+        },
+        {
+          "paragraphId": 702892319,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"464\">حب الاثل 51</p>"
+        },
+        {
+          "paragraphId": 702892320,
+          "paragNumber": 22,
+          "tocNumber": 0,
+          "text": "<p id=\"465\">الحبة السوداء 38</p>"
+        },
+        {
+          "paragraphId": 702892321,
+          "paragNumber": 23,
+          "tocNumber": 0,
+          "text": "<p id=\"466\">الحجل 61</p>"
+        },
+        {
+          "paragraphId": 702892322,
+          "paragNumber": 24,
+          "tocNumber": 0,
+          "text": "<p id=\"467\">الحصرم 44، 43</p>"
+        },
+        {
+          "paragraphId": 702892323,
+          "paragNumber": 25,
+          "tocNumber": 0,
+          "text": "<p id=\"468\">الحضض 31</p>"
+        },
+        {
+          "paragraphId": 702892324,
+          "paragNumber": 26,
+          "tocNumber": 0,
+          "text": "<p id=\"469\"><page number=\"72\"/>الحناء 33</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "71",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p444\" paragraph-id=\"444\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo71\">71</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BeginIntroduction\"></span> فهرس المفردات الطبية </strong>\n  </p>\n  <p id=\"p445\" paragraph-id=\"445\" class=\" G\">الابزار 62</p>\n  <p id=\"p446\" paragraph-id=\"446\" class=\" G\">الابزن 42</p>\n  <p id=\"p447\" paragraph-id=\"447\" class=\" G\">الاترج 27</p>\n  <p id=\"p448\" paragraph-id=\"448\" class=\" G\">الاسكنجبين 60</p>\n  <p id=\"p449\" paragraph-id=\"449\" class=\" G\">الاطريفل 43</p>\n  <p id=\"p450\" paragraph-id=\"450\" class=\" G\">البابونج 32</p>\n  <p id=\"p451\" paragraph-id=\"451\" class=\" G\">البصل 63، 17</p>\n  <p id=\"p452\" paragraph-id=\"452\" class=\" G\">البطيخ 20</p>\n  <p id=\"p453\" paragraph-id=\"453\" class=\" G\">البقلة الحمقاء 18</p>\n  <p id=\"p454\" paragraph-id=\"454\" class=\" G\">البيض 63، 28، 17</p>\n  <p id=\"p455\" paragraph-id=\"455\" class=\" G\">التمر 35</p>\n  <p id=\"p456\" paragraph-id=\"456\" class=\" G\">التوابل 20</p>\n  <p id=\"p457\" paragraph-id=\"457\" class=\" G\">التين 29</p>\n  <p id=\"p458\" paragraph-id=\"458\" class=\" G\">الثوم 41، 21، 17</p>\n  <p id=\"p459\" paragraph-id=\"459\" class=\" G\">الجداء 19</p>\n  <p id=\"p460\" paragraph-id=\"460\" class=\" G\">الجذع 19</p>\n  <p id=\"p461\" paragraph-id=\"461\" class=\" G\">الجرجير 20</p>\n  <p id=\"p462\" paragraph-id=\"462\" class=\" G\">الجوارش 41</p>\n  <p id=\"p463\" paragraph-id=\"463\" class=\" G\">الحامض 17</p>\n  <p id=\"p464\" paragraph-id=\"464\" class=\" G\">حب الاثل 51</p>\n  <p id=\"p465\" paragraph-id=\"465\" class=\" G\">الحبة السوداء 38</p>\n  <p id=\"p466\" paragraph-id=\"466\" class=\" G\">الحجل 61</p>\n  <p id=\"p467\" paragraph-id=\"467\" class=\" G\">الحصرم 44، 43</p>\n  <p id=\"p468\" paragraph-id=\"468\" class=\" G\">الحضض 31</p>\n  <p id=\"p469\" paragraph-id=\"469\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "42C36FB0-7AC9-4D0A-8F84-3EEC7E51FE35",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

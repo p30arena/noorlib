@@ -1,0 +1,61 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 26,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892244,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"389\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"26\"/>اَلطَّعَامِ فَاشْرَبْ مِنْ هَذَا اَلشَّرَابِ ثَلاَثَةَ أَقْدَاحٍ بَعْدَ طَعَامِكَ فَإِذَا فَعَلْتَ فَقَدْ أَمِنْتَ بِإِذْنِ اَللَّهِ يَوْمَكَ مِنْ وَجَعِ اَلنِّقْرِسِ‌<lfootnote noteId=\"94\">1</lfootnote>وَ اَلْأَبْرِدَةِ وَ اَلرِّيَاحِ اَلْمُؤْذِيَةِ‌<lfootnote noteId=\"95\">2</lfootnote>فَإِنِ اِشْتَهَيْتَ اَلْمَاءَ بَعْدَ ذَلِكَ فَاشْرَبْ مِنْهُ نِصْفَ مَا كُنْتَ تَشْرَبُ فَإِنَّهُ أَصَحُّ لِبَدَنِكَ وَ أَكْثَرُ لِجِمَاعِكَ وَ أَشَدُّ لِضَبْطِكَ وَ حِفْظِكَ‌<lfootnote noteId=\"96\">3</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"239\" Id=\"1\"/>[t-1-1-68-1]فَإِنَّ اَلْمَاءَ‌<lfootnote noteId=\"97\">4</lfootnote> اَلْبَارِدَ بَعْدَ أَكْلِ اَلسَّمَكِ اَلطَّرِيِّ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892245,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"390\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"27\"/>يُورِثُ اَلْفَالِجَ‌<lfootnote noteId=\"98\">1</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"241\" Id=\"1\"/>وَ أَكْلُ اَلْأُتْرُجِّ‌<lfootnote noteId=\"99\">2</lfootnote> بِاللَّيْلِ يَقْلِبُ اَلْعَيْنَ وَ يُورِثُ اَلْحَوَلَ‌<lfootnote noteId=\"100\">3</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"242\" Id=\"1\"/>وَ إِتْيَانُ اَلمَرْأَةِ اَلْحَائِضِ يُوَلِّدُ اَلْجُذَامَ‌<lfootnote noteId=\"101\">4</lfootnote>فِي اَلْوَلَدِ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"244\" Id=\"1\"/>وَ اَلْجِمَاعُ مِنْ غَيْرِ إِهْرَاقِ اَلْمَاءِ عَلَى أَثَرِهِ يُورِثُ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892611,
+          "text": "<footnote id=\"94\"><page number=\"26\"/><mnote>(1)</mnote> النقرس: بالكسر. ورم أو وجع في مفاصل الكعبين و أصابع الرجلين. انظر القاموس 255/2.</footnote>"
+        },
+        {
+          "footnoteId": 702892612,
+          "text": "<footnote id=\"95\"><mnote>(2)</mnote> في (ب و ج و د): و ليلتك من الاوجاع الباردة المزمة، كالنقرس و الرياح و غير ذلك من أوجاع العصب و الدماغ و المعدة، و بعض أوجاع الكبد و الطحال، و الامعاء و الاحشاء.</footnote>"
+        },
+        {
+          "footnoteId": 702892613,
+          "text": "<footnote id=\"96\"><mnote>(3)</mnote> في (ب و ج و د) أصلح لبدنه و اكثر لجماعه، و أشد لضبطه و حفظه فان صلاح البدن و قوامه يكون بالطعام و الشراب، و فساده يكون بهما، فان أصلحتهما صلح البدن، و ان افسدتهما فسد البدن. ثم ينتقل بنا نسّاخ النسخ الثلاث (ب و ج و د) الى المقطع الثامن من هذه الرسالة و أوله: «و اعلم يا أمير المؤمنين ان قوة النفوس تابعة... الخ».</footnote>"
+        },
+        {
+          "footnoteId": 702892614,
+          "text": "<footnote id=\"97\"><mnote>(4)</mnote> في (ب و ج و د) و الاغتسال بالماء. و نقل ابن القيم الجوزي في زاد *<page number=\"27\"/>* المعاد 196/2 قول ابن بختيشوع: الاغتسال بالماء البارد بعد أكل السمك الطري يولد الفالج.</footnote>"
+        }
+      ],
+      "pageValue": "26",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p389\" paragraph-id=\"389\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo26\">26</span>اَلطَّعَامِ فَاشْرَبْ مِنْ هَذَا اَلشَّرَابِ ثَلاَثَةَ أَقْدَاحٍ بَعْدَ طَعَامِكَ فَإِذَا فَعَلْتَ فَقَدْ أَمِنْتَ بِإِذْنِ اَللَّهِ يَوْمَكَ مِنْ وَجَعِ اَلنِّقْرِسِ‌<span><sup><a class=\"NewFn\" href=\"#footnote94\" title=\"(1)  النقرس: بالكسر. ورم أو وجع في مفاصل الكعبين و أصابع الرجلين. انظر القاموس 255/2.\">1</a></sup></span>وَ اَلْأَبْرِدَةِ وَ اَلرِّيَاحِ اَلْمُؤْذِيَةِ‌<span><sup><a class=\"NewFn\" href=\"#footnote95\" title=\"(2)  في (ب و ج و د): و ليلتك من الاوجاع الباردة المزمة، كالنقرس و الرياح و غير ذلك من أوجاع العصب و الدماغ و المعدة، و بعض أوجاع الكبد و الطحال، و الامعاء و الاحشاء.\">2</a></sup></span>فَإِنِ اِشْتَهَيْتَ اَلْمَاءَ بَعْدَ ذَلِكَ فَاشْرَبْ مِنْهُ نِصْفَ مَا كُنْتَ تَشْرَبُ فَإِنَّهُ أَصَحُّ لِبَدَنِكَ وَ أَكْثَرُ لِجِمَاعِكَ وَ أَشَدُّ لِضَبْطِكَ وَ حِفْظِكَ‌<span><sup><a class=\"NewFn\" href=\"#footnote96\" title=\"(3)  في (ب و ج و د) أصلح لبدنه و اكثر لجماعه، و أشد لضبطه و حفظه فان صلاح البدن و قوامه يكون بالطعام و الشراب، و فساده يكون بهما، فان أصلحتهما صلح البدن، و ان افسدتهما فسد البدن. ثم ينتقل بنا نسّاخ النسخ الثلاث (ب و ج و د) الى المقطع الثامن من هذه الرسالة و أوله: «و اعلم يا أمير المؤمنين ان قوة النفوس تابعة... الخ».\">3</a></sup></span><span class=\"Link\"></span>[t-1-1-68-1]فَإِنَّ اَلْمَاءَ‌<span><sup><a class=\"NewFn\" href=\"#footnote97\" title=\"(4)  في (ب و ج و د) و الاغتسال بالماء. و نقل ابن القيم الجوزي في زاد *\">4</a></sup></span> اَلْبَارِدَ بَعْدَ أَكْلِ اَلسَّمَكِ اَلطَّرِيِّ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p390\" paragraph-id=\"390\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote94\" footnote-id=\"94\">(1) <page number=\"26\" /> النقرس: بالكسر. ورم أو وجع في مفاصل الكعبين و أصابع الرجلين. انظر القاموس 255/2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote95\" footnote-id=\"95\">(2)  في (ب و ج و د): و ليلتك من الاوجاع الباردة المزمة، كالنقرس و الرياح و غير ذلك من أوجاع العصب و الدماغ و المعدة، و بعض أوجاع الكبد و الطحال، و الامعاء و الاحشاء.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote96\" footnote-id=\"96\">(3)  في (ب و ج و د) أصلح لبدنه و اكثر لجماعه، و أشد لضبطه و حفظه فان صلاح البدن و قوامه يكون بالطعام و الشراب، و فساده يكون بهما، فان أصلحتهما صلح البدن، و ان افسدتهما فسد البدن. ثم ينتقل بنا نسّاخ النسخ الثلاث (ب و ج و د) الى المقطع الثامن من هذه الرسالة و أوله: «و اعلم يا أمير المؤمنين ان قوة النفوس تابعة... الخ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote97\" footnote-id=\"97\">(4)  في (ب و ج و د) و الاغتسال بالماء. و نقل ابن القيم الجوزي في زاد *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "720582E8-C78D-481D-A520-F100618E856E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

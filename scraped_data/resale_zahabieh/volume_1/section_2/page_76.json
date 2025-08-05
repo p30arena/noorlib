@@ -1,0 +1,248 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 76,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892436,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"581\"><page number=\"76\"/>الداء الدفين 49</p>"
+        },
+        {
+          "paragraphId": 702892437,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"582\">الدماميل 57</p>"
+        },
+        {
+          "paragraphId": 702892438,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"583\">الدود 28</p>"
+        },
+        {
+          "paragraphId": 702892439,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"584\">الربو 28</p>"
+        },
+        {
+          "paragraphId": 702892440,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"585\">الرياح المؤذية 26</p>"
+        },
+        {
+          "paragraphId": 702892441,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"586\">الريح الباردة 42</p>"
+        },
+        {
+          "paragraphId": 702892442,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"587\">الزكام 39، 38، 37</p>"
+        },
+        {
+          "paragraphId": 702892443,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"588\">السواد 31</p>"
+        },
+        {
+          "paragraphId": 702892444,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"589\">الشقاق 31</p>"
+        },
+        {
+          "paragraphId": 702892445,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"590\">الشقيقة 39، 30</p>"
+        },
+        {
+          "paragraphId": 702892446,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"591\">الشوصة 39</p>"
+        },
+        {
+          "paragraphId": 702892447,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"592\">الصفار 40</p>"
+        },
+        {
+          "paragraphId": 702892448,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"593\">ضعف البصر 65</p>"
+        },
+        {
+          "paragraphId": 702892449,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"594\">ضعف الدماغ 65</p>"
+        },
+        {
+          "paragraphId": 702892450,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"595\">الطحال 46، 28</p>"
+        },
+        {
+          "paragraphId": 702892451,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"596\">عسر البول 35</p>"
+        },
+        {
+          "paragraphId": 702892452,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"597\">العشوة 57</p>"
+        },
+        {
+          "paragraphId": 702892453,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"598\">الفالج 65، 27</p>"
+        },
+        {
+          "paragraphId": 702892454,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"599\">الفتق 65</p>"
+        },
+        {
+          "paragraphId": 702892455,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"600\">فساد اللثة 56</p>"
+        },
+        {
+          "paragraphId": 702892456,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"601\">قروح الفم 51</p>"
+        },
+        {
+          "paragraphId": 702892457,
+          "paragNumber": 22,
+          "tocNumber": 0,
+          "text": "<p id=\"602\">قلاع الفم 56</p>"
+        },
+        {
+          "paragraphId": 702892458,
+          "paragNumber": 23,
+          "tocNumber": 0,
+          "text": "<p id=\"603\">القولنج 65، 64، 63</p>"
+        },
+        {
+          "paragraphId": 702892459,
+          "paragNumber": 24,
+          "tocNumber": 0,
+          "text": "<p id=\"604\">كثرة النسيان 29</p>"
+        },
+        {
+          "paragraphId": 702892460,
+          "paragNumber": 25,
+          "tocNumber": 0,
+          "text": "<p id=\"605\">الكلف 63</p>"
+        },
+        {
+          "paragraphId": 702892461,
+          "paragNumber": 26,
+          "tocNumber": 0,
+          "text": "<p id=\"606\">اللقوة 65، 63، 60</p>"
+        },
+        {
+          "paragraphId": 702892462,
+          "paragNumber": 27,
+          "tocNumber": 0,
+          "text": "<p id=\"607\">النقرس 65، 63، 26</p>"
+        },
+        {
+          "paragraphId": 702892463,
+          "paragNumber": 28,
+          "tocNumber": 0,
+          "text": "<p id=\"608\">وجع الاذن 51</p>"
+        },
+        {
+          "paragraphId": 702892464,
+          "paragNumber": 29,
+          "tocNumber": 0,
+          "text": "<p id=\"609\">وجع الاسنان 51</p>"
+        },
+        {
+          "paragraphId": 702892465,
+          "paragNumber": 30,
+          "tocNumber": 0,
+          "text": "<p id=\"610\">وجع الاضراس 63، 51</p>"
+        },
+        {
+          "paragraphId": 702892466,
+          "paragNumber": 31,
+          "tocNumber": 0,
+          "text": "<p id=\"611\">وجع الرأس 29</p>"
+        },
+        {
+          "paragraphId": 702892467,
+          "paragNumber": 32,
+          "tocNumber": 0,
+          "text": "<p id=\"612\">وجع السفل 35</p>"
+        },
+        {
+          "paragraphId": 702892468,
+          "paragNumber": 33,
+          "tocNumber": 0,
+          "text": "<p id=\"613\">وجع العين 51</p>"
+        },
+        {
+          "paragraphId": 702892469,
+          "paragNumber": 34,
+          "tocNumber": 0,
+          "text": "<p id=\"614\">وجع اللثة 51</p>"
+        },
+        {
+          "paragraphId": 702892470,
+          "paragNumber": 35,
+          "tocNumber": 0,
+          "text": "<p id=\"615\">اليرقان 40</p>"
+        },
+        {
+          "paragraphId": 702892471,
+          "paragNumber": 36,
+          "tocNumber": 0,
+          "text": "<p id=\"616\"><page number=\"77\"/><heading level=\"2\">المراجع </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "76",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p581\" paragraph-id=\"581\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo76\">76</span>الداء الدفين 49</p>\n  <p id=\"p582\" paragraph-id=\"582\" class=\" G\">الدماميل 57</p>\n  <p id=\"p583\" paragraph-id=\"583\" class=\" G\">الدود 28</p>\n  <p id=\"p584\" paragraph-id=\"584\" class=\" G\">الربو 28</p>\n  <p id=\"p585\" paragraph-id=\"585\" class=\" G\">الرياح المؤذية 26</p>\n  <p id=\"p586\" paragraph-id=\"586\" class=\" G\">الريح الباردة 42</p>\n  <p id=\"p587\" paragraph-id=\"587\" class=\" G\">الزكام 39، 38، 37</p>\n  <p id=\"p588\" paragraph-id=\"588\" class=\" G\">السواد 31</p>\n  <p id=\"p589\" paragraph-id=\"589\" class=\" G\">الشقاق 31</p>\n  <p id=\"p590\" paragraph-id=\"590\" class=\" G\">الشقيقة 39، 30</p>\n  <p id=\"p591\" paragraph-id=\"591\" class=\" G\">الشوصة 39</p>\n  <p id=\"p592\" paragraph-id=\"592\" class=\" G\">الصفار 40</p>\n  <p id=\"p593\" paragraph-id=\"593\" class=\" G\">ضعف البصر 65</p>\n  <p id=\"p594\" paragraph-id=\"594\" class=\" G\">ضعف الدماغ 65</p>\n  <p id=\"p595\" paragraph-id=\"595\" class=\" G\">الطحال 46، 28</p>\n  <p id=\"p596\" paragraph-id=\"596\" class=\" G\">عسر البول 35</p>\n  <p id=\"p597\" paragraph-id=\"597\" class=\" G\">العشوة 57</p>\n  <p id=\"p598\" paragraph-id=\"598\" class=\" G\">الفالج 65، 27</p>\n  <p id=\"p599\" paragraph-id=\"599\" class=\" G\">الفتق 65</p>\n  <p id=\"p600\" paragraph-id=\"600\" class=\" G\">فساد اللثة 56</p>\n  <p id=\"p601\" paragraph-id=\"601\" class=\" G\">قروح الفم 51</p>\n  <p id=\"p602\" paragraph-id=\"602\" class=\" G\">قلاع الفم 56</p>\n  <p id=\"p603\" paragraph-id=\"603\" class=\" G\">القولنج 65، 64، 63</p>\n  <p id=\"p604\" paragraph-id=\"604\" class=\" G\">كثرة النسيان 29</p>\n  <p id=\"p605\" paragraph-id=\"605\" class=\" G\">الكلف 63</p>\n  <p id=\"p606\" paragraph-id=\"606\" class=\" G\">اللقوة 65، 63، 60</p>\n  <p id=\"p607\" paragraph-id=\"607\" class=\" G\">النقرس 65، 63، 26</p>\n  <p id=\"p608\" paragraph-id=\"608\" class=\" G\">وجع الاذن 51</p>\n  <p id=\"p609\" paragraph-id=\"609\" class=\" G\">وجع الاسنان 51</p>\n  <p id=\"p610\" paragraph-id=\"610\" class=\" G\">وجع الاضراس 63، 51</p>\n  <p id=\"p611\" paragraph-id=\"611\" class=\" G\">وجع الرأس 29</p>\n  <p id=\"p612\" paragraph-id=\"612\" class=\" G\">وجع السفل 35</p>\n  <p id=\"p613\" paragraph-id=\"613\" class=\" G\">وجع العين 51</p>\n  <p id=\"p614\" paragraph-id=\"614\" class=\" G\">وجع اللثة 51</p>\n  <p id=\"p615\" paragraph-id=\"615\" class=\" G\">اليرقان 40</p>\n  <p id=\"p616\" paragraph-id=\"616\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "78724B99-0D45-4651-94C1-13FC9C0D1373",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,55 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 67,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892295,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"440\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"67\"/>وَ اَلْأُمُورُ كُلُّهَا بِيَدِ اَللَّهِ عَزَّ وَ جَلَّ أَنْ يَكُونَ لَهُ وَلَدٌ وَ إِلَيْهِ اَلْمَآبُ وَ نَرْجُو مِنْهُ حُسْنَ اَلثَّوَابِ إِنَّهُ غَفُورٌ تَوَّابُ عَلَيْهِ تَوَكَّلْنَا وَ عَلَيْهِ <format class=\"ayah\" surah=\"3\" ayah=\"122\" toAyah=\"\">فَلْيَتَوَكَّلِ اَلْمُؤْمِنُونَ‌<format class=\"ayahWord\" fromWord=\"13\" toWord=\"14\"/><format class=\"ayahAddress\" surah=\"3\" ayah=\"122\" toAyah=\"\"/></format> وَ لاَ حَوْلَ وَ لاَ قُوَّةَ إِلاَّ بِاللَّهِ اَلْعَلِيِّ اَلْعَظِيمِ قَالَ <format class=\"d\">أَبُو مُحَمَّدٍ اَلْحَسَنُ اَلْقُمِّيُّ‌</format><lfootnote noteId=\"265\">1</lfootnote> قَالَ لِي أَبِي فَلَمَّا وَصَلَتْ هَذِهِ اَلرِّسَالَةُ مِنْ <format class=\"maasoom\" maasoomNo=\"8\">أَبِي اَلْحَسَنِ عَلِيِّ بْنِ مُوسَى اَلرِّضَا</format> صَلَوَاتُ اَللَّهِ عَلَيْهِمَا وَ عَلَى آبَائِهِمَا وَ اَلطَّيِّبِينَ مِنْ ذُرِّيَّتِهِمَا إِلَى <format class=\"d\">اَلْمَأْمُونِ‌</format> قَرَأَهَا وَ فَرِحَ بِهَا وَ أَمَرَ أَنْ تُكْتَبَ بِالذَّهَبِ وَ أَنْ تُتَرْجَمَ <format class=\"K\">بِالرِّسَالَةِ اَلذَّهَبِيَّةِ‌</format></format></format></format>..</format></p>"
+        },
+        {
+          "paragraphId": 702892296,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"441\">تمت الرسالة بحمد الله تعالى و كتب العبد الفقير إلى الله تعالى <format class=\"d\">عبد الرحمن</format> المدعو <format class=\"d\">أبي بكر بن عبد الله الكرخي</format> الجنس عتيق السعيد المرحوم قاضي القضاة كان <format class=\"t\">بالعراق </format><format class=\"d\">الحسن بن قاسم بن أبي الحسين بن علي بن </format></p>"
+        },
+        {
+          "paragraphId": 702892297,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"442\"><format class=\"d\"><page number=\"68\"/>قاسم النيلي</format><lfootnote noteId=\"266\">1</lfootnote> رحمهم الله تعالى في <format class=\"Z\">يوم الاثنين</format> قبل أذان المغرب <format class=\"t\">بلخ</format><lfootnote noteId=\"267\">2</lfootnote> كان فراغها من النسخ <format class=\"Z\">تاسع عشر ذي الحجة سنة خمس عشرة و سبعمائة ه‍</format> تم. </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892782,
+          "text": "<footnote id=\"265\"><page number=\"67\"/><mnote>(1)</mnote> كذا في الاصل. و هو أبو محمد الحسن بن جمهور العمي، و قد تقدمت ترجمته.</footnote>"
+        }
+      ],
+      "pageValue": "67",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p440\" paragraph-id=\"440\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo67\">67</span>وَ اَلْأُمُورُ كُلُّهَا بِيَدِ اَللَّهِ عَزَّ وَ جَلَّ أَنْ يَكُونَ لَهُ وَلَدٌ وَ إِلَيْهِ اَلْمَآبُ وَ نَرْجُو مِنْهُ حُسْنَ اَلثَّوَابِ إِنَّهُ غَفُورٌ تَوَّابُ عَلَيْهِ تَوَكَّلْنَا وَ عَلَيْهِ <span style=\"0\" class=\"ayah\" surah=\"3\" ayah=\"122\">فَلْيَتَوَكَّلِ اَلْمُؤْمِنُونَ‌<span class=\"ayahWord\"></span><span class=\"ayahAddress\"></span><span class=\"ayah-link-container\"><a class=\"ayah-outer-link\" title=\"مشاهده آیه در پایگاه جامع قرآنی\" target=\"_blank\" href=\"https://quran.inoor.ir/fa/ayah/3/122\"></a></span></span> وَ لاَ حَوْلَ وَ لاَ قُوَّةَ إِلاَّ بِاللَّهِ اَلْعَلِيِّ اَلْعَظِيمِ قَالَ <span class=\"d\">أَبُو مُحَمَّدٍ اَلْحَسَنُ اَلْقُمِّيُّ‌</span><span><sup><a class=\"NewFn\" href=\"#footnote265\" title=\"(1)  كذا في الاصل. و هو أبو محمد الحسن بن جمهور العمي، و قد تقدمت ترجمته.\">1</a></sup></span> قَالَ لِي أَبِي فَلَمَّا وَصَلَتْ هَذِهِ اَلرِّسَالَةُ مِنْ <span class=\"maasoom\">أَبِي اَلْحَسَنِ عَلِيِّ بْنِ مُوسَى اَلرِّضَا</span> صَلَوَاتُ اَللَّهِ عَلَيْهِمَا وَ عَلَى آبَائِهِمَا وَ اَلطَّيِّبِينَ مِنْ ذُرِّيَّتِهِمَا إِلَى <span class=\"d\">اَلْمَأْمُونِ‌</span> قَرَأَهَا وَ فَرِحَ بِهَا وَ أَمَرَ أَنْ تُكْتَبَ بِالذَّهَبِ وَ أَنْ تُتَرْجَمَ <span class=\"K\">بِالرِّسَالَةِ اَلذَّهَبِيَّةِ‌</span></span>\n        </span>\n      </span>..</span>\n  </p>\n  <p id=\"p441\" paragraph-id=\"441\" class=\" G\">تمت الرسالة بحمد الله تعالى و كتب العبد الفقير إلى الله تعالى <span class=\"d\">عبد الرحمن</span> المدعو <span class=\"d\">أبي بكر بن عبد الله الكرخي</span> الجنس عتيق السعيد المرحوم قاضي القضاة كان <span class=\"t\">بالعراق </span><span class=\"d\">الحسن بن قاسم بن أبي الحسين بن علي بن </span></p>\n  <p id=\"p442\" paragraph-id=\"442\" class=\" G\">\n    <span class=\"d\" />\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote265\" footnote-id=\"265\">(1) <page number=\"67\" /> كذا في الاصل. و هو أبو محمد الحسن بن جمهور العمي، و قد تقدمت ترجمته.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E905CB9E-D788-4EFE-9BAE-7B0CBA0860F8",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

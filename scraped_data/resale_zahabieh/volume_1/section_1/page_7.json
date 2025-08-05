@@ -1,0 +1,87 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 7,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892138,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"283\"><page number=\"7\"/><heading level=\"2\">ولادته و وفاته: </heading></p>"
+        },
+        {
+          "paragraphId": 702892139,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"284\">ولد عليه السلام في مدينة جده رسول اللّه صلى اللّه عليه و آله و سلم يوم الخميس لاحدى عشرة ليلة خلت من ربيع الاول، سنة ثلاث و خمسين و مائة من الهجرة النبوية<lfootnote noteId=\"2\">1</lfootnote>. و قال الشيخ المفيد قدس سره: كان مولده عليه السلام سنة ثمان و أربعين و مائة<lfootnote noteId=\"3\">2</lfootnote>.</p>"
+        },
+        {
+          "paragraphId": 702892140,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"285\">و توفي مسموما بطوس، في قرية يقال لها سناباذ، و دفن في دار حميد بن قحطبة الطائي، في القبة التي دفن فيها الرشيد، الى جانبه مما يلي القبلة، و ذلك في أول سنة (203) ه‍<lfootnote noteId=\"4\">3</lfootnote>. و قد تم عمره الشريف تسعا و أربعين عاما و ستة أشهر، أو خمسا و خمسين عاما على ما ذكره الشيخ المفيد. و كانت مدة امامته عليه السلام و قيامه بعد أبيه عشرين عاما.</p>"
+        },
+        {
+          "paragraphId": 702892141,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"286\">و لما كانت شخصية الامام الرضا عليه السلام متشعبة الجوانب أسمى من أن يحيط بهابيان، تركت الخوض في خضمها لاصحاب الموسوعات التاريخية من ذوي الاختصاص.</p>"
+        },
+        {
+          "paragraphId": 702892142,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"287\"><heading level=\"2\">من خلال الأحداث: </heading></p>"
+        },
+        {
+          "paragraphId": 702892143,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"288\">من الضروري أن نجد العلاقة بين امامنا الرضا عليه السلام، الذي عاش جل حياته بيثرب، و بين عبد اللّه بن هارون الرشيد الخليفة العباسي المعروف بالمأمون من خلال الاحداث.</p>"
+        },
+        {
+          "paragraphId": 702892144,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"289\"><page number=\"8\"/>لقد عاصر الامام عليه السلام ستة من خلفاء بني العباس، و هم: المنصور، و المهدي، و الهادي، و الرشيد، و الامين، و المأمون. و كانت البلاد الاسلامية آنذاك تتمخض عن ثورات علوية متتالية، فكلما قضى على واحدة منها قامت الاخرى.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892519,
+          "text": "<footnote id=\"2\"><page number=\"7\"/><mnote>(1)</mnote> عيون أخبار الرضا: 18.</footnote>"
+        },
+        {
+          "footnoteId": 702892520,
+          "text": "<footnote id=\"3\"><mnote>(2)</mnote> ارشاد المفيد: 341.</footnote>"
+        },
+        {
+          "footnoteId": 702892521,
+          "text": "<footnote id=\"4\"><mnote>(3)</mnote> تاريخ اليعقوبى: 193/3، مرآة الزمان: 22/9 أ.</footnote>"
+        }
+      ],
+      "pageValue": "7",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p283\" paragraph-id=\"283\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo7\">7</span>\n    <strong style=\"0\" class=\"h-2 02\">ولادته و وفاته: </strong>\n  </p>\n  <p id=\"p284\" paragraph-id=\"284\" class=\" G\">ولد عليه السلام في مدينة جده رسول اللّه صلى اللّه عليه و آله و سلم يوم الخميس لاحدى عشرة ليلة خلت من ربيع الاول، سنة ثلاث و خمسين و مائة من الهجرة النبوية<span><sup><a class=\"NewFn\" href=\"#footnote2\" title=\"(1)  عيون أخبار الرضا: 18.\">1</a></sup></span>. و قال الشيخ المفيد قدس سره: كان مولده عليه السلام سنة ثمان و أربعين و مائة<span><sup><a class=\"NewFn\" href=\"#footnote3\" title=\"(2)  ارشاد المفيد: 341.\">2</a></sup></span>.</p>\n  <p id=\"p285\" paragraph-id=\"285\" class=\" G\">و توفي مسموما بطوس، في قرية يقال لها سناباذ، و دفن في دار حميد بن قحطبة الطائي، في القبة التي دفن فيها الرشيد، الى جانبه مما يلي القبلة، و ذلك في أول سنة (203) ه‍<span><sup><a class=\"NewFn\" href=\"#footnote4\" title=\"(3)  تاريخ اليعقوبى: 193/3، مرآة الزمان: 22/9 أ.\">3</a></sup></span>. و قد تم عمره الشريف تسعا و أربعين عاما و ستة أشهر، أو خمسا و خمسين عاما على ما ذكره الشيخ المفيد. و كانت مدة امامته عليه السلام و قيامه بعد أبيه عشرين عاما.</p>\n  <p id=\"p286\" paragraph-id=\"286\" class=\" G\">و لما كانت شخصية الامام الرضا عليه السلام متشعبة الجوانب أسمى من أن يحيط بهابيان، تركت الخوض في خضمها لاصحاب الموسوعات التاريخية من ذوي الاختصاص.</p>\n  <p id=\"p287\" paragraph-id=\"287\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">من خلال الأحداث: </strong>\n  </p>\n  <p id=\"p288\" paragraph-id=\"288\" class=\" G\">من الضروري أن نجد العلاقة بين امامنا الرضا عليه السلام، الذي عاش جل حياته بيثرب، و بين عبد اللّه بن هارون الرشيد الخليفة العباسي المعروف بالمأمون من خلال الاحداث.</p>\n  <p id=\"p289\" paragraph-id=\"289\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote2\" footnote-id=\"2\">(1) <page number=\"7\" /> عيون أخبار الرضا: 18.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote3\" footnote-id=\"3\">(2)  ارشاد المفيد: 341.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote4\" footnote-id=\"4\">(3)  تاريخ اليعقوبى: 193/3، مرآة الزمان: 22/9 أ.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "99DE3B49-7E47-4664-BE7B-A427E2B21835",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

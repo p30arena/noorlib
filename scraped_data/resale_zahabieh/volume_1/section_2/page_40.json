@@ -1,0 +1,77 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 40,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892260,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"405\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"40\"/>وَ مَنْ أَرَادَ أَنْ لاَ يَشْتَكِيَ سُرَّتَهُ فَلْيَدْهُنْهَا إِذَا دَهَنَ رَأْسَهُ وَ مَنْ أَرَادَ أَنْ لاَ تَشَقَّقَ شَفَتَاهُ وَ لاَ يَخْرُجَ فِيهَا نَاسُورٌ<lfootnote noteId=\"155\">1</lfootnote>فَلْيَدْهُنْ حَاجِبَيْهِ‌<lfootnote noteId=\"156\">2</lfootnote>[t-1-1-73-1]<format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"271\" Id=\"1\"/>وَ مَنْ أَرَادَ أَنْ لاَ يَسْقُطَ أدناه<lfootnote noteId=\"157\">3</lfootnote><format class=\"z\">[أُذُنَاهُ‌]</format> وَ لاَ لَهَاتُهُ‌<lfootnote noteId=\"158\">4</lfootnote> فَلاَ يَأْكُلْ حُلْواً إِلاَّ تَغَرْغَرَ بِخَلٍّ‌<lfootnote noteId=\"159\">5</lfootnote>وَ مَنْ أَرَادَ أَنْ لاَ يَفْسُدَ أَسْنَانُهُ فَلاَ يَأْكُلْ حُلْواً إِلاَّ أَكَلَ بَعْدَهُ كِسْرَةَ خُبْزٍ<lfootnote noteId=\"160\">6</lfootnote>وَ مَنْ أَرَادَ أَنْ لاَ يُصِيبَهُ اَلْيَرَقَانُ‌<lfootnote noteId=\"161\">7</lfootnote> وَ اَلصُّفَارُ<lfootnote noteId=\"162\">8</lfootnote> فَلاَ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892261,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"406\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"41\"/>يَدْخُلَنَّ بَيْتاً<lfootnote noteId=\"163\">1</lfootnote> فِي <format class=\"Z\">اَلصَّيْفِ‌</format> أَوَّلَ مَا يَفْتَحُ بَابَهُ وَ لاَ يَخْرُجَنَّ مِنْ بَيْتٍ فِي <format class=\"Z\">اَلشِّتَاءِ‌</format> أَوَّلَ مَا يَفْتَحُ بَابَهُ بِالْغَدَاةِ‌<lfootnote noteId=\"164\">2</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"273\" Id=\"1\"/>وَ مَنْ أَرَادَ أَنْ لاَ يُصِيبَهُ رِيحٌ فَلْيَأْكُلِ اَلثُّومَ‌<lfootnote noteId=\"165\">3</lfootnote> فِي كُلِّ سَبْعَةِ أَيَّامٍ وَ مَنْ أَرَادَ أَنْ يُمْرِيَهُ‌<lfootnote noteId=\"166\">4</lfootnote> اَلطَّعَامُ فَلْيَتَّكِئْ عَلَى يَمِينِهِ ثُمَّ يَنْقَلِبُ بَعْدَ ذَلِكَ عَلَى يَسَارِهِ حِينَ يَنَامُ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"275\" Id=\"1\"/>وَ مَنْ أَرَادَ أَنْ يَذْهَبَ بِالْبَلْغَمِ فَلْيَأْكُلْ كُلَّ يَوْمٍ جَوَارِشْناً<lfootnote noteId=\"167\">5</lfootnote>حِرِّيفاً وَ يُكْثِرُ دُخُولَ اَلْحَمَّامِ وَ إِتْيَانَ اَلنِّسَاءِ وَ اَلْقُعُودَ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892672,
+          "text": "<footnote id=\"155\"><page number=\"40\"/><mnote>(1)</mnote> الناسور: علة في اللثة. انظر القاموس 141/2.</footnote>"
+        },
+        {
+          "footnoteId": 702892673,
+          "text": "<footnote id=\"156\"><mnote>(2)</mnote> في (ب و ج و د): حاجيبة من دهن رأسه.</footnote>"
+        },
+        {
+          "footnoteId": 702892674,
+          "text": "<footnote id=\"157\"><mnote>(3)</mnote> كذا في الاصل و في (ب و ج): أذناه.</footnote>"
+        },
+        {
+          "footnoteId": 702892675,
+          "text": "<footnote id=\"158\"><mnote>(4)</mnote> اللهاة: اللحمة المشرفة على الحلق، أو ما بين منقطع أصل اللسان الى منقطع القلب من أعلى الفم. انظر القاموس 388/4.</footnote>"
+        },
+        {
+          "footnoteId": 702892676,
+          "text": "<footnote id=\"159\"><mnote>(5)</mnote> انظر القانون 462/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892677,
+          "text": "<footnote id=\"160\"><mnote>(6)</mnote> ليس في (ج).</footnote>"
+        },
+        {
+          "footnoteId": 702892678,
+          "text": "<footnote id=\"161\"><mnote>(7)</mnote> اليرقان: وجع يتغير منه لون البدن فاحشا الى صفرة أ سواد. انظر القاموس 215/3.</footnote>"
+        },
+        {
+          "footnoteId": 702892679,
+          "text": "<footnote id=\"162\"><mnote>(8)</mnote> ليس في (ب و ج و د). و الصفار: دود في البطن. انظر القاموس 71/2.</footnote>"
+        }
+      ],
+      "pageValue": "40",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p405\" paragraph-id=\"405\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo40\">40</span>وَ مَنْ أَرَادَ أَنْ لاَ يَشْتَكِيَ سُرَّتَهُ فَلْيَدْهُنْهَا إِذَا دَهَنَ رَأْسَهُ وَ مَنْ أَرَادَ أَنْ لاَ تَشَقَّقَ شَفَتَاهُ وَ لاَ يَخْرُجَ فِيهَا نَاسُورٌ<span><sup><a class=\"NewFn\" href=\"#footnote155\" title=\"(1)  الناسور: علة في اللثة. انظر القاموس 141/2.\">1</a></sup></span>فَلْيَدْهُنْ حَاجِبَيْهِ‌<span><sup><a class=\"NewFn\" href=\"#footnote156\" title=\"(2)  في (ب و ج و د): حاجيبة من دهن رأسه.\">2</a></sup></span>[t-1-1-73-1]<span class=\"Link\"></span>وَ مَنْ أَرَادَ أَنْ لاَ يَسْقُطَ أدناه<span><sup><a class=\"NewFn\" href=\"#footnote157\" title=\"(3)  كذا في الاصل و في (ب و ج): أذناه.\">3</a></sup></span><span class=\"z\">[أُذُنَاهُ‌]</span> وَ لاَ لَهَاتُهُ‌<span><sup><a class=\"NewFn\" href=\"#footnote158\" title=\"(4)  اللهاة: اللحمة المشرفة على الحلق، أو ما بين منقطع أصل اللسان الى منقطع القلب من أعلى الفم. انظر القاموس 388/4.\">4</a></sup></span> فَلاَ يَأْكُلْ حُلْواً إِلاَّ تَغَرْغَرَ بِخَلٍّ‌<span><sup><a class=\"NewFn\" href=\"#footnote159\" title=\"(5)  انظر القانون 462/1.\">5</a></sup></span>وَ مَنْ أَرَادَ أَنْ لاَ يَفْسُدَ أَسْنَانُهُ فَلاَ يَأْكُلْ حُلْواً إِلاَّ أَكَلَ بَعْدَهُ كِسْرَةَ خُبْزٍ<span><sup><a class=\"NewFn\" href=\"#footnote160\" title=\"(6)  ليس في (ج).\">6</a></sup></span>وَ مَنْ أَرَادَ أَنْ لاَ يُصِيبَهُ اَلْيَرَقَانُ‌<span><sup><a class=\"NewFn\" href=\"#footnote161\" title=\"(7)  اليرقان: وجع يتغير منه لون البدن فاحشا الى صفرة أ سواد. انظر القاموس 215/3.\">7</a></sup></span> وَ اَلصُّفَارُ<span><sup><a class=\"NewFn\" href=\"#footnote162\" title=\"(8)  ليس في (ب و ج و د). و الصفار: دود في البطن. انظر القاموس 71/2.\">8</a></sup></span> فَلاَ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p406\" paragraph-id=\"406\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote155\" footnote-id=\"155\">(1) <page number=\"40\" /> الناسور: علة في اللثة. انظر القاموس 141/2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote156\" footnote-id=\"156\">(2)  في (ب و ج و د): حاجيبة من دهن رأسه.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote157\" footnote-id=\"157\">(3)  كذا في الاصل و في (ب و ج): أذناه.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote158\" footnote-id=\"158\">(4)  اللهاة: اللحمة المشرفة على الحلق، أو ما بين منقطع أصل اللسان الى منقطع القلب من أعلى الفم. انظر القاموس 388/4.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote159\" footnote-id=\"159\">(5)  انظر القانون 462/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote160\" footnote-id=\"160\">(6)  ليس في (ج).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote161\" footnote-id=\"161\">(7)  اليرقان: وجع يتغير منه لون البدن فاحشا الى صفرة أ سواد. انظر القاموس 215/3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote162\" footnote-id=\"162\">(8)  ليس في (ب و ج و د). و الصفار: دود في البطن. انظر القاموس 71/2.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "757D0B73-F4D2-4CE5-AD3E-503B2DF23737",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

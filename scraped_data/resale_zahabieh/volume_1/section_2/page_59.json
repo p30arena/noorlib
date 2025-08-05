@@ -1,0 +1,57 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 59,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892287,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"432\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"59\"/>إِذَا لَمْ يَكُنْ فَوْقَهُمَا لَحْمٌ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"225\" Id=\"1\"/>وَ اَلْوَاجِبُ تَكْمِيدُ مَوْضِعِ اَلْفَصْدِ بِالْمَاءِ اَلْحَارِّ لِيَظْهَرَ اَلدَّمُ وَ خَاصَّةً فِي اَلشِّتَاءِ فَإِنَّهُ يُلَيِّنُ اَلْجِلْدَ وَ يُقَلِّلُ اَلْأَلَمَ وَ يُسَهِّلُ اَلْفَصْدَ<lfootnote noteId=\"234\">1</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"226\" Id=\"1\"/>وَ يَجِبُ فِي كُلِّ مَا ذَكَرْنَا مِنْ إِخْرَاجِ اَلدَّمِ اِجْتِنَابُ اَلنِّسَاءِ قَبْلَ ذَلِكَ بِاثْنَتَيْ عَشْرَةَ سَاعَةً وَ يَحْتَجِمُ فِي يَوْمٍ صَاحٍ صَافٍ لاَ غَيْمٌ فِيهِ وَ لاَ رِيحٌ شَدِيدَةٌ وَ لْيُخْرِجْ مِنَ اَلدَّمِ بِقَدْرِ مَا يَرَى مِنْ تَغَيُّرِهِ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"227\" Id=\"1\"/>وَ لاَ تَدْخُلْ يَوْمَكَ ذَاكَ اَلْحَمَّامَ فَإِنَّهُ يُورِثُ اَلدَّاءَ وَ اُصْبُبْ عَلَى رَأْسِكَ وَ جَسَدِكَ اَلْمَاءَ اَلْحَارَّ وَ لاَ تَغْفُلْ ذَلِكَ مِنْ سَاعَتِكَ‌<lfootnote noteId=\"235\">2</lfootnote>وَ إِيَّاكَ وَ اَلْحَمَّامَ إِذَا اِحْتَجَمْتَ فَإِنَّ اَلْحُمَّى اَلدَّائِمَةَ تَكُونُ مِنْهُ [t-1-1-66-1]فَإِذَا اِغْتَسَلْتَ مِنَ اَلْحِجَامَةِ فَخُذْ خِرْقَةَ مِرْعِزَّي<lfootnote noteId=\"236\">3</lfootnote> فَأَلْقِهَا عَلَى مَحَاجِمِكَ أَوْ ثَوْباً لَيِّناً مِنْ قَزٍّ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892288,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"433\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"60\"/>أَوْ غَيْرِهِ وَ خُذْ قَدْرَ اَلْحِمَّصَةِ مِنَ اَلدِّرْيَاقِ اَلْأَكْبَرِ<lfootnote noteId=\"237\">1</lfootnote>فَاشْرَبْهُ وَ كُلْهُ مِنْ غَيْرِ شُرْبٍ إِنْ كَانَ شِتَاءً وَ إِنْ كَانَ صَيْفاً فَاشْرَبِ اَلْإِسْكَنْجَبِينَ اَلْمَغْلِيَّ‌<lfootnote noteId=\"238\">2</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"228\" Id=\"1\"/>فَإِنَّكَ إِذَا فَعَلْتَ ذَلِكَ فَقَدْ أَمِنْتَ مِنَ اَللَّقْوَةِ‌<lfootnote noteId=\"239\">3</lfootnote> وَ اَلْبَهَقِ‌<lfootnote noteId=\"240\">4</lfootnote> وَ اَلْبَرَصِ‌<lfootnote noteId=\"241\">5</lfootnote>وَ اَلْجُذَامِ بِإِذْنِ اَللَّهِ تَعَالَى </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892751,
+          "text": "<footnote id=\"234\"><page number=\"59\"/><mnote>(1)</mnote> أنظر القانون 208/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892752,
+          "text": "<footnote id=\"235\"><mnote>(2)</mnote> في الاصل: (ماء حار من غد) و ما أثبتناه كما في (ب و ج و د).</footnote>"
+        },
+        {
+          "footnoteId": 702892753,
+          "text": "<footnote id=\"236\"><mnote>(3)</mnote> في (ج و د): فرعوني. و المرعزي: بكسر الميم و العين نوع من المعز طويل الشعر ناعمه يوجد في آسيا الصغرى، و سمي بالمرعز أو المرعزي لان المرعز *<page number=\"60\"/>* هو في الاصل الزغب تحت شعر العنز. انظر المعجم الزو و لوجي الحديث 450/5.</footnote>"
+        }
+      ],
+      "pageValue": "59",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p432\" paragraph-id=\"432\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo59\">59</span>إِذَا لَمْ يَكُنْ فَوْقَهُمَا لَحْمٌ <span class=\"Link\"></span>وَ اَلْوَاجِبُ تَكْمِيدُ مَوْضِعِ اَلْفَصْدِ بِالْمَاءِ اَلْحَارِّ لِيَظْهَرَ اَلدَّمُ وَ خَاصَّةً فِي اَلشِّتَاءِ فَإِنَّهُ يُلَيِّنُ اَلْجِلْدَ وَ يُقَلِّلُ اَلْأَلَمَ وَ يُسَهِّلُ اَلْفَصْدَ<span><sup><a class=\"NewFn\" href=\"#footnote234\" title=\"(1)  أنظر القانون 208/1.\">1</a></sup></span><span class=\"Link\"></span>وَ يَجِبُ فِي كُلِّ مَا ذَكَرْنَا مِنْ إِخْرَاجِ اَلدَّمِ اِجْتِنَابُ اَلنِّسَاءِ قَبْلَ ذَلِكَ بِاثْنَتَيْ عَشْرَةَ سَاعَةً وَ يَحْتَجِمُ فِي يَوْمٍ صَاحٍ صَافٍ لاَ غَيْمٌ فِيهِ وَ لاَ رِيحٌ شَدِيدَةٌ وَ لْيُخْرِجْ مِنَ اَلدَّمِ بِقَدْرِ مَا يَرَى مِنْ تَغَيُّرِهِ <span class=\"Link\"></span>وَ لاَ تَدْخُلْ يَوْمَكَ ذَاكَ اَلْحَمَّامَ فَإِنَّهُ يُورِثُ اَلدَّاءَ وَ اُصْبُبْ عَلَى رَأْسِكَ وَ جَسَدِكَ اَلْمَاءَ اَلْحَارَّ وَ لاَ تَغْفُلْ ذَلِكَ مِنْ سَاعَتِكَ‌<span><sup><a class=\"NewFn\" href=\"#footnote235\" title=\"(2)  في الاصل: (ماء حار من غد) و ما أثبتناه كما في (ب و ج و د).\">2</a></sup></span>وَ إِيَّاكَ وَ اَلْحَمَّامَ إِذَا اِحْتَجَمْتَ فَإِنَّ اَلْحُمَّى اَلدَّائِمَةَ تَكُونُ مِنْهُ [t-1-1-66-1]فَإِذَا اِغْتَسَلْتَ مِنَ اَلْحِجَامَةِ فَخُذْ خِرْقَةَ مِرْعِزَّي<span><sup><a class=\"NewFn\" href=\"#footnote236\" title=\"(3)  في (ج و د): فرعوني. و المرعزي: بكسر الميم و العين نوع من المعز طويل الشعر ناعمه يوجد في آسيا الصغرى، و سمي بالمرعز أو المرعزي لان المرعز *\">3</a></sup></span> فَأَلْقِهَا عَلَى مَحَاجِمِكَ أَوْ ثَوْباً لَيِّناً مِنْ قَزٍّ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p433\" paragraph-id=\"433\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote234\" footnote-id=\"234\">(1) <page number=\"59\" /> أنظر القانون 208/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote235\" footnote-id=\"235\">(2)  في الاصل: (ماء حار من غد) و ما أثبتناه كما في (ب و ج و د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote236\" footnote-id=\"236\">(3)  في (ج و د): فرعوني. و المرعزي: بكسر الميم و العين نوع من المعز طويل الشعر ناعمه يوجد في آسيا الصغرى، و سمي بالمرعز أو المرعزي لان المرعز *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "AF634EB6-B9D6-4F73-9229-1DE6E930B15B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

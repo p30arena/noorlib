@@ -1,0 +1,55 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 9,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892227,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"372\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"9\"/><format class=\"a\">بِسْمِ اَللّٰهِ اَلرَّحْمٰنِ اَلرَّحِيمِ‌</format></format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892228,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"373\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\">اِعْتَصَمْتُ بِاللَّهِ أَمَّا بَعْدُ فَإِنَّهُ وَصَلَ كِتَابُ أَمِيرِ اَلْمُؤْمِنِينَ فِيمَا أَمَرَنِي بِهِ مِنْ تَوْقِيفِهِ عَلَى مَا يَحْتَاجُ إِلَيْهِ مِمَّا جَرَّبْتُهُ وَ سَمِعْتُهُ فِي اَلْأَطْعِمَةِ وَ اَلْأَشْرِبَةِ وَ أَخْذِ اَلْأَدْوِيَةِ وَ اَلْفَصْدِ وَ اَلْحِجَامَةِ وَ اَلْحَمَّامِ وَ اَلنُّورَةِ وَ اَلْبَاهِ وَ غَيْرِ ذَلِكَ مِمَّا يُدَبِّرُ اِسْتِقَامَةَ أَمْرِ اَلْجَسَدِ بِهِ وَ قَدْ فَسَّرْتُ لِأَمِيرِ اَلْمُؤْمِنِينَ‌<lfootnote noteId=\"29\">1</lfootnote> مَا يَحْتَاجُ إِلَيْهِ وَ شَرَحْتُ لَهُ مَا يَعْمَلُ عَلَيْهِ مِنْ تَدْبِيرِ مَطْعَمِهِ وَ مَشْرَبِهِ وَ أَخْذِهِ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892229,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"374\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"10\"/>اَلدَّوَاءَ وَ فَصْدِهِ وَ حِجَامَتِهِ وَ بَاهِهِ وَ غَيْرِ ذَلِكَ مِمَّا يَحْتَاجُ إِلَيْهِ فِي سِيَاسَةِ جِسْمِهِ وَ بِاللَّهِ اَلتَّوْفِيقُ‌<lfootnote noteId=\"30\">1</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"81\" Id=\"1\"/>[t-1-1-44-1]اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ‌<lfootnote noteId=\"31\">2</lfootnote> أَنَّ اَللَّهَ عَزَّ وَ جَلَّ لَمْ يَبْتَلِ اَلْبَدَنَ بِدَاءٍ حَتَّى جَعَلَ لَهُ دَوَاءً يُعَالَجُ بِهِ وَ لِكُلِّ صِنْفٍ مِنَ اَلدَّاءِ صِنْفٌ مِنَ اَلدَّوَاءِ وَ تَدْبِيرٌ وَ نَعْتٌ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"82\" Id=\"1\"/>وَ ذَلِكَ أَنَّ هَذِهِ اَلْأَجْسَامَ أُسِّسَتْ عَلَى مِثَالِ اَلْمُلْكِ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892546,
+          "text": "<footnote id=\"29\"><page number=\"9\"/><mnote>(1)</mnote> في (ب) له.</footnote>"
+        }
+      ],
+      "pageValue": "9",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p372\" paragraph-id=\"372\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo9\">9</span>\n            <span class=\"a\">بِسْمِ اَللّٰهِ اَلرَّحْمٰنِ اَلرَّحِيمِ‌</span>\n          </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p373\" paragraph-id=\"373\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">اِعْتَصَمْتُ بِاللَّهِ أَمَّا بَعْدُ فَإِنَّهُ وَصَلَ كِتَابُ أَمِيرِ اَلْمُؤْمِنِينَ فِيمَا أَمَرَنِي بِهِ مِنْ تَوْقِيفِهِ عَلَى مَا يَحْتَاجُ إِلَيْهِ مِمَّا جَرَّبْتُهُ وَ سَمِعْتُهُ فِي اَلْأَطْعِمَةِ وَ اَلْأَشْرِبَةِ وَ أَخْذِ اَلْأَدْوِيَةِ وَ اَلْفَصْدِ وَ اَلْحِجَامَةِ وَ اَلْحَمَّامِ وَ اَلنُّورَةِ وَ اَلْبَاهِ وَ غَيْرِ ذَلِكَ مِمَّا يُدَبِّرُ اِسْتِقَامَةَ أَمْرِ اَلْجَسَدِ بِهِ وَ قَدْ فَسَّرْتُ لِأَمِيرِ اَلْمُؤْمِنِينَ‌<span><sup><a class=\"NewFn\" href=\"#footnote29\" title=\"(1)  في (ب) له.\">1</a></sup></span> مَا يَحْتَاجُ إِلَيْهِ وَ شَرَحْتُ لَهُ مَا يَعْمَلُ عَلَيْهِ مِنْ تَدْبِيرِ مَطْعَمِهِ وَ مَشْرَبِهِ وَ أَخْذِهِ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p374\" paragraph-id=\"374\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote29\" footnote-id=\"29\">(1) <page number=\"9\" /> في (ب) له.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "64E36649-F689-4BA1-8E65-04F9412BB039",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

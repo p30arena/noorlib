@@ -1,0 +1,61 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 64,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892292,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"437\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"64\"/>فِي اَلْوَجْهِ‌<lfootnote noteId=\"255\">1</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"236\" Id=\"1\"/>وَ أَكْلُ اَلْمُلُوحَةِ وَ اَللُّحْمَانِ اَلْمَمْلُوحَةِ وَ أَكْلُ اَلسَّمَكِ اَلْمَمْلُوحِ بَعْدَ اَلْحِجَامَةِ وَ اَلْفَصْدِ لِلْعُرُوقِ يُوَلِّدَانِ اَلْبَهَقَ وَ اَلْجَرَبَ‌<lfootnote noteId=\"256\">2</lfootnote> [t-1-1-68-1]<format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"237\" Id=\"1\"/>وَ إِدْمَانُ أَكْلِ كُلَى اَلْغَنَمِ وَ أَجْوَافِهَا يَعْكِسُ‌<lfootnote noteId=\"257\">3</lfootnote> اَلْمَثَانَةَ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"238\" Id=\"1\"/>وَ دُخُولُ اَلْحَمَّامِ عَلَى اَلْبِطْنَةِ يُوَلِّدُ اَلْقُولَنْجَ‌<lfootnote noteId=\"258\">4</lfootnote>[t-1-1-78-1]<format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"292\" Id=\"1\"/>وَ لاَ تَقْرَبِ اَلنِّسَاءَ فِي أَوَّلِ اَللَّيْلِ لاَ <format class=\"Z\">شِتَاءً‌</format> وَ لاَ <format class=\"Z\">صَيْفاً </format>وَ ذَلِكَ أَنَّ اَلْمَعِدَةَ وَ اَلْعُرُوقَ تَكُونُ مُمْتَلِئَةً وَ هُوَ غَيْرُ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892293,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"438\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"65\"/>مَحْمُودٍ يُتَخَوَّفُ مِنْهُ اَلْقُولَنْجُ وَ اَلْفَالِجُ وَ اَللَّقْوَةُ وَ اَلنِّقْرِسُ وَ اَلْحَصَاةُ وَ اَلتَّقْطِيرُ<lfootnote noteId=\"259\">1</lfootnote> وَ اَلْفَتْقُ‌<lfootnote noteId=\"260\">2</lfootnote> وَ ضَعْفُ اَلْبَصَرِ وَ اَلدِّمَاغِ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"294\" Id=\"1\"/>فَإِذَا أُرِيدُ ذَلِكَ فَلْيَكُنْ فِي آخِرِ اَللَّيْلِ فَإِنَّهُ أَصَحُّ لِلْبَدَنِ وَ أَرْجَى لِلْوَلَدِ وَ أَذْكَى لِلْعَقْلِ فِي اَلْوَلَدِ اَلَّذِي يُقْضَى بَيْنَهُمَا <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"296\" Id=\"1\"/>[t-1-1-78-30]وَ لاَ تُجَامِعِ اِمْرَأَةً حَتَّى تُلاَعِبَهَا<lfootnote noteId=\"261\">3</lfootnote> وَ تَغْمِزَ ثَدْيَيْهَا فَإِنَّكَ إِنْ فَعَلْتَ اِجْتَمَعَ مَاؤُهَا وَ مَاؤُكَ فَكَانَ مِنْهَا اَلْحَمْلُ‌<lfootnote noteId=\"262\">4</lfootnote> وَ اِشْتَهَتْ مِنْكَ مِثْلَ اَلَّذِي تَشْتَهِيهِ مِنْهَا وَ ظَهَرَ ذَلِكَ فِي عَيْنَيْهَا<lfootnote noteId=\"263\">5</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"298\" Id=\"1\"/>وَ لاَ تُجَامِعْهَا إِلاَّ وَ هِيَ طَاهِرَةٌ فَإِذَا فَعَلْتَ ذَلِكَ كَانَ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892772,
+          "text": "<footnote id=\"255\"><page number=\"64\"/><mnote>(1)</mnote> الكلف. شىء يعلو الوجه كالسمسم، أو لون بين السواد و الحمرة. انظر القاموس 198/3.</footnote>"
+        },
+        {
+          "footnoteId": 702892773,
+          "text": "<footnote id=\"256\"><mnote>(2)</mnote> قال ابن بختيشوع كما نقله عنه ابن القيم الجوزي في كتابه زاد المعاد 196/2، و أكل الملوحة و السمك المالح و الافتصاد بعد الحمام يولد البهق و الجرب. قال ابن ماسويه في نفس المصدر و من افتصد فأكل مالحا فاصابه بهق أوجرب فلا يلومن الانفسه.</footnote>"
+        },
+        {
+          "footnoteId": 702892774,
+          "text": "<footnote id=\"257\"><mnote>(3)</mnote> في (ب و ج و د) يعكّر. ظاهره الصواب كما نقل عن ابن بختيشوع قوله: ادامة أكل الغنم يعقر المثانة. انظر زاد المعاد 196/2.</footnote>"
+        },
+        {
+          "footnoteId": 702892775,
+          "text": "<footnote id=\"258\"><mnote>(4)</mnote> انظر القانون 614/2. و زاد المعاد 196/2.</footnote>"
+        }
+      ],
+      "pageValue": "64",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p437\" paragraph-id=\"437\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo64\">64</span>فِي اَلْوَجْهِ‌<span><sup><a class=\"NewFn\" href=\"#footnote255\" title=\"(1)  الكلف. شىء يعلو الوجه كالسمسم، أو لون بين السواد و الحمرة. انظر القاموس 198/3.\">1</a></sup></span><span class=\"Link\"></span>وَ أَكْلُ اَلْمُلُوحَةِ وَ اَللُّحْمَانِ اَلْمَمْلُوحَةِ وَ أَكْلُ اَلسَّمَكِ اَلْمَمْلُوحِ بَعْدَ اَلْحِجَامَةِ وَ اَلْفَصْدِ لِلْعُرُوقِ يُوَلِّدَانِ اَلْبَهَقَ وَ اَلْجَرَبَ‌<span><sup><a class=\"NewFn\" href=\"#footnote256\" title=\"(2)  قال ابن بختيشوع كما نقله عنه ابن القيم الجوزي في كتابه زاد المعاد 196/2، و أكل الملوحة و السمك المالح و الافتصاد بعد الحمام يولد البهق و الجرب. قال ابن ماسويه في نفس المصدر و من افتصد فأكل مالحا فاصابه بهق أوجرب فلا يلومن الانفسه.\">2</a></sup></span> [t-1-1-68-1]<span class=\"Link\"></span>وَ إِدْمَانُ أَكْلِ كُلَى اَلْغَنَمِ وَ أَجْوَافِهَا يَعْكِسُ‌<span><sup><a class=\"NewFn\" href=\"#footnote257\" title=\"(3)  في (ب و ج و د) يعكّر. ظاهره الصواب كما نقل عن ابن بختيشوع قوله: ادامة أكل الغنم يعقر المثانة. انظر زاد المعاد 196/2.\">3</a></sup></span> اَلْمَثَانَةَ <span class=\"Link\"></span>وَ دُخُولُ اَلْحَمَّامِ عَلَى اَلْبِطْنَةِ يُوَلِّدُ اَلْقُولَنْجَ‌<span><sup><a class=\"NewFn\" href=\"#footnote258\" title=\"(4)  انظر القانون 614/2. و زاد المعاد 196/2.\">4</a></sup></span>[t-1-1-78-1]<span class=\"Link\"></span>وَ لاَ تَقْرَبِ اَلنِّسَاءَ فِي أَوَّلِ اَللَّيْلِ لاَ <span class=\"Z\">شِتَاءً‌</span> وَ لاَ <span class=\"Z\">صَيْفاً </span>وَ ذَلِكَ أَنَّ اَلْمَعِدَةَ وَ اَلْعُرُوقَ تَكُونُ مُمْتَلِئَةً وَ هُوَ غَيْرُ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p438\" paragraph-id=\"438\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote255\" footnote-id=\"255\">(1) <page number=\"64\" /> الكلف. شىء يعلو الوجه كالسمسم، أو لون بين السواد و الحمرة. انظر القاموس 198/3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote256\" footnote-id=\"256\">(2)  قال ابن بختيشوع كما نقله عنه ابن القيم الجوزي في كتابه زاد المعاد 196/2، و أكل الملوحة و السمك المالح و الافتصاد بعد الحمام يولد البهق و الجرب. قال ابن ماسويه في نفس المصدر و من افتصد فأكل مالحا فاصابه بهق أوجرب فلا يلومن الانفسه.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote257\" footnote-id=\"257\">(3)  في (ب و ج و د) يعكّر. ظاهره الصواب كما نقل عن ابن بختيشوع قوله: ادامة أكل الغنم يعقر المثانة. انظر زاد المعاد 196/2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote258\" footnote-id=\"258\">(4)  انظر القانون 614/2. و زاد المعاد 196/2.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "42C0EE56-55FA-4482-9FFE-69EF49336507",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,61 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 29,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892247,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"392\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"29\"/>فِي اَلْبَطْنِ‌<lfootnote noteId=\"107\">1</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"249\" Id=\"1\"/>وَ أَكْلُ اَلتِّينِ يُقْمِلُ اَلْجَسَدَ إِذَا أُدْمِنَ عَلَيْهِ‌<lfootnote noteId=\"108\">2</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"250\" Id=\"1\"/>وَ شُرْبُ اَلْمَاءِ اَلْبَارِدِ عَقِيبَ اَلشَّيْ‌ءِ اَلْحَارِّ وَ عَقِيبَ اَلْحَلاَوَةِ يَذْهَبُ بِالْأَسْنَانِ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"252\" Id=\"1\"/>وَ اَلْإِكْثَارُ مِنْ أَكْلِ لُحُومِ اَلْوَحْشِ وَ اَلْبَقَرِ يُورِثُ تَيْبِيسَ اَلْعَقْلِ وَ تَحْيِيرَ اَلْفَهْمِ وَ تَلَبُّدَ اَلذِّهْنِ وَ كَثْرَةَ اَلنِّسْيَانِ‌<lfootnote noteId=\"109\">3</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"253\" Id=\"1\"/>[t-1-1-68-30]وَ إِذَا أَرَدْتَ دُخُولَ اَلْحَمَّامِ وَ أَنْ لاَ تَجِدَ فِي رَأْسِكَ مَا يُؤْذِيكَ فَابْدَأْ عِنْدَ دُخُولِ اَلْحَمَّامِ بِخَمْسِ حَسَوَاتٍ مَاءً حار<lfootnote noteId=\"110\">4</lfootnote><format class=\"z\">[حَارّاً]</format> فَإِنَّكَ تَسْلَمُ بِإِذْنِ اَللَّهِ تَعَالَى مِنْ وَجَعِ اَلرَّأْسِ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892248,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"393\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"30\"/>وَ اَلشَّقِيقَةِ‌<lfootnote noteId=\"111\">1</lfootnote> وَ قِيلَ خَمْسَةَ أَكُفٍّ مَاءَ حَارٍّ تَصُبُّهَا عَلَى رَأْسِكَ عِنْدَ دُخُولِ اَلْحَمَّامِ‌. </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892624,
+          "text": "<footnote id=\"107\"><page number=\"29\"/><mnote>(1)</mnote> قال ابن البيطار: في المغني ورقة 215، عن ابن جريح، ان من مولدات الدود في البطن أكل اللحم النبي.</footnote>"
+        },
+        {
+          "footnoteId": 702892625,
+          "text": "<footnote id=\"108\"><mnote>(2)</mnote> انظر القانون ج 446/1، و عن ابن ماسويه قال: كثيرا ما يتولد في مدمن آكله القمل الكثير، انظر الجامع لمفردات الادوية 148/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892626,
+          "text": "<footnote id=\"109\"><mnote>(3)</mnote> ذكر ابن البيطار عن جالينوس: اذا هو أكثر منه أعيى بالامراض الحادثة عن المرة السوداء كالسرطان و الجذام و الوسواس. انظر الجامع لمفردات الادوية 105/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892627,
+          "text": "<footnote id=\"110\"><mnote>(4)</mnote> في (ب و ج و د) فاتر.</footnote>"
+        }
+      ],
+      "pageValue": "29",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p392\" paragraph-id=\"392\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo29\">29</span>فِي اَلْبَطْنِ‌<span><sup><a class=\"NewFn\" href=\"#footnote107\" title=\"(1)  قال ابن البيطار: في المغني ورقة 215، عن ابن جريح، ان من مولدات الدود في البطن أكل اللحم النبي.\">1</a></sup></span><span class=\"Link\"></span>وَ أَكْلُ اَلتِّينِ يُقْمِلُ اَلْجَسَدَ إِذَا أُدْمِنَ عَلَيْهِ‌<span><sup><a class=\"NewFn\" href=\"#footnote108\" title=\"(2)  انظر القانون ج 446/1، و عن ابن ماسويه قال: كثيرا ما يتولد في مدمن آكله القمل الكثير، انظر الجامع لمفردات الادوية 148/1.\">2</a></sup></span><span class=\"Link\"></span>وَ شُرْبُ اَلْمَاءِ اَلْبَارِدِ عَقِيبَ اَلشَّيْ‌ءِ اَلْحَارِّ وَ عَقِيبَ اَلْحَلاَوَةِ يَذْهَبُ بِالْأَسْنَانِ <span class=\"Link\"></span>وَ اَلْإِكْثَارُ مِنْ أَكْلِ لُحُومِ اَلْوَحْشِ وَ اَلْبَقَرِ يُورِثُ تَيْبِيسَ اَلْعَقْلِ وَ تَحْيِيرَ اَلْفَهْمِ وَ تَلَبُّدَ اَلذِّهْنِ وَ كَثْرَةَ اَلنِّسْيَانِ‌<span><sup><a class=\"NewFn\" href=\"#footnote109\" title=\"(3)  ذكر ابن البيطار عن جالينوس: اذا هو أكثر منه أعيى بالامراض الحادثة عن المرة السوداء كالسرطان و الجذام و الوسواس. انظر الجامع لمفردات الادوية 105/1.\">3</a></sup></span><span class=\"Link\"></span>[t-1-1-68-30]وَ إِذَا أَرَدْتَ دُخُولَ اَلْحَمَّامِ وَ أَنْ لاَ تَجِدَ فِي رَأْسِكَ مَا يُؤْذِيكَ فَابْدَأْ عِنْدَ دُخُولِ اَلْحَمَّامِ بِخَمْسِ حَسَوَاتٍ مَاءً حار<span><sup><a class=\"NewFn\" href=\"#footnote110\" title=\"(4)  في (ب و ج و د) فاتر.\">4</a></sup></span><span class=\"z\">[حَارّاً]</span> فَإِنَّكَ تَسْلَمُ بِإِذْنِ اَللَّهِ تَعَالَى مِنْ وَجَعِ اَلرَّأْسِ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p393\" paragraph-id=\"393\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote107\" footnote-id=\"107\">(1) <page number=\"29\" /> قال ابن البيطار: في المغني ورقة 215، عن ابن جريح، ان من مولدات الدود في البطن أكل اللحم النبي.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote108\" footnote-id=\"108\">(2)  انظر القانون ج 446/1، و عن ابن ماسويه قال: كثيرا ما يتولد في مدمن آكله القمل الكثير، انظر الجامع لمفردات الادوية 148/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote109\" footnote-id=\"109\">(3)  ذكر ابن البيطار عن جالينوس: اذا هو أكثر منه أعيى بالامراض الحادثة عن المرة السوداء كالسرطان و الجذام و الوسواس. انظر الجامع لمفردات الادوية 105/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote110\" footnote-id=\"110\">(4)  في (ب و ج و د) فاتر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C4D7D781-2993-46E4-B162-B2882CDC665D",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

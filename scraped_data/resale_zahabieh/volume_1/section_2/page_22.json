@@ -1,0 +1,57 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 22,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892240,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"385\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"22\"/>وَ يُتْرَكُ فِي إِنَائِهِ ذَلِكَ ثَلاَثَةَ أَيَّامٍ فِي اَلشِّتَاءِ وَ فِي اَلصَّيْفِ يَوْماً وَ لَيْلَةً ثُمَّ يُجْعَلُ فِي قِدْرٍ نَظِيفَةٍ وَ لْيَكُنِ اَلْمَاءُ مَاءَ اَلسَّمَاءِ‌<lfootnote noteId=\"76\">1</lfootnote>إِنْ قَدَرَ عَلَيْهِ وَ إِلاَّ فَمِنَ اَلْمَاءِ اَلْعَذْبِ اَلصَّافِي اَلَّذِي يَكُونُ يَنْبُوعُهُ مِنْ نَاحِيَةِ اَلْمَشْرِقِ مَاءً أبيضا <format class=\"z\">[أَبْيَضَ‌]</format> بَرَّاقاً خَفِيفاً وَ هُوَ اَلْقَابِلُ لِمَا يَعْتَرِضُهُ عَلَى سُرْعَةٍ مِنَ اَلسُّخُونَةِ وَ اَلْبُرُودَةِ وَ تِلْكَ اَلدَّلاَلَةُ عَلَى خِفَّةِ اَلْمَاءِ‌<lfootnote noteId=\"77\">2</lfootnote>وَ يُطْبَخُ حَتَّى يَنْتَفِخَ اَلزَّبِيبُ ثُمَّ يُعْصَرُ وَ يُصَفَّى مَاؤُهُ وَ يُبْرَدُ ثُمَّ يُرَدُّ إِلَى اَلْقِدْرِ ثَانِياً وَ يُؤْخَذُ مِقْدَارُهُ بِعُودٍ وَ يُغْلَى بِنَارٍ لَيِّنَةٍ غَلَيَاناً رَقِيقاً حَتَّى يَمْضِيَ ثُلُثَاهُ وَ يَبْقَى ثُلُثُهُ ثُمَّ يُؤْخَذُ مِنَ اَلْعَسَلِ اَلْمُصَفَّى رِطْلٌ‌<lfootnote noteId=\"78\">3</lfootnote> فَيُلْقَى عَلَيْهِ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892241,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"386\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"23\"/>وَ يُؤْخَذُ مِقْدَارَ اَلْمَاءِ <format class=\"Z\">مِقْدَارَهُ‌</format> وَ مِقْدَارَهُ مِنَ اَلْقِدْرِ<lfootnote noteId=\"79\">1</lfootnote> وَ يُغْلَى حَتَّى يَذْهَبَ قَدْرُ اَلْعَسَلِ وَ يَعُودَ إِلَى حَدِّهِ وَ يُؤْخَذُ صَفِيقَةٌ‌<lfootnote noteId=\"80\">2</lfootnote> فَتُجْعَلُ فِيهَا مِنَ اَلزَّنْجَبِيلِ‌<lfootnote noteId=\"81\">3</lfootnote> وَزْنُ دِرْهَمٍ‌<lfootnote noteId=\"82\">4</lfootnote> وَ مِنَ اَلْقَرَنْفُلِ‌<lfootnote noteId=\"83\">5</lfootnote> وَزْنُ دِرْهَمٍ وَ مِنَ اَلدَّارَصِينِيِّ‌<lfootnote noteId=\"84\">6</lfootnote></format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892593,
+          "text": "<footnote id=\"76\"><page number=\"22\"/><mnote>(1)</mnote> ماء السماء: اي ماء المطر.</footnote>"
+        },
+        {
+          "footnoteId": 702892594,
+          "text": "<footnote id=\"77\"><mnote>(2)</mnote> قال الخجندي في التلويح: و أفضل المياه مياد العيون الجارية على الاراضي الطينية المنحدرة من مواضع عالية لا سيما العمرة المكشوفة التي تبعد منابعها، و يخف وزنها، و يجري نحو المشرق الصيفي و الشمال.</footnote>"
+        },
+        {
+          "footnoteId": 702892595,
+          "text": "<footnote id=\"78\"><mnote>(3)</mnote> الرطل: ما يساوي (314) غراما تقريبا.</footnote>"
+        }
+      ],
+      "pageValue": "22",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p385\" paragraph-id=\"385\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo22\">22</span>وَ يُتْرَكُ فِي إِنَائِهِ ذَلِكَ ثَلاَثَةَ أَيَّامٍ فِي اَلشِّتَاءِ وَ فِي اَلصَّيْفِ يَوْماً وَ لَيْلَةً ثُمَّ يُجْعَلُ فِي قِدْرٍ نَظِيفَةٍ وَ لْيَكُنِ اَلْمَاءُ مَاءَ اَلسَّمَاءِ‌<span><sup><a class=\"NewFn\" href=\"#footnote76\" title=\"(1)  ماء السماء: اي ماء المطر.\">1</a></sup></span>إِنْ قَدَرَ عَلَيْهِ وَ إِلاَّ فَمِنَ اَلْمَاءِ اَلْعَذْبِ اَلصَّافِي اَلَّذِي يَكُونُ يَنْبُوعُهُ مِنْ نَاحِيَةِ اَلْمَشْرِقِ مَاءً أبيضا <span class=\"z\">[أَبْيَضَ‌]</span> بَرَّاقاً خَفِيفاً وَ هُوَ اَلْقَابِلُ لِمَا يَعْتَرِضُهُ عَلَى سُرْعَةٍ مِنَ اَلسُّخُونَةِ وَ اَلْبُرُودَةِ وَ تِلْكَ اَلدَّلاَلَةُ عَلَى خِفَّةِ اَلْمَاءِ‌<span><sup><a class=\"NewFn\" href=\"#footnote77\" title=\"(2)  قال الخجندي في التلويح: و أفضل المياه مياد العيون الجارية على الاراضي الطينية المنحدرة من مواضع عالية لا سيما العمرة المكشوفة التي تبعد منابعها، و يخف وزنها، و يجري نحو المشرق الصيفي و الشمال.\">2</a></sup></span>وَ يُطْبَخُ حَتَّى يَنْتَفِخَ اَلزَّبِيبُ ثُمَّ يُعْصَرُ وَ يُصَفَّى مَاؤُهُ وَ يُبْرَدُ ثُمَّ يُرَدُّ إِلَى اَلْقِدْرِ ثَانِياً وَ يُؤْخَذُ مِقْدَارُهُ بِعُودٍ وَ يُغْلَى بِنَارٍ لَيِّنَةٍ غَلَيَاناً رَقِيقاً حَتَّى يَمْضِيَ ثُلُثَاهُ وَ يَبْقَى ثُلُثُهُ ثُمَّ يُؤْخَذُ مِنَ اَلْعَسَلِ اَلْمُصَفَّى رِطْلٌ‌<span><sup><a class=\"NewFn\" href=\"#footnote78\" title=\"(3)  الرطل: ما يساوي (314) غراما تقريبا.\">3</a></sup></span> فَيُلْقَى عَلَيْهِ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p386\" paragraph-id=\"386\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote76\" footnote-id=\"76\">(1) <page number=\"22\" /> ماء السماء: اي ماء المطر.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote77\" footnote-id=\"77\">(2)  قال الخجندي في التلويح: و أفضل المياه مياد العيون الجارية على الاراضي الطينية المنحدرة من مواضع عالية لا سيما العمرة المكشوفة التي تبعد منابعها، و يخف وزنها، و يجري نحو المشرق الصيفي و الشمال.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote78\" footnote-id=\"78\">(3)  الرطل: ما يساوي (314) غراما تقريبا.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "D45E03FD-D6EC-42FD-A8C2-4937BE860B62",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

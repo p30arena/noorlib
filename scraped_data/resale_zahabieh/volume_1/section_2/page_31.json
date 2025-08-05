@@ -1,0 +1,69 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 31,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892250,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"395\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"31\"/>وَ إِذَا أَرَدْتَ أَنْ لاَ يَظْهَرَ فِي بَدَنِكَ بَثْرَةٌ وَ لاَ غَيْرُهَا فَابْدَأْ عِنْدَ دُخُولِ اَلْحَمَّامِ بِدُهْنِ بَدَنِكَ بِدُهْنِ اَلْبَنَفْسَجِ‌<lfootnote noteId=\"115\">1</lfootnote>وَ إِذَا أَرَدْتَ أَنْ لاَ يَبْثُرَ<lfootnote noteId=\"116\">2</lfootnote> وَ لاَ يُصِيبَكَ قُرُوحٌ وَ لاَ شُقَاقٌ وَ لاَ سَوَادٌ فَاغْسِلْ بِالْمَاءِ اَلْبَارِدِ قَبْلَ أَنْ تَنَوَّرَ<lfootnote noteId=\"117\">3</lfootnote>وَ مَنْ أَرَادَ دُخُولَ اَلْحَمَّامِ لِلنُّورَةِ فَلْيَتَجَنَّبِ اَلْجِمَاعَ قَبْلَ ذَلِكَ بِاثْنَتَيْ عَشْرَةَ سَاعَةً وَ هُوَ تَمَامُ يَوْمٍ [t-1-1-70-1]وَ لْيَطْرَحْ فِي اَلنُّورَةِ شَيْئاً مِنَ اَلصَّبِرِ<lfootnote noteId=\"118\">4</lfootnote> وَ اَلْقَاقِيَا<lfootnote noteId=\"119\">5</lfootnote> وَ اَلْحُضُضِ‌<lfootnote noteId=\"120\">6</lfootnote></format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892251,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"396\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"32\"/>أَوْ يَجْمَعُ ذَلِكَ وَ يَأْخُذُ مِنْهُ اَلْيَسِيرَ إِذَا كَانَ مُجْتَمِعاً أَوْ مُتَفَرِّقاً وَ لاَ يُلْقِي فِي اَلنُّورَةِ مِنْ ذَلِكَ شَيْئاً حَتَّى تُمَاتَ اَلنُّورَةُ بِالْمَاءِ اَلْحَارِّ اَلَّذِي يُطْبَخُ فِيهِ اَلْبَابُونَجُ‌<lfootnote noteId=\"121\">1</lfootnote> وَ اَلْمَرْزَنْجُوشُ‌<lfootnote noteId=\"122\">2</lfootnote></format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892631,
+          "text": "<footnote id=\"114\"><mnote>(4)</mnote> قال الدميري في حياة الحيوان 125/2: «اعلم ان الحكماء قد ذكروا ان للحام و النورة منافع و مضار، فمن منافعه: «انه يوسع المسام، و يستفرغ *<page number=\"31\"/>الفضول، و يحلل الرياح، و ينظف البدن من الوسخ و العرق، و يذهب الاعيا، و يلين الجسد، و يجيد الهضم.</footnote>"
+        },
+        {
+          "footnoteId": 702892632,
+          "text": "<footnote id=\"115\"><mnote>(1)</mnote> قال الشيخ الرئيس في القانون ج 266/1: «بارد رطب في الاولى، و دهن البنفسج طلاء جيد للجرب». و قال ابن البيطار في الجامع لمفردات الادوية و الاغذية ج 107/2: «انه يبرد، و يرطب و ينوم، و يعدل الحرارة».</footnote>"
+        },
+        {
+          "footnoteId": 702892633,
+          "text": "<footnote id=\"116\"><mnote>(2)</mnote> في (ب و ج و د) استعمال النورة.</footnote>"
+        },
+        {
+          "footnoteId": 702892634,
+          "text": "<footnote id=\"117\"><mnote>(3)</mnote> في الاصل (يبثر) و الصواب ما اثبتناه كما في (ب و ج و د) أي قبل ان تستعمل النورة.</footnote>"
+        },
+        {
+          "footnoteId": 702892635,
+          "text": "<footnote id=\"118\"><mnote>(4)</mnote> قال الشيخ الرئيس في القانون 415/1: «الصبر عصارة جامدة بين حمرة و شقرة و ماؤه كماء الزعفران.</footnote>"
+        },
+        {
+          "footnoteId": 702892636,
+          "text": "<footnote id=\"119\"><mnote>(5)</mnote> قال الشيخ الرئيس في القانون 346/1 «القاقيا: هو عصارة القرظ يجفف ثم يقرص و فيه لذع يزول بالغسل» و فيه عن ديسقوريدوس: هو شجر *<page number=\"32\"/>* ذات شوك و شكوه غير قائم و كذلك اغصانها و لها زهر أبيض و ثمر أبيض في غلف و تجمع الاقاقيا و تعمل عصارته بان يدق ورقه مع ثمره و تخرج عصارتهما.</footnote>"
+        }
+      ],
+      "pageValue": "31",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p395\" paragraph-id=\"395\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo31\">31</span>وَ إِذَا أَرَدْتَ أَنْ لاَ يَظْهَرَ فِي بَدَنِكَ بَثْرَةٌ وَ لاَ غَيْرُهَا فَابْدَأْ عِنْدَ دُخُولِ اَلْحَمَّامِ بِدُهْنِ بَدَنِكَ بِدُهْنِ اَلْبَنَفْسَجِ‌<span><sup><a class=\"NewFn\" href=\"#footnote115\" title=\"(1)  قال الشيخ الرئيس في القانون ج 266/1: «بارد رطب في الاولى، و دهن البنفسج طلاء جيد للجرب». و قال ابن البيطار في الجامع لمفردات الادوية و الاغذية ج 107/2: «انه يبرد، و يرطب و ينوم، و يعدل الحرارة».\">1</a></sup></span>وَ إِذَا أَرَدْتَ أَنْ لاَ يَبْثُرَ<span><sup><a class=\"NewFn\" href=\"#footnote116\" title=\"(2)  في (ب و ج و د) استعمال النورة.\">2</a></sup></span> وَ لاَ يُصِيبَكَ قُرُوحٌ وَ لاَ شُقَاقٌ وَ لاَ سَوَادٌ فَاغْسِلْ بِالْمَاءِ اَلْبَارِدِ قَبْلَ أَنْ تَنَوَّرَ<span><sup><a class=\"NewFn\" href=\"#footnote117\" title=\"(3)  في الاصل (يبثر) و الصواب ما اثبتناه كما في (ب و ج و د) أي قبل ان تستعمل النورة.\">3</a></sup></span>وَ مَنْ أَرَادَ دُخُولَ اَلْحَمَّامِ لِلنُّورَةِ فَلْيَتَجَنَّبِ اَلْجِمَاعَ قَبْلَ ذَلِكَ بِاثْنَتَيْ عَشْرَةَ سَاعَةً وَ هُوَ تَمَامُ يَوْمٍ [t-1-1-70-1]وَ لْيَطْرَحْ فِي اَلنُّورَةِ شَيْئاً مِنَ اَلصَّبِرِ<span><sup><a class=\"NewFn\" href=\"#footnote118\" title=\"(4)  قال الشيخ الرئيس في القانون 415/1: «الصبر عصارة جامدة بين حمرة و شقرة و ماؤه كماء الزعفران.\">4</a></sup></span> وَ اَلْقَاقِيَا<span><sup><a class=\"NewFn\" href=\"#footnote119\" title=\"(5)  قال الشيخ الرئيس في القانون 346/1 «القاقيا: هو عصارة القرظ يجفف ثم يقرص و فيه لذع يزول بالغسل» و فيه عن ديسقوريدوس: هو شجر *\">5</a></sup></span> وَ اَلْحُضُضِ‌<span><sup><a class=\"NewFn\" href=\"#footnote120\">6</a></sup></span></span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p396\" paragraph-id=\"396\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote114\" footnote-id=\"114\"><page number=\"31\" />الفضول، و يحلل الرياح، و ينظف البدن من الوسخ و العرق، و يذهب الاعيا، و يلين الجسد، و يجيد الهضم.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote115\" footnote-id=\"115\">(1)  قال الشيخ الرئيس في القانون ج 266/1: «بارد رطب في الاولى، و دهن البنفسج طلاء جيد للجرب». و قال ابن البيطار في الجامع لمفردات الادوية و الاغذية ج 107/2: «انه يبرد، و يرطب و ينوم، و يعدل الحرارة».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote116\" footnote-id=\"116\">(2)  في (ب و ج و د) استعمال النورة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote117\" footnote-id=\"117\">(3)  في الاصل (يبثر) و الصواب ما اثبتناه كما في (ب و ج و د) أي قبل ان تستعمل النورة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote118\" footnote-id=\"118\">(4)  قال الشيخ الرئيس في القانون 415/1: «الصبر عصارة جامدة بين حمرة و شقرة و ماؤه كماء الزعفران.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote119\" footnote-id=\"119\">(5)  قال الشيخ الرئيس في القانون 346/1 «القاقيا: هو عصارة القرظ يجفف ثم يقرص و فيه لذع يزول بالغسل» و فيه عن ديسقوريدوس: هو شجر *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "250C0B1A-129C-48AA-B36E-F8EF1EA327F2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

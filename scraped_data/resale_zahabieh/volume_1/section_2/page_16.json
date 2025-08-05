@@ -1,0 +1,65 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 16,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892237,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"382\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"16\"/>يَمْضِي مِنَ اَلنَّهَارِ ثَمَانُ سَاعَاتٍ‌، أَكْلَةٌ وَاحِدَةٌ‌<lfootnote noteId=\"51\">1</lfootnote> أَوْ ثَلاَثُ أَكَلاَتٍ فِي يَوْمَيْنِ‌<lfootnote noteId=\"52\">2</lfootnote> تَتَغَذَّى بَاكِراً فِي أَوَّلِ يَوْمٍ ثُمَّ تَتَعَشَّى فَإِذَا كَانَ فِي اَلْيَوْمِ اَلثَّانِي عِنْدَ مُضِيِّ‌<lfootnote noteId=\"53\">3</lfootnote>ثَمَانِ سَاعَاتٍ مِنَ اَلنَّهَارِ أَكَلْتَ أَكْلَةً وَاحِدَةً وَ لَمْ تَحْتَجْ إِلَى اَلْعِشَاءِ‌<lfootnote noteId=\"54\">4</lfootnote>[t-1-1-48-1]وَ لْيَكُنْ ذَلِكَ بِقَدَرٍ لاَ يَزِيدُ وَ لاَ يَنْقُصُ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"113\" Id=\"1\"/>وَ تَكُفُّ عَنِ اَلطَّعَامِ وَ أَنْتَ مُشْتَهٍ لَهُ‌<lfootnote noteId=\"55\">5</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"115\" Id=\"1\"/>وَ لْيَكُنْ شَرَابُكَ عَلَى أَثَرِ طَعَامِكَ مِنْ هَذَا اَلشَّرَابِ اَلصَّافِي اَلْمُعَتَّقِ مِمَّا يَحِلُّ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892238,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"383\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"17\"/>شُرْبُهُ [1] </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892568,
+          "text": "<footnote id=\"51\"><page number=\"16\"/><mnote>(1)</mnote> الزيادة من (ب و ج و د).</footnote>"
+        },
+        {
+          "footnoteId": 702892569,
+          "text": "<footnote id=\"52\"><mnote>(2)</mnote> في الاصل يوم. و صوبه ما اثبتناه كما في (ب و ج و د).</footnote>"
+        },
+        {
+          "footnoteId": 702892570,
+          "text": "<footnote id=\"53\"><mnote>(3)</mnote> الزيادة من (ب و ج و د).</footnote>"
+        },
+        {
+          "footnoteId": 702892571,
+          "text": "<footnote id=\"54\"><mnote>(4)</mnote> في (ب و ج و د) و كذا أمر جدي محمد (صلّى اللّه عليه و آله) عليا عليه السلام في كل يوم وجبة و في غده وجبتين.</footnote>"
+        },
+        {
+          "footnoteId": 702892572,
+          "text": "<footnote id=\"55\"><mnote>(5)</mnote> عن الاصبغ بن نباتة قال: قال أمير المؤمنين عليه السلام للحسن: الا أعلمك أربع خصال تستغني بها عن الطب‌؟ قال: بلى. قال: لا تجلس على الطعام الا و انت جائع و لا تقم عن الطعام الا و انت تشتهيه وجود المضغ و اذا نمت فأعرض نفسك على الخلاء فاذا استعملت هذا استغنبت عن الطب. الخصال 109/1.</footnote>"
+        }
+      ],
+      "pageValue": "16",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p382\" paragraph-id=\"382\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo16\">16</span>يَمْضِي مِنَ اَلنَّهَارِ ثَمَانُ سَاعَاتٍ‌، أَكْلَةٌ وَاحِدَةٌ‌<span><sup><a class=\"NewFn\" href=\"#footnote51\" title=\"(1)  الزيادة من (ب و ج و د).\">1</a></sup></span> أَوْ ثَلاَثُ أَكَلاَتٍ فِي يَوْمَيْنِ‌<span><sup><a class=\"NewFn\" href=\"#footnote52\" title=\"(2)  في الاصل يوم. و صوبه ما اثبتناه كما في (ب و ج و د).\">2</a></sup></span> تَتَغَذَّى بَاكِراً فِي أَوَّلِ يَوْمٍ ثُمَّ تَتَعَشَّى فَإِذَا كَانَ فِي اَلْيَوْمِ اَلثَّانِي عِنْدَ مُضِيِّ‌<span><sup><a class=\"NewFn\" href=\"#footnote53\" title=\"(3)  الزيادة من (ب و ج و د).\">3</a></sup></span>ثَمَانِ سَاعَاتٍ مِنَ اَلنَّهَارِ أَكَلْتَ أَكْلَةً وَاحِدَةً وَ لَمْ تَحْتَجْ إِلَى اَلْعِشَاءِ‌<span><sup><a class=\"NewFn\" href=\"#footnote54\" title=\"(4)  في (ب و ج و د) و كذا أمر جدي محمد (صلّى اللّه عليه و آله) عليا عليه السلام في كل يوم وجبة و في غده وجبتين.\">4</a></sup></span>[t-1-1-48-1]وَ لْيَكُنْ ذَلِكَ بِقَدَرٍ لاَ يَزِيدُ وَ لاَ يَنْقُصُ <span class=\"Link\"></span>وَ تَكُفُّ عَنِ اَلطَّعَامِ وَ أَنْتَ مُشْتَهٍ لَهُ‌<span><sup><a class=\"NewFn\" href=\"#footnote55\" title=\"(5)  عن الاصبغ بن نباتة قال: قال أمير المؤمنين عليه السلام للحسن: الا أعلمك أربع خصال تستغني بها عن الطب‌؟ قال: بلى. قال: لا تجلس على الطعام الا و انت جائع و لا تقم عن الطعام الا و انت تشتهيه وجود المضغ و اذا نمت فأعرض نفسك على الخلاء فاذا استعملت هذا استغنبت عن الطب. الخصال 109/1.\">5</a></sup></span><span class=\"Link\"></span>وَ لْيَكُنْ شَرَابُكَ عَلَى أَثَرِ طَعَامِكَ مِنْ هَذَا اَلشَّرَابِ اَلصَّافِي اَلْمُعَتَّقِ مِمَّا يَحِلُّ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p383\" paragraph-id=\"383\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote51\" footnote-id=\"51\">(1) <page number=\"16\" /> الزيادة من (ب و ج و د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote52\" footnote-id=\"52\">(2)  في الاصل يوم. و صوبه ما اثبتناه كما في (ب و ج و د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote53\" footnote-id=\"53\">(3)  الزيادة من (ب و ج و د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote54\" footnote-id=\"54\">(4)  في (ب و ج و د) و كذا أمر جدي محمد (صلّى اللّه عليه و آله) عليا عليه السلام في كل يوم وجبة و في غده وجبتين.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote55\" footnote-id=\"55\">(5)  عن الاصبغ بن نباتة قال: قال أمير المؤمنين عليه السلام للحسن: الا أعلمك أربع خصال تستغني بها عن الطب‌؟ قال: بلى. قال: لا تجلس على الطعام الا و انت جائع و لا تقم عن الطعام الا و انت تشتهيه وجود المضغ و اذا نمت فأعرض نفسك على الخلاء فاذا استعملت هذا استغنبت عن الطب. الخصال 109/1.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "17BEF597-E6CA-41C1-86B4-F693B4B70841",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

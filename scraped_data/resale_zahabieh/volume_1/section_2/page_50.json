@@ -1,0 +1,57 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 50,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892275,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"420\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"50\"/>[t-1-1-59-3]<format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"202\" Id=\"1\"/>وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ خَيْرَ مَا اِسْتَكْتَ بِهِ اَلْأَشْيَاءُ اَلْمُقَبِّضَةُ اَلَّتِي تَكُونُ لَهَا مَاءٌ‌<lfootnote noteId=\"203\">1</lfootnote> فَإِنَّهُ يَجْلُو اَلْأَسْنَانَ وَ يُطَيِّبُ اَلنَّكْهَةَ وَ يَشُدُّ اَللِّثَةَ وَ يُسَمِّنُهَا وَ هُوَ نَافِعٌ مِنَ اَلْحَفَرِ إِذَا كَانَ ذَلِكَ بِاعْتِدَالٍ وَ اَلْإِكْثَارُ مِنْهُ يُرِقُّ اَلْأَسْنَانَ وَ يُزَعْزِعُهَا وَ يُضَعِّفُ أُصُولَهَا [t-1-1-60-1]<format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"204\" Id=\"1\"/>فَمَنْ أَرَادَ حِفْظَ أَسْنَانِهِ فَلْيَأْخُذْ قَرْنَ إِيَّلٍ مُحْرَقاً<lfootnote noteId=\"204\">2</lfootnote>وَ كَزْمَازِجاً<lfootnote noteId=\"205\">3</lfootnote> وَ سُعْداً<lfootnote noteId=\"206\">4</lfootnote> وَ وَرْداً<lfootnote noteId=\"207\">5</lfootnote> وَ سُنْبُلَ اَلطِّيبِ‌<lfootnote noteId=\"208\">6</lfootnote></format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892276,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"421\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"51\"/>أَجْزَاءً بِالسَّوِيَّةِ‌<lfootnote noteId=\"209\">1</lfootnote> وَ مِلْحاً أَنْدَرَانِيّاً<lfootnote noteId=\"210\">2</lfootnote> رُبُعَ جُزْءٍ فَخُذْ كُلَّ جُزْءٍ مِنْهَا فَتَدُقُّ وَحْدَهُ وَ تستك <format class=\"z\">[يُسْتَنُّ‌]</format><lfootnote noteId=\"211\">3</lfootnote> بِهِ فَإِنَّهُ مُمْسِكٌ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892720,
+          "text": "<footnote id=\"203\"><page number=\"50\"/><mnote>(1)</mnote> في (ب و ج و د): ليف الاراك.</footnote>"
+        },
+        {
+          "footnoteId": 702892721,
+          "text": "<footnote id=\"204\"><mnote>(2)</mnote> قال الشيخ الرئيس في القانون 426/1: «قرن الابل و العنز المحرقان يجلو الاسنان بقوة، و يشد اللثة، و يسكن وجعها الهائج، و يجب ان يحرق حتى يبيض. و قال ابن البيطار في المغني ورقة 82 /ب: «و لقرن الايل خاصة المحرق في قلع الصدأ من الاسنان و الحفر فيها و تسوية أصولها.</footnote>"
+        },
+        {
+          "footnoteId": 702892722,
+          "text": "<footnote id=\"205\"><mnote>(3)</mnote> قال الشيخ الرئيس في القانون 327/1: «الكزمازك هو ثمر الطرفاء». و فيه عن ديسقوريدوس: الطرفاء شجرة معروفة تنبت عند مياه قائمة، و لها ثمر شبيه بالزهر. و قد يكون بمصر الشام طرفاء بستاني شبيه بالبري في كل شىء ماخلا الثمر، فانه يشبه العفص.<br/>و من خواصه: قال الشيخ الرئيس: «ان فيه قبضا، و جلاءا، و تنقية من *<page number=\"51\"/>* غير تجفيف شديد، و ماءه جال مجفف، جلائه اكثر من تجفيفه، و طبيخ ورقه بالشراب ينفع وجع الاسنان مضمضمة. و يمنع من تآكلها خصوصا ثمرته».</footnote>"
+        }
+      ],
+      "pageValue": "50",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p420\" paragraph-id=\"420\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo50\">50</span>[t-1-1-59-3]<span class=\"Link\"></span>وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ خَيْرَ مَا اِسْتَكْتَ بِهِ اَلْأَشْيَاءُ اَلْمُقَبِّضَةُ اَلَّتِي تَكُونُ لَهَا مَاءٌ‌<span><sup><a class=\"NewFn\" href=\"#footnote203\" title=\"(1)  في (ب و ج و د): ليف الاراك.\">1</a></sup></span> فَإِنَّهُ يَجْلُو اَلْأَسْنَانَ وَ يُطَيِّبُ اَلنَّكْهَةَ وَ يَشُدُّ اَللِّثَةَ وَ يُسَمِّنُهَا وَ هُوَ نَافِعٌ مِنَ اَلْحَفَرِ إِذَا كَانَ ذَلِكَ بِاعْتِدَالٍ وَ اَلْإِكْثَارُ مِنْهُ يُرِقُّ اَلْأَسْنَانَ وَ يُزَعْزِعُهَا وَ يُضَعِّفُ أُصُولَهَا [t-1-1-60-1]<span class=\"Link\"></span>فَمَنْ أَرَادَ حِفْظَ أَسْنَانِهِ فَلْيَأْخُذْ قَرْنَ إِيَّلٍ مُحْرَقاً<span><sup><a class=\"NewFn\" href=\"#footnote204\" title=\"(2)  قال الشيخ الرئيس في القانون 426/1: «قرن الابل و العنز المحرقان يجلو الاسنان بقوة، و يشد اللثة، و يسكن وجعها الهائج، و يجب ان يحرق حتى يبيض. و قال ابن البيطار في المغني ورقة 82 /ب: «و لقرن الايل خاصة المحرق في قلع الصدأ من الاسنان و الحفر فيها و تسوية أصولها.\">2</a></sup></span>وَ كَزْمَازِجاً<span><sup><a class=\"NewFn\" href=\"#footnote205\" title=\"(3)  قال الشيخ الرئيس في القانون 327/1: «الكزمازك هو ثمر الطرفاء». و فيه عن ديسقوريدوس: الطرفاء شجرة معروفة تنبت عند مياه قائمة، و لها ثمر شبيه بالزهر. و قد يكون بمصر الشام طرفاء بستاني شبيه بالبري في كل شىء ماخلا الثمر، فانه يشبه العفص.و من خواصه: قال الشيخ الرئيس: «ان فيه قبضا، و جلاءا، و تنقية من *\">3</a></sup></span> وَ سُعْداً<span><sup><a class=\"NewFn\" href=\"#footnote206\">4</a></sup></span> وَ وَرْداً<span><sup><a class=\"NewFn\" href=\"#footnote207\">5</a></sup></span> وَ سُنْبُلَ اَلطِّيبِ‌<span><sup><a class=\"NewFn\" href=\"#footnote208\">6</a></sup></span></span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p421\" paragraph-id=\"421\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote203\" footnote-id=\"203\">(1) <page number=\"50\" /> في (ب و ج و د): ليف الاراك.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote204\" footnote-id=\"204\">(2)  قال الشيخ الرئيس في القانون 426/1: «قرن الابل و العنز المحرقان يجلو الاسنان بقوة، و يشد اللثة، و يسكن وجعها الهائج، و يجب ان يحرق حتى يبيض. و قال ابن البيطار في المغني ورقة 82 /ب: «و لقرن الايل خاصة المحرق في قلع الصدأ من الاسنان و الحفر فيها و تسوية أصولها.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote205\" footnote-id=\"205\">(3)  قال الشيخ الرئيس في القانون 327/1: «الكزمازك هو ثمر الطرفاء». و فيه عن ديسقوريدوس: الطرفاء شجرة معروفة تنبت عند مياه قائمة، و لها ثمر شبيه بالزهر. و قد يكون بمصر الشام طرفاء بستاني شبيه بالبري في كل شىء ماخلا الثمر، فانه يشبه العفص.<br />و من خواصه: قال الشيخ الرئيس: «ان فيه قبضا، و جلاءا، و تنقية من *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "19E54ECE-54DE-4E9F-9864-D47184AF92CE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

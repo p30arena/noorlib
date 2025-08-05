@@ -1,0 +1,66 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 21,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892239,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"384\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"18\"/><page number=\"19\"/><page number=\"20\"/><page number=\"21\"/>[t-1-1-56-1]صِفَةُ اَلشَّرَابِ <lfootnote noteId=\"74\">_1</lfootnote>يُؤْخَذُ مِنَ اَلزَّبِيبِ‌<lfootnote noteId=\"75\">_2</lfootnote> اَلْمُنَقَّى عَشَرَةُ أَرْطَالٍ فَيُغْسَلُ وَ يُنْقَعُ فِي مَاءٍ صافي <format class=\"z\">[صَافٍ‌]</format> غَمْرُهُ وَ زِيَادَةً عَلَيْهِ أَرْبَعَةُ أَصَابِعَ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892240,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"385\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"22\"/>وَ يُتْرَكُ فِي إِنَائِهِ ذَلِكَ ثَلاَثَةَ أَيَّامٍ فِي اَلشِّتَاءِ وَ فِي اَلصَّيْفِ يَوْماً وَ لَيْلَةً ثُمَّ يُجْعَلُ فِي قِدْرٍ نَظِيفَةٍ وَ لْيَكُنِ اَلْمَاءُ مَاءَ اَلسَّمَاءِ‌<lfootnote noteId=\"76\">1</lfootnote>إِنْ قَدَرَ عَلَيْهِ وَ إِلاَّ فَمِنَ اَلْمَاءِ اَلْعَذْبِ اَلصَّافِي اَلَّذِي يَكُونُ يَنْبُوعُهُ مِنْ نَاحِيَةِ اَلْمَشْرِقِ مَاءً أبيضا <format class=\"z\">[أَبْيَضَ‌]</format> بَرَّاقاً خَفِيفاً وَ هُوَ اَلْقَابِلُ لِمَا يَعْتَرِضُهُ عَلَى سُرْعَةٍ مِنَ اَلسُّخُونَةِ وَ اَلْبُرُودَةِ وَ تِلْكَ اَلدَّلاَلَةُ عَلَى خِفَّةِ اَلْمَاءِ‌<lfootnote noteId=\"77\">2</lfootnote>وَ يُطْبَخُ حَتَّى يَنْتَفِخَ اَلزَّبِيبُ ثُمَّ يُعْصَرُ وَ يُصَفَّى مَاؤُهُ وَ يُبْرَدُ ثُمَّ يُرَدُّ إِلَى اَلْقِدْرِ ثَانِياً وَ يُؤْخَذُ مِقْدَارُهُ بِعُودٍ وَ يُغْلَى بِنَارٍ لَيِّنَةٍ غَلَيَاناً رَقِيقاً حَتَّى يَمْضِيَ ثُلُثَاهُ وَ يَبْقَى ثُلُثُهُ ثُمَّ يُؤْخَذُ مِنَ اَلْعَسَلِ اَلْمُصَفَّى رِطْلٌ‌<lfootnote noteId=\"78\">3</lfootnote> فَيُلْقَى عَلَيْهِ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": [
+        {
+          "taliqehId": 702892789,
+          "text": "<footnote id=\"272\"><page number=\"21\"/><mnote/>* أول النهار، و التمريخ بدهن الخيري<lfootnote noteId=\"72\">1</lfootnote>، و ما ناسيه، و يحذر فيه الحلو<lfootnote noteId=\"73\">2</lfootnote>، و أكل السمك الطري، و اللبن.<br/>شباط: [t-1-1-55-2]ثمانية و عشرون يوما. تختلف فيه الرياح، و تكثر الامطار، و يظهر فيه العشب، و يجري فيه الماء في العود. و ينفع فيه أكل الثوم. و لحم الطير، و الصيود، و الفاكهة اليابسة، و يقلل من أكل الحلاوات. و يحمد فيه كثرة الجماع، و الحركة، و الرياضة.</footnote>"
+        }
+      ],
+      "footnoteList": [
+        {
+          "footnoteId": 702892589,
+          "text": "<footnote id=\"72\"><page number=\"21\"/><mnote>(1)</mnote> في (ب و ج و د): صفة الشراب الذي يحل شربه و استعماله بعد الطعام، و قد تقدم ذكر نفعه في ابتدائنا بالقول على فصول السنة و ما يعتمد فيها من حفظ الصحة و صفته هو أن: -</footnote>"
+        },
+        {
+          "footnoteId": 702892590,
+          "text": "<footnote id=\"73\"><mnote>(2)</mnote> الزبيب: هو جفيف العنب.</footnote>"
+        },
+        {
+          "footnoteId": 702892591,
+          "text": "<footnote id=\"74\"><mnote>(_1)</mnote> دهن الخيرى: قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 108/2 عن التميمى: «أنه لطيف محلل، موافق للجراحات، و خاصة ما عمل من الاصفر منه، و هو شديد التحليل لاورام الرحم، و الاورام الكائنة فى المفاصل، و لما يعرض من التعقد و التحجر فى الاعصاب و التقبض».</footnote>"
+        },
+        {
+          "footnoteId": 702892592,
+          "text": "<footnote id=\"75\"><mnote>(_2)</mnote> فى (ج و د) الحلق.</footnote>"
+        }
+      ],
+      "pageValue": "21",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p384\" paragraph-id=\"384\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo21\">21</span>[t-1-1-56-1]صِفَةُ اَلشَّرَابِ <span><sup><a class=\"NewFn\" href=\"#footnote74\" title=\"(_1)  دهن الخيرى: قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 108/2 عن التميمى: «أنه لطيف محلل، موافق للجراحات، و خاصة ما عمل من الاصفر منه، و هو شديد التحليل لاورام الرحم، و الاورام الكائنة فى المفاصل، و لما يعرض من التعقد و التحجر فى الاعصاب و التقبض».\">_1</a></sup></span>يُؤْخَذُ مِنَ اَلزَّبِيبِ‌<span><sup><a class=\"NewFn\" href=\"#footnote75\" title=\"(_2)  فى (ج و د) الحلق.\">_2</a></sup></span> اَلْمُنَقَّى عَشَرَةُ أَرْطَالٍ فَيُغْسَلُ وَ يُنْقَعُ فِي مَاءٍ صافي <span class=\"z\">[صَافٍ‌]</span> غَمْرُهُ وَ زِيَادَةً عَلَيْهِ أَرْبَعَةُ أَصَابِعَ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p385\" paragraph-id=\"385\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"talighehLine\" />\n  <span>\n    <div class=\"taligheh OriginalDigit\" id=\"taligheh272\" taligheh-id=\"272\"><page number=\"21\" />* أول النهار، و التمريخ بدهن الخيري<ltaligheh noteId=\"72\">1</ltaligheh>، و ما ناسيه، و يحذر فيه الحلو<ltaligheh noteId=\"73\">2</ltaligheh>، و أكل السمك الطري، و اللبن.<br />شباط: [t-1-1-55-2]ثمانية و عشرون يوما. تختلف فيه الرياح، و تكثر الامطار، و يظهر فيه العشب، و يجري فيه الماء في العود. و ينفع فيه أكل الثوم. و لحم الطير، و الصيود، و الفاكهة اليابسة، و يقلل من أكل الحلاوات. و يحمد فيه كثرة الجماع، و الحركة، و الرياضة.</div>\n  </span>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote72\" footnote-id=\"72\">(1) <page number=\"21\" /> في (ب و ج و د): صفة الشراب الذي يحل شربه و استعماله بعد الطعام، و قد تقدم ذكر نفعه في ابتدائنا بالقول على فصول السنة و ما يعتمد فيها من حفظ الصحة و صفته هو أن: -</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote73\" footnote-id=\"73\">(2)  الزبيب: هو جفيف العنب.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote74\" footnote-id=\"74\">(_1)  دهن الخيرى: قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 108/2 عن التميمى: «أنه لطيف محلل، موافق للجراحات، و خاصة ما عمل من الاصفر منه، و هو شديد التحليل لاورام الرحم، و الاورام الكائنة فى المفاصل، و لما يعرض من التعقد و التحجر فى الاعصاب و التقبض».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote75\" footnote-id=\"75\">(_2)  فى (ج و د) الحلق.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "377F02A1-13AC-453D-A2AA-0F87C05359EE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

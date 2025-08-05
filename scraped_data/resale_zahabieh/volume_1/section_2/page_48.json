@@ -1,0 +1,65 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 48,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892272,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"417\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"48\"/>اَلدَّمِ‌<lfootnote noteId=\"194\">1</lfootnote> وَ اَلْبَلْغَمِ‌<lfootnote noteId=\"195\">2</lfootnote> وَ اَلصَّفْرَاءِ‌<lfootnote noteId=\"196\">3</lfootnote> وَ اَلسَّوْدَاءِ‌<lfootnote noteId=\"197\">4</lfootnote>فَاثْنَانِ حَارَّانِ وَ اِثْنَانِ بَارِدَانِ وَ خُولِفَ بَيْنَهُمَا فَجُعِلَ حَارٌّ يَابِسٌ وَ حَارٌّ لَيِّنٌ وَ بَارِدٌ يَابِسٌ وَ بَارِدٌ لَيِّنٌ‌<lfootnote noteId=\"198\">5</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"194\" Id=\"1\"/>ثُمَّ فُرِّقَ ذَلِكَ عَلَى أَرْبَعَةِ أَجْزَاءٍ مِنَ اَلْجَسَدِ عَلَى اَلرَّأْسِ وَ اَلصَّدْرِ وَ اَلشَّرَاسِيفِ وَ أَسْفَلِ اَلْبَطْنِ وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ اَلرَّأْسَ وَ اَلْأُذُنَيْنِ وَ اَلْعَيْنَيْنِ وَ اَلْمَنْخِرَيْنِ وَ اَلْأَنْفَ وَ اَلْفَمَ مِنَ اَلدَّمِ وَ أَنَّ اَلصَّدْرَ مِنَ اَلْبَلْغَمِ وَ اَلرِّيحِ [t-1-1-59-1]وَ أَنَّ اَلشَّرَاسِيفَ مِنَ اَلْمِرَّةِ اَلصَّفْرَاءِ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892273,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"418\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"49\"/>وَ أَنَّ أَسْفَلَ اَلْبَطْنِ مِنَ اَلْمِرَّةِ اَلسَّوْدَاءِ‌<lfootnote noteId=\"199\">1</lfootnote>. </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892711,
+          "text": "<footnote id=\"194\"><page number=\"48\"/><mnote>(1)</mnote> الدم: و يشتمل أضافة الى ما ذكر فيما بعد على القلب و العروق و توابعهما.</footnote>"
+        },
+        {
+          "footnoteId": 702892712,
+          "text": "<footnote id=\"195\"><mnote>(2)</mnote> البلغم: و يضم الجهاز التنفسي بمجاريه و الرئتين و القصبات الهوائية و توابعها.</footnote>"
+        },
+        {
+          "footnoteId": 702892713,
+          "text": "<footnote id=\"196\"><mnote>(3)</mnote> الصفراء: و تشمل الجهاز الهضمي و الكبد و المرارة و الطحال و البنكرياس و توابعها.</footnote>"
+        },
+        {
+          "footnoteId": 702892714,
+          "text": "<footnote id=\"197\"><mnote>(4)</mnote> السوداء: و تشمل الكلى و المجاري البولية و التناسلية و الارحام و توابعها.</footnote>"
+        },
+        {
+          "footnoteId": 702892715,
+          "text": "<footnote id=\"198\"><mnote>(5)</mnote> انظر القانون 9/1.</footnote>"
+        }
+      ],
+      "pageValue": "48",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p417\" paragraph-id=\"417\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo48\">48</span>اَلدَّمِ‌<span><sup><a class=\"NewFn\" href=\"#footnote194\" title=\"(1)  الدم: و يشتمل أضافة الى ما ذكر فيما بعد على القلب و العروق و توابعهما.\">1</a></sup></span> وَ اَلْبَلْغَمِ‌<span><sup><a class=\"NewFn\" href=\"#footnote195\" title=\"(2)  البلغم: و يضم الجهاز التنفسي بمجاريه و الرئتين و القصبات الهوائية و توابعها.\">2</a></sup></span> وَ اَلصَّفْرَاءِ‌<span><sup><a class=\"NewFn\" href=\"#footnote196\" title=\"(3)  الصفراء: و تشمل الجهاز الهضمي و الكبد و المرارة و الطحال و البنكرياس و توابعها.\">3</a></sup></span> وَ اَلسَّوْدَاءِ‌<span><sup><a class=\"NewFn\" href=\"#footnote197\" title=\"(4)  السوداء: و تشمل الكلى و المجاري البولية و التناسلية و الارحام و توابعها.\">4</a></sup></span>فَاثْنَانِ حَارَّانِ وَ اِثْنَانِ بَارِدَانِ وَ خُولِفَ بَيْنَهُمَا فَجُعِلَ حَارٌّ يَابِسٌ وَ حَارٌّ لَيِّنٌ وَ بَارِدٌ يَابِسٌ وَ بَارِدٌ لَيِّنٌ‌<span><sup><a class=\"NewFn\" href=\"#footnote198\" title=\"(5)  انظر القانون 9/1.\">5</a></sup></span><span class=\"Link\"></span>ثُمَّ فُرِّقَ ذَلِكَ عَلَى أَرْبَعَةِ أَجْزَاءٍ مِنَ اَلْجَسَدِ عَلَى اَلرَّأْسِ وَ اَلصَّدْرِ وَ اَلشَّرَاسِيفِ وَ أَسْفَلِ اَلْبَطْنِ وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ اَلرَّأْسَ وَ اَلْأُذُنَيْنِ وَ اَلْعَيْنَيْنِ وَ اَلْمَنْخِرَيْنِ وَ اَلْأَنْفَ وَ اَلْفَمَ مِنَ اَلدَّمِ وَ أَنَّ اَلصَّدْرَ مِنَ اَلْبَلْغَمِ وَ اَلرِّيحِ [t-1-1-59-1]وَ أَنَّ اَلشَّرَاسِيفَ مِنَ اَلْمِرَّةِ اَلصَّفْرَاءِ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p418\" paragraph-id=\"418\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote194\" footnote-id=\"194\">(1) <page number=\"48\" /> الدم: و يشتمل أضافة الى ما ذكر فيما بعد على القلب و العروق و توابعهما.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote195\" footnote-id=\"195\">(2)  البلغم: و يضم الجهاز التنفسي بمجاريه و الرئتين و القصبات الهوائية و توابعها.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote196\" footnote-id=\"196\">(3)  الصفراء: و تشمل الجهاز الهضمي و الكبد و المرارة و الطحال و البنكرياس و توابعها.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote197\" footnote-id=\"197\">(4)  السوداء: و تشمل الكلى و المجاري البولية و التناسلية و الارحام و توابعها.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote198\" footnote-id=\"198\">(5)  انظر القانون 9/1.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F39203F6-16A8-438C-A907-9F5488864294",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

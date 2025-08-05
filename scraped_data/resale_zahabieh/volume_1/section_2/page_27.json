@@ -1,0 +1,65 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 27,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892245,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"390\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"27\"/>يُورِثُ اَلْفَالِجَ‌<lfootnote noteId=\"98\">1</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"241\" Id=\"1\"/>وَ أَكْلُ اَلْأُتْرُجِّ‌<lfootnote noteId=\"99\">2</lfootnote> بِاللَّيْلِ يَقْلِبُ اَلْعَيْنَ وَ يُورِثُ اَلْحَوَلَ‌<lfootnote noteId=\"100\">3</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"242\" Id=\"1\"/>وَ إِتْيَانُ اَلمَرْأَةِ اَلْحَائِضِ يُوَلِّدُ اَلْجُذَامَ‌<lfootnote noteId=\"101\">4</lfootnote>فِي اَلْوَلَدِ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"244\" Id=\"1\"/>وَ اَلْجِمَاعُ مِنْ غَيْرِ إِهْرَاقِ اَلْمَاءِ عَلَى أَثَرِهِ يُورِثُ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892246,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"391\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"28\"/>اَلْحَصَاةَ‌<lfootnote noteId=\"102\">1</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"246\" Id=\"1\"/>وَ اَلْجِمَاعُ بَعْدَ اَلْجِمَاعِ مِنْ غَيْرِ أَنْ يَكُونَ بَيْنَهُمَا غُسْلٌ يُورِثُ لِلْوَلَدِ اَلْجُنُونَ إِنْ غَفَلَ عَنِ اَلْغُسْلِ‌<lfootnote noteId=\"103\">2</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"247\" Id=\"1\"/>وَ كَثْرَةُ أَكْلِ اَلْبَيْضِ وَ إِدْمَانُهُ يُورِثُ اَلطُّحَالَ وَ رِيَاحاً فِي رَأْسِ اَلْمَعِدَةِ‌<lfootnote noteId=\"104\">3</lfootnote> وَ اَلاِمْتِلاَءُ مِنَ اَلْبَيْضِ اَلْمَسْلُوقِ يُورِثُ اَلرَّبْوَ<lfootnote noteId=\"105\">4</lfootnote> وَ اَلاِبْتِهَارَ<lfootnote noteId=\"106\">5</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"248\" Id=\"1\"/>وَ أَكْلُ اَللَّحْمِ اَلنِّيِّ يُورِثُ اَلدُّودَ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892614,
+          "text": "<footnote id=\"97\"><mnote>(4)</mnote> في (ب و ج و د) و الاغتسال بالماء. و نقل ابن القيم الجوزي في زاد *<page number=\"27\"/>* المعاد 196/2 قول ابن بختيشوع: الاغتسال بالماء البارد بعد أكل السمك الطري يولد الفالج.</footnote>"
+        },
+        {
+          "footnoteId": 702892615,
+          "text": "<footnote id=\"98\"><mnote>(1)</mnote> الفالج: قال الشيخ الرئيس في القانون ج 90/2: «هو ما كان من الاسترخاء عاما لاحد شقّي البدن طولا. فمنه ما يكون في الشق المبتدأ من الرقبة و يكون الوجه و الرأس معه صحيحين و منه ما يسري في جميع الشق من الرأس الى القدم.</footnote>"
+        },
+        {
+          "footnoteId": 702892616,
+          "text": "<footnote id=\"99\"><mnote>(2)</mnote> الاترج: قال ديقوريدس هو نبات تبقى ثمرته عليه جميع السنة. و الثمر بنفسه طويل، و لونه شبيه بلون الذهب، طيب الرائحة مع شىء من كراهة، و له بزرشبيه ببزر الكمثرى. انظر الجامع لمفردات الادوية و الاغذية 10/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892617,
+          "text": "<footnote id=\"100\"><mnote>(3)</mnote> الحول: ظهور البياض في مؤخر العين، و يكون السواد من قبل الماق. أو اقبال الحدقة على الانف. أو ذهاب حدقتها قبل مؤخرها. انظر القاموس 375/4.<br/>و قال ابن البيطار عن ابن ماسويه: «من أكل الاترج بالليل و نام عليه أورثه الحول. انظر المعني في الطب/مخطوط ورقة 57.</footnote>"
+        },
+        {
+          "footnoteId": 702892618,
+          "text": "<footnote id=\"101\"><mnote>(4)</mnote> الجذام: علة تحدث من انتشار السوداء في البدن كله، فيفسد مزاج الاعصاء، و هيأتها و ربما انتهى الى تآكل الاعضاء و سقوطها عن تقرح. انظر القاموس ج 88/4. و نقل ابن القيم الجوزي في كتابه زاد المعااد *<page number=\"28\"/>* ج 196/2 عن ابن بختيشوع قوله: و طىء المرأة الحائض يولد الجذام، و قال الانطاكي في تذكرة اولى الالياب ج 71/2: و جماع الحائض يوقع في البثور و القروح و الاواكل.</footnote>"
+        }
+      ],
+      "pageValue": "27",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p390\" paragraph-id=\"390\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo27\">27</span>يُورِثُ اَلْفَالِجَ‌<span><sup><a class=\"NewFn\" href=\"#footnote98\" title=\"(1)  الفالج: قال الشيخ الرئيس في القانون ج 90/2: «هو ما كان من الاسترخاء عاما لاحد شقّي البدن طولا. فمنه ما يكون في الشق المبتدأ من الرقبة و يكون الوجه و الرأس معه صحيحين و منه ما يسري في جميع الشق من الرأس الى القدم.\">1</a></sup></span><span class=\"Link\"></span>وَ أَكْلُ اَلْأُتْرُجِّ‌<span><sup><a class=\"NewFn\" href=\"#footnote99\" title=\"(2)  الاترج: قال ديقوريدس هو نبات تبقى ثمرته عليه جميع السنة. و الثمر بنفسه طويل، و لونه شبيه بلون الذهب، طيب الرائحة مع شىء من كراهة، و له بزرشبيه ببزر الكمثرى. انظر الجامع لمفردات الادوية و الاغذية 10/1.\">2</a></sup></span> بِاللَّيْلِ يَقْلِبُ اَلْعَيْنَ وَ يُورِثُ اَلْحَوَلَ‌<span><sup><a class=\"NewFn\" href=\"#footnote100\" title=\"(3)  الحول: ظهور البياض في مؤخر العين، و يكون السواد من قبل الماق. أو اقبال الحدقة على الانف. أو ذهاب حدقتها قبل مؤخرها. انظر القاموس 375/4.و قال ابن البيطار عن ابن ماسويه: «من أكل الاترج بالليل و نام عليه أورثه الحول. انظر المعني في الطب/مخطوط ورقة 57.\">3</a></sup></span><span class=\"Link\"></span>وَ إِتْيَانُ اَلمَرْأَةِ اَلْحَائِضِ يُوَلِّدُ اَلْجُذَامَ‌<span><sup><a class=\"NewFn\" href=\"#footnote101\" title=\"(4)  الجذام: علة تحدث من انتشار السوداء في البدن كله، فيفسد مزاج الاعصاء، و هيأتها و ربما انتهى الى تآكل الاعضاء و سقوطها عن تقرح. انظر القاموس ج 88/4. و نقل ابن القيم الجوزي في كتابه زاد المعااد *\">4</a></sup></span>فِي اَلْوَلَدِ <span class=\"Link\"></span>وَ اَلْجِمَاعُ مِنْ غَيْرِ إِهْرَاقِ اَلْمَاءِ عَلَى أَثَرِهِ يُورِثُ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p391\" paragraph-id=\"391\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote97\" footnote-id=\"97\"><page number=\"27\" />* المعاد 196/2 قول ابن بختيشوع: الاغتسال بالماء البارد بعد أكل السمك الطري يولد الفالج.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote98\" footnote-id=\"98\">(1)  الفالج: قال الشيخ الرئيس في القانون ج 90/2: «هو ما كان من الاسترخاء عاما لاحد شقّي البدن طولا. فمنه ما يكون في الشق المبتدأ من الرقبة و يكون الوجه و الرأس معه صحيحين و منه ما يسري في جميع الشق من الرأس الى القدم.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote99\" footnote-id=\"99\">(2)  الاترج: قال ديقوريدس هو نبات تبقى ثمرته عليه جميع السنة. و الثمر بنفسه طويل، و لونه شبيه بلون الذهب، طيب الرائحة مع شىء من كراهة، و له بزرشبيه ببزر الكمثرى. انظر الجامع لمفردات الادوية و الاغذية 10/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote100\" footnote-id=\"100\">(3)  الحول: ظهور البياض في مؤخر العين، و يكون السواد من قبل الماق. أو اقبال الحدقة على الانف. أو ذهاب حدقتها قبل مؤخرها. انظر القاموس 375/4.<br />و قال ابن البيطار عن ابن ماسويه: «من أكل الاترج بالليل و نام عليه أورثه الحول. انظر المعني في الطب/مخطوط ورقة 57.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote101\" footnote-id=\"101\">(4)  الجذام: علة تحدث من انتشار السوداء في البدن كله، فيفسد مزاج الاعصاء، و هيأتها و ربما انتهى الى تآكل الاعضاء و سقوطها عن تقرح. انظر القاموس ج 88/4. و نقل ابن القيم الجوزي في كتابه زاد المعااد *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "EA5B1004-FBC7-4CE5-94EA-31050A97B5BE",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

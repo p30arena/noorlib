@@ -1,0 +1,71 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 43,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892263,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"408\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"43\"/>اَلْإِطْرِيفَلِ‌<lfootnote noteId=\"172\">1</lfootnote> اَلْأَصْغَرِ مِثْقَالاً وَاحِداً<lfootnote noteId=\"173\">2</lfootnote>. </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892264,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"409\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\">[t-1-1-75-1]وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ اَلْمُسَافِرَ يَنْبَغِي لَهُ أَنْ يَحْتَرِزَ فِي اَلْحَرِّ أَنْ يُسَافِرَ وَ هُوَ مُمْتَلِئٌ مِنَ اَلطَّعَامِ أَوْ خَالِي اَلْجَوْفِ وَ لْيَكُنْ عَلَى حَدِّ اَلاِعْتِدَالِ وَ لْيَتَنَاوَلْ مِنَ اَلْأَغْذِيَةِ إِذَا أَرَادَ اَلْحَرَكَةَ‌،<lfootnote noteId=\"174\">3</lfootnote> اَلْأَغْذِيَةَ اَلْبَارِدَةَ مِثْلَ اَلْقَرِيصِ‌<lfootnote noteId=\"175\">4</lfootnote>وَ اَلْهَلاَمِ‌<lfootnote noteId=\"176\">5</lfootnote> وَ اَلْخَلِّ وَ اَلزَّيْتِ‌<lfootnote noteId=\"177\">6</lfootnote> وَ مَاءِ اَلْحِصْرِمِ‌<lfootnote noteId=\"178\">7</lfootnote> وَ نَحْوَ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892265,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"410\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"44\"/>ذَلِكَ مِنَ اَلْبَوَادِرِ<lfootnote noteId=\"179\">1</lfootnote>. </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892689,
+          "text": "<footnote id=\"172\"><page number=\"43\"/><mnote>(1)</mnote> الاطريفل. لفظة يونانية معناها الاهليلجات. و بلغة المدينة هو ما ركب من الاهليلجات و هي من الادوية التي تبقى قوتها الى سنتين و نصف. و جل نفعه فى أمراض الدماغ، و قطع الابخرة، و تقوية الاعصاب، و المعدة، و يقطع البواسير و يزكي و يذهب سلسل البول. انظر طريقة صنعه في تذكرة اولى الالباب 50/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892690,
+          "text": "<footnote id=\"173\"><mnote>(2)</mnote> زيادة في (ج و د).</footnote>"
+        },
+        {
+          "footnoteId": 702892691,
+          "text": "<footnote id=\"174\"><mnote>(3)</mnote> ليس في (ب و ج و د).</footnote>"
+        },
+        {
+          "footnoteId": 702892692,
+          "text": "<footnote id=\"175\"><mnote>(4)</mnote> القريص: غذاء يطبخ من اللحوم اللطيفة كلحم السمك، و الفرخ، مع الخل أو الحموضات.</footnote>"
+        },
+        {
+          "footnoteId": 702892693,
+          "text": "<footnote id=\"176\"><mnote>(5)</mnote> الهلام: طعام من لحم العجل بجلده، أو مرق السكباج المبرد المصفى من الدهن. انظر القاموس 191/4. و في الجامع لمفردات الادوية 106/1. *<page number=\"44\"/>* هو مرق لحم البقر المبرد المصفى عن دسمه.</footnote>"
+        }
+      ],
+      "pageValue": "43",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p408\" paragraph-id=\"408\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo43\">43</span>اَلْإِطْرِيفَلِ‌<span><sup><a class=\"NewFn\" href=\"#footnote172\" title=\"(1)  الاطريفل. لفظة يونانية معناها الاهليلجات. و بلغة المدينة هو ما ركب من الاهليلجات و هي من الادوية التي تبقى قوتها الى سنتين و نصف. و جل نفعه فى أمراض الدماغ، و قطع الابخرة، و تقوية الاعصاب، و المعدة، و يقطع البواسير و يزكي و يذهب سلسل البول. انظر طريقة صنعه في تذكرة اولى الالباب 50/1.\">1</a></sup></span> اَلْأَصْغَرِ مِثْقَالاً وَاحِداً<span><sup><a class=\"NewFn\" href=\"#footnote173\" title=\"(2)  زيادة في (ج و د).\">2</a></sup></span>. </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p409\" paragraph-id=\"409\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">[t-1-1-75-1]وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ اَلْمُسَافِرَ يَنْبَغِي لَهُ أَنْ يَحْتَرِزَ فِي اَلْحَرِّ أَنْ يُسَافِرَ وَ هُوَ مُمْتَلِئٌ مِنَ اَلطَّعَامِ أَوْ خَالِي اَلْجَوْفِ وَ لْيَكُنْ عَلَى حَدِّ اَلاِعْتِدَالِ وَ لْيَتَنَاوَلْ مِنَ اَلْأَغْذِيَةِ إِذَا أَرَادَ اَلْحَرَكَةَ‌،<span><sup><a class=\"NewFn\" href=\"#footnote174\" title=\"(3)  ليس في (ب و ج و د).\">3</a></sup></span> اَلْأَغْذِيَةَ اَلْبَارِدَةَ مِثْلَ اَلْقَرِيصِ‌<span><sup><a class=\"NewFn\" href=\"#footnote175\" title=\"(4)  القريص: غذاء يطبخ من اللحوم اللطيفة كلحم السمك، و الفرخ، مع الخل أو الحموضات.\">4</a></sup></span>وَ اَلْهَلاَمِ‌<span><sup><a class=\"NewFn\" href=\"#footnote176\" title=\"(5)  الهلام: طعام من لحم العجل بجلده، أو مرق السكباج المبرد المصفى من الدهن. انظر القاموس 191/4. و في الجامع لمفردات الادوية 106/1. *\">5</a></sup></span> وَ اَلْخَلِّ وَ اَلزَّيْتِ‌<span><sup><a class=\"NewFn\" href=\"#footnote177\">6</a></sup></span> وَ مَاءِ اَلْحِصْرِمِ‌<span><sup><a class=\"NewFn\" href=\"#footnote178\">7</a></sup></span> وَ نَحْوَ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p410\" paragraph-id=\"410\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote172\" footnote-id=\"172\">(1) <page number=\"43\" /> الاطريفل. لفظة يونانية معناها الاهليلجات. و بلغة المدينة هو ما ركب من الاهليلجات و هي من الادوية التي تبقى قوتها الى سنتين و نصف. و جل نفعه فى أمراض الدماغ، و قطع الابخرة، و تقوية الاعصاب، و المعدة، و يقطع البواسير و يزكي و يذهب سلسل البول. انظر طريقة صنعه في تذكرة اولى الالباب 50/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote173\" footnote-id=\"173\">(2)  زيادة في (ج و د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote174\" footnote-id=\"174\">(3)  ليس في (ب و ج و د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote175\" footnote-id=\"175\">(4)  القريص: غذاء يطبخ من اللحوم اللطيفة كلحم السمك، و الفرخ، مع الخل أو الحموضات.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote176\" footnote-id=\"176\">(5)  الهلام: طعام من لحم العجل بجلده، أو مرق السكباج المبرد المصفى من الدهن. انظر القاموس 191/4. و في الجامع لمفردات الادوية 106/1. *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "1FAFA68F-4D6B-4D38-B518-AB14A25D4727",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

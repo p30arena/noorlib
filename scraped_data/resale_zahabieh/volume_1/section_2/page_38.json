@@ -1,0 +1,65 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 38,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892258,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"403\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"38\"/>عَطِسَ‌<lfootnote noteId=\"144\">1</lfootnote> وَ مِنْهُ مَا يُسْكِرُ وَ لَهُ عِنْدَ اَلذَّوْقِ حِرَافَةٌ‌<lfootnote noteId=\"145\">2</lfootnote> شَدِيدَةٌ فَهَذِهِ اَلْأَنْوَاعُ مِنَ اَلْعَسَلِ قَاتِلَةٌ‌<lfootnote noteId=\"146\">3</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"266\" Id=\"1\"/>وَ لْيَشَمَّ اَلنَّرْجِسَ‌<lfootnote noteId=\"147\">4</lfootnote> فَإِنَّهُ يَأْمَنُ اَلزُّكَامَ وَ كَذَلِكَ اَلْحَبَّةُ اَلسَّوْدَاءُ‌<lfootnote noteId=\"148\">5</lfootnote></format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892259,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"404\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"39\"/>وَ إِذَا جَاءَ اَلزُّكَامُ فِي<lfootnote noteId=\"149\">1</lfootnote><format class=\"Z\">اَلصَّيْفِ‌</format> فَلْيَأْكُلْ كُلَّ يَوْمٍ خِيَارَةً وَاحِدَةً وَ لْيَحْذَرِ اَلْجُلُوسَ فِي اَلشَّمْسِ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"268\" Id=\"1\"/>وَ مَنْ خَشِيَ اَلشَّقِيقَةَ‌<lfootnote noteId=\"150\">2</lfootnote> وَ اَلشَّوْصَةَ‌<lfootnote noteId=\"151\">3</lfootnote> فَلاَ يَنَمْ حِينَ يَأْكُلُ‌<lfootnote noteId=\"152\">4</lfootnote> اَلسَّمَكَ اَلطَّرِيَّ صَيْفاً كَانَ أَمْ شِتَاءً <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"269\" Id=\"1\"/>وَ مَنْ أَرَادَ أَنْ يَكُونَ صَالِحاً خَفِيفَ اَللَّحْمِ فَلْيُقَلِّلْ عَشَاءَهُ بِاللَّيْلِ وَ مَنْ أَرَادَ أَنْ لاَ يَشْتَكِيَ كَبِدَهُ عِنْدَ اَلْحِجَامَةِ فَلْيَأْكُلْ فِي عَقِيبِهَا هِنْدَبَاءَ‌<lfootnote noteId=\"153\">5</lfootnote> بِخَلٍّ‌<lfootnote noteId=\"154\">6</lfootnote></format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892661,
+          "text": "<footnote id=\"144\"><page number=\"38\"/><mnote>(1)</mnote> في الاصل عطش. و الصواب ما أثبتنا. و قال الشيخ الرئيس في القانون 402/1: «و الحريف من العسل يعطس شمه».</footnote>"
+        },
+        {
+          "footnoteId": 702892662,
+          "text": "<footnote id=\"145\"><mnote>(2)</mnote> الحرافة: طعم يلذع اللسان بحرارته، و قال الشيخ الرئيس في المصدر السابق: «و الحريف الشمي منه يذهب العقل.</footnote>"
+        },
+        {
+          "footnoteId": 702892663,
+          "text": "<footnote id=\"146\"><mnote>(3)</mnote> انظر القانون 402/1، و الجامع لمفردات الادوية و الاغذية 122/3.</footnote>"
+        },
+        {
+          "footnoteId": 702892664,
+          "text": "<footnote id=\"147\"><mnote>(4)</mnote> قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 179/4: «النرجس: نبات له ورق شبيه بورق الكراث، الا انه أدق منه و أصغر بكثير، و له ساق جوفاء ليس لها ورق، طولها اكثر من شبر، عليها زهر أبيض، في وسطه شىء لونه أصفر، و منه مالونه الى القرمزية، و له أصل أبيض مستدير، و ثمرته سوداء كانها غشاء مستطيلة.<br/>و فيه عن ابن عمران شمع ينفع الزكام البارد.</footnote>"
+        },
+        {
+          "footnoteId": 702892665,
+          "text": "<footnote id=\"148\"><mnote>(5)</mnote> قال ابن البيطار في المصدر السابق 72/3: «الحبة السوداء: و تسمى أيضا بالشونيز. و هو نبات صغير دقيق العيدان، طوله نحو من شبرين أو أكثر، و له ورق صغار، على طرفه رأس شبيه بالخشخاش في شكله، طويلة مجوفة، تحوي بزر أسود حريفا طيب الرائحة.<br/>و فيه عن جالينوس انه يشفي الزكام اذا صيّر في خرقه و هو مقلو و شمه *<page number=\"39\"/>* الانسان.<br/>و فيه أيضا عن ديسقوريدوس. اذا سحق و جعل في صرة و اشتم نفع الزكام.</footnote>"
+        }
+      ],
+      "pageValue": "38",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p403\" paragraph-id=\"403\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo38\">38</span>عَطِسَ‌<span><sup><a class=\"NewFn\" href=\"#footnote144\" title=\"(1)  في الاصل عطش. و الصواب ما أثبتنا. و قال الشيخ الرئيس في القانون 402/1: «و الحريف من العسل يعطس شمه».\">1</a></sup></span> وَ مِنْهُ مَا يُسْكِرُ وَ لَهُ عِنْدَ اَلذَّوْقِ حِرَافَةٌ‌<span><sup><a class=\"NewFn\" href=\"#footnote145\" title=\"(2)  الحرافة: طعم يلذع اللسان بحرارته، و قال الشيخ الرئيس في المصدر السابق: «و الحريف الشمي منه يذهب العقل.\">2</a></sup></span> شَدِيدَةٌ فَهَذِهِ اَلْأَنْوَاعُ مِنَ اَلْعَسَلِ قَاتِلَةٌ‌<span><sup><a class=\"NewFn\" href=\"#footnote146\" title=\"(3)  انظر القانون 402/1، و الجامع لمفردات الادوية و الاغذية 122/3.\">3</a></sup></span><span class=\"Link\"></span>وَ لْيَشَمَّ اَلنَّرْجِسَ‌<span><sup><a class=\"NewFn\" href=\"#footnote147\" title=\"(4)  قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 179/4: «النرجس: نبات له ورق شبيه بورق الكراث، الا انه أدق منه و أصغر بكثير، و له ساق جوفاء ليس لها ورق، طولها اكثر من شبر، عليها زهر أبيض، في وسطه شىء لونه أصفر، و منه مالونه الى القرمزية، و له أصل أبيض مستدير، و ثمرته سوداء كانها غشاء مستطيلة.و فيه عن ابن عمران شمع ينفع الزكام البارد.\">4</a></sup></span> فَإِنَّهُ يَأْمَنُ اَلزُّكَامَ وَ كَذَلِكَ اَلْحَبَّةُ اَلسَّوْدَاءُ‌<span><sup><a class=\"NewFn\" href=\"#footnote148\" title=\"(5)  قال ابن البيطار في المصدر السابق 72/3: «الحبة السوداء: و تسمى أيضا بالشونيز. و هو نبات صغير دقيق العيدان، طوله نحو من شبرين أو أكثر، و له ورق صغار، على طرفه رأس شبيه بالخشخاش في شكله، طويلة مجوفة، تحوي بزر أسود حريفا طيب الرائحة.و فيه عن جالينوس انه يشفي الزكام اذا صيّر في خرقه و هو مقلو و شمه *\">5</a></sup></span></span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p404\" paragraph-id=\"404\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote144\" footnote-id=\"144\">(1) <page number=\"38\" /> في الاصل عطش. و الصواب ما أثبتنا. و قال الشيخ الرئيس في القانون 402/1: «و الحريف من العسل يعطس شمه».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote145\" footnote-id=\"145\">(2)  الحرافة: طعم يلذع اللسان بحرارته، و قال الشيخ الرئيس في المصدر السابق: «و الحريف الشمي منه يذهب العقل.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote146\" footnote-id=\"146\">(3)  انظر القانون 402/1، و الجامع لمفردات الادوية و الاغذية 122/3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote147\" footnote-id=\"147\">(4)  قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 179/4: «النرجس: نبات له ورق شبيه بورق الكراث، الا انه أدق منه و أصغر بكثير، و له ساق جوفاء ليس لها ورق، طولها اكثر من شبر، عليها زهر أبيض، في وسطه شىء لونه أصفر، و منه مالونه الى القرمزية، و له أصل أبيض مستدير، و ثمرته سوداء كانها غشاء مستطيلة.<br />و فيه عن ابن عمران شمع ينفع الزكام البارد.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote148\" footnote-id=\"148\">(5)  قال ابن البيطار في المصدر السابق 72/3: «الحبة السوداء: و تسمى أيضا بالشونيز. و هو نبات صغير دقيق العيدان، طوله نحو من شبرين أو أكثر، و له ورق صغار، على طرفه رأس شبيه بالخشخاش في شكله، طويلة مجوفة، تحوي بزر أسود حريفا طيب الرائحة.<br />و فيه عن جالينوس انه يشفي الزكام اذا صيّر في خرقه و هو مقلو و شمه *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "97330B20-FFAF-4E98-9965-9E82087EAFDB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

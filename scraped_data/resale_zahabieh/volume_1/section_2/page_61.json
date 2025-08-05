@@ -1,0 +1,65 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 61,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892289,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"434\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"61\"/><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"229\" Id=\"1\"/>وَ مُصَّ مِنَ اَلرُّمَّانِ اَلْإِمْلِيسِيِّ‌<lfootnote noteId=\"242\">1</lfootnote> فَإِنَّهُ يُقَوِّي اَلنَّفْسَ وَ يُحْيِي اَلدَّمَ وَ لاَ تَأْكُلَنَّ طَعَاماً مَالِحاً وَ لاَ مِلْحاً بَعْدَهُ بِثُلُثَيْ سَاعَةٍ‌<lfootnote noteId=\"243\">2</lfootnote> فَإِنَّهُ يَعْرِضُ مِنْهُ اَلْجَرَبُ‌<lfootnote noteId=\"244\">3</lfootnote> وَ إِنْ كَانَ <format class=\"Z\">شِتَاءً </format>فَكُلِ اَلطَّيَاهِيجَ‌<lfootnote noteId=\"245\">4</lfootnote> إِذَا اِحْتَجَمْتَ وَ اِشْرَبْ عَلَيْهِ مِنْ ذَلِكَ اَلشَّرَابِ اَلَّذِي وَصَفْتُهُ لَكَ وَ اُدْهُنْ مَوْضِعَ اَلْحِجَامَةِ بِدُهْنِ اَلْخِيرِيِّ وَ مَاءِ وَرْدٍ وَ شَيْ‌ءٍ مِنْ مِسْكٍ‌<lfootnote noteId=\"246\">5</lfootnote> وَ صُبَّ مِنْهُ عَلَى هَامَتِكَ سَاعَةً تَفْرُغُ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892290,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"435\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"62\"/>مِنْ حِجَامَتِكَ وَ أَمَّا فِي <format class=\"Z\">اَلصَّيْفِ </format><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"231\" Id=\"1\"/>فَإِذَا اِحْتَجَمْتَ فَكُلِ اَلسِّكْبَاجَ‌<lfootnote noteId=\"247\">1</lfootnote> وَ اَلْهَلاَمَ وَ اَلْمَصُوصَ‌<lfootnote noteId=\"248\">2</lfootnote> وَ اَلْخَامِيرَ<lfootnote noteId=\"249\">3</lfootnote> [t-1-1-67-1]وَ صُبَّ عَلَى هَامَتِكَ دُهْنَ اَلْبَنَفْسَجِ وَ مَاءَ وَرْدٍ وَ شَيْئاً مِنْ كَافُورٍ<lfootnote noteId=\"250\">4</lfootnote> وَ اِشْرَبْ مِنْ ذَلِكَ اَلشَّرَابِ اَلَّذِي وَصَفْتُهُ لَكَ بَعْدَ طَعَامِكَ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"232\" Id=\"1\"/>وَ إِيَّاكَ وَ كَثْرَةَ اَلْحَرَكَةِ وَ اَلْغَضَبِ وَ مُجَامَعَةَ اَلنِّسَاءِ يَوْمَكَ ذَاكَ‌<lfootnote noteId=\"251\">5</lfootnote></format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892759,
+          "text": "<footnote id=\"242\"><page number=\"61\"/><mnote>(1)</mnote> في (ب و ج و د): المز. و الامليسي. هو الذي لا يكون في حبه نوى.</footnote>"
+        },
+        {
+          "footnoteId": 702892760,
+          "text": "<footnote id=\"243\"><mnote>(2)</mnote> في (ب و ج و د): ثلاث ساعات.</footnote>"
+        },
+        {
+          "footnoteId": 702892761,
+          "text": "<footnote id=\"244\"><mnote>(3)</mnote> الجرب: داء يحدث في الجلد بثورا صغارا لها حكّة شديدة.</footnote>"
+        },
+        {
+          "footnoteId": 702892762,
+          "text": "<footnote id=\"245\"><mnote>(4)</mnote> الطياهيج: جمع طيهوج. و هو طائر يعرف بالاندلس بالضريس. و هو شبيه بالحجل الصغير غير ان عنقه أحمر و منقاره و رجله أحمر ان مثل الحجل و ما تحت جناحه أسود و أبيض. و منه ما يسمى المنهاج أجوده السمين الرطب الخريفي و هو معتدل الحل ينفع الناقهين. انظر الجامع لمفردات الادوية 105/3.</footnote>"
+        },
+        {
+          "footnoteId": 702892763,
+          "text": "<footnote id=\"246\"><mnote>(5)</mnote> قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 156/4 عن ابن ماسه: انه يسخن الاعضاء الخارجية و يقويها اذا ضعفت اذا وضع عليها. و قال الشيخ الرئيس في القانون 360/1: اذا حل في الادهان المسخنة و طلي بها فقار الظهر نفع من الخدر.</footnote>"
+        }
+      ],
+      "pageValue": "61",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p434\" paragraph-id=\"434\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo61\">61</span>\n            <span class=\"Link\"></span>وَ مُصَّ مِنَ اَلرُّمَّانِ اَلْإِمْلِيسِيِّ‌<span><sup><a class=\"NewFn\" href=\"#footnote242\" title=\"(1)  في (ب و ج و د): المز. و الامليسي. هو الذي لا يكون في حبه نوى.\">1</a></sup></span> فَإِنَّهُ يُقَوِّي اَلنَّفْسَ وَ يُحْيِي اَلدَّمَ وَ لاَ تَأْكُلَنَّ طَعَاماً مَالِحاً وَ لاَ مِلْحاً بَعْدَهُ بِثُلُثَيْ سَاعَةٍ‌<span><sup><a class=\"NewFn\" href=\"#footnote243\" title=\"(2)  في (ب و ج و د): ثلاث ساعات.\">2</a></sup></span> فَإِنَّهُ يَعْرِضُ مِنْهُ اَلْجَرَبُ‌<span><sup><a class=\"NewFn\" href=\"#footnote244\" title=\"(3)  الجرب: داء يحدث في الجلد بثورا صغارا لها حكّة شديدة.\">3</a></sup></span> وَ إِنْ كَانَ <span class=\"Z\">شِتَاءً </span>فَكُلِ اَلطَّيَاهِيجَ‌<span><sup><a class=\"NewFn\" href=\"#footnote245\" title=\"(4)  الطياهيج: جمع طيهوج. و هو طائر يعرف بالاندلس بالضريس. و هو شبيه بالحجل الصغير غير ان عنقه أحمر و منقاره و رجله أحمر ان مثل الحجل و ما تحت جناحه أسود و أبيض. و منه ما يسمى المنهاج أجوده السمين الرطب الخريفي و هو معتدل الحل ينفع الناقهين. انظر الجامع لمفردات الادوية 105/3.\">4</a></sup></span> إِذَا اِحْتَجَمْتَ وَ اِشْرَبْ عَلَيْهِ مِنْ ذَلِكَ اَلشَّرَابِ اَلَّذِي وَصَفْتُهُ لَكَ وَ اُدْهُنْ مَوْضِعَ اَلْحِجَامَةِ بِدُهْنِ اَلْخِيرِيِّ وَ مَاءِ وَرْدٍ وَ شَيْ‌ءٍ مِنْ مِسْكٍ‌<span><sup><a class=\"NewFn\" href=\"#footnote246\" title=\"(5)  قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 156/4 عن ابن ماسه: انه يسخن الاعضاء الخارجية و يقويها اذا ضعفت اذا وضع عليها. و قال الشيخ الرئيس في القانون 360/1: اذا حل في الادهان المسخنة و طلي بها فقار الظهر نفع من الخدر.\">5</a></sup></span> وَ صُبَّ مِنْهُ عَلَى هَامَتِكَ سَاعَةً تَفْرُغُ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p435\" paragraph-id=\"435\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote242\" footnote-id=\"242\">(1) <page number=\"61\" /> في (ب و ج و د): المز. و الامليسي. هو الذي لا يكون في حبه نوى.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote243\" footnote-id=\"243\">(2)  في (ب و ج و د): ثلاث ساعات.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote244\" footnote-id=\"244\">(3)  الجرب: داء يحدث في الجلد بثورا صغارا لها حكّة شديدة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote245\" footnote-id=\"245\">(4)  الطياهيج: جمع طيهوج. و هو طائر يعرف بالاندلس بالضريس. و هو شبيه بالحجل الصغير غير ان عنقه أحمر و منقاره و رجله أحمر ان مثل الحجل و ما تحت جناحه أسود و أبيض. و منه ما يسمى المنهاج أجوده السمين الرطب الخريفي و هو معتدل الحل ينفع الناقهين. انظر الجامع لمفردات الادوية 105/3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote246\" footnote-id=\"246\">(5)  قال ابن البيطار في الجامع لمفردات الادوية و الاغذية 156/4 عن ابن ماسه: انه يسخن الاعضاء الخارجية و يقويها اذا ضعفت اذا وضع عليها. و قال الشيخ الرئيس في القانون 360/1: اذا حل في الادهان المسخنة و طلي بها فقار الظهر نفع من الخدر.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "65CAA97B-5B25-4700-8C89-EA50A868EECC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

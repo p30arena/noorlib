@@ -1,0 +1,67 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 6,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892134,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"279\"><page number=\"6\"/>هيهات هيهات، ضلت العقول، و تاهت الاحلام، و حارت الالباب، و حصرت الخطباء، و كلت الشعراء، و عجزت الادباء، و عييت البلغاء، في وصف شأنه، و أقرت بالعجز و التقصير. فذكره قبس من نور اللّه يهدي المستنير به نحو السبيل الاقوم، و قدسية لا تضارعها قدسية، و عصمة متوارثة: امام بعد امام.</p>"
+        },
+        {
+          "paragraphId": 702892135,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"280\">فهو علم الهدى، و المثل الاعلى في العلم و الورع و التقى، و الحلم و الاخلاق، كرس حياته الطاهرة لاعلاء كلمة الاسلام، و تاريخه حافل بجلائل الاعمال. انطلقت أعماله عن عقيدة و ايمان، استهدفت اصلاح أمة جده خاتم النبيين و سيد المرسلين صلى اللّه عليه و آله و سلم، الذي أرسله اللّه سبحانه و تعالى منقذا لعباده من الظلمات الى النور.</p>"
+        },
+        {
+          "paragraphId": 702892136,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"281\">و قد أجاد الحسن بن هانىء المعروف بأبي نؤاس حين عوتب على الامساك عن مديحه حيث قال:</p>"
+        },
+        {
+          "paragraphId": 702892137,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"282\"><br/><poem>قيل لي أنت أوحد الناس طرا <gap/>في فنون من الكلام النبيه <br/>لك من جوهر الكلام بديع <gap/>يثمر الدر في يدي مجتنيه <br/>فعلام تركت مدح ابن موسى <gap/>و الخصال التي تجمعن فيه <br/>قلت لا أهتدي لمدح امام <gap/>كان جبريل خادما لابيه<lfootnote noteId=\"1\">1</lfootnote></poem></p>"
+        },
+        {
+          "paragraphId": 702892138,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"283\"><page number=\"7\"/><heading level=\"2\">ولادته و وفاته: </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892518,
+          "text": "<footnote id=\"1\"><page number=\"6\"/><mnote>(1)</mnote> أنظر كشف الغمة 111/3، مرآة الزمان 22/9 /أ.</footnote>"
+        }
+      ],
+      "pageValue": "6",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p279\" paragraph-id=\"279\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo6\">6</span>هيهات هيهات، ضلت العقول، و تاهت الاحلام، و حارت الالباب، و حصرت الخطباء، و كلت الشعراء، و عجزت الادباء، و عييت البلغاء، في وصف شأنه، و أقرت بالعجز و التقصير. فذكره قبس من نور اللّه يهدي المستنير به نحو السبيل الاقوم، و قدسية لا تضارعها قدسية، و عصمة متوارثة: امام بعد امام.</p>\n  <p id=\"p280\" paragraph-id=\"280\" class=\" G\">فهو علم الهدى، و المثل الاعلى في العلم و الورع و التقى، و الحلم و الاخلاق، كرس حياته الطاهرة لاعلاء كلمة الاسلام، و تاريخه حافل بجلائل الاعمال. انطلقت أعماله عن عقيدة و ايمان، استهدفت اصلاح أمة جده خاتم النبيين و سيد المرسلين صلى اللّه عليه و آله و سلم، الذي أرسله اللّه سبحانه و تعالى منقذا لعباده من الظلمات الى النور.</p>\n  <p id=\"p281\" paragraph-id=\"281\" class=\" G\">و قد أجاد الحسن بن هانىء المعروف بأبي نؤاس حين عوتب على الامساك عن مديحه حيث قال:</p>\n  <p id=\"p282\" paragraph-id=\"282\" class=\" G\">\n    <br />\n    <span class=\"pome\">\n      <span class=\"rightpome\">قيل لي أنت أوحد الناس طرا </span>\n      <span class=\"leftpome\">في فنون من الكلام النبيه </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">لك من جوهر الكلام بديع </span>\n      <span class=\"leftpome\">يثمر الدر في يدي مجتنيه </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">فعلام تركت مدح ابن موسى </span>\n      <span class=\"leftpome\">و الخصال التي تجمعن فيه </span>\n      <br style=\"clear:both\" />\n      <span class=\"rightpome\">قلت لا أهتدي لمدح امام </span>\n      <span class=\"leftpome\">كان جبريل خادما لابيه<span><sup><a class=\"NewFn\" href=\"#footnote1\" title=\"(1)  أنظر كشف الغمة 111/3، مرآة الزمان 22/9 /أ.\">1</a></sup></span></span>\n      <br style=\"clear:both\" />\n    </span>\n  </p>\n  <p id=\"p283\" paragraph-id=\"283\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote1\" footnote-id=\"1\">(1) <page number=\"6\" /> أنظر كشف الغمة 111/3، مرآة الزمان 22/9 /أ.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "F0FB912F-8AA5-4074-BD58-E2AA665CB6BD",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

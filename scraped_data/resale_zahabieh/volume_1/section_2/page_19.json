@@ -1,0 +1,64 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 19,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892239,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"384\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"18\"/><page number=\"19\"/><page number=\"20\"/><page number=\"21\"/>[t-1-1-56-1]صِفَةُ اَلشَّرَابِ <lfootnote noteId=\"74\">_1</lfootnote>يُؤْخَذُ مِنَ اَلزَّبِيبِ‌<lfootnote noteId=\"75\">_2</lfootnote> اَلْمُنَقَّى عَشَرَةُ أَرْطَالٍ فَيُغْسَلُ وَ يُنْقَعُ فِي مَاءٍ صافي <format class=\"z\">[صَافٍ‌]</format> غَمْرُهُ وَ زِيَادَةً عَلَيْهِ أَرْبَعَةُ أَصَابِعَ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": [
+        {
+          "taliqehId": 702892787,
+          "text": "<footnote id=\"270\"><page number=\"19\"/><mnote/>المحمضات. و من اللحوم: لحم المعز الثني. و الجذع<lfootnote noteId=\"64\">1</lfootnote>. و من الطيور: الدجاج، و الظيهوح، و الدراج، و الالبان، و السمك الطري.<br/>[t-1-1-52-2]تموز: واحد و ثلاثون يوما. فيه شدة الحرارة، و تغور المياه و يستعمل فيه شرب المياه الباردة على الريق. و يؤكل فيه الاشياء الباردة الرطبة. و يكسر فيه مزاج الشراب. و تؤكل فيه الاعذية اللطيقة السريعة الهضم، كما ذكر في حزيران. و يستعمل فيه من النّور<lfootnote noteId=\"65\">2</lfootnote> و الرياحين الباردة الرطبة الطيبة الرائحة.<br/>آب: [t-1-1-53-1]واحد و ثلاثون يوما، فيه تشتد السموم، و يهيج الزكام بالليل، و تهب الشمال، و يصلح المزاج بالتبريد و الترطيب، و ينفع فيه شرب اللبن الرائب، و يجتنب فيه الجماع، و المسهل، و يقل من الرياضة، و يشم الرياحين الباردة.<br/>أيلول: [t-1-1-53-2]ثلاثون يوما، فيه يطيب الهواء، و يقوى سلطان المرة السوداء، و يصلح شراب المسهل، و ينفع فيه أكل الحلاوات، و أصناف اللحوم المعتدلة كالجداء<lfootnote noteId=\"66\">3</lfootnote> و الحولي<lfootnote noteId=\"67\">4</lfootnote> من الضان، و يجتنب فيه لحم البقر، و الاكثار من الشواء،</footnote>"
+        }
+      ],
+      "footnoteList": [
+        {
+          "footnoteId": 702892580,
+          "text": "<footnote id=\"63\"><mnote>(6)</mnote> قال ابن البيطار فى المصدر السابق ص 75: شير خشك هو طل يقع من *<page number=\"19\"/>* السماء ببلاد العجم على شجر الخلاف بهراة و هو حلو الى الاعتدال، و فيه عن التميمى هو أفضل أصناف المن و أكثرها نفعا لمحرورى الامزجة.</footnote>"
+        },
+        {
+          "footnoteId": 702892581,
+          "text": "<footnote id=\"64\"><mnote>(1)</mnote> الجذع: هو الذى أكمل السنة الاولى و دخل فى الثانية. و فى نسخة (د) الجداء و الجداء: جمع جدى الذكر من أولاد المعز فى السنة الاولى. أنظر حياة الحيوان 185/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892582,
+          "text": "<footnote id=\"65\"><mnote>(2)</mnote> النور: الزهر، أو الابيض منه. أنظر القاموس 149/2.</footnote>"
+        },
+        {
+          "footnoteId": 702892583,
+          "text": "<footnote id=\"66\"><mnote>(3)</mnote> الجداء: سبق تعريفه.</footnote>"
+        },
+        {
+          "footnoteId": 702892584,
+          "text": "<footnote id=\"67\"><mnote>(4)</mnote> الحولى: ما أتى عليه حول من ذى حافر و غيره أنظر القاموس 374/3.</footnote>"
+        }
+      ],
+      "pageValue": "19",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p384\" paragraph-id=\"384\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo19\">19</span>\n          </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"talighehLine\" />\n  <span>\n    <div class=\"taligheh OriginalDigit\" id=\"taligheh270\" taligheh-id=\"270\"><page number=\"19\" />المحمضات. و من اللحوم: لحم المعز الثني. و الجذع<ltaligheh noteId=\"64\">1</ltaligheh>. و من الطيور: الدجاج، و الظيهوح، و الدراج، و الالبان، و السمك الطري.<br />[t-1-1-52-2]تموز: واحد و ثلاثون يوما. فيه شدة الحرارة، و تغور المياه و يستعمل فيه شرب المياه الباردة على الريق. و يؤكل فيه الاشياء الباردة الرطبة. و يكسر فيه مزاج الشراب. و تؤكل فيه الاعذية اللطيقة السريعة الهضم، كما ذكر في حزيران. و يستعمل فيه من النّور<ltaligheh noteId=\"65\">2</ltaligheh> و الرياحين الباردة الرطبة الطيبة الرائحة.<br />آب: [t-1-1-53-1]واحد و ثلاثون يوما، فيه تشتد السموم، و يهيج الزكام بالليل، و تهب الشمال، و يصلح المزاج بالتبريد و الترطيب، و ينفع فيه شرب اللبن الرائب، و يجتنب فيه الجماع، و المسهل، و يقل من الرياضة، و يشم الرياحين الباردة.<br />أيلول: [t-1-1-53-2]ثلاثون يوما، فيه يطيب الهواء، و يقوى سلطان المرة السوداء، و يصلح شراب المسهل، و ينفع فيه أكل الحلاوات، و أصناف اللحوم المعتدلة كالجداء<ltaligheh noteId=\"66\">3</ltaligheh> و الحولي<ltaligheh noteId=\"67\">4</ltaligheh> من الضان، و يجتنب فيه لحم البقر، و الاكثار من الشواء،</div>\n  </span>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote63\" footnote-id=\"63\"><page number=\"19\" />* السماء ببلاد العجم على شجر الخلاف بهراة و هو حلو الى الاعتدال، و فيه عن التميمى هو أفضل أصناف المن و أكثرها نفعا لمحرورى الامزجة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote64\" footnote-id=\"64\">(1)  الجذع: هو الذى أكمل السنة الاولى و دخل فى الثانية. و فى نسخة (د) الجداء و الجداء: جمع جدى الذكر من أولاد المعز فى السنة الاولى. أنظر حياة الحيوان 185/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote65\" footnote-id=\"65\">(2)  النور: الزهر، أو الابيض منه. أنظر القاموس 149/2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote66\" footnote-id=\"66\">(3)  الجداء: سبق تعريفه.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote67\" footnote-id=\"67\">(4)  الحولى: ما أتى عليه حول من ذى حافر و غيره أنظر القاموس 374/3.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "419E5F45-6BB7-4231-A8EE-8A63B409761C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

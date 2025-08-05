@@ -1,0 +1,67 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 30,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892248,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"393\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"30\"/>وَ اَلشَّقِيقَةِ‌<lfootnote noteId=\"111\">1</lfootnote> وَ قِيلَ خَمْسَةَ أَكُفٍّ مَاءَ حَارٍّ تَصُبُّهَا عَلَى رَأْسِكَ عِنْدَ دُخُولِ اَلْحَمَّامِ‌. </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892249,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"394\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\">[t-1-1-69-1]وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ تَرْكِيبَ اَلْحَمَّامِ عَلَى تَرْكِيبِ اَلْجَسَدِ لِلْحَمَّامِ أَرْبَعَةُ أَبْيَاتٍ مِثْلُ أَرْبَعِ طَبَائِعَ اَلْبَيْتُ اَلْأَوَّلُ بَارِدٌ يَابِسٌ وَ اَلثَّانِي بَارِدٌ رَطْبٌ وَ اَلثَّالِثُ حَارٌّ رَطْبٌ وَ اَلرَّابِعُ حَارٌّ يَابِسٌ‌<lfootnote noteId=\"112\">2</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"255\" Id=\"1\"/>وَ مَنْفَعَةُ اَلْحَمَّامِ تُؤَدِّي إِلَى اَلاِعْتِدَالِ وَ يُنَقِّي اَلدَّرَنَ‌<lfootnote noteId=\"113\">3</lfootnote>يُلَيِّنُ اَلْعَصَبَ وَ اَلْعُرُوقَ وَ يُقَوِّي اَلْأَعْضَاءَ اَلْكِبَارَ وَ يُذِيبُ اَلْفُضُولَ وَ اَلْعُفُونَاتِ‌<lfootnote noteId=\"114\">4</lfootnote></format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892250,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"395\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"31\"/>وَ إِذَا أَرَدْتَ أَنْ لاَ يَظْهَرَ فِي بَدَنِكَ بَثْرَةٌ وَ لاَ غَيْرُهَا فَابْدَأْ عِنْدَ دُخُولِ اَلْحَمَّامِ بِدُهْنِ بَدَنِكَ بِدُهْنِ اَلْبَنَفْسَجِ‌<lfootnote noteId=\"115\">1</lfootnote>وَ إِذَا أَرَدْتَ أَنْ لاَ يَبْثُرَ<lfootnote noteId=\"116\">2</lfootnote> وَ لاَ يُصِيبَكَ قُرُوحٌ وَ لاَ شُقَاقٌ وَ لاَ سَوَادٌ فَاغْسِلْ بِالْمَاءِ اَلْبَارِدِ قَبْلَ أَنْ تَنَوَّرَ<lfootnote noteId=\"117\">3</lfootnote>وَ مَنْ أَرَادَ دُخُولَ اَلْحَمَّامِ لِلنُّورَةِ فَلْيَتَجَنَّبِ اَلْجِمَاعَ قَبْلَ ذَلِكَ بِاثْنَتَيْ عَشْرَةَ سَاعَةً وَ هُوَ تَمَامُ يَوْمٍ [t-1-1-70-1]وَ لْيَطْرَحْ فِي اَلنُّورَةِ شَيْئاً مِنَ اَلصَّبِرِ<lfootnote noteId=\"118\">4</lfootnote> وَ اَلْقَاقِيَا<lfootnote noteId=\"119\">5</lfootnote> وَ اَلْحُضُضِ‌<lfootnote noteId=\"120\">6</lfootnote></format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892628,
+          "text": "<footnote id=\"111\"><page number=\"30\"/><mnote>(1)</mnote> الشقيقة: وجع يأخذ نصف الرأس و الوجه. انظر القاموس ج 259/3.</footnote>"
+        },
+        {
+          "footnoteId": 702892629,
+          "text": "<footnote id=\"112\"><mnote>(2)</mnote> قال الخجندي في التلويح: ص 121 في تقسيم بيوت الحمام: «الفعل الطبيعي للحمام ان يسخن بهوائه، و يرطب بمائه. و العرضي مثل: ان يسخن بمائه البارد، و بهوائه الحار. و البيت الاول: مبرد مجفف، و الثاني مبرد مرطب، و الثالث مسخن مرطب، و الرابع مسخن مجفف.</footnote>"
+        },
+        {
+          "footnoteId": 702892630,
+          "text": "<footnote id=\"113\"><mnote>(3)</mnote> في (ج) البدن. و الدرن: هو الوسخ.</footnote>"
+        },
+        {
+          "footnoteId": 702892631,
+          "text": "<footnote id=\"114\"><mnote>(4)</mnote> قال الدميري في حياة الحيوان 125/2: «اعلم ان الحكماء قد ذكروا ان للحام و النورة منافع و مضار، فمن منافعه: «انه يوسع المسام، و يستفرغ *<page number=\"31\"/>الفضول، و يحلل الرياح، و ينظف البدن من الوسخ و العرق، و يذهب الاعيا، و يلين الجسد، و يجيد الهضم.</footnote>"
+        }
+      ],
+      "pageValue": "30",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p393\" paragraph-id=\"393\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo30\">30</span>وَ اَلشَّقِيقَةِ‌<span><sup><a class=\"NewFn\" href=\"#footnote111\" title=\"(1)  الشقيقة: وجع يأخذ نصف الرأس و الوجه. انظر القاموس ج 259/3.\">1</a></sup></span> وَ قِيلَ خَمْسَةَ أَكُفٍّ مَاءَ حَارٍّ تَصُبُّهَا عَلَى رَأْسِكَ عِنْدَ دُخُولِ اَلْحَمَّامِ‌. </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p394\" paragraph-id=\"394\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">[t-1-1-69-1]وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ تَرْكِيبَ اَلْحَمَّامِ عَلَى تَرْكِيبِ اَلْجَسَدِ لِلْحَمَّامِ أَرْبَعَةُ أَبْيَاتٍ مِثْلُ أَرْبَعِ طَبَائِعَ اَلْبَيْتُ اَلْأَوَّلُ بَارِدٌ يَابِسٌ وَ اَلثَّانِي بَارِدٌ رَطْبٌ وَ اَلثَّالِثُ حَارٌّ رَطْبٌ وَ اَلرَّابِعُ حَارٌّ يَابِسٌ‌<span><sup><a class=\"NewFn\" href=\"#footnote112\" title=\"(2)  قال الخجندي في التلويح: ص 121 في تقسيم بيوت الحمام: «الفعل الطبيعي للحمام ان يسخن بهوائه، و يرطب بمائه. و العرضي مثل: ان يسخن بمائه البارد، و بهوائه الحار. و البيت الاول: مبرد مجفف، و الثاني مبرد مرطب، و الثالث مسخن مرطب، و الرابع مسخن مجفف.\">2</a></sup></span><span class=\"Link\"></span>وَ مَنْفَعَةُ اَلْحَمَّامِ تُؤَدِّي إِلَى اَلاِعْتِدَالِ وَ يُنَقِّي اَلدَّرَنَ‌<span><sup><a class=\"NewFn\" href=\"#footnote113\" title=\"(3)  في (ج) البدن. و الدرن: هو الوسخ.\">3</a></sup></span>يُلَيِّنُ اَلْعَصَبَ وَ اَلْعُرُوقَ وَ يُقَوِّي اَلْأَعْضَاءَ اَلْكِبَارَ وَ يُذِيبُ اَلْفُضُولَ وَ اَلْعُفُونَاتِ‌<span><sup><a class=\"NewFn\" href=\"#footnote114\" title=\"(4)  قال الدميري في حياة الحيوان 125/2: «اعلم ان الحكماء قد ذكروا ان للحام و النورة منافع و مضار، فمن منافعه: «انه يوسع المسام، و يستفرغ *\">4</a></sup></span></span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p395\" paragraph-id=\"395\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote111\" footnote-id=\"111\">(1) <page number=\"30\" /> الشقيقة: وجع يأخذ نصف الرأس و الوجه. انظر القاموس ج 259/3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote112\" footnote-id=\"112\">(2)  قال الخجندي في التلويح: ص 121 في تقسيم بيوت الحمام: «الفعل الطبيعي للحمام ان يسخن بهوائه، و يرطب بمائه. و العرضي مثل: ان يسخن بمائه البارد، و بهوائه الحار. و البيت الاول: مبرد مجفف، و الثاني مبرد مرطب، و الثالث مسخن مرطب، و الرابع مسخن مجفف.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote113\" footnote-id=\"113\">(3)  في (ج) البدن. و الدرن: هو الوسخ.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote114\" footnote-id=\"114\">(4)  قال الدميري في حياة الحيوان 125/2: «اعلم ان الحكماء قد ذكروا ان للحام و النورة منافع و مضار، فمن منافعه: «انه يوسع المسام، و يستفرغ *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "99A72D60-B5D4-4FEF-B394-B3BC26A6E34E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

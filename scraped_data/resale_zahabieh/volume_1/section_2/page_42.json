@@ -1,0 +1,61 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 42,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892262,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"407\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"42\"/>فِي اَلشَّمْسِ وَ يَتَجَنَّبُ كُلَّ بَارِدٍ فَإِنَّهُ يُذِيبُ اَلْبَلْغَمَ وَ يُحْرِقُهُ وَ مَنْ أَرَادَ أَنْ يُطْفِئَ اَلْمِرَّةَ اَلصَّفْرَاءَ فَلْيَأْكُلْ كُلَّ بَارِدٍ لَيِّنٍ وَ يُرَوِّحُ بَدَنَهُ وَ يُقَلِّلُ اَلاِنْتِصَابَ‌<lfootnote noteId=\"168\">1</lfootnote> وَ يُكْثِرُ اَلنَّظَرَ إِلَى مَنْ يُحِبُّ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"280\" Id=\"1\"/>وَ مَنْ أَرَادَ أَنْ لاَ تُحْرِقَهُ‌<lfootnote noteId=\"169\">2</lfootnote> اَلسَّوْدَاءُ فَعَلَيْهِ بِالْقَيْ‌ءِ وَ فَصْدِ اَلْعُرُوقِ وَ اَلاِطِّلاَءِ بِالنُّورَةِ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"282\" Id=\"1\"/>وَ مَنْ أَرَادَ أَنْ يَذْهَبَ بِالرِّيحِ اَلْبَارِدَةِ فَعَلَيْهِ بِالْحُقْنَةِ [t-1-1-74-1]وَ اَلْأَدْهَانِ اَللَّيِّنَةِ عَلَى اَلْجَسَدِ وَ عَلَيْهِ بِالتَّكْمِيدِ بِالْمَاءِ اَلْحَارِّ فِي اَلْأَبْزَنِ‌<lfootnote noteId=\"170\">3</lfootnote> وَ يَتَجَنَّبُ كُلَّ بَارِدٍ يَابِسٍ وَ يَلْزَمُ كُلَّ حَارٍّ لَيِّنٍ‌<lfootnote noteId=\"171\">4</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"277\" Id=\"1\"/>وَ مَنْ أَرَادَ أَنْ يَذْهَبَ عَنْهُ اَلْبَلْغَمُ فَلْيَتَنَاوَلْ كُلَّ يَوْمٍ مِنَ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892263,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"408\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"43\"/>اَلْإِطْرِيفَلِ‌<lfootnote noteId=\"172\">1</lfootnote> اَلْأَصْغَرِ مِثْقَالاً وَاحِداً<lfootnote noteId=\"173\">2</lfootnote>. </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892685,
+          "text": "<footnote id=\"168\"><page number=\"42\"/><mnote>(1)</mnote> (ب و ج و د): الحركة.</footnote>"
+        },
+        {
+          "footnoteId": 702892686,
+          "text": "<footnote id=\"169\"><mnote>(2)</mnote> في (ب و ج و د): يحرق.</footnote>"
+        },
+        {
+          "footnoteId": 702892687,
+          "text": "<footnote id=\"170\"><mnote>(3)</mnote> الابزن: حوض يغتسل فيه، و قد يتخذ من نحاس. معرب من آب زن. انظر القاموس 201/4.</footnote>"
+        },
+        {
+          "footnoteId": 702892688,
+          "text": "<footnote id=\"171\"><mnote>(4)</mnote> ليس في (ج و د).</footnote>"
+        }
+      ],
+      "pageValue": "42",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p407\" paragraph-id=\"407\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo42\">42</span>فِي اَلشَّمْسِ وَ يَتَجَنَّبُ كُلَّ بَارِدٍ فَإِنَّهُ يُذِيبُ اَلْبَلْغَمَ وَ يُحْرِقُهُ وَ مَنْ أَرَادَ أَنْ يُطْفِئَ اَلْمِرَّةَ اَلصَّفْرَاءَ فَلْيَأْكُلْ كُلَّ بَارِدٍ لَيِّنٍ وَ يُرَوِّحُ بَدَنَهُ وَ يُقَلِّلُ اَلاِنْتِصَابَ‌<span><sup><a class=\"NewFn\" href=\"#footnote168\" title=\"(1)  (ب و ج و د): الحركة.\">1</a></sup></span> وَ يُكْثِرُ اَلنَّظَرَ إِلَى مَنْ يُحِبُّ <span class=\"Link\"></span>وَ مَنْ أَرَادَ أَنْ لاَ تُحْرِقَهُ‌<span><sup><a class=\"NewFn\" href=\"#footnote169\" title=\"(2)  في (ب و ج و د): يحرق.\">2</a></sup></span> اَلسَّوْدَاءُ فَعَلَيْهِ بِالْقَيْ‌ءِ وَ فَصْدِ اَلْعُرُوقِ وَ اَلاِطِّلاَءِ بِالنُّورَةِ <span class=\"Link\"></span>وَ مَنْ أَرَادَ أَنْ يَذْهَبَ بِالرِّيحِ اَلْبَارِدَةِ فَعَلَيْهِ بِالْحُقْنَةِ [t-1-1-74-1]وَ اَلْأَدْهَانِ اَللَّيِّنَةِ عَلَى اَلْجَسَدِ وَ عَلَيْهِ بِالتَّكْمِيدِ بِالْمَاءِ اَلْحَارِّ فِي اَلْأَبْزَنِ‌<span><sup><a class=\"NewFn\" href=\"#footnote170\" title=\"(3)  الابزن: حوض يغتسل فيه، و قد يتخذ من نحاس. معرب من آب زن. انظر القاموس 201/4.\">3</a></sup></span> وَ يَتَجَنَّبُ كُلَّ بَارِدٍ يَابِسٍ وَ يَلْزَمُ كُلَّ حَارٍّ لَيِّنٍ‌<span><sup><a class=\"NewFn\" href=\"#footnote171\" title=\"(4)  ليس في (ج و د).\">4</a></sup></span><span class=\"Link\"></span>وَ مَنْ أَرَادَ أَنْ يَذْهَبَ عَنْهُ اَلْبَلْغَمُ فَلْيَتَنَاوَلْ كُلَّ يَوْمٍ مِنَ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p408\" paragraph-id=\"408\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote168\" footnote-id=\"168\">(1) <page number=\"42\" /> (ب و ج و د): الحركة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote169\" footnote-id=\"169\">(2)  في (ب و ج و د): يحرق.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote170\" footnote-id=\"170\">(3)  الابزن: حوض يغتسل فيه، و قد يتخذ من نحاس. معرب من آب زن. انظر القاموس 201/4.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote171\" footnote-id=\"171\">(4)  ليس في (ج و د).</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "0ACA64AF-A0A7-4559-818D-4E14AAF5D5E5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,134 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 78,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892481,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"626\"><page number=\"78\"/>التلويح في أسرار التنقيح محمد بن عبد اللطيف بن محمد الخجندي مخطوط/مكتبة الامام الحكيم العامة</p>"
+        },
+        {
+          "paragraphId": 702892482,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"627\">الجامح لمفردات الادوية و الاغذية عبد اللّه أحمد ابن البيطار</p>"
+        },
+        {
+          "paragraphId": 702892483,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"628\">مطبعه حسين بيك/القاهرة/ 1291 ه‍</p>"
+        },
+        {
+          "paragraphId": 702892484,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"629\">الحاوي في الطب محمد بن زكريا الرازى</p>"
+        },
+        {
+          "paragraphId": 702892485,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"630\">مطبعة دائرة المعارف العثمانية/حيدرآباد/ 1968 م</p>"
+        },
+        {
+          "paragraphId": 702892486,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"631\">حياة الحيوان الكبرى كمال الدين الدميري</p>"
+        },
+        {
+          "paragraphId": 702892487,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"632\">طبع مصر/بدون تاريخ</p>"
+        },
+        {
+          "paragraphId": 702892488,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"633\">الخصال محمد بن علي بن الحسين بن بابويه القمي مطبعة حيدري/ايران/ 1389</p>"
+        },
+        {
+          "paragraphId": 702892489,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"634\">رجال الشيخ الطوسي محمد بن الحسن الطوسي (شيخ الطائفة) المطبعة الحيدرية/النجف/ 1381 ه‍</p>"
+        },
+        {
+          "paragraphId": 702892490,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"635\">رجال النجاشي أحمد بن علي بن العباس النجاشي مطبعة المصطفوي/ايران</p>"
+        },
+        {
+          "paragraphId": 702892491,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"636\">زاد المعاد في هدى خير العباد محمد بن بكر بن أيوب المعروف (بابن قيم الجوزي)</p>"
+        },
+        {
+          "paragraphId": 702892492,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"637\">المطبعة المصرية/مصر/ 1392 ه‍</p>"
+        },
+        {
+          "paragraphId": 702892493,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"638\">سير اعلام النبلاء محمد بن أحمد بن عثمان الذهبي</p>"
+        },
+        {
+          "paragraphId": 702892494,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"639\">مخطوط مصور/مكتبة الامام الحكيم العامة</p>"
+        },
+        {
+          "paragraphId": 702892495,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"640\">طبقات الاطباء سليمان بن حسان المعروف (بابن جلجل)</p>"
+        },
+        {
+          "paragraphId": 702892496,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"641\">مطبعة المعهد الفرنسي/القاهرة/ 1955 م</p>"
+        },
+        {
+          "paragraphId": 702892497,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"642\"><page number=\"79\"/>عيون أخبار الرضا محمد بن علي بن الحسين بن بابويه القمي مطبعة دار العلم/قم/ 1377 ه‍</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "78",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p626\" paragraph-id=\"626\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo78\">78</span>التلويح في أسرار التنقيح محمد بن عبد اللطيف بن محمد الخجندي مخطوط/مكتبة الامام الحكيم العامة</p>\n  <p id=\"p627\" paragraph-id=\"627\" class=\" G\">الجامح لمفردات الادوية و الاغذية عبد اللّه أحمد ابن البيطار</p>\n  <p id=\"p628\" paragraph-id=\"628\" class=\" G\">مطبعه حسين بيك/القاهرة/ 1291 ه‍</p>\n  <p id=\"p629\" paragraph-id=\"629\" class=\" G\">الحاوي في الطب محمد بن زكريا الرازى</p>\n  <p id=\"p630\" paragraph-id=\"630\" class=\" G\">مطبعة دائرة المعارف العثمانية/حيدرآباد/ 1968 م</p>\n  <p id=\"p631\" paragraph-id=\"631\" class=\" G\">حياة الحيوان الكبرى كمال الدين الدميري</p>\n  <p id=\"p632\" paragraph-id=\"632\" class=\" G\">طبع مصر/بدون تاريخ</p>\n  <p id=\"p633\" paragraph-id=\"633\" class=\" G\">الخصال محمد بن علي بن الحسين بن بابويه القمي مطبعة حيدري/ايران/ 1389</p>\n  <p id=\"p634\" paragraph-id=\"634\" class=\" G\">رجال الشيخ الطوسي محمد بن الحسن الطوسي (شيخ الطائفة) المطبعة الحيدرية/النجف/ 1381 ه‍</p>\n  <p id=\"p635\" paragraph-id=\"635\" class=\" G\">رجال النجاشي أحمد بن علي بن العباس النجاشي مطبعة المصطفوي/ايران</p>\n  <p id=\"p636\" paragraph-id=\"636\" class=\" G\">زاد المعاد في هدى خير العباد محمد بن بكر بن أيوب المعروف (بابن قيم الجوزي)</p>\n  <p id=\"p637\" paragraph-id=\"637\" class=\" G\">المطبعة المصرية/مصر/ 1392 ه‍</p>\n  <p id=\"p638\" paragraph-id=\"638\" class=\" G\">سير اعلام النبلاء محمد بن أحمد بن عثمان الذهبي</p>\n  <p id=\"p639\" paragraph-id=\"639\" class=\" G\">مخطوط مصور/مكتبة الامام الحكيم العامة</p>\n  <p id=\"p640\" paragraph-id=\"640\" class=\" G\">طبقات الاطباء سليمان بن حسان المعروف (بابن جلجل)</p>\n  <p id=\"p641\" paragraph-id=\"641\" class=\" G\">مطبعة المعهد الفرنسي/القاهرة/ 1955 م</p>\n  <p id=\"p642\" paragraph-id=\"642\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "65225D51-719A-42ED-9F89-9716C144CF44",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

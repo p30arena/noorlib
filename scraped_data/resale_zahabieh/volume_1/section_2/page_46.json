@@ -1,0 +1,71 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 46,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892268,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"413\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"46\"/>وَ أَمَّا اَلْمِيَاهُ اَلْمَالِحَةُ اَلثَّقِيلَةُ فَإِنَّهَا تُيَبِّسُ اَلْبَطْنَ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"290\" Id=\"1\"/>وَ مِيَاهُ اَلثُّلُوجِ وَ اَلْجَلِيدِ رَدِيئَةٌ لِلْأَجْسَامِ كَثِيرَةُ اَلْإِضْرَارِ بِهَا <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"291\" Id=\"1\"/>وَ أَمَّا مِيَاهُ اَلْجُبِّ فَإِنَّهَا خَفِيفَةٌ عَذْبَةٌ صَافِيَةٌ نَافِعَةٌ جِدّاً لِلْأَجْسَامِ إِذَا لَمْ يَطُلْ خَزْنُهَا وَ حَبْسُهَا فِي اَلْأَرْضِ وَ أَمَّا مِيَاهُ اَلْبَطَائِحِ‌<lfootnote noteId=\"186\">1</lfootnote> وَ اَلسِّبَاخِ‌<lfootnote noteId=\"187\">2</lfootnote> فَحَارَّةٌ غَلِيظَةٌ فِي <format class=\"Z\">اَلصَّيْفِ </format>[t-1-1-77-1]لِرُكُودِهَا وَ دَوَامِ طُلُوعِ اَلشَّمْسِ عَلَيْهَا وَ قَدْ تُوَلِّدُ لِمَنْ دَاوَمَ عَلَى شُرْبِهَا اَلْمِرَّةَ اَلصَّفْرَاءَ وَ تُعَظِّمُ أَطْحِلَتَهُمْ‌<lfootnote noteId=\"188\">3</lfootnote>. </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892269,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"414\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\">وَ قَدْ وَصَفْتُ لَكَ يَا أَمِيرَ اَلْمُؤْمِنِينَ فِيمَا بَعْدُ<lfootnote noteId=\"189\">4</lfootnote> مِنْ كِتَابِي هَذَا مَا فِيهِ كِفَايَةٌ لِمَنْ أَخَذَ بِهِ وَ أَنَا ذَاكِرٌ مِنْ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892270,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"415\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"47\"/>أَمْرِ<lfootnote noteId=\"190\">1</lfootnote> اَلْجِمَاعِ مَا هُوَ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"184\" Id=\"1\"/>صَلاَحُ اَلْجَسَدِ وَ قِوَامُهُ بِالطَّعَامِ وَ اَلشَّرَابِ وَ فَسَادُهُ بِهِمَا <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"185\" Id=\"1\"/>فَإِنْ أَصْلَحْتَهُ بِهِمَا صَلَحَ وَ إِنْ أَفْسَدْتَهُ بِهِمَا فَسَدَ<lfootnote noteId=\"191\">2</lfootnote>. </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892702,
+          "text": "<footnote id=\"185\"><mnote>(3)</mnote> قال الخجندي في التلويح: «و أفضل المياه مياه العيون الجارية *<page number=\"46\"/>* على الاراضي الطينية المنحدرة من مواضع عالية، لا سيما الغمرة المكشوفة التي تبعد منابعها، و يخف وزنها، و يجري نحو المشرق الصيفي و الشمال.</footnote>"
+        },
+        {
+          "footnoteId": 702892703,
+          "text": "<footnote id=\"186\"><mnote>(1)</mnote> البطائح: جمع بطحاء. مسيل واسع فيه دقاق الحصى. القاموس 216/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892704,
+          "text": "<footnote id=\"187\"><mnote>(2)</mnote> السباخ: جمع سبخه. أي الارض ذات الملح و النز. القاموس 261/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892705,
+          "text": "<footnote id=\"188\"><mnote>(3)</mnote> انظر القانون 363/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892706,
+          "text": "<footnote id=\"189\"><mnote>(4)</mnote> في (ب و ج و د). تقدم.</footnote>"
+        }
+      ],
+      "pageValue": "46",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p413\" paragraph-id=\"413\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo46\">46</span>وَ أَمَّا اَلْمِيَاهُ اَلْمَالِحَةُ اَلثَّقِيلَةُ فَإِنَّهَا تُيَبِّسُ اَلْبَطْنَ <span class=\"Link\"></span>وَ مِيَاهُ اَلثُّلُوجِ وَ اَلْجَلِيدِ رَدِيئَةٌ لِلْأَجْسَامِ كَثِيرَةُ اَلْإِضْرَارِ بِهَا <span class=\"Link\"></span>وَ أَمَّا مِيَاهُ اَلْجُبِّ فَإِنَّهَا خَفِيفَةٌ عَذْبَةٌ صَافِيَةٌ نَافِعَةٌ جِدّاً لِلْأَجْسَامِ إِذَا لَمْ يَطُلْ خَزْنُهَا وَ حَبْسُهَا فِي اَلْأَرْضِ وَ أَمَّا مِيَاهُ اَلْبَطَائِحِ‌<span><sup><a class=\"NewFn\" href=\"#footnote186\" title=\"(1)  البطائح: جمع بطحاء. مسيل واسع فيه دقاق الحصى. القاموس 216/1.\">1</a></sup></span> وَ اَلسِّبَاخِ‌<span><sup><a class=\"NewFn\" href=\"#footnote187\" title=\"(2)  السباخ: جمع سبخه. أي الارض ذات الملح و النز. القاموس 261/1.\">2</a></sup></span> فَحَارَّةٌ غَلِيظَةٌ فِي <span class=\"Z\">اَلصَّيْفِ </span>[t-1-1-77-1]لِرُكُودِهَا وَ دَوَامِ طُلُوعِ اَلشَّمْسِ عَلَيْهَا وَ قَدْ تُوَلِّدُ لِمَنْ دَاوَمَ عَلَى شُرْبِهَا اَلْمِرَّةَ اَلصَّفْرَاءَ وَ تُعَظِّمُ أَطْحِلَتَهُمْ‌<span><sup><a class=\"NewFn\" href=\"#footnote188\" title=\"(3)  انظر القانون 363/1.\">3</a></sup></span>. </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p414\" paragraph-id=\"414\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">وَ قَدْ وَصَفْتُ لَكَ يَا أَمِيرَ اَلْمُؤْمِنِينَ فِيمَا بَعْدُ<span><sup><a class=\"NewFn\" href=\"#footnote189\" title=\"(4)  في (ب و ج و د). تقدم.\">4</a></sup></span> مِنْ كِتَابِي هَذَا مَا فِيهِ كِفَايَةٌ لِمَنْ أَخَذَ بِهِ وَ أَنَا ذَاكِرٌ مِنْ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p415\" paragraph-id=\"415\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote185\" footnote-id=\"185\"><page number=\"46\" />* على الاراضي الطينية المنحدرة من مواضع عالية، لا سيما الغمرة المكشوفة التي تبعد منابعها، و يخف وزنها، و يجري نحو المشرق الصيفي و الشمال.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote186\" footnote-id=\"186\">(1)  البطائح: جمع بطحاء. مسيل واسع فيه دقاق الحصى. القاموس 216/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote187\" footnote-id=\"187\">(2)  السباخ: جمع سبخه. أي الارض ذات الملح و النز. القاموس 261/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote188\" footnote-id=\"188\">(3)  انظر القانون 363/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote189\" footnote-id=\"189\">(4)  في (ب و ج و د). تقدم.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "4616333B-1EA1-4E2E-9960-27215344EB0B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

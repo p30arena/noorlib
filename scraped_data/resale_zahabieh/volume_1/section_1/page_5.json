@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 5,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892129,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"274\"><img src=\"BK01492G001S1P1\" alt=\"\" imgtype=\"Scan\"/><page number=\"2\"/><img src=\"BK01492G001S1P2\" alt=\"\" imgtype=\"Scan\"/><page number=\"3\"/><img src=\"BK01492G001S1P3\" alt=\"\" imgtype=\"Scan\"/><page number=\"4\"/><page number=\"5\"/><heading level=\"1\"><format class=\"BeginIntroduction\" type=\"2\"/> تقديم</heading></p>"
+        },
+        {
+          "paragraphId": 702892130,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"275\"><format class=\"BeginPreface\"/><format class=\"a\">- بسم اللّه الرّحمن الرّحيم</format></p>"
+        },
+        {
+          "paragraphId": 702892131,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"276\"><heading level=\"2\"><format class=\"H\">[في مدح الإمام علي بن موسى الرضا عليه السلام]</format></heading></p>"
+        },
+        {
+          "paragraphId": 702892132,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"277\">لما كان المتعارف عند تحقيق المخطوط التعريف بالمؤلف و الكتاب تعريفا يتناسب و حجم المخطوط كما و كيفا، ليكون تقديما بين يدي القاريء الكريم، فحري بنا أن تكون مقدمتنا هذه مختصرة.</p>"
+        },
+        {
+          "paragraphId": 702892133,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"278\">ما ذا أقول، و ما عسى الكاتب أن يكتب، و البيان أن يحيط في تعريف ولي من أولياء اللّه، و وصي من أوصيائه، و امام من أئمته في أرضه، سليل النبوة، و معدن الرسالة، و ينبوع العلم، ثامن الائمة، الامام الرضا علي بن الامام الكاظم موسى بن الامام الصادق جعفر بن الامام الباقر محمد بن الامام السجاد زين العابدين علي بن الامام الشهيد بكربلاء الحسين بن الامام علي بن أبي طالب عليهم أفضل الصلاة و السلام.</p>"
+        },
+        {
+          "paragraphId": 702892134,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"279\"><page number=\"6\"/>هيهات هيهات، ضلت العقول، و تاهت الاحلام، و حارت الالباب، و حصرت الخطباء، و كلت الشعراء، و عجزت الادباء، و عييت البلغاء، في وصف شأنه، و أقرت بالعجز و التقصير. فذكره قبس من نور اللّه يهدي المستنير به نحو السبيل الاقوم، و قدسية لا تضارعها قدسية، و عصمة متوارثة: امام بعد امام.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "5",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p274\" paragraph-id=\"274\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo5\">5</span>\n    <strong style=\"0\" class=\"h-1 01\">\n      <span class=\"BeginIntroduction\"></span> تقديم</strong>\n  </p>\n  <p id=\"p275\" paragraph-id=\"275\" class=\" G\">\n    <span class=\"BeginPreface\"></span>\n    <span class=\"a\">- بسم اللّه الرّحمن الرّحيم</span>\n  </p>\n  <p id=\"p276\" paragraph-id=\"276\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"H\">[في مدح الإمام علي بن موسى الرضا عليه السلام]</span>\n    </strong>\n  </p>\n  <p id=\"p277\" paragraph-id=\"277\" class=\" G\">لما كان المتعارف عند تحقيق المخطوط التعريف بالمؤلف و الكتاب تعريفا يتناسب و حجم المخطوط كما و كيفا، ليكون تقديما بين يدي القاريء الكريم، فحري بنا أن تكون مقدمتنا هذه مختصرة.</p>\n  <p id=\"p278\" paragraph-id=\"278\" class=\" G\">ما ذا أقول، و ما عسى الكاتب أن يكتب، و البيان أن يحيط في تعريف ولي من أولياء اللّه، و وصي من أوصيائه، و امام من أئمته في أرضه، سليل النبوة، و معدن الرسالة، و ينبوع العلم، ثامن الائمة، الامام الرضا علي بن الامام الكاظم موسى بن الامام الصادق جعفر بن الامام الباقر محمد بن الامام السجاد زين العابدين علي بن الامام الشهيد بكربلاء الحسين بن الامام علي بن أبي طالب عليهم أفضل الصلاة و السلام.</p>\n  <p id=\"p279\" paragraph-id=\"279\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "AB7BF771-AA81-4FD8-BBA2-1D178B0F6F5A",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

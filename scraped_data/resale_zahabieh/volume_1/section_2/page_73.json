@@ -1,0 +1,314 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 73,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892365,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"510\"><page number=\"73\"/>العصفر 33</p>"
+        },
+        {
+          "paragraphId": 702892366,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"511\">العفص 50</p>"
+        },
+        {
+          "paragraphId": 702892367,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"512\">العنب 35، 21</p>"
+        },
+        {
+          "paragraphId": 702892368,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"513\">العنبر 18</p>"
+        },
+        {
+          "paragraphId": 702892369,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"514\">العود 24</p>"
+        },
+        {
+          "paragraphId": 702892370,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"515\">الفاكهة اليابسة 21</p>"
+        },
+        {
+          "paragraphId": 702892371,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"516\">القاقيا 31</p>"
+        },
+        {
+          "paragraphId": 702892372,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"517\">القثاء 20، 18</p>"
+        },
+        {
+          "paragraphId": 702892373,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"518\">القرنفل 23</p>"
+        },
+        {
+          "paragraphId": 702892374,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"519\">قرن الايل 50</p>"
+        },
+        {
+          "paragraphId": 702892375,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"520\">القريص 43</p>"
+        },
+        {
+          "paragraphId": 702892376,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"521\">القز 59</p>"
+        },
+        {
+          "paragraphId": 702892377,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"522\">الكافور 62</p>"
+        },
+        {
+          "paragraphId": 702892378,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"523\">الكراث 20</p>"
+        },
+        {
+          "paragraphId": 702892379,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"524\">الكرفس 20</p>"
+        },
+        {
+          "paragraphId": 702892380,
+          "paragNumber": 16,
+          "tocNumber": 0,
+          "text": "<p id=\"525\">الكزمازج 50</p>"
+        },
+        {
+          "paragraphId": 702892381,
+          "paragNumber": 17,
+          "tocNumber": 0,
+          "text": "<p id=\"526\">اللبن 63، 21</p>"
+        },
+        {
+          "paragraphId": 702892382,
+          "paragNumber": 18,
+          "tocNumber": 0,
+          "text": "<p id=\"527\">اللبن الرائب 19</p>"
+        },
+        {
+          "paragraphId": 702892383,
+          "paragNumber": 19,
+          "tocNumber": 0,
+          "text": "<p id=\"528\">لحم البقر 19، 17</p>"
+        },
+        {
+          "paragraphId": 702892384,
+          "paragNumber": 20,
+          "tocNumber": 0,
+          "text": "<p id=\"529\">لحم الطيور 21</p>"
+        },
+        {
+          "paragraphId": 702892385,
+          "paragNumber": 21,
+          "tocNumber": 0,
+          "text": "<p id=\"530\">لحم العجل 43</p>"
+        },
+        {
+          "paragraphId": 702892386,
+          "paragNumber": 22,
+          "tocNumber": 0,
+          "text": "<p id=\"531\">اللحم المملوح 64</p>"
+        },
+        {
+          "paragraphId": 702892387,
+          "paragNumber": 23,
+          "tocNumber": 0,
+          "text": "<p id=\"532\">ماء الحصرم 43</p>"
+        },
+        {
+          "paragraphId": 702892388,
+          "paragNumber": 24,
+          "tocNumber": 0,
+          "text": "<p id=\"533\">ماء الورد 62، 61، 34</p>"
+        },
+        {
+          "paragraphId": 702892389,
+          "paragNumber": 25,
+          "tocNumber": 0,
+          "text": "<p id=\"534\">المرزنجوش 32</p>"
+        },
+        {
+          "paragraphId": 702892390,
+          "paragNumber": 26,
+          "tocNumber": 0,
+          "text": "<p id=\"535\">المرعزي 59</p>"
+        },
+        {
+          "paragraphId": 702892391,
+          "paragNumber": 27,
+          "tocNumber": 0,
+          "text": "<p id=\"536\">المسك 61، 18</p>"
+        },
+        {
+          "paragraphId": 702892392,
+          "paragNumber": 28,
+          "tocNumber": 0,
+          "text": "<p id=\"537\">المصطكي 24</p>"
+        },
+        {
+          "paragraphId": 702892393,
+          "paragNumber": 29,
+          "tocNumber": 0,
+          "text": "<p id=\"538\">المصوص 62</p>"
+        },
+        {
+          "paragraphId": 702892394,
+          "paragNumber": 30,
+          "tocNumber": 0,
+          "text": "<p id=\"539\">المعز الثني 19</p>"
+        },
+        {
+          "paragraphId": 702892395,
+          "paragNumber": 31,
+          "tocNumber": 0,
+          "text": "<p id=\"540\">الملح 61</p>"
+        },
+        {
+          "paragraphId": 702892396,
+          "paragNumber": 32,
+          "tocNumber": 0,
+          "text": "<p id=\"541\">ملح اندراني 52، 51</p>"
+        },
+        {
+          "paragraphId": 702892397,
+          "paragNumber": 33,
+          "tocNumber": 0,
+          "text": "<p id=\"542\">المنهاج 61</p>"
+        },
+        {
+          "paragraphId": 702892398,
+          "paragNumber": 34,
+          "tocNumber": 0,
+          "text": "<p id=\"543\">الموميائي 66</p>"
+        },
+        {
+          "paragraphId": 702892399,
+          "paragNumber": 35,
+          "tocNumber": 0,
+          "text": "<p id=\"544\">النبيذ 63</p>"
+        },
+        {
+          "paragraphId": 702892400,
+          "paragNumber": 36,
+          "tocNumber": 0,
+          "text": "<p id=\"545\">النرجس 38</p>"
+        },
+        {
+          "paragraphId": 702892401,
+          "paragNumber": 37,
+          "tocNumber": 0,
+          "text": "<p id=\"546\">النعناع 20</p>"
+        },
+        {
+          "paragraphId": 702892402,
+          "paragNumber": 38,
+          "tocNumber": 0,
+          "text": "<p id=\"547\">النّور 19</p>"
+        },
+        {
+          "paragraphId": 702892403,
+          "paragNumber": 39,
+          "tocNumber": 0,
+          "text": "<p id=\"548\">النورة 35، 34، 33، 31</p>"
+        },
+        {
+          "paragraphId": 702892404,
+          "paragNumber": 40,
+          "tocNumber": 0,
+          "text": "<p id=\"549\">الورد 50، 33</p>"
+        },
+        {
+          "paragraphId": 702892405,
+          "paragNumber": 41,
+          "tocNumber": 0,
+          "text": "<p id=\"550\">ورد البنفسج 33</p>"
+        },
+        {
+          "paragraphId": 702892406,
+          "paragNumber": 42,
+          "tocNumber": 0,
+          "text": "<p id=\"551\">ورق الخوخ 33</p>"
+        },
+        {
+          "paragraphId": 702892407,
+          "paragNumber": 43,
+          "tocNumber": 0,
+          "text": "<p id=\"552\">الهلام 62، 43</p>"
+        },
+        {
+          "paragraphId": 702892408,
+          "paragNumber": 44,
+          "tocNumber": 0,
+          "text": "<p id=\"553\">الهليلج 36</p>"
+        },
+        {
+          "paragraphId": 702892409,
+          "paragNumber": 45,
+          "tocNumber": 0,
+          "text": "<p id=\"554\">الهندباء 39، 24، 18</p>"
+        },
+        {
+          "paragraphId": 702892410,
+          "paragNumber": 46,
+          "tocNumber": 0,
+          "text": "<p id=\"555\">اليحامير 62<format class=\"EndIntroduction\" type=\"9\"/></p>"
+        },
+        {
+          "paragraphId": 702892411,
+          "paragNumber": 47,
+          "tocNumber": 0,
+          "text": "<p id=\"556\"><page number=\"74\"/><page number=\"75\"/><heading level=\"2\"><format class=\"BeginIntroduction\" type=\"12\"/>فهرس الأمراض و العلل </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "73",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p510\" paragraph-id=\"510\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo73\">73</span>العصفر 33</p>\n  <p id=\"p511\" paragraph-id=\"511\" class=\" G\">العفص 50</p>\n  <p id=\"p512\" paragraph-id=\"512\" class=\" G\">العنب 35، 21</p>\n  <p id=\"p513\" paragraph-id=\"513\" class=\" G\">العنبر 18</p>\n  <p id=\"p514\" paragraph-id=\"514\" class=\" G\">العود 24</p>\n  <p id=\"p515\" paragraph-id=\"515\" class=\" G\">الفاكهة اليابسة 21</p>\n  <p id=\"p516\" paragraph-id=\"516\" class=\" G\">القاقيا 31</p>\n  <p id=\"p517\" paragraph-id=\"517\" class=\" G\">القثاء 20، 18</p>\n  <p id=\"p518\" paragraph-id=\"518\" class=\" G\">القرنفل 23</p>\n  <p id=\"p519\" paragraph-id=\"519\" class=\" G\">قرن الايل 50</p>\n  <p id=\"p520\" paragraph-id=\"520\" class=\" G\">القريص 43</p>\n  <p id=\"p521\" paragraph-id=\"521\" class=\" G\">القز 59</p>\n  <p id=\"p522\" paragraph-id=\"522\" class=\" G\">الكافور 62</p>\n  <p id=\"p523\" paragraph-id=\"523\" class=\" G\">الكراث 20</p>\n  <p id=\"p524\" paragraph-id=\"524\" class=\" G\">الكرفس 20</p>\n  <p id=\"p525\" paragraph-id=\"525\" class=\" G\">الكزمازج 50</p>\n  <p id=\"p526\" paragraph-id=\"526\" class=\" G\">اللبن 63، 21</p>\n  <p id=\"p527\" paragraph-id=\"527\" class=\" G\">اللبن الرائب 19</p>\n  <p id=\"p528\" paragraph-id=\"528\" class=\" G\">لحم البقر 19، 17</p>\n  <p id=\"p529\" paragraph-id=\"529\" class=\" G\">لحم الطيور 21</p>\n  <p id=\"p530\" paragraph-id=\"530\" class=\" G\">لحم العجل 43</p>\n  <p id=\"p531\" paragraph-id=\"531\" class=\" G\">اللحم المملوح 64</p>\n  <p id=\"p532\" paragraph-id=\"532\" class=\" G\">ماء الحصرم 43</p>\n  <p id=\"p533\" paragraph-id=\"533\" class=\" G\">ماء الورد 62، 61، 34</p>\n  <p id=\"p534\" paragraph-id=\"534\" class=\" G\">المرزنجوش 32</p>\n  <p id=\"p535\" paragraph-id=\"535\" class=\" G\">المرعزي 59</p>\n  <p id=\"p536\" paragraph-id=\"536\" class=\" G\">المسك 61، 18</p>\n  <p id=\"p537\" paragraph-id=\"537\" class=\" G\">المصطكي 24</p>\n  <p id=\"p538\" paragraph-id=\"538\" class=\" G\">المصوص 62</p>\n  <p id=\"p539\" paragraph-id=\"539\" class=\" G\">المعز الثني 19</p>\n  <p id=\"p540\" paragraph-id=\"540\" class=\" G\">الملح 61</p>\n  <p id=\"p541\" paragraph-id=\"541\" class=\" G\">ملح اندراني 52، 51</p>\n  <p id=\"p542\" paragraph-id=\"542\" class=\" G\">المنهاج 61</p>\n  <p id=\"p543\" paragraph-id=\"543\" class=\" G\">الموميائي 66</p>\n  <p id=\"p544\" paragraph-id=\"544\" class=\" G\">النبيذ 63</p>\n  <p id=\"p545\" paragraph-id=\"545\" class=\" G\">النرجس 38</p>\n  <p id=\"p546\" paragraph-id=\"546\" class=\" G\">النعناع 20</p>\n  <p id=\"p547\" paragraph-id=\"547\" class=\" G\">النّور 19</p>\n  <p id=\"p548\" paragraph-id=\"548\" class=\" G\">النورة 35، 34، 33، 31</p>\n  <p id=\"p549\" paragraph-id=\"549\" class=\" G\">الورد 50، 33</p>\n  <p id=\"p550\" paragraph-id=\"550\" class=\" G\">ورد البنفسج 33</p>\n  <p id=\"p551\" paragraph-id=\"551\" class=\" G\">ورق الخوخ 33</p>\n  <p id=\"p552\" paragraph-id=\"552\" class=\" G\">الهلام 62، 43</p>\n  <p id=\"p553\" paragraph-id=\"553\" class=\" G\">الهليلج 36</p>\n  <p id=\"p554\" paragraph-id=\"554\" class=\" G\">الهندباء 39، 24، 18</p>\n  <p id=\"p555\" paragraph-id=\"555\" class=\" G\">اليحامير 62<span class=\"EndIntroduction\"></span></p>\n  <p id=\"p556\" paragraph-id=\"556\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "B021B322-C5D2-491F-BC37-F28476EE5D56",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

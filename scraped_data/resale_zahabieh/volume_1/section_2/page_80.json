@@ -1,0 +1,50 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 80,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892515,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"660\"><page number=\"80\"/>المغني في الطب عبد اللّه بن أحمد ابن البيطار مخطوط/مكتبة الامام الحكيم العامة</p>"
+        },
+        {
+          "paragraphId": 702892516,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"661\">وسائل الشيعة محمد بن الحسن الحر العاملي</p>"
+        },
+        {
+          "paragraphId": 702892517,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"662\">المطبعة العلمية/قم/ 1377 ه‍<format class=\"EndIntroduction\" type=\"12\"/><format class=\"EndPreface\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "80",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p660\" paragraph-id=\"660\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo80\">80</span>المغني في الطب عبد اللّه بن أحمد ابن البيطار مخطوط/مكتبة الامام الحكيم العامة</p>\n  <p id=\"p661\" paragraph-id=\"661\" class=\" G\">وسائل الشيعة محمد بن الحسن الحر العاملي</p>\n  <p id=\"p662\" paragraph-id=\"662\" class=\" G\">المطبعة العلمية/قم/ 1377 ه‍<span class=\"EndIntroduction\"></span><span class=\"EndPreface\"></span></p>\n  <span />\n  <span />\n</div>",
+      "bookPageVisitLogId": "234EED02-0CE9-4B27-8F1C-BB44A946A347",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

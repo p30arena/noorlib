@@ -1,0 +1,61 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 53,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892279,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"424\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"53\"/>وَ غَلَبَتُهَا وَ هُوَ أَقْوَمُ مَا يَكُونُ وَ أَيْقَظُهُ وَ أَلْعَبُهُ فَلاَ يَزَالُ كَذَلِكَ حَتَّى يَسْتَوْفِيَ خَمْساً وَ ثَلاَثِينَ سَنَةً <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"210\" Id=\"1\"/>[t-1-1-61-4]ثُمَّ يَدْخُلُ فِي<lfootnote noteId=\"214\">1</lfootnote> اَلْحَالَةِ اَلثَّالِثَةِ وَ هِيَ مِنْ خَمْسٍ وَ ثَلاَثِينَ سَنَةً إِلَى أَنْ يَسْتَوْفِيَ سِتِّينَ سَنَةً فَيَكُونُ فِي سُلْطَانِ اَلْمِرَّةِ‌<lfootnote noteId=\"215\">2</lfootnote> اَلسَّوْدَاءِ وَ يَكُونُ أَحْكَمَ مَا يَكُونُ وَ أَقْوَلَهُ وَ أَدْرَاهُ وَ أَكْتَمَهُ لِلسِّرِّ وَ أَحْسَنَهُ نَظَراً فِي اَلْأُمُورِ وَ فِكْراً فِي عَوَاقِبِهَا وَ مُدَارَاةً لَهَا وَ تَصَرُّفاً فِيهَا<lfootnote noteId=\"216\">3</lfootnote>[t-1-1-62-1]<format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"212\" Id=\"1\"/>ثُمَّ يَدْخُلُ فِي اَلْحَالَةِ اَلرَّابِعَةِ وَ هِيَ سُلْطَانُ اَلْبَلْغَمِ وَ هِيَ اَلْحَالَةُ اَلَّتِي لاَ يَتَحَوَّلُ مِنْهَا مَا بَقِيَ وَ قَدْ دَخَلَ فِي اَلْهَرَمِ حِينَئِذٍ وَ فَاتَهُ اَلشَّبَابُ وَ اِسْتَنْكَرَ كُلَّ شَيْ‌ءٍ كَانَ يَعْرِفُهُ مِنْ نَفْسِهِ حَتَّى صَارَ<lfootnote noteId=\"217\">4</lfootnote> يَنَامُ عِنْدَ اَلْقَوْمِ وَ يَسْهَرُ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892280,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"425\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"54\"/>عِنْدَ اَلنَّوْمِ وَ يَذْكُرُ مَا تَقَدَّمَ وَ يَنْسَى مَا تَحَدَّثَ بِهِ وَ يُكْثِرُ مِنْ حَدِيثِ اَلنَّفْسِ وَ يَذْهَبُ مَاءُ اَلْجِسْمِ وَ بَهَاؤُهُ وَ يَقِلُّ نَبَاتُ أَظْفَارِهِ وَ شَعْرِهِ وَ لاَ يَزَالُ جِسْمُهُ فِي إِدْبَارٍ وَ اِنْعِكَاسٍ مَا عَاشَ لِأَنَّهُ فِي سُلْطَانِ اَلْبَلْغَمِ وَ هُوَ بَارِدٌ جَامِدٌ فَلِجُمُودِهِ وَ رُطُوبَتِهِ فِي طِبَاعِهِ يَكُونُ فَنَاءُ جِسْمِهِ‌<lfootnote noteId=\"218\">1</lfootnote>. </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892731,
+          "text": "<footnote id=\"214\"><page number=\"53\"/><mnote>(1)</mnote> زيادة من (ج و د).</footnote>"
+        },
+        {
+          "footnoteId": 702892732,
+          "text": "<footnote id=\"215\"><mnote>(2)</mnote> زيادة من (ب و ج و د).</footnote>"
+        },
+        {
+          "footnoteId": 702892733,
+          "text": "<footnote id=\"216\"><mnote>(3)</mnote> فى (ب و ج و د) و هو سن الحكمة و الموعظة و المعرفة و الدراية و انتظام الامور، وصحة النظر في العواقب، و صدق الرأي، و ثبات الجأش في التصرفات.</footnote>"
+        },
+        {
+          "footnoteId": 702892734,
+          "text": "<footnote id=\"217\"><mnote>(4)</mnote> في (ب و ج و د): الى الهرم و نكد عيش و ذبول و نقص في القوة *<page number=\"54\"/>* و فساد في كونه و نكهته حتى ان كل شىء كان لا يعرفه، حتى ينام».</footnote>"
+        }
+      ],
+      "pageValue": "53",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p424\" paragraph-id=\"424\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo53\">53</span>وَ غَلَبَتُهَا وَ هُوَ أَقْوَمُ مَا يَكُونُ وَ أَيْقَظُهُ وَ أَلْعَبُهُ فَلاَ يَزَالُ كَذَلِكَ حَتَّى يَسْتَوْفِيَ خَمْساً وَ ثَلاَثِينَ سَنَةً <span class=\"Link\"></span>[t-1-1-61-4]ثُمَّ يَدْخُلُ فِي<span><sup><a class=\"NewFn\" href=\"#footnote214\" title=\"(1)  زيادة من (ج و د).\">1</a></sup></span> اَلْحَالَةِ اَلثَّالِثَةِ وَ هِيَ مِنْ خَمْسٍ وَ ثَلاَثِينَ سَنَةً إِلَى أَنْ يَسْتَوْفِيَ سِتِّينَ سَنَةً فَيَكُونُ فِي سُلْطَانِ اَلْمِرَّةِ‌<span><sup><a class=\"NewFn\" href=\"#footnote215\" title=\"(2)  زيادة من (ب و ج و د).\">2</a></sup></span> اَلسَّوْدَاءِ وَ يَكُونُ أَحْكَمَ مَا يَكُونُ وَ أَقْوَلَهُ وَ أَدْرَاهُ وَ أَكْتَمَهُ لِلسِّرِّ وَ أَحْسَنَهُ نَظَراً فِي اَلْأُمُورِ وَ فِكْراً فِي عَوَاقِبِهَا وَ مُدَارَاةً لَهَا وَ تَصَرُّفاً فِيهَا<span><sup><a class=\"NewFn\" href=\"#footnote216\" title=\"(3)  فى (ب و ج و د) و هو سن الحكمة و الموعظة و المعرفة و الدراية و انتظام الامور، وصحة النظر في العواقب، و صدق الرأي، و ثبات الجأش في التصرفات.\">3</a></sup></span>[t-1-1-62-1]<span class=\"Link\"></span>ثُمَّ يَدْخُلُ فِي اَلْحَالَةِ اَلرَّابِعَةِ وَ هِيَ سُلْطَانُ اَلْبَلْغَمِ وَ هِيَ اَلْحَالَةُ اَلَّتِي لاَ يَتَحَوَّلُ مِنْهَا مَا بَقِيَ وَ قَدْ دَخَلَ فِي اَلْهَرَمِ حِينَئِذٍ وَ فَاتَهُ اَلشَّبَابُ وَ اِسْتَنْكَرَ كُلَّ شَيْ‌ءٍ كَانَ يَعْرِفُهُ مِنْ نَفْسِهِ حَتَّى صَارَ<span><sup><a class=\"NewFn\" href=\"#footnote217\" title=\"(4)  في (ب و ج و د): الى الهرم و نكد عيش و ذبول و نقص في القوة *\">4</a></sup></span> يَنَامُ عِنْدَ اَلْقَوْمِ وَ يَسْهَرُ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p425\" paragraph-id=\"425\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote214\" footnote-id=\"214\">(1) <page number=\"53\" /> زيادة من (ج و د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote215\" footnote-id=\"215\">(2)  زيادة من (ب و ج و د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote216\" footnote-id=\"216\">(3)  فى (ب و ج و د) و هو سن الحكمة و الموعظة و المعرفة و الدراية و انتظام الامور، وصحة النظر في العواقب، و صدق الرأي، و ثبات الجأش في التصرفات.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote217\" footnote-id=\"217\">(4)  في (ب و ج و د): الى الهرم و نكد عيش و ذبول و نقص في القوة *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "A38EDACC-9D73-458E-B8CB-49D2B7992E35",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

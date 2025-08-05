@@ -1,0 +1,65 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 62,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892290,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"435\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"62\"/>مِنْ حِجَامَتِكَ وَ أَمَّا فِي <format class=\"Z\">اَلصَّيْفِ </format><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"231\" Id=\"1\"/>فَإِذَا اِحْتَجَمْتَ فَكُلِ اَلسِّكْبَاجَ‌<lfootnote noteId=\"247\">1</lfootnote> وَ اَلْهَلاَمَ وَ اَلْمَصُوصَ‌<lfootnote noteId=\"248\">2</lfootnote> وَ اَلْخَامِيرَ<lfootnote noteId=\"249\">3</lfootnote> [t-1-1-67-1]وَ صُبَّ عَلَى هَامَتِكَ دُهْنَ اَلْبَنَفْسَجِ وَ مَاءَ وَرْدٍ وَ شَيْئاً مِنْ كَافُورٍ<lfootnote noteId=\"250\">4</lfootnote> وَ اِشْرَبْ مِنْ ذَلِكَ اَلشَّرَابِ اَلَّذِي وَصَفْتُهُ لَكَ بَعْدَ طَعَامِكَ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"232\" Id=\"1\"/>وَ إِيَّاكَ وَ كَثْرَةَ اَلْحَرَكَةِ وَ اَلْغَضَبِ وَ مُجَامَعَةَ اَلنِّسَاءِ يَوْمَكَ ذَاكَ‌<lfootnote noteId=\"251\">5</lfootnote></format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892291,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"436\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"63\"/><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"233\" Id=\"1\"/>وَ يَنْبَغِي أَنْ تَحْذَرَ أَمِيرَ اَلْمُؤْمِنِينَ أَنْ تَجْمَعَ فِي جَوْفِكَ اَلْبَيْضَ وَ اَلسَّمَكَ فِي حَالٍ وَاحِدَةٍ فَإِنَّهُمَا إِذَا اِجْتَمَعَا وَلَدَا اَلْقُولَنْجَ‌<lfootnote noteId=\"252\">1</lfootnote> وَ رِيَاحَ اَلْبَوَاسِيرِ وَ وَجَعَ اَلْأَضْرَاسِ وَ اَلتِّينُ‌<lfootnote noteId=\"253\">2</lfootnote> وَ اَلنَّبِيذُ اَلَّذِي يَشْرَبُهُ أَهْلُهُ إِذَا اِجْتَمَعَا وَلَّدَا اَلنِّقْرِسَ وَ اَلْبَرَصَ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"234\" Id=\"1\"/>وَ إِدَامَةُ أَكْلِ اَلْبَصَلِ‌<lfootnote noteId=\"254\">3</lfootnote> يُوَلِّدُ اَلْكَلَفَ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892764,
+          "text": "<footnote id=\"247\"><page number=\"62\"/><mnote>(1)</mnote> السكباج: فارسية: مرق يعمل من اللحم و الخل.</footnote>"
+        },
+        {
+          "footnoteId": 702892765,
+          "text": "<footnote id=\"248\"><mnote>(2)</mnote> المصوص: طعام من لحم يطبخ و ينقع في الخل، أو يكون من لحم الطير خاصة. انظر القاموس 318/2.</footnote>"
+        },
+        {
+          "footnoteId": 702892766,
+          "text": "<footnote id=\"249\"><mnote>(3)</mnote> كذا في الاصل. و لم أعثر على معناها، و لعلها تحريف «اليحامير»: و هو اللحم الذي يأكلونه بالخل و الخردل و الابزار. أنظر وسائل الشيعة 374/16 و في (ب و ج و د) الحامض.</footnote>"
+        },
+        {
+          "footnoteId": 702892767,
+          "text": "<footnote id=\"250\"><mnote>(4)</mnote> قال الشيخ الرئيس في القانون 336/1: «الكافور أصناف، و قال بعضهم ان شجرته كبيرة تظل خلقا، و تألفه البابورة فلا يوصل اليها الا في مدة معلومة من السنة، و هي سفحية بحرية أما خشبه فهو أبيض هش خفيف جدا، و ربما احتنق في خلله شىء من أثر الكافور.</footnote>"
+        },
+        {
+          "footnoteId": 702892768,
+          "text": "<footnote id=\"251\"><mnote>(5)</mnote> انظر القانون 204/1-212.</footnote>"
+        }
+      ],
+      "pageValue": "62",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p435\" paragraph-id=\"435\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo62\">62</span>مِنْ حِجَامَتِكَ وَ أَمَّا فِي <span class=\"Z\">اَلصَّيْفِ </span><span class=\"Link\"></span>فَإِذَا اِحْتَجَمْتَ فَكُلِ اَلسِّكْبَاجَ‌<span><sup><a class=\"NewFn\" href=\"#footnote247\" title=\"(1)  السكباج: فارسية: مرق يعمل من اللحم و الخل.\">1</a></sup></span> وَ اَلْهَلاَمَ وَ اَلْمَصُوصَ‌<span><sup><a class=\"NewFn\" href=\"#footnote248\" title=\"(2)  المصوص: طعام من لحم يطبخ و ينقع في الخل، أو يكون من لحم الطير خاصة. انظر القاموس 318/2.\">2</a></sup></span> وَ اَلْخَامِيرَ<span><sup><a class=\"NewFn\" href=\"#footnote249\" title=\"(3)  كذا في الاصل. و لم أعثر على معناها، و لعلها تحريف «اليحامير»: و هو اللحم الذي يأكلونه بالخل و الخردل و الابزار. أنظر وسائل الشيعة 374/16 و في (ب و ج و د) الحامض.\">3</a></sup></span> [t-1-1-67-1]وَ صُبَّ عَلَى هَامَتِكَ دُهْنَ اَلْبَنَفْسَجِ وَ مَاءَ وَرْدٍ وَ شَيْئاً مِنْ كَافُورٍ<span><sup><a class=\"NewFn\" href=\"#footnote250\" title=\"(4)  قال الشيخ الرئيس في القانون 336/1: «الكافور أصناف، و قال بعضهم ان شجرته كبيرة تظل خلقا، و تألفه البابورة فلا يوصل اليها الا في مدة معلومة من السنة، و هي سفحية بحرية أما خشبه فهو أبيض هش خفيف جدا، و ربما احتنق في خلله شىء من أثر الكافور.\">4</a></sup></span> وَ اِشْرَبْ مِنْ ذَلِكَ اَلشَّرَابِ اَلَّذِي وَصَفْتُهُ لَكَ بَعْدَ طَعَامِكَ <span class=\"Link\"></span>وَ إِيَّاكَ وَ كَثْرَةَ اَلْحَرَكَةِ وَ اَلْغَضَبِ وَ مُجَامَعَةَ اَلنِّسَاءِ يَوْمَكَ ذَاكَ‌<span><sup><a class=\"NewFn\" href=\"#footnote251\" title=\"(5)  انظر القانون 204/1-212.\">5</a></sup></span></span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p436\" paragraph-id=\"436\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote247\" footnote-id=\"247\">(1) <page number=\"62\" /> السكباج: فارسية: مرق يعمل من اللحم و الخل.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote248\" footnote-id=\"248\">(2)  المصوص: طعام من لحم يطبخ و ينقع في الخل، أو يكون من لحم الطير خاصة. انظر القاموس 318/2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote249\" footnote-id=\"249\">(3)  كذا في الاصل. و لم أعثر على معناها، و لعلها تحريف «اليحامير»: و هو اللحم الذي يأكلونه بالخل و الخردل و الابزار. أنظر وسائل الشيعة 374/16 و في (ب و ج و د) الحامض.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote250\" footnote-id=\"250\">(4)  قال الشيخ الرئيس في القانون 336/1: «الكافور أصناف، و قال بعضهم ان شجرته كبيرة تظل خلقا، و تألفه البابورة فلا يوصل اليها الا في مدة معلومة من السنة، و هي سفحية بحرية أما خشبه فهو أبيض هش خفيف جدا، و ربما احتنق في خلله شىء من أثر الكافور.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote251\" footnote-id=\"251\">(5)  انظر القانون 204/1-212.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "116E3AA3-93F9-449B-8069-61BE2AA66A85",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

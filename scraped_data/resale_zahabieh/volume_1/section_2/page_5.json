@@ -1,0 +1,61 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 5,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892224,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"369\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\"><page number=\"5\"/>مُوسَى اَلرِّضَا صَلَوَاتُ اَللَّهِ عَلَيْهِ‌</format></format> خَاصّاً بِهِ مُلاَزِماً لِخِدْمَتِهِ وَ كَانَ مَعَهُ حِينَ حُمِلَ مِنَ <format class=\"t\">اَلْمَدِينَةِ‌</format> إِلَى <format class=\"d\">اَلْمَأْمُونِ </format><lfootnote noteId=\"16\">1</lfootnote>إِلَى <format class=\"t\">خُرَاسَانَ‌</format><lfootnote noteId=\"17\">2</lfootnote> وَ اُسْتُشْهِدَ عَلَيْهِ السَّلاَمُ <format class=\"t\">بِطُوسَ‌</format><lfootnote noteId=\"18\">3</lfootnote> وَ هُوَ اِبْنُ تِسْعٍ وَ أَرْبَعِينَ سَنَةً قَالَ‌: كَانَ <format class=\"d\">اَلْمَأْمُونُ </format><format class=\"t\">بِنَيْسَابُورَ</format><lfootnote noteId=\"19\">4</lfootnote> وَ فِي مَجْلِسِهِ سَيِّدِي <format class=\"maasoom\" maasoomNo=\"8\">أَبُو اَلْحَسَنِ اَلرِّضَا عَلَيْهِ السَّلاَمُ‌</format> وَ جَمَاعَةٌ مِنَ اَلْفَلاَسِفَةِ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892225,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"370\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"6\"/>وَ اَلْمُتَطَبِّبِينَ مِثْلُ <format class=\"d\">يُوحَنَّا بْنِ مَاسَوَيْهِ‌</format><lfootnote noteId=\"20\">1</lfootnote> وَ <format class=\"d\">جَبْرَائِيلُ بْنُ بَخْتِيشُوعَ‌</format><lfootnote noteId=\"21\">2</lfootnote> وَ <format class=\"d\">صَالِحُ بْنُ بهلمة اَلْهِنْدِيُّ‌</format><lfootnote noteId=\"22\">3</lfootnote> وَ غَيْرُهُمْ مِنْ مُتَحَلِّي اَلْعُلُومِ وَ ذَوِي اَلْبَحْثِ وَ اَلنَّظَرِ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892533,
+          "text": "<footnote id=\"16\"><page number=\"5\"/><mnote>(1)</mnote> في (ب) أن سار.</footnote>"
+        },
+        {
+          "footnoteId": 702892534,
+          "text": "<footnote id=\"17\"><mnote>(2)</mnote> خراسان: بلاد واسعة أول حدودها ممايلي العراق أراد ورد قصبة جوين و بهيق، و آخر حدودها ممايلي الهند طخارستان و غزنة و سجستان. أنظر مراصد الاطلاع 455/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892535,
+          "text": "<footnote id=\"18\"><mnote>(3)</mnote> طوس: بالضم، مدينة بينها و بين نيسابور عشرة فراسخ، تشتمل على بلدتين يقال لاحداهما الطابران، و الاخرى نوقان، و بهما أكثر من ألف قرية، و بها قبر الامام علي بن موسى الرضا عليه السلام و هارون الرشيد. أنظر المصدر السابق 897/2.</footnote>"
+        },
+        {
+          "footnoteId": 702892536,
+          "text": "<footnote id=\"19\"><mnote>(4)</mnote> نيسابور: بفتح اوله و تسمى نشاو ور ايضا. مدينة عظيمة ذات فضائل جسيمة خرج منها جماعة من العلماء، و بينها و بين مرو الشاهجان ثلاثون فرسخا. انظر المصدر السابق 1411/3.</footnote>"
+        }
+      ],
+      "pageValue": "5",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p369\" paragraph-id=\"369\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"Y\">\n              <span class=\"maasoom\">\n                <span class=\"GPA0 bookPage PageNo5\">5</span>مُوسَى اَلرِّضَا صَلَوَاتُ اَللَّهِ عَلَيْهِ‌</span>\n            </span> خَاصّاً بِهِ مُلاَزِماً لِخِدْمَتِهِ وَ كَانَ مَعَهُ حِينَ حُمِلَ مِنَ <span class=\"t\">اَلْمَدِينَةِ‌</span> إِلَى <span class=\"d\">اَلْمَأْمُونِ </span><span><sup><a class=\"NewFn\" href=\"#footnote16\" title=\"(1)  في (ب) أن سار.\">1</a></sup></span>إِلَى <span class=\"t\">خُرَاسَانَ‌</span><span><sup><a class=\"NewFn\" href=\"#footnote17\" title=\"(2)  خراسان: بلاد واسعة أول حدودها ممايلي العراق أراد ورد قصبة جوين و بهيق، و آخر حدودها ممايلي الهند طخارستان و غزنة و سجستان. أنظر مراصد الاطلاع 455/1.\">2</a></sup></span> وَ اُسْتُشْهِدَ عَلَيْهِ السَّلاَمُ <span class=\"t\">بِطُوسَ‌</span><span><sup><a class=\"NewFn\" href=\"#footnote18\" title=\"(3)  طوس: بالضم، مدينة بينها و بين نيسابور عشرة فراسخ، تشتمل على بلدتين يقال لاحداهما الطابران، و الاخرى نوقان، و بهما أكثر من ألف قرية، و بها قبر الامام علي بن موسى الرضا عليه السلام و هارون الرشيد. أنظر المصدر السابق 897/2.\">3</a></sup></span> وَ هُوَ اِبْنُ تِسْعٍ وَ أَرْبَعِينَ سَنَةً قَالَ‌: كَانَ <span class=\"d\">اَلْمَأْمُونُ </span><span class=\"t\">بِنَيْسَابُورَ</span><span><sup><a class=\"NewFn\" href=\"#footnote19\" title=\"(4)  نيسابور: بفتح اوله و تسمى نشاو ور ايضا. مدينة عظيمة ذات فضائل جسيمة خرج منها جماعة من العلماء، و بينها و بين مرو الشاهجان ثلاثون فرسخا. انظر المصدر السابق 1411/3.\">4</a></sup></span> وَ فِي مَجْلِسِهِ سَيِّدِي <span class=\"maasoom\">أَبُو اَلْحَسَنِ اَلرِّضَا عَلَيْهِ السَّلاَمُ‌</span> وَ جَمَاعَةٌ مِنَ اَلْفَلاَسِفَةِ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p370\" paragraph-id=\"370\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote16\" footnote-id=\"16\">(1) <page number=\"5\" /> في (ب) أن سار.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote17\" footnote-id=\"17\">(2)  خراسان: بلاد واسعة أول حدودها ممايلي العراق أراد ورد قصبة جوين و بهيق، و آخر حدودها ممايلي الهند طخارستان و غزنة و سجستان. أنظر مراصد الاطلاع 455/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote18\" footnote-id=\"18\">(3)  طوس: بالضم، مدينة بينها و بين نيسابور عشرة فراسخ، تشتمل على بلدتين يقال لاحداهما الطابران، و الاخرى نوقان، و بهما أكثر من ألف قرية، و بها قبر الامام علي بن موسى الرضا عليه السلام و هارون الرشيد. أنظر المصدر السابق 897/2.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote19\" footnote-id=\"19\">(4)  نيسابور: بفتح اوله و تسمى نشاو ور ايضا. مدينة عظيمة ذات فضائل جسيمة خرج منها جماعة من العلماء، و بينها و بين مرو الشاهجان ثلاثون فرسخا. انظر المصدر السابق 1411/3.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "E08690A0-610C-44C8-9FF6-7C76E995D7A0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

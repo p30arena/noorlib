@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 18,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892239,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"384\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"18\"/><page number=\"19\"/><page number=\"20\"/><page number=\"21\"/>[t-1-1-56-1]صِفَةُ اَلشَّرَابِ <lfootnote noteId=\"74\">_1</lfootnote>يُؤْخَذُ مِنَ اَلزَّبِيبِ‌<lfootnote noteId=\"75\">_2</lfootnote> اَلْمُنَقَّى عَشَرَةُ أَرْطَالٍ فَيُغْسَلُ وَ يُنْقَعُ فِي مَاءٍ صافي <format class=\"z\">[صَافٍ‌]</format> غَمْرُهُ وَ زِيَادَةً عَلَيْهِ أَرْبَعَةُ أَصَابِعَ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": [
+        {
+          "taliqehId": 702892786,
+          "text": "<footnote id=\"269\"><page number=\"18\"/><mnote/>و اللبن. و ينفع فيه دخول الحمام أول النهار، و يكره فيه الرياضة قبل الغذاء.<br/>[t-1-1-52-1]حزيران ثلاثون يوما<lfootnote noteId=\"58\">1</lfootnote>. يذهب فيه سلطان البلغم و الدم، و يقبل زمان المرة الصفراوية و نهي فيه عن التعب، و أكل اللحم دسما، و الاكثار منه، و شم المسك<lfootnote noteId=\"59\">2</lfootnote> و العنبر<lfootnote noteId=\"60\">3</lfootnote> و فيه ينفع أكل البقول الباردة، كالهندباء<lfootnote noteId=\"61\">4</lfootnote> و بقلة الحمقاء<lfootnote noteId=\"62\">5</lfootnote>، و أكل الخضر. كالخيار، و القثاء و الشيرخشت<lfootnote noteId=\"63\">6</lfootnote> و الفاكهة الرطبة و استعمال</footnote>"
+        }
+      ],
+      "footnoteList": [
+        {
+          "footnoteId": 702892575,
+          "text": "<footnote id=\"58\"><page number=\"18\"/><mnote>(1)</mnote> ما بين القوسين ليس فى (ج).</footnote>"
+        },
+        {
+          "footnoteId": 702892576,
+          "text": "<footnote id=\"59\"><mnote>(2)</mnote> المسك: قال الشيخ الرئيس فى القانون 360/1: سرة دابة كالضبى أو هو بعينه، له نابان أيضان معقفان الى الانسى كقرنين.</footnote>"
+        },
+        {
+          "footnoteId": 702892577,
+          "text": "<footnote id=\"60\"><mnote>(3)</mnote> العنبر: قال الشيخ الرئيس: «فيما يظن: نبع عين فى البحر، و الذى يقال أنه زيد البحر، أو دوث دابة بعيد. أنظر المصدر السابق 398.</footnote>"
+        },
+        {
+          "footnoteId": 702892578,
+          "text": "<footnote id=\"61\"><mnote>(4)</mnote> الهندباء: هو صنفان برى و بستانى، فالبرى أعرض ورقا من البستانى، و أجود للمعدة منه، و البستانى منه صنفان أحدهما قريب الشبه من الخس عريض الورق و الاخر أدق ورقا منه، و فى طعمه مرارة. أنظر الجامع المفردات الادوية و الاغذية 198/4.</footnote>"
+        },
+        {
+          "footnoteId": 702892579,
+          "text": "<footnote id=\"62\"><mnote>(5)</mnote> قال ابن البيطار فى المصدر السابق ص 102: و هى البقلة المباركة و البقلة اللينة و العرفج و العرفجين أيضا و هى الرجلة. و فيه عن جالينوس: هذه البقلة باردة مائية المزاج و فيها قبض يسير. و قال الانطاكى فى تذكرته 8/1: و سميت حمقاء لخروجها فى الطرق بنفسها و هى نبات طرى فى غلظ الاصابع فتطول دون ذراع و تمتد على الارض و تزهر جملة الى البياض و تخلف بزرا صغيرا و تدرك فى الربيع و الصيف و هى باردة رطبة.</footnote>"
+        },
+        {
+          "footnoteId": 702892580,
+          "text": "<footnote id=\"63\"><mnote>(6)</mnote> قال ابن البيطار فى المصدر السابق ص 75: شير خشك هو طل يقع من *<page number=\"19\"/>* السماء ببلاد العجم على شجر الخلاف بهراة و هو حلو الى الاعتدال، و فيه عن التميمى هو أفضل أصناف المن و أكثرها نفعا لمحرورى الامزجة.</footnote>"
+        }
+      ],
+      "pageValue": "18",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p384\" paragraph-id=\"384\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo18\">18</span>\n          </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"talighehLine\" />\n  <span>\n    <div class=\"taligheh OriginalDigit\" id=\"taligheh269\" taligheh-id=\"269\"><page number=\"18\" />و اللبن. و ينفع فيه دخول الحمام أول النهار، و يكره فيه الرياضة قبل الغذاء.<br />[t-1-1-52-1]حزيران ثلاثون يوما<ltaligheh noteId=\"58\">1</ltaligheh>. يذهب فيه سلطان البلغم و الدم، و يقبل زمان المرة الصفراوية و نهي فيه عن التعب، و أكل اللحم دسما، و الاكثار منه، و شم المسك<ltaligheh noteId=\"59\">2</ltaligheh> و العنبر<ltaligheh noteId=\"60\">3</ltaligheh> و فيه ينفع أكل البقول الباردة، كالهندباء<ltaligheh noteId=\"61\">4</ltaligheh> و بقلة الحمقاء<ltaligheh noteId=\"62\">5</ltaligheh>، و أكل الخضر. كالخيار، و القثاء و الشيرخشت<ltaligheh noteId=\"63\">6</ltaligheh> و الفاكهة الرطبة و استعمال</div>\n  </span>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote58\" footnote-id=\"58\">(1) <page number=\"18\" /> ما بين القوسين ليس فى (ج).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote59\" footnote-id=\"59\">(2)  المسك: قال الشيخ الرئيس فى القانون 360/1: سرة دابة كالضبى أو هو بعينه، له نابان أيضان معقفان الى الانسى كقرنين.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote60\" footnote-id=\"60\">(3)  العنبر: قال الشيخ الرئيس: «فيما يظن: نبع عين فى البحر، و الذى يقال أنه زيد البحر، أو دوث دابة بعيد. أنظر المصدر السابق 398.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote61\" footnote-id=\"61\">(4)  الهندباء: هو صنفان برى و بستانى، فالبرى أعرض ورقا من البستانى، و أجود للمعدة منه، و البستانى منه صنفان أحدهما قريب الشبه من الخس عريض الورق و الاخر أدق ورقا منه، و فى طعمه مرارة. أنظر الجامع المفردات الادوية و الاغذية 198/4.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote62\" footnote-id=\"62\">(5)  قال ابن البيطار فى المصدر السابق ص 102: و هى البقلة المباركة و البقلة اللينة و العرفج و العرفجين أيضا و هى الرجلة. و فيه عن جالينوس: هذه البقلة باردة مائية المزاج و فيها قبض يسير. و قال الانطاكى فى تذكرته 8/1: و سميت حمقاء لخروجها فى الطرق بنفسها و هى نبات طرى فى غلظ الاصابع فتطول دون ذراع و تمتد على الارض و تزهر جملة الى البياض و تخلف بزرا صغيرا و تدرك فى الربيع و الصيف و هى باردة رطبة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote63\" footnote-id=\"63\">(6)  قال ابن البيطار فى المصدر السابق ص 75: شير خشك هو طل يقع من *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "8F44F759-E7BB-4453-95FD-76C3DC60365F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

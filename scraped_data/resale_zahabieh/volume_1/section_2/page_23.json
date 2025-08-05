@@ -1,0 +1,69 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 23,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892241,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"386\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"23\"/>وَ يُؤْخَذُ مِقْدَارَ اَلْمَاءِ <format class=\"Z\">مِقْدَارَهُ‌</format> وَ مِقْدَارَهُ مِنَ اَلْقِدْرِ<lfootnote noteId=\"79\">1</lfootnote> وَ يُغْلَى حَتَّى يَذْهَبَ قَدْرُ اَلْعَسَلِ وَ يَعُودَ إِلَى حَدِّهِ وَ يُؤْخَذُ صَفِيقَةٌ‌<lfootnote noteId=\"80\">2</lfootnote> فَتُجْعَلُ فِيهَا مِنَ اَلزَّنْجَبِيلِ‌<lfootnote noteId=\"81\">3</lfootnote> وَزْنُ دِرْهَمٍ‌<lfootnote noteId=\"82\">4</lfootnote> وَ مِنَ اَلْقَرَنْفُلِ‌<lfootnote noteId=\"83\">5</lfootnote> وَزْنُ دِرْهَمٍ وَ مِنَ اَلدَّارَصِينِيِّ‌<lfootnote noteId=\"84\">6</lfootnote></format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892242,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"387\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"24\"/>وَزْنُ نِصْفِ دِرْهَمٍ‌<lfootnote noteId=\"85\">1</lfootnote> وَ مِنَ اَلزَّعْفَرَانِ‌<lfootnote noteId=\"86\">2</lfootnote> وَزْنُ دِرْهَمٍ وَ مِنَ اَلسُّنْبُلِ‌<lfootnote noteId=\"87\">3</lfootnote> وَزْنُ نِصْفِ دِرْهَمٍ وَ مِنَ اَلْعُودِ<lfootnote noteId=\"88\">4</lfootnote> اَلنِّيِّ‌<lfootnote noteId=\"89\">5</lfootnote>وَزْنُ نِصْفِ دِرْهَمٍ‌<lfootnote noteId=\"90\">6</lfootnote> وَ مِنَ اَلْمُصْطَكَى<lfootnote noteId=\"91\">7</lfootnote> وَزْنُ نِصْفِ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892596,
+          "text": "<footnote id=\"79\"><page number=\"23\"/><mnote>(1)</mnote> في (ب و ج و د): مقداره و مقدار الماء الى أين كان في القدر.</footnote>"
+        },
+        {
+          "footnoteId": 702892597,
+          "text": "<footnote id=\"80\"><mnote>(2)</mnote> الصفيقة: القماش الكثيف النسج. و في نسخة (د) خرقة ضعيفة.</footnote>"
+        },
+        {
+          "footnoteId": 702892598,
+          "text": "<footnote id=\"81\"><mnote>(3)</mnote> الزنجبيل: قال الشيخ الرئيس ابن سينا في القانون ج 302/1: «قال ديسقوريدوس: الزنجبيل أصوله صغار مثل اصول السعد. لونها الى البياض، و طعمها شبيه بطعم الفلفل، طيبب الرائحة.</footnote>"
+        },
+        {
+          "footnoteId": 702892599,
+          "text": "<footnote id=\"82\"><mnote>(4)</mnote> الدرهم: هو ما يساوي (2/5) غراما تقريبا.</footnote>"
+        },
+        {
+          "footnoteId": 702892600,
+          "text": "<footnote id=\"83\"><mnote>(5)</mnote> القرنفل: قال الشيخ الرئيس في القانون ج 416/1: «نبات في حد الصين، و الفرنفل ثمرة ذلك النبات، و هو يشبه الياسمين لكنه أسود. و ذكره كثوى الزيتون، و أطول و أشد سوادا».</footnote>"
+        },
+        {
+          "footnoteId": 702892601,
+          "text": "<footnote id=\"84\"><mnote>(6)</mnote> الدارصيني: قال الشيح الرئيس في المصدر السابق ص/ 288: «هو اصناف كثيرة لها أسماء عند الاماكن التي تكون فيها. فمنه صنف جيد مائل الى السواد، ما هو جبلى غليظ. و صنف أبيض رخو منتفخ، منفرك الاصل، أسود ملس، قليل العقد، و منه صنف رائحته كالسليحة مائل الى الحضرة، و قشره كقشرتها الحمراء. و هو مما تبقى قوته زمانا، و خصوصا ان دق و قرص بشراب.</footnote>"
+        }
+      ],
+      "pageValue": "23",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p386\" paragraph-id=\"386\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo23\">23</span>وَ يُؤْخَذُ مِقْدَارَ اَلْمَاءِ <span class=\"Z\">مِقْدَارَهُ‌</span> وَ مِقْدَارَهُ مِنَ اَلْقِدْرِ<span><sup><a class=\"NewFn\" href=\"#footnote79\" title=\"(1)  في (ب و ج و د): مقداره و مقدار الماء الى أين كان في القدر.\">1</a></sup></span> وَ يُغْلَى حَتَّى يَذْهَبَ قَدْرُ اَلْعَسَلِ وَ يَعُودَ إِلَى حَدِّهِ وَ يُؤْخَذُ صَفِيقَةٌ‌<span><sup><a class=\"NewFn\" href=\"#footnote80\" title=\"(2)  الصفيقة: القماش الكثيف النسج. و في نسخة (د) خرقة ضعيفة.\">2</a></sup></span> فَتُجْعَلُ فِيهَا مِنَ اَلزَّنْجَبِيلِ‌<span><sup><a class=\"NewFn\" href=\"#footnote81\" title=\"(3)  الزنجبيل: قال الشيخ الرئيس ابن سينا في القانون ج 302/1: «قال ديسقوريدوس: الزنجبيل أصوله صغار مثل اصول السعد. لونها الى البياض، و طعمها شبيه بطعم الفلفل، طيبب الرائحة.\">3</a></sup></span> وَزْنُ دِرْهَمٍ‌<span><sup><a class=\"NewFn\" href=\"#footnote82\" title=\"(4)  الدرهم: هو ما يساوي (2/5) غراما تقريبا.\">4</a></sup></span> وَ مِنَ اَلْقَرَنْفُلِ‌<span><sup><a class=\"NewFn\" href=\"#footnote83\" title=\"(5)  القرنفل: قال الشيخ الرئيس في القانون ج 416/1: «نبات في حد الصين، و الفرنفل ثمرة ذلك النبات، و هو يشبه الياسمين لكنه أسود. و ذكره كثوى الزيتون، و أطول و أشد سوادا».\">5</a></sup></span> وَزْنُ دِرْهَمٍ وَ مِنَ اَلدَّارَصِينِيِّ‌<span><sup><a class=\"NewFn\" href=\"#footnote84\" title=\"(6)  الدارصيني: قال الشيح الرئيس في المصدر السابق ص/ 288: «هو اصناف كثيرة لها أسماء عند الاماكن التي تكون فيها. فمنه صنف جيد مائل الى السواد، ما هو جبلى غليظ. و صنف أبيض رخو منتفخ، منفرك الاصل، أسود ملس، قليل العقد، و منه صنف رائحته كالسليحة مائل الى الحضرة، و قشره كقشرتها الحمراء. و هو مما تبقى قوته زمانا، و خصوصا ان دق و قرص بشراب.\">6</a></sup></span></span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p387\" paragraph-id=\"387\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote79\" footnote-id=\"79\">(1) <page number=\"23\" /> في (ب و ج و د): مقداره و مقدار الماء الى أين كان في القدر.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote80\" footnote-id=\"80\">(2)  الصفيقة: القماش الكثيف النسج. و في نسخة (د) خرقة ضعيفة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote81\" footnote-id=\"81\">(3)  الزنجبيل: قال الشيخ الرئيس ابن سينا في القانون ج 302/1: «قال ديسقوريدوس: الزنجبيل أصوله صغار مثل اصول السعد. لونها الى البياض، و طعمها شبيه بطعم الفلفل، طيبب الرائحة.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote82\" footnote-id=\"82\">(4)  الدرهم: هو ما يساوي (2/5) غراما تقريبا.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote83\" footnote-id=\"83\">(5)  القرنفل: قال الشيخ الرئيس في القانون ج 416/1: «نبات في حد الصين، و الفرنفل ثمرة ذلك النبات، و هو يشبه الياسمين لكنه أسود. و ذكره كثوى الزيتون، و أطول و أشد سوادا».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote84\" footnote-id=\"84\">(6)  الدارصيني: قال الشيح الرئيس في المصدر السابق ص/ 288: «هو اصناف كثيرة لها أسماء عند الاماكن التي تكون فيها. فمنه صنف جيد مائل الى السواد، ما هو جبلى غليظ. و صنف أبيض رخو منتفخ، منفرك الاصل، أسود ملس، قليل العقد، و منه صنف رائحته كالسليحة مائل الى الحضرة، و قشره كقشرتها الحمراء. و هو مما تبقى قوته زمانا، و خصوصا ان دق و قرص بشراب.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "3E42D002-CB2C-4814-B1CA-CA9B5E2CECDB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

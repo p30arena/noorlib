@@ -1,0 +1,65 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 36,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892255,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"400\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"36\"/>بِسَمْنِ بَقَرٍ وَ يَدَّهِنْ أُنْثَيَيْهِ بِزِئْبَقٍ خَالِصٍ‌<lfootnote noteId=\"136\">1</lfootnote>وَ مَنْ أَرَادَ أَنْ يَزِيدَ فِي حِفْظِهِ فَلْيَأْكُلْ سَبْعَ مَثَاقِيلَ زَبِيباً بِالْغَدَاةِ عَلَى اَلرِّيقِ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"261\" Id=\"1\"/>وَ مَنْ أَرَادَ أَنْ يَقِلَّ نِسْيَانُهُ وَ يَكُونَ حَافِظاً فَلْيَأْكُلْ في كُلِّ يَوْمٍ ثَلاَثَ قِطَعِ زَنْجَبِيلٍ‌<lfootnote noteId=\"137\">2</lfootnote> مُرَبًّى بِالْعَسَلِ وَ يَصْطَنِعْ بِالْخَرْدَلِ‌<lfootnote noteId=\"138\">3</lfootnote> مَعَ طَعَامِهِ فِي كُلِّ يَوْمٍ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"263\" Id=\"1\"/>وَ مَنْ أَرَادَ أَنْ يَزِيدَ فِي عَقْلِهِ فَلاَ يَخْرُجْ كُلَّ يَوْمٍ حَتَّى يَلُوكَ عَلَى اَلرِّيقِ ثَلاَثَ هَلِيلَجَاتٍ‌<lfootnote noteId=\"139\">4</lfootnote> سُودٍ مَعَ سُكَّرِ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892256,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"401\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"37\"/>طَبَرْزَدٍ<lfootnote noteId=\"140\">1</lfootnote>[t-1-1-71-2]وَ مَنْ أَرَادَ أَنْ لاَ تَشَقَّقَ أَظْفَارُهُ وَ لاَ تَفْسُدَ<lfootnote noteId=\"141\">2</lfootnote> فَلاَ يُقَلِّمْ أَظْفَارَهُ إِلاَّ <format class=\"Z\">يَوْمَ اَلْخَمِيسِ </format>وَ مَنْ أَرَادَ أَنْ لاَ يَشْتَكِيَ أُذُنَهُ فَلْيَجْعَلْ فِيهَا عِنْدَ اَلنَّوْمِ قُطْنَةً <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"264\" Id=\"1\"/>وَ مَنْ أَرَادَ دَفْعَ اَلزُّكَامِ فِي <format class=\"Z\">اَلشِّتَاءِ‌</format> أَجْمَعَ فَلْيَأْكُلْ كُلَّ يَوْمٍ ثَلاَثَ لُقَمِ شَهْدٍ<lfootnote noteId=\"142\">3</lfootnote>. </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892652,
+          "text": "<footnote id=\"135\"><mnote>(2)</mnote> الهيرون: البري من التمر. أنظر كتاب الالفاظ الفارسية المعربة ص 159 و نقل الزبيدي في تاج العروس 367/9 عن القتيبي قوله: الهيرون كزيتون ضرب *<page number=\"36\"/>* من التمر جيد. و في (ب) برني، و في (ج و د) يربى.</footnote>"
+        },
+        {
+          "footnoteId": 702892653,
+          "text": "<footnote id=\"136\"><mnote>(1)</mnote> قال الانطاكي: الزثيق بارد رطب يذهب الحكة و الجرب و القروح التي في خارج البدن. انظر تذكرة اولى الالباب 184/1.</footnote>"
+        },
+        {
+          "footnoteId": 702892654,
+          "text": "<footnote id=\"137\"><mnote>(2)</mnote> قال الشيخ الرئيس في القانون 302/1: «انه يزيد في الحفظ».</footnote>"
+        },
+        {
+          "footnoteId": 702892655,
+          "text": "<footnote id=\"138\"><mnote>(3)</mnote> قال الشيخ الرئيس في القانون 454/1: «الخردل. بقلة معروفة، و من خواصها: ان شرب على الريق ذكى الفهم». و قال قسطس: «ان من شرب من بزر الخردل بشراب على الريق ذكى فؤاد آكله» انظر الجامع لمفردات الادوية و الاغذية 22/3.</footnote>"
+        },
+        {
+          "footnoteId": 702892656,
+          "text": "<footnote id=\"139\"><mnote>(4)</mnote> الهليلج: قال ديسقوريدوس: «معروف: و هو أصناف كثيرة، منه الاصفر الفج، و منه الاسود الهندي، و البالغ النضج و هو أسمن. و منه كابلي و هو أكبر الجميع، و منه صيني و هو دقيق خفيف». و قال الشيخ الرئيس ابن *<page number=\"37\"/>* سينا في خواص الكابلي انه ينفع الحواس و الحفظ، انظر القانون 298/1. و قال الرازي في الحاوي 637/21 و يقوى الحواس يزيد في الحفظ و الذهن.</footnote>"
+        }
+      ],
+      "pageValue": "36",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p400\" paragraph-id=\"400\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo36\">36</span>بِسَمْنِ بَقَرٍ وَ يَدَّهِنْ أُنْثَيَيْهِ بِزِئْبَقٍ خَالِصٍ‌<span><sup><a class=\"NewFn\" href=\"#footnote136\" title=\"(1)  قال الانطاكي: الزثيق بارد رطب يذهب الحكة و الجرب و القروح التي في خارج البدن. انظر تذكرة اولى الالباب 184/1.\">1</a></sup></span>وَ مَنْ أَرَادَ أَنْ يَزِيدَ فِي حِفْظِهِ فَلْيَأْكُلْ سَبْعَ مَثَاقِيلَ زَبِيباً بِالْغَدَاةِ عَلَى اَلرِّيقِ <span class=\"Link\"></span>وَ مَنْ أَرَادَ أَنْ يَقِلَّ نِسْيَانُهُ وَ يَكُونَ حَافِظاً فَلْيَأْكُلْ في كُلِّ يَوْمٍ ثَلاَثَ قِطَعِ زَنْجَبِيلٍ‌<span><sup><a class=\"NewFn\" href=\"#footnote137\" title=\"(2)  قال الشيخ الرئيس في القانون 302/1: «انه يزيد في الحفظ».\">2</a></sup></span> مُرَبًّى بِالْعَسَلِ وَ يَصْطَنِعْ بِالْخَرْدَلِ‌<span><sup><a class=\"NewFn\" href=\"#footnote138\" title=\"(3)  قال الشيخ الرئيس في القانون 454/1: «الخردل. بقلة معروفة، و من خواصها: ان شرب على الريق ذكى الفهم». و قال قسطس: «ان من شرب من بزر الخردل بشراب على الريق ذكى فؤاد آكله» انظر الجامع لمفردات الادوية و الاغذية 22/3.\">3</a></sup></span> مَعَ طَعَامِهِ فِي كُلِّ يَوْمٍ <span class=\"Link\"></span>وَ مَنْ أَرَادَ أَنْ يَزِيدَ فِي عَقْلِهِ فَلاَ يَخْرُجْ كُلَّ يَوْمٍ حَتَّى يَلُوكَ عَلَى اَلرِّيقِ ثَلاَثَ هَلِيلَجَاتٍ‌<span><sup><a class=\"NewFn\" href=\"#footnote139\" title=\"(4)  الهليلج: قال ديسقوريدوس: «معروف: و هو أصناف كثيرة، منه الاصفر الفج، و منه الاسود الهندي، و البالغ النضج و هو أسمن. و منه كابلي و هو أكبر الجميع، و منه صيني و هو دقيق خفيف». و قال الشيخ الرئيس ابن *\">4</a></sup></span> سُودٍ مَعَ سُكَّرِ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p401\" paragraph-id=\"401\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote135\" footnote-id=\"135\"><page number=\"36\" />* من التمر جيد. و في (ب) برني، و في (ج و د) يربى.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote136\" footnote-id=\"136\">(1)  قال الانطاكي: الزثيق بارد رطب يذهب الحكة و الجرب و القروح التي في خارج البدن. انظر تذكرة اولى الالباب 184/1.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote137\" footnote-id=\"137\">(2)  قال الشيخ الرئيس في القانون 302/1: «انه يزيد في الحفظ».</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote138\" footnote-id=\"138\">(3)  قال الشيخ الرئيس في القانون 454/1: «الخردل. بقلة معروفة، و من خواصها: ان شرب على الريق ذكى الفهم». و قال قسطس: «ان من شرب من بزر الخردل بشراب على الريق ذكى فؤاد آكله» انظر الجامع لمفردات الادوية و الاغذية 22/3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote139\" footnote-id=\"139\">(4)  الهليلج: قال ديسقوريدوس: «معروف: و هو أصناف كثيرة، منه الاصفر الفج، و منه الاسود الهندي، و البالغ النضج و هو أسمن. و منه كابلي و هو أكبر الجميع، و منه صيني و هو دقيق خفيف». و قال الشيخ الرئيس ابن *</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "CCF942CA-23E1-496E-B0E5-702D4143C63F",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

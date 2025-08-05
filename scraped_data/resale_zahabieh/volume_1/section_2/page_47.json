@@ -1,0 +1,67 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 47,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892270,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"415\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"47\"/>أَمْرِ<lfootnote noteId=\"190\">1</lfootnote> اَلْجِمَاعِ مَا هُوَ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"184\" Id=\"1\"/>صَلاَحُ اَلْجَسَدِ وَ قِوَامُهُ بِالطَّعَامِ وَ اَلشَّرَابِ وَ فَسَادُهُ بِهِمَا <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"185\" Id=\"1\"/>فَإِنْ أَصْلَحْتَهُ بِهِمَا صَلَحَ وَ إِنْ أَفْسَدْتَهُ بِهِمَا فَسَدَ<lfootnote noteId=\"191\">2</lfootnote>. </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892271,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"416\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\">[t-1-1-58-1]<format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"186\" Id=\"1\"/>وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ قُوَى اَلنَّفْسِ تَابِعَةٌ لِمِزَاجَاتِ اَلْأَبْدَانِ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"189\" Id=\"1\"/>وَ مِزَاجَاتُ اَلْأَبْدَانِ تَابِعَةٌ لِتَصَرُّفِ اَلْهَوَاءِ فَإِذَا بَرَدَ مَرَّةً وَ سَخُنَ أُخْرَى <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"191\" Id=\"1\"/>تَغَيَّرَتْ بِسَبَبِهِ اَلْأَبْدَانُ وَ اَلصُّوَرُ<lfootnote noteId=\"192\">3</lfootnote>فَإِذَا اِسْتَوَى اَلْهَوَاءُ وَ اِعْتَدَلَ صَارَ اَلْجِسْمُ مُعْتَدِلاً<lfootnote noteId=\"193\">4</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"193\" Id=\"1\"/>لِأَنَّ اَللَّهَ عَزَّ وَ جَلَّ بَنَى اَلْأَجْسَامَ عَلَى أَرْبَعِ طَبَائِعَ عَلَى </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892272,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"417\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"48\"/>اَلدَّمِ‌<lfootnote noteId=\"194\">1</lfootnote> وَ اَلْبَلْغَمِ‌<lfootnote noteId=\"195\">2</lfootnote> وَ اَلصَّفْرَاءِ‌<lfootnote noteId=\"196\">3</lfootnote> وَ اَلسَّوْدَاءِ‌<lfootnote noteId=\"197\">4</lfootnote>فَاثْنَانِ حَارَّانِ وَ اِثْنَانِ بَارِدَانِ وَ خُولِفَ بَيْنَهُمَا فَجُعِلَ حَارٌّ يَابِسٌ وَ حَارٌّ لَيِّنٌ وَ بَارِدٌ يَابِسٌ وَ بَارِدٌ لَيِّنٌ‌<lfootnote noteId=\"198\">5</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"194\" Id=\"1\"/>ثُمَّ فُرِّقَ ذَلِكَ عَلَى أَرْبَعَةِ أَجْزَاءٍ مِنَ اَلْجَسَدِ عَلَى اَلرَّأْسِ وَ اَلصَّدْرِ وَ اَلشَّرَاسِيفِ وَ أَسْفَلِ اَلْبَطْنِ وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ اَلرَّأْسَ وَ اَلْأُذُنَيْنِ وَ اَلْعَيْنَيْنِ وَ اَلْمَنْخِرَيْنِ وَ اَلْأَنْفَ وَ اَلْفَمَ مِنَ اَلدَّمِ وَ أَنَّ اَلصَّدْرَ مِنَ اَلْبَلْغَمِ وَ اَلرِّيحِ [t-1-1-59-1]وَ أَنَّ اَلشَّرَاسِيفَ مِنَ اَلْمِرَّةِ اَلصَّفْرَاءِ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892707,
+          "text": "<footnote id=\"190\"><page number=\"47\"/><mnote>(1)</mnote> زيادة من (ج و د).</footnote>"
+        },
+        {
+          "footnoteId": 702892708,
+          "text": "<footnote id=\"191\"><mnote>(2)</mnote> ليس في (ج و د).</footnote>"
+        },
+        {
+          "footnoteId": 702892709,
+          "text": "<footnote id=\"192\"><mnote>(3)</mnote> انظر القانون 80/1-87.</footnote>"
+        },
+        {
+          "footnoteId": 702892710,
+          "text": "<footnote id=\"193\"><mnote>(4)</mnote> في (ب و ج و د): فاذا كان الهواء معتدلا اعتدلت أمزجة الابدان و صلحت تصرفات الامزجة في الحركات الطبيعية كالهضم و الجماع و النوم و الحركة و ساير الحركات.</footnote>"
+        }
+      ],
+      "pageValue": "47",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p415\" paragraph-id=\"415\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo47\">47</span>أَمْرِ<span><sup><a class=\"NewFn\" href=\"#footnote190\" title=\"(1)  زيادة من (ج و د).\">1</a></sup></span> اَلْجِمَاعِ مَا هُوَ <span class=\"Link\"></span>صَلاَحُ اَلْجَسَدِ وَ قِوَامُهُ بِالطَّعَامِ وَ اَلشَّرَابِ وَ فَسَادُهُ بِهِمَا <span class=\"Link\"></span>فَإِنْ أَصْلَحْتَهُ بِهِمَا صَلَحَ وَ إِنْ أَفْسَدْتَهُ بِهِمَا فَسَدَ<span><sup><a class=\"NewFn\" href=\"#footnote191\" title=\"(2)  ليس في (ج و د).\">2</a></sup></span>. </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p416\" paragraph-id=\"416\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">[t-1-1-58-1]<span class=\"Link\"></span>وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ قُوَى اَلنَّفْسِ تَابِعَةٌ لِمِزَاجَاتِ اَلْأَبْدَانِ <span class=\"Link\"></span>وَ مِزَاجَاتُ اَلْأَبْدَانِ تَابِعَةٌ لِتَصَرُّفِ اَلْهَوَاءِ فَإِذَا بَرَدَ مَرَّةً وَ سَخُنَ أُخْرَى <span class=\"Link\"></span>تَغَيَّرَتْ بِسَبَبِهِ اَلْأَبْدَانُ وَ اَلصُّوَرُ<span><sup><a class=\"NewFn\" href=\"#footnote192\" title=\"(3)  انظر القانون 80/1-87.\">3</a></sup></span>فَإِذَا اِسْتَوَى اَلْهَوَاءُ وَ اِعْتَدَلَ صَارَ اَلْجِسْمُ مُعْتَدِلاً<span><sup><a class=\"NewFn\" href=\"#footnote193\" title=\"(4)  في (ب و ج و د): فاذا كان الهواء معتدلا اعتدلت أمزجة الابدان و صلحت تصرفات الامزجة في الحركات الطبيعية كالهضم و الجماع و النوم و الحركة و ساير الحركات.\">4</a></sup></span><span class=\"Link\"></span>لِأَنَّ اَللَّهَ عَزَّ وَ جَلَّ بَنَى اَلْأَجْسَامَ عَلَى أَرْبَعِ طَبَائِعَ عَلَى </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p417\" paragraph-id=\"417\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote190\" footnote-id=\"190\">(1) <page number=\"47\" /> زيادة من (ج و د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote191\" footnote-id=\"191\">(2)  ليس في (ج و د).</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote192\" footnote-id=\"192\">(3)  انظر القانون 80/1-87.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote193\" footnote-id=\"193\">(4)  في (ب و ج و د): فاذا كان الهواء معتدلا اعتدلت أمزجة الابدان و صلحت تصرفات الامزجة في الحركات الطبيعية كالهضم و الجماع و النوم و الحركة و ساير الحركات.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "C026A423-F7C9-4984-97FA-1F6704E269D6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,65 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 65,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892293,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"438\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"65\"/>مَحْمُودٍ يُتَخَوَّفُ مِنْهُ اَلْقُولَنْجُ وَ اَلْفَالِجُ وَ اَللَّقْوَةُ وَ اَلنِّقْرِسُ وَ اَلْحَصَاةُ وَ اَلتَّقْطِيرُ<lfootnote noteId=\"259\">1</lfootnote> وَ اَلْفَتْقُ‌<lfootnote noteId=\"260\">2</lfootnote> وَ ضَعْفُ اَلْبَصَرِ وَ اَلدِّمَاغِ <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"294\" Id=\"1\"/>فَإِذَا أُرِيدُ ذَلِكَ فَلْيَكُنْ فِي آخِرِ اَللَّيْلِ فَإِنَّهُ أَصَحُّ لِلْبَدَنِ وَ أَرْجَى لِلْوَلَدِ وَ أَذْكَى لِلْعَقْلِ فِي اَلْوَلَدِ اَلَّذِي يُقْضَى بَيْنَهُمَا <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"296\" Id=\"1\"/>[t-1-1-78-30]وَ لاَ تُجَامِعِ اِمْرَأَةً حَتَّى تُلاَعِبَهَا<lfootnote noteId=\"261\">3</lfootnote> وَ تَغْمِزَ ثَدْيَيْهَا فَإِنَّكَ إِنْ فَعَلْتَ اِجْتَمَعَ مَاؤُهَا وَ مَاؤُكَ فَكَانَ مِنْهَا اَلْحَمْلُ‌<lfootnote noteId=\"262\">4</lfootnote> وَ اِشْتَهَتْ مِنْكَ مِثْلَ اَلَّذِي تَشْتَهِيهِ مِنْهَا وَ ظَهَرَ ذَلِكَ فِي عَيْنَيْهَا<lfootnote noteId=\"263\">5</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"298\" Id=\"1\"/>وَ لاَ تُجَامِعْهَا إِلاَّ وَ هِيَ طَاهِرَةٌ فَإِذَا فَعَلْتَ ذَلِكَ كَانَ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892294,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"439\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"66\"/>أَرْوَحَ لِبَدَنِكَ وَ أَصَحَّ لَكَ بِإِذْنِ اَللَّهِ‌<lfootnote noteId=\"264\">1</lfootnote>وَ لاَ تَقُولُ طَالَ مَا فَعَلْتُ كَذَا وَ أَكَلْتُ كَذَا فَلَمْ يُؤْذِنِي وَ شَرِبْتُ كَذَا وَ لَمْ يَضُرَّنِي وَ فَعَلْتُ كَذَا وَ لَمْ أَرَ مَكْرُوهاً وَ إِنَّمَا هَذَا اَلْقَلِيلُ مِنَ اَلنَّاسِ يَا أَمِيرَ اَلْمُؤْمِنِينَ كَالْبَهِيمَةِ لاَ يَعْرِفُ مَا يَضُرُّهُ وَ لاَ مَا يَنْفَعُهُ وَ لَوْ أُصِيبَ اَللِّصُّ أَوَّلَ مَا يَسْرِقُ فَعُوقِبَ لَمْ يَعُدْ لَكَانَتْ عُقُوبَتُهُ أَسْهَلَ وَ لَكِنْ يُرْزَقُ اَلْإِمْهَالَ وَ اَلْعَافِيَةَ فَيُعَاوِدُ ثُمَّ يُعَاوِدُ حَتَّى يُؤْخَذَ عَلَى أَعْظَمِ اَلسَّرَقَاتِ فَيُقْطَعَ وَ يَعْظُمَ اَلتَّنْكِيلُ بِهِ وَ مَا أَوْدَتْهُ عَاقِبَةُ طَمَعِهِ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892776,
+          "text": "<footnote id=\"259\"><page number=\"65\"/><mnote>(1)</mnote> التقطير: علة في الصفاق، يحدث منها تقطير البول المستمر.</footnote>"
+        },
+        {
+          "footnoteId": 702892777,
+          "text": "<footnote id=\"260\"><mnote>(2)</mnote> الفتق: علة في الصفاق، بان ينحل الغشاء، أو يقع فيه شق ينفذه جسم غريب كان محصورا فيه قبل الشق. انظر القاموس 283/3.</footnote>"
+        },
+        {
+          "footnoteId": 702892778,
+          "text": "<footnote id=\"261\"><mnote>(3)</mnote> في (ب) و تكثر ملاعبتها.</footnote>"
+        },
+        {
+          "footnoteId": 702892779,
+          "text": "<footnote id=\"262\"><mnote>(4)</mnote> في (ب و ج و د) لان مائها يخرج من ثدبيها و الشهوة تظهر من وجهها و عينيها.</footnote>"
+        },
+        {
+          "footnoteId": 702892780,
+          "text": "<footnote id=\"263\"><mnote>(5)</mnote> ليس في (ب و ج و د).</footnote>"
+        }
+      ],
+      "pageValue": "65",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p438\" paragraph-id=\"438\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo65\">65</span>مَحْمُودٍ يُتَخَوَّفُ مِنْهُ اَلْقُولَنْجُ وَ اَلْفَالِجُ وَ اَللَّقْوَةُ وَ اَلنِّقْرِسُ وَ اَلْحَصَاةُ وَ اَلتَّقْطِيرُ<span><sup><a class=\"NewFn\" href=\"#footnote259\" title=\"(1)  التقطير: علة في الصفاق، يحدث منها تقطير البول المستمر.\">1</a></sup></span> وَ اَلْفَتْقُ‌<span><sup><a class=\"NewFn\" href=\"#footnote260\" title=\"(2)  الفتق: علة في الصفاق، بان ينحل الغشاء، أو يقع فيه شق ينفذه جسم غريب كان محصورا فيه قبل الشق. انظر القاموس 283/3.\">2</a></sup></span> وَ ضَعْفُ اَلْبَصَرِ وَ اَلدِّمَاغِ <span class=\"Link\"></span>فَإِذَا أُرِيدُ ذَلِكَ فَلْيَكُنْ فِي آخِرِ اَللَّيْلِ فَإِنَّهُ أَصَحُّ لِلْبَدَنِ وَ أَرْجَى لِلْوَلَدِ وَ أَذْكَى لِلْعَقْلِ فِي اَلْوَلَدِ اَلَّذِي يُقْضَى بَيْنَهُمَا <span class=\"Link\"></span>[t-1-1-78-30]وَ لاَ تُجَامِعِ اِمْرَأَةً حَتَّى تُلاَعِبَهَا<span><sup><a class=\"NewFn\" href=\"#footnote261\" title=\"(3)  في (ب) و تكثر ملاعبتها.\">3</a></sup></span> وَ تَغْمِزَ ثَدْيَيْهَا فَإِنَّكَ إِنْ فَعَلْتَ اِجْتَمَعَ مَاؤُهَا وَ مَاؤُكَ فَكَانَ مِنْهَا اَلْحَمْلُ‌<span><sup><a class=\"NewFn\" href=\"#footnote262\" title=\"(4)  في (ب و ج و د) لان مائها يخرج من ثدبيها و الشهوة تظهر من وجهها و عينيها.\">4</a></sup></span> وَ اِشْتَهَتْ مِنْكَ مِثْلَ اَلَّذِي تَشْتَهِيهِ مِنْهَا وَ ظَهَرَ ذَلِكَ فِي عَيْنَيْهَا<span><sup><a class=\"NewFn\" href=\"#footnote263\" title=\"(5)  ليس في (ب و ج و د).\">5</a></sup></span><span class=\"Link\"></span>وَ لاَ تُجَامِعْهَا إِلاَّ وَ هِيَ طَاهِرَةٌ فَإِذَا فَعَلْتَ ذَلِكَ كَانَ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p439\" paragraph-id=\"439\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote259\" footnote-id=\"259\">(1) <page number=\"65\" /> التقطير: علة في الصفاق، يحدث منها تقطير البول المستمر.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote260\" footnote-id=\"260\">(2)  الفتق: علة في الصفاق، بان ينحل الغشاء، أو يقع فيه شق ينفذه جسم غريب كان محصورا فيه قبل الشق. انظر القاموس 283/3.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote261\" footnote-id=\"261\">(3)  في (ب) و تكثر ملاعبتها.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote262\" footnote-id=\"262\">(4)  في (ب و ج و د) لان مائها يخرج من ثدبيها و الشهوة تظهر من وجهها و عينيها.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote263\" footnote-id=\"263\">(5)  ليس في (ب و ج و د).</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "81231642-3C9D-4716-A332-523D47F54AF9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

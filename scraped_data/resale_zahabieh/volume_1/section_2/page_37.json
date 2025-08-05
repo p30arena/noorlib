@@ -1,0 +1,71 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 37,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892256,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"401\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"37\"/>طَبَرْزَدٍ<lfootnote noteId=\"140\">1</lfootnote>[t-1-1-71-2]وَ مَنْ أَرَادَ أَنْ لاَ تَشَقَّقَ أَظْفَارُهُ وَ لاَ تَفْسُدَ<lfootnote noteId=\"141\">2</lfootnote> فَلاَ يُقَلِّمْ أَظْفَارَهُ إِلاَّ <format class=\"Z\">يَوْمَ اَلْخَمِيسِ </format>وَ مَنْ أَرَادَ أَنْ لاَ يَشْتَكِيَ أُذُنَهُ فَلْيَجْعَلْ فِيهَا عِنْدَ اَلنَّوْمِ قُطْنَةً <format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"264\" Id=\"1\"/>وَ مَنْ أَرَادَ دَفْعَ اَلزُّكَامِ فِي <format class=\"Z\">اَلشِّتَاءِ‌</format> أَجْمَعَ فَلْيَأْكُلْ كُلَّ يَوْمٍ ثَلاَثَ لُقَمِ شَهْدٍ<lfootnote noteId=\"142\">3</lfootnote>. </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892257,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"402\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"265\" Id=\"1\"/>وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ لِلْعَسَلِ دَلاَئِلَ يُعْرَفُ بِهَا نَفْعُهُ مِنْ ضَرَرِهِ‌<lfootnote noteId=\"143\">4</lfootnote> وَ ذَلِكَ أَنَّ مِنْهُ مَا إِذَا أَدْرَكَهُ اَلشَّمُّ </format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892258,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"403\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><page number=\"38\"/>عَطِسَ‌<lfootnote noteId=\"144\">1</lfootnote> وَ مِنْهُ مَا يُسْكِرُ وَ لَهُ عِنْدَ اَلذَّوْقِ حِرَافَةٌ‌<lfootnote noteId=\"145\">2</lfootnote> شَدِيدَةٌ فَهَذِهِ اَلْأَنْوَاعُ مِنَ اَلْعَسَلِ قَاتِلَةٌ‌<lfootnote noteId=\"146\">3</lfootnote><format class=\"Link\" Book=\"02623\" Jeld=\"1\" Section=\"1\" Page=\"266\" Id=\"1\"/>وَ لْيَشَمَّ اَلنَّرْجِسَ‌<lfootnote noteId=\"147\">4</lfootnote> فَإِنَّهُ يَأْمَنُ اَلزُّكَامَ وَ كَذَلِكَ اَلْحَبَّةُ اَلسَّوْدَاءُ‌<lfootnote noteId=\"148\">5</lfootnote></format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892656,
+          "text": "<footnote id=\"139\"><mnote>(4)</mnote> الهليلج: قال ديسقوريدوس: «معروف: و هو أصناف كثيرة، منه الاصفر الفج، و منه الاسود الهندي، و البالغ النضج و هو أسمن. و منه كابلي و هو أكبر الجميع، و منه صيني و هو دقيق خفيف». و قال الشيخ الرئيس ابن *<page number=\"37\"/>* سينا في خواص الكابلي انه ينفع الحواس و الحفظ، انظر القانون 298/1. و قال الرازي في الحاوي 637/21 و يقوى الحواس يزيد في الحفظ و الذهن.</footnote>"
+        },
+        {
+          "footnoteId": 702892657,
+          "text": "<footnote id=\"140\"><mnote>(1)</mnote> قال الشيخ الرئيس في القانون 389/1 «سكر الطبرزد. أبرد و الطف أنواع السكر. و في (ب و ج) سكر أبلوج.</footnote>"
+        },
+        {
+          "footnoteId": 702892658,
+          "text": "<footnote id=\"141\"><mnote>(2)</mnote> في (ب و ج و د) ينشق ظفره و لا يميل الى الصفرة و لا يفسد حول ظفره.</footnote>"
+        },
+        {
+          "footnoteId": 702892659,
+          "text": "<footnote id=\"142\"><mnote>(3)</mnote> الشهد: هو العسل.</footnote>"
+        },
+        {
+          "footnoteId": 702892660,
+          "text": "<footnote id=\"143\"><mnote>(4)</mnote> زيادة من (ب و ج و د).</footnote>"
+        }
+      ],
+      "pageValue": "37",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p401\" paragraph-id=\"401\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"GPA0 bookPage PageNo37\">37</span>طَبَرْزَدٍ<span><sup><a class=\"NewFn\" href=\"#footnote140\" title=\"(1)  قال الشيخ الرئيس في القانون 389/1 «سكر الطبرزد. أبرد و الطف أنواع السكر. و في (ب و ج) سكر أبلوج.\">1</a></sup></span>[t-1-1-71-2]وَ مَنْ أَرَادَ أَنْ لاَ تَشَقَّقَ أَظْفَارُهُ وَ لاَ تَفْسُدَ<span><sup><a class=\"NewFn\" href=\"#footnote141\" title=\"(2)  في (ب و ج و د) ينشق ظفره و لا يميل الى الصفرة و لا يفسد حول ظفره.\">2</a></sup></span> فَلاَ يُقَلِّمْ أَظْفَارَهُ إِلاَّ <span class=\"Z\">يَوْمَ اَلْخَمِيسِ </span>وَ مَنْ أَرَادَ أَنْ لاَ يَشْتَكِيَ أُذُنَهُ فَلْيَجْعَلْ فِيهَا عِنْدَ اَلنَّوْمِ قُطْنَةً <span class=\"Link\"></span>وَ مَنْ أَرَادَ دَفْعَ اَلزُّكَامِ فِي <span class=\"Z\">اَلشِّتَاءِ‌</span> أَجْمَعَ فَلْيَأْكُلْ كُلَّ يَوْمٍ ثَلاَثَ لُقَمِ شَهْدٍ<span><sup><a class=\"NewFn\" href=\"#footnote142\" title=\"(3)  الشهد: هو العسل.\">3</a></sup></span>. </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p402\" paragraph-id=\"402\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"Link\"></span>وَ اِعْلَمْ يَا أَمِيرَ اَلْمُؤْمِنِينَ أَنَّ لِلْعَسَلِ دَلاَئِلَ يُعْرَفُ بِهَا نَفْعُهُ مِنْ ضَرَرِهِ‌<span><sup><a class=\"NewFn\" href=\"#footnote143\" title=\"(4)  زيادة من (ب و ج و د).\">4</a></sup></span> وَ ذَلِكَ أَنَّ مِنْهُ مَا إِذَا أَدْرَكَهُ اَلشَّمُّ </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p403\" paragraph-id=\"403\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\" />\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote139\" footnote-id=\"139\"><page number=\"37\" />* سينا في خواص الكابلي انه ينفع الحواس و الحفظ، انظر القانون 298/1. و قال الرازي في الحاوي 637/21 و يقوى الحواس يزيد في الحفظ و الذهن.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote140\" footnote-id=\"140\">(1)  قال الشيخ الرئيس في القانون 389/1 «سكر الطبرزد. أبرد و الطف أنواع السكر. و في (ب و ج) سكر أبلوج.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote141\" footnote-id=\"141\">(2)  في (ب و ج و د) ينشق ظفره و لا يميل الى الصفرة و لا يفسد حول ظفره.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote142\" footnote-id=\"142\">(3)  الشهد: هو العسل.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote143\" footnote-id=\"143\">(4)  زيادة من (ب و ج و د).</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "FA28C681-FF87-4490-9D76-B99187ED72E2",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

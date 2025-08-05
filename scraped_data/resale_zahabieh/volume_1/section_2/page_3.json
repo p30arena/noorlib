@@ -1,0 +1,73 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 3,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892218,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"363\"><page number=\"1\"/><format class=\"a\">الرسالة الذهبية </format><page number=\"2\"/><page number=\"3\"/></p>"
+        },
+        {
+          "paragraphId": 702892219,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"364\"><heading level=\"1\"><format class=\"H\">[النص]</format></heading></p>"
+        },
+        {
+          "paragraphId": 702892220,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"365\"><format class=\"q\"><format class=\"a\">بِسْمِ اَللّٰهِ اَلرَّحْمٰنِ اَلرَّحِيمِ‌</format></format></p>"
+        },
+        {
+          "paragraphId": 702892221,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"366\">و به نستعين</p>"
+        },
+        {
+          "paragraphId": 702892222,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"367\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><format class=\"sanadHadith\">أَخْبَرَنَا <format class=\"G\">أَبُو مُحَمَّدٍ هَارُونُ بْنُ مُوسَى اَلتَّلَّعُكْبَرِيُّ‌<lfootnote noteId=\"11\">1</lfootnote></format></format></format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892223,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"368\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><format class=\"sanadHadith\"><page number=\"4\"/>رَضِيَ اَللَّهُ عَنْهُ قَالَ حَدَّثَنَا <format class=\"G\">مُحَمَّدُ بْنُ هَمَّامِ‌<lfootnote noteId=\"12\">1</lfootnote> بْنِ سُهَيْلٍ </format><lfootnote noteId=\"13\">2</lfootnote>رَحْمَةُ اَللَّهِ عَلَيْهِ قَالَ حَدَّثَنَا <format class=\"G\">اَلْحَسَنُ بْنُ مُحَمَّدِ بْنِ جُمْهُورٍ </format><lfootnote noteId=\"14\">3</lfootnote>قَالَ‌</format> حَدَّثَنِي أَبِي<lfootnote noteId=\"15\">4</lfootnote> وَ كَانَ عَالِماً <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">بِأَبِي اَلْحَسَنِ عَلِيِّ بْنِ </format></format></format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892528,
+          "text": "<footnote id=\"11\"><page number=\"3\"/><mnote>(1)</mnote> ذكره الشيخ النجاشي «قدس سره» حيث قال: هارون بن موسى ابن أحمد بن سعيد، أبو محمد التلعكبري من بني شيبان، كان وجها في أصحابنا ثقة، معتمدا، لا يطعن عليه، له كتاب الجوامع في علوم الدين، كنت أحضره في داره مع ابن له، أبي جعفر و الناس يقرؤن عليه. أنظر رجال النجاشى ص : 343.<br/>و قال الشيخ الطوسي «قدس سره»: جليل القدر، عظيم المنزلة، واسع الرواية، عديم النظير، روى جميع الاصول و المصنفات. مات سنة خمس و ثمانين و ثلاثمائة. أنظر رجال الطوسي ص: 516.<br/>و التعلكبري: نسبة الى تل عكبرا، بضم العين عند عكبرا. و الظاهر أنه قد كان محلة منها. أنظر مراصد الاطلاع 271/1.</footnote>"
+        }
+      ],
+      "pageValue": "3",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p363\" paragraph-id=\"363\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo3\">3</span>\n  </p>\n  <p id=\"p364\" paragraph-id=\"364\" class=\" G\">\n    <strong style=\"0\" class=\"h-1 01\">\n      <span class=\"H\">[النص]</span>\n    </strong>\n  </p>\n  <p id=\"p365\" paragraph-id=\"365\" class=\" G\">\n    <span class=\"q\">\n      <span class=\"a\">بِسْمِ اَللّٰهِ اَلرَّحْمٰنِ اَلرَّحِيمِ‌</span>\n    </span>\n  </p>\n  <p id=\"p366\" paragraph-id=\"366\" class=\" G\">و به نستعين</p>\n  <p id=\"p367\" paragraph-id=\"367\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"sanadHadith\">أَخْبَرَنَا <span class=\"G\">أَبُو مُحَمَّدٍ هَارُونُ بْنُ مُوسَى اَلتَّلَّعُكْبَرِيُّ‌<span><sup><a class=\"NewFn\" href=\"#footnote11\" title=\"(1)  ذكره الشيخ النجاشي «قدس سره» حيث قال: هارون بن موسى ابن أحمد بن سعيد، أبو محمد التلعكبري من بني شيبان، كان وجها في أصحابنا ثقة، معتمدا، لا يطعن عليه، له كتاب الجوامع في علوم الدين، كنت أحضره في داره مع ابن له، أبي جعفر و الناس يقرؤن عليه. أنظر رجال النجاشى ص : 343.و قال الشيخ الطوسي «قدس سره»: جليل القدر، عظيم المنزلة، واسع الرواية، عديم النظير، روى جميع الاصول و المصنفات. مات سنة خمس و ثمانين و ثلاثمائة. أنظر رجال الطوسي ص: 516.و التعلكبري: نسبة الى تل عكبرا، بضم العين عند عكبرا. و الظاهر أنه قد كان محلة منها. أنظر مراصد الاطلاع 271/1.\">1</a></sup></span></span></span>\n          </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p368\" paragraph-id=\"368\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"sanadHadith\" />\n          </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote11\" footnote-id=\"11\">(1) <page number=\"3\" /> ذكره الشيخ النجاشي «قدس سره» حيث قال: هارون بن موسى ابن أحمد بن سعيد، أبو محمد التلعكبري من بني شيبان، كان وجها في أصحابنا ثقة، معتمدا، لا يطعن عليه، له كتاب الجوامع في علوم الدين، كنت أحضره في داره مع ابن له، أبي جعفر و الناس يقرؤن عليه. أنظر رجال النجاشى ص : 343.<br />و قال الشيخ الطوسي «قدس سره»: جليل القدر، عظيم المنزلة، واسع الرواية، عديم النظير، روى جميع الاصول و المصنفات. مات سنة خمس و ثمانين و ثلاثمائة. أنظر رجال الطوسي ص: 516.<br />و التعلكبري: نسبة الى تل عكبرا، بضم العين عند عكبرا. و الظاهر أنه قد كان محلة منها. أنظر مراصد الاطلاع 271/1.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "910F961E-A7BD-4A8D-AE78-BAF251EF31F7",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

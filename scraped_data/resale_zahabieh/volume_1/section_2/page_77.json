@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 77,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892471,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"616\"><page number=\"77\"/><heading level=\"2\">المراجع </heading></p>"
+        },
+        {
+          "paragraphId": 702892472,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"617\">اخبار العلماء باخبار الحكماء علي بن يوسف القفطي</p>"
+        },
+        {
+          "paragraphId": 702892473,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"618\">مطبعة السعادة/مصر/ 1326 ه‍</p>"
+        },
+        {
+          "paragraphId": 702892474,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"619\">الارشاد محمد بن محمد بن النعمان (الشيخ المفيد) المطبعة الحيدرية/النجف</p>"
+        },
+        {
+          "paragraphId": 702892475,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"620\">تاج العروس محمد مرتضى الحسيني الزبيدي المطبعة الخيرية/مصر/ 1306 ه‍</p>"
+        },
+        {
+          "paragraphId": 702892476,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"621\">تاريخ اليعقوبي أحمد بن أبي يعقوب بن جعفر الكاتب مطبعة الغري/النجف/ 1358 ه‍</p>"
+        },
+        {
+          "paragraphId": 702892477,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"622\">تذكرة أولي الالباب داود الضرير الانطاكي</p>"
+        },
+        {
+          "paragraphId": 702892478,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"623\">المطبعة العثمانية/مصر/ 1356 ه‍</p>"
+        },
+        {
+          "paragraphId": 702892479,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"624\">تلخيص مجمع الاداب عبد الرزاق بن أحمد الحنبلي</p>"
+        },
+        {
+          "paragraphId": 702892480,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"625\">مطبعة وزارة الارشاد/دمشق/ 1967</p>"
+        },
+        {
+          "paragraphId": 702892481,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"626\"><page number=\"78\"/>التلويح في أسرار التنقيح محمد بن عبد اللطيف بن محمد الخجندي مخطوط/مكتبة الامام الحكيم العامة</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "77",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p616\" paragraph-id=\"616\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo77\">77</span>\n    <strong style=\"0\" class=\"h-2 02\">المراجع </strong>\n  </p>\n  <p id=\"p617\" paragraph-id=\"617\" class=\" G\">اخبار العلماء باخبار الحكماء علي بن يوسف القفطي</p>\n  <p id=\"p618\" paragraph-id=\"618\" class=\" G\">مطبعة السعادة/مصر/ 1326 ه‍</p>\n  <p id=\"p619\" paragraph-id=\"619\" class=\" G\">الارشاد محمد بن محمد بن النعمان (الشيخ المفيد) المطبعة الحيدرية/النجف</p>\n  <p id=\"p620\" paragraph-id=\"620\" class=\" G\">تاج العروس محمد مرتضى الحسيني الزبيدي المطبعة الخيرية/مصر/ 1306 ه‍</p>\n  <p id=\"p621\" paragraph-id=\"621\" class=\" G\">تاريخ اليعقوبي أحمد بن أبي يعقوب بن جعفر الكاتب مطبعة الغري/النجف/ 1358 ه‍</p>\n  <p id=\"p622\" paragraph-id=\"622\" class=\" G\">تذكرة أولي الالباب داود الضرير الانطاكي</p>\n  <p id=\"p623\" paragraph-id=\"623\" class=\" G\">المطبعة العثمانية/مصر/ 1356 ه‍</p>\n  <p id=\"p624\" paragraph-id=\"624\" class=\" G\">تلخيص مجمع الاداب عبد الرزاق بن أحمد الحنبلي</p>\n  <p id=\"p625\" paragraph-id=\"625\" class=\" G\">مطبعة وزارة الارشاد/دمشق/ 1967</p>\n  <p id=\"p626\" paragraph-id=\"626\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "954334F7-E29D-452E-9637-2BB5F1F87183",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

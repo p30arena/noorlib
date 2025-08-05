@@ -1,0 +1,61 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 4,
+      "sectionNumber": 2,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 702892223,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"368\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><format class=\"sanadHadith\"><page number=\"4\"/>رَضِيَ اَللَّهُ عَنْهُ قَالَ حَدَّثَنَا <format class=\"G\">مُحَمَّدُ بْنُ هَمَّامِ‌<lfootnote noteId=\"12\">1</lfootnote> بْنِ سُهَيْلٍ </format><lfootnote noteId=\"13\">2</lfootnote>رَحْمَةُ اَللَّهِ عَلَيْهِ قَالَ حَدَّثَنَا <format class=\"G\">اَلْحَسَنُ بْنُ مُحَمَّدِ بْنِ جُمْهُورٍ </format><lfootnote noteId=\"14\">3</lfootnote>قَالَ‌</format> حَدَّثَنِي أَبِي<lfootnote noteId=\"15\">4</lfootnote> وَ كَانَ عَالِماً <format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\">بِأَبِي اَلْحَسَنِ عَلِيِّ بْنِ </format></format></format></format></format></format></p>"
+        },
+        {
+          "paragraphId": 702892224,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"369\"><format class=\"hadith\" who=\"\" Id=\"1\" RevayatIndex=\"1\"><format class=\"l\" MasumNo=\"\"><format class=\"A\" MasumNo=\"\"><format class=\"F\" MasumNo=\"8\"><format class=\"Y\"><format class=\"maasoom\" maasoomNo=\"8\"><page number=\"5\"/>مُوسَى اَلرِّضَا صَلَوَاتُ اَللَّهِ عَلَيْهِ‌</format></format> خَاصّاً بِهِ مُلاَزِماً لِخِدْمَتِهِ وَ كَانَ مَعَهُ حِينَ حُمِلَ مِنَ <format class=\"t\">اَلْمَدِينَةِ‌</format> إِلَى <format class=\"d\">اَلْمَأْمُونِ </format><lfootnote noteId=\"16\">1</lfootnote>إِلَى <format class=\"t\">خُرَاسَانَ‌</format><lfootnote noteId=\"17\">2</lfootnote> وَ اُسْتُشْهِدَ عَلَيْهِ السَّلاَمُ <format class=\"t\">بِطُوسَ‌</format><lfootnote noteId=\"18\">3</lfootnote> وَ هُوَ اِبْنُ تِسْعٍ وَ أَرْبَعِينَ سَنَةً قَالَ‌: كَانَ <format class=\"d\">اَلْمَأْمُونُ </format><format class=\"t\">بِنَيْسَابُورَ</format><lfootnote noteId=\"19\">4</lfootnote> وَ فِي مَجْلِسِهِ سَيِّدِي <format class=\"maasoom\" maasoomNo=\"8\">أَبُو اَلْحَسَنِ اَلرِّضَا عَلَيْهِ السَّلاَمُ‌</format> وَ جَمَاعَةٌ مِنَ اَلْفَلاَسِفَةِ </format></format></format></format></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 702892529,
+          "text": "<footnote id=\"12\"><page number=\"4\"/><mnote>(1)</mnote> في (ب) هشام.</footnote>"
+        },
+        {
+          "footnoteId": 702892530,
+          "text": "<footnote id=\"13\"><mnote>(2)</mnote> في الاصل سهل، و الصواب ما أثبتناه. قال النجاشي في رجاله ص 494: محمد بن أبي بكر همام بن سهيل الكاتب الاسكافي، شيخ أصحابنا و متقدمهم، له منزلة عظيمة، كثير الحديث. و قال الشيخ الطوسي فى رجاله ص 494، يكنى أبا علي و همام يكنى أبا بكر، جليل القدر، ثقة روى عنه التلعكبري و سمع منه أولا سنة ثلاث و عشرين و ثلاثمائة، و له منه اجازة، و مات سنة اثنتين و ثلاثين و ثلاثمائه.<br/>و قال الشيخ النجاشي في المصدر السابق: مات أبو علي بن همام يوم الخميس لاحدى عشرة ليلة بقيت من جمادى الاخرة سنة ست و ثلاثين و ثلاثمائة و كان مولده يوم الاثنين لست خلون من ذي الحجة سنة ثمان و خمسين و مائتين.</footnote>"
+        },
+        {
+          "footnoteId": 702892531,
+          "text": "<footnote id=\"14\"><mnote>(3)</mnote> قال الشيخ النجاشي في رجاله ص 49: الحسن بن محمد بن جمهور العمّي، أبو محمد. بصري، ثقة في نفسه، ينسب الى بني العم من تميم.</footnote>"
+        },
+        {
+          "footnoteId": 702892532,
+          "text": "<footnote id=\"15\"><mnote>(4)</mnote> قال الشيخ النجاشي في رجاله ص 260 في ترجمة محمد بن جمهور: روى عن الرضا عليه السلام، و له كتب: كتاب الملاحم الكبير، كتاب نوادر الحج، كتاب أدب العلم، أخبرنا محمد بن علي الكاتب قال: حدثنا محمد بن عبد اللّه قال: حدثنا علي بن الحسين الهذلي المسعودي قال: لقيت حسن بن محمد بن جمهور فقال لي: حدثني أبي محمد بن جمهور و هو ابن مائة و عشرين سنة.</footnote>"
+        }
+      ],
+      "pageValue": "4",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p368\" paragraph-id=\"368\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"sanadHadith\">\n              <span class=\"GPA0 bookPage PageNo4\">4</span>رَضِيَ اَللَّهُ عَنْهُ قَالَ حَدَّثَنَا <span class=\"G\">مُحَمَّدُ بْنُ هَمَّامِ‌<span><sup><a class=\"NewFn\" href=\"#footnote12\" title=\"(1)  في (ب) هشام.\">1</a></sup></span> بْنِ سُهَيْلٍ </span><span><sup><a class=\"NewFn\" href=\"#footnote13\" title=\"(2)  في الاصل سهل، و الصواب ما أثبتناه. قال النجاشي في رجاله ص 494: محمد بن أبي بكر همام بن سهيل الكاتب الاسكافي، شيخ أصحابنا و متقدمهم، له منزلة عظيمة، كثير الحديث. و قال الشيخ الطوسي فى رجاله ص 494، يكنى أبا علي و همام يكنى أبا بكر، جليل القدر، ثقة روى عنه التلعكبري و سمع منه أولا سنة ثلاث و عشرين و ثلاثمائة، و له منه اجازة، و مات سنة اثنتين و ثلاثين و ثلاثمائه.و قال الشيخ النجاشي في المصدر السابق: مات أبو علي بن همام يوم الخميس لاحدى عشرة ليلة بقيت من جمادى الاخرة سنة ست و ثلاثين و ثلاثمائة و كان مولده يوم الاثنين لست خلون من ذي الحجة سنة ثمان و خمسين و مائتين.\">2</a></sup></span>رَحْمَةُ اَللَّهِ عَلَيْهِ قَالَ حَدَّثَنَا <span class=\"G\">اَلْحَسَنُ بْنُ مُحَمَّدِ بْنِ جُمْهُورٍ </span><span><sup><a class=\"NewFn\" href=\"#footnote14\" title=\"(3)  قال الشيخ النجاشي في رجاله ص 49: الحسن بن محمد بن جمهور العمّي، أبو محمد. بصري، ثقة في نفسه، ينسب الى بني العم من تميم.\">3</a></sup></span>قَالَ‌</span> حَدَّثَنِي أَبِي<span><sup><a class=\"NewFn\" href=\"#footnote15\" title=\"(4)  قال الشيخ النجاشي في رجاله ص 260 في ترجمة محمد بن جمهور: روى عن الرضا عليه السلام، و له كتب: كتاب الملاحم الكبير، كتاب نوادر الحج، كتاب أدب العلم، أخبرنا محمد بن علي الكاتب قال: حدثنا محمد بن عبد اللّه قال: حدثنا علي بن الحسين الهذلي المسعودي قال: لقيت حسن بن محمد بن جمهور فقال لي: حدثني أبي محمد بن جمهور و هو ابن مائة و عشرين سنة.\">4</a></sup></span> وَ كَانَ عَالِماً <span class=\"Y\"><span class=\"maasoom\">بِأَبِي اَلْحَسَنِ عَلِيِّ بْنِ </span></span></span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <p id=\"p369\" paragraph-id=\"369\" class=\" G\">\n    <span class=\"hadith\">\n      <span class=\"l\">\n        <span class=\"A\">\n          <span class=\"F\">\n            <span class=\"Y\">\n              <span class=\"maasoom\" />\n            </span>\n          </span>\n        </span>\n      </span>\n    </span>\n  </p>\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote12\" footnote-id=\"12\">(1) <page number=\"4\" /> في (ب) هشام.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote13\" footnote-id=\"13\">(2)  في الاصل سهل، و الصواب ما أثبتناه. قال النجاشي في رجاله ص 494: محمد بن أبي بكر همام بن سهيل الكاتب الاسكافي، شيخ أصحابنا و متقدمهم، له منزلة عظيمة، كثير الحديث. و قال الشيخ الطوسي فى رجاله ص 494، يكنى أبا علي و همام يكنى أبا بكر، جليل القدر، ثقة روى عنه التلعكبري و سمع منه أولا سنة ثلاث و عشرين و ثلاثمائة، و له منه اجازة، و مات سنة اثنتين و ثلاثين و ثلاثمائه.<br />و قال الشيخ النجاشي في المصدر السابق: مات أبو علي بن همام يوم الخميس لاحدى عشرة ليلة بقيت من جمادى الاخرة سنة ست و ثلاثين و ثلاثمائة و كان مولده يوم الاثنين لست خلون من ذي الحجة سنة ثمان و خمسين و مائتين.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote14\" footnote-id=\"14\">(3)  قال الشيخ النجاشي في رجاله ص 49: الحسن بن محمد بن جمهور العمّي، أبو محمد. بصري، ثقة في نفسه، ينسب الى بني العم من تميم.</div>\n    <div class=\"footnote OriginalDigit\" id=\"footnote15\" footnote-id=\"15\">(4)  قال الشيخ النجاشي في رجاله ص 260 في ترجمة محمد بن جمهور: روى عن الرضا عليه السلام، و له كتب: كتاب الملاحم الكبير، كتاب نوادر الحج، كتاب أدب العلم، أخبرنا محمد بن علي الكاتب قال: حدثنا محمد بن عبد اللّه قال: حدثنا علي بن الحسين الهذلي المسعودي قال: لقيت حسن بن محمد بن جمهور فقال لي: حدثني أبي محمد بن جمهور و هو ابن مائة و عشرين سنة.</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "386F6C55-871C-4BC8-957D-2A42DF94812E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}
