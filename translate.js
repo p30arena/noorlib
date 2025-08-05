@@ -1,6 +1,7 @@
 require('dotenv').config();
 const { GoogleGenAI, Type } = require("@google/genai");
 const fs = require("fs/promises");
+const { confirm } = require("@inquirer/prompts");
 
 const BOOK_DIR = `./scraped_data/${process.env.BOOK_NAME}`;
 const apiKeys = (process.env.GEMINI_API_KEY || "").split(",").filter(Boolean);
@@ -109,6 +110,29 @@ async function main() {
     const data = await fs.readFile(`${BOOK_DIR}/hadiths.json`, "utf8");
     const hadiths = JSON.parse(data);
     let translatedHadiths = [];
+
+    const doTranslate = await confirm({
+      message: "Do you want to translate the book?",
+      default: true,
+    });
+
+    if (!doTranslate) {
+      console.log("Skipping translation. Generating Farsi JSON directly.");
+      const hadithsInFarsi = hadiths.map((hadith) => ({
+        ...hadith,
+        title: "",
+        content: "",
+        title_fa: hadith.title,
+        content_fa: hadith.content,
+      }));
+
+      await fs.writeFile(
+        `${BOOK_DIR}/hadiths_translated.json`,
+        JSON.stringify(hadithsInFarsi, null, 2)
+      );
+      console.log("Generated Farsi JSON file without translation.");
+      return;
+    }
 
     // Load existing translations to resume progress
     try {

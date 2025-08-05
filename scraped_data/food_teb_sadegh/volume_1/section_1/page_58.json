@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 58,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883458,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"722\"><page number=\"58\"/><page number=\"59\"/><heading level=\"1\">اشاره به <format class=\"BM\">حكمت نهفته در چشم </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "58",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p722\" paragraph-id=\"722\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo58\">58</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "DBFB5C5C-3090-42FD-9601-56F9C309C00C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

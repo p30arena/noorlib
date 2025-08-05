@@ -1,0 +1,68 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 128,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883991,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1406\"><page number=\"128\"/> الكافى - به نقل از زياد بن ابى الحلال -: با امام صادق عليه السّلام شام خوردم. </p>"
+        },
+        {
+          "paragraphId": 627883992,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1407\">فرمود: «شام پس از نماز خفتن، شام پيامبران است».</p>"
+        },
+        {
+          "paragraphId": 627883993,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1408\">امام صادق عليه السّلام: هركس شام را واگذارد، رگى در بدن وى مى‌ميرد و هرگز زنده نمى‌شود.</p>"
+        },
+        {
+          "paragraphId": 627883994,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1409\">امام صادق عليه السّلام: هركس شام را در شب شنبه و يك‌شنبه، پشت سرهم واگذارد، نيروى وى از كف مى‌رود و اين نيرو تا چهل روز به وى باز نمى‌گردد.</p>"
+        },
+        {
+          "paragraphId": 627883995,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1410\">امام صادق عليه السّلام: هركس شام خوردن را واگذارد، نيرويى از او كاسته مى‌شود و به او بازنمى‌گردد.</p>"
+        },
+        {
+          "paragraphId": 627883996,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1411\"><page number=\"129\"/><heading level=\"1\">درمان‌هاى طبيعى با ميوه‌ها و گياهان</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "128",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1406\" paragraph-id=\"1406\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo128\">128</span> الكافى - به نقل از زياد بن ابى الحلال -: با امام صادق عليه السّلام شام خوردم. </p>\n  <p id=\"p1407\" paragraph-id=\"1407\" class=\" G\">فرمود: «شام پس از نماز خفتن، شام پيامبران است».</p>\n  <p id=\"p1408\" paragraph-id=\"1408\" class=\" G\">امام صادق عليه السّلام: هركس شام را واگذارد، رگى در بدن وى مى‌ميرد و هرگز زنده نمى‌شود.</p>\n  <p id=\"p1409\" paragraph-id=\"1409\" class=\" G\">امام صادق عليه السّلام: هركس شام را در شب شنبه و يك‌شنبه، پشت سرهم واگذارد، نيروى وى از كف مى‌رود و اين نيرو تا چهل روز به وى باز نمى‌گردد.</p>\n  <p id=\"p1410\" paragraph-id=\"1410\" class=\" G\">امام صادق عليه السّلام: هركس شام خوردن را واگذارد، نيرويى از او كاسته مى‌شود و به او بازنمى‌گردد.</p>\n  <p id=\"p1411\" paragraph-id=\"1411\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "48CA3714-F878-4E27-B98F-AD26341BA2DC",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,116 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 91,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883602,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1017\"><page number=\"91\"/><heading level=\"2\">پيشگيرى از <format class=\"ZM\">پيسى </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883603,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1018\"><heading level=\"3\">الف - استفاده از خطمى </heading></p>"
+        },
+        {
+          "paragraphId": 627883604,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1019\">امام صادق عليه السّلام: شستن سر با خطمى در هر جمعه، مايه‌ى ايمنى از پيسى و ديوانگى است.</p>"
+        },
+        {
+          "paragraphId": 627883605,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1020\"><heading level=\"3\">ب - خوردن بادنجان </heading></p>"
+        },
+        {
+          "paragraphId": 627883606,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1021\">امام صادق عليه السّلام: بر شما باد بادنجان (/بادمجان) بورانى؛ زيرا شفايى است كه از پيسى ايمنى مى‌دهد. بادنجانى هم كه به روغن زيتون سرخ شود، چنين است.</p>"
+        },
+        {
+          "paragraphId": 627883607,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1022\"><heading level=\"2\">سودمند براى درمان <format class=\"ZM\">پيسى </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883608,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1023\"><heading level=\"3\">الف - خوردن گوشت گاو با چغندر </heading></p>"
+        },
+        {
+          "paragraphId": 627883609,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1024\">امام صادق عليه السّلام: آب گوشت چغندر با گوشت گاو، سفيدى را از ميان مى‌برد.</p>"
+        },
+        {
+          "paragraphId": 627883610,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1025\"><heading level=\"3\">ب - آب گوشت گاو </heading></p>"
+        },
+        {
+          "paragraphId": 627883611,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1026\">امام صادق عليه السّلام: آب گوشت گاو، پيسى را از ميان مى‌برد.</p>"
+        },
+        {
+          "paragraphId": 627883612,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1027\"><heading level=\"3\">ج - سويق </heading></p>"
+        },
+        {
+          "paragraphId": 627883613,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1028\">امام صادق عليه السّلام: سويق خشك (قاووت گندم و جو)، سفيدى و پيسى را از ميان مى‌برد.</p>"
+        },
+        {
+          "paragraphId": 627883614,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1029\"><heading level=\"2\">سودمند براى درمان <format class=\"ZM\">ترك پوست </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883615,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1030\">الكافى - به نقل از عمر بن اذينه -: مردى از ترك پوست دست و پاى خود، نزد امام صادق عليه السّلام اظهار ناراحتى كرد. امام به او فرمود: «پنبه‌اى بردار<page number=\"92\"/> و يك گياه بان در ميان آن قرار ده و آن را در ناف خود كن».</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "91",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1017\" paragraph-id=\"1017\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo91\">91</span>\n    <strong style=\"0\" class=\"h-2 02\">پيشگيرى از <span class=\"ZM\">پيسى </span></strong>\n  </p>\n  <p id=\"p1018\" paragraph-id=\"1018\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">الف - استفاده از خطمى </strong>\n  </p>\n  <p id=\"p1019\" paragraph-id=\"1019\" class=\" G\">امام صادق عليه السّلام: شستن سر با خطمى در هر جمعه، مايه‌ى ايمنى از پيسى و ديوانگى است.</p>\n  <p id=\"p1020\" paragraph-id=\"1020\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">ب - خوردن بادنجان </strong>\n  </p>\n  <p id=\"p1021\" paragraph-id=\"1021\" class=\" G\">امام صادق عليه السّلام: بر شما باد بادنجان (/بادمجان) بورانى؛ زيرا شفايى است كه از پيسى ايمنى مى‌دهد. بادنجانى هم كه به روغن زيتون سرخ شود، چنين است.</p>\n  <p id=\"p1022\" paragraph-id=\"1022\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">سودمند براى درمان <span class=\"ZM\">پيسى </span></strong>\n  </p>\n  <p id=\"p1023\" paragraph-id=\"1023\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">الف - خوردن گوشت گاو با چغندر </strong>\n  </p>\n  <p id=\"p1024\" paragraph-id=\"1024\" class=\" G\">امام صادق عليه السّلام: آب گوشت چغندر با گوشت گاو، سفيدى را از ميان مى‌برد.</p>\n  <p id=\"p1025\" paragraph-id=\"1025\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">ب - آب گوشت گاو </strong>\n  </p>\n  <p id=\"p1026\" paragraph-id=\"1026\" class=\" G\">امام صادق عليه السّلام: آب گوشت گاو، پيسى را از ميان مى‌برد.</p>\n  <p id=\"p1027\" paragraph-id=\"1027\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">ج - سويق </strong>\n  </p>\n  <p id=\"p1028\" paragraph-id=\"1028\" class=\" G\">امام صادق عليه السّلام: سويق خشك (قاووت گندم و جو)، سفيدى و پيسى را از ميان مى‌برد.</p>\n  <p id=\"p1029\" paragraph-id=\"1029\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">سودمند براى درمان <span class=\"ZM\">ترك پوست </span></strong>\n  </p>\n  <p id=\"p1030\" paragraph-id=\"1030\" class=\" G\">الكافى - به نقل از عمر بن اذينه -: مردى از ترك پوست دست و پاى خود، نزد امام صادق عليه السّلام اظهار ناراحتى كرد. امام به او فرمود: «پنبه‌اى بردار</p>\n</div>",
+      "bookPageVisitLogId": "C7F4B88C-6185-4C0D-AB2B-191E8516BC76",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

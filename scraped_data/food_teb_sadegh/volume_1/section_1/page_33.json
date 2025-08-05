@@ -1,0 +1,92 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 33,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883248,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"512\"><page number=\"32\"/><page number=\"33\"/><heading level=\"1\"><format class=\"BM\">آداب طبابت و وظايف طبيب </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883249,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"513\"><heading level=\"2\">احساس مسئوليت </heading></p>"
+        },
+        {
+          "paragraphId": 627883250,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"514\">امام صادق عليه السّلام: مسيح عليه السّلام مى‌گفت: «آنكه درمان كردن زخم زخمديده‌اى را واگذارد، ناگزير، شريك كسى است كه زخم را بر بدن وى نشانده است؛ چه، آنكه زخم رسانده، تباهى مجروح را خواسته است و آنكه درمان وى را واگذارده، بهبود او را نخواسته است. پس اگر كه بهبود وى را نخواسته، ناگزير، تباهى او را خواسته است».</p>"
+        },
+        {
+          "paragraphId": 627883251,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"515\"><heading level=\"2\">مسئول بودن پزشك در صورت به بار آوردن خسارت </heading></p>"
+        },
+        {
+          "paragraphId": 627883252,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"516\">امام صادق عليه السّلام: هر كارگر [و صاحب حرفه‌اى] كه به وى براى اينكه كارى را درست كند، مزدى دهيد، امّا اگر آن را خراب كند، ضامن است.</p>"
+        },
+        {
+          "paragraphId": 627883253,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"517\"><heading level=\"2\">مسئول نبودن ماهر و امين </heading></p>"
+        },
+        {
+          "paragraphId": 627883254,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"518\">امام باقر عليه السّلام يا امام صادق عليه السّلام: قابله، امين محسوب مى‌شوند.</p>"
+        },
+        {
+          "paragraphId": 627883255,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"519\"><heading level=\"2\">جايز بودن درمان به شرط شناخت بيمارى، با وجود احتمال مرگ </heading></p>"
+        },
+        {
+          "paragraphId": 627883256,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"520\">الكافى - به نقل از اسماعيل بن حسن كه پيشه‌ى طبابت داشت -: به امام صادق عليه السّلام گفتم: من مردى از عرب هستم و به طبابت، آگاهى‌اى دارم. طبّ من طبّى عربى است و بر اين كار خويش، مزدى نمى‌گيرم.</p>"
+        },
+        {
+          "paragraphId": 627883257,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"521\"><page number=\"34\"/>فرمود: «اشكالى ندارد».</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "33",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p512\" paragraph-id=\"512\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo33\">33</span>\n    <strong style=\"0\" class=\"h-1 01\">\n      <span class=\"BM\">آداب طبابت و وظايف طبيب </span>\n    </strong>\n  </p>\n  <p id=\"p513\" paragraph-id=\"513\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">احساس مسئوليت </strong>\n  </p>\n  <p id=\"p514\" paragraph-id=\"514\" class=\" G\">امام صادق عليه السّلام: مسيح عليه السّلام مى‌گفت: «آنكه درمان كردن زخم زخمديده‌اى را واگذارد، ناگزير، شريك كسى است كه زخم را بر بدن وى نشانده است؛ چه، آنكه زخم رسانده، تباهى مجروح را خواسته است و آنكه درمان وى را واگذارده، بهبود او را نخواسته است. پس اگر كه بهبود وى را نخواسته، ناگزير، تباهى او را خواسته است».</p>\n  <p id=\"p515\" paragraph-id=\"515\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">مسئول بودن پزشك در صورت به بار آوردن خسارت </strong>\n  </p>\n  <p id=\"p516\" paragraph-id=\"516\" class=\" G\">امام صادق عليه السّلام: هر كارگر [و صاحب حرفه‌اى] كه به وى براى اينكه كارى را درست كند، مزدى دهيد، امّا اگر آن را خراب كند، ضامن است.</p>\n  <p id=\"p517\" paragraph-id=\"517\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">مسئول نبودن ماهر و امين </strong>\n  </p>\n  <p id=\"p518\" paragraph-id=\"518\" class=\" G\">امام باقر عليه السّلام يا امام صادق عليه السّلام: قابله، امين محسوب مى‌شوند.</p>\n  <p id=\"p519\" paragraph-id=\"519\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">جايز بودن درمان به شرط شناخت بيمارى، با وجود احتمال مرگ </strong>\n  </p>\n  <p id=\"p520\" paragraph-id=\"520\" class=\" G\">الكافى - به نقل از اسماعيل بن حسن كه پيشه‌ى طبابت داشت -: به امام صادق عليه السّلام گفتم: من مردى از عرب هستم و به طبابت، آگاهى‌اى دارم. طبّ من طبّى عربى است و بر اين كار خويش، مزدى نمى‌گيرم.</p>\n  <p id=\"p521\" paragraph-id=\"521\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "F0A42BFF-38ED-4EBA-B66C-AE16C03CAB01",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,104 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 111,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883792,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1207\"><page number=\"111\"/><heading level=\"5\">خوددارى از سخن گفتن </heading></p>"
+        },
+        {
+          "paragraphId": 627883793,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1208\">امام صادق عليه السّلام: به گاه به هم رسيدن ختنه‌گاه‌ها، از سخن گفتن بپرهيزيد؛ چراكه گنگى مى‌آورد.</p>"
+        },
+        {
+          "paragraphId": 627883794,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1209\"><heading level=\"4\"><format class=\"BM\">آنچه پس از آميزش، بايسته است </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883795,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1210\"><heading level=\"5\">غسل </heading></p>"
+        },
+        {
+          "paragraphId": 627883796,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1211\">امام صادق عليه السّلام: در پاسخ زنديقى كه پرسيد: علت غسل جنابت چيست‌؟ همانا آميزش‌كننده، كارى حلال انجام داده است و كار حلال هم مايه‌ى آلودگى نيست -: جنابت، همانند حيض است؛ چراكه نطفه، خونى است استحكام نايافته و آميزش هم امكان‌پذير نيست، مگر به حركتى سخت و شهوتى چيره. پس چون به پايان رساند، بدن نفس مى‌كشد و مرد از نفس آن، در خود بويى بد احساس مى‌كند. غسل براى همين واجب شده است و البته غسل جنابت، افزون بر اين، امانتى است كه خداوند بر بندگان خويش سپرده است تا از اين رهگذر، آنان را بيازمايد.</p>"
+        },
+        {
+          "paragraphId": 627883797,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1212\"><heading level=\"4\"><format class=\"BM\">آنچه انسان را بر آميزش جنسى يارى مى‌دهد </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883798,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1213\"><heading level=\"5\">خوردن <format class=\"VD\">زردك </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883799,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1214\">امام صادق عليه السّلام: زردك، مايه‌ى ايمنى از قولنج و بواسير است و به جماع، كمك مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627883800,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1215\">امام صادق عليه السّلام: خوردن زردك، كليه‌ها را گرم مى‌كند و آلت را بر مى‌خيزاند.</p>"
+        },
+        {
+          "paragraphId": 627883801,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1216\"><heading level=\"5\">خوردن <format class=\"VD\">پياز </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883802,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1217\">امام صادق عليه السّلام: پياز بخوريد؛ بوى دهان را خوش مى‌سازد، لثه را استحكام مى‌بخشد؛ و آب و توان آميزش را زياد مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627883803,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1218\"><page number=\"112\"/><heading level=\"5\">خوردن <format class=\"TD\">تخم‌مرغ همراه با پياز و روغن زيتون </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "111",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1207\" paragraph-id=\"1207\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo111\">111</span>\n    <strong style=\"0\" class=\"h-5 05\">خوددارى از سخن گفتن </strong>\n  </p>\n  <p id=\"p1208\" paragraph-id=\"1208\" class=\" G\">امام صادق عليه السّلام: به گاه به هم رسيدن ختنه‌گاه‌ها، از سخن گفتن بپرهيزيد؛ چراكه گنگى مى‌آورد.</p>\n  <p id=\"p1209\" paragraph-id=\"1209\" class=\" G\">\n    <strong style=\"0\" class=\"h-4 04\">\n      <span class=\"BM\">آنچه پس از آميزش، بايسته است </span>\n    </strong>\n  </p>\n  <p id=\"p1210\" paragraph-id=\"1210\" class=\" G\">\n    <strong style=\"0\" class=\"h-5 05\">غسل </strong>\n  </p>\n  <p id=\"p1211\" paragraph-id=\"1211\" class=\" G\">امام صادق عليه السّلام: در پاسخ زنديقى كه پرسيد: علت غسل جنابت چيست‌؟ همانا آميزش‌كننده، كارى حلال انجام داده است و كار حلال هم مايه‌ى آلودگى نيست -: جنابت، همانند حيض است؛ چراكه نطفه، خونى است استحكام نايافته و آميزش هم امكان‌پذير نيست، مگر به حركتى سخت و شهوتى چيره. پس چون به پايان رساند، بدن نفس مى‌كشد و مرد از نفس آن، در خود بويى بد احساس مى‌كند. غسل براى همين واجب شده است و البته غسل جنابت، افزون بر اين، امانتى است كه خداوند بر بندگان خويش سپرده است تا از اين رهگذر، آنان را بيازمايد.</p>\n  <p id=\"p1212\" paragraph-id=\"1212\" class=\" G\">\n    <strong style=\"0\" class=\"h-4 04\">\n      <span class=\"BM\">آنچه انسان را بر آميزش جنسى يارى مى‌دهد </span>\n    </strong>\n  </p>\n  <p id=\"p1213\" paragraph-id=\"1213\" class=\" G\">\n    <strong style=\"0\" class=\"h-5 05\">خوردن <span class=\"VD\">زردك </span></strong>\n  </p>\n  <p id=\"p1214\" paragraph-id=\"1214\" class=\" G\">امام صادق عليه السّلام: زردك، مايه‌ى ايمنى از قولنج و بواسير است و به جماع، كمك مى‌كند.</p>\n  <p id=\"p1215\" paragraph-id=\"1215\" class=\" G\">امام صادق عليه السّلام: خوردن زردك، كليه‌ها را گرم مى‌كند و آلت را بر مى‌خيزاند.</p>\n  <p id=\"p1216\" paragraph-id=\"1216\" class=\" G\">\n    <strong style=\"0\" class=\"h-5 05\">خوردن <span class=\"VD\">پياز </span></strong>\n  </p>\n  <p id=\"p1217\" paragraph-id=\"1217\" class=\" G\">امام صادق عليه السّلام: پياز بخوريد؛ بوى دهان را خوش مى‌سازد، لثه را استحكام مى‌بخشد؛ و آب و توان آميزش را زياد مى‌كند.</p>\n  <p id=\"p1218\" paragraph-id=\"1218\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "8CF64E28-744C-4716-875A-E8FDAB46E2D5",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

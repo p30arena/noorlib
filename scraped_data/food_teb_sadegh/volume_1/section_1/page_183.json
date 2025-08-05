@@ -1,0 +1,127 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 183,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884482,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1897\"><page number=\"183\"/>شده است.</p>"
+        },
+        {
+          "paragraphId": 627884483,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1898\">حضرت فرمود: چرا به وى برنج و دنبه‌ى گوسفند نمى‌دهى.</p>"
+        },
+        {
+          "paragraphId": 627884484,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1899\">و بعد دستورش را نيز به او داد كه چگونه دنبه و برنج را باهم بپزد.</p>"
+        },
+        {
+          "paragraphId": 627884485,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1900\">آن مرد با همين غذا دخترش را درمان كرد.</p>"
+        },
+        {
+          "paragraphId": 627884486,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1901\"><heading level=\"2\">6 - <format class=\"ZM\">اسهال </format></heading></p>"
+        },
+        {
+          "paragraphId": 627884487,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1902\">عبد الرحمن بن كثير مى‌گويد: در مدينه بيمار شدم، بيمارى من اسهال بود. </p>"
+        },
+        {
+          "paragraphId": 627884488,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1903\">ابو عبد اللّه صلوات اللّه عليه به من دستور داد كه آرد گاورس (ارزن) را با آب كمون<lfootnote noteId=\"10\">1</lfootnote> بياميزيم و از آن تناول كنم. چنين كردم و اسهال من آرام گرفت.</p>"
+        },
+        {
+          "paragraphId": 627884489,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1904\"><heading level=\"2\">7 - <format class=\"ZM\">صداى شكم </format></heading></p>"
+        },
+        {
+          "paragraphId": 627884490,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1905\">يكى از ياران امام به نام ذريح از نفخ شكم شكايت داشت. حضرت فرمود:</p>"
+        },
+        {
+          "paragraphId": 627884491,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1906\">- آيا شكم تو درد هم مى‌كند؟ جواب داد: آرى. فرمود: چرا از سياه‌دانه و عسل استفاده نمى‌كنى‌؟ ذريح بى‌درنگ عمل كرد و شفا يافت.</p>"
+        },
+        {
+          "paragraphId": 627884492,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1907\"><heading level=\"2\">8 - <format class=\"ZM\">ورم دردناك </format></heading></p>"
+        },
+        {
+          "paragraphId": 627884493,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"1908\">جابر بن حسان صوفى عرضه داشت كه بادى در بدن من افتاده و از فرق تا پايم را گرفته است، در حق من دعا كن تا از اين رنج‌ها رها شوم.</p>"
+        },
+        {
+          "paragraphId": 627884494,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"1909\">امام در حق او دعا كرد و برايش نوشت:</p>"
+        },
+        {
+          "paragraphId": 627884495,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"1910\">- از جيوه و عنبر شياف درست كن. با استعمالش شفا خواهى يافت.</p>"
+        },
+        {
+          "paragraphId": 627884496,
+          "paragNumber": 15,
+          "tocNumber": 0,
+          "text": "<p id=\"1911\"><page number=\"184\"/><heading level=\"2\">9 - <format class=\"ZM\">ضعف بدن </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": [
+        {
+          "footnoteId": 627884803,
+          "text": "<footnote id=\"10\"><page number=\"183\"/><mnote>(1)</mnote> - كمون يا زيره گياهى است كه هم در بيابان مى‌رويد و هم در باغ و بستان يافت مى‌شود اين گياه دانه دارد و چند قسم است. كرمانى، فارسى، شامى، حبشى، ارمنى</footnote>"
+        }
+      ],
+      "pageValue": "183",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1897\" paragraph-id=\"1897\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo183\">183</span>شده است.</p>\n  <p id=\"p1898\" paragraph-id=\"1898\" class=\" G\">حضرت فرمود: چرا به وى برنج و دنبه‌ى گوسفند نمى‌دهى.</p>\n  <p id=\"p1899\" paragraph-id=\"1899\" class=\" G\">و بعد دستورش را نيز به او داد كه چگونه دنبه و برنج را باهم بپزد.</p>\n  <p id=\"p1900\" paragraph-id=\"1900\" class=\" G\">آن مرد با همين غذا دخترش را درمان كرد.</p>\n  <p id=\"p1901\" paragraph-id=\"1901\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">6 - <span class=\"ZM\">اسهال </span></strong>\n  </p>\n  <p id=\"p1902\" paragraph-id=\"1902\" class=\" G\">عبد الرحمن بن كثير مى‌گويد: در مدينه بيمار شدم، بيمارى من اسهال بود. </p>\n  <p id=\"p1903\" paragraph-id=\"1903\" class=\" G\">ابو عبد اللّه صلوات اللّه عليه به من دستور داد كه آرد گاورس (ارزن) را با آب كمون<span><sup><a class=\"NewFn\" href=\"#footnote10\" title=\"(1)  - كمون يا زيره گياهى است كه هم در بيابان مى‌رويد و هم در باغ و بستان يافت مى‌شود اين گياه دانه دارد و چند قسم است. كرمانى، فارسى، شامى، حبشى، ارمنى\">1</a></sup></span> بياميزيم و از آن تناول كنم. چنين كردم و اسهال من آرام گرفت.</p>\n  <p id=\"p1904\" paragraph-id=\"1904\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">7 - <span class=\"ZM\">صداى شكم </span></strong>\n  </p>\n  <p id=\"p1905\" paragraph-id=\"1905\" class=\" G\">يكى از ياران امام به نام ذريح از نفخ شكم شكايت داشت. حضرت فرمود:</p>\n  <p id=\"p1906\" paragraph-id=\"1906\" class=\" G\">- آيا شكم تو درد هم مى‌كند؟ جواب داد: آرى. فرمود: چرا از سياه‌دانه و عسل استفاده نمى‌كنى‌؟ ذريح بى‌درنگ عمل كرد و شفا يافت.</p>\n  <p id=\"p1907\" paragraph-id=\"1907\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">8 - <span class=\"ZM\">ورم دردناك </span></strong>\n  </p>\n  <p id=\"p1908\" paragraph-id=\"1908\" class=\" G\">جابر بن حسان صوفى عرضه داشت كه بادى در بدن من افتاده و از فرق تا پايم را گرفته است، در حق من دعا كن تا از اين رنج‌ها رها شوم.</p>\n  <p id=\"p1909\" paragraph-id=\"1909\" class=\" G\">امام در حق او دعا كرد و برايش نوشت:</p>\n  <p id=\"p1910\" paragraph-id=\"1910\" class=\" G\">- از جيوه و عنبر شياف درست كن. با استعمالش شفا خواهى يافت.</p>\n  <p id=\"p1911\" paragraph-id=\"1911\" class=\" G\" />\n  <hr class=\"footnoteLine\" />\n  <span>\n    <div class=\"footnote OriginalDigit\" id=\"footnote10\" footnote-id=\"10\">(1) <page number=\"183\" /> - كمون يا زيره گياهى است كه هم در بيابان مى‌رويد و هم در باغ و بستان يافت مى‌شود اين گياه دانه دارد و چند قسم است. كرمانى، فارسى، شامى، حبشى، ارمنى</div>\n  </span>\n</div>",
+      "bookPageVisitLogId": "06D4FF23-EAD2-43E2-9DC2-E851013766ED",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,92 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 71,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883544,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"808\"><page number=\"71\"/>طبّ الأئمة عليه السّلام - به نقل از ابراهيم بن ابى يحيى، از امام صادق عليه السّلام -: از زكام نزد امام عليه السّلام اظهار ناراحتى كردم. فرمود: «پديده‌اى از پديده‌هاى خداوند، و سربازى از سربازان خداست كه خداوند، آن را به پيكار با بيمارانى در تن تو برانگيخته، تا آن را از جاى بركند. پس چون آن را از ميان بركند، بر تو باد.</p>"
+        },
+        {
+          "paragraphId": 627883545,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"809\"><heading level=\"2\"><format class=\"VD\">پياز </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883546,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"810\">الكافى - به نقل از محمد بن عبد اللّه بن محمد جعفى -: امام صادق عليه السّلام از پياز ياد كرد و فرمود: «بوى دهان را خوش مى‌سازد، بلغم را مى‌برد و بر توان جنسى مى‌افزايد.»</p>"
+        },
+        {
+          "paragraphId": 627883547,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"811\"><heading level=\"2\"><format class=\"VD\">حوك </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883548,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"812\">امام صادق عليه السّلام: حوك (بادروج)، سبزى پيامبران است. بدانيد كه در آن، هشت ويژگى است: هضم‌كننده است؛ گرفتگى‌هاى عروق و مجارى را مى‌گشايد؛ آروغ را خوش‌بو مى‌سازد؛ دهان را بوى خوش مى‌بخشد؛ اشتهاآور است....</p>"
+        },
+        {
+          "paragraphId": 627883549,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"813\"><heading level=\"2\"><format class=\"VD\">تره </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883550,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"814\">الكافى - به نقل از فرات بن احنف -: از امام صادق عليه السّلام دربارۀ تره پرسيدند. فرمود: «بخور؛ چراكه در آن، چهار ويژگى است: بوى دهان را خوش مى‌سازد...»</p>"
+        },
+        {
+          "paragraphId": 627883551,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"815\"><heading level=\"2\"><format class=\"VD\">مشكك </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883552,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"816\">امام صادق عليه السّلام: مشكك را لابه‌لاى دندان‌هاى خويش كنيد؛ چراكه دهان را خوش‌بو مى‌كند و بر توان همبسترى مى‌افزايد.</p>"
+        },
+        {
+          "paragraphId": 627883553,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"817\"><page number=\"72\"/><heading level=\"2\"><format class=\"VD\">آويشن</format> و <format class=\"VD\">نمك </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "71",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p808\" paragraph-id=\"808\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo71\">71</span>طبّ الأئمة عليه السّلام - به نقل از ابراهيم بن ابى يحيى، از امام صادق عليه السّلام -: از زكام نزد امام عليه السّلام اظهار ناراحتى كردم. فرمود: «پديده‌اى از پديده‌هاى خداوند، و سربازى از سربازان خداست كه خداوند، آن را به پيكار با بيمارانى در تن تو برانگيخته، تا آن را از جاى بركند. پس چون آن را از ميان بركند، بر تو باد.</p>\n  <p id=\"p809\" paragraph-id=\"809\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"VD\">پياز </span>\n    </strong>\n  </p>\n  <p id=\"p810\" paragraph-id=\"810\" class=\" G\">الكافى - به نقل از محمد بن عبد اللّه بن محمد جعفى -: امام صادق عليه السّلام از پياز ياد كرد و فرمود: «بوى دهان را خوش مى‌سازد، بلغم را مى‌برد و بر توان جنسى مى‌افزايد.»</p>\n  <p id=\"p811\" paragraph-id=\"811\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"VD\">حوك </span>\n    </strong>\n  </p>\n  <p id=\"p812\" paragraph-id=\"812\" class=\" G\">امام صادق عليه السّلام: حوك (بادروج)، سبزى پيامبران است. بدانيد كه در آن، هشت ويژگى است: هضم‌كننده است؛ گرفتگى‌هاى عروق و مجارى را مى‌گشايد؛ آروغ را خوش‌بو مى‌سازد؛ دهان را بوى خوش مى‌بخشد؛ اشتهاآور است....</p>\n  <p id=\"p813\" paragraph-id=\"813\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"VD\">تره </span>\n    </strong>\n  </p>\n  <p id=\"p814\" paragraph-id=\"814\" class=\" G\">الكافى - به نقل از فرات بن احنف -: از امام صادق عليه السّلام دربارۀ تره پرسيدند. فرمود: «بخور؛ چراكه در آن، چهار ويژگى است: بوى دهان را خوش مى‌سازد...»</p>\n  <p id=\"p815\" paragraph-id=\"815\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"VD\">مشكك </span>\n    </strong>\n  </p>\n  <p id=\"p816\" paragraph-id=\"816\" class=\" G\">امام صادق عليه السّلام: مشكك را لابه‌لاى دندان‌هاى خويش كنيد؛ چراكه دهان را خوش‌بو مى‌كند و بر توان همبسترى مى‌افزايد.</p>\n  <p id=\"p817\" paragraph-id=\"817\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "3B618B7F-EA2A-49F6-B907-78711C3C8146",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

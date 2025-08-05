@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 18,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627882982,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"397\"><page number=\"18\"/><page number=\"19\"/><heading level=\"1\">ميلاد سعادت‌آفرين و فرهنگ‌گستر امام صادق عليه السّلام </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "18",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p397\" paragraph-id=\"397\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo18\">18</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "12B6B0C8-703B-421F-88FB-FF038CB98D56",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

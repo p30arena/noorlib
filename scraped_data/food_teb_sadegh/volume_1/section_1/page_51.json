@@ -1,0 +1,92 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 51,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883400,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"664\">امام صادق عليه السّلام: تلبينه، دل اندوهگين را جلا مى‌بخشد، چنان‌كه انگشتان، عرق را از پيشانى مى‌زدايند. [تلبينه نوعى آش است كه از سبوس و شيره<page number=\"51\"/> عسل، تهيه مى‌شود].</p>"
+        },
+        {
+          "paragraphId": 627883401,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"665\"><heading level=\"2\">براى سلامتى رگ‌ها</heading></p>"
+        },
+        {
+          "paragraphId": 627883402,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"666\"><heading level=\"3\"><format class=\"VD\">بادنجان </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883403,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"667\">امام صادق عليه السّلام: در هنگام خرماچينى، فراوان بادنجان (/بادمجان) بخوريد؛ چراكه شفاى هر درد است، بر روشنى چهره مى‌افزايد، رگ‌ها را نرم مى‌كند و آب كمر (نيروى جنسى) را افزون مى‌سازد.</p>"
+        },
+        {
+          "paragraphId": 627883404,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"668\"><heading level=\"3\"><format class=\"VD\">حوك </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883405,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"669\">امام صادق عليه السّلام: حوك (/باذروج) سبزى پيامبران است. بدان‌كه در آن، هشت ويژگى است: هضم‌كننده است؛ گرفتگى‌هاى عروق و مجارى را مى‌گشايد؛ آروغ را خوش‌بو مى‌سازد؛ دهان را بوى خوش مى‌بخشد؛ غذا را دوست‌داشتنى مى‌سازد؛ درد و بيمارى را از درون بدن، بيرون مى‌كشد؛ و امان انسان از جذام است؛ [و] چون در درون انسان جاى گيرد، همه‌ى بيمارى‌ها را فرومى‌نشاند.</p>"
+        },
+        {
+          "paragraphId": 627883406,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"670\"><heading level=\"3\">و - شام خوردن </heading></p>"
+        },
+        {
+          "paragraphId": 627883407,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"671\">امام صادق عليه السّلام: شام را وامگذار، هرچند به سه لقمه‌ى نان و نمك باشد. </p>"
+        },
+        {
+          "paragraphId": 627883408,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"672\">هركس يك شب شام را واگذارد، يك رگ در بدن وى مى‌ميرد و اين رگ، هرگز زنده نمى‌شود. </p>"
+        },
+        {
+          "paragraphId": 627883409,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"673\"><page number=\"52\"/><page number=\"53\"/><heading level=\"1\"><format class=\"BM\">مغز</format> و <format class=\"BM\">اعصاب </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "51",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p664\" paragraph-id=\"664\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo51\">51</span> عسل، تهيه مى‌شود].</p>\n  <p id=\"p665\" paragraph-id=\"665\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">براى سلامتى رگ‌ها</strong>\n  </p>\n  <p id=\"p666\" paragraph-id=\"666\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">بادنجان </span>\n    </strong>\n  </p>\n  <p id=\"p667\" paragraph-id=\"667\" class=\" G\">امام صادق عليه السّلام: در هنگام خرماچينى، فراوان بادنجان (/بادمجان) بخوريد؛ چراكه شفاى هر درد است، بر روشنى چهره مى‌افزايد، رگ‌ها را نرم مى‌كند و آب كمر (نيروى جنسى) را افزون مى‌سازد.</p>\n  <p id=\"p668\" paragraph-id=\"668\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">حوك </span>\n    </strong>\n  </p>\n  <p id=\"p669\" paragraph-id=\"669\" class=\" G\">امام صادق عليه السّلام: حوك (/باذروج) سبزى پيامبران است. بدان‌كه در آن، هشت ويژگى است: هضم‌كننده است؛ گرفتگى‌هاى عروق و مجارى را مى‌گشايد؛ آروغ را خوش‌بو مى‌سازد؛ دهان را بوى خوش مى‌بخشد؛ غذا را دوست‌داشتنى مى‌سازد؛ درد و بيمارى را از درون بدن، بيرون مى‌كشد؛ و امان انسان از جذام است؛ [و] چون در درون انسان جاى گيرد، همه‌ى بيمارى‌ها را فرومى‌نشاند.</p>\n  <p id=\"p670\" paragraph-id=\"670\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">و - شام خوردن </strong>\n  </p>\n  <p id=\"p671\" paragraph-id=\"671\" class=\" G\">امام صادق عليه السّلام: شام را وامگذار، هرچند به سه لقمه‌ى نان و نمك باشد. </p>\n  <p id=\"p672\" paragraph-id=\"672\" class=\" G\">هركس يك شب شام را واگذارد، يك رگ در بدن وى مى‌ميرد و اين رگ، هرگز زنده نمى‌شود. </p>\n  <p id=\"p673\" paragraph-id=\"673\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "25AA6735-929B-4334-9313-E59726EBAB7B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

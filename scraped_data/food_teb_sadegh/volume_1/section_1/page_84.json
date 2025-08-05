@@ -1,0 +1,92 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 84,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883169,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"933\"><page number=\"84\"/><heading level=\"3\"><format class=\"VD\">خرما</format> خوردن پيش از خواب </heading></p>"
+        },
+        {
+          "paragraphId": 627883170,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"934\">امام صادق عليه السّلام: هركس به هنگام خواب، هفت خرماى عجوه بخورد، خرما كرم‌هاى شكم او را مى‌كشد.</p>"
+        },
+        {
+          "paragraphId": 627883171,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"935\"><heading level=\"3\"><format class=\"VD\">آب</format> درمانى </heading></p>"
+        },
+        {
+          "paragraphId": 627883172,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"936\">امام صادق عليه السّلام: پيامبر خدا، به هنگام روزه گشودن، با حلوا افطار مى‌كرد. اگر حلوا نبود، با شكرينه‌اى ديگر يا چند دانه‌ى خرما، و اگر آن نيز نبود، با آب خالى. مى‌فرمود: «آب، معده و كبد را تميز مى‌كند، دهان را خوش‌بو مى‌كند، دندان‌ها را محكم مى‌سازد، چشم را قوت مى‌دهد و ديده را جلا مى‌بخشد، گناهان را از انسان مى‌شويد، رگ‌هاى برآشفته و تلخه‌ى تحريك شده را فرومى‌نشاند، بلغم را از بين مى‌برد، حرارت را از معده بر مى‌دارد، و سردرد را نيز از ميان مى‌برد».</p>"
+        },
+        {
+          "paragraphId": 627883173,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"937\"><heading level=\"2\">سودمند براى درمان بى‌اشتهايى</heading></p>"
+        },
+        {
+          "paragraphId": 627883174,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"938\"><heading level=\"3\"><format class=\"VD\">پنير </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883175,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"939\">امام صادق عليه السّلام: چه نيكو لقمه‌اى است پنير! دهان را تر و تازه مى‌كند، بوى دهان را خوش مى‌سازد، غذاى پيشين را هضم مى‌كند و براى غذاى بعد، اشتها را باز مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627883176,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"940\"><heading level=\"3\"><format class=\"VD\">حوك </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883177,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"941\">امام صادق عليه السّلام: حوك، سبزى پيامبران است. بدانيد كه در آن، هشت ويژگى است: هضم‌كننده است؛ گرفتگى عروق و مجارى را مى‌گشايد؛ آروغ را خوش‌بو مى‌سازد؛ دهان را بوى خوش مى‌بخشد؛ اشتهاآور است و درد را از [بدن] بيرون مى‌كشد.</p>"
+        },
+        {
+          "paragraphId": 627883178,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"942\"><page number=\"85\"/><heading level=\"2\">نشانه‌هاى بيمارى‌هاى خون </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "84",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p933\" paragraph-id=\"933\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo84\">84</span>\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">خرما</span> خوردن پيش از خواب </strong>\n  </p>\n  <p id=\"p934\" paragraph-id=\"934\" class=\" G\">امام صادق عليه السّلام: هركس به هنگام خواب، هفت خرماى عجوه بخورد، خرما كرم‌هاى شكم او را مى‌كشد.</p>\n  <p id=\"p935\" paragraph-id=\"935\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">آب</span> درمانى </strong>\n  </p>\n  <p id=\"p936\" paragraph-id=\"936\" class=\" G\">امام صادق عليه السّلام: پيامبر خدا، به هنگام روزه گشودن، با حلوا افطار مى‌كرد. اگر حلوا نبود، با شكرينه‌اى ديگر يا چند دانه‌ى خرما، و اگر آن نيز نبود، با آب خالى. مى‌فرمود: «آب، معده و كبد را تميز مى‌كند، دهان را خوش‌بو مى‌كند، دندان‌ها را محكم مى‌سازد، چشم را قوت مى‌دهد و ديده را جلا مى‌بخشد، گناهان را از انسان مى‌شويد، رگ‌هاى برآشفته و تلخه‌ى تحريك شده را فرومى‌نشاند، بلغم را از بين مى‌برد، حرارت را از معده بر مى‌دارد، و سردرد را نيز از ميان مى‌برد».</p>\n  <p id=\"p937\" paragraph-id=\"937\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">سودمند براى درمان بى‌اشتهايى</strong>\n  </p>\n  <p id=\"p938\" paragraph-id=\"938\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">پنير </span>\n    </strong>\n  </p>\n  <p id=\"p939\" paragraph-id=\"939\" class=\" G\">امام صادق عليه السّلام: چه نيكو لقمه‌اى است پنير! دهان را تر و تازه مى‌كند، بوى دهان را خوش مى‌سازد، غذاى پيشين را هضم مى‌كند و براى غذاى بعد، اشتها را باز مى‌كند.</p>\n  <p id=\"p940\" paragraph-id=\"940\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">حوك </span>\n    </strong>\n  </p>\n  <p id=\"p941\" paragraph-id=\"941\" class=\" G\">امام صادق عليه السّلام: حوك، سبزى پيامبران است. بدانيد كه در آن، هشت ويژگى است: هضم‌كننده است؛ گرفتگى عروق و مجارى را مى‌گشايد؛ آروغ را خوش‌بو مى‌سازد؛ دهان را بوى خوش مى‌بخشد؛ اشتهاآور است و درد را از [بدن] بيرون مى‌كشد.</p>\n  <p id=\"p942\" paragraph-id=\"942\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "41880D7F-0D52-4B1B-84CD-A68115A5032B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

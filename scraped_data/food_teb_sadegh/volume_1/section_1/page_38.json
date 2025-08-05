@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 38,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883298,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"562\"><page number=\"38\"/><heading level=\"2\"><format class=\"BM\">عوامل طول عمر </format>موجبات پيرى زودرس </heading></p>"
+        },
+        {
+          "paragraphId": 627883299,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"563\">امام صادق عليه السّلام: دست‌هايتان را پيش و پس از غذا خوردن بشوييد، كه فقر را مى‌برد و بر عمر مى‌افزايد.</p>"
+        },
+        {
+          "paragraphId": 627883300,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"564\">امام صادق عليه السّلام: چهار چيز [انسان را] پيش از فرارسيدن هنگام پيرى پير مى‌كند: خوردن گوشت خشك شده، نشستن بر جاى مرطوب، بالا رفتن بر پلكان، و آميزش با پيرزنان.</p>"
+        },
+        {
+          "paragraphId": 627883301,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"565\"><heading level=\"2\"><format class=\"BM\">عوامل فرسودگى بدن </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883302,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"566\">امام صادق عليه السّلام: سه چيز، بدن را فرسوده مى‌كند و شايد هم [فرد را] بكشد: حمّام رفتن با شكم پر، آميزش كردن با شكم پر و همبسترى با پيرزنان.</p>"
+        },
+        {
+          "paragraphId": 627883303,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"567\">امام صادق عليه السّلام: دو چيز مناسب‌اند كه به هيچ درون نادرستى درنيايند، مگر اينكه آن را به درستى آورند، و دو چيز نامناسب‌اند كه به هيچ درون سالمى درنيايند، مگر اينكه آن را نادرست [و ناسالم] كنند. آن دو چيز مناسب، عبارت‌اند از: انار و آب نيم‌گرم؛ و آن دو چيز نامناسب نيز عبارت‌اند از: پنير و گوشت خشك شده.</p>"
+        },
+        {
+          "paragraphId": 627883304,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"568\"><heading level=\"2\"><format class=\"BM\">خاصيت‌هاى بوى خوش </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883305,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"569\">امام صادق عليه السّلام: بوى خوش، عقل را استوار مى‌كند و بر توان جنسى مى‌افزايد.</p>"
+        },
+        {
+          "paragraphId": 627883306,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"570\">امام صادق عليه السّلام: هركس در آغاز روز، بوى خوش استعمال كند، تا شب، عقلش او را همراهى مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627883307,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"571\">امام صادق عليه السّلام: هركس درحالى‌كه روزه است، در آغاز روزه، خوش‌بوكننده‌اى به كار ببرد، عقل خويش را از كف ندهد.</p>"
+        },
+        {
+          "paragraphId": 627883308,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"572\"><page number=\"39\"/><heading level=\"2\"><format class=\"BM\">نقش كفش در سلامت </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "38",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p562\" paragraph-id=\"562\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo38\">38</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BM\">عوامل طول عمر </span>موجبات پيرى زودرس </strong>\n  </p>\n  <p id=\"p563\" paragraph-id=\"563\" class=\" G\">امام صادق عليه السّلام: دست‌هايتان را پيش و پس از غذا خوردن بشوييد، كه فقر را مى‌برد و بر عمر مى‌افزايد.</p>\n  <p id=\"p564\" paragraph-id=\"564\" class=\" G\">امام صادق عليه السّلام: چهار چيز [انسان را] پيش از فرارسيدن هنگام پيرى پير مى‌كند: خوردن گوشت خشك شده، نشستن بر جاى مرطوب، بالا رفتن بر پلكان، و آميزش با پيرزنان.</p>\n  <p id=\"p565\" paragraph-id=\"565\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BM\">عوامل فرسودگى بدن </span>\n    </strong>\n  </p>\n  <p id=\"p566\" paragraph-id=\"566\" class=\" G\">امام صادق عليه السّلام: سه چيز، بدن را فرسوده مى‌كند و شايد هم [فرد را] بكشد: حمّام رفتن با شكم پر، آميزش كردن با شكم پر و همبسترى با پيرزنان.</p>\n  <p id=\"p567\" paragraph-id=\"567\" class=\" G\">امام صادق عليه السّلام: دو چيز مناسب‌اند كه به هيچ درون نادرستى درنيايند، مگر اينكه آن را به درستى آورند، و دو چيز نامناسب‌اند كه به هيچ درون سالمى درنيايند، مگر اينكه آن را نادرست [و ناسالم] كنند. آن دو چيز مناسب، عبارت‌اند از: انار و آب نيم‌گرم؛ و آن دو چيز نامناسب نيز عبارت‌اند از: پنير و گوشت خشك شده.</p>\n  <p id=\"p568\" paragraph-id=\"568\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BM\">خاصيت‌هاى بوى خوش </span>\n    </strong>\n  </p>\n  <p id=\"p569\" paragraph-id=\"569\" class=\" G\">امام صادق عليه السّلام: بوى خوش، عقل را استوار مى‌كند و بر توان جنسى مى‌افزايد.</p>\n  <p id=\"p570\" paragraph-id=\"570\" class=\" G\">امام صادق عليه السّلام: هركس در آغاز روز، بوى خوش استعمال كند، تا شب، عقلش او را همراهى مى‌كند.</p>\n  <p id=\"p571\" paragraph-id=\"571\" class=\" G\">امام صادق عليه السّلام: هركس درحالى‌كه روزه است، در آغاز روزه، خوش‌بوكننده‌اى به كار ببرد، عقل خويش را از كف ندهد.</p>\n  <p id=\"p572\" paragraph-id=\"572\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "A29B018E-0907-49E6-B117-6F40765440EB",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

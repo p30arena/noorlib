@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 92,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883615,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1030\">الكافى - به نقل از عمر بن اذينه -: مردى از ترك پوست دست و پاى خود، نزد امام صادق عليه السّلام اظهار ناراحتى كرد. امام به او فرمود: «پنبه‌اى بردار<page number=\"92\"/> و يك گياه بان در ميان آن قرار ده و آن را در ناف خود كن».</p>"
+        },
+        {
+          "paragraphId": 627883616,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1031\">اسحاق بن عمّار گفت: فدايت شوم! گياه بان را در ميان پنبه‌اى بپيچد و آن را در ناف خود قرار دهد؟</p>"
+        },
+        {
+          "paragraphId": 627883617,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1032\">فرمود: «امّا تو اى اسحاق! بان را در ناف خود بريز، كه بزرگ است [و گنجايش دارد]».</p>"
+        },
+        {
+          "paragraphId": 627883618,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1033\">ابن اذينه مى‌گويد: پس از آن ماجرا، آن مرد را ديدم و به من گفت كه آن كار را يك‌بار انجام داده و ناراحتى او از ميان رفته است.</p>"
+        },
+        {
+          "paragraphId": 627883619,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1034\"><heading level=\"2\">سودمند براى درمان <format class=\"ZM\">كك‌ومك صورت </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883620,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1035\">امام صادق عليه السّلام: هركس بر نخستين لقمه‌ى غذاى خود، نمك بپاشد، كك و مك صورت او از ميان مى‌رود.</p>"
+        },
+        {
+          "paragraphId": 627883621,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1036\"><heading level=\"2\">مفيد براى درمان <format class=\"ZM\">سبوسه </format>(<format class=\"ZM\">شوره سر</format>) </heading></p>"
+        },
+        {
+          "paragraphId": 627883622,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1037\">امام صادق عليه السّلام: شستن سر با خطمى، مايه‌ى ايمنى از سردرد، بر كنار ماندن از فقر، و پاكيزگى سر از سبوسه است.</p>"
+        },
+        {
+          "paragraphId": 627883623,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1038\"><heading level=\"2\">سودمند براى درمان <format class=\"ZM\">بدبويى عرق </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883624,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1039\">امام صادق عليه السّلام: حنا، بوى بد عرق را از ميان مى‌برد. بر طراوت صورت مى‌افزايد، دهان را خوش‌بو مى‌كند و فرزند را نيكو مى‌سازد.</p>"
+        },
+        {
+          "paragraphId": 627883625,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1040\"><page number=\"93\"/><heading level=\"1\">اشاره به <format class=\"BM\">حكمت نهفته در مو </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "92",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1030\" paragraph-id=\"1030\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo92\">92</span> و يك گياه بان در ميان آن قرار ده و آن را در ناف خود كن».</p>\n  <p id=\"p1031\" paragraph-id=\"1031\" class=\" G\">اسحاق بن عمّار گفت: فدايت شوم! گياه بان را در ميان پنبه‌اى بپيچد و آن را در ناف خود قرار دهد؟</p>\n  <p id=\"p1032\" paragraph-id=\"1032\" class=\" G\">فرمود: «امّا تو اى اسحاق! بان را در ناف خود بريز، كه بزرگ است [و گنجايش دارد]».</p>\n  <p id=\"p1033\" paragraph-id=\"1033\" class=\" G\">ابن اذينه مى‌گويد: پس از آن ماجرا، آن مرد را ديدم و به من گفت كه آن كار را يك‌بار انجام داده و ناراحتى او از ميان رفته است.</p>\n  <p id=\"p1034\" paragraph-id=\"1034\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">سودمند براى درمان <span class=\"ZM\">كك‌ومك صورت </span></strong>\n  </p>\n  <p id=\"p1035\" paragraph-id=\"1035\" class=\" G\">امام صادق عليه السّلام: هركس بر نخستين لقمه‌ى غذاى خود، نمك بپاشد، كك و مك صورت او از ميان مى‌رود.</p>\n  <p id=\"p1036\" paragraph-id=\"1036\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">مفيد براى درمان <span class=\"ZM\">سبوسه </span>(<span class=\"ZM\">شوره سر</span>) </strong>\n  </p>\n  <p id=\"p1037\" paragraph-id=\"1037\" class=\" G\">امام صادق عليه السّلام: شستن سر با خطمى، مايه‌ى ايمنى از سردرد، بر كنار ماندن از فقر، و پاكيزگى سر از سبوسه است.</p>\n  <p id=\"p1038\" paragraph-id=\"1038\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">سودمند براى درمان <span class=\"ZM\">بدبويى عرق </span></strong>\n  </p>\n  <p id=\"p1039\" paragraph-id=\"1039\" class=\" G\">امام صادق عليه السّلام: حنا، بوى بد عرق را از ميان مى‌برد. بر طراوت صورت مى‌افزايد، دهان را خوش‌بو مى‌كند و فرزند را نيكو مى‌سازد.</p>\n  <p id=\"p1040\" paragraph-id=\"1040\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "F563E274-E778-46EB-BDF7-CFAE5CC31C92",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

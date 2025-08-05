@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 32,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883248,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"512\"><page number=\"32\"/><page number=\"33\"/><heading level=\"1\"><format class=\"BM\">آداب طبابت و وظايف طبيب </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "32",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p512\" paragraph-id=\"512\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo32\">32</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "269EFBB3-3B19-4A5D-9794-4646A1BC1CB6",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

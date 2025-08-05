@@ -1,0 +1,104 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 48,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883374,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"638\"><page number=\"48\"/><heading level=\"1\"><format class=\"BM\">آداب عيادت </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883375,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"639\"><heading level=\"2\">هديه دادن به بيمار </heading></p>"
+        },
+        {
+          "paragraphId": 627883376,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"640\">الكافى - به نقل از يكى از وابستگان امام صادق عليه السّلام -: يكى از وابستگان امام صادق عليه السّلام بيمار شد و ما كه شمارى از وابستگان او بوديم، روانه‌ى عيادت آن بيمار شديم. در ميانه‌ى راه، امام صادق عليه السّلام با ما رويارو شد و پرسيد: «آهنگ كجا داريد؟».</p>"
+        },
+        {
+          "paragraphId": 627883377,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"641\">گفتيم: آهنگ فلان كس داريم تا از او عيادت كنيم.</p>"
+        },
+        {
+          "paragraphId": 627883378,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"642\">فرمود: «بايستيد».</p>"
+        },
+        {
+          "paragraphId": 627883379,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"643\">ما ايستاديم. پس فرمود: «آيا سيب، به، يا قطعه‌اى عود به همراه داريد؟».</p>"
+        },
+        {
+          "paragraphId": 627883380,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"644\">گفتيم: هيچ‌يك از اين چيزها را همراه نداريم.</p>"
+        },
+        {
+          "paragraphId": 627883381,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"645\">فرمود: «آيا نمى‌دانيد كه بيمار از آنچه نزد وى مى‌برند، احساس آرامش مى‌كند؟».</p>"
+        },
+        {
+          "paragraphId": 627883382,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"646\">امام صادق عليه السّلام: هركس بيمارى را براى خدا عيادت كند، آن بيمار براى عيادت‌كننده، از خداوند چيزى نخواهد مگر آنكه خداوند دعايش را استجابت كند.</p>"
+        },
+        {
+          "paragraphId": 627883383,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"647\">امام صادق عليه السّلام: در عيادت، آن‌كس از شما بيشترين پاداش را مى‌برد كه كمتر از همه بنشيند.</p>"
+        },
+        {
+          "paragraphId": 627883384,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"648\">امام صادق عليه السّلام: در كمتر از سه روز، عيادتى نيست و آن‌گاه كه عيادت لازم شود، يك روز در ميان باشد. اگر هم بيمارى به درازا انجامد، بيمار به كسانش واگذارده مى‌شود.</p>"
+        },
+        {
+          "paragraphId": 627883385,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"649\"><page number=\"49\"/><heading level=\"1\">اشاره به <format class=\"BM\">حكمت نهفته در دستگاه قلب </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "48",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p638\" paragraph-id=\"638\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo48\">48</span>\n    <strong style=\"0\" class=\"h-1 01\">\n      <span class=\"BM\">آداب عيادت </span>\n    </strong>\n  </p>\n  <p id=\"p639\" paragraph-id=\"639\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">هديه دادن به بيمار </strong>\n  </p>\n  <p id=\"p640\" paragraph-id=\"640\" class=\" G\">الكافى - به نقل از يكى از وابستگان امام صادق عليه السّلام -: يكى از وابستگان امام صادق عليه السّلام بيمار شد و ما كه شمارى از وابستگان او بوديم، روانه‌ى عيادت آن بيمار شديم. در ميانه‌ى راه، امام صادق عليه السّلام با ما رويارو شد و پرسيد: «آهنگ كجا داريد؟».</p>\n  <p id=\"p641\" paragraph-id=\"641\" class=\" G\">گفتيم: آهنگ فلان كس داريم تا از او عيادت كنيم.</p>\n  <p id=\"p642\" paragraph-id=\"642\" class=\" G\">فرمود: «بايستيد».</p>\n  <p id=\"p643\" paragraph-id=\"643\" class=\" G\">ما ايستاديم. پس فرمود: «آيا سيب، به، يا قطعه‌اى عود به همراه داريد؟».</p>\n  <p id=\"p644\" paragraph-id=\"644\" class=\" G\">گفتيم: هيچ‌يك از اين چيزها را همراه نداريم.</p>\n  <p id=\"p645\" paragraph-id=\"645\" class=\" G\">فرمود: «آيا نمى‌دانيد كه بيمار از آنچه نزد وى مى‌برند، احساس آرامش مى‌كند؟».</p>\n  <p id=\"p646\" paragraph-id=\"646\" class=\" G\">امام صادق عليه السّلام: هركس بيمارى را براى خدا عيادت كند، آن بيمار براى عيادت‌كننده، از خداوند چيزى نخواهد مگر آنكه خداوند دعايش را استجابت كند.</p>\n  <p id=\"p647\" paragraph-id=\"647\" class=\" G\">امام صادق عليه السّلام: در عيادت، آن‌كس از شما بيشترين پاداش را مى‌برد كه كمتر از همه بنشيند.</p>\n  <p id=\"p648\" paragraph-id=\"648\" class=\" G\">امام صادق عليه السّلام: در كمتر از سه روز، عيادتى نيست و آن‌گاه كه عيادت لازم شود، يك روز در ميان باشد. اگر هم بيمارى به درازا انجامد، بيمار به كسانش واگذارده مى‌شود.</p>\n  <p id=\"p649\" paragraph-id=\"649\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "81458797-6416-40C8-8712-528FDB59789E",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

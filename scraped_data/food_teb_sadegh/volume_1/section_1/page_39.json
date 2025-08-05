@@ -1,0 +1,74 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 39,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883308,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"572\"><page number=\"39\"/><heading level=\"2\"><format class=\"BM\">نقش كفش در سلامت </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883309,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"573\">امام صادق عليه السّلام: عادت به پوشيدن كفش، از مرگ‌هاى بد، جلوگيرى مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627883310,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"574\">امام صادق عليه السّلام - هنگامى كه به يكى از اصحاب خود نگريست كه كفش سياه داشت -: تو را كفش مشكى به چه كار؟! آيا نمى‌دانى كه اين كفش به چشم زيان مى‌رساند، آلت مردانگى را سست مى‌كند، از ديگر انواع، گران‌تر است و هيچ‌كس آن را نمى‌پوشد، مگر اينكه با آن، احساس نخوت مى‌كند؟!</p>"
+        },
+        {
+          "paragraphId": 627883311,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"575\"><heading level=\"2\"><format class=\"BM\">نهى از درمان با چشمه‌هاى آب گرم و آب‌هاى تلخ </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883312,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"576\">امام صادق عليه السّلام: پيامبر خدا، از درمان با چشمه‌هاى آب گرم، نهى فرموده است، و آنها، چشمه‌هايى از آب گرم در كوهستان‌هاست كه بوى گوگرد دارد.</p>"
+        },
+        {
+          "paragraphId": 627883313,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"577\">امام صادق عليه السّلام: پدرم خوش نداشت به آب تلخ و آب گوگرددار، درمان كند. او مى‌فرمود: «نوح، آن هنگام كه توفان به پا شده بود، آب‌ها را فراخواند و همه‌ى آنها به او پاسخ دادند، مگر آب‌هاى تلخ و آب‌هاى گوگرددار. پس، اين آب‌ها را نفرين كرد».</p>"
+        },
+        {
+          "paragraphId": 627883314,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"578\"><page number=\"40\"/><page number=\"41\"/><heading level=\"1\"><format class=\"BM\">حكمت بيمارى </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "39",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p572\" paragraph-id=\"572\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo39\">39</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BM\">نقش كفش در سلامت </span>\n    </strong>\n  </p>\n  <p id=\"p573\" paragraph-id=\"573\" class=\" G\">امام صادق عليه السّلام: عادت به پوشيدن كفش، از مرگ‌هاى بد، جلوگيرى مى‌كند.</p>\n  <p id=\"p574\" paragraph-id=\"574\" class=\" G\">امام صادق عليه السّلام - هنگامى كه به يكى از اصحاب خود نگريست كه كفش سياه داشت -: تو را كفش مشكى به چه كار؟! آيا نمى‌دانى كه اين كفش به چشم زيان مى‌رساند، آلت مردانگى را سست مى‌كند، از ديگر انواع، گران‌تر است و هيچ‌كس آن را نمى‌پوشد، مگر اينكه با آن، احساس نخوت مى‌كند؟!</p>\n  <p id=\"p575\" paragraph-id=\"575\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BM\">نهى از درمان با چشمه‌هاى آب گرم و آب‌هاى تلخ </span>\n    </strong>\n  </p>\n  <p id=\"p576\" paragraph-id=\"576\" class=\" G\">امام صادق عليه السّلام: پيامبر خدا، از درمان با چشمه‌هاى آب گرم، نهى فرموده است، و آنها، چشمه‌هايى از آب گرم در كوهستان‌هاست كه بوى گوگرد دارد.</p>\n  <p id=\"p577\" paragraph-id=\"577\" class=\" G\">امام صادق عليه السّلام: پدرم خوش نداشت به آب تلخ و آب گوگرددار، درمان كند. او مى‌فرمود: «نوح، آن هنگام كه توفان به پا شده بود، آب‌ها را فراخواند و همه‌ى آنها به او پاسخ دادند، مگر آب‌هاى تلخ و آب‌هاى گوگرددار. پس، اين آب‌ها را نفرين كرد».</p>\n  <p id=\"p578\" paragraph-id=\"578\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "41FD341C-5566-463A-A9BB-9CCC10E052AD",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

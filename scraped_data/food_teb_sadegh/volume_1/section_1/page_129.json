@@ -1,0 +1,44 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 129,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883996,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1411\"><page number=\"129\"/><heading level=\"1\">درمان‌هاى طبيعى با ميوه‌ها و گياهان</heading></p>"
+        },
+        {
+          "paragraphId": 627883997,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1412\"><page number=\"130\"/><page number=\"131\"/><heading level=\"2\">درمان با ميوه‌ها و گياهان دارويى</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "129",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1411\" paragraph-id=\"1411\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo129\">129</span>\n    <strong style=\"0\" class=\"h-1 01\">درمان‌هاى طبيعى با ميوه‌ها و گياهان</strong>\n  </p>\n  <p id=\"p1412\" paragraph-id=\"1412\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "BE2DBA09-27C9-4641-B4CE-11487FEE813C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

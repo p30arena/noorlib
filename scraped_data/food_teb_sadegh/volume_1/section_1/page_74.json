@@ -1,0 +1,86 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 74,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883578,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"842\"><page number=\"74\"/><heading level=\"2\">برخى از عوامل بيمارى‌هاى دهان و دندان </heading></p>"
+        },
+        {
+          "paragraphId": 627883579,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"843\">امام صادق عليه السّلام: از مسواك زدن در حمّام، حذر كن؛ چراكه وباى دندان‌ها را در پى مى‌آورد.</p>"
+        },
+        {
+          "paragraphId": 627883580,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"844\"><heading level=\"2\">آنچه براى درمان دندان‌درد سودمند است </heading></p>"
+        },
+        {
+          "paragraphId": 627883581,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"845\">طب الأئمة عليه السّلام - به نقل از محمّد بن ابى نصر، از پدرش، از امام صادق عليه السّلام -: نزد امام عليه السّلام از ناآرامى سر و دندان‌هايم و از دردى شديد در چشم‌هايم - تا جايى كه صورتم در اثر آن ورم كرده بود - اظهار ناراحتى كردم.</p>"
+        },
+        {
+          "paragraphId": 627883582,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"846\">فرمود: «بر تو باد اين كاسنى. آن را بفشر و آبش را بگير و از اين شكر طبرزد، به مقدار فراوان، بر آن بريزد؛ چراكه درد را تسكين دهد و ضرر آن را دفع كند».</p>"
+        },
+        {
+          "paragraphId": 627883583,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"847\">من به خانه‌ى خود رفتم و همان شب، پيش از آنكه بخوابم، اين دارو را ساختم و خوردم و بر آن خوابيدم. صبح كه شد، به حمد و منّت الهى بهبود يافته بودم.</p>"
+        },
+        {
+          "paragraphId": 627883584,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"848\"><heading level=\"2\">سودمند براى درمان و رفع بوى بد دهان </heading></p>"
+        },
+        {
+          "paragraphId": 627883585,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"849\">امام صادق عليه السّلام: مسواك زدن، ديده را جلا مى‌دهد و سرمه، بوى بد دهان را مى‌برد.</p>"
+        },
+        {
+          "paragraphId": 627883586,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"850\"><page number=\"75\"/><heading level=\"1\"><format class=\"BM\">دستگاه گوارش </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "74",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p842\" paragraph-id=\"842\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo74\">74</span>\n    <strong style=\"0\" class=\"h-2 02\">برخى از عوامل بيمارى‌هاى دهان و دندان </strong>\n  </p>\n  <p id=\"p843\" paragraph-id=\"843\" class=\" G\">امام صادق عليه السّلام: از مسواك زدن در حمّام، حذر كن؛ چراكه وباى دندان‌ها را در پى مى‌آورد.</p>\n  <p id=\"p844\" paragraph-id=\"844\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">آنچه براى درمان دندان‌درد سودمند است </strong>\n  </p>\n  <p id=\"p845\" paragraph-id=\"845\" class=\" G\">طب الأئمة عليه السّلام - به نقل از محمّد بن ابى نصر، از پدرش، از امام صادق عليه السّلام -: نزد امام عليه السّلام از ناآرامى سر و دندان‌هايم و از دردى شديد در چشم‌هايم - تا جايى كه صورتم در اثر آن ورم كرده بود - اظهار ناراحتى كردم.</p>\n  <p id=\"p846\" paragraph-id=\"846\" class=\" G\">فرمود: «بر تو باد اين كاسنى. آن را بفشر و آبش را بگير و از اين شكر طبرزد، به مقدار فراوان، بر آن بريزد؛ چراكه درد را تسكين دهد و ضرر آن را دفع كند».</p>\n  <p id=\"p847\" paragraph-id=\"847\" class=\" G\">من به خانه‌ى خود رفتم و همان شب، پيش از آنكه بخوابم، اين دارو را ساختم و خوردم و بر آن خوابيدم. صبح كه شد، به حمد و منّت الهى بهبود يافته بودم.</p>\n  <p id=\"p848\" paragraph-id=\"848\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">سودمند براى درمان و رفع بوى بد دهان </strong>\n  </p>\n  <p id=\"p849\" paragraph-id=\"849\" class=\" G\">امام صادق عليه السّلام: مسواك زدن، ديده را جلا مى‌دهد و سرمه، بوى بد دهان را مى‌برد.</p>\n  <p id=\"p850\" paragraph-id=\"850\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "6D241041-FD29-4C1B-9B2B-83F2E788A986",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

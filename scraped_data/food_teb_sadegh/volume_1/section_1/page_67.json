@@ -1,0 +1,86 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 67,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883512,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"776\"><page number=\"66\"/><page number=\"67\"/><heading level=\"1\"><format class=\"BM\">گوش </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883513,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"777\"><heading level=\"2\">اشاره به حكمت نهفته در آن </heading></p>"
+        },
+        {
+          "paragraphId": 627883514,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"778\">امام صادق عليه السّلام - خطاب به مفضّل بن عمر -: اى مفضل! بينديش... كه چرا درون گوش، به‌سان يك زندان پيچ‌درپيچ است‌؟ مگر جز براى آن است كه صدا در آن، پياپى روان شود و سرانجام، به شنوايى برسد، و نيز براى آنكه شتاب باد را درهم شكند و به گوش، صدمه نرساند.</p>"
+        },
+        {
+          "paragraphId": 627883515,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"779\"><heading level=\"2\">حكمت موجود در مايع گوش </heading></p>"
+        },
+        {
+          "paragraphId": 627883516,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"780\">امام صادق عليه السّلام: خداوند - تبارك و تعالى -... گوش‌ها را تلخ قرار داد؛ و اگر اين نبود، جنبندگان بر آن هجوم مى‌بردند و مغز وى را مى‌خوردند.</p>"
+        },
+        {
+          "paragraphId": 627883517,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"781\">امام صادق عليه السّلام: خداوند، از سر منّت، بر آدمى در گوش وى، تلخى قرار داد؛ و اگر اين نبود، جنبندگان، بدان درمى‌آمدند و مغز وى را مى‌خوردند.</p>"
+        },
+        {
+          "paragraphId": 627883518,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"782\">امام صادق عليه السّلام: خداوند عزّ و جل گوش‌ها را تلخ قرار داد تا هرچه بدان‌ها در مى‌آيد، بميرد؛ و اگر اين نبود، حشرات [خزنده] آدمى‌زاده را مى‌كشتند.</p>"
+        },
+        {
+          "paragraphId": 627883519,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"783\"><heading level=\"2\">اشاره به <format class=\"BM\">حكمت نهفته در بينى </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883520,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"784\">امام صادق عليه السّلام: سوراخ بينى، در پايين آن قرار داده شده است تا بيمارى (عفونت) هايى كه از مغز فرومى‌آيد، از آن پايين بيايد و بوها از آن بالا برود و <page number=\"68\"/> به مشام برسد، درحالى‌كه اگر اين سوراخ در بالاى بينى بود، نه بيمارى‌اى از آن به زير مى‌آمد و نه بويى را حس مى‌كرد.</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "67",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p776\" paragraph-id=\"776\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo67\">67</span>\n    <strong style=\"0\" class=\"h-1 01\">\n      <span class=\"BM\">گوش </span>\n    </strong>\n  </p>\n  <p id=\"p777\" paragraph-id=\"777\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">اشاره به حكمت نهفته در آن </strong>\n  </p>\n  <p id=\"p778\" paragraph-id=\"778\" class=\" G\">امام صادق عليه السّلام - خطاب به مفضّل بن عمر -: اى مفضل! بينديش... كه چرا درون گوش، به‌سان يك زندان پيچ‌درپيچ است‌؟ مگر جز براى آن است كه صدا در آن، پياپى روان شود و سرانجام، به شنوايى برسد، و نيز براى آنكه شتاب باد را درهم شكند و به گوش، صدمه نرساند.</p>\n  <p id=\"p779\" paragraph-id=\"779\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">حكمت موجود در مايع گوش </strong>\n  </p>\n  <p id=\"p780\" paragraph-id=\"780\" class=\" G\">امام صادق عليه السّلام: خداوند - تبارك و تعالى -... گوش‌ها را تلخ قرار داد؛ و اگر اين نبود، جنبندگان بر آن هجوم مى‌بردند و مغز وى را مى‌خوردند.</p>\n  <p id=\"p781\" paragraph-id=\"781\" class=\" G\">امام صادق عليه السّلام: خداوند، از سر منّت، بر آدمى در گوش وى، تلخى قرار داد؛ و اگر اين نبود، جنبندگان، بدان درمى‌آمدند و مغز وى را مى‌خوردند.</p>\n  <p id=\"p782\" paragraph-id=\"782\" class=\" G\">امام صادق عليه السّلام: خداوند عزّ و جل گوش‌ها را تلخ قرار داد تا هرچه بدان‌ها در مى‌آيد، بميرد؛ و اگر اين نبود، حشرات [خزنده] آدمى‌زاده را مى‌كشتند.</p>\n  <p id=\"p783\" paragraph-id=\"783\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">اشاره به <span class=\"BM\">حكمت نهفته در بينى </span></strong>\n  </p>\n  <p id=\"p784\" paragraph-id=\"784\" class=\" G\">امام صادق عليه السّلام: سوراخ بينى، در پايين آن قرار داده شده است تا بيمارى (عفونت) هايى كه از مغز فرومى‌آيد، از آن پايين بيايد و بوها از آن بالا برود و </p>\n</div>",
+      "bookPageVisitLogId": "08D61E45-6AFA-476C-B3B5-EB421129BF17",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

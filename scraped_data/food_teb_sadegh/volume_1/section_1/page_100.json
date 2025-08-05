@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 100,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883690,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1105\"><page number=\"100\"/><heading level=\"3\"><format class=\"BM\">كوتاه كردن ناخن </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883691,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1106\">امام صادق عليه السّلام: پوشيده‌ترين و پنهان‌ترين جايى كه شيطان براى چيره شدن بر آدميزاد مى‌يابد، اين است كه در زير ناخن‌ها جاى گيرد.</p>"
+        },
+        {
+          "paragraphId": 627883692,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1107\">امام صادق عليه السّلام: كوتاه كردن ناخن‌ها از سنت است.</p>"
+        },
+        {
+          "paragraphId": 627883693,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1108\">امام صادق عليه السّلام: كوتاه كردن ناخن‌ها، گرفتن سبيل و تراشيدن [موى] عانه در احرام، از سنّت است.</p>"
+        },
+        {
+          "paragraphId": 627883694,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1109\"><heading level=\"3\"><format class=\"BM\">كوتاه كردن ناخن‌ها در روز جمعه </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883695,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1110\">امام صادق عليه السّلام: گرفتن سبيل و ناخن‌ها از جمعه تا جمعه، مايه‌ى ايمنى از جذام است.</p>"
+        },
+        {
+          "paragraphId": 627883696,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1111\">امام صادق عليه السّلام: در هر جمعه، اندكى از سبيل و ناخن‌هاى خود را بگير؛ و اگر هم چيزى وجود نداشته باشد، جاى آن را بساى، تا ديوانگى و جذام و پيسى به تو نرسد.</p>"
+        },
+        {
+          "paragraphId": 627883697,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1112\"><heading level=\"3\"><format class=\"BM\">دفن ناخن‌هاى گرفته شده </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883698,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1113\">امام صادق عليه السّلام: در تفسير آيه‌ى (مگر زمين را محل اجتماع نگردانيديم، چه براى زندگان، چه براى مردگان‌؟) -: مقصود به خاك سپردن مو و ناخن است.</p>"
+        },
+        {
+          "paragraphId": 627883699,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1114\">امام صادق عليه السّلام: مرد، چون ناخن و موى خود را مى‌گيرد، آنچه را گرفته است، به خاك بسپارد؛ و اين كار، سنت (مستحب) است.</p>"
+        },
+        {
+          "paragraphId": 627883700,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1115\"><page number=\"101\"/><heading level=\"1\"><format class=\"BM\">استخوان‌ها </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "100",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1105\" paragraph-id=\"1105\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo100\">100</span>\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"BM\">كوتاه كردن ناخن </span>\n    </strong>\n  </p>\n  <p id=\"p1106\" paragraph-id=\"1106\" class=\" G\">امام صادق عليه السّلام: پوشيده‌ترين و پنهان‌ترين جايى كه شيطان براى چيره شدن بر آدميزاد مى‌يابد، اين است كه در زير ناخن‌ها جاى گيرد.</p>\n  <p id=\"p1107\" paragraph-id=\"1107\" class=\" G\">امام صادق عليه السّلام: كوتاه كردن ناخن‌ها از سنت است.</p>\n  <p id=\"p1108\" paragraph-id=\"1108\" class=\" G\">امام صادق عليه السّلام: كوتاه كردن ناخن‌ها، گرفتن سبيل و تراشيدن [موى] عانه در احرام، از سنّت است.</p>\n  <p id=\"p1109\" paragraph-id=\"1109\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"BM\">كوتاه كردن ناخن‌ها در روز جمعه </span>\n    </strong>\n  </p>\n  <p id=\"p1110\" paragraph-id=\"1110\" class=\" G\">امام صادق عليه السّلام: گرفتن سبيل و ناخن‌ها از جمعه تا جمعه، مايه‌ى ايمنى از جذام است.</p>\n  <p id=\"p1111\" paragraph-id=\"1111\" class=\" G\">امام صادق عليه السّلام: در هر جمعه، اندكى از سبيل و ناخن‌هاى خود را بگير؛ و اگر هم چيزى وجود نداشته باشد، جاى آن را بساى، تا ديوانگى و جذام و پيسى به تو نرسد.</p>\n  <p id=\"p1112\" paragraph-id=\"1112\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"BM\">دفن ناخن‌هاى گرفته شده </span>\n    </strong>\n  </p>\n  <p id=\"p1113\" paragraph-id=\"1113\" class=\" G\">امام صادق عليه السّلام: در تفسير آيه‌ى (مگر زمين را محل اجتماع نگردانيديم، چه براى زندگان، چه براى مردگان‌؟) -: مقصود به خاك سپردن مو و ناخن است.</p>\n  <p id=\"p1114\" paragraph-id=\"1114\" class=\" G\">امام صادق عليه السّلام: مرد، چون ناخن و موى خود را مى‌گيرد، آنچه را گرفته است، به خاك بسپارد؛ و اين كار، سنت (مستحب) است.</p>\n  <p id=\"p1115\" paragraph-id=\"1115\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "AB6E4400-9ACA-46C5-A88E-2DAAC65E1BB9",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

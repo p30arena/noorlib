@@ -1,0 +1,116 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 79,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883107,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"871\">در روايتى ديگر است كه فرمود: «[خرما] گوارا و سبك مى‌كند، و<page number=\"79\"/> خستگى را مى‌برد و سير مى‌كند».</p>"
+        },
+        {
+          "paragraphId": 627883108,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"872\"><heading level=\"3\"><format class=\"VD\">سويق </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883109,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"873\">امام صادق عليه السّلام: سويق (قاووت گندم يا جو)، كلّه‌پاچه را هضم مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627883110,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"874\"><heading level=\"3\">به پشت دراز كشيدن پس از غذا خوردن </heading></p>"
+        },
+        {
+          "paragraphId": 627883111,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"875\">امام صادق عليه السّلام: به پشت دراز كشيدن پس از غذا خوردن، بدن را چاق مى‌كند، غذا را گوارا مى‌سازد و درد را [از درون انسان] بيرون مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627883112,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"876\"><heading level=\"2\">عوامل پالايش و تقويت معده</heading></p>"
+        },
+        {
+          "paragraphId": 627883113,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"877\"><heading level=\"3\"><format class=\"VD\">سيب </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883114,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"878\">امام صادق عليه السّلام: سيب، پالاينده و خوش‌بوكنندۀ معده است.</p>"
+        },
+        {
+          "paragraphId": 627883115,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"879\"><heading level=\"3\"><format class=\"VD\">انار </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883116,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"880\">امام صادق عليه السّلام: انار ملس را با پيه آن بخوريد؛ چراكه معده را پاك مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627883117,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"881\">طبّ الأئمة عليه السّلام - به نقل از حارث بن مغيره -: از سنگينى‌اى كه در قلبم احساس مى‌كردم و از بدگوارى و سوءهاضمه‌اى كه داشتم، نزد امام صادق عليه السّلام اظهار ناراحتى كردم. فرمود: «از اين انار شيرين، ميل كن و آن را با پيه‌اش بخور؛ چراكه معده را كاملا پاك مى‌كند، بدگوارى را درمان مى‌سازد، غذا را هضم مى‌كند و در درون بدن، تسبيح مى‌گويد».</p>"
+        },
+        {
+          "paragraphId": 627883118,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"882\"><heading level=\"3\"><format class=\"VD\">گلابى </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883119,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"883\">امام صادق عليه السّلام: گلابى، معده را مى‌پالايد و تقويت مى‌كند و با به، همگون است. خوردنش روى غذا سودمندتر است تا چاشت‌ناخورده. هركس هم كه احساس سنگينى مى‌كند، از آن [بر روى غذا] بخورد.</p>"
+        },
+        {
+          "paragraphId": 627883120,
+          "paragNumber": 14,
+          "tocNumber": 0,
+          "text": "<p id=\"884\"><page number=\"80\"/><heading level=\"3\">به </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "79",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p871\" paragraph-id=\"871\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo79\">79</span> خستگى را مى‌برد و سير مى‌كند».</p>\n  <p id=\"p872\" paragraph-id=\"872\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">سويق </span>\n    </strong>\n  </p>\n  <p id=\"p873\" paragraph-id=\"873\" class=\" G\">امام صادق عليه السّلام: سويق (قاووت گندم يا جو)، كلّه‌پاچه را هضم مى‌كند.</p>\n  <p id=\"p874\" paragraph-id=\"874\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">به پشت دراز كشيدن پس از غذا خوردن </strong>\n  </p>\n  <p id=\"p875\" paragraph-id=\"875\" class=\" G\">امام صادق عليه السّلام: به پشت دراز كشيدن پس از غذا خوردن، بدن را چاق مى‌كند، غذا را گوارا مى‌سازد و درد را [از درون انسان] بيرون مى‌كند.</p>\n  <p id=\"p876\" paragraph-id=\"876\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">عوامل پالايش و تقويت معده</strong>\n  </p>\n  <p id=\"p877\" paragraph-id=\"877\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">سيب </span>\n    </strong>\n  </p>\n  <p id=\"p878\" paragraph-id=\"878\" class=\" G\">امام صادق عليه السّلام: سيب، پالاينده و خوش‌بوكنندۀ معده است.</p>\n  <p id=\"p879\" paragraph-id=\"879\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">انار </span>\n    </strong>\n  </p>\n  <p id=\"p880\" paragraph-id=\"880\" class=\" G\">امام صادق عليه السّلام: انار ملس را با پيه آن بخوريد؛ چراكه معده را پاك مى‌كند.</p>\n  <p id=\"p881\" paragraph-id=\"881\" class=\" G\">طبّ الأئمة عليه السّلام - به نقل از حارث بن مغيره -: از سنگينى‌اى كه در قلبم احساس مى‌كردم و از بدگوارى و سوءهاضمه‌اى كه داشتم، نزد امام صادق عليه السّلام اظهار ناراحتى كردم. فرمود: «از اين انار شيرين، ميل كن و آن را با پيه‌اش بخور؛ چراكه معده را كاملا پاك مى‌كند، بدگوارى را درمان مى‌سازد، غذا را هضم مى‌كند و در درون بدن، تسبيح مى‌گويد».</p>\n  <p id=\"p882\" paragraph-id=\"882\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">گلابى </span>\n    </strong>\n  </p>\n  <p id=\"p883\" paragraph-id=\"883\" class=\" G\">امام صادق عليه السّلام: گلابى، معده را مى‌پالايد و تقويت مى‌كند و با به، همگون است. خوردنش روى غذا سودمندتر است تا چاشت‌ناخورده. هركس هم كه احساس سنگينى مى‌كند، از آن [بر روى غذا] بخورد.</p>\n  <p id=\"p884\" paragraph-id=\"884\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "71F6BA44-2DF9-4E49-9698-7861422041BD",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 131,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883997,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1412\"><page number=\"130\"/><page number=\"131\"/><heading level=\"2\">درمان با ميوه‌ها و گياهان دارويى</heading></p>"
+        },
+        {
+          "paragraphId": 627883998,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1413\"><heading level=\"3\"><format class=\"VD\">ترنج </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883999,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1414\"><heading level=\"4\">خوردن ترنج پس از غذا </heading></p>"
+        },
+        {
+          "paragraphId": 627884000,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1415\">الكافى - به نقل از عبد اللّه بن ابراهيم جعفرى -: امام صادق عليه السّلام فرمود : «پزشكان شما دربارۀ ترنج چه دستور مى‌دهند؟».</p>"
+        },
+        {
+          "paragraphId": 627884001,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1416\">گفتم: دستور مى‌دهند كه آن را پيش از غذا بخوريم.</p>"
+        },
+        {
+          "paragraphId": 627884002,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1417\">فرمود: «امّا من، شما را به خوردن آن پس از غذا فرمان مى‌دهم».</p>"
+        },
+        {
+          "paragraphId": 627884003,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1418\">الكافى - به نقل از ابراهيم بن عمر يمانى -: به امام صادق عليه السّلام گفتم: آنان مدّعى‌اند كه بهترين وضعيّت براى خوردن ترنج، حالت ناشتاست.</p>"
+        },
+        {
+          "paragraphId": 627884004,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1419\">امام صادق عليه السّلام فرمود: «اگر پيش از غذا خوب باشد، پس از غذا به مراتب بهتر و پسنديده‌تر است».</p>"
+        },
+        {
+          "paragraphId": 627884005,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1420\">امام صادق عليه السّلام: ترنج را پس از غذا بخوريد؛ چراكه خاندان محمّد صلّى اللّه عليه و سلّم چنين مى‌كنند.</p>"
+        },
+        {
+          "paragraphId": 627884006,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1421\"><heading level=\"4\">آنچه ترنج را هضم مى‌كند </heading></p>"
+        },
+        {
+          "paragraphId": 627884007,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1422\">الكافى - به نقل از ابو بصير -: ميهمانى داشتم كه به ترنج همراه با عسل، اظهار تمايل كرد. آن را به او دادم و خود نيز با وى خوردم. سپس نزد امام<page number=\"132\"/> صادق عليه السّلام رفتيم و ديديم كه سفره‌اى نزد ايشان گشوده است. به من فرمود: </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "131",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1412\" paragraph-id=\"1412\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo131\">131</span>\n    <strong style=\"0\" class=\"h-2 02\">درمان با ميوه‌ها و گياهان دارويى</strong>\n  </p>\n  <p id=\"p1413\" paragraph-id=\"1413\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">\n      <span class=\"VD\">ترنج </span>\n    </strong>\n  </p>\n  <p id=\"p1414\" paragraph-id=\"1414\" class=\" G\">\n    <strong style=\"0\" class=\"h-4 04\">خوردن ترنج پس از غذا </strong>\n  </p>\n  <p id=\"p1415\" paragraph-id=\"1415\" class=\" G\">الكافى - به نقل از عبد اللّه بن ابراهيم جعفرى -: امام صادق عليه السّلام فرمود : «پزشكان شما دربارۀ ترنج چه دستور مى‌دهند؟».</p>\n  <p id=\"p1416\" paragraph-id=\"1416\" class=\" G\">گفتم: دستور مى‌دهند كه آن را پيش از غذا بخوريم.</p>\n  <p id=\"p1417\" paragraph-id=\"1417\" class=\" G\">فرمود: «امّا من، شما را به خوردن آن پس از غذا فرمان مى‌دهم».</p>\n  <p id=\"p1418\" paragraph-id=\"1418\" class=\" G\">الكافى - به نقل از ابراهيم بن عمر يمانى -: به امام صادق عليه السّلام گفتم: آنان مدّعى‌اند كه بهترين وضعيّت براى خوردن ترنج، حالت ناشتاست.</p>\n  <p id=\"p1419\" paragraph-id=\"1419\" class=\" G\">امام صادق عليه السّلام فرمود: «اگر پيش از غذا خوب باشد، پس از غذا به مراتب بهتر و پسنديده‌تر است».</p>\n  <p id=\"p1420\" paragraph-id=\"1420\" class=\" G\">امام صادق عليه السّلام: ترنج را پس از غذا بخوريد؛ چراكه خاندان محمّد صلّى اللّه عليه و سلّم چنين مى‌كنند.</p>\n  <p id=\"p1421\" paragraph-id=\"1421\" class=\" G\">\n    <strong style=\"0\" class=\"h-4 04\">آنچه ترنج را هضم مى‌كند </strong>\n  </p>\n  <p id=\"p1422\" paragraph-id=\"1422\" class=\" G\">الكافى - به نقل از ابو بصير -: ميهمانى داشتم كه به ترنج همراه با عسل، اظهار تمايل كرد. آن را به او دادم و خود نيز با وى خوردم. سپس نزد امام</p>\n</div>",
+      "bookPageVisitLogId": "C7FF0667-7B7E-4C0D-8574-F507D5E9A5E0",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

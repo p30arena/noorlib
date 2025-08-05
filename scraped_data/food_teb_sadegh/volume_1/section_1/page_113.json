@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 113,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883815,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1230\"><page number=\"113\"/><heading level=\"5\"><format class=\"BM\">بوى خوش </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883816,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1231\">امام صادق عليه السّلام: بوى خوش، قلب را استوارى مى‌بخشد و بر توان جنسى مى‌افزايد.</p>"
+        },
+        {
+          "paragraphId": 627883817,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1232\"><heading level=\"5\"><format class=\"BM\">سرمه كشيدن </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883818,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1233\">امام صادق عليه السّلام: سرمه، توان همبسترى را افزون مى‌سازد.</p>"
+        },
+        {
+          "paragraphId": 627883819,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1234\">امام صادق عليه السّلام: سرمه، توان همبسترى را افزايش مى‌دهد. حنا نيز بر آن مى‌افزايد.</p>"
+        },
+        {
+          "paragraphId": 627883820,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1235\"><heading level=\"4\"><format class=\"BM\">آنچه از توان جنسى مى‌كاهد </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883821,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1236\">الكافى - به نقل از سنان بن سدير -: درحالى‌كه كفش سياه پوشيده بودم، بر امام صادق عليه السّلام وارد شدم.</p>"
+        },
+        {
+          "paragraphId": 627883822,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1237\">فرمود: «اى حنّان! تو را به رنگ سياه چه كار!؟ آيا نمى‌دانى كه در آن، سه ويژگى است: ديده را ضعيف مى‌كند، آلت را سست مى‌سازد و پيرى مى‌آورد و افزون بر اين جامه‌ى جباران است‌؟»</p>"
+        },
+        {
+          "paragraphId": 627883823,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1238\">گفتم: پس چه پاى‌افزارى بپوشم‌؟</p>"
+        },
+        {
+          "paragraphId": 627883824,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1239\">فرمود: «بر تو باد زرد؛ چراكه در آن، سه ويژگى است: ديده را جلا مى‌دهد، آلت را استحكام مى‌بخشد، و اندوه را از انسان دور مى‌كند و افزون بر اين از جامه‌ى پيامبران است.»</p>"
+        },
+        {
+          "paragraphId": 627883825,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1240\"><page number=\"114\"/><page number=\"115\"/><heading level=\"1\"><format class=\"BM\">آداب خوردن و مصرف خوراكى‌ها </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "113",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1230\" paragraph-id=\"1230\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo113\">113</span>\n    <strong style=\"0\" class=\"h-5 05\">\n      <span class=\"BM\">بوى خوش </span>\n    </strong>\n  </p>\n  <p id=\"p1231\" paragraph-id=\"1231\" class=\" G\">امام صادق عليه السّلام: بوى خوش، قلب را استوارى مى‌بخشد و بر توان جنسى مى‌افزايد.</p>\n  <p id=\"p1232\" paragraph-id=\"1232\" class=\" G\">\n    <strong style=\"0\" class=\"h-5 05\">\n      <span class=\"BM\">سرمه كشيدن </span>\n    </strong>\n  </p>\n  <p id=\"p1233\" paragraph-id=\"1233\" class=\" G\">امام صادق عليه السّلام: سرمه، توان همبسترى را افزون مى‌سازد.</p>\n  <p id=\"p1234\" paragraph-id=\"1234\" class=\" G\">امام صادق عليه السّلام: سرمه، توان همبسترى را افزايش مى‌دهد. حنا نيز بر آن مى‌افزايد.</p>\n  <p id=\"p1235\" paragraph-id=\"1235\" class=\" G\">\n    <strong style=\"0\" class=\"h-4 04\">\n      <span class=\"BM\">آنچه از توان جنسى مى‌كاهد </span>\n    </strong>\n  </p>\n  <p id=\"p1236\" paragraph-id=\"1236\" class=\" G\">الكافى - به نقل از سنان بن سدير -: درحالى‌كه كفش سياه پوشيده بودم، بر امام صادق عليه السّلام وارد شدم.</p>\n  <p id=\"p1237\" paragraph-id=\"1237\" class=\" G\">فرمود: «اى حنّان! تو را به رنگ سياه چه كار!؟ آيا نمى‌دانى كه در آن، سه ويژگى است: ديده را ضعيف مى‌كند، آلت را سست مى‌سازد و پيرى مى‌آورد و افزون بر اين جامه‌ى جباران است‌؟»</p>\n  <p id=\"p1238\" paragraph-id=\"1238\" class=\" G\">گفتم: پس چه پاى‌افزارى بپوشم‌؟</p>\n  <p id=\"p1239\" paragraph-id=\"1239\" class=\" G\">فرمود: «بر تو باد زرد؛ چراكه در آن، سه ويژگى است: ديده را جلا مى‌دهد، آلت را استحكام مى‌بخشد، و اندوه را از انسان دور مى‌كند و افزون بر اين از جامه‌ى پيامبران است.»</p>\n  <p id=\"p1240\" paragraph-id=\"1240\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "FF0F58B3-BF6B-40A6-AFB7-D1558FDA76DA",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

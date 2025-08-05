@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 31,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883087,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"502\"><page number=\"31\"/><heading level=\"2\"><format class=\"BM\">دارو و درمان، از تقدير است </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883088,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"503\">امام صادق عليه السّلام: پيامبرى از پيامبران بيمار شد. گفت: درمان نمى‌كنم تا همان كسى كه بيمارم كرده است، خود، درمانم كند. خداوند عزّ و جلّ به او وحى فرستاد: «شفايت نمى‌دهم، مگر درمان كنى، كه شفا از من است».</p>"
+        },
+        {
+          "paragraphId": 627883089,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"504\"><heading level=\"2\"><format class=\"BM\">شفا از خداوند است </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883090,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"505\">امام صادق عليه السّلام: در گذشته، پزشك، «معالج» ناميده مى‌شد. در آن روزگاران، موسى بن عمران عليه السّلام پرسيد: پروردگارا! درد از كيست‌؟</p>"
+        },
+        {
+          "paragraphId": 627883091,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"506\">فرمود: «از من».</p>"
+        },
+        {
+          "paragraphId": 627883092,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"507\">پرسيد: «پس درمان از كيست‌؟»</p>"
+        },
+        {
+          "paragraphId": 627883093,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"508\">فرمود: «از من».</p>"
+        },
+        {
+          "paragraphId": 627883094,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"509\">پرسيد: پس مردم با معالج چه مى‌كنند؟</p>"
+        },
+        {
+          "paragraphId": 627883095,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"510\">فرمود: «او به اين كار، دل آنان را خوش و خرسند مى‌سازد. پس از همين روى، او را طبيب نام نهادند».</p>"
+        },
+        {
+          "paragraphId": 627883247,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"511\">دعائم الاسلام: امام صادق عليه السّلام در مورد اينكه مردى را يك يهودى يا مسيحى درمان كند، پرسيدند، فرمود: «در اين كار، اشكالى نيست. شفا به دست خداوند متعال است».</p>"
+        },
+        {
+          "paragraphId": 627883248,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"512\"><page number=\"32\"/><page number=\"33\"/><heading level=\"1\"><format class=\"BM\">آداب طبابت و وظايف طبيب </format></heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "31",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p502\" paragraph-id=\"502\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo31\">31</span>\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BM\">دارو و درمان، از تقدير است </span>\n    </strong>\n  </p>\n  <p id=\"p503\" paragraph-id=\"503\" class=\" G\">امام صادق عليه السّلام: پيامبرى از پيامبران بيمار شد. گفت: درمان نمى‌كنم تا همان كسى كه بيمارم كرده است، خود، درمانم كند. خداوند عزّ و جلّ به او وحى فرستاد: «شفايت نمى‌دهم، مگر درمان كنى، كه شفا از من است».</p>\n  <p id=\"p504\" paragraph-id=\"504\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">\n      <span class=\"BM\">شفا از خداوند است </span>\n    </strong>\n  </p>\n  <p id=\"p505\" paragraph-id=\"505\" class=\" G\">امام صادق عليه السّلام: در گذشته، پزشك، «معالج» ناميده مى‌شد. در آن روزگاران، موسى بن عمران عليه السّلام پرسيد: پروردگارا! درد از كيست‌؟</p>\n  <p id=\"p506\" paragraph-id=\"506\" class=\" G\">فرمود: «از من».</p>\n  <p id=\"p507\" paragraph-id=\"507\" class=\" G\">پرسيد: «پس درمان از كيست‌؟»</p>\n  <p id=\"p508\" paragraph-id=\"508\" class=\" G\">فرمود: «از من».</p>\n  <p id=\"p509\" paragraph-id=\"509\" class=\" G\">پرسيد: پس مردم با معالج چه مى‌كنند؟</p>\n  <p id=\"p510\" paragraph-id=\"510\" class=\" G\">فرمود: «او به اين كار، دل آنان را خوش و خرسند مى‌سازد. پس از همين روى، او را طبيب نام نهادند».</p>\n  <p id=\"p511\" paragraph-id=\"511\" class=\" G\">دعائم الاسلام: امام صادق عليه السّلام در مورد اينكه مردى را يك يهودى يا مسيحى درمان كند، پرسيدند، فرمود: «در اين كار، اشكالى نيست. شفا به دست خداوند متعال است».</p>\n  <p id=\"p512\" paragraph-id=\"512\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "A0841D29-FFD0-459D-A70D-202E35A9A504",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

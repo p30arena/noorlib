@@ -1,0 +1,110 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 55,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883427,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"691\"><page number=\"55\"/><heading level=\"2\">آنچه بر توان ذهن مى‌افزايد </heading></p>"
+        },
+        {
+          "paragraphId": 627883428,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"692\">امام صادق عليه السّلام: انار را با پيه آن بخوريد؛ چراكه معده را مى‌پالايد و ذهن را افزون مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627883429,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"693\"><heading level=\"2\">سودمند براى پيشگيرى از فراموشى </heading></p>"
+        },
+        {
+          "paragraphId": 627883430,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"694\">امام صادق عليه السّلام: سه چيز، فراموشى را از ميان مى‌برد و حافظه را بار مى‌آورد: قرائت قرآن، مسواك زدن و روزه گرفتن.</p>"
+        },
+        {
+          "paragraphId": 627883431,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"695\"><heading level=\"2\">آنچه اعصاب را استحكام مى‌بخشد </heading></p>"
+        },
+        {
+          "paragraphId": 627883432,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"696\">پيامبر خدا (ص) فرمود: به نام خدا طعام را بخوريد، مويز چه نيكو خوراكى است كه اعصاب را استحكام مى‌بخشد!...</p>"
+        },
+        {
+          "paragraphId": 627883433,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"697\"><heading level=\"2\">خوردن گوشت گوسفند همراه با شير </heading></p>"
+        },
+        {
+          "paragraphId": 627883434,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"698\">امام صادق عليه السّلام: هركس به ضعفى در قلب يا بدن خويش گرفتار آمد، گوشت گوسفند همراه با شير بخورد؛ چراكه اين خوراك، هر درد و عارضه‌اى را از اندام وى بيرون مى‌برد، تن او را تقويت مى‌كند و لثه‌هاى او را نيز استحكام مى‌دهد.</p>"
+        },
+        {
+          "paragraphId": 627883435,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"699\"><heading level=\"2\">سودمند براى سردرد</heading></p>"
+        },
+        {
+          "paragraphId": 627883436,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"700\"><heading level=\"3\">شستن سر با خطمى </heading></p>"
+        },
+        {
+          "paragraphId": 627883437,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"701\">امام صادق عليه السّلام: شستن سر با خطمى، مايه‌ى ايمنى از سردرد است.</p>"
+        },
+        {
+          "paragraphId": 627883438,
+          "paragNumber": 12,
+          "tocNumber": 0,
+          "text": "<p id=\"702\"><heading level=\"3\">نوشيدن آب نيم‌گرم (ولرم) </heading></p>"
+        },
+        {
+          "paragraphId": 627883439,
+          "paragNumber": 13,
+          "tocNumber": 0,
+          "text": "<p id=\"703\">امام صادق عليه السّلام: پيامبر خدا به هنگام افطار، با حلوايى آغاز مى‌كرد و بدان، روزه مى‌گشود. اگر حلوا نمى‌يافت، با شكرينه‌اى ديگر يا چند دانه خرما؛ و اگر نيز يافت نمى‌شد، با آب نيم‌گرم. آن‌گاه مى‌فرمود: «اين، معده و<page number=\"56\"/> جگر را پاك مى‌كند... و سردرد را از ميان مى‌برد».</p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "55",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p691\" paragraph-id=\"691\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo55\">55</span>\n    <strong style=\"0\" class=\"h-2 02\">آنچه بر توان ذهن مى‌افزايد </strong>\n  </p>\n  <p id=\"p692\" paragraph-id=\"692\" class=\" G\">امام صادق عليه السّلام: انار را با پيه آن بخوريد؛ چراكه معده را مى‌پالايد و ذهن را افزون مى‌كند.</p>\n  <p id=\"p693\" paragraph-id=\"693\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">سودمند براى پيشگيرى از فراموشى </strong>\n  </p>\n  <p id=\"p694\" paragraph-id=\"694\" class=\" G\">امام صادق عليه السّلام: سه چيز، فراموشى را از ميان مى‌برد و حافظه را بار مى‌آورد: قرائت قرآن، مسواك زدن و روزه گرفتن.</p>\n  <p id=\"p695\" paragraph-id=\"695\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">آنچه اعصاب را استحكام مى‌بخشد </strong>\n  </p>\n  <p id=\"p696\" paragraph-id=\"696\" class=\" G\">پيامبر خدا (ص) فرمود: به نام خدا طعام را بخوريد، مويز چه نيكو خوراكى است كه اعصاب را استحكام مى‌بخشد!...</p>\n  <p id=\"p697\" paragraph-id=\"697\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">خوردن گوشت گوسفند همراه با شير </strong>\n  </p>\n  <p id=\"p698\" paragraph-id=\"698\" class=\" G\">امام صادق عليه السّلام: هركس به ضعفى در قلب يا بدن خويش گرفتار آمد، گوشت گوسفند همراه با شير بخورد؛ چراكه اين خوراك، هر درد و عارضه‌اى را از اندام وى بيرون مى‌برد، تن او را تقويت مى‌كند و لثه‌هاى او را نيز استحكام مى‌دهد.</p>\n  <p id=\"p699\" paragraph-id=\"699\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">سودمند براى سردرد</strong>\n  </p>\n  <p id=\"p700\" paragraph-id=\"700\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">شستن سر با خطمى </strong>\n  </p>\n  <p id=\"p701\" paragraph-id=\"701\" class=\" G\">امام صادق عليه السّلام: شستن سر با خطمى، مايه‌ى ايمنى از سردرد است.</p>\n  <p id=\"p702\" paragraph-id=\"702\" class=\" G\">\n    <strong style=\"0\" class=\"h-3 03\">نوشيدن آب نيم‌گرم (ولرم) </strong>\n  </p>\n  <p id=\"p703\" paragraph-id=\"703\" class=\" G\">امام صادق عليه السّلام: پيامبر خدا به هنگام افطار، با حلوايى آغاز مى‌كرد و بدان، روزه مى‌گشود. اگر حلوا نمى‌يافت، با شكرينه‌اى ديگر يا چند دانه خرما؛ و اگر نيز يافت نمى‌شد، با آب نيم‌گرم. آن‌گاه مى‌فرمود: «اين، معده و</p>\n</div>",
+      "bookPageVisitLogId": "27E4F81C-2615-4820-86EB-4CB8D31C9714",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

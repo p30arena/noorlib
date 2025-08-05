@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 130,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883997,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1412\"><page number=\"130\"/><page number=\"131\"/><heading level=\"2\">درمان با ميوه‌ها و گياهان دارويى</heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "130",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1412\" paragraph-id=\"1412\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo130\">130</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "2B21579F-A466-4A15-9C6A-DD9A82C49537",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

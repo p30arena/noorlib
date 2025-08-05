@@ -1,0 +1,56 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 164,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884396,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1811\">امام صادق عليه السّلام: بر تو باد كاسنى؛ چراكه آب (منى) را افزون مى‌سازد و<page number=\"164\"/> فرزند را نكو مى‌كند. گرم و مليّن است و پسرزايى را بيشتر مى‌كند.</p>"
+        },
+        {
+          "paragraphId": 627884397,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1812\">امام صادق عليه السّلام: هركس دوست دارد آب (منى) او و فرزندانش فراوان شود، بر خوردن كاسنى، مداومت ورزد.</p>"
+        },
+        {
+          "paragraphId": 627884398,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1813\">الكافى - به نقل از محمّد بن فيض -: همراه با امام صادق عليه السّلام ناهار مى‌خوردم و قدرى سبزى نيز بر سفره بود. در كنار ما پيرمردى بود كه از كاسنى، دورى مى‌گزيد. امام عليه السّلام فرمود: «گويا گمان مى‌كنيد كه كاسنى، سرد است، درحالى‌كه چنين نيست؛ بلكه معتدل است و برترى آن بر ديگر سبزى‌ها، به‌سان برترى ما بر ديگر مردمان است».</p>"
+        },
+        {
+          "paragraphId": 627884399,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1814\"><page number=\"165\"/><heading level=\"1\">توضيح برخى اصطلاحات و مفاهيم متن احاديث </heading></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "164",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1811\" paragraph-id=\"1811\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo164\">164</span> فرزند را نكو مى‌كند. گرم و مليّن است و پسرزايى را بيشتر مى‌كند.</p>\n  <p id=\"p1812\" paragraph-id=\"1812\" class=\" G\">امام صادق عليه السّلام: هركس دوست دارد آب (منى) او و فرزندانش فراوان شود، بر خوردن كاسنى، مداومت ورزد.</p>\n  <p id=\"p1813\" paragraph-id=\"1813\" class=\" G\">الكافى - به نقل از محمّد بن فيض -: همراه با امام صادق عليه السّلام ناهار مى‌خوردم و قدرى سبزى نيز بر سفره بود. در كنار ما پيرمردى بود كه از كاسنى، دورى مى‌گزيد. امام عليه السّلام فرمود: «گويا گمان مى‌كنيد كه كاسنى، سرد است، درحالى‌كه چنين نيست؛ بلكه معتدل است و برترى آن بر ديگر سبزى‌ها، به‌سان برترى ما بر ديگر مردمان است».</p>\n  <p id=\"p1814\" paragraph-id=\"1814\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "41FA3E96-38E1-4813-BA14-C2601B2DDC7C",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

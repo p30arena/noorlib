@@ -1,0 +1,98 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 115,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627883825,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1240\"><page number=\"114\"/><page number=\"115\"/><heading level=\"1\"><format class=\"BM\">آداب خوردن و مصرف خوراكى‌ها </format></heading></p>"
+        },
+        {
+          "paragraphId": 627883826,
+          "paragNumber": 2,
+          "tocNumber": 0,
+          "text": "<p id=\"1241\"><heading level=\"2\">فايده‌هاى باطنى كم‌خورى </heading></p>"
+        },
+        {
+          "paragraphId": 627883827,
+          "paragNumber": 3,
+          "tocNumber": 0,
+          "text": "<p id=\"1242\">امام صادق عليه السّلام: نزديك‌ترين حالت بنده به خداوند عزّ و جل هنگامى است كه شكم وى سبك باشد.</p>"
+        },
+        {
+          "paragraphId": 627883828,
+          "paragNumber": 4,
+          "tocNumber": 0,
+          "text": "<p id=\"1243\">مصباح الشريعة - در حديثى كه به امام صادق عليه السّلام منسوب است -: </p>"
+        },
+        {
+          "paragraphId": 627883829,
+          "paragNumber": 5,
+          "tocNumber": 0,
+          "text": "<p id=\"1244\">كم‌خورى، در ميان هر طايفه‌اى، ستوده است؛ زيرا منفعت باطن و ظاهر، در آن است.</p>"
+        },
+        {
+          "paragraphId": 627883830,
+          "paragNumber": 6,
+          "tocNumber": 0,
+          "text": "<p id=\"1245\"><heading level=\"2\">تشويق به پرهيز غذايى </heading></p>"
+        },
+        {
+          "paragraphId": 627883831,
+          "paragNumber": 7,
+          "tocNumber": 0,
+          "text": "<p id=\"1246\">امام صادق عليه السّلام: خطاب به طبيب هندى: من برتر از آنچه تو همراه دارى، به همراه دارم.... آنچه را پيامبر خدا فرموده است، به كار مى‌گيرم و مى‌دانم كه معده، خانۀ همۀ دردها و پرهيز، يگانه درمان است. نيز بدن را بر آنچه بدان خو مى‌گيرد، عادت مى‌دهم.</p>"
+        },
+        {
+          "paragraphId": 627883832,
+          "paragNumber": 8,
+          "tocNumber": 0,
+          "text": "<p id=\"1247\"><heading level=\"2\">درباره‌ى مدت پرهيز بيمار </heading></p>"
+        },
+        {
+          "paragraphId": 627883833,
+          "paragNumber": 9,
+          "tocNumber": 0,
+          "text": "<p id=\"1248\">معانى الاخبار - از جعفر بن اسماعيل، از مردى، در گفتگو با امام صادق عليه السّلام: از ايشان پرسيدم: بيمار، چند روز پرهيز داده مى‌شود؟</p>"
+        },
+        {
+          "paragraphId": 627883834,
+          "paragNumber": 10,
+          "tocNumber": 0,
+          "text": "<p id=\"1249\">فرمود: «يك دبق».</p>"
+        },
+        {
+          "paragraphId": 627883835,
+          "paragNumber": 11,
+          "tocNumber": 0,
+          "text": "<p id=\"1250\"><page number=\"116\"/>من نمى‌دانستم دبق چيست. از همين روى، دراين‌باره از ايشان پرسيدم. </p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "115",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1240\" paragraph-id=\"1240\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo115\">115</span>\n    <strong style=\"0\" class=\"h-1 01\">\n      <span class=\"BM\">آداب خوردن و مصرف خوراكى‌ها </span>\n    </strong>\n  </p>\n  <p id=\"p1241\" paragraph-id=\"1241\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">فايده‌هاى باطنى كم‌خورى </strong>\n  </p>\n  <p id=\"p1242\" paragraph-id=\"1242\" class=\" G\">امام صادق عليه السّلام: نزديك‌ترين حالت بنده به خداوند عزّ و جل هنگامى است كه شكم وى سبك باشد.</p>\n  <p id=\"p1243\" paragraph-id=\"1243\" class=\" G\">مصباح الشريعة - در حديثى كه به امام صادق عليه السّلام منسوب است -: </p>\n  <p id=\"p1244\" paragraph-id=\"1244\" class=\" G\">كم‌خورى، در ميان هر طايفه‌اى، ستوده است؛ زيرا منفعت باطن و ظاهر، در آن است.</p>\n  <p id=\"p1245\" paragraph-id=\"1245\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">تشويق به پرهيز غذايى </strong>\n  </p>\n  <p id=\"p1246\" paragraph-id=\"1246\" class=\" G\">امام صادق عليه السّلام: خطاب به طبيب هندى: من برتر از آنچه تو همراه دارى، به همراه دارم.... آنچه را پيامبر خدا فرموده است، به كار مى‌گيرم و مى‌دانم كه معده، خانۀ همۀ دردها و پرهيز، يگانه درمان است. نيز بدن را بر آنچه بدان خو مى‌گيرد، عادت مى‌دهم.</p>\n  <p id=\"p1247\" paragraph-id=\"1247\" class=\" G\">\n    <strong style=\"0\" class=\"h-2 02\">درباره‌ى مدت پرهيز بيمار </strong>\n  </p>\n  <p id=\"p1248\" paragraph-id=\"1248\" class=\" G\">معانى الاخبار - از جعفر بن اسماعيل، از مردى، در گفتگو با امام صادق عليه السّلام: از ايشان پرسيدم: بيمار، چند روز پرهيز داده مى‌شود؟</p>\n  <p id=\"p1249\" paragraph-id=\"1249\" class=\" G\">فرمود: «يك دبق».</p>\n  <p id=\"p1250\" paragraph-id=\"1250\" class=\" G\" />\n</div>",
+      "bookPageVisitLogId": "71F7367E-1CAD-46F0-9EEE-9FA286B02B19",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}

@@ -1,0 +1,38 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "pageNumber": 172,
+      "sectionNumber": 1,
+      "hasTextContent": true,
+      "hasImageContent": true,
+      "paragList": [
+        {
+          "paragraphId": 627884435,
+          "paragNumber": 1,
+          "tocNumber": 0,
+          "text": "<p id=\"1850\">*** <page number=\"172\"/><page number=\"173\"/></p>"
+        }
+      ],
+      "taliqehList": null,
+      "footnoteList": null,
+      "pageValue": "172",
+      "isFreeStudy": true,
+      "requestedContentType": "text",
+      "providedContentType": "text",
+      "isEmpty": false,
+      "html": "<div class=\"CODE\">\n  <p id=\"p1850\" paragraph-id=\"1850\" class=\" G\">\n    <span class=\"GPA0 bookPage PageNo172\">172</span>\n  </p>\n</div>",
+      "bookPageVisitLogId": "BCF4E2B5-21BA-4314-B2F1-9F3C1495F77B",
+      "validation": {
+        "code": 1,
+        "type": "successful",
+        "message": "محتوا در دسترس می باشد -  کتاب یا محدوده رایگان"
+      }
+    }
+  ],
+  "totalCount": 1,
+  "statusCode": 200,
+  "message": "OK",
+  "exception": null,
+  "validationMessages": null
+}
